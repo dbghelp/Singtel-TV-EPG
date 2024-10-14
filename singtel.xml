@@ -1226,7 +1226,7 @@
 	</programme>
 	<programme channel="5003" start="20241015123000 +0000" stop="20241015130000 +0000">
 		<title>空中访民情 2024</title>
-		<desc>走过十年，《空中访民情2024》将出现一辆精心布置的露营车，进驻新加坡各邻里。本地艺人白薇秀通过轻松对谈揭开六位部长鲜为人知的一面，并陪同部长穿街走巷探访民情、倾听民声。新系列从10月15日起，每逢星期二晚上8点30分，通过8频道与mewatch播出。你也可以通过8视界YouTube平台线上观看。</desc>
+		<desc>中学生活大不同！教育部长陈振声和主持人白薇秀来到尚育中学，看看学生如何先学应用再学理念。陈振声也向学生拜师，体验当机长和飞无人机，他能完成任务吗？《空中访民情2024》第一集，陈振声来到露营车做客，并亲自为白薇秀煮了一碗面，娓娓道来他爱物惜物、自立自强的一段成长岁月。</desc>
 	</programme>
 	<programme channel="5003" start="20241015130000 +0000" stop="20241015140000 +0000">
 		<title>不可饶恕的罪恶 Episode 16</title>
@@ -3812,7 +3812,15 @@ Qin Shi is career focused but is always pressured to get married. A top lawyer f
 		<title>End of Transmission</title>
 		<desc>End of Transmission</desc>
 	</programme>
-	<programme channel="4105" start="20241014160000 +0000" stop="20241014220000 +0000">
+	<programme channel="4105" start="20241014160000 +0000" stop="20241014181000 +0000">
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
+	</programme>
+	<programme channel="4105" start="20241014181000 +0000" stop="20241014183000 +0000">
+		<title>The Emirates FA Cup 2024/25 Draw (Live)</title>
+		<desc>The Emirates FA Cup is a knockout competition with teams selected randomly in a Draw which decides which team plays at the home ground and which team plays away.</desc>
+	</programme>
+	<programme channel="4105" start="20241014183000 +0000" stop="20241014220000 +0000">
 		<title>End of Transmission</title>
 		<desc>End of Transmission</desc>
 	</programme>
@@ -3944,11 +3952,19 @@ Qin Shi is career focused but is always pressured to get married. A top lawyer f
 		<title>Closed Episode 101231</title>
 		<desc>Closed</desc>
 	</programme>
-	<programme channel="5112" start="20241014100000 +0000" stop="20241014100000 +0000">
+	<programme channel="5112" start="20241014100000 +0000" stop="20241014120000 +0000">
 		<title>Closed Episode 101231</title>
 		<desc>Closed</desc>
 	</programme>
-	<programme channel="5112" start="20241014100000 +0000" stop="20241014220000 +0000">
+	<programme channel="5112" start="20241014120000 +0000" stop="20241014130000 +0000">
+		<title>Louis Vuitton 37th America's Cup: Match Day 2 & PUIG Women's America's Cup Final (Part 2) (Live) Episode 957587</title>
+		<desc>Louis Vuitton 37th America's Cup: Match Day 2 & PUIG Women's America's Cup Final (Part 2) (Live)</desc>
+	</programme>
+	<programme channel="5112" start="20241014130000 +0000" stop="20241014130000 +0000">
+		<title>Closed Episode 101231</title>
+		<desc>Closed</desc>
+	</programme>
+	<programme channel="5112" start="20241014130000 +0000" stop="20241014220000 +0000">
 		<title>Closed Episode 101231</title>
 		<desc>Closed</desc>
 	</programme>
@@ -4012,9 +4028,25 @@ Qin Shi is career focused but is always pressured to get married. A top lawyer f
 		<title>2024 Ultimate Pool Pairs Cup (Live)</title>
 		<desc>A professional-only ranking event taking place over 21 weeks, the Ultimate Pool Champions League consists of 64 professional players competing in and progressing through 3 phases to be crowned champion.</desc>
 	</programme>
-	<programme channel="6114" start="20241014203000 +0000" stop="20241015043000 +0000">
-		<title>HSBC BWF WTS 500 CLASH ROYALE Arctic Open 2024 Episode 2</title>
-		<desc>The HSBC BWF World Tour attracts the world's elite badminton players in competing for prize money and world ranking points in 30 four-tiered tournaments, culminating in the World Tour Finals in December.</desc>
+	<programme channel="6114" start="20241014203000 +0000" stop="20241014230000 +0000">
+		<title>2024 MLB Postseason ALDS Game 3</title>
+		<desc>12 of the best MLB teams of the Regular Season slug it out through the Wild Card, Division, League Championship and World Series to be crowned kings of the world's best professional baseball league.</desc>
+	</programme>
+	<programme channel="6114" start="20241014230000 +0000" stop="20241014233800 +0000">
+		<title>SPOTV Encore: Artic Open 2023 Finals Episode 2</title>
+		<desc>Recap thrilling badminton action of Artic Open on the HSBC BWF World Tour in 2023.</desc>
+	</programme>
+	<programme channel="6114" start="20241014233800 +0000" stop="20241015023000 +0000">
+		<title>2024 MLB Postseason ALCS Game 1 (Live)</title>
+		<desc>12 of the best MLB teams of the Regular Season slug it out through the Wild Card, Division, League Championship and World Series to be crowned kings of the world's best professional baseball league.</desc>
+	</programme>
+	<programme channel="6114" start="20241015023000 +0000" stop="20241015033000 +0000">
+		<title>2024 WorldSBK Rd 10: Tissot Aragon Round Episode 2</title>
+		<desc>The FIM Superbike World Championship is the leading production motorcycle racing series in the world with over 100 riders from more than 20 countries competing in various classes over 12 rounds.</desc>
+	</programme>
+	<programme channel="6114" start="20241015033000 +0000" stop="20241015043000 +0000">
+		<title>WSL Replay: Ericeira Pro Challenger Series Finals Day Episode 2</title>
+		<desc>Be sure to catch the inspirational power of surfing through the 2024 WSL Championship Tour & Challenger Series.</desc>
 	</programme>
 	<programme channel="6114" start="20241015043000 +0000" stop="20241015080000 +0000">
 		<title>BWF World Junior Mixed Team C'ships 2024</title>
@@ -4072,17 +4104,29 @@ Qin Shi is career focused but is always pressured to get married. A top lawyer f
 		<title>2024 WorldSBK Round 11 Estoril Round</title>
 		<desc>The FIM Superbike World Championship is the leading production motorcycle racing series in the world with over 100 riders from more than 20 countries competing in various classes over 12 rounds.</desc>
 	</programme>
-	<programme channel="6115" start="20241014190000 +0000" stop="20241014220000 +0000">
-		<title>FIG WABERER'S WORLD CUP 2024 Episode 3</title>
-		<desc>The last of five FIG World Challenge Cups in Artistic Gymnastics in 2024 takes place in Szombathely, Hungary.</desc>
-	</programme>
-	<programme channel="6115" start="20241014220000 +0000" stop="20241014223000 +0000">
+	<programme channel="6115" start="20241014190000 +0000" stop="20241014193000 +0000">
 		<title>Rolex Spirit of Yachting Episode 3</title>
 		<desc>From the fast-paced SailGP Grand Prix events to offshore classics such as the Rolex Sydney Hobart Yacht Race, Rolex Spirit of Yachting showcases the foremost sailing competitions around the world.</desc>
 	</programme>
-	<programme channel="6115" start="20241014223000 +0000" stop="20241015053000 +0000">
-		<title>T100 Triathlon World Tour: 2024 IBIZA T100 Episode 2</title>
-		<desc>40 of the world's best female and male professional triathletes battle over 8 breakneck 100km races in iconic locations around the globe in a bid to be crowned the first-ever T100 World Champions.</desc>
+	<programme channel="6115" start="20241014193000 +0000" stop="20241014200800 +0000">
+		<title>MotoGP 2024 Spotlight</title>
+		<desc>MotoGP Spotlight shines on Marc Marquez's long-awaited first MotoGP victory in more than 1,000 days at the 2024 Gran Premio GoPro de Aragon.</desc>
+	</programme>
+	<programme channel="6115" start="20241014200800 +0000" stop="20241014230000 +0000">
+		<title>2024 MLB Postseason NLCS Game 2 (Live)</title>
+		<desc>12 of the best MLB teams of the Regular Season slug it out through the Wild Card, Division, League Championship and World Series to be crowned kings of the world's best professional baseball league.</desc>
+	</programme>
+	<programme channel="6115" start="20241014230000 +0000" stop="20241015020000 +0000">
+		<title>FIG WABERER'S WORLD CUP 2024 Episode 3</title>
+		<desc>The last of five FIG World Challenge Cups in Artistic Gymnastics in 2024 takes place in Szombathely, Hungary.</desc>
+	</programme>
+	<programme channel="6115" start="20241015020000 +0000" stop="20241015050000 +0000">
+		<title>FIG WABERER'S WORLD CUP 2024 Episode 3</title>
+		<desc>The last of five FIG World Challenge Cups in Artistic Gymnastics in 2024 takes place in Szombathely, Hungary.</desc>
+	</programme>
+	<programme channel="6115" start="20241015050000 +0000" stop="20241015053000 +0000">
+		<title>Asia-Pacific Amateur Championship 2024</title>
+		<desc>Established in 2009, the Asia-Pacific Amateur Championship (AAC) grants the champion emerging from an elite 120-player field an invitation to compete in The Open and Masters Tournament.</desc>
 	</programme>
 	<programme channel="6115" start="20241015053000 +0000" stop="20241015083000 +0000">
 		<title>2024 WorldSBK Round 11 Estoril Round</title>
@@ -4641,8 +4685,8 @@ Qin Shi is career focused but is always pressured to get married. A top lawyer f
 		<desc>The Hundred Men 2024: Northern Superchargers vs Trent Rockets</desc>
 	</programme>
 	<programme channel="5123" start="20241015010000 +0000" stop="20241015040000 +0000">
-		<title>The Hundred Women 2024: Welsh Fire vs Northern Superchargers Episode 919410</title>
-		<desc>The Hundred Women 2024: Welsh Fire vs Northern Superchargers</desc>
+		<title>The Hundred Women 2024: Southern Brave vs London Spirit Episode 919397</title>
+		<desc>The Hundred Women 2024: Southern Brave vs London Spirit</desc>
 	</programme>
 	<programme channel="5123" start="20241015040000 +0000" stop="20241015110000 +0000">
 		<title>Sri Lanka Tour Of England 2024: Eng v Sri Lanka 2nd Test Day 4 Episode 930228</title>
@@ -20910,7 +20954,7 @@ Christy、Jessica往潮人集中地肯顿巿集，体验潮流文化和美食！
 		<desc>《东张西望》星期一至日，紧贴追踪社会大事、趣闻逸事，并报导娱乐圈最新动态、艺人消息，以及剧集宣传和花絮。「今日突发」环节为大家追踪即日热门新闻；专题环节，深入探讨大众关心的时事、社会及民生问题，并访问相关的专家。</desc>
 	</programme>
 	<programme channel="5511" start="20241014230000 +0000" stop="20241015000000 +0000">
-		<title>香港早晨 及 世界观 / Good Morning Hong Kong and Global View Episode 262</title>
+		<title>香港早晨 及 世界观 / Good Morning Hong Kong and Global View Episode 263</title>
 		<desc>报导香港、两岸及国际重要新闻。</desc>
 	</programme>
 	<programme channel="5511" start="20241015000000 +0000" stop="20241015010000 +0000">
@@ -30047,7 +30091,7 @@ Christy、Jessica往潮人集中地肯顿巿集，体验潮流文化和美食！
 	</programme>
 	<programme channel="5652" start="20241013193000 +0000" stop="20241013200000 +0000">
 		<title>Mangal Lakshmi Episode 228</title>
-		<desc>Mangal searches for a perfect husband for her sister, Lakshmi, revealing the enduring strength of sisterhood and the power of destiny over this journey.</desc>
+		<desc>A shadowy figure blackmails Adit, demanding 10 lakhs to keep his affair secret. Desperate, Adit scrambles to raise the funds, growing increasingly agitated as he falls short.</desc>
 	</programme>
 	<programme channel="5652" start="20241013200000 +0000" stop="20241013203000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 27</title>
@@ -30055,15 +30099,15 @@ Christy、Jessica往潮人集中地肯顿巿集，体验潮流文化和美食！
 	</programme>
 	<programme channel="5652" start="20241013203000 +0000" stop="20241013210000 +0000">
 		<title>Suman Indori Episode 40</title>
-		<desc>Forced by fate to marry a rich, shrewd politician, Suman embraces obstacles adjusting to her new life while dealing with her sister-in-law who seeks to become the head of the household.</desc>
+		<desc>Teerth and Suman tearfully farewell her kin, wishing Rishi a swift recovery. Meanwhile, upon arrival, Teerth's family reacts with shock and anger at Suman's presence as his bride.</desc>
 	</programme>
 	<programme channel="5652" start="20241013210000 +0000" stop="20241013213000 +0000">
 		<title>Mishri Episode 100</title>
-		<desc>A young girl, adored by her community, finds joy in the happiness of others and strives to fulfil her late father's aspirations by finishing her academic education.</desc>
+		<desc>Mishri visits Raghav's home for his clothes but Sulekha rebuffs her and in a shocking move sets the garments ablaze, proclaiming Raghav's exile from the family due to his marriage.</desc>
 	</programme>
 	<programme channel="5652" start="20241013213000 +0000" stop="20241013220000 +0000">
 		<title>Parineetii Episode 901</title>
-		<desc>Two best friends who support each other through thick and thin face a problem when circumstance causes both of them to get married to the same man.</desc>
+		<desc>Neeti grapples with the devastating blow to her business, certain of foul play. Subsequently, fuelled by rage and suspicion, she swears to uncover the mastermind behind her ruin and exact revenge.</desc>
 	</programme>
 	<programme channel="5652" start="20241013220000 +0000" stop="20241013223000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 475</title>
@@ -30071,11 +30115,11 @@ Christy、Jessica往潮人集中地肯顿巿集，体验潮流文化和美食！
 	</programme>
 	<programme channel="5652" start="20241013223000 +0000" stop="20241013230000 +0000">
 		<title>Suman Indori Episode 40</title>
-		<desc>Forced by fate to marry a rich, shrewd politician, Suman embraces obstacles adjusting to her new life while dealing with her sister-in-law who seeks to become the head of the household.</desc>
+		<desc>Teerth and Suman tearfully farewell her kin, wishing Rishi a swift recovery. Meanwhile, upon arrival, Teerth's family reacts with shock and anger at Suman's presence as his bride.</desc>
 	</programme>
 	<programme channel="5652" start="20241013230000 +0000" stop="20241013232000 +0000">
 		<title>Parineetii Episode 901</title>
-		<desc>Two best friends who support each other through thick and thin face a problem when circumstance causes both of them to get married to the same man.</desc>
+		<desc>Neeti grapples with the devastating blow to her business, certain of foul play. Subsequently, fuelled by rage and suspicion, she swears to uncover the mastermind behind her ruin and exact revenge.</desc>
 	</programme>
 	<programme channel="5652" start="20241013232000 +0000" stop="20241013234000 +0000">
 		<title>Megha Barsenge Episode 68</title>
@@ -30087,19 +30131,19 @@ Christy、Jessica往潮人集中地肯顿巿集，体验潮流文化和美食！
 	</programme>
 	<programme channel="5652" start="20241014000000 +0000" stop="20241014003000 +0000">
 		<title>Mera Balam Thanedaar Episode 203</title>
-		<desc>An amiable girl who believes in supporting the lie if someone benefits for good marries a police officer under unfortunate circumstances.</desc>
+		<desc>Bulbul feels overwhelmed with a sense of admiration when Veer manages to rescue the girls and bring them safely to the temple.</desc>
 	</programme>
 	<programme channel="5652" start="20241014003000 +0000" stop="20241014010000 +0000">
 		<title>Mangal Lakshmi Episode 228</title>
-		<desc>Mangal searches for a perfect husband for her sister, Lakshmi, revealing the enduring strength of sisterhood and the power of destiny over this journey.</desc>
+		<desc>A shadowy figure blackmails Adit, demanding 10 lakhs to keep his affair secret. Desperate, Adit scrambles to raise the funds, growing increasingly agitated as he falls short.</desc>
 	</programme>
 	<programme channel="5652" start="20241014010000 +0000" stop="20241014013000 +0000">
 		<title>Suman Indori Episode 40</title>
-		<desc>Forced by fate to marry a rich, shrewd politician, Suman embraces obstacles adjusting to her new life while dealing with her sister-in-law who seeks to become the head of the household.</desc>
+		<desc>Teerth and Suman tearfully farewell her kin, wishing Rishi a swift recovery. Meanwhile, upon arrival, Teerth's family reacts with shock and anger at Suman's presence as his bride.</desc>
 	</programme>
 	<programme channel="5652" start="20241014013000 +0000" stop="20241014020000 +0000">
 		<title>Mishri Episode 100</title>
-		<desc>A young girl, adored by her community, finds joy in the happiness of others and strives to fulfil her late father's aspirations by finishing her academic education.</desc>
+		<desc>Mishri visits Raghav's home for his clothes but Sulekha rebuffs her and in a shocking move sets the garments ablaze, proclaiming Raghav's exile from the family due to his marriage.</desc>
 	</programme>
 	<programme channel="5652" start="20241014020000 +0000" stop="20241014023000 +0000">
 		<title>Megha Barsenge Episode 68</title>
@@ -30111,47 +30155,47 @@ Christy、Jessica往潮人集中地肯顿巿集，体验潮流文化和美食！
 	</programme>
 	<programme channel="5652" start="20241014030000 +0000" stop="20241014033000 +0000">
 		<title>Suman Indori Episode 40</title>
-		<desc>Forced by fate to marry a rich, shrewd politician, Suman embraces obstacles adjusting to her new life while dealing with her sister-in-law who seeks to become the head of the household.</desc>
+		<desc>Teerth and Suman tearfully farewell her kin, wishing Rishi a swift recovery. Meanwhile, upon arrival, Teerth's family reacts with shock and anger at Suman's presence as his bride.</desc>
 	</programme>
 	<programme channel="5652" start="20241014033000 +0000" stop="20241014040000 +0000">
 		<title>Mangal Lakshmi Episode 228</title>
-		<desc>Mangal searches for a perfect husband for her sister, Lakshmi, revealing the enduring strength of sisterhood and the power of destiny over this journey.</desc>
+		<desc>A shadowy figure blackmails Adit, demanding 10 lakhs to keep his affair secret. Desperate, Adit scrambles to raise the funds, growing increasingly agitated as he falls short.</desc>
 	</programme>
 	<programme channel="5652" start="20241014040000 +0000" stop="20241014043000 +0000">
 		<title>Mera Balam Thanedaar Episode 204</title>
-		<desc>An amiable girl who believes in supporting the lie if someone benefits for good marries a police officer under unfortunate circumstances.</desc>
+		<desc>Bulbul sacrifices her principles to tend to an injured Veer. Later, a deep sense of remorse pushes Bulbul to undertake an extreme step as punishment.</desc>
 	</programme>
 	<programme channel="5652" start="20241014043000 +0000" stop="20241014050000 +0000">
 		<title>Suman Indori Episode 41</title>
-		<desc>Forced by fate to marry a rich, shrewd politician, Suman embraces obstacles adjusting to her new life while dealing with her sister-in-law who seeks to become the head of the household.</desc>
+		<desc>Devika greets Suman cordially, sparking Kritika's fury. Subsequently, Kritika lashes out, striking Devika and berating her for perceived disloyalty.</desc>
 	</programme>
 	<programme channel="5652" start="20241014050000 +0000" stop="20241014052000 +0000">
 		<title>Megha Barsenge Episode 69</title>
-		<desc>After a groom absconds from his wedding, his bride is left at the mercy of her sentiments of abandonment and to endure a judgemental societal structure.</desc>
+		<desc>Manoj's devious plot ensnares Arjun in false molestation charges. Meanwhile, faced with public outrage, Megha staunchly defends Arjun's reputation.</desc>
 	</programme>
 	<programme channel="5652" start="20241014052000 +0000" stop="20241014054000 +0000">
 		<title>Parineetii Episode 902</title>
-		<desc>Two best friends who support each other through thick and thin face a problem when circumstance causes both of them to get married to the same man.</desc>
+		<desc>Drunk Rajeev begs Parineet to reconcile but she rebuffs him, citing his betrayal and murder attempt. Meanwhile, Ambika cautions Parineet to remain firm and urges Neeti to accept Rajeev back.</desc>
 	</programme>
 	<programme channel="5652" start="20241014054000 +0000" stop="20241014060000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 28</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Durga and Rajesh commence their nuptials as Paani Bai feigns sentiment. Meanwhile, Anurag's kin frantically rush to halt the proceedings.</desc>
 	</programme>
 	<programme channel="5652" start="20241014060000 +0000" stop="20241014063000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 476</title>
-		<desc>Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity.</desc>
+		<desc>When Lord Shiva's fury engulfs the cosmos, shaking its core, terrified creatures beseech Ayus to accept the divine marriage proposal, hoping to restore harmony.</desc>
 	</programme>
 	<programme channel="5652" start="20241014063000 +0000" stop="20241014070000 +0000">
 		<title>Mishri Episode 101</title>
-		<desc>A young girl, adored by her community, finds joy in the happiness of others and strives to fulfil her late father's aspirations by finishing her academic education.</desc>
+		<desc>Mishri secretly works as a coolie, hiding her gruelling efforts from Raghav as she strives relentlessly to gather money for their fledgling travel venture.</desc>
 	</programme>
 	<programme channel="5652" start="20241014070000 +0000" stop="20241014073000 +0000">
 		<title>Mangal Lakshmi Episode 229</title>
 		<desc>Mangal searches for a perfect husband for her sister, Lakshmi, revealing the enduring strength of sisterhood and the power of destiny over this journey.</desc>
 	</programme>
 	<programme channel="5652" start="20241014073000 +0000" stop="20241014093000 +0000">
-		<title>Bigg Boss Episode 6</title>
-		<desc>As Bigg Boss delves into the future of the contestants with the cataclysm of technology, the housemates try to conquer 'Time Ka Tandav', and emerge victorious in a locked house in BB's surveillance.</desc>
+		<title>Bigg Boss - Weekend Ka Vaar Episode 6</title>
+		<desc>Host Salman Khan entertains the audience and interacts with the housemates to discuss the various happenings over the week.</desc>
 	</programme>
 	<programme channel="5652" start="20241014093000 +0000" stop="20241014100000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 27</title>
@@ -30159,75 +30203,75 @@ Christy、Jessica往潮人集中地肯顿巿集，体验潮流文化和美食！
 	</programme>
 	<programme channel="5652" start="20241014100000 +0000" stop="20241014103000 +0000">
 		<title>Mera Balam Thanedaar Episode 204</title>
-		<desc>An amiable girl who believes in supporting the lie if someone benefits for good marries a police officer under unfortunate circumstances.</desc>
+		<desc>Bulbul sacrifices her principles to tend to an injured Veer. Later, a deep sense of remorse pushes Bulbul to undertake an extreme step as punishment.</desc>
 	</programme>
 	<programme channel="5652" start="20241014103000 +0000" stop="20241014110000 +0000">
 		<title>Suman Indori Episode 41</title>
-		<desc>Forced by fate to marry a rich, shrewd politician, Suman embraces obstacles adjusting to her new life while dealing with her sister-in-law who seeks to become the head of the household.</desc>
+		<desc>Devika greets Suman cordially, sparking Kritika's fury. Subsequently, Kritika lashes out, striking Devika and berating her for perceived disloyalty.</desc>
 	</programme>
 	<programme channel="5652" start="20241014110000 +0000" stop="20241014112000 +0000">
 		<title>Megha Barsenge Episode 69</title>
-		<desc>After a groom absconds from his wedding, his bride is left at the mercy of her sentiments of abandonment and to endure a judgemental societal structure.</desc>
+		<desc>Manoj's devious plot ensnares Arjun in false molestation charges. Meanwhile, faced with public outrage, Megha staunchly defends Arjun's reputation.</desc>
 	</programme>
 	<programme channel="5652" start="20241014112000 +0000" stop="20241014114000 +0000">
 		<title>Parineetii Episode 902</title>
-		<desc>Two best friends who support each other through thick and thin face a problem when circumstance causes both of them to get married to the same man.</desc>
+		<desc>Drunk Rajeev begs Parineet to reconcile but she rebuffs him, citing his betrayal and murder attempt. Meanwhile, Ambika cautions Parineet to remain firm and urges Neeti to accept Rajeev back.</desc>
 	</programme>
 	<programme channel="5652" start="20241014114000 +0000" stop="20241014120000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 28</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Durga and Rajesh commence their nuptials as Paani Bai feigns sentiment. Meanwhile, Anurag's kin frantically rush to halt the proceedings.</desc>
 	</programme>
 	<programme channel="5652" start="20241014120000 +0000" stop="20241014123000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 476</title>
-		<desc>Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity.</desc>
+		<desc>When Lord Shiva's fury engulfs the cosmos, shaking its core, terrified creatures beseech Ayus to accept the divine marriage proposal, hoping to restore harmony.</desc>
 	</programme>
 	<programme channel="5652" start="20241014123000 +0000" stop="20241014130000 +0000">
 		<title>Mishri Episode 101</title>
-		<desc>A young girl, adored by her community, finds joy in the happiness of others and strives to fulfil her late father's aspirations by finishing her academic education.</desc>
+		<desc>Mishri secretly works as a coolie, hiding her gruelling efforts from Raghav as she strives relentlessly to gather money for their fledgling travel venture.</desc>
 	</programme>
 	<programme channel="5652" start="20241014130000 +0000" stop="20241014133000 +0000">
 		<title>Mangal Lakshmi Episode 229</title>
 		<desc>Mangal searches for a perfect husband for her sister, Lakshmi, revealing the enduring strength of sisterhood and the power of destiny over this journey.</desc>
 	</programme>
 	<programme channel="5652" start="20241014133000 +0000" stop="20241014153000 +0000">
-		<title>Bigg Boss Episode 7</title>
-		<desc>As Bigg Boss delves into the future of the contestants with the cataclysm of technology, the housemates try to conquer 'Time Ka Tandav', and emerge victorious in a locked house in BB's surveillance.</desc>
+		<title>Bigg Boss - Weekend Ka Vaar Episode 7</title>
+		<desc>Host Salman Khan entertains the audience and interacts with the housemates to discuss the various happenings over the week.</desc>
 	</programme>
 	<programme channel="5652" start="20241014153000 +0000" stop="20241014160000 +0000">
 		<title>Suman Indori Episode 41</title>
-		<desc>Forced by fate to marry a rich, shrewd politician, Suman embraces obstacles adjusting to her new life while dealing with her sister-in-law who seeks to become the head of the household.</desc>
+		<desc>Devika greets Suman cordially, sparking Kritika's fury. Subsequently, Kritika lashes out, striking Devika and berating her for perceived disloyalty.</desc>
 	</programme>
 	<programme channel="5652" start="20241014160000 +0000" stop="20241014162000 +0000">
 		<title>Megha Barsenge Episode 69</title>
-		<desc>After a groom absconds from his wedding, his bride is left at the mercy of her sentiments of abandonment and to endure a judgemental societal structure.</desc>
+		<desc>Manoj's devious plot ensnares Arjun in false molestation charges. Meanwhile, faced with public outrage, Megha staunchly defends Arjun's reputation.</desc>
 	</programme>
 	<programme channel="5652" start="20241014162000 +0000" stop="20241014164000 +0000">
 		<title>Parineetii Episode 902</title>
-		<desc>Two best friends who support each other through thick and thin face a problem when circumstance causes both of them to get married to the same man.</desc>
+		<desc>Drunk Rajeev begs Parineet to reconcile but she rebuffs him, citing his betrayal and murder attempt. Meanwhile, Ambika cautions Parineet to remain firm and urges Neeti to accept Rajeev back.</desc>
 	</programme>
 	<programme channel="5652" start="20241014164000 +0000" stop="20241014170000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 28</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Durga and Rajesh commence their nuptials as Paani Bai feigns sentiment. Meanwhile, Anurag's kin frantically rush to halt the proceedings.</desc>
 	</programme>
 	<programme channel="5652" start="20241014170000 +0000" stop="20241014173000 +0000">
 		<title>Mera Balam Thanedaar Episode 204</title>
-		<desc>An amiable girl who believes in supporting the lie if someone benefits for good marries a police officer under unfortunate circumstances.</desc>
+		<desc>Bulbul sacrifices her principles to tend to an injured Veer. Later, a deep sense of remorse pushes Bulbul to undertake an extreme step as punishment.</desc>
 	</programme>
 	<programme channel="5652" start="20241014173000 +0000" stop="20241014180000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 476</title>
-		<desc>Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity.</desc>
+		<desc>When Lord Shiva's fury engulfs the cosmos, shaking its core, terrified creatures beseech Ayus to accept the divine marriage proposal, hoping to restore harmony.</desc>
 	</programme>
 	<programme channel="5652" start="20241014180000 +0000" stop="20241014183000 +0000">
 		<title>Suman Indori Episode 41</title>
-		<desc>Forced by fate to marry a rich, shrewd politician, Suman embraces obstacles adjusting to her new life while dealing with her sister-in-law who seeks to become the head of the household.</desc>
+		<desc>Devika greets Suman cordially, sparking Kritika's fury. Subsequently, Kritika lashes out, striking Devika and berating her for perceived disloyalty.</desc>
 	</programme>
 	<programme channel="5652" start="20241014183000 +0000" stop="20241014190000 +0000">
 		<title>Parineetii Episode 902</title>
-		<desc>Two best friends who support each other through thick and thin face a problem when circumstance causes both of them to get married to the same man.</desc>
+		<desc>Drunk Rajeev begs Parineet to reconcile but she rebuffs him, citing his betrayal and murder attempt. Meanwhile, Ambika cautions Parineet to remain firm and urges Neeti to accept Rajeev back.</desc>
 	</programme>
 	<programme channel="5652" start="20241014190000 +0000" stop="20241014193000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 476</title>
-		<desc>Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity.</desc>
+		<desc>When Lord Shiva's fury engulfs the cosmos, shaking its core, terrified creatures beseech Ayus to accept the divine marriage proposal, hoping to restore harmony.</desc>
 	</programme>
 	<programme channel="5652" start="20241014193000 +0000" stop="20241014200000 +0000">
 		<title>Mangal Lakshmi Episode 229</title>
@@ -30235,43 +30279,43 @@ Christy、Jessica往潮人集中地肯顿巿集，体验潮流文化和美食！
 	</programme>
 	<programme channel="5652" start="20241014200000 +0000" stop="20241014203000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 28</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Durga and Rajesh commence their nuptials as Paani Bai feigns sentiment. Meanwhile, Anurag's kin frantically rush to halt the proceedings.</desc>
 	</programme>
 	<programme channel="5652" start="20241014203000 +0000" stop="20241014210000 +0000">
 		<title>Mera Balam Thanedaar Episode 204</title>
-		<desc>An amiable girl who believes in supporting the lie if someone benefits for good marries a police officer under unfortunate circumstances.</desc>
+		<desc>Bulbul sacrifices her principles to tend to an injured Veer. Later, a deep sense of remorse pushes Bulbul to undertake an extreme step as punishment.</desc>
 	</programme>
 	<programme channel="5652" start="20241014210000 +0000" stop="20241014213000 +0000">
 		<title>Mishri Episode 101</title>
-		<desc>A young girl, adored by her community, finds joy in the happiness of others and strives to fulfil her late father's aspirations by finishing her academic education.</desc>
+		<desc>Mishri secretly works as a coolie, hiding her gruelling efforts from Raghav as she strives relentlessly to gather money for their fledgling travel venture.</desc>
 	</programme>
 	<programme channel="5652" start="20241014213000 +0000" stop="20241014220000 +0000">
 		<title>Parineetii Episode 902</title>
-		<desc>Two best friends who support each other through thick and thin face a problem when circumstance causes both of them to get married to the same man.</desc>
+		<desc>Drunk Rajeev begs Parineet to reconcile but she rebuffs him, citing his betrayal and murder attempt. Meanwhile, Ambika cautions Parineet to remain firm and urges Neeti to accept Rajeev back.</desc>
 	</programme>
 	<programme channel="5652" start="20241014220000 +0000" stop="20241014223000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 476</title>
-		<desc>Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity.</desc>
+		<desc>When Lord Shiva's fury engulfs the cosmos, shaking its core, terrified creatures beseech Ayus to accept the divine marriage proposal, hoping to restore harmony.</desc>
 	</programme>
 	<programme channel="5652" start="20241014223000 +0000" stop="20241014230000 +0000">
 		<title>Suman Indori Episode 41</title>
-		<desc>Forced by fate to marry a rich, shrewd politician, Suman embraces obstacles adjusting to her new life while dealing with her sister-in-law who seeks to become the head of the household.</desc>
+		<desc>Devika greets Suman cordially, sparking Kritika's fury. Subsequently, Kritika lashes out, striking Devika and berating her for perceived disloyalty.</desc>
 	</programme>
 	<programme channel="5652" start="20241014230000 +0000" stop="20241014232000 +0000">
 		<title>Parineetii Episode 902</title>
-		<desc>Two best friends who support each other through thick and thin face a problem when circumstance causes both of them to get married to the same man.</desc>
+		<desc>Drunk Rajeev begs Parineet to reconcile but she rebuffs him, citing his betrayal and murder attempt. Meanwhile, Ambika cautions Parineet to remain firm and urges Neeti to accept Rajeev back.</desc>
 	</programme>
 	<programme channel="5652" start="20241014232000 +0000" stop="20241014234000 +0000">
 		<title>Megha Barsenge Episode 69</title>
-		<desc>After a groom absconds from his wedding, his bride is left at the mercy of her sentiments of abandonment and to endure a judgemental societal structure.</desc>
+		<desc>Manoj's devious plot ensnares Arjun in false molestation charges. Meanwhile, faced with public outrage, Megha staunchly defends Arjun's reputation.</desc>
 	</programme>
 	<programme channel="5652" start="20241014234000 +0000" stop="20241015000000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 28</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Durga and Rajesh commence their nuptials as Paani Bai feigns sentiment. Meanwhile, Anurag's kin frantically rush to halt the proceedings.</desc>
 	</programme>
 	<programme channel="5652" start="20241015000000 +0000" stop="20241015003000 +0000">
 		<title>Mera Balam Thanedaar Episode 204</title>
-		<desc>An amiable girl who believes in supporting the lie if someone benefits for good marries a police officer under unfortunate circumstances.</desc>
+		<desc>Bulbul sacrifices her principles to tend to an injured Veer. Later, a deep sense of remorse pushes Bulbul to undertake an extreme step as punishment.</desc>
 	</programme>
 	<programme channel="5652" start="20241015003000 +0000" stop="20241015010000 +0000">
 		<title>Mangal Lakshmi Episode 229</title>
@@ -30279,23 +30323,23 @@ Christy、Jessica往潮人集中地肯顿巿集，体验潮流文化和美食！
 	</programme>
 	<programme channel="5652" start="20241015010000 +0000" stop="20241015013000 +0000">
 		<title>Suman Indori Episode 41</title>
-		<desc>Forced by fate to marry a rich, shrewd politician, Suman embraces obstacles adjusting to her new life while dealing with her sister-in-law who seeks to become the head of the household.</desc>
+		<desc>Devika greets Suman cordially, sparking Kritika's fury. Subsequently, Kritika lashes out, striking Devika and berating her for perceived disloyalty.</desc>
 	</programme>
 	<programme channel="5652" start="20241015013000 +0000" stop="20241015020000 +0000">
 		<title>Mishri Episode 101</title>
-		<desc>A young girl, adored by her community, finds joy in the happiness of others and strives to fulfil her late father's aspirations by finishing her academic education.</desc>
+		<desc>Mishri secretly works as a coolie, hiding her gruelling efforts from Raghav as she strives relentlessly to gather money for their fledgling travel venture.</desc>
 	</programme>
 	<programme channel="5652" start="20241015020000 +0000" stop="20241015023000 +0000">
 		<title>Megha Barsenge Episode 69</title>
-		<desc>After a groom absconds from his wedding, his bride is left at the mercy of her sentiments of abandonment and to endure a judgemental societal structure.</desc>
+		<desc>Manoj's devious plot ensnares Arjun in false molestation charges. Meanwhile, faced with public outrage, Megha staunchly defends Arjun's reputation.</desc>
 	</programme>
 	<programme channel="5652" start="20241015023000 +0000" stop="20241015030000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 476</title>
-		<desc>Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity.</desc>
+		<desc>When Lord Shiva's fury engulfs the cosmos, shaking its core, terrified creatures beseech Ayus to accept the divine marriage proposal, hoping to restore harmony.</desc>
 	</programme>
 	<programme channel="5652" start="20241015030000 +0000" stop="20241015033000 +0000">
 		<title>Suman Indori Episode 41</title>
-		<desc>Forced by fate to marry a rich, shrewd politician, Suman embraces obstacles adjusting to her new life while dealing with her sister-in-law who seeks to become the head of the household.</desc>
+		<desc>Devika greets Suman cordially, sparking Kritika's fury. Subsequently, Kritika lashes out, striking Devika and berating her for perceived disloyalty.</desc>
 	</programme>
 	<programme channel="5652" start="20241015033000 +0000" stop="20241015040000 +0000">
 		<title>Mangal Lakshmi Episode 229</title>
@@ -30339,7 +30383,7 @@ Christy、Jessica往潮人集中地肯顿巿集，体验潮流文化和美食！
 	</programme>
 	<programme channel="5652" start="20241015093000 +0000" stop="20241015100000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 28</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Durga and Rajesh commence their nuptials as Paani Bai feigns sentiment. Meanwhile, Anurag's kin frantically rush to halt the proceedings.</desc>
 	</programme>
 	<programme channel="5652" start="20241015100000 +0000" stop="20241015103000 +0000">
 		<title>Mera Balam Thanedaar Episode 205</title>
