@@ -4605,36 +4605,36 @@ Song Yeo-wool, a widow who has been falsely accused of her husband’s murder, g
 		<desc>LIVE Premiership Rugby LIVE Northampton v Sale</desc>
 	</programme>
 	<programme channel="5118" start="20241018204500 +0000" stop="20241018211000 +0000">
-		<title>5 & 6 Nations Classics 2003 - Italy v France</title>
+		<title>5 & 6 Nations Classics 2003 / Italy v France</title>
 		<desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
 	</programme>
 	<programme channel="5118" start="20241018211000 +0000" stop="20241018230000 +0000">
-		<title>Super League Super League</title>
-		<desc>Coverage of the top level of British Rugby League, the Betfred Super League.</desc>
+		<title>Super League Wigan v Hull KR</title>
+		<desc>Hull KR make their first appearance in the Super League Grand Final against the defending champions the Wigan Warriors.</desc>
 	</programme>
 	<programme channel="5118" start="20241018230000 +0000" stop="20241019005000 +0000">
-		<title>United Rugby Championship Ulster v Ospreys</title>
-		<desc>Exclusive coverage of the United Rugby Championship.</desc>
+		<title>URC Ulster v Ospreys</title>
+		<desc>Ulster and Ospreys go head to head in this URC encounter from the Kingspan.</desc>
 	</programme>
 	<programme channel="5118" start="20241019005000 +0000" stop="20241019024000 +0000">
-		<title>United Rugby Championship Scarlets v Bulls</title>
-		<desc>Exclusive coverage of the United Rugby Championship.</desc>
+		<title>URC Scarlets v Bulls</title>
+		<desc>Parc y Scarlets is the venue for this URC clash as the Scarlets look to build on their derby win as they host the Vodacom Bulls.</desc>
 	</programme>
 	<programme channel="5118" start="20241019024000 +0000" stop="20241019043000 +0000">
 		<title>Premiership Rugby Northampton v Sale</title>
 		<desc>Premiership Rugby Northampton v Sale</desc>
 	</programme>
 	<programme channel="5118" start="20241019043000 +0000" stop="20241019050000 +0000">
-		<title>5 & 6 Nations Classics 2013 - Wales v England</title>
+		<title>5 & 6 Nations Classics 2013 / Wales v England</title>
 		<desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
 	</programme>
 	<programme channel="5118" start="20241019050000 +0000" stop="20241019065000 +0000">
-		<title>United Rugby Championship Ulster v Ospreys</title>
-		<desc>Exclusive coverage of the United Rugby Championship.</desc>
+		<title>URC Ulster v Ospreys</title>
+		<desc>Ulster and Ospreys go head to head in this URC encounter from the Kingspan.</desc>
 	</programme>
 	<programme channel="5118" start="20241019065000 +0000" stop="20241019084000 +0000">
-		<title>United Rugby Championship Scarlets v Bulls</title>
-		<desc>Exclusive coverage of the United Rugby Championship.</desc>
+		<title>URC Scarlets v Bulls</title>
+		<desc>Parc y Scarlets is the venue for this URC clash as the Scarlets look to build on their derby win as they host the Vodacom Bulls.</desc>
 	</programme>
 	<programme channel="5118" start="20241019084000 +0000" stop="20241019103000 +0000">
 		<title>Premiership Rugby Northampton v Sale</title>
@@ -4645,11 +4645,11 @@ Song Yeo-wool, a widow who has been falsely accused of her husband’s murder, g
 		<desc>The best of the latest action from the Gallagher Premiership.</desc>
 	</programme>
 	<programme channel="5118" start="20241019112500 +0000" stop="20241019133000 +0000">
-		<title>LIVE United Rugby Championship LIVE Zebre v Lions</title>
-		<desc>Exclusive coverage of the United Rugby Championship.</desc>
+		<title>LIVE URC LIVE Zebre v Lions</title>
+		<desc>Zebre Parma welcome the Emirates Lions to the Lanfranchi for this game from the URC.</desc>
 	</programme>
 	<programme channel="5118" start="20241019133000 +0000" stop="20241019140000 +0000">
-		<title>5 & 6 Nations Classics 2014 - France v Ireland</title>
+		<title>5 & 6 Nations Classics 2014 / France v Ireland</title>
 		<desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
 	</programme>
 	<programme channel="5118" start="20241019140000 +0000" stop="20241019160000 +0000">
@@ -4657,51 +4657,47 @@ Song Yeo-wool, a widow who has been falsely accused of her husband’s murder, g
 		<desc>LIVE Premiership Rugby LIVE Bristol v Saracens</desc>
 	</programme>
 	<programme channel="5118" start="20241019160000 +0000" stop="20241019162500 +0000">
-		<title>5 & 6 Nations Classics 1988 - Wales v Scotland</title>
+		<title>5 & 6 Nations Classics 1988 / Wales v Scotland</title>
 		<desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
 	</programme>
 	<programme channel="5118" start="20241019162500 +0000" stop="20241019183000 +0000">
 		<title>LIVE Premiership Rugby LIVE Harlequins v Bath</title>
 		<desc>LIVE Premiership Rugby LIVE Harlequins v Bath</desc>
 	</programme>
-	<programme channel="5118" start="20241019183000 +0000" stop="20241019203000 +0000">
-		<title>LIVE United Rugby Championship LIVE Connacht v Leinster</title>
-		<desc>Exclusive coverage of the United Rugby Championship.</desc>
-	</programme>
-	<programme channel="5118" start="20241019203000 +0000" stop="20241019210000 +0000">
-		<title>5 & 6 Nations Classics 2011 - Italy v France</title>
-		<desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
+	<programme channel="5118" start="20241019183000 +0000" stop="20241019210000 +0000">
+		<title>LIVE URC LIVE Connacht v Leinster</title>
+		<desc>Connacht and Leinster face off in the URC at Dexcom Stadium in yet another interpro clash for both teams.</desc>
 	</programme>
 	<programme channel="5118" start="20241019210000 +0000" stop="20241019225000 +0000">
-		<title>United Rugby Championship Sharks v Glasgow Warriors</title>
-		<desc>Exclusive coverage of the United Rugby Championship.</desc>
+		<title>URC Sharks v Glasgow Warriors</title>
+		<desc>The Glasgow Warriors make the trip to South Africa in good form as they take on the Hollywoodbets Sharks in this URC matchup from Hollywoodbets Kings Park.</desc>
 	</programme>
 	<programme channel="5118" start="20241019225000 +0000" stop="20241020004000 +0000">
-		<title>United Rugby Championship Stormers v Munster</title>
-		<desc>Exclusive coverage of the United Rugby Championship.</desc>
+		<title>URC Stormers v Munster</title>
+		<desc>Munster move on from their Croke Park defeat as they visit DHL Stadium for this URC game against the DHL Stormers.</desc>
 	</programme>
 	<programme channel="5118" start="20241020004000 +0000" stop="20241020023000 +0000">
-		<title>United Rugby Championship Edinburgh v Cardiff</title>
-		<desc>Exclusive coverage of the United Rugby Championship.</desc>
+		<title>URC Edinburgh v Cardiff</title>
+		<desc>Edinburgh will hope to build some positive momentum as Cardiff make the trip to Hive Stadium.</desc>
 	</programme>
 	<programme channel="5118" start="20241020023000 +0000" stop="20241020030000 +0000">
-		<title>5 & 6 Nations Classics 2008 - Italy v Scotland</title>
+		<title>5 & 6 Nations Classics 2008 / Italy v Scotland</title>
 		<desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
 	</programme>
 	<programme channel="5118" start="20241020030000 +0000" stop="20241020045000 +0000">
-		<title>United Rugby Championship Dragons v Benetton</title>
-		<desc>Exclusive coverage of the United Rugby Championship.</desc>
+		<title>URC Dragons v Benetton</title>
+		<desc>Rodney Parade plays host to this URC encounter as Dragons take on Benetton.</desc>
 	</programme>
 	<programme channel="5118" start="20241020045000 +0000" stop="20241020064000 +0000">
-		<title>United Rugby Championship Zebre v Lions</title>
-		<desc>Exclusive coverage of the United Rugby Championship.</desc>
+		<title>URC Zebre v Lions</title>
+		<desc>Zebre Parma welcome the Emirates Lions to the Lanfranchi for this game from the URC.</desc>
 	</programme>
 	<programme channel="5118" start="20241020064000 +0000" stop="20241020074000 +0000">
 		<title>5 & 6 Nations Classic Tries</title>
 		<desc>We look back at the most memorable moments, legends and tries from Europe's most prestigious international rugby competition.</desc>
 	</programme>
 	<programme channel="5118" start="20241020074000 +0000" stop="20241020081000 +0000">
-		<title>5 & 6 Nations Classics 2010 - France v Italy</title>
+		<title>5 & 6 Nations Classics 2010 / France v Italy</title>
 		<desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
 	</programme>
 	<programme channel="5118" start="20241020081000 +0000" stop="20241020082000 +0000">
@@ -4709,8 +4705,8 @@ Song Yeo-wool, a widow who has been falsely accused of her husband’s murder, g
 		<desc>A look back at some of the big games on Premier Sports.</desc>
 	</programme>
 	<programme channel="5118" start="20241020082000 +0000" stop="20241020101000 +0000">
-		<title>United Rugby Championship Connacht v Leinster</title>
-		<desc>Exclusive coverage of the United Rugby Championship.</desc>
+		<title>URC Connacht v Leinster</title>
+		<desc>Connacht and Leinster face off in the URC at Dexcom Stadium in yet another interpro clash for both teams.</desc>
 	</programme>
 	<programme channel="5118" start="20241020101000 +0000" stop="20241020120000 +0000">
 		<title>Premiership Rugby Bristol v Saracens</title>
@@ -5461,7 +5457,7 @@ Song Yeo-wool, a widow who has been falsely accused of her husband’s murder, g
 		<desc>Jessie Punch sits down with NASCAR drivers each week to get exclusive insights</desc>
 	</programme>
 	<programme channel="5131" start="20241019200000 +0000" stop="20241020020000 +0000">
-		<title>UFC Fight Night: Pereira vs. Hernandez LIVE</title>
+		<title>UFC Fight Night: Hernandez vs. Pereira LIVE</title>
 		<desc>The UFC (Ultimate Fighting Championship) is the largest mixed martial arts (MMA) organization in the world. The UFC showcases the best international fighters using a variety of martial arts styles and disciplines.</desc>
 	</programme>
 	<programme channel="5131" start="20241020020000 +0000" stop="20241020023000 +0000">
@@ -21008,11 +21004,11 @@ Christy、Jessica穿上型格「牛仔」便服，尋找隱世名店盡情打卡
 		<title>英勇无比龙水晶 / THE BRAVE YONGSUJUNG Episode 88</title>
 		<desc>讲述一名成功的家庭购物女主播与一个勤奋又小气并且将命运托付于她身上的男子之间的浪漫复仇故事。</desc>
 	</programme>
-	<programme channel="5513" start="20241019123000 +0000" stop="20241019134500 +0000">
+	<programme channel="5513" start="20241019123000 +0000" stop="20241019135100 +0000">
 		<title>如此亲密的背叛者 / DOUBT Episode 3</title>
 		<desc>讲述一名韩国最杰出的犯罪心理分析师在得知女儿与自己正在调查的谋杀案有关联后面临的两难困境。</desc>
 	</programme>
-	<programme channel="5513" start="20241019134500 +0000" stop="20241019150500 +0000">
+	<programme channel="5513" start="20241019135100 +0000" stop="20241019150500 +0000">
 		<title>现正分手中 / NOW, WE ARE BREAKING UP</title>
 		<desc>一部以时尚行业圈为背景的爱情聚散剧集。此剧讲述了故事中男女主角这对情侣在恋爱中的成长。</desc>
 	</programme>
@@ -21040,51 +21036,51 @@ Christy、Jessica穿上型格「牛仔」便服，尋找隱世名店盡情打卡
 		<title>K-歌 / K-HITS</title>
 		<desc>K-歌为您带来最新的的K -流行音乐。</desc>
 	</programme>
-	<programme channel="5513" start="20241019220000 +0000" stop="20241019224500 +0000">
+	<programme channel="5513" start="20241019220000 +0000" stop="20241019224600 +0000">
 		<title>训长吴纯南 / TEACHER OH SOON NAM Episode 26</title>
 		<desc>一位传统学校女训长在一夜之间失去了女儿与她所有的一切。 她能否找到杀害女儿的幕后黑手吗？</desc>
 	</programme>
-	<programme channel="5513" start="20241019224500 +0000" stop="20241019233000 +0000">
+	<programme channel="5513" start="20241019224600 +0000" stop="20241019233000 +0000">
 		<title>训长吴纯南 / TEACHER OH SOON NAM Episode 27</title>
 		<desc>一位传统学校女训长在一夜之间失去了女儿与她所有的一切。 她能否找到杀害女儿的幕后黑手吗？</desc>
 	</programme>
-	<programme channel="5513" start="20241019233000 +0000" stop="20241020001500 +0000">
+	<programme channel="5513" start="20241019233000 +0000" stop="20241020001700 +0000">
 		<title>训长吴纯南 / TEACHER OH SOON NAM Episode 28</title>
 		<desc>一位传统学校女训长在一夜之间失去了女儿与她所有的一切。 她能否找到杀害女儿的幕后黑手吗？</desc>
 	</programme>
-	<programme channel="5513" start="20241020001500 +0000" stop="20241020010000 +0000">
+	<programme channel="5513" start="20241020001700 +0000" stop="20241020010300 +0000">
 		<title>训长吴纯南 / TEACHER OH SOON NAM Episode 29</title>
 		<desc>一位传统学校女训长在一夜之间失去了女儿与她所有的一切。 她能否找到杀害女儿的幕后黑手吗？</desc>
 	</programme>
-	<programme channel="5513" start="20241020010000 +0000" stop="20241020014500 +0000">
+	<programme channel="5513" start="20241020010300 +0000" stop="20241020014900 +0000">
 		<title>训长吴纯南 / TEACHER OH SOON NAM Episode 30</title>
 		<desc>一位传统学校女训长在一夜之间失去了女儿与她所有的一切。 她能否找到杀害女儿的幕后黑手吗？</desc>
 	</programme>
-	<programme channel="5513" start="20241020014500 +0000" stop="20241020030000 +0000">
+	<programme channel="5513" start="20241020014900 +0000" stop="20241020030300 +0000">
 		<title>她曾美丽 / SHE WAS PRETTY Episode 6</title>
 		<desc>当惠珍青梅竹马的初恋在时隔 15 年后约她出来相聚,再续前缘, 她却因外表的变化而犹豫是否要与他见面。</desc>
 	</programme>
-	<programme channel="5513" start="20241020030000 +0000" stop="20241020041500 +0000">
+	<programme channel="5513" start="20241020030300 +0000" stop="20241020041500 +0000">
 		<title>她曾美丽 / SHE WAS PRETTY Episode 7</title>
 		<desc>当惠珍青梅竹马的初恋在时隔 15 年后约她出来相聚,再续前缘, 她却因外表的变化而犹豫是否要与他见面。</desc>
 	</programme>
-	<programme channel="5513" start="20241020041500 +0000" stop="20241020045500 +0000">
+	<programme channel="5513" start="20241020041500 +0000" stop="20241020045600 +0000">
 		<title>英勇无比龙水晶 / THE BRAVE YONGSUJUNG Episode 87</title>
 		<desc>讲述一名成功的家庭购物女主播与一个勤奋又小气并且将命运托付于她身上的男子之间的浪漫复仇故事。</desc>
 	</programme>
-	<programme channel="5513" start="20241020045500 +0000" stop="20241020053500 +0000">
+	<programme channel="5513" start="20241020045600 +0000" stop="20241020053600 +0000">
 		<title>英勇无比龙水晶 / THE BRAVE YONGSUJUNG Episode 88</title>
 		<desc>讲述一名成功的家庭购物女主播与一个勤奋又小气并且将命运托付于她身上的男子之间的浪漫复仇故事。</desc>
 	</programme>
-	<programme channel="5513" start="20241020053500 +0000" stop="20241020072500 +0000">
+	<programme channel="5513" start="20241020053600 +0000" stop="20241020072500 +0000">
 		<title>JUNGLE BOB / JUNGLE BOB Episode 8</title>
 		<desc>跟随柳秀荣和他的团队们一起去探访瓦努阿图和巴拉望岛部落并体验那里原始部落的特色饮食文化！</desc>
 	</programme>
-	<programme channel="5513" start="20241020072500 +0000" stop="20241020091000 +0000">
+	<programme channel="5513" start="20241020072500 +0000" stop="20241020091200 +0000">
 		<title>RUNNING MAN / RUNNING MAN Episode 595</title>
 		<desc>你不容错过的韩国综艺节目! 每集里, 主持群将与来宾们接受不同的挑战, 并淘汰对方, 成为最后的优胜者。</desc>
 	</programme>
-	<programme channel="5513" start="20241020091000 +0000" stop="20241020110000 +0000">
+	<programme channel="5513" start="20241020091200 +0000" stop="20241020110000 +0000">
 		<title>RUNNING MAN / RUNNING MAN Episode 596</title>
 		<desc>你不容错过的韩国综艺节目! 每集里, 主持群将与来宾们接受不同的挑战, 并淘汰对方, 成为最后的优胜者。</desc>
 	</programme>
@@ -25084,11 +25080,11 @@ Christy、Jessica穿上型格「牛仔」便服，尋找隱世名店盡情打卡
 		<title>THE BRAVE YONGSUJUNG Episode 88</title>
 		<desc>A romance revenge drama about Yong Su-jung, a successful home shopping host and Yeo Eui-joo, a hardworking and stingy man who bet his life on her.</desc>
 	</programme>
-	<programme channel="5604" start="20241019123000 +0000" stop="20241019134500 +0000">
+	<programme channel="5604" start="20241019123000 +0000" stop="20241019135100 +0000">
 		<title>DOUBT Episode 3</title>
 		<desc>Korea's best criminal profiler Jang Tae-soo faces a dilemma when he discovers that his daughter might be involved in a murder case he's investigating.</desc>
 	</programme>
-	<programme channel="5604" start="20241019134500 +0000" stop="20241019150500 +0000">
+	<programme channel="5604" start="20241019135100 +0000" stop="20241019150500 +0000">
 		<title>NOW, WE ARE BREAKING UP</title>
 		<desc>A story of love and breakups, in the context of fashion industry. Follow the couple (Song Hye Kyo and Jang Ki Yong) as they grow in and out of love.</desc>
 	</programme>
@@ -25116,51 +25112,51 @@ Christy、Jessica穿上型格「牛仔」便服，尋找隱世名店盡情打卡
 		<title>K-HITS</title>
 		<desc>K-Hits brings you the latest in the K-Pop scene.</desc>
 	</programme>
-	<programme channel="5604" start="20241019220000 +0000" stop="20241019224500 +0000">
+	<programme channel="5604" start="20241019220000 +0000" stop="20241019224600 +0000">
 		<title>TEACHER OH SOON NAM Episode 26</title>
 		<desc>Se Hee tells Sun Joo that a masked man has broken into Yoo Min's place. Doo Mool gives Soon Nam some advice on how to run a restaurant efficiently.</desc>
 	</programme>
-	<programme channel="5604" start="20241019224500 +0000" stop="20241019233000 +0000">
+	<programme channel="5604" start="20241019224600 +0000" stop="20241019233000 +0000">
 		<title>TEACHER OH SOON NAM Episode 27</title>
 		<desc>Yoo Min and Se Hee accompany Sun Joo to attend a child support centre's opening. Soon Nam receives a factory's request to buy her bean paste sauce.</desc>
 	</programme>
-	<programme channel="5604" start="20241019233000 +0000" stop="20241020001500 +0000">
+	<programme channel="5604" start="20241019233000 +0000" stop="20241020001700 +0000">
 		<title>TEACHER OH SOON NAM Episode 28</title>
 		<desc>Bong Chul is upset when Sun Joo asks Yoo Min to go on a business trip with Se Hee. Doo Mool informs Soon Nam the buyer of her bean paste is a fraud.</desc>
 	</programme>
-	<programme channel="5604" start="20241020001500 +0000" stop="20241020010000 +0000">
+	<programme channel="5604" start="20241020001700 +0000" stop="20241020010300 +0000">
 		<title>TEACHER OH SOON NAM Episode 29</title>
 		<desc>Soon Nam promises to compensate the investors for their loss. Joon Young runs off when she sees Se Hee with Yoo Min and passes out on the street.</desc>
 	</programme>
-	<programme channel="5604" start="20241020010000 +0000" stop="20241020014500 +0000">
+	<programme channel="5604" start="20241020010300 +0000" stop="20241020014900 +0000">
 		<title>TEACHER OH SOON NAM Episode 30</title>
 		<desc>Yoo Min feels remorseful for causing Joon Young's distress and collapse. Myung Ja tells Soon Nam that Se Hee may be involved in the bean paste scam.</desc>
 	</programme>
-	<programme channel="5604" start="20241020014500 +0000" stop="20241020030000 +0000">
+	<programme channel="5604" start="20241020014900 +0000" stop="20241020030300 +0000">
 		<title>SHE WAS PRETTY Episode 6</title>
 		<desc>On Hye Jin's request, Shin Hyuk goes to Sung Joon's home to take care of him. Ha Ri takes Hye Jin's puzzle and give it to Sung Joon during a date.</desc>
 	</programme>
-	<programme channel="5604" start="20241020030000 +0000" stop="20241020041500 +0000">
+	<programme channel="5604" start="20241020030300 +0000" stop="20241020041500 +0000">
 		<title>SHE WAS PRETTY Episode 7</title>
 		<desc>Sung Joon and Hye Jin are forced to work at a farm to pay off their restaurant bill. Hye Jin thinks Shin Hyuk is joking about his feelings for her.</desc>
 	</programme>
-	<programme channel="5604" start="20241020041500 +0000" stop="20241020045500 +0000">
+	<programme channel="5604" start="20241020041500 +0000" stop="20241020045600 +0000">
 		<title>THE BRAVE YONGSUJUNG Episode 87</title>
 		<desc>A romance revenge drama about Yong Su-jung, a successful home shopping host and Yeo Eui-joo, a hardworking and stingy man who bet his life on her.</desc>
 	</programme>
-	<programme channel="5604" start="20241020045500 +0000" stop="20241020053500 +0000">
+	<programme channel="5604" start="20241020045600 +0000" stop="20241020053600 +0000">
 		<title>THE BRAVE YONGSUJUNG Episode 88</title>
 		<desc>A romance revenge drama about Yong Su-jung, a successful home shopping host and Yeo Eui-joo, a hardworking and stingy man who bet his life on her.</desc>
 	</programme>
-	<programme channel="5604" start="20241020053500 +0000" stop="20241020072500 +0000">
+	<programme channel="5604" start="20241020053600 +0000" stop="20241020072500 +0000">
 		<title>JUNGLE BOB Episode 8</title>
 		<desc>Join Ryu Soo-young and his team on a global food adventure to Vanuatu and Palawan where they will meet the tribes and experience their food culture!</desc>
 	</programme>
-	<programme channel="5604" start="20241020072500 +0000" stop="20241020091000 +0000">
+	<programme channel="5604" start="20241020072500 +0000" stop="20241020091200 +0000">
 		<title>RUNNING MAN Episode 595</title>
 		<desc>The must watch for K-Variety shows! In this "urban action variety", the hosts complete a series of obstacles and aim to eliminate each other to win.</desc>
 	</programme>
-	<programme channel="5604" start="20241020091000 +0000" stop="20241020110000 +0000">
+	<programme channel="5604" start="20241020091200 +0000" stop="20241020110000 +0000">
 		<title>RUNNING MAN Episode 596</title>
 		<desc>The must watch for K-Variety shows! In this "urban action variety", the hosts complete a series of obstacles and aim to eliminate each other to win.</desc>
 	</programme>
@@ -26565,80 +26561,80 @@ Christy、Jessica穿上型格「牛仔」便服，尋找隱世名店盡情打卡
 		<desc>Unaware that Adhinarayanan, a criminal, is actually his father, Sathya, a college boy, decides to file a police complaint against him and his adopted son, Kutti, for shooting his girlfriend, Sandhya.</desc>
 	</programme>
 	<programme channel="5625" start="20241018183000 +0000" stop="20241018200000 +0000">
-		<title>Movie Contd</title>
-		<desc>Movie Contd</desc>
+		<title>Movie Contd - Arindhum Ariyamalum</title>
+		<desc>Unaware that Adhinarayanan, a criminal, is actually his father, Sathya, a college boy, decides to file a police complaint against him and his adopted son, Kutti, for shooting his girlfriend, Sandhya.</desc>
 	</programme>
 	<programme channel="5625" start="20241018200000 +0000" stop="20241018223000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Kadhal Solla Vandhen</title>
+		<desc>Prabhu, a college student, falls in love with Sandhya. However, he faces complications when he finds out that she is two years elder to him.</desc>
 	</programme>
 	<programme channel="5625" start="20241018223000 +0000" stop="20241019010000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Kangalal Kaidhusei</title>
+		<desc>Despite inheriting a huge fortune from his parents, Vaseegaran, a kleptomaniac, steals a diamond from a store and Vidhya, a salesgirl, is blamed. However, while clearing her name, he falls in love.</desc>
 	</programme>
 	<programme channel="5625" start="20241019010000 +0000" stop="20241019013000 +0000">
 		<title>Teleshopping</title>
-		<desc>Teleshopping</desc>
+		<desc>Consumer can purchase goods and services shown on television; the purchaser telephones an order, or orders with the aid of a computer, and the products are delivered to the home.</desc>
 	</programme>
 	<programme channel="5625" start="20241019013000 +0000" stop="20241019043000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Kundakka Mandakka</title>
+		<desc>Ilango aspires to get his sister married to a millionaire. For this, he tries his best to find a rich suitor, but ultimately realises that money is not everything and lets her marry the one she loves.</desc>
 	</programme>
 	<programme channel="5625" start="20241019043000 +0000" stop="20241019073000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Koodi Vazhndal Kodi Nanmai</title>
+		<desc>Thangarasu and his wife Meenakshi take care of his brothers Krishna and Sivaraman. However, when the brothers get married, conflicts grow amongst the family members.</desc>
 	</programme>
 	<programme channel="5625" start="20241019073000 +0000" stop="20241019103000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Pudhiya Geethai</title>
+		<desc>Sarathy, an enthusiastic young man, lives life on his own terms with his friends Suji and Jo. However, he is unaware of the fact that at birth, an astrologer had predicted his death at the age of 27.</desc>
 	</programme>
 	<programme channel="5625" start="20241019103000 +0000" stop="20241019133000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Aram</title>
+		<desc>Madhivadhani, a district collector, faces a big professional challenge after Dhanshika, a young village girl, falls into a deep borewell and the media highlights her rescue efforts.</desc>
 	</programme>
 	<programme channel="5625" start="20241019133000 +0000" stop="20241019133000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Aranmanai 2</title>
+		<desc>Murali returns to his ancestral palace along with his fiancée as his father lands in a coma under mysterious circumstances. However, his life takes a turn when he uncovers dark secrets of his family.</desc>
 	</programme>
 	<programme channel="5625" start="20241019133000 +0000" stop="20241019170000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Aranmanai 2</title>
+		<desc>Murali returns to his ancestral palace along with his fiancée as his father lands in a coma under mysterious circumstances. However, his life takes a turn when he uncovers dark secrets of his family.</desc>
 	</programme>
 	<programme channel="5625" start="20241019170000 +0000" stop="20241019183000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Naanga Romba Busy</title>
+		<desc>An honest policeman, a con man, and a hopeless romantic form an unusual team during the days of demonetization to pull off a scam that quickly goes haywire.</desc>
 	</programme>
 	<programme channel="5625" start="20241019183000 +0000" stop="20241019200000 +0000">
-		<title>Movie Contd</title>
-		<desc>Movie Contd</desc>
+		<title>Movie Contd - Naanga Romba Busy</title>
+		<desc>An honest policeman, a con man, and a hopeless romantic form an unusual team during the days of demonetization to pull off a scam that quickly goes haywire.</desc>
 	</programme>
 	<programme channel="5625" start="20241019200000 +0000" stop="20241019223000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Kanmani Unakaga</title>
+		<desc>Kanmani Unakkaga is a 1999 Tamil-language film, directed by the duo Ravi-Raja. The film stars Ishaq Hussaini and Suvaluxmi, while Senthil and Jennifer portrayed supporting roles.</desc>
 	</programme>
 	<programme channel="5625" start="20241019223000 +0000" stop="20241020010000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Kanna</title>
+		<desc>Annapoorani, a class 10 student, encounters Kanna, a tour guide, during her school educational trip to Ooty. She develops feelings for him and runs away from home to meet him on her scooter.</desc>
 	</programme>
 	<programme channel="5625" start="20241020010000 +0000" stop="20241020013000 +0000">
 		<title>Teleshopping</title>
-		<desc>Teleshopping</desc>
+		<desc>Consumer can purchase goods and services shown on television; the purchaser telephones an order, or orders with the aid of a computer, and the products are delivered to the home.</desc>
 	</programme>
 	<programme channel="5625" start="20241020013000 +0000" stop="20241020043000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Gulu Gulu</title>
+		<desc>Though life has been harsh to Google, a traveler from a faraway land, he is a do-gooder with nothing but kindness to offer in return. Things go haywire when he gets in the thick of kidnap plans, gaming-addicted gangsters & a girl with a quirky phobia.</desc>
 	</programme>
 	<programme channel="5625" start="20241020043000 +0000" stop="20241020073000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Kanthaswamy</title>
+		<desc>The financial woes of anyone who leaves a message at a temple are taken care of by a masked crusader. Meanwhile, a CBI officer is in hot pursuit of those who stash away their black money.</desc>
 	</programme>
 	<programme channel="5625" start="20241020073000 +0000" stop="20241020103000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Ejamaan</title>
+		<desc>Vaanavaryan, the much-loved leader of a village, invites his rival Vallavarayan's wrath when he marries Vaitheeswari, the woman he loves. To take revenge, Vallavarayan resorts to drastic measures.</desc>
 	</programme>
 	<programme channel="5625" start="20241020103000 +0000" stop="20241020133000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Natpe Thunai</title>
+		<desc>Prabhakaran, a former hockey player, helps a local team save their ground by training them to win a match against the Pondicherry team. However, a corrupt politician has his eyes set on the ground.</desc>
 	</programme>
 	<programme channel="5627" start="20241018153000 +0000" stop="20241018163000 +0000">
 		<title>Non Stop Hits</title>
@@ -26681,7 +26677,7 @@ Christy、Jessica穿上型格「牛仔」便服，尋找隱世名店盡情打卡
 		<desc>Sun Music - Super Morning</desc>
 	</programme>
 	<programme channel="5627" start="20241019043000 +0000" stop="20241019053000 +0000">
-		<title>Back To 90' s</title>
+		<title>Back To 90 s</title>
 		<desc>Back To 90' s</desc>
 	</programme>
 	<programme channel="5627" start="20241019053000 +0000" stop="20241019063000 +0000">
@@ -26701,7 +26697,7 @@ Christy、Jessica穿上型格「牛仔」便服，尋找隱世名店盡情打卡
 		<desc>Playlist comprising of some of the best Kollywood songs all time without any AD breaks.</desc>
 	</programme>
 	<programme channel="5627" start="20241019093000 +0000" stop="20241019103000 +0000">
-		<title>Back To 90' s</title>
+		<title>Back To 90 s</title>
 		<desc>Back To 90' s</desc>
 	</programme>
 	<programme channel="5627" start="20241019103000 +0000" stop="20241019113000 +0000">
@@ -26725,8 +26721,8 @@ Christy、Jessica穿上型格「牛仔」便服，尋找隱世名店盡情打卡
 		<desc>Soup Songs</desc>
 	</programme>
 	<programme channel="5627" start="20241019160000 +0000" stop="20241019163000 +0000">
-		<title>Hits Of Amala Paul</title>
-		<desc>Hits Of Amala Paul</desc>
+		<title>Hits Of Laila</title>
+		<desc>Hits Of Laila</desc>
 	</programme>
 	<programme channel="5627" start="20241019163000 +0000" stop="20241019173000 +0000">
 		<title>Marana Kuthu</title>
@@ -26765,7 +26761,7 @@ Christy、Jessica穿上型格「牛仔」便服，尋找隱世名店盡情打卡
 		<desc>Sun Music - Super Morning</desc>
 	</programme>
 	<programme channel="5627" start="20241020043000 +0000" stop="20241020053000 +0000">
-		<title>Back To 90' s</title>
+		<title>Back To 90 s</title>
 		<desc>Back To 90' s</desc>
 	</programme>
 	<programme channel="5627" start="20241020053000 +0000" stop="20241020060000 +0000">
@@ -26789,7 +26785,7 @@ Christy、Jessica穿上型格「牛仔」便服，尋找隱世名店盡情打卡
 		<desc>Playlist comprising of some of the best Kollywood songs all time without any AD breaks.</desc>
 	</programme>
 	<programme channel="5627" start="20241020093000 +0000" stop="20241020103000 +0000">
-		<title>Back To 90' s</title>
+		<title>Back To 90 s</title>
 		<desc>Back To 90' s</desc>
 	</programme>
 	<programme channel="5627" start="20241020103000 +0000" stop="20241020113000 +0000">
@@ -29354,99 +29350,99 @@ Christy、Jessica穿上型格「牛仔」便服，尋找隱世名店盡情打卡
 	</programme>
 	<programme channel="5652" start="20241018160000 +0000" stop="20241018162000 +0000">
 		<title>Megha Barsenge Episode 73</title>
-		<desc>After a groom absconds from his wedding, his bride is left at the mercy of her sentiments of abandonment and to endure a judgemental societal structure.</desc>
+		<desc>Navjot slips into a fit of blind rage after learning about Arjun's humiliating assault. Later, Arjun is shocked to stumble upon a horrific secret about Manoj's past.</desc>
 	</programme>
 	<programme channel="5652" start="20241018162000 +0000" stop="20241018164000 +0000">
 		<title>Parineetii Episode 906</title>
-		<desc>Two best friends who support each other through thick and thin face a problem when circumstance causes both of them to get married to the same man.</desc>
+		<desc>Parineet lashes out at Raghav when he insists that the former confess her true identity. Eventually, she seeks Ambika's help to get even with Rajeev.</desc>
 	</programme>
 	<programme channel="5652" start="20241018164000 +0000" stop="20241018170000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 32</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Following Durga's imminent wedding, Paani Bai and Vikram discuss Anurag's marriage. Meanwhile, Anurag confides his heartbreak with Anubhav as Rajesh completes the wedding rituals with Durga.</desc>
 	</programme>
 	<programme channel="5652" start="20241018170000 +0000" stop="20241018173000 +0000">
 		<title>Mera Balam Thanedaar Episode 208</title>
-		<desc>An amiable girl who believes in supporting the lie if someone benefits for good marries a police officer under unfortunate circumstances.</desc>
+		<desc>Veer intervenes as Drishti raises her hand to slap Bulbul. Subsequently, tragedy strikes when Ratan abducts Varnika and instructs Bulbul to meet him in a desolate area.</desc>
 	</programme>
 	<programme channel="5652" start="20241018173000 +0000" stop="20241018180000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 480</title>
-		<desc>Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity.</desc>
+		<desc>Lord Shiv turns emotional upon learning abut Goddess Parvati's decision to part ways. However, Mata Parvati reassures Lord Shiv about the noble motives behind her decision.</desc>
 	</programme>
 	<programme channel="5652" start="20241018180000 +0000" stop="20241018183000 +0000">
 		<title>Suman Indori Episode 45</title>
-		<desc>Forced by fate to marry a rich, shrewd politician, Suman embraces obstacles adjusting to her new life while dealing with her sister-in-law who seeks to become the head of the household.</desc>
+		<desc>Sensing a threat to Rishi's life, a concerned Suman seeks the Mittal family's permission to visit her brother in the hospital.</desc>
 	</programme>
 	<programme channel="5652" start="20241018183000 +0000" stop="20241018190000 +0000">
 		<title>Parineetii Episode 906</title>
-		<desc>Two best friends who support each other through thick and thin face a problem when circumstance causes both of them to get married to the same man.</desc>
+		<desc>Parineet lashes out at Raghav when he insists that the former confess her true identity. Eventually, she seeks Ambika's help to get even with Rajeev.</desc>
 	</programme>
 	<programme channel="5652" start="20241018190000 +0000" stop="20241018193000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 480</title>
-		<desc>Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity.</desc>
+		<desc>Lord Shiv turns emotional upon learning abut Goddess Parvati's decision to part ways. However, Mata Parvati reassures Lord Shiv about the noble motives behind her decision.</desc>
 	</programme>
 	<programme channel="5652" start="20241018193000 +0000" stop="20241018200000 +0000">
 		<title>Mangal Lakshmi Episode 233</title>
-		<desc>Mangal searches for a perfect husband for her sister, Lakshmi, revealing the enduring strength of sisterhood and the power of destiny over this journey.</desc>
+		<desc>When Adit gets ready to marry Sowmya, Mangal spots them in the temple. Later, when a crestfallen Mangal returns home, Kusum questions her.</desc>
 	</programme>
 	<programme channel="5652" start="20241018200000 +0000" stop="20241018203000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 32</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Following Durga's imminent wedding, Paani Bai and Vikram discuss Anurag's marriage. Meanwhile, Anurag confides his heartbreak with Anubhav as Rajesh completes the wedding rituals with Durga.</desc>
 	</programme>
 	<programme channel="5652" start="20241018203000 +0000" stop="20241018210000 +0000">
 		<title>Mera Balam Thanedaar Episode 208</title>
-		<desc>An amiable girl who believes in supporting the lie if someone benefits for good marries a police officer under unfortunate circumstances.</desc>
+		<desc>Veer intervenes as Drishti raises her hand to slap Bulbul. Subsequently, tragedy strikes when Ratan abducts Varnika and instructs Bulbul to meet him in a desolate area.</desc>
 	</programme>
 	<programme channel="5652" start="20241018210000 +0000" stop="20241018213000 +0000">
 		<title>Mishri Episode 105</title>
-		<desc>A young girl, adored by her community, finds joy in the happiness of others and strives to fulfil her late father's aspirations by finishing her academic education.</desc>
+		<desc>While Ranjeet gets wind of Mishri's attempts to save Raghav, Mishri rushes a wounded Raghav to a nearby hospital. Later, Raghav places a precondition before accepting Sulekha's request to return home.</desc>
 	</programme>
 	<programme channel="5652" start="20241018213000 +0000" stop="20241018220000 +0000">
 		<title>Parineetii Episode 904</title>
-		<desc>Two best friends who support each other through thick and thin face a problem when circumstance causes both of them to get married to the same man.</desc>
+		<desc>Rajeev remains apprehensive about Parvati's ability to confess her true identity. On the other hand, Ambika coaxes Pari to stop Neeti from marrying Rajeev.</desc>
 	</programme>
 	<programme channel="5652" start="20241018220000 +0000" stop="20241018223000 +0000">
 		<title>Parineetii Episode 905</title>
-		<desc>Two best friends who support each other through thick and thin face a problem when circumstance causes both of them to get married to the same man.</desc>
+		<desc>Despite Neeti's efforts to defend Pari, Rajeev violently confronts the latter for concealing her identity. However, Pari remains unfazed and bravely counters Rajeev's accusations.</desc>
 	</programme>
 	<programme channel="5652" start="20241018223000 +0000" stop="20241018230000 +0000">
 		<title>Parineetii Episode 906</title>
-		<desc>Two best friends who support each other through thick and thin face a problem when circumstance causes both of them to get married to the same man.</desc>
+		<desc>Parineet lashes out at Raghav when he insists that the former confess her true identity. Eventually, she seeks Ambika's help to get even with Rajeev.</desc>
 	</programme>
 	<programme channel="5652" start="20241018230000 +0000" stop="20241018233000 +0000">
 		<title>Megha Barsenge Episode 71</title>
-		<desc>After a groom absconds from his wedding, his bride is left at the mercy of her sentiments of abandonment and to endure a judgemental societal structure.</desc>
+		<desc>Sikander arrives with his goons and threatens to abduct Riya if Megha fails to repay Manoj's pending due. Later, Megha tries to reassure Riya about her safety.</desc>
 	</programme>
 	<programme channel="5652" start="20241018233000 +0000" stop="20241019000000 +0000">
 		<title>Megha Barsenge Episode 72</title>
-		<desc>After a groom absconds from his wedding, his bride is left at the mercy of her sentiments of abandonment and to endure a judgemental societal structure.</desc>
+		<desc>Megha grabs a weapon to defend Riya from Sikandar's unwelcome advances. Subsequently, Arjun is shocked to learn about Sikander evil intentions.</desc>
 	</programme>
 	<programme channel="5652" start="20241019000000 +0000" stop="20241019003000 +0000">
 		<title>Megha Barsenge Episode 73</title>
-		<desc>After a groom absconds from his wedding, his bride is left at the mercy of her sentiments of abandonment and to endure a judgemental societal structure.</desc>
+		<desc>Navjot slips into a fit of blind rage after learning about Arjun's humiliating assault. Later, Arjun is shocked to stumble upon a horrific secret about Manoj's past.</desc>
 	</programme>
 	<programme channel="5652" start="20241019003000 +0000" stop="20241019010000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 478</title>
-		<desc>Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity.</desc>
+		<desc>Enraged by Ayus' outrageous demands, a visibly furious Lord Shiv threatens to annihilate him. However, Ayus remains unfazed and reiterates his marital demands.</desc>
 	</programme>
 	<programme channel="5652" start="20241019010000 +0000" stop="20241019013000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 479</title>
-		<desc>Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity.</desc>
+		<desc>Bowing to Ayus' demands, Goddess Parvati decides to part ways with Lord Shiv in the hope of uniting Nahusha and Ashok Sundari in holy matrimony.</desc>
 	</programme>
 	<programme channel="5652" start="20241019013000 +0000" stop="20241019020000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 480</title>
-		<desc>Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity.</desc>
+		<desc>Lord Shiv turns emotional upon learning abut Goddess Parvati's decision to part ways. However, Mata Parvati reassures Lord Shiv about the noble motives behind her decision.</desc>
 	</programme>
 	<programme channel="5652" start="20241019020000 +0000" stop="20241019023000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 30</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Encouraged by Anurag's inspiring words, Durga agrees to flee from the wedding venue. However, Durga's rebellion fills Rajesh with a wave of blind rage and vengeance.</desc>
 	</programme>
 	<programme channel="5652" start="20241019023000 +0000" stop="20241019030000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 31</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Fearing for Anurag's life and prestige, Durga makes up her mind to undertake a drastic measure. Later, Anurag feels heartbroken when Durga remains adamant about marrying Rajesh.</desc>
 	</programme>
 	<programme channel="5652" start="20241019030000 +0000" stop="20241019033000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 32</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Following Durga's imminent wedding, Paani Bai and Vikram discuss Anurag's marriage. Meanwhile, Anurag confides his heartbreak with Anubhav as Rajesh completes the wedding rituals with Durga.</desc>
 	</programme>
 	<programme channel="5652" start="20241019033000 +0000" stop="20241019040000 +0000">
 		<title>Desi Beat Episode 32</title>
@@ -29458,43 +29454,43 @@ Christy、Jessica穿上型格「牛仔」便服，尋找隱世名店盡情打卡
 	</programme>
 	<programme channel="5652" start="20241019043000 +0000" stop="20241019050000 +0000">
 		<title>Suman Indori Episode 46</title>
-		<desc>Forced by fate to marry a rich, shrewd politician, Suman embraces obstacles adjusting to her new life while dealing with her sister-in-law who seeks to become the head of the household.</desc>
+		<desc>Chandrakant informs Suman that the latter's brother is admitted to the hospital. On the other hand, Devika's plan backfires.</desc>
 	</programme>
 	<programme channel="5652" start="20241019050000 +0000" stop="20241019052000 +0000">
 		<title>Megha Barsenge Episode 74</title>
-		<desc>After a groom absconds from his wedding, his bride is left at the mercy of her sentiments of abandonment and to endure a judgemental societal structure.</desc>
+		<desc>Megha begins to worry about Surender, who assures her that he is fine. Later, Megha finds Manoj's medical file and gets shocked.</desc>
 	</programme>
 	<programme channel="5652" start="20241019052000 +0000" stop="20241019054000 +0000">
 		<title>Parineetii Episode 907</title>
-		<desc>Two best friends who support each other through thick and thin face a problem when circumstance causes both of them to get married to the same man.</desc>
+		<desc>When Babli and Monty collide with each other, he expresses his feelings to her. Neeti, on the other hand, witnesses something unexpected.</desc>
 	</programme>
 	<programme channel="5652" start="20241019054000 +0000" stop="20241019060000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 33</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>When Durga agrees to get married to Rajesh, Anurag is left shattered. Later, Vikram's mother tries to find out the reason behind Durga's decision.</desc>
 	</programme>
 	<programme channel="5652" start="20241019060000 +0000" stop="20241019063000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 481</title>
-		<desc>Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity.</desc>
+		<desc>Goddess Paravati takes Lord Shiva to the garden and shows him Ashok Sundari. Later, Lord Shiva tries to hide the truth about Purva's condition from Ashok Sundari.</desc>
 	</programme>
 	<programme channel="5652" start="20241019063000 +0000" stop="20241019070000 +0000">
 		<title>Mishri Episode 106</title>
-		<desc>A young girl, adored by her community, finds joy in the happiness of others and strives to fulfil her late father's aspirations by finishing her academic education.</desc>
+		<desc>Raghav tries to make Mishri believe that he has accepted her as his wife. However, Mishri is reluctant to believe him and questions him.</desc>
 	</programme>
 	<programme channel="5652" start="20241019070000 +0000" stop="20241019073000 +0000">
 		<title>Mangal Lakshmi Episode 234</title>
-		<desc>Mangal searches for a perfect husband for her sister, Lakshmi, revealing the enduring strength of sisterhood and the power of destiny over this journey.</desc>
+		<desc>When Sowmya returns home in despair, she informs Adit's family about his wedding. Later, everyone is left shocked by Sowmya's statement.</desc>
 	</programme>
 	<programme channel="5652" start="20241019073000 +0000" stop="20241019090000 +0000">
 		<title>Bigg Boss Episode 11</title>
-		<desc>As Bigg Boss delves into the future of the contestants with the cataclysm of technology, the housemates try to conquer 'Time Ka Tandav', and emerge victorious in a locked house in BB's surveillance.</desc>
+		<desc>Avinash's future in the Bigg Boss house is put to the test when his fiery altercations with fellow housemates pushes him to the cusp of eviction.</desc>
 	</programme>
 	<programme channel="5652" start="20241019090000 +0000" stop="20241019093000 +0000">
 		<title>Mangal Lakshmi Episode 233</title>
-		<desc>Mangal searches for a perfect husband for her sister, Lakshmi, revealing the enduring strength of sisterhood and the power of destiny over this journey.</desc>
+		<desc>When Adit gets ready to marry Sowmya, Mangal spots them in the temple. Later, when a crestfallen Mangal returns home, Kusum questions her.</desc>
 	</programme>
 	<programme channel="5652" start="20241019093000 +0000" stop="20241019100000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 32</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Following Durga's imminent wedding, Paani Bai and Vikram discuss Anurag's marriage. Meanwhile, Anurag confides his heartbreak with Anubhav as Rajesh completes the wedding rituals with Durga.</desc>
 	</programme>
 	<programme channel="5652" start="20241019100000 +0000" stop="20241019103000 +0000">
 		<title>Desi Beat Episode 34</title>
@@ -29502,35 +29498,35 @@ Christy、Jessica穿上型格「牛仔」便服，尋找隱世名店盡情打卡
 	</programme>
 	<programme channel="5652" start="20241019103000 +0000" stop="20241019110000 +0000">
 		<title>Suman Indori Episode 46</title>
-		<desc>Forced by fate to marry a rich, shrewd politician, Suman embraces obstacles adjusting to her new life while dealing with her sister-in-law who seeks to become the head of the household.</desc>
+		<desc>Chandrakant informs Suman that the latter's brother is admitted to the hospital. On the other hand, Devika's plan backfires.</desc>
 	</programme>
 	<programme channel="5652" start="20241019110000 +0000" stop="20241019112000 +0000">
 		<title>Megha Barsenge Episode 74</title>
-		<desc>After a groom absconds from his wedding, his bride is left at the mercy of her sentiments of abandonment and to endure a judgemental societal structure.</desc>
+		<desc>Megha begins to worry about Surender, who assures her that he is fine. Later, Megha finds Manoj's medical file and gets shocked.</desc>
 	</programme>
 	<programme channel="5652" start="20241019112000 +0000" stop="20241019114000 +0000">
 		<title>Parineetii Episode 907</title>
-		<desc>Two best friends who support each other through thick and thin face a problem when circumstance causes both of them to get married to the same man.</desc>
+		<desc>When Babli and Monty collide with each other, he expresses his feelings to her. Neeti, on the other hand, witnesses something unexpected.</desc>
 	</programme>
 	<programme channel="5652" start="20241019114000 +0000" stop="20241019120000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 33</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>When Durga agrees to get married to Rajesh, Anurag is left shattered. Later, Vikram's mother tries to find out the reason behind Durga's decision.</desc>
 	</programme>
 	<programme channel="5652" start="20241019120000 +0000" stop="20241019123000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 481</title>
-		<desc>Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity.</desc>
+		<desc>Goddess Paravati takes Lord Shiva to the garden and shows him Ashok Sundari. Later, Lord Shiva tries to hide the truth about Purva's condition from Ashok Sundari.</desc>
 	</programme>
 	<programme channel="5652" start="20241019123000 +0000" stop="20241019130000 +0000">
 		<title>Mishri Episode 106</title>
-		<desc>A young girl, adored by her community, finds joy in the happiness of others and strives to fulfil her late father's aspirations by finishing her academic education.</desc>
+		<desc>Raghav tries to make Mishri believe that he has accepted her as his wife. However, Mishri is reluctant to believe him and questions him.</desc>
 	</programme>
 	<programme channel="5652" start="20241019130000 +0000" stop="20241019133000 +0000">
 		<title>Mangal Lakshmi Episode 234</title>
-		<desc>Mangal searches for a perfect husband for her sister, Lakshmi, revealing the enduring strength of sisterhood and the power of destiny over this journey.</desc>
+		<desc>When Sowmya returns home in despair, she informs Adit's family about his wedding. Later, everyone is left shocked by Sowmya's statement.</desc>
 	</programme>
 	<programme channel="5652" start="20241019133000 +0000" stop="20241019150000 +0000">
 		<title>Bigg Boss Episode 12</title>
-		<desc>As Bigg Boss delves into the future of the contestants with the cataclysm of technology, the housemates try to conquer 'Time Ka Tandav', and emerge victorious in a locked house in BB's surveillance.</desc>
+		<desc>When Avinash becomes in charge of the ration, Shilpa opposes his decisions. Later, Chum and Chahat get involved in a physical altercation.</desc>
 	</programme>
 	<programme channel="5652" start="20241019150000 +0000" stop="20241019153000 +0000">
 		<title>Desi Beat Episode 34</title>
@@ -29538,103 +29534,103 @@ Christy、Jessica穿上型格「牛仔」便服，尋找隱世名店盡情打卡
 	</programme>
 	<programme channel="5652" start="20241019153000 +0000" stop="20241019160000 +0000">
 		<title>Suman Indori Episode 46</title>
-		<desc>Forced by fate to marry a rich, shrewd politician, Suman embraces obstacles adjusting to her new life while dealing with her sister-in-law who seeks to become the head of the household.</desc>
+		<desc>Chandrakant informs Suman that the latter's brother is admitted to the hospital. On the other hand, Devika's plan backfires.</desc>
 	</programme>
 	<programme channel="5652" start="20241019160000 +0000" stop="20241019162000 +0000">
 		<title>Megha Barsenge Episode 74</title>
-		<desc>After a groom absconds from his wedding, his bride is left at the mercy of her sentiments of abandonment and to endure a judgemental societal structure.</desc>
+		<desc>Megha begins to worry about Surender, who assures her that he is fine. Later, Megha finds Manoj's medical file and gets shocked.</desc>
 	</programme>
 	<programme channel="5652" start="20241019162000 +0000" stop="20241019164000 +0000">
 		<title>Parineetii Episode 907</title>
-		<desc>Two best friends who support each other through thick and thin face a problem when circumstance causes both of them to get married to the same man.</desc>
+		<desc>When Babli and Monty collide with each other, he expresses his feelings to her. Neeti, on the other hand, witnesses something unexpected.</desc>
 	</programme>
 	<programme channel="5652" start="20241019164000 +0000" stop="20241019170000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 33</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>When Durga agrees to get married to Rajesh, Anurag is left shattered. Later, Vikram's mother tries to find out the reason behind Durga's decision.</desc>
 	</programme>
 	<programme channel="5652" start="20241019170000 +0000" stop="20241019173000 +0000">
 		<title>Mishri Episode 106</title>
-		<desc>A young girl, adored by her community, finds joy in the happiness of others and strives to fulfil her late father's aspirations by finishing her academic education.</desc>
+		<desc>Raghav tries to make Mishri believe that he has accepted her as his wife. However, Mishri is reluctant to believe him and questions him.</desc>
 	</programme>
 	<programme channel="5652" start="20241019173000 +0000" stop="20241019180000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 481</title>
-		<desc>Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity.</desc>
+		<desc>Goddess Paravati takes Lord Shiva to the garden and shows him Ashok Sundari. Later, Lord Shiva tries to hide the truth about Purva's condition from Ashok Sundari.</desc>
 	</programme>
 	<programme channel="5652" start="20241019180000 +0000" stop="20241019183000 +0000">
 		<title>Suman Indori Episode 46</title>
-		<desc>Forced by fate to marry a rich, shrewd politician, Suman embraces obstacles adjusting to her new life while dealing with her sister-in-law who seeks to become the head of the household.</desc>
+		<desc>Chandrakant informs Suman that the latter's brother is admitted to the hospital. On the other hand, Devika's plan backfires.</desc>
 	</programme>
 	<programme channel="5652" start="20241019183000 +0000" stop="20241019190000 +0000">
 		<title>Parineetii Episode 907</title>
-		<desc>Two best friends who support each other through thick and thin face a problem when circumstance causes both of them to get married to the same man.</desc>
+		<desc>When Babli and Monty collide with each other, he expresses his feelings to her. Neeti, on the other hand, witnesses something unexpected.</desc>
 	</programme>
 	<programme channel="5652" start="20241019190000 +0000" stop="20241019193000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 481</title>
-		<desc>Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity.</desc>
+		<desc>Goddess Paravati takes Lord Shiva to the garden and shows him Ashok Sundari. Later, Lord Shiva tries to hide the truth about Purva's condition from Ashok Sundari.</desc>
 	</programme>
 	<programme channel="5652" start="20241019193000 +0000" stop="20241019200000 +0000">
 		<title>Mangal Lakshmi Episode 234</title>
-		<desc>Mangal searches for a perfect husband for her sister, Lakshmi, revealing the enduring strength of sisterhood and the power of destiny over this journey.</desc>
+		<desc>When Sowmya returns home in despair, she informs Adit's family about his wedding. Later, everyone is left shocked by Sowmya's statement.</desc>
 	</programme>
 	<programme channel="5652" start="20241019200000 +0000" stop="20241019203000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 33</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>When Durga agrees to get married to Rajesh, Anurag is left shattered. Later, Vikram's mother tries to find out the reason behind Durga's decision.</desc>
 	</programme>
 	<programme channel="5652" start="20241019203000 +0000" stop="20241019210000 +0000">
 		<title>Suman Indori Episode 46</title>
-		<desc>Forced by fate to marry a rich, shrewd politician, Suman embraces obstacles adjusting to her new life while dealing with her sister-in-law who seeks to become the head of the household.</desc>
+		<desc>Chandrakant informs Suman that the latter's brother is admitted to the hospital. On the other hand, Devika's plan backfires.</desc>
 	</programme>
 	<programme channel="5652" start="20241019210000 +0000" stop="20241019213000 +0000">
 		<title>Mishri Episode 106</title>
-		<desc>A young girl, adored by her community, finds joy in the happiness of others and strives to fulfil her late father's aspirations by finishing her academic education.</desc>
+		<desc>Raghav tries to make Mishri believe that he has accepted her as his wife. However, Mishri is reluctant to believe him and questions him.</desc>
 	</programme>
 	<programme channel="5652" start="20241019213000 +0000" stop="20241019220000 +0000">
 		<title>Parineetii Episode 907</title>
-		<desc>Two best friends who support each other through thick and thin face a problem when circumstance causes both of them to get married to the same man.</desc>
+		<desc>When Babli and Monty collide with each other, he expresses his feelings to her. Neeti, on the other hand, witnesses something unexpected.</desc>
 	</programme>
 	<programme channel="5652" start="20241019220000 +0000" stop="20241019223000 +0000">
 		<title>Mishri Episode 104</title>
-		<desc>A young girl, adored by her community, finds joy in the happiness of others and strives to fulfil her late father's aspirations by finishing her academic education.</desc>
+		<desc>Mishri proclaims innocence when Sulekha and Vaani accuse her of trying to sabotage Ridhi's engagement ceremony. Meanwhile, Ranjeet plans to attack Raghav with a dangerous chemical.</desc>
 	</programme>
 	<programme channel="5652" start="20241019223000 +0000" stop="20241019230000 +0000">
 		<title>Mishri Episode 103</title>
-		<desc>A young girl, adored by her community, finds joy in the happiness of others and strives to fulfil her late father's aspirations by finishing her academic education.</desc>
+		<desc>While Mishri desperately tries to locate Raghav's whereabouts, Chitra's goons manage to kidnap the unsuspecting Raghav. Subsequently, a furious Sulekha holds Mishri accountable for Raghav's misery.</desc>
 	</programme>
 	<programme channel="5652" start="20241019230000 +0000" stop="20241019233000 +0000">
 		<title>Mangal Lakshmi Episode 232</title>
-		<desc>Mangal searches for a perfect husband for her sister, Lakshmi, revealing the enduring strength of sisterhood and the power of destiny over this journey.</desc>
+		<desc>Overwhelmed by a sense of betrayal and pain, a heartbroken Mangal confronts Adit after witnessing the latter marrying Soumya.</desc>
 	</programme>
 	<programme channel="5652" start="20241019233000 +0000" stop="20241020000000 +0000">
 		<title>Mangal Lakshmi Episode 233</title>
-		<desc>Mangal searches for a perfect husband for her sister, Lakshmi, revealing the enduring strength of sisterhood and the power of destiny over this journey.</desc>
+		<desc>When Adit gets ready to marry Sowmya, Mangal spots them in the temple. Later, when a crestfallen Mangal returns home, Kusum questions her.</desc>
 	</programme>
 	<programme channel="5652" start="20241020000000 +0000" stop="20241020003000 +0000">
 		<title>Mangal Lakshmi Episode 234</title>
-		<desc>Mangal searches for a perfect husband for her sister, Lakshmi, revealing the enduring strength of sisterhood and the power of destiny over this journey.</desc>
+		<desc>When Sowmya returns home in despair, she informs Adit's family about his wedding. Later, everyone is left shocked by Sowmya's statement.</desc>
 	</programme>
 	<programme channel="5652" start="20241020003000 +0000" stop="20241020010000 +0000">
 		<title>Suman Indori Episode 44</title>
-		<desc>Forced by fate to marry a rich, shrewd politician, Suman embraces obstacles adjusting to her new life while dealing with her sister-in-law who seeks to become the head of the household.</desc>
+		<desc>While Rishi wages a lone battle for his life, Gulshan secretly creeps into the hospital ward with the intention of killing Rishi.</desc>
 	</programme>
 	<programme channel="5652" start="20241020010000 +0000" stop="20241020013000 +0000">
 		<title>Suman Indori Episode 45</title>
-		<desc>Forced by fate to marry a rich, shrewd politician, Suman embraces obstacles adjusting to her new life while dealing with her sister-in-law who seeks to become the head of the household.</desc>
+		<desc>Sensing a threat to Rishi's life, a concerned Suman seeks the Mittal family's permission to visit her brother in the hospital.</desc>
 	</programme>
 	<programme channel="5652" start="20241020013000 +0000" stop="20241020020000 +0000">
 		<title>Suman Indori Episode 46</title>
-		<desc>Forced by fate to marry a rich, shrewd politician, Suman embraces obstacles adjusting to her new life while dealing with her sister-in-law who seeks to become the head of the household.</desc>
+		<desc>Chandrakant informs Suman that the latter's brother is admitted to the hospital. On the other hand, Devika's plan backfires.</desc>
 	</programme>
 	<programme channel="5652" start="20241020020000 +0000" stop="20241020023000 +0000">
 		<title>Mera Balam Thanedaar Episode 206</title>
-		<desc>An amiable girl who believes in supporting the lie if someone benefits for good marries a police officer under unfortunate circumstances.</desc>
+		<desc>Raashi tries to console a heartbroken Veer. On the other hand, Bulbul executes a clever move to expose Drishti's cunning agenda.</desc>
 	</programme>
 	<programme channel="5652" start="20241020023000 +0000" stop="20241020030000 +0000">
 		<title>Mera Balam Thanedaar Episode 207</title>
-		<desc>An amiable girl who believes in supporting the lie if someone benefits for good marries a police officer under unfortunate circumstances.</desc>
+		<desc>Bulbul abducts the warden to extract her confession against Drishti. Later, Bulbul installs a CCTV camera in the Pushkar household to expose Drishti's crimes.</desc>
 	</programme>
 	<programme channel="5652" start="20241020030000 +0000" stop="20241020033000 +0000">
 		<title>Mera Balam Thanedaar Episode 208</title>
-		<desc>An amiable girl who believes in supporting the lie if someone benefits for good marries a police officer under unfortunate circumstances.</desc>
+		<desc>Veer intervenes as Drishti raises her hand to slap Bulbul. Subsequently, tragedy strikes when Ratan abducts Varnika and instructs Bulbul to meet him in a desolate area.</desc>
 	</programme>
 	<programme channel="5652" start="20241020033000 +0000" stop="20241020040000 +0000">
 		<title>Desi Beat Episode 33</title>
@@ -29674,15 +29670,15 @@ Christy、Jessica穿上型格「牛仔」便服，尋找隱世名店盡情打卡
 	</programme>
 	<programme channel="5652" start="20241020073000 +0000" stop="20241020090000 +0000">
 		<title>Bigg Boss Episode 12</title>
-		<desc>As Bigg Boss delves into the future of the contestants with the cataclysm of technology, the housemates try to conquer 'Time Ka Tandav', and emerge victorious in a locked house in BB's surveillance.</desc>
+		<desc>When Avinash becomes in charge of the ration, Shilpa opposes his decisions. Later, Chum and Chahat get involved in a physical altercation.</desc>
 	</programme>
 	<programme channel="5652" start="20241020090000 +0000" stop="20241020093000 +0000">
 		<title>Mangal Lakshmi Episode 234</title>
-		<desc>Mangal searches for a perfect husband for her sister, Lakshmi, revealing the enduring strength of sisterhood and the power of destiny over this journey.</desc>
+		<desc>When Sowmya returns home in despair, she informs Adit's family about his wedding. Later, everyone is left shocked by Sowmya's statement.</desc>
 	</programme>
 	<programme channel="5652" start="20241020093000 +0000" stop="20241020100000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 33</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>When Durga agrees to get married to Rajesh, Anurag is left shattered. Later, Vikram's mother tries to find out the reason behind Durga's decision.</desc>
 	</programme>
 	<programme channel="5652" start="20241020100000 +0000" stop="20241020103000 +0000">
 		<title>Mr & Master Cook Episode 3</title>
@@ -29717,8 +29713,8 @@ Christy、Jessica穿上型格「牛仔」便服，尋找隱世名店盡情打卡
 		<desc>Mangal searches for a perfect husband for her sister, Lakshmi, revealing the enduring strength of sisterhood and the power of destiny over this journey.</desc>
 	</programme>
 	<programme channel="5652" start="20241020133000 +0000" stop="20241020153000 +0000">
-		<title>Bigg Boss Episode 13</title>
-		<desc>As Bigg Boss delves into the future of the contestants with the cataclysm of technology, the housemates try to conquer 'Time Ka Tandav', and emerge victorious in a locked house in BB's surveillance.</desc>
+		<title>Bigg Boss - Weekend Ka Vaar Episode 13</title>
+		<desc>Host Salman Khan entertains the audience and interacts with the housemates to discuss the various happenings over the week.</desc>
 	</programme>
 	<programme channel="5654" start="20241018160000 +0000" stop="20241018163000 +0000">
 		<title>Kulfi Kumar Bajewala Episode 190</title>
@@ -30789,160 +30785,168 @@ Christy、Jessica穿上型格「牛仔」便服，尋找隱世名店盡情打卡
 		<desc>Entertainement</desc>
 	</programme>
 	<programme channel="5671" start="20241018160000 +0000" stop="20241018170000 +0000">
-		<title>BIGG BOSS 8</title>
-		<desc>BIGG BOSS 8</desc>
+		<title>Bigg Boss S08</title>
+		<desc>Celebrities live in an isolated house cut off from the rest of the world. They have to compete in challenging tasks to avoid elimination and win.</desc>
 	</programme>
 	<programme channel="5671" start="20241018170000 +0000" stop="20241018173000 +0000">
-		<title>BIGG BOSS 8 - UNSEEN EXTRA CUTS</title>
-		<desc>BIGG BOSS 8 - UNSEEN EXTRA CUTS</desc>
+		<title>Bigg Boss S08 - Unseen Extra Cuts</title>
+		<desc>Exclusive behind-the-scenes footage and unseen moments from Bigg Boss Season 8.</desc>
 	</programme>
 	<programme channel="5671" start="20241018173000 +0000" stop="20241018183000 +0000">
-		<title>Movie_EXTRA ORDINARY MAN</title>
-		<desc>Movie_EXTRA ORDINARY MAN</desc>
+		<title>Extra Ordinary Man</title>
+		<desc>A former movie extra tells the story of how he became a smuggler and vigilante hero.</desc>
 	</programme>
 	<programme channel="5671" start="20241018183000 +0000" stop="20241018203000 +0000">
-		<title>Movie_EXTRA ORDINARY MAN</title>
-		<desc>Movie_EXTRA ORDINARY MAN</desc>
+		<title>Extra Ordinary Man</title>
+		<desc>A former movie extra tells the story of how he became a smuggler and vigilante hero.</desc>
 	</programme>
 	<programme channel="5671" start="20241018203000 +0000" stop="20241018230000 +0000">
-		<title>Movie_CHANDRAMUKHI</title>
-		<desc>Movie_CHANDRAMUKHI</desc>
+		<title>Chandramukhi</title>
+		<desc>Strange occurrences in an old mansion believed to be caused by the vengeful ghost of an ancient courtesan.</desc>
 	</programme>
 	<programme channel="5671" start="20241018230000 +0000" stop="20241019010000 +0000">
-		<title>Movie_OKA LAILA KOSAM</title>
-		<desc>Entertainment</desc>
+		<title>Oka Laila Kosam</title>
+		<desc>After returning from Europe Karthik falls head over heels for Nandana, who can't stand him.</desc>
 	</programme>
 	<programme channel="5671" start="20241019010000 +0000" stop="20241019013000 +0000">
-		<title>FUN TIME</title>
-		<desc>FUN TIME</desc>
+		<title>Fun Time</title>
+		<desc>Tune into a compilation of comedy clips from the recently released Tollywood movies.</desc>
 	</programme>
 	<programme channel="5671" start="20241019013000 +0000" stop="20241019033000 +0000">
-		<title>AADIVARAM STAR MAA PARIVARAM ® - STAR WARS</title>
-		<desc>AADIVARAM STAR MAA PARIVARAM ® - STAR WARS</desc>
+		<title>Aadivaram Star Maa Parivaram - Star Wars S02</title>
+		<desc>Sreemukhi hosts a non-stop entertainment event where Maa families play musical games and compete for cash prizes.</desc>
 	</programme>
 	<programme channel="5671" start="20241019033000 +0000" stop="20241019063000 +0000">
-		<title>MAA VARALAKSHMI VRATAM 2024</title>
-		<desc>Entertainment</desc>
+		<title>Maa Varalakshmi Vratam 2024</title>
+		<desc>Join the leading ladies of Maa for a grand Varalakshmi Vratham celebration.</desc>
 	</programme>
 	<programme channel="5671" start="20241019063000 +0000" stop="20241019070000 +0000">
-		<title>Paape Naa Jeevana Jyothi</title>
-		<desc>Story revolves around mother and missed daughter</desc>
+		<title>Paape Maa Jeevana Jyothi</title>
+		<desc>Jyothi seeks acceptance but faces turmoil as daughter Jeevana is kidnapped, jeopardizing their newfound peace.</desc>
 	</programme>
 	<programme channel="5671" start="20241019070000 +0000" stop="20241019073000 +0000">
-		<title>NINNU KORI</title>
-		<desc>NINNU KORI</desc>
+		<title>Ninnu Kori</title>
+		<desc>Pallavi invites her ex-boyfriend to stay with her and her husband to prove she is happy. Uma tries to break them up.</desc>
 	</programme>
 	<programme channel="5671" start="20241019073000 +0000" stop="20241019080000 +0000">
-		<title>NUVVU NENU PREMA</title>
-		<desc>NUVVU NENU PREMA</desc>
+		<title>Nuvvu Nenu Prema</title>
+		<desc>Padmavathi, a family-loving girl, meets Vikramaditya, an arrogant businessman grappling with the loss of his parents.</desc>
 	</programme>
 	<programme channel="5671" start="20241019080000 +0000" stop="20241019083000 +0000">
-		<title>PALUKE BANGARAMAYENA</title>
-		<desc>PALUKE BANGARAMAYENA</desc>
+		<title>Paluke Bangaramayena</title>
+		<desc>Speech-impaired Swaragini, deemed unlucky by her father. Can Officer Abhishek alter her fate?</desc>
 	</programme>
 	<programme channel="5671" start="20241019083000 +0000" stop="20241019090000 +0000">
-		<title>MAMA GARU</title>
-		<desc>Serial</desc>
+		<title>Mama Garu</title>
+		<desc>Ganga confronts chauvinistic father-in-law, challenging norms. Can she carve her path to victory and claim her rights?</desc>
 	</programme>
 	<programme channel="5671" start="20241019090000 +0000" stop="20241019093000 +0000">
 		<title>Vantalakka</title>
-		<desc>Serial</desc>
+		<desc>Kind-hearted Murali loves a wealthy girl. Their romance encounters numerous obstacles.</desc>
 	</programme>
 	<programme channel="5671" start="20241019093000 +0000" stop="20241019100000 +0000">
 		<title>Malli</title>
-		<desc>Story of village girl</desc>
+		<desc>Malli promises Meera after hearing her past. Arvind's family frets over his new project.</desc>
 	</programme>
 	<programme channel="5671" start="20241019100000 +0000" stop="20241019103000 +0000">
-		<title>YETO VELLIPOINDI MANASU</title>
-		<desc>YETO VELLIPOINDI MANASU</desc>
+		<title>Yeto Vellipoindi Manasu</title>
+		<desc>Varun and Nithya's lifelong journey is marked by ups and downs, leading to multiple separations.</desc>
 	</programme>
 	<programme channel="5671" start="20241019103000 +0000" stop="20241019110000 +0000">
-		<title>GUNDE NINDA GUDIGANTALU</title>
-		<desc>Entertainment</desc>
+		<title>Gunde Ninda Gudigantalu</title>
+		<desc>Circumstances force Meena, a family-centric girl, to marry Balu, a thug. Will this unfortunate marriage turn into love?</desc>
 	</programme>
 	<programme channel="5671" start="20241019110000 +0000" stop="20241019120000 +0000">
-		<title>BIGG BOSS 8 ® -</title>
-		<desc>BIGG BOSS 8 ® -</desc>
+		<title>Bigg Boss S08</title>
+		<desc>Celebrities live in an isolated house cut off from the rest of the world. They have to compete in challenging tasks to avoid elimination and win.</desc>
 	</programme>
 	<programme channel="5671" start="20241019120000 +0000" stop="20241019123000 +0000">
-		<title>GUPPEDANTHA MANASU ®</title>
-		<desc>GUPPEDANTHA MANASU ®</desc>
+		<title>Guppedantha Manasu</title>
+		<desc>Anupama urges Mahindra to report Rishi's disappearance. Next day, Vasudhara sets out on a mission to locate him.</desc>
 	</programme>
-	<programme channel="5671" start="20241019123000 +0000" stop="20241019133000 +0000">
-		<title>MAGUVA O MAGUVA</title>
-		<desc>MAGUVA O MAGUVA</desc>
+	<programme channel="5671" start="20241019123000 +0000" stop="20241019130000 +0000">
+		<title>Sathyabhama</title>
+		<desc>Krish falls for Satya, a principled girl. What unfolds for this extraordinary couple in their love story?</desc>
+	</programme>
+	<programme channel="5671" start="20241019130000 +0000" stop="20241019133000 +0000">
+		<title>Maguva O Maguva</title>
+		<desc>Wealthy Akhila and single mom Anjali bond during pregnancy, navigating diverse backgrounds in a tale of motherhood.</desc>
 	</programme>
 	<programme channel="5671" start="20241019133000 +0000" stop="20241019140000 +0000">
-		<title>CHINNI</title>
-		<desc>Serial</desc>
+		<title>Chinni</title>
+		<desc>A heartwarming tale of a Mother and Daughter navigating through unexpected challenges, strengthening their bond and understanding each other in new ways.</desc>
 	</programme>
 	<programme channel="5671" start="20241019140000 +0000" stop="20241019143000 +0000">
-		<title>BRAHMA MUDI</title>
-		<desc>BRAHMA MUDI</desc>
+		<title>Brahma Mudi</title>
+		<desc>Mother arranges weddings for talented daughters. Affairs take an unexpected turn with an affluent family.</desc>
 	</programme>
-	<programme channel="5671" start="20241019143000 +0000" stop="20241019153000 +0000">
-		<title>INTINTI RAMAYANAM</title>
-		<desc>INTINTI RAMAYANAM</desc>
+	<programme channel="5671" start="20241019143000 +0000" stop="20241019150000 +0000">
+		<title>Karthika Deepam-Nava Vasantham</title>
+		<desc>Deepa, dark-skinned, toils against social pressures after marrying Dr. Karthik.</desc>
+	</programme>
+	<programme channel="5671" start="20241019150000 +0000" stop="20241019153000 +0000">
+		<title>Intinti Ramayanam</title>
+		<desc>Members of a close-knit family begin to doubt one another when they suddenly face a problem.</desc>
 	</programme>
 	<programme channel="5671" start="20241019153000 +0000" stop="20241019153000 +0000">
-		<title>BIGG BOSS 8</title>
-		<desc>BIGG BOSS 8</desc>
+		<title>Bigg Boss S08</title>
+		<desc>Celebrities live in an isolated house cut off from the rest of the world. They have to compete in challenging tasks to avoid elimination and win.</desc>
 	</programme>
 	<programme channel="5671" start="20241019153000 +0000" stop="20241019170000 +0000">
-		<title>BIGG BOSS 8</title>
-		<desc>BIGG BOSS 8</desc>
+		<title>Bigg Boss S08</title>
+		<desc>Celebrities live in an isolated house cut off from the rest of the world. They have to compete in challenging tasks to avoid elimination and win.</desc>
 	</programme>
 	<programme channel="5671" start="20241019170000 +0000" stop="20241019173000 +0000">
-		<title>STAR MAA PARIVAR AWARDS 2024 - RED CARPET</title>
-		<desc>STAR MAA PARIVAR AWARDS 2024 - RED CARPET</desc>
+		<title>Star Maa Parivar Awards 2024 - Red Carpet</title>
+		<desc>Star Maa Parivar Awards 2024 - Red Carpet</desc>
 	</programme>
 	<programme channel="5671" start="20241019173000 +0000" stop="20241019183000 +0000">
-		<title>MOVIE_VIP-2</title>
-		<desc>MOVIE_VIP-2</desc>
+		<title>VIP 2</title>
+		<desc>Raghuvaran, a civil engineer, is offered a job by egoistic businesswoman Vasundhara, but he refuses.</desc>
 	</programme>
 	<programme channel="5671" start="20241019183000 +0000" stop="20241019190000 +0000">
-		<title>FUN TIME</title>
-		<desc>FUN TIME</desc>
+		<title>Real Estate Guru</title>
+		<desc>The host provides information related to the latest real estate developments.</desc>
 	</programme>
 	<programme channel="5671" start="20241019190000 +0000" stop="20241019203000 +0000">
-		<title>Movie_SKETCH</title>
-		<desc>Movie_SKETCH</desc>
+		<title>Sketch</title>
+		<desc>Sketch, who works as a loan shark, takes away the cars of the defaulters. What will he do when a dangerous don lands on his list?</desc>
 	</programme>
 	<programme channel="5671" start="20241019203000 +0000" stop="20241019230000 +0000">
-		<title>Movie_24</title>
-		<desc>Movie_24</desc>
+		<title>24</title>
+		<desc>Sethuraman invents a time-machine; his evil twin brother wants it. A fierce battle ensues between his son and brother.</desc>
 	</programme>
 	<programme channel="5671" start="20241019230000 +0000" stop="20241020010000 +0000">
-		<title>Movie_MAHANATI</title>
-		<desc>Entertainment</desc>
+		<title>Mahanati</title>
+		<desc>South Indian cinema star Savitri faces personal tragedies, battles alcoholism, and tragically loses her life. Release Year: 2018 Director: Nag Ashwin</desc>
 	</programme>
 	<programme channel="5671" start="20241020010000 +0000" stop="20241020013000 +0000">
-		<title>FUN TIME</title>
-		<desc>FUN TIME</desc>
+		<title>Fun Time</title>
+		<desc>Tune into a compilation of comedy clips from the recently released Tollywood movies.</desc>
 	</programme>
 	<programme channel="5671" start="20241020013000 +0000" stop="20241020023000 +0000">
-		<title>RAASI PHALALU</title>
-		<desc>RAASI PHALALU</desc>
+		<title>Raasi Phalalu</title>
+		<desc>Learn how the stars affect business, finance, health and travel.</desc>
 	</programme>
 	<programme channel="5671" start="20241020023000 +0000" stop="20241020053000 +0000">
-		<title>MOVIE_LOVE GURU</title>
-		<desc>Drama</desc>
+		<title>Love Guru</title>
+		<desc>The story revolves around a young man's reaction upon discovering that the girl he married is not interested in marriage.</desc>
 	</programme>
 	<programme channel="5671" start="20241020053000 +0000" stop="20241020073000 +0000">
-		<title>AADIVARAM STAR MAA PARIVARAM - STAR WARS_S5</title>
-		<desc>Entertainment</desc>
+		<title>Aadivaram Star Maa Parivaram - Star Wars S02</title>
+		<desc>Sreemukhi hosts a non-stop entertainment event where Maa families play musical games and compete for cash prizes.</desc>
 	</programme>
 	<programme channel="5671" start="20241020073000 +0000" stop="20241020100000 +0000">
-		<title>MOVIE_MANJUMMEL BOYS</title>
-		<desc>Entertainment</desc>
+		<title>Manjummel Boys</title>
+		<desc>Manjummel boys face danger when one plunges into Guna Caves, testing their unity.</desc>
 	</programme>
 	<programme channel="5671" start="20241020100000 +0000" stop="20241020123000 +0000">
-		<title>Movie_PRASANNA VADANAM</title>
-		<desc>Entertainment</desc>
+		<title>Prasanna Vadanam</title>
+		<desc>Centers on a man with prosopagnosia who struggles to recognize faces. When caught up in a crime scene, his condition becomes an extraordinary investigative tool.</desc>
 	</programme>
 	<programme channel="5671" start="20241020123000 +0000" stop="20241020153000 +0000">
-		<title>STAR MAA PARIVAR AWARDS 2024</title>
-		<desc>Entertainment</desc>
+		<title>Star Maa Parivar Awards 2024</title>
+		<desc>Star Maa Parivar Awards 2024</desc>
 	</programme>
 	<programme channel="5676" start="20241018160000 +0000" stop="20241018220000 +0000">
 		<title>NEWS</title>
@@ -32172,31 +32176,31 @@ Christy、Jessica穿上型格「牛仔」便服，尋找隱世名店盡情打卡
 		<title>News & Weather</title>
 		<desc>The latest up-to-date news and nationwide weather information.</desc>
 	</programme>
-	<programme channel="5682" start="20241020120000 +0000" stop="20241020124900 +0000">
-		<title>NHK Special</title>
+	<programme channel="5682" start="20241020120000 +0000" stop="20241020125900 +0000">
+		<title>NHK Special "Johnny Kitagawa: The Reality Behind the Idol Empire"</title>
 		<desc>A documentary based on timely subjects famous for its dignity and in-depth reporting.</desc>
 	</programme>
-	<programme channel="5682" start="20241020124900 +0000" stop="20241020125000 +0000">
+	<programme channel="5682" start="20241020125900 +0000" stop="20241020130000 +0000">
 		<title>World Weather</title>
 		<desc>Weather information of the different areas around the world.</desc>
 	</programme>
-	<programme channel="5682" start="20241020125000 +0000" stop="20241020134000 +0000">
+	<programme channel="5682" start="20241020130000 +0000" stop="20241020135000 +0000">
 		<title>Premium Drama "The Two in a Housing Complex" Eps. 7</title>
 		<desc>In their 50s, single, and living in their family home, these two childhood friends were born in a housing complex. Even though their hearts are stirred, they are fine together. It's a warm and humorous story of friendship, featuring the famous duo Koizumi</desc>
 	</programme>
-	<programme channel="5682" start="20241020134000 +0000" stop="20241020134500 +0000">
+	<programme channel="5682" start="20241020135000 +0000" stop="20241020135500 +0000">
 		<title>News & Weather</title>
 		<desc>The latest up-to-date news and nationwide weather information.</desc>
 	</programme>
-	<programme channel="5682" start="20241020134500 +0000" stop="20241020144300 +0000">
+	<programme channel="5682" start="20241020135500 +0000" stop="20241020145300 +0000">
 		<title>Journey of the Heart Across Japan</title>
 		<desc>Based on letters sent in by viewers, actor Hino Shohei goes on a bicycle journey across Japan in search for the unforgettable sceneries deeply engraved in their hearts.</desc>
 	</programme>
-	<programme channel="5682" start="20241020144300 +0000" stop="20241020144500 +0000">
+	<programme channel="5682" start="20241020145300 +0000" stop="20241020145500 +0000">
 		<title>World Weather</title>
 		<desc>Weather information of the different areas around the world.</desc>
 	</programme>
-	<programme channel="5682" start="20241020144500 +0000" stop="20241020153500 +0000">
+	<programme channel="5682" start="20241020145500 +0000" stop="20241020154500 +0000">
 		<title>Sunday Sports News</title>
 		<desc>Wraps-up Sunday's sporting events with a guest commentator for an easy-to-understand approach to sports news.</desc>
 	</programme>
@@ -34325,8 +34329,8 @@ Christy、Jessica穿上型格「牛仔」便服，尋找隱世名店盡情打卡
 		<desc>AT THE MOMENT</desc>
 	</programme>
 	<programme channel="6694" start="20241020053000 +0000" stop="20241020060000 +0000">
-		<title>CASA DAZA</title>
-		<desc>CASA DAZA</desc>
+		<title>LSS: THE MARTIN NIEVERA SHOW</title>
+		<desc>LSS: THE MARTIN NIEVERA SHOW</desc>
 	</programme>
 	<programme channel="6694" start="20241020060000 +0000" stop="20241020063000 +0000">
 		<title>INSIGHTS: ISRAEL AND MIDDLE EAST</title>
@@ -34373,8 +34377,8 @@ Christy、Jessica穿上型格「牛仔」便服，尋找隱世名店盡情打卡
 		<desc>ENTREP LAB</desc>
 	</programme>
 	<programme channel="6694" start="20241020113000 +0000" stop="20241020120000 +0000">
-		<title>#NOFILTER</title>
-		<desc>#NOFILTER</desc>
+		<title>ON CUE</title>
+		<desc>ON CUE</desc>
 	</programme>
 	<programme channel="6694" start="20241020120000 +0000" stop="20241020123000 +0000">
 		<title>SO JANNELLE</title>
