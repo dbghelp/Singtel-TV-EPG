@@ -4132,27 +4132,23 @@ Qin Shi is career focused but is always pressured to get married. A top lawyer f
 		<title>FIA Pure Motorsport 2024 Episode 3</title>
 		<desc>Motorsport is broader than you think - have a deeper look to some of the FIA's most thrilling competitions.</desc>
 	</programme>
-	<programme channel="6114" start="20241021000800 +0000" stop="20241021030000 +0000">
+	<programme channel="6114" start="20241021000800 +0000" stop="20241021033000 +0000">
 		<title>2024 MLB Postseason NLCS Game 6 (Live)</title>
 		<desc>12 of the best MLB teams of the Regular Season slug it out through the Wild Card, Division, League Championship and World Series to be crowned kings of the world's best professional baseball league.</desc>
 	</programme>
-	<programme channel="6114" start="20241021030000 +0000" stop="20241021140000 +0000">
+	<programme channel="6114" start="20241021033000 +0000" stop="20241021143000 +0000">
 		<title>HSBC BWF WTS 750 VICTOR Denmark Open 2024</title>
 		<desc>The HSBC BWF World Tour attracts the world's elite badminton players in competing for prize money and world ranking points in 30 four-tiered tournaments, culminating in the World Tour Finals in December.</desc>
 	</programme>
-	<programme channel="6114" start="20241021140000 +0000" stop="20241021150000 +0000">
+	<programme channel="6114" start="20241021143000 +0000" stop="20241021152000 +0000">
 		<title>WSL: Inside Pro Surfing 2024 Fiji Open Episode 4</title>
 		<desc>Be sure to catch the inspirational power of surfing through the 2024 WSL Championship Tour & Challenger Series.</desc>
 	</programme>
-	<programme channel="6114" start="20241021150000 +0000" stop="20241021153000 +0000">
-		<title>MotoGP 2024 GP of Indonesia Recap Episode 5</title>
-		<desc>Recap the action, behind-the-scenes and rider interviews at the MotoGP 2024 Grand Prix of Indonesia Recap.</desc>
-	</programme>
-	<programme channel="6114" start="20241021153000 +0000" stop="20241021153000 +0000">
+	<programme channel="6114" start="20241021152000 +0000" stop="20241021152000 +0000">
 		<title>ROSHN Saudi League 2024/25 Matchday 6 Episode 3</title>
 		<desc>Bringing together prominent professional players from the Kingdom and all around the world, the ROSHN Saudi League delivers weekly thrilling matches to spectators nationally and internationally.</desc>
 	</programme>
-	<programme channel="6114" start="20241021153000 +0000" stop="20241021173000 +0000">
+	<programme channel="6114" start="20241021152000 +0000" stop="20241021173000 +0000">
 		<title>ROSHN Saudi League 2024/25 Matchday 6 Episode 3</title>
 		<desc>Bringing together prominent professional players from the Kingdom and all around the world, the ROSHN Saudi League delivers weekly thrilling matches to spectators nationally and internationally.</desc>
 	</programme>
@@ -4164,19 +4160,19 @@ Qin Shi is career focused but is always pressured to get married. A top lawyer f
 		<title>SPOTV Encore: Artic Open 2024 Finals</title>
 		<desc>Recap thrilling badminton action of Artic Open on the HSBC BWF World Tour in 2024.</desc>
 	</programme>
-	<programme channel="6114" start="20241021210000 +0000" stop="20241021233000 +0000">
+	<programme channel="6114" start="20241021210000 +0000" stop="20241022000000 +0000">
 		<title>2024 MLB Postseason ALCS Game 5</title>
 		<desc>12 of the best MLB teams of the Regular Season slug it out through the Wild Card, Division, League Championship and World Series to be crowned kings of the world's best professional baseball league.</desc>
 	</programme>
-	<programme channel="6114" start="20241021233000 +0000" stop="20241022000000 +0000">
+	<programme channel="6114" start="20241022000000 +0000" stop="20241022003000 +0000">
 		<title>2024 SuperTri Highlights Episode 4</title>
 		<desc>The 2024 SuperTri League season was characterized by intense rivalries and strategic races showcasing the athletes' adaptability and resilience in a competitive environment.</desc>
 	</programme>
-	<programme channel="6114" start="20241022000000 +0000" stop="20241022013000 +0000">
+	<programme channel="6114" start="20241022003000 +0000" stop="20241022014500 +0000">
 		<title>2024 FIA TCR World Tour ZHUZHOU</title>
 		<desc>The world's premier touring car racing competition gains FIA recognition from 2024 and consists of seven events across Europe, Africa, North America, South America and Asia.</desc>
 	</programme>
-	<programme channel="6114" start="20241022013000 +0000" stop="20241022030000 +0000">
+	<programme channel="6114" start="20241022014500 +0000" stop="20241022030000 +0000">
 		<title>2024 FIA TCR World Tour ZHUZHOU</title>
 		<desc>The world's premier touring car racing competition gains FIA recognition from 2024 and consists of seven events across Europe, Africa, North America, South America and Asia.</desc>
 	</programme>
@@ -6786,7 +6782,7 @@ Qin Shi is career focused but is always pressured to get married. A top lawyer f
 	</programme>
 	<programme channel="5157" start="20241022043000 +0000" stop="20241022044500 +0000">
 		<title>DEEPER LOOK</title>
-		<desc>An experienced anchor Del Irani has a cutting-edge dialogue with a first-class guest on a current-affairs topics.</desc>
+		<desc>Asian nations are some of the biggest carbon emitters in the world. Catherine McKenna offers her insights on how Asian countries can expedite climate action at home and throughout the region.</desc>
 	</programme>
 	<programme channel="5157" start="20241022044500 +0000" stop="20241022045500 +0000">
 		<title>Dig More Japan</title>
@@ -6808,17 +6804,25 @@ Qin Shi is career focused but is always pressured to get married. A top lawyer f
 		<title>Journeys in Japan</title>
 		<desc>Kanoa explores the deep traditions of fermentation in Tokushima, from indigo dyeing to a unique form of tea.</desc>
 	</programme>
-	<programme channel="5157" start="20241022060000 +0000" stop="20241022063000 +0000">
-		<title>NEWSLINE ASIA 24</title>
-		<desc>This daily news program picks up the key news stories of the past 24 hours from Japan and around Asia.</desc>
+	<programme channel="5157" start="20241022060000 +0000" stop="20241022061500 +0000">
+		<title>NHK NEWSLINE</title>
+		<desc>NHK WORLD-JAPAN's flagship hourly news program delivers the latest world news, business and weather, with a focus on Japan and the rest of Asia.</desc>
+	</programme>
+	<programme channel="5157" start="20241022061500 +0000" stop="20241022063000 +0000">
+		<title>NEWSLINE IN DEPTH</title>
+		<desc>Introducing a colorful variety of feature stories, including reports on daily life from locations throughout Japan, as well as other parts of Asia and around the world.</desc>
 	</programme>
 	<programme channel="5157" start="20241022063000 +0000" stop="20241022070000 +0000">
 		<title>Dining with the Chef</title>
 		<desc>Featured recipes: (1) Autumn Fritters with Beets and Chicken (2) Celery Iri-Miso with Rice. Learn about Japanese home cooking with chef Saito!</desc>
 	</programme>
-	<programme channel="5157" start="20241022070000 +0000" stop="20241022073000 +0000">
-		<title>NEWSLINE ASIA 24</title>
-		<desc>This daily news program picks up the key news stories of the past 24 hours from Japan and around Asia.</desc>
+	<programme channel="5157" start="20241022070000 +0000" stop="20241022071500 +0000">
+		<title>NHK NEWSLINE</title>
+		<desc>NHK WORLD-JAPAN's flagship hourly news program delivers the latest world news, business and weather, with a focus on Japan and the rest of Asia.</desc>
+	</programme>
+	<programme channel="5157" start="20241022071500 +0000" stop="20241022073000 +0000">
+		<title>NEWSLINE IN DEPTH</title>
+		<desc>Introducing a colorful variety of feature stories, including reports on daily life from locations throughout Japan, as well as other parts of Asia and around the world.</desc>
 	</programme>
 	<programme channel="5157" start="20241022073000 +0000" stop="20241022080000 +0000">
 		<title>Document 72 hours</title>
@@ -6842,7 +6846,7 @@ Qin Shi is career focused but is always pressured to get married. A top lawyer f
 	</programme>
 	<programme channel="5157" start="20241022083000 +0000" stop="20241022084500 +0000">
 		<title>DEEPER LOOK</title>
-		<desc>An experienced anchor Del Irani has a cutting-edge dialogue with a first-class guest on a current-affairs topics.</desc>
+		<desc>Asian nations are some of the biggest carbon emitters in the world. Catherine McKenna offers her insights on how Asian countries can expedite climate action at home and throughout the region.</desc>
 	</programme>
 	<programme channel="5157" start="20241022084500 +0000" stop="20241022090000 +0000">
 		<title>BOSAI:Science that Can Save Your Life</title>
