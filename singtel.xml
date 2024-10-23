@@ -1290,7 +1290,7 @@
 	</programme>
 	<programme channel="5004" start="20241023123000 +0000" stop="20241023130000 +0000">
 		<title>Detik Khas Episode 4</title>
-		<desc>A special episode of DETIK that deep dive into contemporary issues in Singapore and around the region.</desc>
+		<desc>Masjid Sultan celebrates it's 200th year anniversary this year. What are the well kept secrets of this National Monument that often being referred as the country's National Mosque?</desc>
 	</programme>
 	<programme channel="5004" start="20241023130000 +0000" stop="20241023133000 +0000">
 		<title>Air Tangan Episode 2</title>
@@ -1342,7 +1342,7 @@
 	</programme>
 	<programme channel="5004" start="20241024070000 +0000" stop="20241024073000 +0000">
 		<title>Detik Khas Episode 4</title>
-		<desc>A special episode of DETIK that deep dive into contemporary issues in Singapore and around the region.</desc>
+		<desc>Masjid Sultan celebrates it's 200th year anniversary this year. What are the well kept secrets of this National Monument that often being referred as the country's National Mosque?</desc>
 	</programme>
 	<programme channel="5004" start="20241024073000 +0000" stop="20241024080000 +0000">
 		<title>Air Tangan Episode 2</title>
@@ -4016,9 +4016,13 @@ Qin Shi is career focused but is always pressured to get married. A top lawyer f
 		<title>Closed Episode 101231</title>
 		<desc>Closed</desc>
 	</programme>
-	<programme channel="6114" start="20241022123000 +0000" stop="20241022183000 +0000">
+	<programme channel="6114" start="20241022123000 +0000" stop="20241022180000 +0000">
 		<title>HSBC BWF WTS 750 VICTOR Denmark Open 2024</title>
 		<desc>The HSBC BWF World Tour attracts the world's elite badminton players in competing for prize money and world ranking points in 30 four-tiered tournaments, culminating in the World Tour Finals in December.</desc>
+	</programme>
+	<programme channel="6114" start="20241022180000 +0000" stop="20241022183000 +0000">
+		<title>FIA Pure Motorsport 2024 Episode 4</title>
+		<desc>Motorsport is broader than you think - have a deeper look to some of the FIA's most thrilling competitions.</desc>
 	</programme>
 	<programme channel="6114" start="20241022183000 +0000" stop="20241022210000 +0000">
 		<title>Hyundai Archery World Cup Final Tlaxcala 2024</title>
@@ -4680,9 +4684,9 @@ Qin Shi is career focused but is always pressured to get married. A top lawyer f
 		<title>Closed Episode 415689</title>
 		<desc>Closed</desc>
 	</programme>
-	<programme channel="6126" start="20241022160000 +0000" stop="20241022163000 +0000">
-		<title>Mini Match - Bundesliga 2024/25: Bayern vs Stuttgart Episode 61</title>
-		<desc>Mini Match - Bundesliga 2024/25</desc>
+	<programme channel="6126" start="20241022150000 +0000" stop="20241022163000 +0000">
+		<title>Premier Padel 2024: Newgiza P2 Day 2 Match 7 (Live) Episode 622</title>
+		<desc>Premier Padel 2024</desc>
 	</programme>
 	<programme channel="6126" start="20241022163000 +0000" stop="20241022164000 +0000">
 		<title>Bundesliga Goals: Team Goal Episode 3</title>
@@ -4697,7 +4701,7 @@ Qin Shi is career focused but is always pressured to get married. A top lawyer f
 		<desc>UEFA Champions League 2024/25</desc>
 	</programme>
 	<programme channel="6126" start="20241022210000 +0000" stop="20241022223000 +0000">
-		<title>Premier Padel 2024: Newgiza P2 Day 2 Match 7 Episode 622</title>
+		<title>Premier Padel 2024: Newgiza P2 Day 2 Match 8 Episode 691</title>
 		<desc>Premier Padel 2024</desc>
 	</programme>
 	<programme channel="6126" start="20241022223000 +0000" stop="20241022233000 +0000">
@@ -27222,16 +27226,16 @@ This series centres around six leading characters in a polyamorous relationship,
 		<desc>Unfortunate events force an ambitious Eashwari and a school dropout Azhagar to tie the knot. Can this odd couple turn their marriage into a happily ever after? Will Eashwari realize her IPS dream amidst life's many hardships?</desc>
 	</programme>
 	<programme channel="5622" start="20241023073000 +0000" stop="20241023080000 +0000">
-		<title>Movie - MIDDLE CLASS MADHAVAN</title>
-		<desc>Madhavan, a lawyer and the breadwinner of his family, finds it difficult to enjoy his married life due to his family's issues.</desc>
+		<title>Movie - L.K.G</title>
+		<desc>LKG, a councillor of a small town, aspires to become the chief minister of the state. He enlists the help of the corporates to impress the public but faces threat from another politician.</desc>
 	</programme>
 	<programme channel="5622" start="20241023080000 +0000" stop="20241023083000 +0000">
 		<title>News</title>
 		<desc>This news programme chronicles the latest events, developments, inventions, discoveries and happenings around the world.</desc>
 	</programme>
 	<programme channel="5622" start="20241023083000 +0000" stop="20241023103000 +0000">
-		<title>Movie Contd - MIDDLE CLASS MADHAVAN</title>
-		<desc>Madhavan, a lawyer and the breadwinner of his family, finds it difficult to enjoy his married life due to his family's issues.</desc>
+		<title>Movie Contd - L.K.G</title>
+		<desc>LKG, a councillor of a small town, aspires to become the chief minister of the state. He enlists the help of the corporates to impress the public but faces threat from another politician.</desc>
 	</programme>
 	<programme channel="5622" start="20241023103000 +0000" stop="20241023110000 +0000">
 		<title>RAMAYANAM</title>
@@ -32119,7 +32123,7 @@ This series centres around six leading characters in a polyamorous relationship,
 	</programme>
 	<programme channel="5662" start="20241022140000 +0000" stop="20241022170000 +0000">
 		<title>Angrezi Medium</title>
-		<desc>Though Champak initially disapproves, he eventually does everything in his power while going through a series of hilarious mishaps to fulfil his daughter's dream of going to London to study further. Release Year: 2020 Director: Homi Adajania Awards: Nomin</desc>
+		<desc>Though Champak initially disapproves, he eventually does everything in his power while going through a series of hilarious mishaps to fulfil his daughter's dream of going to London to study further. Release Year: 2020 Director: Homi Adajania Awards: Nominated in Filmfare Awards for Best DialogueBhavesh Mandalia, Gaurav Shukla, Vinay Chhawal and Sara Bodinar</desc>
 	</programme>
 	<programme channel="5662" start="20241022170000 +0000" stop="20241022191500 +0000">
 		<title>Gaslight (2023)</title>
@@ -32143,7 +32147,7 @@ This series centres around six leading characters in a polyamorous relationship,
 	</programme>
 	<programme channel="5662" start="20241023043000 +0000" stop="20241023080000 +0000">
 		<title>Baghban</title>
-		<desc>Story of an elderly couple who are thought of as a burden by their children. How do they retain their dignity? Release Year: 2003 Director: Ravi Chopra Awards: Screen Weekly Awards- Jodi no.1- Amitabh Bachchan and Hema Malini, Best Actor- Amitabh Bachchan</desc>
+		<desc>Story of an elderly couple who are thought of as a burden by their children. How do they retain their dignity? Release Year: 2003 Director: Ravi Chopra Awards: Screen Weekly Awards- Jodi no.1- Amitabh Bachchan and Hema Malini, Best Actor- Amitabh Bachchan , Best ActreSS- Hema Malini. Zee Cine Awards- Best Sound Re-recording.</desc>
 	</programme>
 	<programme channel="5662" start="20241023080000 +0000" stop="20241023110000 +0000">
 		<title>Shiddat</title>
@@ -32151,7 +32155,7 @@ This series centres around six leading characters in a polyamorous relationship,
 	</programme>
 	<programme channel="5662" start="20241023110000 +0000" stop="20241023140000 +0000">
 		<title>Chhichhore</title>
-		<desc>Divided by time, united by a tragic incident. In a bittersweet reunion, seven middle-aged friends take a walk down the memory lane at the least expected place. Release Year: 2019 Director: Nitesh Tiwari Awards: 2020 Nominee Screen Award - Best Film Critic</desc>
+		<desc>Divided by time, united by a tragic incident. In a bittersweet reunion, seven middle-aged friends take a walk down the memory lane at the least expected place. Release Year: 2019 Director: Nitesh Tiwari Awards: 2020 Nominee Screen Award - Best Film Critics, 2020 Nominee Filmfare Award -Best Film, 2019 Winner Nickelodeon Kids' Choice Award - Favorite Movie, 2020 Winner Regional Award - Best Feature Film in Hindi, 2020 Nominee Popular Award - Best Story,</desc>
 	</programme>
 	<programme channel="5662" start="20241023140000 +0000" stop="20241023140000 +0000">
 		<title>Shaadi Karke Phas Gaya Yaar</title>
@@ -32163,7 +32167,7 @@ This series centres around six leading characters in a polyamorous relationship,
 	</programme>
 	<programme channel="5662" start="20241023170000 +0000" stop="20241023194500 +0000">
 		<title>A Thursday</title>
-		<desc>One fateful Thursday in the city of Mumbai invites tremendous horror when Naina, a nursery school teacher, holds 16 children hostage and produces a list of unfathomable demands. Release Year: 2022 Director: Behzad Khambata Awards: 2022 Nominee Popular Awa</desc>
+		<desc>One fateful Thursday in the city of Mumbai invites tremendous horror when Naina, a nursery school teacher, holds 16 children hostage and produces a list of unfathomable demands. Release Year: 2022 Director: Behzad Khambata Awards: 2022 Nominee Popular Award - Best Web Original Film, 2022 Winner Digital Movies and TV Series AwardBest Digital Content - Long Format</desc>
 	</programme>
 	<programme channel="5662" start="20241023194500 +0000" stop="20241023223000 +0000">
 		<title>Ek Thi Daayan</title>
@@ -32382,232 +32386,228 @@ This series centres around six leading characters in a polyamorous relationship,
 		<desc>Entertainement</desc>
 	</programme>
 	<programme channel="5671" start="20241022160000 +0000" stop="20241022170000 +0000">
-		<title>Bigg Boss S08</title>
-		<desc>Celebrities live in an isolated house cut off from the rest of the world. They have to compete in challenging tasks to avoid elimination and win.</desc>
+		<title>BIGG BOSS 8</title>
+		<desc>BIGG BOSS 8</desc>
 	</programme>
-	<programme channel="5671" start="20241022170000 +0000" stop="20241022173000 +0000">
-		<title>Bigg Boss S08</title>
-		<desc>Celebrities live in an isolated house cut off from the rest of the world. They have to compete in challenging tasks to avoid elimination and win.</desc>
+	<programme channel="5671" start="20241022170000 +0000" stop="20241022180000 +0000">
+		<title>BIGG BOSS 8 - UNSEEN EXTRA CUTS</title>
+		<desc>BIGG BOSS 8 - UNSEEN EXTRA CUTS</desc>
 	</programme>
-	<programme channel="5671" start="20241022173000 +0000" stop="20241022203000 +0000">
-		<title>Atharintiki Daaredi</title>
-		<desc>Gautam pledges to reconnect his grandfather with his daughter, navigating challenges while working as a driver.</desc>
+	<programme channel="5671" start="20241022180000 +0000" stop="20241022203000 +0000">
+		<title>Movie_ATTHARINTIKI DAAREDHI</title>
+		<desc>Movie_ATTHARINTIKI DAAREDHI</desc>
 	</programme>
 	<programme channel="5671" start="20241022203000 +0000" stop="20241022230000 +0000">
-		<title>Kalpana</title>
-		<desc>Raghava and friends, searching for a cricket ground, discover an abandoned haunted field, adding a supernatural twist.</desc>
+		<title>Movie_KALPANA</title>
+		<desc>Movie_KALPANA</desc>
 	</programme>
-	<programme channel="5671" start="20241022230000 +0000" stop="20241023010000 +0000">
-		<title>24</title>
-		<desc>Sethuraman invents a time-machine; his evil twin brother wants it. A fierce battle ensues between his son and brother.</desc>
+	<programme channel="5671" start="20241022230000 +0000" stop="20241023003000 +0000">
+		<title>Movie_24</title>
+		<desc>Entertainment</desc>
 	</programme>
-	<programme channel="5671" start="20241023010000 +0000" stop="20241023013000 +0000">
-		<title>Fun Time</title>
-		<desc>Tune into a compilation of comedy clips from the recently released Tollywood movies.</desc>
+	<programme channel="5671" start="20241023003000 +0000" stop="20241023013000 +0000">
+		<title>Guppedantha Manasu</title>
+		<desc>Guppedantha Manasu</desc>
 	</programme>
 	<programme channel="5671" start="20241023013000 +0000" stop="20241023020000 +0000">
-		<title>Maha Bharatam</title>
-		<desc>Watch for an epic retelling of the ancient Indian saga filled with drama, mythology and valor.</desc>
+		<title>INTINTI RAMAYANAM ®</title>
+		<desc>INTINTI RAMAYANAM ®</desc>
 	</programme>
 	<programme channel="5671" start="20241023020000 +0000" stop="20241023023000 +0000">
-		<title>Shubapradam</title>
-		<desc>Dr. Pradeep, astrology scholar, provides Hindu scripture-based remedies for diverse issues and zodiac-related guidance.</desc>
+		<title>SHUBAPRADAM</title>
+		<desc>SHUBAPRADAM</desc>
 	</programme>
 	<programme channel="5671" start="20241023023000 +0000" stop="20241023030000 +0000">
-		<title>Radha Krishna</title>
-		<desc>The story of Radha and Krishna is the epitome of eternal love, which transcends eras and emotions.</desc>
+		<title>RADHA KRISHNA</title>
+		<desc>RADHA KRISHNA</desc>
 	</programme>
 	<programme channel="5671" start="20241023030000 +0000" stop="20241023033000 +0000">
-		<title>Sri Renuka Yellamma</title>
-		<desc>Goddess Parvati incarnates as Renuka and Yellamma to safeguard against evil in royal and village settings.</desc>
+		<title>SRI RENUKA YELLAMMA</title>
+		<desc>SRI RENUKA YELLAMMA</desc>
 	</programme>
 	<programme channel="5671" start="20241023033000 +0000" stop="20241023063000 +0000">
-		<title>Salaar</title>
-		<desc>Gang leader fulfills dying friend's wish by confronting rival gangs. Release Year: 2023 Director: Prashanth Neel</desc>
+		<title>Movie_SALAAR</title>
+		<desc>Movie_SALAAR</desc>
 	</programme>
 	<programme channel="5671" start="20241023063000 +0000" stop="20241023070000 +0000">
-		<title>Paape Maa Jeevana Jyothi</title>
-		<desc>Jyothi seeks acceptance but faces turmoil as daughter Jeevana is kidnapped, jeopardizing their newfound peace.</desc>
+		<title>Paape Naa Jeevana Jyothi</title>
+		<desc>Story revolves around mother and missed daughter</desc>
 	</programme>
 	<programme channel="5671" start="20241023070000 +0000" stop="20241023073000 +0000">
-		<title>Ninnu Kori</title>
-		<desc>Pallavi invites her ex-boyfriend to stay with her and her husband to prove she is happy. Uma tries to break them up.</desc>
+		<title>NINNU KORI</title>
+		<desc>NINNU KORI</desc>
 	</programme>
 	<programme channel="5671" start="20241023073000 +0000" stop="20241023080000 +0000">
-		<title>Nuvvu Nenu Prema</title>
-		<desc>Padmavathi, a family-loving girl, meets Vikramaditya, an arrogant businessman grappling with the loss of his parents.</desc>
+		<title>NUVVU NENU PREMA</title>
+		<desc>NUVVU NENU PREMA</desc>
 	</programme>
 	<programme channel="5671" start="20241023080000 +0000" stop="20241023083000 +0000">
-		<title>Paluke Bangaramayena</title>
-		<desc>Speech-impaired Swaragini, deemed unlucky by her father. Can Officer Abhishek alter her fate?</desc>
+		<title>PALUKE BANGARAMAYENA</title>
+		<desc>PALUKE BANGARAMAYENA</desc>
 	</programme>
 	<programme channel="5671" start="20241023083000 +0000" stop="20241023090000 +0000">
-		<title>Mama Garu</title>
-		<desc>Ganga confronts chauvinistic father-in-law, challenging norms. Can she carve her path to victory and claim her rights?</desc>
+		<title>MAMA GARU</title>
+		<desc>Serial</desc>
 	</programme>
 	<programme channel="5671" start="20241023090000 +0000" stop="20241023093000 +0000">
 		<title>Vantalakka</title>
-		<desc>Kind-hearted Murali loves a wealthy girl. Their romance encounters numerous obstacles.</desc>
+		<desc>Serial</desc>
 	</programme>
 	<programme channel="5671" start="20241023093000 +0000" stop="20241023100000 +0000">
 		<title>Malli</title>
-		<desc>Malli promises Meera after hearing her past. Arvind's family frets over his new project.</desc>
+		<desc>Story of village girl</desc>
 	</programme>
 	<programme channel="5671" start="20241023100000 +0000" stop="20241023103000 +0000">
-		<title>Yeto Vellipoindi Manasu</title>
-		<desc>Varun and Nithya's lifelong journey is marked by ups and downs, leading to multiple separations.</desc>
+		<title>YETO VELLIPOINDI MANASU</title>
+		<desc>YETO VELLIPOINDI MANASU</desc>
 	</programme>
 	<programme channel="5671" start="20241023103000 +0000" stop="20241023110000 +0000">
-		<title>Gunde Ninda Gudigantalu</title>
-		<desc>Circumstances force Meena, a family-centric girl, to marry Balu, a thug. Will this unfortunate marriage turn into love?</desc>
+		<title>GUNDE NINDA GUDIGANTALU</title>
+		<desc>GUNDE NINDA GUDIGANTALU</desc>
 	</programme>
 	<programme channel="5671" start="20241023110000 +0000" stop="20241023120000 +0000">
-		<title>Bigg Boss S08</title>
-		<desc>Celebrities live in an isolated house cut off from the rest of the world. They have to compete in challenging tasks to avoid elimination and win.</desc>
+		<title>BIGG BOSS 8 ®</title>
+		<desc>BIGG BOSS 8 ®</desc>
 	</programme>
 	<programme channel="5671" start="20241023120000 +0000" stop="20241023123000 +0000">
-		<title>Guppedantha Manasu</title>
-		<desc>Anupama urges Mahindra to report Rishi's disappearance. Next day, Vasudhara sets out on a mission to locate him.</desc>
+		<title>GUPPEDANTHA MANASU SPL</title>
+		<desc>GUPPEDANTHA MANASU SPL</desc>
 	</programme>
 	<programme channel="5671" start="20241023123000 +0000" stop="20241023130000 +0000">
-		<title>Sathyabhama</title>
-		<desc>Krish falls for Satya, a principled girl. What unfolds for this extraordinary couple in their love story?</desc>
+		<title>SATHYABHAMA</title>
+		<desc>SATHYABHAMA</desc>
 	</programme>
 	<programme channel="5671" start="20241023130000 +0000" stop="20241023133000 +0000">
-		<title>Maguva O Maguva</title>
-		<desc>Wealthy Akhila and single mom Anjali bond during pregnancy, navigating diverse backgrounds in a tale of motherhood.</desc>
+		<title>MAGUVA O MAGUVA</title>
+		<desc>MAGUVA O MAGUVA</desc>
 	</programme>
 	<programme channel="5671" start="20241023133000 +0000" stop="20241023140000 +0000">
-		<title>Chinni</title>
-		<desc>A heartwarming tale of a Mother and Daughter navigating through unexpected challenges, strengthening their bond and understanding each other in new ways.</desc>
+		<title>CHINNI</title>
+		<desc>Serial</desc>
 	</programme>
 	<programme channel="5671" start="20241023140000 +0000" stop="20241023143000 +0000">
-		<title>Brahma Mudi</title>
-		<desc>Mother arranges weddings for talented daughters. Affairs take an unexpected turn with an affluent family.</desc>
+		<title>BRAHMA MUDI</title>
+		<desc>BRAHMA MUDI</desc>
 	</programme>
 	<programme channel="5671" start="20241023143000 +0000" stop="20241023150000 +0000">
-		<title>Karthika Deepam-Nava Vasantham</title>
-		<desc>Deepa, dark-skinned, toils against social pressures after marrying Dr. Karthik.</desc>
+		<title>KARTHIKA DEEPAM-NAVA VASANTHAM</title>
+		<desc>KARTHIKA DEEPAM-NAVA VASANTHAM</desc>
 	</programme>
 	<programme channel="5671" start="20241023150000 +0000" stop="20241023153000 +0000">
-		<title>Intinti Ramayanam</title>
-		<desc>Members of a close-knit family begin to doubt one another when they suddenly face a problem.</desc>
+		<title>INTINTI RAMAYANAM</title>
+		<desc>INTINTI RAMAYANAM</desc>
 	</programme>
 	<programme channel="5671" start="20241023153000 +0000" stop="20241023160000 +0000">
-		<title>Gunde Ninda Gudigantalu</title>
-		<desc>Circumstances force Meena, a family-centric girl, to marry Balu, a thug. Will this unfortunate marriage turn into love?</desc>
+		<title>GUNDE NINDA GUDIGANTALU</title>
+		<desc>GUNDE NINDA GUDIGANTALU</desc>
 	</programme>
 	<programme channel="5671" start="20241023160000 +0000" stop="20241023170000 +0000">
-		<title>Bigg Boss S08</title>
-		<desc>Celebrities live in an isolated house cut off from the rest of the world. They have to compete in challenging tasks to avoid elimination and win.</desc>
+		<title>BIGG BOSS 8</title>
+		<desc>BIGG BOSS 8</desc>
 	</programme>
-	<programme channel="5671" start="20241023170000 +0000" stop="20241023173000 +0000">
-		<title>Bigg Boss S08</title>
-		<desc>Celebrities live in an isolated house cut off from the rest of the world. They have to compete in challenging tasks to avoid elimination and win.</desc>
+	<programme channel="5671" start="20241023170000 +0000" stop="20241023180000 +0000">
+		<title>BIGG BOSS 8 - UNSEEN EXTRA CUTS</title>
+		<desc>BIGG BOSS 8 - UNSEEN EXTRA CUTS</desc>
 	</programme>
-	<programme channel="5671" start="20241023173000 +0000" stop="20241023203000 +0000">
-		<title>Salaar</title>
-		<desc>Gang leader fulfills dying friend's wish by confronting rival gangs. Release Year: 2023 Director: Prashanth Neel</desc>
+	<programme channel="5671" start="20241023180000 +0000" stop="20241023203000 +0000">
+		<title>Movie_SALAAR</title>
+		<desc>Movie_SALAAR</desc>
 	</programme>
 	<programme channel="5671" start="20241023203000 +0000" stop="20241023230000 +0000">
-		<title>Sitaramaraju</title>
-		<desc>The rivalry between the families of Sitaiah and Basava Raju leads to the death of the former. Sitaiah's younger brother Ramaraju tries to avenge his death.</desc>
+		<title>Movie_SITARAMARAJU</title>
+		<desc>Movie_SITARAMARAJU</desc>
 	</programme>
-	<programme channel="5671" start="20241023230000 +0000" stop="20241024010000 +0000">
-		<title>Rajanna</title>
-		<desc>Mallamma endures Dorasani's torture for singing against orders. Her teacher narrates the heroic tale of Rajanna.</desc>
+	<programme channel="5671" start="20241023230000 +0000" stop="20241024003000 +0000">
+		<title>Movie_RAJANNA</title>
+		<desc>Movie_RAJANNA</desc>
 	</programme>
-	<programme channel="5671" start="20241024010000 +0000" stop="20241024013000 +0000">
-		<title>Fun Time</title>
-		<desc>Tune into a compilation of comedy clips from the recently released Tollywood movies.</desc>
-	</programme>
-	<programme channel="5671" start="20241024013000 +0000" stop="20241024020000 +0000">
-		<title>Maha Bharatam</title>
-		<desc>Watch for an epic retelling of the ancient Indian saga filled with drama, mythology and valor.</desc>
+	<programme channel="5671" start="20241024003000 +0000" stop="20241024020000 +0000">
+		<title>Guppedantha Manasu@</title>
+		<desc>Guppedantha Manasu@</desc>
 	</programme>
 	<programme channel="5671" start="20241024020000 +0000" stop="20241024023000 +0000">
-		<title>Shubapradam</title>
-		<desc>Dr. Pradeep, astrology scholar, provides Hindu scripture-based remedies for diverse issues and zodiac-related guidance.</desc>
+		<title>SHUBAPRADAM</title>
+		<desc>SHUBAPRADAM</desc>
 	</programme>
 	<programme channel="5671" start="20241024023000 +0000" stop="20241024030000 +0000">
-		<title>Radha Krishna</title>
-		<desc>The story of Radha and Krishna is the epitome of eternal love, which transcends eras and emotions.</desc>
+		<title>SHUBAPRADAM</title>
+		<desc>SHUBAPRADAM</desc>
 	</programme>
 	<programme channel="5671" start="20241024030000 +0000" stop="20241024033000 +0000">
-		<title>Sri Renuka Yellamma</title>
-		<desc>Goddess Parvati incarnates as Renuka and Yellamma to safeguard against evil in royal and village settings.</desc>
+		<title>SRI RENUKA YELLAMMA</title>
+		<desc>SRI RENUKA YELLAMMA</desc>
 	</programme>
 	<programme channel="5671" start="20241024033000 +0000" stop="20241024063000 +0000">
-		<title>Skanda</title>
-		<desc>The prodigal son of a respected leader takes on two political rivals and forms bonds with their daughters.</desc>
+		<title>Movie_SKANDA</title>
+		<desc>Drama</desc>
 	</programme>
 	<programme channel="5671" start="20241024063000 +0000" stop="20241024070000 +0000">
-		<title>Paape Maa Jeevana Jyothi</title>
-		<desc>Jyothi seeks acceptance but faces turmoil as daughter Jeevana is kidnapped, jeopardizing their newfound peace.</desc>
+		<title>Paape Naa Jeevana Jyothi</title>
+		<desc>Story revolves around mother and missed daughter</desc>
 	</programme>
 	<programme channel="5671" start="20241024070000 +0000" stop="20241024073000 +0000">
-		<title>Ninnu Kori</title>
-		<desc>Pallavi invites her ex-boyfriend to stay with her and her husband to prove she is happy. Uma tries to break them up.</desc>
+		<title>NINNU KORI</title>
+		<desc>NINNU KORI</desc>
 	</programme>
 	<programme channel="5671" start="20241024073000 +0000" stop="20241024080000 +0000">
-		<title>Nuvvu Nenu Prema</title>
-		<desc>Padmavathi, a family-loving girl, meets Vikramaditya, an arrogant businessman grappling with the loss of his parents.</desc>
+		<title>NUVVU NENU PREMA</title>
+		<desc>NUVVU NENU PREMA</desc>
 	</programme>
 	<programme channel="5671" start="20241024080000 +0000" stop="20241024083000 +0000">
-		<title>Paluke Bangaramayena</title>
-		<desc>Speech-impaired Swaragini, deemed unlucky by her father. Can Officer Abhishek alter her fate?</desc>
+		<title>PALUKE BANGARAMAYENA</title>
+		<desc>PALUKE BANGARAMAYENA</desc>
 	</programme>
 	<programme channel="5671" start="20241024083000 +0000" stop="20241024090000 +0000">
-		<title>Mama Garu</title>
-		<desc>Ganga confronts chauvinistic father-in-law, challenging norms. Can she carve her path to victory and claim her rights?</desc>
+		<title>MAMA GARU</title>
+		<desc>Serial</desc>
 	</programme>
 	<programme channel="5671" start="20241024090000 +0000" stop="20241024093000 +0000">
 		<title>Vantalakka</title>
-		<desc>Kind-hearted Murali loves a wealthy girl. Their romance encounters numerous obstacles.</desc>
+		<desc>Serial</desc>
 	</programme>
 	<programme channel="5671" start="20241024093000 +0000" stop="20241024100000 +0000">
 		<title>Malli</title>
-		<desc>Malli promises Meera after hearing her past. Arvind's family frets over his new project.</desc>
+		<desc>Story of village girl</desc>
 	</programme>
 	<programme channel="5671" start="20241024100000 +0000" stop="20241024103000 +0000">
-		<title>Yeto Vellipoindi Manasu</title>
-		<desc>Varun and Nithya's lifelong journey is marked by ups and downs, leading to multiple separations.</desc>
+		<title>YETO VELLIPOINDI MANASU</title>
+		<desc>YETO VELLIPOINDI MANASU</desc>
 	</programme>
 	<programme channel="5671" start="20241024103000 +0000" stop="20241024110000 +0000">
-		<title>Gunde Ninda Gudigantalu</title>
-		<desc>Circumstances force Meena, a family-centric girl, to marry Balu, a thug. Will this unfortunate marriage turn into love?</desc>
+		<title>GUNDE NINDA GUDIGANTALU ® - 220</title>
+		<desc>Jayanthi illegitimate daughter is separated from her mother at birth. But they are destined to reunite.</desc>
 	</programme>
 	<programme channel="5671" start="20241024110000 +0000" stop="20241024120000 +0000">
-		<title>Bigg Boss S08</title>
-		<desc>Celebrities live in an isolated house cut off from the rest of the world. They have to compete in challenging tasks to avoid elimination and win.</desc>
+		<title>BIGG BOSS 8 ®</title>
+		<desc>BIGG BOSS 8 ®</desc>
 	</programme>
 	<programme channel="5671" start="20241024120000 +0000" stop="20241024123000 +0000">
-		<title>Guppedantha Manasu</title>
-		<desc>Anupama urges Mahindra to report Rishi's disappearance. Next day, Vasudhara sets out on a mission to locate him.</desc>
+		<title>GUPPEDANTHA MANASU SPL</title>
+		<desc>GUPPEDANTHA MANASU SPL</desc>
 	</programme>
 	<programme channel="5671" start="20241024123000 +0000" stop="20241024130000 +0000">
-		<title>Sathyabhama</title>
-		<desc>Krish falls for Satya, a principled girl. What unfolds for this extraordinary couple in their love story?</desc>
+		<title>SATHYABHAMA</title>
+		<desc>SATHYABHAMA</desc>
 	</programme>
 	<programme channel="5671" start="20241024130000 +0000" stop="20241024133000 +0000">
-		<title>Maguva O Maguva</title>
-		<desc>Wealthy Akhila and single mom Anjali bond during pregnancy, navigating diverse backgrounds in a tale of motherhood.</desc>
+		<title>MAGUVA O MAGUVA</title>
+		<desc>MAGUVA O MAGUVA</desc>
 	</programme>
 	<programme channel="5671" start="20241024133000 +0000" stop="20241024140000 +0000">
-		<title>Chinni</title>
-		<desc>A heartwarming tale of a Mother and Daughter navigating through unexpected challenges, strengthening their bond and understanding each other in new ways.</desc>
+		<title>CHINNI</title>
+		<desc>Serial</desc>
 	</programme>
 	<programme channel="5671" start="20241024140000 +0000" stop="20241024143000 +0000">
-		<title>Brahma Mudi</title>
-		<desc>Mother arranges weddings for talented daughters. Affairs take an unexpected turn with an affluent family.</desc>
+		<title>BRAHMA MUDI</title>
+		<desc>BRAHMA MUDI</desc>
 	</programme>
 	<programme channel="5671" start="20241024143000 +0000" stop="20241024150000 +0000">
-		<title>Karthika Deepam-Nava Vasantham</title>
-		<desc>Deepa, dark-skinned, toils against social pressures after marrying Dr. Karthik.</desc>
+		<title>KARTHIKA DEEPAM-NAVA VASANTHAM</title>
+		<desc>KARTHIKA DEEPAM-NAVA VASANTHAM</desc>
 	</programme>
 	<programme channel="5671" start="20241024150000 +0000" stop="20241024153000 +0000">
-		<title>Intinti Ramayanam</title>
-		<desc>Members of a close-knit family begin to doubt one another when they suddenly face a problem.</desc>
+		<title>INTINTI RAMAYANAM</title>
+		<desc>INTINTI RAMAYANAM</desc>
 	</programme>
 	<programme channel="5676" start="20241022160000 +0000" stop="20241022180000 +0000">
 		<title>THE NEWSHOUR FIRST</title>
