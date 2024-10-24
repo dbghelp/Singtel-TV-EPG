@@ -730,7 +730,7 @@
 	</programme>
 	<programme channel="5002" start="20241024133000 +0000" stop="20241024140000 +0000">
 		<title>Talking Point Episode 26</title>
-		<desc>With a fresh approach to tackling the issues of the day, Talking Point investigates a current issue or event, offering different perspectives to local stories and reveals how it all affects you.</desc>
+		<desc>Singapore vehicles will need an Entry Permit (VEP) to enter Malaysia starting the 1st of October. Steven Chia tracks the roll out of the VEP and finds out what are the persistent issues that remain.</desc>
 	</programme>
 	<programme channel="5002" start="20241024140000 +0000" stop="20241024150000 +0000">
 		<title>FBI S5 Episode 18</title>
@@ -914,7 +914,7 @@
 	</programme>
 	<programme channel="5002" start="20241025133000 +0000" stop="20241025140000 +0000">
 		<title>On The Red Dot Episode 22</title>
-		<desc>"I'm Singaporean" showcases talented Singaporeans excelling abroad. From baseball to classical music to flamenco, their inspiring stories reveal passion, resilience, and global success.</desc>
+		<desc>Rozz joins renowned conductor Wong Kah Chun as he leads over 80 musicians in the season-opening concert with one of Japan's top orchestras.</desc>
 	</programme>
 	<programme channel="5003" start="20241023160000 +0000" stop="20241023170000 +0000">
 		<title>御赐小仵作 Episode 27</title>
@@ -1066,7 +1066,7 @@
 	</programme>
 	<programme channel="5003" start="20241024143000 +0000" stop="20241024150000 +0000">
 		<title>焦点 Episode 26</title>
-		<desc>《焦点》追踪国际时事，实地报道区域课题，以新加坡的视角分析时局发展的前因后果和潜在影响。</desc>
+		<desc>普拉博沃正式就任印度尼西亚第八任总统，他能延续前任总统佐科的优秀政绩吗？</desc>
 	</programme>
 	<programme channel="5003" start="20241024150000 +0000" stop="20241024160000 +0000">
 		<title>长相思 Episode 39</title>
@@ -1458,7 +1458,7 @@
 	</programme>
 	<programme channel="5005" start="20241024140000 +0000" stop="20241024143000 +0000">
 		<title>Karuvanam Episode 13</title>
-		<desc>Separated from their parents at birth and raised in an orphanage, twins Meera and Shalini are faced with an unexpected inheritance---their biological mother's house. With her sudden passing, they inherit not just a physical home, but a key to unlocking the mysteries of their shared past. Eager to uncover the truths that have eluded them for so long, the sisters make the bold decision to move in together.</desc>
+		<desc>With Adhitya's mental state rapidly deteriorating, Shalini takes decisive action to get him the professional help he needs. Meera, sensing the growing danger and fearing for her family's safety, is convinced they must leave the house before it's too late.</desc>
 	</programme>
 	<programme channel="5005" start="20241024143000 +0000" stop="20241024150000 +0000">
 		<title>Irul Episode 22</title>
@@ -4230,27 +4230,27 @@ Qin Shi is career focused but is always pressured to get married. A top lawyer f
 		<title>WTT Champions Montpellier 2024 (Live)</title>
 		<desc>The world's elite singles and doubles table tennis players battle for a share of the US$2 million prize pool as well as 2000 world ranking points in Montpellier,France.</desc>
 	</programme>
-	<programme channel="6115" start="20241024200000 +0000" stop="20241024224500 +0000">
+	<programme channel="6115" start="20241024200000 +0000" stop="20241024224000 +0000">
 		<title>World Triathlon Championship Finals TORREMOLINOS-ANDALUCÍA 2024</title>
 		<desc>The world's fastest triathletes travel to iconic cities to compete head-to-head in Standard and Sprint distance races for a chance to be crowned World Champion.</desc>
 	</programme>
-	<programme channel="6115" start="20241024224500 +0000" stop="20241025005500 +0000">
+	<programme channel="6115" start="20241024224000 +0000" stop="20241025005000 +0000">
 		<title>ROSHN Saudi League 2024-25 Matchday 7 Episode 2</title>
 		<desc>Bringing together prominent professional players from the Kingdom and all around the world, the ROSHN Saudi League delivers weekly thrilling matches to spectators nationally and internationally.</desc>
 	</programme>
-	<programme channel="6115" start="20241025005500 +0000" stop="20241025015500 +0000">
+	<programme channel="6115" start="20241025005000 +0000" stop="20241025015000 +0000">
 		<title>2024 FIM Women's Circuit Racing World Championship Round 6 Episode 2</title>
 		<desc>The FIM Women's Circuit Racing World Championship, with six rounds in 2024, is a pioneering single-make series exclusively for aspiring female riders, featuring the Yamaha R7.</desc>
 	</programme>
-	<programme channel="6115" start="20241025015500 +0000" stop="20241025052500 +0000">
-		<title>WTT Champions Montpellier 2024</title>
-		<desc>The world's elite singles and doubles table tennis players battle for a share of the US$2 million prize pool as well as 2000 world ranking points in Montpellier,France.</desc>
+	<programme channel="6115" start="20241025015000 +0000" stop="20241025053000 +0000">
+		<title>T100 Triathlon World Tour: 2024 LAKE LAS VEGAS T100</title>
+		<desc>40 of the world's best female and male professional triathletes battle over 8 breakneck 100km races in iconic locations around the globe in a bid to be crowned the first-ever T100 World Champions.</desc>
 	</programme>
-	<programme channel="6115" start="20241025052500 +0000" stop="20241025073000 +0000">
+	<programme channel="6115" start="20241025053000 +0000" stop="20241025073500 +0000">
 		<title>ISU World Figure Skating Grand Prix Allen (USA)</title>
 		<desc>The ISU Grand Prix of Figure Skating Series consists of six international senior events in North America, Europe and Asia, culminating with the ISU Grand Prix of Figure Skating Final in Grenoble, France.</desc>
 	</programme>
-	<programme channel="6115" start="20241025073000 +0000" stop="20241025092500 +0000">
+	<programme channel="6115" start="20241025073500 +0000" stop="20241025092500 +0000">
 		<title>2024 GTOUR WOMEN'S 5th Tournament</title>
 		<desc>Launched in 2012, the Golfzon GTOUR is a series of professional men's and women's screen golf tournaments in South Korea.</desc>
 	</programme>
@@ -4674,9 +4674,13 @@ Qin Shi is career focused but is always pressured to get married. A top lawyer f
 		<title>South Africa Tour of West Indies 2024: West Indies v South Africa 1st T20 Episode 904268</title>
 		<desc>South Africa Tour of West Indies 2024: West Indies v South Africa 1st T20</desc>
 	</programme>
-	<programme channel="5123" start="20241024220000 +0000" stop="20241025010000 +0000">
+	<programme channel="5123" start="20241024220000 +0000" stop="20241025003000 +0000">
 		<title>The Hundred Men 2024: Oval lnvincibles vs London Spirit Episode 919596</title>
 		<desc>The Hundred Men 2024: Oval lnvincibles vs London Spirit</desc>
+	</programme>
+	<programme channel="5123" start="20241025003000 +0000" stop="20241025010000 +0000">
+		<title>The Hundred Men 2024 Highlights: Birmingham Phoenix vs Southern Brave Episode 930877</title>
+		<desc>The Hundred Men 2024 Highlights: Birmingham Phoenix vs Southern Brave</desc>
 	</programme>
 	<programme channel="5123" start="20241025010000 +0000" stop="20241025040000 +0000">
 		<title>The Hundred Women 2024: Oval lnvincibles vs London Spirit Episode 919413</title>
@@ -6516,7 +6520,7 @@ Qin Shi is career focused but is always pressured to get married. A top lawyer f
 	</programme>
 	<programme channel="5157" start="20241025043000 +0000" stop="20241025050000 +0000">
 		<title>JAPAN DELISH</title>
-		<desc>NHK WORLD-JAPAN presents a wide range of programs from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+		<desc>Crisp, hot, and delicious Japanese gyoza! And it turns out, gyoza also make great frozen food. Find out how they made it happen!</desc>
 	</programme>
 	<programme channel="5157" start="20241025050000 +0000" stop="20241025051500 +0000">
 		<title>NHK NEWSLINE</title>
@@ -6564,11 +6568,11 @@ Qin Shi is career focused but is always pressured to get married. A top lawyer f
 	</programme>
 	<programme channel="5157" start="20241025082300 +0000" stop="20241025083000 +0000">
 		<title>Chatroom Japan</title>
-		<desc>Chatroom Japan puts a spotlight on our diverse international community.We report on the issues, speak to those involved, and get a fresh look at what it's like to live in Japan.</desc>
+		<desc>Imagine being called an outsider in the country where you were born. Chuk Besher knows what that's like. It made him ask questions about identity and diversity.</desc>
 	</programme>
 	<programme channel="5157" start="20241025083000 +0000" stop="20241025090000 +0000">
 		<title>JAPAN DELISH</title>
-		<desc>NHK WORLD-JAPAN presents a wide range of programs from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+		<desc>Crisp, hot, and delicious Japanese gyoza! And it turns out, gyoza also make great frozen food. Find out how they made it happen!</desc>
 	</programme>
 	<programme channel="5157" start="20241025090000 +0000" stop="20241025091400 +0000">
 		<title>NHK NEWSLINE</title>
@@ -9366,19 +9370,15 @@ Qin Shi is career focused but is always pressured to get married. A top lawyer f
 		<title>CNN Town Hall Analysis: Wednesday, October 23, 2024 11PM</title>
 		<desc>Live post analysis coverage of CNN's Kamala Harris Presidential Town Hall. Erin Burnett and Jake Tapper anchor.</desc>
 	</programme>
-	<programme channel="5167" start="20241024040000 +0000" stop="20241024044500 +0000">
+	<programme channel="5167" start="20241024040000 +0000" stop="20241024050000 +0000">
 		<title>CNN Newsroom: Thursday, October 24, 2024 12am ET</title>
 		<desc>Live context and clarity to the day's top stories from around the world.</desc>
 	</programme>
-	<programme channel="5167" start="20241024044500 +0000" stop="20241024050000 +0000">
-		<title>World Sport: Thursday, October 24, 2024 1245am ET</title>
-		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
+	<programme channel="5167" start="20241024050000 +0000" stop="20241024061500 +0000">
+		<title>CNN Town Hall: CNN Kamala Harris Presidential Town Hall</title>
+		<desc>Anderson Cooper moderates a live CNN Presidential Town Hall with Vice President Kamala Harris from Philadelphia, PA.</desc>
 	</programme>
-	<programme channel="5167" start="20241024050000 +0000" stop="20241024060000 +0000">
-		<title>CNN Newsroom: Thursday, October 24, 2024 1am ET</title>
-		<desc>Live context and clarity to the day's top stories from around the world.</desc>
-	</programme>
-	<programme channel="5167" start="20241024060000 +0000" stop="20241024064500 +0000">
+	<programme channel="5167" start="20241024061500 +0000" stop="20241024064500 +0000">
 		<title>CNN Newsroom: Thursday, October 24, 2024 2am ET</title>
 		<desc>Live context and clarity to the day's top stories from around the world.</desc>
 	</programme>
@@ -21388,11 +21388,11 @@ This series centres around six leading characters in a polyamorous relationship,
 		<desc>第4集
 韦豪轻松制伏跟踪他的十七，花香痛斥韦豪只会用拳脚解决问题。十七说服了三爷暂缓撤资，随后却传来三爷病重的消息……三爷不幸病逝，桂婵与方仪等人反而开香槟庆祝，并开始逼三爷的儿子贱卖家产，十七痛斥桂婵种种卑鄙行为，两人不欢而散……花香偶然与韦豪重逢，韦豪不想花香浪费光阴在自己身上，故意在她面前与流氓打架，花香失望离开。桂婵突然被一名神秘人绑架，囚禁在暗室之中。</desc>
 	</programme>
-	<programme channel="5511" start="20241024133000 +0000" stop="20241024143500 +0000">
+	<programme channel="5511" start="20241024133000 +0000" stop="20241024143000 +0000">
 		<title>廉政行动2024 / ICAC Investigators 2024 Episode 4</title>
 		<desc>廉署首席调查主任江见秋(张曦雯饰)，在上市公司贪污案以准母亲身份接近关键人物，找到破案缺口。总调查主任司徒启文(陈山聪饰)，在调查维修招标案中带着助理调查主任丁芯(陈星妤饰)假装成父女买楼，并在枪队成员徐浩南(容天佑饰)与助理调查主任钟巧玲(林凯恩饰)帮助下，成功游说关键人物搜集涉事建筑公司的罪证。高级调查主任伍学宾(郑俊弘饰)，透过IT知识找出狱中是谁与外界沟通的痕迹，成功侦破惩教人员贪污案。即使巧玲与丁芯对中学工程贪污案涉案人物的判断不同，二人甚至在保险行贿案因认识涉案人物而被停止接触案件，强烈正义感</desc>
 	</programme>
-	<programme channel="5511" start="20241024143500 +0000" stop="20241024150000 +0000">
+	<programme channel="5511" start="20241024143000 +0000" stop="20241024150000 +0000">
 		<title>呃钱 / Scam Alert! Episode 4</title>
 		<desc>呃钱 / Scam Alert!</desc>
 	</programme>
@@ -21579,11 +21579,11 @@ This series centres around six leading characters in a polyamorous relationship,
 		<desc>第5集
 桂婵之母邓老太恳求十七想办法救人，十七答应，却毫无头绪。囚禁桂婵的老人，竟对她过往的所作所为了如指掌，桂婵亦探不清对方的真面目，只知对方想将自己囚禁十二年……韦豪向花香剖白心迹，花香思前想后，决定离家追随韦豪。绑匪向邓家索取赎金，巡捕击毙了收赎金的接头人，但桂婵依然下落不明；十七决定改变策略，将赎金变赏金。花香因种种迹象，竟怀疑绑架桂婵的人是韦豪及其伙伴……</desc>
 	</programme>
-	<programme channel="5511" start="20241025133000 +0000" stop="20241025143500 +0000">
+	<programme channel="5511" start="20241025133000 +0000" stop="20241025143000 +0000">
 		<title>廉政行动2024 / ICAC Investigators 2024 Episode 5</title>
 		<desc>廉署首席调查主任江见秋(张曦雯饰)，在上市公司贪污案以准母亲身份接近关键人物，找到破案缺口。总调查主任司徒启文(陈山聪饰)，在调查维修招标案中带着助理调查主任丁芯(陈星妤饰)假装成父女买楼，并在枪队成员徐浩南(容天佑饰)与助理调查主任钟巧玲(林凯恩饰)帮助下，成功游说关键人物搜集涉事建筑公司的罪证。高级调查主任伍学宾(郑俊弘饰)，透过IT知识找出狱中是谁与外界沟通的痕迹，成功侦破惩教人员贪污案。即使巧玲与丁芯对中学工程贪污案涉案人物的判断不同，二人甚至在保险行贿案因认识涉案人物而被停止接触案件，强烈正义感</desc>
 	</programme>
-	<programme channel="5511" start="20241025143500 +0000" stop="20241025150500 +0000">
+	<programme channel="5511" start="20241025143000 +0000" stop="20241025150500 +0000">
 		<title>呃钱 / Scam Alert! Episode 5</title>
 		<desc>呃钱 / Scam Alert!</desc>
 	</programme>
@@ -29011,9 +29011,13 @@ This series centres around six leading characters in a polyamorous relationship,
 		<title>GENES SEASON 2 Episode 7</title>
 		<desc>'Genes' is a show where popular celebrities connect the real families by identifying their genetic similarities</desc>
 	</programme>
-	<programme channel="5632" start="20241024023000 +0000" stop="20241024060000 +0000">
+	<programme channel="5632" start="20241024023000 +0000" stop="20241024030000 +0000">
 		<title>NENJATHAI KILLADHE Episode 87</title>
 		<desc>Goutham, a business tycoon who appears overweight, enters into a marriage of convenience with Bhoomika, an educated middle-class woman. Both have surpassed the typical age for marriage and share similar kinds of emotional pain. Will this couple develop feelings for each other and forge a life together as husband and wife?</desc>
+	</programme>
+	<programme channel="5632" start="20241024030000 +0000" stop="20241024060000 +0000">
+		<title>MOVIE - THUNDER</title>
+		<desc>Tamil Action Movie, Starring, Balakrishna, Katrina Kaif, and Charmy Kaur</desc>
 	</programme>
 	<programme channel="5632" start="20241024060000 +0000" stop="20241024063000 +0000">
 		<title>KCKC (BALLE KHILADI) Episode 91</title>
@@ -29175,9 +29179,13 @@ This series centres around six leading characters in a polyamorous relationship,
 		<title>GENES SEASON 2 Episode 8</title>
 		<desc>'Genes' is a show where popular celebrities connect the real families by identifying their genetic similarities</desc>
 	</programme>
-	<programme channel="5632" start="20241025023000 +0000" stop="20241025060000 +0000">
+	<programme channel="5632" start="20241025023000 +0000" stop="20241025030000 +0000">
 		<title>NENJATHAI KILLADHE Episode 88</title>
 		<desc>Goutham, a business tycoon who appears overweight, enters into a marriage of convenience with Bhoomika, an educated middle-class woman. Both have surpassed the typical age for marriage and share similar kinds of emotional pain. Will this couple develop feelings for each other and forge a life together as husband and wife?</desc>
+	</programme>
+	<programme channel="5632" start="20241025030000 +0000" stop="20241025060000 +0000">
+		<title>MOVIE - KILLADI MARUMAGAN</title>
+		<desc>Tamil Romantic Movie, Starring, Naga Chaitanya, Anu Emmanuel, Maruthi & Others</desc>
 	</programme>
 	<programme channel="5632" start="20241025060000 +0000" stop="20241025063000 +0000">
 		<title>KCKC (DESINGURAJA) Episode 92</title>
@@ -31613,327 +31621,327 @@ This series centres around six leading characters in a polyamorous relationship,
 	</programme>
 	<programme channel="5656" start="20241023160000 +0000" stop="20241023163000 +0000">
 		<title>Yeh Rishta Kya Kehlata Hai Episode 4592</title>
-		<desc>Dr. Abhimanyu's love for Akshara faces a twist with Arohi.</desc>
+		<desc>Abhira tricks Armaan into coming to meet her at a restaurant, but she faints before confessing to him. Later, a doctor tells Armaan that Abhira is pregnant.</desc>
 	</programme>
 	<programme channel="5656" start="20241023163000 +0000" stop="20241023170000 +0000">
 		<title>Anupamaa Episode 1446</title>
-		<desc>Anupamaa seeks self-worth, reclaiming her life after unnoticed sacrifices.</desc>
+		<desc>Anupama pleads with Rahi to let go of her anger and return to Ahmedabad, but Rahi ignores her. Later, Rahi agrees to return, but under one condition.</desc>
 	</programme>
 	<programme channel="5656" start="20241023170000 +0000" stop="20241023180000 +0000">
 		<title>Jhanak Episode 338</title>
-		<desc>Jhanak's dance dreams shatter after a tragedy, leading to a convenient marriage.</desc>
+		<desc>Brij Bhushan talks about how Kul Bhushan stole his identity and fame. At the wedding, Jhanak recalls her name and Aniruddha.</desc>
 	</programme>
 	<programme channel="5656" start="20241023180000 +0000" stop="20241023183000 +0000">
 		<title>Maati Se Bandhi Dor Episode 148</title>
-		<desc>Vaiju works hard for her family but faces a challenge when Rannvijay dismisses her.</desc>
+		<desc>Milind urges Vaiju to move on from Ranvijay and let him into her heart, but it makes her furious. Later, Ranvijay shows up looking for Vaiju.</desc>
 	</programme>
 	<programme channel="5656" start="20241023183000 +0000" stop="20241023190000 +0000">
 		<title>Udne Ki Aasha Episode 225</title>
-		<desc>Sayali dreams of her prince charming, but fate pairs her with a thug, Sachin.</desc>
+		<desc>Sachin beams with pride as Sayali bravely rescues Riya from dangerous goons. Sayali meets with Joy and Mamta, urging them to take action for Riya's safety.</desc>
 	</programme>
 	<programme channel="5656" start="20241023190000 +0000" stop="20241023193000 +0000">
 		<title>Advocate Anjali Awasthi Episode 76</title>
-		<desc>Underdog lawyer Anjali takes on a tough case and battles powerful opponents.</desc>
+		<desc>Ginni hires goons to prevent Anjali from reaching court, but Anjali thwarts the plan. In court, Raghav claims that Padma plotted against Yuvraj.</desc>
 	</programme>
 	<programme channel="5656" start="20241023193000 +0000" stop="20241023200000 +0000">
 		<title>Ghum Hai Kisikey Pyaar Meiin Episode 1374</title>
-		<desc>Savi's new teaching job sparks hope and forms a bond with Saisha.</desc>
+		<desc>Savi is taken aback by Rajat's unexpected and heartfelt gesture, showcasing his deep gratitude for her. Arsh lashes out at Ashika following a devastating loss.</desc>
 	</programme>
 	<programme channel="5656" start="20241023200000 +0000" stop="20241023203000 +0000">
 		<title>Dil Ko Tumse Pyaar Hua Episode 100</title>
-		<desc>Deepika, shunned by society's beauty standards, finds new hope with Dr. Chirag.</desc>
+		<desc>Deepika questions Mishka for letting Manorama blackmail her. Later, Mishka instigates Lavanya against Deepika.</desc>
 	</programme>
 	<programme channel="5656" start="20241023203000 +0000" stop="20241023210000 +0000">
 		<title>Do Dooni Pyaar Episode 53</title>
-		<desc>Ganga neglected by her family and Abhay from a wealthy, educated background, meet by fate.</desc>
+		<desc>Sakshi's attempt to trap Ganga backfires, unexpectedly bringing Ganga and Abhay closer. Keerti and Ritu devise a plan to help Sakshi win over the Kashyaps.</desc>
 	</programme>
 	<programme channel="5656" start="20241023210000 +0000" stop="20241023220000 +0000">
 		<title>Jhanak Episode 338</title>
-		<desc>Jhanak's dance dreams shatter after a tragedy, leading to a convenient marriage.</desc>
+		<desc>Brij Bhushan talks about how Kul Bhushan stole his identity and fame. At the wedding, Jhanak recalls her name and Aniruddha.</desc>
 	</programme>
 	<programme channel="5656" start="20241023220000 +0000" stop="20241023223000 +0000">
 		<title>Maati Se Bandhi Dor Episode 148</title>
-		<desc>Vaiju works hard for her family but faces a challenge when Rannvijay dismisses her.</desc>
+		<desc>Milind urges Vaiju to move on from Ranvijay and let him into her heart, but it makes her furious. Later, Ranvijay shows up looking for Vaiju.</desc>
 	</programme>
 	<programme channel="5656" start="20241023223000 +0000" stop="20241023230000 +0000">
 		<title>Iss Ishq Ka... Rabb Rakha Episode 36</title>
-		<desc>Ranbir and Meghla navigate their love through cultural clashes and family tensions. Will their romance withstand the challenges, or is it doomed from the start?</desc>
+		<desc>Adrija urges the puja organisers to schedule her performance before Meghla's, insisting Ranbir would prefer it. Meanwhile, Meher talks about an old friend.</desc>
 	</programme>
 	<programme channel="5656" start="20241023230000 +0000" stop="20241023233000 +0000">
 		<title>Dil Ko Tumse Pyaar Hua Episode 100</title>
-		<desc>Deepika, shunned by society's beauty standards, finds new hope with Dr. Chirag.</desc>
+		<desc>Deepika questions Mishka for letting Manorama blackmail her. Later, Mishka instigates Lavanya against Deepika.</desc>
 	</programme>
 	<programme channel="5656" start="20241023233000 +0000" stop="20241024000000 +0000">
 		<title>Udne Ki Aasha Episode 225</title>
-		<desc>Sayali dreams of her prince charming, but fate pairs her with a thug, Sachin.</desc>
+		<desc>Sachin beams with pride as Sayali bravely rescues Riya from dangerous goons. Sayali meets with Joy and Mamta, urging them to take action for Riya's safety.</desc>
 	</programme>
 	<programme channel="5656" start="20241024000000 +0000" stop="20241024003000 +0000">
 		<title>Advocate Anjali Awasthi Episode 76</title>
-		<desc>Underdog lawyer Anjali takes on a tough case and battles powerful opponents.</desc>
+		<desc>Ginni hires goons to prevent Anjali from reaching court, but Anjali thwarts the plan. In court, Raghav claims that Padma plotted against Yuvraj.</desc>
 	</programme>
 	<programme channel="5656" start="20241024003000 +0000" stop="20241024010000 +0000">
 		<title>Ghum Hai Kisikey Pyaar Meiin Episode 1374</title>
-		<desc>Savi's new teaching job sparks hope and forms a bond with Saisha.</desc>
+		<desc>Savi is taken aback by Rajat's unexpected and heartfelt gesture, showcasing his deep gratitude for her. Arsh lashes out at Ashika following a devastating loss.</desc>
 	</programme>
 	<programme channel="5656" start="20241024010000 +0000" stop="20241024013000 +0000">
 		<title>Anupamaa Episode 1446</title>
-		<desc>Anupamaa seeks self-worth, reclaiming her life after unnoticed sacrifices.</desc>
+		<desc>Anupama pleads with Rahi to let go of her anger and return to Ahmedabad, but Rahi ignores her. Later, Rahi agrees to return, but under one condition.</desc>
 	</programme>
 	<programme channel="5656" start="20241024013000 +0000" stop="20241024023000 +0000">
 		<title>Jhanak Episode 338</title>
-		<desc>Jhanak's dance dreams shatter after a tragedy, leading to a convenient marriage.</desc>
+		<desc>Brij Bhushan talks about how Kul Bhushan stole his identity and fame. At the wedding, Jhanak recalls her name and Aniruddha.</desc>
 	</programme>
 	<programme channel="5656" start="20241024023000 +0000" stop="20241024030000 +0000">
 		<title>Maati Se Bandhi Dor Episode 148</title>
-		<desc>Vaiju works hard for her family but faces a challenge when Rannvijay dismisses her.</desc>
+		<desc>Milind urges Vaiju to move on from Ranvijay and let him into her heart, but it makes her furious. Later, Ranvijay shows up looking for Vaiju.</desc>
 	</programme>
 	<programme channel="5656" start="20241024030000 +0000" stop="20241024033000 +0000">
 		<title>Do Dooni Pyaar Episode 53</title>
-		<desc>Ganga neglected by her family and Abhay from a wealthy, educated background, meet by fate.</desc>
+		<desc>Sakshi's attempt to trap Ganga backfires, unexpectedly bringing Ganga and Abhay closer. Keerti and Ritu devise a plan to help Sakshi win over the Kashyaps.</desc>
 	</programme>
 	<programme channel="5656" start="20241024033000 +0000" stop="20241024040000 +0000">
 		<title>Dil Ko Tumse Pyaar Hua Episode 100</title>
-		<desc>Deepika, shunned by society's beauty standards, finds new hope with Dr. Chirag.</desc>
+		<desc>Deepika questions Mishka for letting Manorama blackmail her. Later, Mishka instigates Lavanya against Deepika.</desc>
 	</programme>
 	<programme channel="5656" start="20241024040000 +0000" stop="20241024043000 +0000">
 		<title>Advocate Anjali Awasthi Episode 76</title>
-		<desc>Underdog lawyer Anjali takes on a tough case and battles powerful opponents.</desc>
+		<desc>Ginni hires goons to prevent Anjali from reaching court, but Anjali thwarts the plan. In court, Raghav claims that Padma plotted against Yuvraj.</desc>
 	</programme>
 	<programme channel="5656" start="20241024043000 +0000" stop="20241024050000 +0000">
 		<title>Iss Ishq Ka... Rabb Rakha Episode 36</title>
-		<desc>Ranbir and Meghla navigate their love through cultural clashes and family tensions. Will their romance withstand the challenges, or is it doomed from the start?</desc>
+		<desc>Adrija urges the puja organisers to schedule her performance before Meghla's, insisting Ranbir would prefer it. Meanwhile, Meher talks about an old friend.</desc>
 	</programme>
 	<programme channel="5656" start="20241024050000 +0000" stop="20241024053000 +0000">
 		<title>Udne Ki Aasha Episode 225</title>
-		<desc>Sayali dreams of her prince charming, but fate pairs her with a thug, Sachin.</desc>
+		<desc>Sachin beams with pride as Sayali bravely rescues Riya from dangerous goons. Sayali meets with Joy and Mamta, urging them to take action for Riya's safety.</desc>
 	</programme>
 	<programme channel="5656" start="20241024053000 +0000" stop="20241024060000 +0000">
 		<title>Ghum Hai Kisikey Pyaar Meiin Episode 1374</title>
-		<desc>Savi's new teaching job sparks hope and forms a bond with Saisha.</desc>
+		<desc>Savi is taken aback by Rajat's unexpected and heartfelt gesture, showcasing his deep gratitude for her. Arsh lashes out at Ashika following a devastating loss.</desc>
 	</programme>
 	<programme channel="5656" start="20241024060000 +0000" stop="20241024063000 +0000">
 		<title>Yeh Rishta Kya Kehlata Hai Episode 4592</title>
-		<desc>Dr. Abhimanyu's love for Akshara faces a twist with Arohi.</desc>
+		<desc>Abhira tricks Armaan into coming to meet her at a restaurant, but she faints before confessing to him. Later, a doctor tells Armaan that Abhira is pregnant.</desc>
 	</programme>
 	<programme channel="5656" start="20241024063000 +0000" stop="20241024070000 +0000">
 		<title>Anupamaa Episode 1446</title>
-		<desc>Anupamaa seeks self-worth, reclaiming her life after unnoticed sacrifices.</desc>
+		<desc>Anupama pleads with Rahi to let go of her anger and return to Ahmedabad, but Rahi ignores her. Later, Rahi agrees to return, but under one condition.</desc>
 	</programme>
 	<programme channel="5656" start="20241024070000 +0000" stop="20241024080000 +0000">
 		<title>Jhanak Episode 338</title>
-		<desc>Jhanak's dance dreams shatter after a tragedy, leading to a convenient marriage.</desc>
+		<desc>Brij Bhushan talks about how Kul Bhushan stole his identity and fame. At the wedding, Jhanak recalls her name and Aniruddha.</desc>
 	</programme>
 	<programme channel="5656" start="20241024080000 +0000" stop="20241024083000 +0000">
 		<title>Iss Ishq Ka... Rabb Rakha Episode 36</title>
-		<desc>Ranbir and Meghla navigate their love through cultural clashes and family tensions. Will their romance withstand the challenges, or is it doomed from the start?</desc>
+		<desc>Adrija urges the puja organisers to schedule her performance before Meghla's, insisting Ranbir would prefer it. Meanwhile, Meher talks about an old friend.</desc>
 	</programme>
 	<programme channel="5656" start="20241024083000 +0000" stop="20241024090000 +0000">
 		<title>Do Dooni Pyaar Episode 53</title>
-		<desc>Ganga neglected by her family and Abhay from a wealthy, educated background, meet by fate.</desc>
+		<desc>Sakshi's attempt to trap Ganga backfires, unexpectedly bringing Ganga and Abhay closer. Keerti and Ritu devise a plan to help Sakshi win over the Kashyaps.</desc>
 	</programme>
 	<programme channel="5656" start="20241024090000 +0000" stop="20241024093000 +0000">
 		<title>Dil Ko Tumse Pyaar Hua Episode 100</title>
-		<desc>Deepika, shunned by society's beauty standards, finds new hope with Dr. Chirag.</desc>
+		<desc>Deepika questions Mishka for letting Manorama blackmail her. Later, Mishka instigates Lavanya against Deepika.</desc>
 	</programme>
 	<programme channel="5656" start="20241024093000 +0000" stop="20241024100000 +0000">
 		<title>Maati Se Bandhi Dor Episode 148</title>
-		<desc>Vaiju works hard for her family but faces a challenge when Rannvijay dismisses her.</desc>
+		<desc>Milind urges Vaiju to move on from Ranvijay and let him into her heart, but it makes her furious. Later, Ranvijay shows up looking for Vaiju.</desc>
 	</programme>
 	<programme channel="5656" start="20241024100000 +0000" stop="20241024103000 +0000">
 		<title>Udne Ki Aasha Episode 225</title>
-		<desc>Sayali dreams of her prince charming, but fate pairs her with a thug, Sachin.</desc>
+		<desc>Sachin beams with pride as Sayali bravely rescues Riya from dangerous goons. Sayali meets with Joy and Mamta, urging them to take action for Riya's safety.</desc>
 	</programme>
 	<programme channel="5656" start="20241024103000 +0000" stop="20241024110000 +0000">
 		<title>Advocate Anjali Awasthi Episode 76</title>
-		<desc>Underdog lawyer Anjali takes on a tough case and battles powerful opponents.</desc>
+		<desc>Ginni hires goons to prevent Anjali from reaching court, but Anjali thwarts the plan. In court, Raghav claims that Padma plotted against Yuvraj.</desc>
 	</programme>
 	<programme channel="5656" start="20241024110000 +0000" stop="20241024120000 +0000">
 		<title>Jhanak Episode 338</title>
-		<desc>Jhanak's dance dreams shatter after a tragedy, leading to a convenient marriage.</desc>
+		<desc>Brij Bhushan talks about how Kul Bhushan stole his identity and fame. At the wedding, Jhanak recalls her name and Aniruddha.</desc>
 	</programme>
 	<programme channel="5656" start="20241024120000 +0000" stop="20241024123000 +0000">
 		<title>Yeh Rishta Kya Kehlata Hai Episode 4592</title>
-		<desc>Dr. Abhimanyu's love for Akshara faces a twist with Arohi.</desc>
+		<desc>Abhira tricks Armaan into coming to meet her at a restaurant, but she faints before confessing to him. Later, a doctor tells Armaan that Abhira is pregnant.</desc>
 	</programme>
 	<programme channel="5656" start="20241024123000 +0000" stop="20241024130000 +0000">
 		<title>Anupamaa Episode 1446</title>
-		<desc>Anupamaa seeks self-worth, reclaiming her life after unnoticed sacrifices.</desc>
+		<desc>Anupama pleads with Rahi to let go of her anger and return to Ahmedabad, but Rahi ignores her. Later, Rahi agrees to return, but under one condition.</desc>
 	</programme>
 	<programme channel="5656" start="20241024130000 +0000" stop="20241024133000 +0000">
 		<title>Iss Ishq Ka... Rabb Rakha Episode 37</title>
-		<desc>Ranbir and Meghla navigate their love through cultural clashes and family tensions. Will their romance withstand the challenges, or is it doomed from the start?</desc>
+		<desc>Ranbir celebrates Durga Puja with Meghla and her family, while Adrija tries to keep him away from Meghla. Later, Ranbir sings with Meghla on stage.</desc>
 	</programme>
 	<programme channel="5656" start="20241024133000 +0000" stop="20241024140000 +0000">
 		<title>Dil Ko Tumse Pyaar Hua Episode 101</title>
-		<desc>Deepika, shunned by society's beauty standards, finds new hope with Dr. Chirag.</desc>
+		<desc>After testing Deepika, Mishka reveals her infertility and urges her not to tell Chirag. Later, Mishka spikes Suraj's tea and prevents him from leaving.</desc>
 	</programme>
 	<programme channel="5656" start="20241024140000 +0000" stop="20241024143000 +0000">
 		<title>Do Dooni Pyaar Episode 54</title>
-		<desc>Ganga neglected by her family and Abhay from a wealthy, educated background, meet by fate.</desc>
+		<desc>Kirti informs Ganga of Abhay's plans for Sakshi. While Ganga prepares for the Havan with Abhay, Sakshi outsmarts her and leaves with him.</desc>
 	</programme>
 	<programme channel="5656" start="20241024143000 +0000" stop="20241024150000 +0000">
 		<title>Ghum Hai Kisikey Pyaar Meiin Episode 1375</title>
-		<desc>Savi's new teaching job sparks hope and forms a bond with Saisha.</desc>
+		<desc>Rajat shares news of Ahana and Aman's engagement, shocking Mrunmayee and Savi. Meanwhile, to ruin Rajat's life, Arsh befriends Jigar at the police station.</desc>
 	</programme>
 	<programme channel="5656" start="20241024150000 +0000" stop="20241024153000 +0000">
 		<title>Advocate Anjali Awasthi Episode 77</title>
-		<desc>Underdog lawyer Anjali takes on a tough case and battles powerful opponents.</desc>
+		<desc>Anjali calls for harsh punishment for Yuvraj in court, but Raghav counters with false evidence. Can Anjali reassure Padma she will get justice?</desc>
 	</programme>
 	<programme channel="5656" start="20241024153000 +0000" stop="20241024160000 +0000">
 		<title>Udne Ki Aasha Episode 226</title>
-		<desc>Sayali dreams of her prince charming, but fate pairs her with a thug, Sachin.</desc>
+		<desc>As per Paresh's wish, Renuka convinces Mamta to send Riya home. Later, Sachin takes Sayali to the temple, asking the priest to protect her from evil influences.</desc>
 	</programme>
 	<programme channel="5656" start="20241024160000 +0000" stop="20241024163000 +0000">
 		<title>Yeh Rishta Kya Kehlata Hai Episode 4593</title>
-		<desc>Dr. Abhimanyu's love for Akshara faces a twist with Arohi.</desc>
+		<desc>Fearing health complications, Armaan gets furious at Abhira for hiding her pregnancy. Despite her assurance, Armaan wants her to get an abortion.</desc>
 	</programme>
 	<programme channel="5656" start="20241024163000 +0000" stop="20241024170000 +0000">
 		<title>Anupamaa Episode 1447</title>
-		<desc>Anupamaa seeks self-worth, reclaiming her life after unnoticed sacrifices.</desc>
+		<desc>Anupama agrees to give the money to save the orphanage. Before leaving with Anupama, Rahi is heartbroken and tearfully bids goodbye to the children.</desc>
 	</programme>
 	<programme channel="5656" start="20241024170000 +0000" stop="20241024180000 +0000">
 		<title>Jhanak Episode 339</title>
-		<desc>Jhanak's dance dreams shatter after a tragedy, leading to a convenient marriage.</desc>
+		<desc>Upon regaining her memory, Jhanak recalls her past and confronts Pandit Ji about Urvashi. Meanwhile, Aniruddha defends Jhanak and struggles with her absence.</desc>
 	</programme>
 	<programme channel="5656" start="20241024180000 +0000" stop="20241024183000 +0000">
 		<title>Maati Se Bandhi Dor Episode 149</title>
-		<desc>Vaiju works hard for her family but faces a challenge when Rannvijay dismisses her.</desc>
+		<desc>Vaiju agrees to return to the Mohitepatil house but sets a condition for Ranvijay. Meanwhile, Jaya is concerned about the change in Ranvijay's behaviour.</desc>
 	</programme>
 	<programme channel="5656" start="20241024183000 +0000" stop="20241024190000 +0000">
 		<title>Udne Ki Aasha Episode 226</title>
-		<desc>Sayali dreams of her prince charming, but fate pairs her with a thug, Sachin.</desc>
+		<desc>As per Paresh's wish, Renuka convinces Mamta to send Riya home. Later, Sachin takes Sayali to the temple, asking the priest to protect her from evil influences.</desc>
 	</programme>
 	<programme channel="5656" start="20241024190000 +0000" stop="20241024193000 +0000">
 		<title>Advocate Anjali Awasthi Episode 77</title>
-		<desc>Underdog lawyer Anjali takes on a tough case and battles powerful opponents.</desc>
+		<desc>Anjali calls for harsh punishment for Yuvraj in court, but Raghav counters with false evidence. Can Anjali reassure Padma she will get justice?</desc>
 	</programme>
 	<programme channel="5656" start="20241024193000 +0000" stop="20241024200000 +0000">
 		<title>Ghum Hai Kisikey Pyaar Meiin Episode 1375</title>
-		<desc>Savi's new teaching job sparks hope and forms a bond with Saisha.</desc>
+		<desc>Rajat shares news of Ahana and Aman's engagement, shocking Mrunmayee and Savi. Meanwhile, to ruin Rajat's life, Arsh befriends Jigar at the police station.</desc>
 	</programme>
 	<programme channel="5656" start="20241024200000 +0000" stop="20241024203000 +0000">
 		<title>Dil Ko Tumse Pyaar Hua Episode 101</title>
-		<desc>Deepika, shunned by society's beauty standards, finds new hope with Dr. Chirag.</desc>
+		<desc>After testing Deepika, Mishka reveals her infertility and urges her not to tell Chirag. Later, Mishka spikes Suraj's tea and prevents him from leaving.</desc>
 	</programme>
 	<programme channel="5656" start="20241024203000 +0000" stop="20241024210000 +0000">
 		<title>Do Dooni Pyaar Episode 54</title>
-		<desc>Ganga neglected by her family and Abhay from a wealthy, educated background, meet by fate.</desc>
+		<desc>Kirti informs Ganga of Abhay's plans for Sakshi. While Ganga prepares for the Havan with Abhay, Sakshi outsmarts her and leaves with him.</desc>
 	</programme>
 	<programme channel="5656" start="20241024210000 +0000" stop="20241024220000 +0000">
 		<title>Jhanak Episode 339</title>
-		<desc>Jhanak's dance dreams shatter after a tragedy, leading to a convenient marriage.</desc>
+		<desc>Upon regaining her memory, Jhanak recalls her past and confronts Pandit Ji about Urvashi. Meanwhile, Aniruddha defends Jhanak and struggles with her absence.</desc>
 	</programme>
 	<programme channel="5656" start="20241024220000 +0000" stop="20241024223000 +0000">
 		<title>Maati Se Bandhi Dor Episode 149</title>
-		<desc>Vaiju works hard for her family but faces a challenge when Rannvijay dismisses her.</desc>
+		<desc>Vaiju agrees to return to the Mohitepatil house but sets a condition for Ranvijay. Meanwhile, Jaya is concerned about the change in Ranvijay's behaviour.</desc>
 	</programme>
 	<programme channel="5656" start="20241024223000 +0000" stop="20241024230000 +0000">
 		<title>Iss Ishq Ka... Rabb Rakha Episode 37</title>
-		<desc>Ranbir and Meghla navigate their love through cultural clashes and family tensions. Will their romance withstand the challenges, or is it doomed from the start?</desc>
+		<desc>Ranbir celebrates Durga Puja with Meghla and her family, while Adrija tries to keep him away from Meghla. Later, Ranbir sings with Meghla on stage.</desc>
 	</programme>
 	<programme channel="5656" start="20241024230000 +0000" stop="20241024233000 +0000">
 		<title>Dil Ko Tumse Pyaar Hua Episode 101</title>
-		<desc>Deepika, shunned by society's beauty standards, finds new hope with Dr. Chirag.</desc>
+		<desc>After testing Deepika, Mishka reveals her infertility and urges her not to tell Chirag. Later, Mishka spikes Suraj's tea and prevents him from leaving.</desc>
 	</programme>
 	<programme channel="5656" start="20241024233000 +0000" stop="20241025000000 +0000">
 		<title>Udne Ki Aasha Episode 226</title>
-		<desc>Sayali dreams of her prince charming, but fate pairs her with a thug, Sachin.</desc>
+		<desc>As per Paresh's wish, Renuka convinces Mamta to send Riya home. Later, Sachin takes Sayali to the temple, asking the priest to protect her from evil influences.</desc>
 	</programme>
 	<programme channel="5656" start="20241025000000 +0000" stop="20241025003000 +0000">
 		<title>Advocate Anjali Awasthi Episode 77</title>
-		<desc>Underdog lawyer Anjali takes on a tough case and battles powerful opponents.</desc>
+		<desc>Anjali calls for harsh punishment for Yuvraj in court, but Raghav counters with false evidence. Can Anjali reassure Padma she will get justice?</desc>
 	</programme>
 	<programme channel="5656" start="20241025003000 +0000" stop="20241025010000 +0000">
 		<title>Ghum Hai Kisikey Pyaar Meiin Episode 1375</title>
-		<desc>Savi's new teaching job sparks hope and forms a bond with Saisha.</desc>
+		<desc>Rajat shares news of Ahana and Aman's engagement, shocking Mrunmayee and Savi. Meanwhile, to ruin Rajat's life, Arsh befriends Jigar at the police station.</desc>
 	</programme>
 	<programme channel="5656" start="20241025010000 +0000" stop="20241025013000 +0000">
 		<title>Anupamaa Episode 1447</title>
-		<desc>Anupamaa seeks self-worth, reclaiming her life after unnoticed sacrifices.</desc>
+		<desc>Anupama agrees to give the money to save the orphanage. Before leaving with Anupama, Rahi is heartbroken and tearfully bids goodbye to the children.</desc>
 	</programme>
 	<programme channel="5656" start="20241025013000 +0000" stop="20241025023000 +0000">
 		<title>Jhanak Episode 339</title>
-		<desc>Jhanak's dance dreams shatter after a tragedy, leading to a convenient marriage.</desc>
+		<desc>Upon regaining her memory, Jhanak recalls her past and confronts Pandit Ji about Urvashi. Meanwhile, Aniruddha defends Jhanak and struggles with her absence.</desc>
 	</programme>
 	<programme channel="5656" start="20241025023000 +0000" stop="20241025030000 +0000">
 		<title>Maati Se Bandhi Dor Episode 149</title>
-		<desc>Vaiju works hard for her family but faces a challenge when Rannvijay dismisses her.</desc>
+		<desc>Vaiju agrees to return to the Mohitepatil house but sets a condition for Ranvijay. Meanwhile, Jaya is concerned about the change in Ranvijay's behaviour.</desc>
 	</programme>
 	<programme channel="5656" start="20241025030000 +0000" stop="20241025033000 +0000">
 		<title>Do Dooni Pyaar Episode 54</title>
-		<desc>Ganga neglected by her family and Abhay from a wealthy, educated background, meet by fate.</desc>
+		<desc>Kirti informs Ganga of Abhay's plans for Sakshi. While Ganga prepares for the Havan with Abhay, Sakshi outsmarts her and leaves with him.</desc>
 	</programme>
 	<programme channel="5656" start="20241025033000 +0000" stop="20241025040000 +0000">
 		<title>Dil Ko Tumse Pyaar Hua Episode 101</title>
-		<desc>Deepika, shunned by society's beauty standards, finds new hope with Dr. Chirag.</desc>
+		<desc>After testing Deepika, Mishka reveals her infertility and urges her not to tell Chirag. Later, Mishka spikes Suraj's tea and prevents him from leaving.</desc>
 	</programme>
 	<programme channel="5656" start="20241025040000 +0000" stop="20241025043000 +0000">
 		<title>Advocate Anjali Awasthi Episode 77</title>
-		<desc>Underdog lawyer Anjali takes on a tough case and battles powerful opponents.</desc>
+		<desc>Anjali calls for harsh punishment for Yuvraj in court, but Raghav counters with false evidence. Can Anjali reassure Padma she will get justice?</desc>
 	</programme>
 	<programme channel="5656" start="20241025043000 +0000" stop="20241025050000 +0000">
 		<title>Iss Ishq Ka... Rabb Rakha Episode 37</title>
-		<desc>Ranbir and Meghla navigate their love through cultural clashes and family tensions. Will their romance withstand the challenges, or is it doomed from the start?</desc>
+		<desc>Ranbir celebrates Durga Puja with Meghla and her family, while Adrija tries to keep him away from Meghla. Later, Ranbir sings with Meghla on stage.</desc>
 	</programme>
 	<programme channel="5656" start="20241025050000 +0000" stop="20241025053000 +0000">
 		<title>Udne Ki Aasha Episode 226</title>
-		<desc>Sayali dreams of her prince charming, but fate pairs her with a thug, Sachin.</desc>
+		<desc>As per Paresh's wish, Renuka convinces Mamta to send Riya home. Later, Sachin takes Sayali to the temple, asking the priest to protect her from evil influences.</desc>
 	</programme>
 	<programme channel="5656" start="20241025053000 +0000" stop="20241025060000 +0000">
 		<title>Ghum Hai Kisikey Pyaar Meiin Episode 1375</title>
-		<desc>Savi's new teaching job sparks hope and forms a bond with Saisha.</desc>
+		<desc>Rajat shares news of Ahana and Aman's engagement, shocking Mrunmayee and Savi. Meanwhile, to ruin Rajat's life, Arsh befriends Jigar at the police station.</desc>
 	</programme>
 	<programme channel="5656" start="20241025060000 +0000" stop="20241025063000 +0000">
 		<title>Yeh Rishta Kya Kehlata Hai Episode 4593</title>
-		<desc>Dr. Abhimanyu's love for Akshara faces a twist with Arohi.</desc>
+		<desc>Fearing health complications, Armaan gets furious at Abhira for hiding her pregnancy. Despite her assurance, Armaan wants her to get an abortion.</desc>
 	</programme>
 	<programme channel="5656" start="20241025063000 +0000" stop="20241025070000 +0000">
 		<title>Anupamaa Episode 1447</title>
-		<desc>Anupamaa seeks self-worth, reclaiming her life after unnoticed sacrifices.</desc>
+		<desc>Anupama agrees to give the money to save the orphanage. Before leaving with Anupama, Rahi is heartbroken and tearfully bids goodbye to the children.</desc>
 	</programme>
 	<programme channel="5656" start="20241025070000 +0000" stop="20241025080000 +0000">
 		<title>Jhanak Episode 339</title>
-		<desc>Jhanak's dance dreams shatter after a tragedy, leading to a convenient marriage.</desc>
+		<desc>Upon regaining her memory, Jhanak recalls her past and confronts Pandit Ji about Urvashi. Meanwhile, Aniruddha defends Jhanak and struggles with her absence.</desc>
 	</programme>
 	<programme channel="5656" start="20241025080000 +0000" stop="20241025083000 +0000">
 		<title>Iss Ishq Ka... Rabb Rakha Episode 37</title>
-		<desc>Ranbir and Meghla navigate their love through cultural clashes and family tensions. Will their romance withstand the challenges, or is it doomed from the start?</desc>
+		<desc>Ranbir celebrates Durga Puja with Meghla and her family, while Adrija tries to keep him away from Meghla. Later, Ranbir sings with Meghla on stage.</desc>
 	</programme>
 	<programme channel="5656" start="20241025083000 +0000" stop="20241025090000 +0000">
 		<title>Do Dooni Pyaar Episode 54</title>
-		<desc>Ganga neglected by her family and Abhay from a wealthy, educated background, meet by fate.</desc>
+		<desc>Kirti informs Ganga of Abhay's plans for Sakshi. While Ganga prepares for the Havan with Abhay, Sakshi outsmarts her and leaves with him.</desc>
 	</programme>
 	<programme channel="5656" start="20241025090000 +0000" stop="20241025093000 +0000">
 		<title>Dil Ko Tumse Pyaar Hua Episode 101</title>
-		<desc>Deepika, shunned by society's beauty standards, finds new hope with Dr. Chirag.</desc>
+		<desc>After testing Deepika, Mishka reveals her infertility and urges her not to tell Chirag. Later, Mishka spikes Suraj's tea and prevents him from leaving.</desc>
 	</programme>
 	<programme channel="5656" start="20241025093000 +0000" stop="20241025100000 +0000">
 		<title>Maati Se Bandhi Dor Episode 149</title>
-		<desc>Vaiju works hard for her family but faces a challenge when Rannvijay dismisses her.</desc>
+		<desc>Vaiju agrees to return to the Mohitepatil house but sets a condition for Ranvijay. Meanwhile, Jaya is concerned about the change in Ranvijay's behaviour.</desc>
 	</programme>
 	<programme channel="5656" start="20241025100000 +0000" stop="20241025103000 +0000">
 		<title>Udne Ki Aasha Episode 226</title>
-		<desc>Sayali dreams of her prince charming, but fate pairs her with a thug, Sachin.</desc>
+		<desc>As per Paresh's wish, Renuka convinces Mamta to send Riya home. Later, Sachin takes Sayali to the temple, asking the priest to protect her from evil influences.</desc>
 	</programme>
 	<programme channel="5656" start="20241025103000 +0000" stop="20241025110000 +0000">
 		<title>Advocate Anjali Awasthi Episode 77</title>
-		<desc>Underdog lawyer Anjali takes on a tough case and battles powerful opponents.</desc>
+		<desc>Anjali calls for harsh punishment for Yuvraj in court, but Raghav counters with false evidence. Can Anjali reassure Padma she will get justice?</desc>
 	</programme>
 	<programme channel="5656" start="20241025110000 +0000" stop="20241025120000 +0000">
 		<title>Jhanak Episode 339</title>
-		<desc>Jhanak's dance dreams shatter after a tragedy, leading to a convenient marriage.</desc>
+		<desc>Upon regaining her memory, Jhanak recalls her past and confronts Pandit Ji about Urvashi. Meanwhile, Aniruddha defends Jhanak and struggles with her absence.</desc>
 	</programme>
 	<programme channel="5656" start="20241025120000 +0000" stop="20241025123000 +0000">
 		<title>Yeh Rishta Kya Kehlata Hai Episode 4593</title>
-		<desc>Dr. Abhimanyu's love for Akshara faces a twist with Arohi.</desc>
+		<desc>Fearing health complications, Armaan gets furious at Abhira for hiding her pregnancy. Despite her assurance, Armaan wants her to get an abortion.</desc>
 	</programme>
 	<programme channel="5656" start="20241025123000 +0000" stop="20241025130000 +0000">
 		<title>Anupamaa Episode 1447</title>
-		<desc>Anupamaa seeks self-worth, reclaiming her life after unnoticed sacrifices.</desc>
+		<desc>Anupama agrees to give the money to save the orphanage. Before leaving with Anupama, Rahi is heartbroken and tearfully bids goodbye to the children.</desc>
 	</programme>
 	<programme channel="5656" start="20241025130000 +0000" stop="20241025133000 +0000">
 		<title>Iss Ishq Ka... Rabb Rakha Episode 38</title>
-		<desc>Ranbir and Meghla navigate their love through cultural clashes and family tensions. Will their romance withstand the challenges, or is it doomed from the start?</desc>
+		<desc>Guruji introduces Ranbir and is shocked to learn about his relationship with Diljot, stirring old memories. Meghla ponders Adrija's troubling behaviour.</desc>
 	</programme>
 	<programme channel="5656" start="20241025133000 +0000" stop="20241025140000 +0000">
 		<title>Dil Ko Tumse Pyaar Hua Episode 102</title>
@@ -32240,7 +32248,7 @@ This series centres around six leading characters in a polyamorous relationship,
 		<desc>After waking up from a coma, a man faces many difficulties adjusting to the current era.</desc>
 	</programme>
 	<programme channel="5668" start="20241023205900 +0000" stop="20241023210900 +0000">
-		<title>the MAKING- TIGER ZINDA HAI</title>
+		<title>THE MAKING- TIGER ZINDA HAI</title>
 		<desc>Salman Khan returns as Tiger in this action packed drama, who joins forces again with secret agent Zoya (Katrina Kaif) to help on a rescue mission in Iraq. Featuring hit song Swag se Swagat. (2017)</desc>
 	</programme>
 	<programme channel="5668" start="20241023210900 +0000" stop="20241024000000 +0000">
@@ -35608,28 +35616,28 @@ This series centres around six leading characters in a polyamorous relationship,
 		<desc>Movie</desc>
 	</programme>
 	<programme channel="5693" start="20241023144500 +0000" stop="20241023164500 +0000">
-		<title>IT'S SHOWTIME</title>
-		<desc>IT'S SHOWTIME</desc>
+		<title>It's Showtime</title>
+		<desc>It's Showtime</desc>
 	</programme>
 	<programme channel="5693" start="20241023164500 +0000" stop="20241023173000 +0000">
-		<title>KAPAMILYA DEAL OR NO DEAL</title>
-		<desc>KAPAMILYA DEAL OR NO DEAL</desc>
+		<title>Kapamilya Deal Or No Deal</title>
+		<desc>Kapamilya Deal Or No Deal</desc>
 	</programme>
 	<programme channel="5693" start="20241023173000 +0000" stop="20241023180000 +0000">
-		<title>PLAYHOUSE</title>
-		<desc>PLAYHOUSE</desc>
+		<title>Playhouse</title>
+		<desc>Playhouse</desc>
 	</programme>
 	<programme channel="5693" start="20241023180000 +0000" stop="20241023200000 +0000">
 		<title>BIRADOR</title>
 		<desc>BIRADOR</desc>
 	</programme>
 	<programme channel="5693" start="20241023200000 +0000" stop="20241023213000 +0000">
-		<title>TV PATROL GLOBAL EDITION</title>
-		<desc>TV PATROL GLOBAL EDITION</desc>
+		<title>TV Patrol Global Edition</title>
+		<desc>TV Patrol Global Edition</desc>
 	</programme>
 	<programme channel="5693" start="20241023213000 +0000" stop="20241023220000 +0000">
-		<title>KAPAMILYA DAILY MASS</title>
-		<desc>KAPAMILYA DAILY MASS</desc>
+		<title>Kapamilya Daily Mass</title>
+		<desc>Kapamilya Daily Mass</desc>
 	</programme>
 	<programme channel="5693" start="20241023220000 +0000" stop="20241023230000 +0000">
 		<title>GISING PILIPINAS</title>
@@ -35652,44 +35660,44 @@ This series centres around six leading characters in a polyamorous relationship,
 		<desc>MAGANDANG BUHAY</desc>
 	</programme>
 	<programme channel="5693" start="20241024020000 +0000" stop="20241024023000 +0000">
-		<title>PLAYHOUSE</title>
-		<desc>PLAYHOUSE</desc>
+		<title>Playhouse</title>
+		<desc>Playhouse</desc>
 	</programme>
 	<programme channel="5693" start="20241024023000 +0000" stop="20241024030000 +0000">
-		<title>HAWAK KAMAY</title>
-		<desc>HAWAK KAMAY</desc>
+		<title>Hawak Kamay</title>
+		<desc>Hawak Kamay</desc>
 	</programme>
 	<programme channel="5693" start="20241024030000 +0000" stop="20241024033000 +0000">
-		<title>OH MY G!</title>
-		<desc>OH MY G!</desc>
+		<title>Oh My G!</title>
+		<desc>Oh My G!</desc>
 	</programme>
 	<programme channel="5693" start="20241024033000 +0000" stop="20241024040000 +0000">
 		<title>BRGY</title>
 		<desc>BRGY</desc>
 	</programme>
 	<programme channel="5693" start="20241024040000 +0000" stop="20241024063000 +0000">
-		<title>IT'S SHOWTIME</title>
-		<desc>IT'S SHOWTIME</desc>
+		<title>It's Showtime</title>
+		<desc>It's Showtime</desc>
 	</programme>
 	<programme channel="5693" start="20241024063000 +0000" stop="20241024070000 +0000">
 		<title>TFC KIDS' ZONE</title>
 		<desc>TFC KIDS' ZONE</desc>
 	</programme>
 	<programme channel="5693" start="20241024070000 +0000" stop="20241024073000 +0000">
-		<title>LAVENDER FIELDS</title>
-		<desc>LAVENDER FIELDS</desc>
+		<title>Lavender Fields</title>
+		<desc>Lavender Fields</desc>
 	</programme>
 	<programme channel="5693" start="20241024073000 +0000" stop="20241024080000 +0000">
-		<title>FPJ'S BATANG QUIAPO</title>
-		<desc>FPJ'S BATANG QUIAPO</desc>
+		<title>FPJ's Batang Quiapo</title>
+		<desc>FPJ's Batang Quiapo</desc>
 	</programme>
 	<programme channel="5693" start="20241024080000 +0000" stop="20241024083000 +0000">
-		<title>PAMILYA SAGRADO</title>
-		<desc>PAMILYA SAGRADO</desc>
+		<title>Pamilya Sagrado</title>
+		<desc>Pamilya Sagrado</desc>
 	</programme>
 	<programme channel="5693" start="20241024083000 +0000" stop="20241024090000 +0000">
-		<title>HAWAK KAMAY</title>
-		<desc>HAWAK KAMAY</desc>
+		<title>Hawak Kamay</title>
+		<desc>Hawak Kamay</desc>
 	</programme>
 	<programme channel="5693" start="20241024090000 +0000" stop="20241024093000 +0000">
 		<title>BRGY S3</title>
@@ -35700,56 +35708,56 @@ This series centres around six leading characters in a polyamorous relationship,
 		<desc>TV PATROL EXPRESS</desc>
 	</programme>
 	<programme channel="5693" start="20241024094500 +0000" stop="20241024103000 +0000">
-		<title>KAPAMILYA DEAL OR NO DEAL</title>
-		<desc>KAPAMILYA DEAL OR NO DEAL</desc>
+		<title>Kapamilya Deal Or No Deal</title>
+		<desc>Kapamilya Deal Or No Deal</desc>
 	</programme>
 	<programme channel="5693" start="20241024103000 +0000" stop="20241024120000 +0000">
 		<title>TV PATROL</title>
 		<desc>TV PATROL</desc>
 	</programme>
 	<programme channel="5693" start="20241024120000 +0000" stop="20241024124500 +0000">
-		<title>FPJ'S BATANG QUIAPO</title>
-		<desc>FPJ'S BATANG QUIAPO</desc>
+		<title>FPJ's Batang Quiapo</title>
+		<desc>FPJ's Batang Quiapo</desc>
 	</programme>
 	<programme channel="5693" start="20241024124500 +0000" stop="20241024133000 +0000">
-		<title>LAVENDER FIELDS</title>
-		<desc>LAVENDER FIELDS</desc>
+		<title>Lavender Fields</title>
+		<desc>Lavender Fields</desc>
 	</programme>
 	<programme channel="5693" start="20241024133000 +0000" stop="20241024141500 +0000">
-		<title>PAMILYA SAGRADO</title>
-		<desc>PAMILYA SAGRADO</desc>
+		<title>Pamilya Sagrado</title>
+		<desc>Pamilya Sagrado</desc>
 	</programme>
 	<programme channel="5693" start="20241024141500 +0000" stop="20241024144500 +0000">
 		<title>PBB GEN 11</title>
 		<desc>PBB GEN 11</desc>
 	</programme>
 	<programme channel="5693" start="20241024144500 +0000" stop="20241024144500 +0000">
-		<title>IT'S SHOWTIME</title>
-		<desc>IT'S SHOWTIME</desc>
+		<title>It's Showtime</title>
+		<desc>It's Showtime</desc>
 	</programme>
 	<programme channel="5693" start="20241024144500 +0000" stop="20241024164500 +0000">
-		<title>IT'S SHOWTIME</title>
-		<desc>IT'S SHOWTIME</desc>
+		<title>It's Showtime</title>
+		<desc>It's Showtime</desc>
 	</programme>
 	<programme channel="5693" start="20241024164500 +0000" stop="20241024173000 +0000">
-		<title>KAPAMILYA DEAL OR NO DEAL</title>
-		<desc>KAPAMILYA DEAL OR NO DEAL</desc>
+		<title>Kapamilya Deal Or No Deal</title>
+		<desc>Kapamilya Deal Or No Deal</desc>
 	</programme>
 	<programme channel="5693" start="20241024173000 +0000" stop="20241024180000 +0000">
-		<title>PLAYHOUSE</title>
-		<desc>PLAYHOUSE</desc>
+		<title>Playhouse</title>
+		<desc>Playhouse</desc>
 	</programme>
 	<programme channel="5693" start="20241024180000 +0000" stop="20241024200000 +0000">
 		<title>MAGANDANG HATING GABI</title>
 		<desc>MAGANDANG HATING GABI</desc>
 	</programme>
 	<programme channel="5693" start="20241024200000 +0000" stop="20241024213000 +0000">
-		<title>TV PATROL GLOBAL EDITION</title>
-		<desc>TV PATROL GLOBAL EDITION</desc>
+		<title>TV Patrol Global Edition</title>
+		<desc>TV Patrol Global Edition</desc>
 	</programme>
 	<programme channel="5693" start="20241024213000 +0000" stop="20241024220000 +0000">
-		<title>KAPAMILYA DAILY MASS</title>
-		<desc>KAPAMILYA DAILY MASS</desc>
+		<title>Kapamilya Daily Mass</title>
+		<desc>Kapamilya Daily Mass</desc>
 	</programme>
 	<programme channel="5693" start="20241024220000 +0000" stop="20241024230000 +0000">
 		<title>GISING PILIPINAS</title>
@@ -35772,44 +35780,44 @@ This series centres around six leading characters in a polyamorous relationship,
 		<desc>MAGANDANG BUHAY</desc>
 	</programme>
 	<programme channel="5693" start="20241025020000 +0000" stop="20241025023000 +0000">
-		<title>PLAYHOUSE</title>
-		<desc>PLAYHOUSE</desc>
+		<title>Playhouse</title>
+		<desc>Playhouse</desc>
 	</programme>
 	<programme channel="5693" start="20241025023000 +0000" stop="20241025030000 +0000">
-		<title>HAWAK KAMAY</title>
-		<desc>HAWAK KAMAY</desc>
+		<title>Hawak Kamay</title>
+		<desc>Hawak Kamay</desc>
 	</programme>
 	<programme channel="5693" start="20241025030000 +0000" stop="20241025033000 +0000">
-		<title>OH MY G!</title>
-		<desc>OH MY G!</desc>
+		<title>Oh My G!</title>
+		<desc>Oh My G!</desc>
 	</programme>
 	<programme channel="5693" start="20241025033000 +0000" stop="20241025040000 +0000">
 		<title>BRGY</title>
 		<desc>BRGY</desc>
 	</programme>
 	<programme channel="5693" start="20241025040000 +0000" stop="20241025063000 +0000">
-		<title>IT'S SHOWTIME</title>
-		<desc>IT'S SHOWTIME</desc>
+		<title>It's Showtime</title>
+		<desc>It's Showtime</desc>
 	</programme>
 	<programme channel="5693" start="20241025063000 +0000" stop="20241025070000 +0000">
 		<title>TFC KIDS' ZONE</title>
 		<desc>TFC KIDS' ZONE</desc>
 	</programme>
 	<programme channel="5693" start="20241025070000 +0000" stop="20241025073000 +0000">
-		<title>LAVENDER FIELDS</title>
-		<desc>LAVENDER FIELDS</desc>
+		<title>Lavender Fields</title>
+		<desc>Lavender Fields</desc>
 	</programme>
 	<programme channel="5693" start="20241025073000 +0000" stop="20241025080000 +0000">
-		<title>FPJ'S BATANG QUIAPO</title>
-		<desc>FPJ'S BATANG QUIAPO</desc>
+		<title>FPJ's Batang Quiapo</title>
+		<desc>FPJ's Batang Quiapo</desc>
 	</programme>
 	<programme channel="5693" start="20241025080000 +0000" stop="20241025083000 +0000">
-		<title>PAMILYA SAGRADO</title>
-		<desc>PAMILYA SAGRADO</desc>
+		<title>Pamilya Sagrado</title>
+		<desc>Pamilya Sagrado</desc>
 	</programme>
 	<programme channel="5693" start="20241025083000 +0000" stop="20241025090000 +0000">
-		<title>HAWAK KAMAY</title>
-		<desc>HAWAK KAMAY</desc>
+		<title>Hawak Kamay</title>
+		<desc>Hawak Kamay</desc>
 	</programme>
 	<programme channel="5693" start="20241025090000 +0000" stop="20241025093000 +0000">
 		<title>BRGY S3</title>
@@ -35820,24 +35828,24 @@ This series centres around six leading characters in a polyamorous relationship,
 		<desc>TV PATROL EXPRESS</desc>
 	</programme>
 	<programme channel="5693" start="20241025094500 +0000" stop="20241025103000 +0000">
-		<title>KAPAMILYA DEAL OR NO DEAL</title>
-		<desc>KAPAMILYA DEAL OR NO DEAL</desc>
+		<title>Kapamilya Deal Or No Deal</title>
+		<desc>Kapamilya Deal Or No Deal</desc>
 	</programme>
 	<programme channel="5693" start="20241025103000 +0000" stop="20241025120000 +0000">
 		<title>TV PATROL</title>
 		<desc>TV PATROL</desc>
 	</programme>
 	<programme channel="5693" start="20241025120000 +0000" stop="20241025124500 +0000">
-		<title>FPJ'S BATANG QUIAPO</title>
-		<desc>FPJ'S BATANG QUIAPO</desc>
+		<title>FPJ's Batang Quiapo</title>
+		<desc>FPJ's Batang Quiapo</desc>
 	</programme>
 	<programme channel="5693" start="20241025124500 +0000" stop="20241025133000 +0000">
-		<title>LAVENDER FIELDS</title>
-		<desc>LAVENDER FIELDS</desc>
+		<title>Lavender Fields</title>
+		<desc>Lavender Fields</desc>
 	</programme>
 	<programme channel="5693" start="20241025133000 +0000" stop="20241025141500 +0000">
-		<title>PAMILYA SAGRADO</title>
-		<desc>PAMILYA SAGRADO</desc>
+		<title>Pamilya Sagrado</title>
+		<desc>Pamilya Sagrado</desc>
 	</programme>
 	<programme channel="5693" start="20241025141500 +0000" stop="20241025144500 +0000">
 		<title>PBB GEN 11</title>
