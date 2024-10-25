@@ -1754,7 +1754,7 @@
 	</programme>
 	<programme channel="5006" start="20241026143000 +0000" stop="20241026150000 +0000">
 		<title>On The Red Dot Episode 22</title>
-		<desc>On The Red Dot offers weekly in-depth analysis and discussion on key issues and events that matter to Singaporeans.</desc>
+		<desc>Rozz joins renowned conductor Wong Kah Chun as he leads over 80 musicians in the season-opening concert with one of Japan's top orchestras</desc>
 	</programme>
 	<programme channel="5006" start="20241026150000 +0000" stop="20241026150300 +0000">
 		<title>Headline News Episode 982</title>
@@ -9014,7 +9014,7 @@ All his life, Duan Yu Cheng has had only one dream and that is to become a world
 	</programme>
 	<programme channel="6166" start="20241024213000 +0000" stop="20241024220000 +0000">
 		<title>HARDtalk (r)</title>
-		<desc>In-depth interviews with the world's leading politicians, opinion-formers and key figures from culture, business and sport.</desc>
+		<desc>Stephen Sackur is in Washington DC to speak to Donald Trump's former national security adviser John Bolton. With the election looming, Bolton calls his former boss a danger to America.</desc>
 	</programme>
 	<programme channel="6166" start="20241024220000 +0000" stop="20241024223000 +0000">
 		<title>BBC World News America</title>
@@ -9029,8 +9029,8 @@ All his life, Duan Yu Cheng has had only one dream and that is to become a world
 		<desc>The latest news from the BBC.</desc>
 	</programme>
 	<programme channel="6166" start="20241024233000 +0000" stop="20241025000000 +0000">
-		<title>HARDtalk (r)</title>
-		<desc>In-depth interviews with the world's leading politicians, opinion-formers and key figures from culture, business and sport.</desc>
+		<title>HARDtalk</title>
+		<desc>Mishal Husain speaks to Steven McRae, a principal dancer with The Royal Ballet in London. How does he want his profession to change to look after a younger generation?</desc>
 	</programme>
 	<programme channel="6166" start="20241025000000 +0000" stop="20241025003000 +0000">
 		<title>BBC News</title>
@@ -9110,7 +9110,7 @@ All his life, Duan Yu Cheng has had only one dream and that is to become a world
 	</programme>
 	<programme channel="6166" start="20241025073000 +0000" stop="20241025080000 +0000">
 		<title>The Travel Show (r)</title>
-		<desc>Join the team on their journey of discovery as they explore the globe and uncover hidden sides to some of the world's favourite destinations.</desc>
+		<desc>Lucy Hedges sets off on an adventure to the vast, untouched plains of Mongolia, to experience life as a traditional nomad. She tries her hand at bartering and throat singing - with mixed results!</desc>
 	</programme>
 	<programme channel="6166" start="20241025080000 +0000" stop="20241025083000 +0000">
 		<title>BBC News</title>
@@ -9126,7 +9126,7 @@ All his life, Duan Yu Cheng has had only one dream and that is to become a world
 	</programme>
 	<programme channel="6166" start="20241025093000 +0000" stop="20241025100000 +0000">
 		<title>HARDtalk (r)</title>
-		<desc>In-depth interviews with the world's leading politicians, opinion-formers and key figures from culture, business and sport.</desc>
+		<desc>Mishal Husain speaks to Steven McRae, a principal dancer with The Royal Ballet in London. How does he want his profession to change to look after a younger generation?</desc>
 	</programme>
 	<programme channel="6166" start="20241025100000 +0000" stop="20241025103000 +0000">
 		<title>BBC News</title>
@@ -9230,7 +9230,7 @@ All his life, Duan Yu Cheng has had only one dream and that is to become a world
 	</programme>
 	<programme channel="6166" start="20241025213000 +0000" stop="20241025220000 +0000">
 		<title>HARDtalk (r)</title>
-		<desc>In-depth interviews with the world's leading politicians, opinion-formers and key figures from culture, business and sport.</desc>
+		<desc>Mishal Husain speaks to Steven McRae, a principal dancer with The Royal Ballet in London. How does he want his profession to change to look after a younger generation?</desc>
 	</programme>
 	<programme channel="6166" start="20241025220000 +0000" stop="20241025223000 +0000">
 		<title>BBC World News America</title>
@@ -9254,7 +9254,7 @@ All his life, Duan Yu Cheng has had only one dream and that is to become a world
 	</programme>
 	<programme channel="6166" start="20241026003000 +0000" stop="20241026010000 +0000">
 		<title>Click</title>
-		<desc>Click explores the latest innovations and technologies shaping our lives.</desc>
+		<desc>Revisit some of the team's favourite sustainability tech stories. Alasdair Keane heads to Sweden to see how one of the world's biggest truck manufacturers is making the switch to electric.</desc>
 	</programme>
 	<programme channel="6166" start="20241026010000 +0000" stop="20241026013000 +0000">
 		<title>BBC News</title>
@@ -9269,8 +9269,8 @@ All his life, Duan Yu Cheng has had only one dream and that is to become a world
 		<desc>The latest news from the BBC.</desc>
 	</programme>
 	<programme channel="6166" start="20241026023000 +0000" stop="20241026030000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+		<title>Dark Waters: Africa's Deadliest Migration Route</title>
+		<desc>BBC Africa Eye investigates what is fast becoming the world's deadliest migration route: the perilous Atlantic crossing from West Africa to Spain's Canary Islands.</desc>
 	</programme>
 	<programme channel="6166" start="20241026030000 +0000" stop="20241026033000 +0000">
 		<title>BBC News</title>
@@ -9278,7 +9278,7 @@ All his life, Duan Yu Cheng has had only one dream and that is to become a world
 	</programme>
 	<programme channel="6166" start="20241026033000 +0000" stop="20241026040000 +0000">
 		<title>The Media Show</title>
-		<desc>A global, topical weekly show that lifts the hood on the entertainment and news business. The Media Show explores the companies and personalities who command our attention.</desc>
+		<desc>How Andy Cohen turned the Real Housewives franchise into a phenomenon. And after Yulia Navalnaya's BBC interview, assessing Putin's crackdown on media which her husband used to promote his message.</desc>
 	</programme>
 	<programme channel="6166" start="20241026040000 +0000" stop="20241026043000 +0000">
 		<title>BBC News</title>
@@ -9286,7 +9286,7 @@ All his life, Duan Yu Cheng has had only one dream and that is to become a world
 	</programme>
 	<programme channel="6166" start="20241026043000 +0000" stop="20241026050000 +0000">
 		<title>The Travel Show</title>
-		<desc>Join the team on their journey of discovery as they explore the globe and uncover hidden sides to some of the world's favourite destinations.</desc>
+		<desc>Lucy Hedges gets the full measure of the life of a traditional nomad, from setting up camp to herding animals, and experiences both the hardships and beauty of on the Mongolian steppe.</desc>
 	</programme>
 	<programme channel="6166" start="20241026050000 +0000" stop="20241026053000 +0000">
 		<title>BBC News</title>
@@ -9294,7 +9294,7 @@ All his life, Duan Yu Cheng has had only one dream and that is to become a world
 	</programme>
 	<programme channel="6166" start="20241026053000 +0000" stop="20241026060000 +0000">
 		<title>Unspun World with John Simpson</title>
-		<desc>Unspun World provides an unvarnished version of the week's major global news stories - reliable, honest and essential viewing with the BBC's world affairs editor John Simpson.</desc>
+		<desc>John Simpson, in discussion with the BBC's unparalleled range of experts across the world, analyses the attitudes of other countries in the Middle East towards Israel's wars in Gaza and Lebanon.</desc>
 	</programme>
 	<programme channel="6166" start="20241026060000 +0000" stop="20241026063000 +0000">
 		<title>BBC News</title>
@@ -9302,7 +9302,7 @@ All his life, Duan Yu Cheng has had only one dream and that is to become a world
 	</programme>
 	<programme channel="6166" start="20241026063000 +0000" stop="20241026070000 +0000">
 		<title>Click (r)</title>
-		<desc>Click explores the latest innovations and technologies shaping our lives.</desc>
+		<desc>Revisit some of the team's favourite sustainability tech stories. Alasdair Keane heads to Sweden to see how one of the world's biggest truck manufacturers is making the switch to electric.</desc>
 	</programme>
 	<programme channel="6166" start="20241026070000 +0000" stop="20241026073000 +0000">
 		<title>BBC News</title>
@@ -9321,8 +9321,8 @@ All his life, Duan Yu Cheng has had only one dream and that is to become a world
 		<desc>The latest news from the BBC.</desc>
 	</programme>
 	<programme channel="6166" start="20241026093000 +0000" stop="20241026100000 +0000">
-		<title>TBA (r)</title>
-		<desc>TBA (r)</desc>
+		<title>The Interview</title>
+		<desc>Alexei Navalny was Putin's most vocal critic. As his memoir, Patriot, is published - including never-before-seen diaries - in her first UK broadcast interview, his wife Yulia tells their story.</desc>
 	</programme>
 	<programme channel="6166" start="20241026100000 +0000" stop="20241026103000 +0000">
 		<title>BBC News</title>
@@ -9337,8 +9337,8 @@ All his life, Duan Yu Cheng has had only one dream and that is to become a world
 		<desc>The latest news from the BBC.</desc>
 	</programme>
 	<programme channel="6166" start="20241026113000 +0000" stop="20241026120000 +0000">
-		<title>Unspun World with John Simpson (r)</title>
-		<desc>Unspun World provides an unvarnished version of the week's major global news stories - reliable, honest and essential viewing with the BBC's world affairs editor John Simpson.</desc>
+		<title>The Global Story</title>
+		<desc>What could victory for either Kamala Harris or Donald Trump mean for the trajectory of the war?</desc>
 	</programme>
 	<programme channel="6166" start="20241026120000 +0000" stop="20241026123000 +0000">
 		<title>BBC News</title>
@@ -9346,7 +9346,7 @@ All his life, Duan Yu Cheng has had only one dream and that is to become a world
 	</programme>
 	<programme channel="6166" start="20241026123000 +0000" stop="20241026130000 +0000">
 		<title>Talking Movies</title>
-		<desc>Talking Movies reports from the New York Film Festival. Among the highlights this year are Sir Steve McQueen's long awaited London-based World War 2 epic Blitz and Mike Leigh's Hard Truths.</desc>
+		<desc>Talking Movies reports from the New York Film Festival - one of the most prestigious film events in North America. Highlights include Pedro Almodovar's The Room Next Door and Mike Leigh's Hard Truths.</desc>
 	</programme>
 	<programme channel="6166" start="20241026130000 +0000" stop="20241026133000 +0000">
 		<title>BBC News</title>
@@ -9362,7 +9362,7 @@ All his life, Duan Yu Cheng has had only one dream and that is to become a world
 	</programme>
 	<programme channel="6166" start="20241026143000 +0000" stop="20241026150000 +0000">
 		<title>The Media Show (r)</title>
-		<desc>A global, topical weekly show that lifts the hood on the entertainment and news business. The Media Show explores the companies and personalities who command our attention.</desc>
+		<desc>How Andy Cohen turned the Real Housewives franchise into a phenomenon. And after Yulia Navalnaya's BBC interview, assessing Putin's crackdown on media which her husband used to promote his message.</desc>
 	</programme>
 	<programme channel="6166" start="20241026150000 +0000" stop="20241026153000 +0000">
 		<title>BBC News</title>
@@ -25719,8 +25719,8 @@ Christy、Jessica穿上型格「牛仔」便服，尋找隱世名店盡情打卡
 		<desc>Farhan dan Caca, merupakan pasangan suami yang telah menabung selama 2 tahun untuk mendapatkan dapur impian mereka.</desc>
 	</programme>
 	<programme channel="5602" start="20241025140000 +0000" stop="20241025160000 +0000">
-		<title>Obses</title>
-		<desc>Seorang gadis menjadi obsesi beberapa lelaki berlatar belakang misteri. Salah seorang daripada mereka mungkin terlalu taksub dengannya sehingga sanggup membunuh orang lain hanya untuk mendapatkannya.</desc>
+		<title>Tunggu Aku Balik</title>
+		<desc>Mirna seorang wanita yang obses dan cemburu bertindak mengurung suaminya di dalam rumah ketika dia perlu berkerja di luar kawasan selama dua minggu kerana risau dia akan berlaku curang.</desc>
 	</programme>
 	<programme channel="5602" start="20241025160000 +0000" stop="20241025170000 +0000">
 		<title>TIARA: Ternyata Sebuah Bahagia Episode 25</title>
@@ -26306,9 +26306,13 @@ Christy、Jessica穿上型格「牛仔」便服，尋找隱世名店盡情打卡
 		<title>Unplugged S3 Episode 15</title>
 		<desc>Unplugged bakal menyaksikan persembahan santai dari artis-artis popular tanah air.</desc>
 	</programme>
-	<programme channel="5608" start="20241025171000 +0000" stop="20241025190000 +0000">
-		<title>Smaller And Smaller Circles</title>
-		<desc>Dua orang telah direkrut untuk membantu siasatan kes penemuan jasad di tempat pelupusan sampah.Ternyata pembunuh bersiri itu sedang memburu kanak-kanak yang bekerja mengutip sampah untuk kehidupan.</desc>
+	<programme channel="5608" start="20241025171000 +0000" stop="20241025184500 +0000">
+		<title>Amityville The Awakening</title>
+		<desc>Seorang ibu tunggal berpindah bersama tiga anaknya ke rumah Amityville yang kononnya berhantu untuk mencuba menggunakan kekuatan kuasa gelap untuk menyembuhkan anaknya yang koma.</desc>
+	</programme>
+	<programme channel="5608" start="20241025184500 +0000" stop="20241025190000 +0000">
+		<title>Road Thrift Episode 4</title>
+		<desc>Kali ni Pink dan Syafa ke Johor Bahru pula untuk selam bundle!</desc>
 	</programme>
 	<programme channel="5608" start="20241025190000 +0000" stop="20241025200000 +0000">
 		<title>Makhluk Manis Dalam Bis Episode 3</title>
@@ -29899,8 +29903,8 @@ Christy、Jessica穿上型格「牛仔」便服，尋找隱世名店盡情打卡
 		<desc>To empower her marginalised Chitta community, Jagriti challenges the age-old traditions and locks horns with its leader who works for the mafia.</desc>
 	</programme>
 	<programme channel="5646" start="20241024170000 +0000" stop="20241024173000 +0000">
-		<title>VASUDHA Episode 28</title>
-		<desc>A happy-go-lucky Vasudha comes as a maid to business leader Chandrika's house and craves her approval despite their ideological differences. Will she find acceptance in Chandrika's world?</desc>
+		<title>BHABHIJI GHAR PE HAI Episode 2442</title>
+		<desc>COMEDY: Two couples, the Mishras and the Tiwaris, live next door to each other. Each husband is infatuated with the other man's wife!</desc>
 	</programme>
 	<programme channel="5646" start="20241024173000 +0000" stop="20241024181500 +0000">
 		<title>KUMKUM BHAGYA Episode 2889</title>
@@ -30159,7 +30163,7 @@ Christy、Jessica穿上型格「牛仔」便服，尋找隱世名店盡情打卡
 		<desc>To empower her marginalised Chitta community, Jagriti challenges the age-old traditions and locks horns with its leader who works for the mafia.</desc>
 	</programme>
 	<programme channel="5646" start="20241026120000 +0000" stop="20241026123000 +0000">
-		<title>SRGMP 2024 SPOTLIGHT Episode 3</title>
+		<title>SRGMP 2024 SPOTLIGHT</title>
 		<desc>Hilarity ensues as the judges and contestants fall prey to a few prank calls on the sets. Watch all the behind-the-scenes fun and amusing banter in Sa Re Ga Ma Pa Spotlight.</desc>
 	</programme>
 	<programme channel="5646" start="20241026123000 +0000" stop="20241026130000 +0000">
