@@ -4767,7 +4767,7 @@ Streetside Feast is a mouth-watering food documentary, presenting viewers with h
 		<desc>LIVE Premiership Rugby LIVE Bristol v Northampton</desc>
 	</programme>
 	<programme channel="5118" start="20241025204500 +0000" stop="20241025211500 +0000">
-		<title>5 & 6 Nations Classics 2013 / Wales v England</title>
+		<title>5 & 6 Nations Classics 2013 - Wales v England</title>
 		<desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
 	</programme>
 	<programme channel="5118" start="20241025211500 +0000" stop="20241025231000 +0000">
@@ -4776,14 +4776,14 @@ Streetside Feast is a mouth-watering food documentary, presenting viewers with h
 	</programme>
 	<programme channel="5118" start="20241025231000 +0000" stop="20241026010000 +0000">
 		<title>URC Benetton v Bulls</title>
-		<desc>Exclusive coverage of the United Rugby Championship.</desc>
+		<desc>Benetton and the Vodacom Bulls face off in this URC matchup from the Stadio Comunale di Monigo.</desc>
 	</programme>
 	<programme channel="5118" start="20241026010000 +0000" stop="20241026025000 +0000">
 		<title>URC Scarlets v Zebre</title>
-		<desc>Exclusive coverage of the United Rugby Championship.</desc>
+		<desc>Scarlets welcome Zebre Parma to Parc y Scarlets for this URC meeting.</desc>
 	</programme>
 	<programme channel="5118" start="20241026025000 +0000" stop="20241026032000 +0000">
-		<title>5 & 6 Nations Classics 2004 / Ireland v Scotland</title>
+		<title>5 & 6 Nations Classics 2004 - Ireland v Scotland</title>
 		<desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
 	</programme>
 	<programme channel="5118" start="20241026032000 +0000" stop="20241026051000 +0000">
@@ -4791,28 +4791,24 @@ Streetside Feast is a mouth-watering food documentary, presenting viewers with h
 		<desc>Premiership Rugby Bristol v Northampton</desc>
 	</programme>
 	<programme channel="5118" start="20241026051000 +0000" stop="20241026054000 +0000">
-		<title>5 & 6 Nations Classics 2004 / Ireland v Scotland</title>
+		<title>5 & 6 Nations Classics 2004 - Ireland v Scotland</title>
 		<desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
 	</programme>
 	<programme channel="5118" start="20241026054000 +0000" stop="20241026075000 +0000">
 		<title>LIVE International Rugby LIVE Japan v New Zealand</title>
 		<desc>The Brave Blossoms face the All Blacks in the eighth test match played between the two teams since their first encounter in Osaka, back in 1987.</desc>
 	</programme>
-	<programme channel="5118" start="20241026075000 +0000" stop="20241026080000 +0000">
-		<title>Premier Sports Extra Premier Sports Extra</title>
-		<desc>A look back at some of the big games on Premier Sports.</desc>
-	</programme>
-	<programme channel="5118" start="20241026080000 +0000" stop="20241026095000 +0000">
+	<programme channel="5118" start="20241026075000 +0000" stop="20241026094000 +0000">
 		<title>URC Scarlets v Zebre</title>
-		<desc>Exclusive coverage of the United Rugby Championship.</desc>
+		<desc>Scarlets welcome Zebre Parma to Parc y Scarlets for this URC meeting.</desc>
 	</programme>
-	<programme channel="5118" start="20241026095000 +0000" stop="20241026114000 +0000">
+	<programme channel="5118" start="20241026094000 +0000" stop="20241026113000 +0000">
 		<title>Premiership Rugby Bristol v Northampton</title>
 		<desc>Premiership Rugby Bristol v Northampton</desc>
 	</programme>
-	<programme channel="5118" start="20241026114000 +0000" stop="20241026134500 +0000">
+	<programme channel="5118" start="20241026113000 +0000" stop="20241026134500 +0000">
 		<title>LIVE URC LIVE Stormers v Glasgow Warriors</title>
-		<desc>Exclusive coverage of the United Rugby Championship.</desc>
+		<desc>The Glasgow Warriors are in South Africa again for this URC clash against the DHL Stormers at the Danie Craven Stadium.</desc>
 	</programme>
 	<programme channel="5118" start="20241026134500 +0000" stop="20241026140000 +0000">
 		<title>Premier Sports Extra Premier Sports Extra</title>
@@ -4823,74 +4819,74 @@ Streetside Feast is a mouth-watering food documentary, presenting viewers with h
 		<desc>LIVE Premiership Rugby LIVE Bath v Sale</desc>
 	</programme>
 	<programme channel="5118" start="20241026160000 +0000" stop="20241026162500 +0000">
-		<title>5 & 6 Nations Classics 2008 / Italy v Scotland</title>
+		<title>5 & 6 Nations Classics 2008 - Italy v Scotland</title>
 		<desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
 	</programme>
 	<programme channel="5118" start="20241026162500 +0000" stop="20241026183000 +0000">
 		<title>LIVE Premiership Rugby LIVE Saracens v Leicester</title>
 		<desc>LIVE Premiership Rugby LIVE Saracens v Leicester</desc>
 	</programme>
-	<programme channel="5118" start="20241026183000 +0000" stop="20241026203000 +0000">
+	<programme channel="5118" start="20241026183000 +0000" stop="20241026205000 +0000">
 		<title>LIVE URC LIVE Cardiff v Ulster</title>
-		<desc>Exclusive coverage of the United Rugby Championship.</desc>
+		<desc>Cardiff Arms Park is the stadium for this URC encounter between Cardiff and Ulster.</desc>
 	</programme>
-	<programme channel="5118" start="20241026203000 +0000" stop="20241026210000 +0000">
-		<title>5 & 6 Nations Classics 2009 / Italy v Ireland</title>
-		<desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
-	</programme>
-	<programme channel="5118" start="20241026210000 +0000" stop="20241026225000 +0000">
-		<title>URC Ospreys v Edinburgh</title>
-		<desc>Exclusive coverage of the United Rugby Championship.</desc>
-	</programme>
-	<programme channel="5118" start="20241026225000 +0000" stop="20241027004000 +0000">
-		<title>URC Sharks v Munster</title>
-		<desc>Exclusive coverage of the United Rugby Championship.</desc>
-	</programme>
-	<programme channel="5118" start="20241027004000 +0000" stop="20241027011000 +0000">
-		<title>5 & 6 Nations Classics 2014 / Wales v Scotland</title>
-		<desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
-	</programme>
-	<programme channel="5118" start="20241027011000 +0000" stop="20241027020000 +0000">
-		<title>URC Leinster v Lions</title>
-		<desc>Exclusive coverage of the United Rugby Championship.</desc>
-	</programme>
-	<programme channel="5118" start="20241027020000 +0000" stop="20241027030000 +0000">
-		<title>5 & 6 Nations Legends</title>
-		<desc>We look back at the most memorable moments, legends and tries from Europe's most prestigious international rugby competition.</desc>
-	</programme>
-	<programme channel="5118" start="20241027030000 +0000" stop="20241027045000 +0000">
-		<title>URC Connacht v Dragons</title>
-		<desc>Exclusive coverage of the United Rugby Championship.</desc>
-	</programme>
-	<programme channel="5118" start="20241027045000 +0000" stop="20241027052000 +0000">
-		<title>5 & 6 Nations Classics 2000 / Ireland v Scotland</title>
-		<desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
-	</programme>
-	<programme channel="5118" start="20241027052000 +0000" stop="20241027055000 +0000">
-		<title>5 & 6 Nations Classics 2003 / Wales v Ireland</title>
-		<desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
-	</programme>
-	<programme channel="5118" start="20241027055000 +0000" stop="20241027062000 +0000">
-		<title>5 & 6 Nations Classics 2003 / England v France</title>
-		<desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
-	</programme>
-	<programme channel="5118" start="20241027062000 +0000" stop="20241027064000 +0000">
+	<programme channel="5118" start="20241026205000 +0000" stop="20241026210000 +0000">
 		<title>Premier Sports Extra Premier Sports Extra</title>
 		<desc>A look back at some of the big games on Premier Sports.</desc>
 	</programme>
-	<programme channel="5118" start="20241027064000 +0000" stop="20241027083000 +0000">
+	<programme channel="5118" start="20241026210000 +0000" stop="20241026225000 +0000">
+		<title>URC Ospreys v Edinburgh</title>
+		<desc>The Ospreys and Edinburgh meet at Dunraven Brewery Field for this URC game.</desc>
+	</programme>
+	<programme channel="5118" start="20241026225000 +0000" stop="20241027004000 +0000">
+		<title>URC Sharks v Munster</title>
+		<desc>The Hollywoodbets Sharks and Munster do battle in this URC fixture from Kings Park Stadium in Durban.</desc>
+	</programme>
+	<programme channel="5118" start="20241027004000 +0000" stop="20241027021000 +0000">
+		<title>5 & 6 Nations Classics 2014 - Wales v Scotland</title>
+		<desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
+	</programme>
+	<programme channel="5118" start="20241027021000 +0000" stop="20241027030000 +0000">
+		<title>URC Leinster v Lions</title>
+		<desc>Unbeaten sides meet as Leinster and the Emirates Lions clash in an exciting URC fixture from the Aviva Stadium.</desc>
+	</programme>
+	<programme channel="5118" start="20241027030000 +0000" stop="20241027040000 +0000">
+		<title>5 & 6 Nations Legends</title>
+		<desc>We look back at the most memorable moments, legends and tries from Europe's most prestigious international rugby competition.</desc>
+	</programme>
+	<programme channel="5118" start="20241027040000 +0000" stop="20241027055000 +0000">
+		<title>URC Connacht v Dragons</title>
+		<desc>Connacht welcome Dragons to the Dexcom Stadium in this URC fixture.</desc>
+	</programme>
+	<programme channel="5118" start="20241027055000 +0000" stop="20241027062000 +0000">
+		<title>5 & 6 Nations Classics 2000 - Ireland v Scotland</title>
+		<desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
+	</programme>
+	<programme channel="5118" start="20241027062000 +0000" stop="20241027065000 +0000">
+		<title>5 & 6 Nations Classics 2003 - Wales v Ireland</title>
+		<desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
+	</programme>
+	<programme channel="5118" start="20241027065000 +0000" stop="20241027072000 +0000">
+		<title>5 & 6 Nations Classics 2003 - England v France</title>
+		<desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
+	</programme>
+	<programme channel="5118" start="20241027072000 +0000" stop="20241027074000 +0000">
+		<title>Premier Sports Extra Premier Sports Extra</title>
+		<desc>A look back at some of the big games on Premier Sports.</desc>
+	</programme>
+	<programme channel="5118" start="20241027074000 +0000" stop="20241027093000 +0000">
 		<title>URC Stormers v Glasgow Warriors</title>
-		<desc>Exclusive coverage of the United Rugby Championship.</desc>
+		<desc>The Glasgow Warriors are in South Africa again for this URC clash against the DHL Stormers at the Danie Craven Stadium.</desc>
 	</programme>
-	<programme channel="5118" start="20241027083000 +0000" stop="20241027102000 +0000">
+	<programme channel="5118" start="20241027093000 +0000" stop="20241027112000 +0000">
 		<title>URC Cardiff v Ulster</title>
-		<desc>Exclusive coverage of the United Rugby Championship.</desc>
+		<desc>Cardiff Arms Park is the stadium for this URC encounter between Cardiff and Ulster.</desc>
 	</programme>
-	<programme channel="5118" start="20241027102000 +0000" stop="20241027121000 +0000">
+	<programme channel="5118" start="20241027112000 +0000" stop="20241027131000 +0000">
 		<title>International Rugby Japan v New Zealand</title>
 		<desc>The Brave Blossoms face the All Blacks in the eighth test match played between the two teams since their first encounter in Osaka, back in 1987.</desc>
 	</programme>
-	<programme channel="5118" start="20241027121000 +0000" stop="20241027135500 +0000">
+	<programme channel="5118" start="20241027131000 +0000" stop="20241027145500 +0000">
 		<title>Premiership Rugby Saracens v Leicester</title>
 		<desc>Premiership Rugby Saracens v Leicester</desc>
 	</programme>
@@ -4971,7 +4967,7 @@ Streetside Feast is a mouth-watering food documentary, presenting viewers with h
 		<desc>Closed</desc>
 	</programme>
 	<programme channel="6126" start="20241025150000 +0000" stop="20241025163000 +0000">
-		<title>Premier Padel 2024: Newgiza P2 Day 5 SF 2 - Women (Live) Episode 637</title>
+		<title>Premier Padel 2024: Newgiza P2 Day 5 SF 1 - Men (Live) Episode 637</title>
 		<desc>Premier Padel 2024</desc>
 	</programme>
 	<programme channel="6126" start="20241025163000 +0000" stop="20241025172000 +0000">
@@ -6315,7 +6311,7 @@ Streetside Feast is a mouth-watering food documentary, presenting viewers with h
 		<desc>Introducing a colorful variety of feature stories, including reports on daily life from locations throughout Japan, as well as other parts of Asia and around the world.</desc>
 	</programme>
 	<programme channel="5157" start="20241025173000 +0000" stop="20241025174500 +0000">
-		<title>BENTO EXPO</title>
+		<title>BENTO EXPO Kyoto Special</title>
 		<desc>Today: part one of a special two-part series focusing on timeless Kyoto. Marc visits cooking expert Sugimoto Setsuko. Together, the pair make bentos featuring Kyoto specialty shiro miso.</desc>
 	</programme>
 	<programme channel="5157" start="20241025174500 +0000" stop="20241025180000 +0000">
@@ -6379,7 +6375,7 @@ Streetside Feast is a mouth-watering food documentary, presenting viewers with h
 		<desc>Reporting the latest business, finance and economic news, with added analysis from studio guests.</desc>
 	</programme>
 	<programme channel="5157" start="20241025223000 +0000" stop="20241025224500 +0000">
-		<title>BENTO EXPO</title>
+		<title>BENTO EXPO Kyoto Special</title>
 		<desc>Today: part one of a special two-part series focusing on timeless Kyoto. Marc visits cooking expert Sugimoto Setsuko. Together, the pair make bentos featuring Kyoto specialty shiro miso.</desc>
 	</programme>
 	<programme channel="5157" start="20241025224500 +0000" stop="20241025230000 +0000">
@@ -9204,7 +9200,7 @@ Streetside Feast is a mouth-watering food documentary, presenting viewers with h
 	</programme>
 	<programme channel="6166" start="20241026133000 +0000" stop="20241026140000 +0000">
 		<title>Americast</title>
-		<desc>The latest analysis on American politics.</desc>
+		<desc>We're in Georgia, where there are already legal challenges over votes.</desc>
 	</programme>
 	<programme channel="6166" start="20241026140000 +0000" stop="20241026143000 +0000">
 		<title>BBC News</title>
@@ -9300,7 +9296,7 @@ Streetside Feast is a mouth-watering food documentary, presenting viewers with h
 	</programme>
 	<programme channel="6166" start="20241027023000 +0000" stop="20241027030000 +0000">
 		<title>Americast (r)</title>
-		<desc>The latest analysis on American politics.</desc>
+		<desc>We're in Georgia, where there are already legal challenges over votes.</desc>
 	</programme>
 	<programme channel="6166" start="20241027030000 +0000" stop="20241027033000 +0000">
 		<title>BBC News</title>
@@ -9368,7 +9364,7 @@ Streetside Feast is a mouth-watering food documentary, presenting viewers with h
 	</programme>
 	<programme channel="6166" start="20241027113000 +0000" stop="20241027120000 +0000">
 		<title>Path to the Presidency (r)</title>
-		<desc>Join the BBC's US Election Night presenters - Caitríona Perry, Sumi Somaskanda, and Katty Kay - for a dynamic weekly discussion about the state of the race.</desc>
+		<desc>In this episode, the BBC's Sumi Somaskanda, Caitríona Perry and Katty Kay unpack whether one candidate in the US presidential election is in the lead - or if it's too close to tell.</desc>
 	</programme>
 	<programme channel="6166" start="20241027120000 +0000" stop="20241027123000 +0000">
 		<title>BBC News</title>
@@ -26739,8 +26735,8 @@ Christy、Jessica转赴「音乐之都」维也纳，探索其甜品的历史渊
 		<desc>Twins Kodi and Anbu have different views when it comes to politics, one is an aggressive campaigner, while the other is a pacifist. But a twist in their fates causes one to adopt the other's life.</desc>
 	</programme>
 	<programme channel="5622" start="20241027103000 +0000" stop="20241027133000 +0000">
-		<title>Movie -MUTHU</title>
-		<desc>A landlord and his loyal servant's equation turns sour as they fall in love with the same girl. Soon after the servant gets banished from the village, a mystery linked to his past comes pouring out.</desc>
+		<title>Movie -Jailer</title>
+		<desc>Muthuvel Pandian, a retired prison guard, sets out on a quest for revenge after his son goes missing while investigating a smuggling case.</desc>
 	</programme>
 	<programme channel="5622" start="20241027133000 +0000" stop="20241027140000 +0000">
 		<title>News</title>
@@ -27067,80 +27063,80 @@ Christy、Jessica转赴「音乐之都」维也纳，探索其甜品的历史渊
 		<desc>A heart surgeon is loved by everyone in his family. A woman and a kid with a heart problem arrive at his house, but when she learns the identity of the doctor, she refuses to let the child have an operation performed by him.</desc>
 	</programme>
 	<programme channel="5625" start="20241025183000 +0000" stop="20241025200000 +0000">
-		<title>Movie Contd</title>
-		<desc>Movie Contd</desc>
+		<title>Movie Contd - Pennin Manadhai Thottu</title>
+		<desc>A heart surgeon is loved by everyone in his family. A woman and a kid with a heart problem arrive at his house, but when she learns the identity of the doctor, she refuses to let the child have an operation performed by him.</desc>
 	</programme>
 	<programme channel="5625" start="20241025200000 +0000" stop="20241025223000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Maharani</title>
+		<desc>A young man marries a beautiful woman but never tells her about his former girlfriend. As the couple settles into matrimony, his ex-lover makes a shocking return and complicates their relationship.</desc>
 	</programme>
 	<programme channel="5625" start="20241025223000 +0000" stop="20241026010000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Maharantham</title>
+		<desc>Shankar, who loves Kalpana, promises a dying father that he will marry his terminally ill daughter Geeta. He marries them both. His devotion towards Geeta causes trouble between him and Kalpana.</desc>
 	</programme>
 	<programme channel="5625" start="20241026010000 +0000" stop="20241026013000 +0000">
 		<title>Teleshopping</title>
-		<desc>Teleshopping</desc>
+		<desc>Consumer can purchase goods and services shown on television; the purchaser telephones an order, or orders with the aid of a computer, and the products are delivered to the home.</desc>
 	</programme>
 	<programme channel="5625" start="20241026013000 +0000" stop="20241026043000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Oru nalla naal parthu soldren</title>
+		<desc>A tribal man, bound by tradition, arrives in the city to kidnap his betrothed. He incidentally also meets the girl's lover who, after realising his intentions, sets out to rescue her.</desc>
 	</programme>
 	<programme channel="5625" start="20241026043000 +0000" stop="20241026073000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Viraluketha Veekam</title>
+		<desc>Three couples live next to each other. While the men work as labourers in a car company, the women take care of the house. However, the women are not happy with their husbands as they are alcoholics.</desc>
 	</programme>
 	<programme channel="5625" start="20241026073000 +0000" stop="20241026103000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Murattu Kaalai</title>
+		<desc>Although Kaalaiyan and his brothers can afford a luxurious lifestyle, yet they choose to live modestly. However, Sundaravelu is a devious man who tries to grab their land.</desc>
 	</programme>
 	<programme channel="5625" start="20241026103000 +0000" stop="20241026133000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie -Jackson Durai</title>
+		<desc>A police inspector falls in love with a village leader's daughter. To win the leader's approval, the policeman is asked to stay several days in a haunted house.</desc>
 	</programme>
 	<programme channel="5625" start="20241026133000 +0000" stop="20241026133000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Unakkum Enakkum</title>
+		<desc>A young man leaves his luxurious life to prove his lover's brother that he is not a spoilt rich brat. Once agreed to he works hard, lives like a farmer till the next harvest and wins everyone's heart.</desc>
 	</programme>
 	<programme channel="5625" start="20241026133000 +0000" stop="20241026170000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Unakkum Enakkum</title>
+		<desc>A young man leaves his luxurious life to prove his lover's brother that he is not a spoilt rich brat. Once agreed to he works hard, lives like a farmer till the next harvest and wins everyone's heart.</desc>
 	</programme>
 	<programme channel="5625" start="20241026170000 +0000" stop="20241026183000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Sri</title>
+		<desc>Srikantu and his uncle travel to India from Bangkok, to seek Srikantu's ancestral property. However, when he meets Jennifer in a bank, a group of robbers plans to kidnap the trio.</desc>
 	</programme>
 	<programme channel="5625" start="20241026183000 +0000" stop="20241026200000 +0000">
-		<title>Movie Contd</title>
-		<desc>Movie Contd</desc>
+		<title>Movie Contd - Sri</title>
+		<desc>After Shree goes behind the people who are responsible for his sister's death, his father throws him out of the house. Thereafter, Shree helps people who are in trouble.</desc>
 	</programme>
 	<programme channel="5625" start="20241026200000 +0000" stop="20241026223000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Malliswaran</title>
+		<desc>Malliswaran is a Tamil dubbed movie of a malyalam fim called Mulla starring Dileep, Meera Nandan & Biju Menon .</desc>
 	</programme>
 	<programme channel="5625" start="20241026223000 +0000" stop="20241027010000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Manase Mounamaa</title>
+		<desc>Arun, a medical student becomes the new college chairman in spite of receiving threats from a gangster, Dhana. He sets out to kill Arun, but meets with an accident and Arun ends up saving his life.</desc>
 	</programme>
 	<programme channel="5625" start="20241027010000 +0000" stop="20241027013000 +0000">
 		<title>Teleshopping</title>
-		<desc>Teleshopping</desc>
+		<desc>Consumer can purchase goods and services shown on television; the purchaser telephones an order, or orders with the aid of a computer, and the products are delivered to the home.</desc>
 	</programme>
 	<programme channel="5625" start="20241027013000 +0000" stop="20241027043000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Samurai</title>
+		<desc>Thiyagu's friend commits suicide after failing to gather support to expose a drug racket in her college. Thereafter, he runs a rebel mission every night to punish the corrupt men responsible for it.</desc>
 	</programme>
 	<programme channel="5625" start="20241027043000 +0000" stop="20241027073000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Giri</title>
+		<desc>Two feuding landlords struggle to destroy each other. When one of them loses his son, he vows to kill the son of his rival. The boy, however, manages to escape only to return 20 years later.</desc>
 	</programme>
 	<programme channel="5625" start="20241027073000 +0000" stop="20241027103000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Ramana</title>
+		<desc>Ramana, a professor, heads a secret force that eliminates corruption from society. They kidnap fifteen most corrupt employees from each government department and kill the most unscrupulous one.</desc>
 	</programme>
 	<programme channel="5625" start="20241027103000 +0000" stop="20241027133000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Darling</title>
+		<desc>Four people go to a house to commit suicide together. However, love and the actions of an errant possessive ghost interrupt their plans, and they learned the reasons and dark story behind the ghost's existence.</desc>
 	</programme>
 	<programme channel="5627" start="20241025153000 +0000" stop="20241025163000 +0000">
 		<title>Non Stop Hits</title>
@@ -28746,53 +28742,65 @@ Christy、Jessica转赴「音乐之都」维也纳，探索其甜品的历史渊
 		<title>Oru Mexican Aparatha</title>
 		<desc>Paul, an ordinary student, befriends Subhash, a left-wing ideologist who despises the leadership of KSQ in his college. He plans to reintroduce the SFY party in the campus. Release Year: 2017 Director: Tom Emmatty</desc>
 	</programme>
-	<programme channel="5638" start="20241026020000 +0000" stop="20241026033000 +0000">
-		<title>Star Singer S09</title>
-		<desc>The Star Singer team celebrates Onam with dynamic folk performances from Gurukulam and Convent schools. Tune in to join the celebrations.</desc>
+	<programme channel="5638" start="20241026020000 +0000" stop="20241026023000 +0000">
+		<title>Geetha Govindam</title>
+		<desc>Young lecturer Vijay falls for cautious Geetha, but a mistake jeopardizes their budding romance, leading to family drama and uncertain consequences. Relationships are put to the test.</desc>
+	</programme>
+	<programme channel="5638" start="20241026023000 +0000" stop="20241026030000 +0000">
+		<title>Chempaneerpoovu</title>
+		<desc>A show follows Revathy, a lower-class daughter, marrying Sachi, a quirky taxi driver battling alcoholism. Expect drama, humor, and unexpected twists in their unconventional love story.</desc>
+	</programme>
+	<programme channel="5638" start="20241026030000 +0000" stop="20241026033000 +0000">
+		<title>Snehakkoottu</title>
+		<desc>Sethumadhavan becomes the unexpected guardian for his distant stepsisters. Facing challenges and resistance, he must discover if his love can truly unite and heal their fractured bond.</desc>
 	</programme>
 	<programme channel="5638" start="20241026033000 +0000" stop="20241026040000 +0000">
-		<title>Star Singer S09</title>
-		<desc>The Star Singer team celebrates Onam with dynamic folk performances from Gurukulam and Convent schools. Tune in to join the celebrations.</desc>
+		<title>Patharamattu</title>
+		<desc>Nayana, a talented artist, crosses paths with Adarsh, the responsible eldest Moorthy brother, sparking a connection that faces obstacles from envy and familial expectations during the Onam celebrations.</desc>
 	</programme>
 	<programme channel="5638" start="20241026040000 +0000" stop="20241026043000 +0000">
-		<title>Star Singer S09</title>
-		<desc>The Star Singer team celebrates Onam with dynamic folk performances from Gurukulam and Convent schools. Tune in to join the celebrations.</desc>
+		<title>Ishttam Mathram</title>
+		<desc>Mahesh struggles to express his love for his daughter Chippy, while Ishitha's affection for her deepens, sparking envy in him. A tale of love and longing.</desc>
 	</programme>
 	<programme channel="5638" start="20241026043000 +0000" stop="20241026050000 +0000">
-		<title>Star Singer S09</title>
-		<desc>The Star Singer team celebrates Onam with dynamic folk performances from Gurukulam and Convent schools. Tune in to join the celebrations.</desc>
+		<title>Chandrikayil Aliyunnu Chandrakantham</title>
+		<desc>IPS Gautham reluctantly marries Alakananda, but things get complicated when his first love, Priyamvada, re-enters his life. Love triangle drama ensues in Asianet's series.</desc>
 	</programme>
 	<programme channel="5638" start="20241026050000 +0000" stop="20241026073000 +0000">
-		<title>Movie</title>
-		<desc>The movie name is yet to be announced by the channel.</desc>
+		<title>Mukundan Unni Associates</title>
+		<desc>Unemployed lawyer turns to crime to pay for his mother's surgery, spiraling into greed and desperate attempts to become wealthy.</desc>
 	</programme>
 	<programme channel="5638" start="20241026073000 +0000" stop="20241026080000 +0000">
-		<title>Star Singer S09</title>
-		<desc>The Star Singer team celebrates Onam with dynamic folk performances from Gurukulam and Convent schools. Tune in to join the celebrations.</desc>
+		<title>Mounaragam</title>
+		<desc>A woman named Deepa faces cruelty from her husband Prakashan and his mother for giving birth to a mute girl. They mistreat her but Deepa's family supports her.</desc>
 	</programme>
 	<programme channel="5638" start="20241026080000 +0000" stop="20241026083000 +0000">
-		<title>Chirikkum Thalika</title>
-		<desc>A comprehensive compilation of some of the best rib-tickling comedy scenes from various Malayalam movies featuring renowned actors and actresses.</desc>
+		<title>Santhwanam-2</title>
+		<desc>Two rival families face challenges and strengthen their bonds in 'Santhwanam 2.' Balan's adopted son marries into one family, balancing his loyalties and navigating familial dynamics.</desc>
 	</programme>
-	<programme channel="5638" start="20241026083000 +0000" stop="20241026100000 +0000">
-		<title>Star Singer S09</title>
-		<desc>The Star Singer team celebrates Onam with dynamic folk performances from Gurukulam and Convent schools. Tune in to join the celebrations.</desc>
+	<programme channel="5638" start="20241026083000 +0000" stop="20241026090000 +0000">
+		<title>Jaanakiyudeyum Abhiyudeyum Veedu</title>
+		<desc>Janakiyudeyum Abhiyudeyum Veedu centers on the love of Abhiram and Janaki in the midst of their extended family in Alakapuri household.</desc>
 	</programme>
-	<programme channel="5638" start="20241026100000 +0000" stop="20241026123000 +0000">
-		<title>Movie</title>
-		<desc>The movie name is yet to be announced by the channel.</desc>
+	<programme channel="5638" start="20241026090000 +0000" stop="20241026093000 +0000">
+		<title>Amma Manassu</title>
+		<desc>'Catch the Malayalam dubbed version of the hit Tamil serial Chellamma on Star Vijay, directed by Francis Kathiravan. Amma Manassu features a talented cast in a compelling family drama.'</desc>
 	</programme>
-	<programme channel="5638" start="20241026123000 +0000" stop="20241026130000 +0000">
-		<title>Chirikkum Thalika</title>
-		<desc>A comprehensive compilation of some of the best rib-tickling comedy scenes from various Malayalam movies featuring renowned actors and actresses.</desc>
+	<programme channel="5638" start="20241026093000 +0000" stop="20241026100000 +0000">
+		<title>Etho Janma Kalpanayil</title>
+		<desc>Optimistic Sruthy clashes with arrogant Ashwin, sparking misunderstandings and confrontations, but leading to unexpected love amidst societal pressures, family conflicts, and personal growth.</desc>
+	</programme>
+	<programme channel="5638" start="20241026100000 +0000" stop="20241026130000 +0000">
+		<title>Yuva</title>
+		<desc>Yuva</desc>
 	</programme>
 	<programme channel="5638" start="20241026130000 +0000" stop="20241026133000 +0000">
 		<title>Star Singer S09</title>
 		<desc>The Star Singer team celebrates Onam with dynamic folk performances from Gurukulam and Convent schools. Tune in to join the celebrations.</desc>
 	</programme>
 	<programme channel="5638" start="20241026133000 +0000" stop="20241026140000 +0000">
-		<title>Gouri Shankaram</title>
-		<desc>Gouri, a college girl with strong principles, marries her obsessive lover Sanker. The show unfolds as Sanker pursues Gouri, challenging their opposing principles.</desc>
+		<title>Star Singer S09</title>
+		<desc>The Star Singer team celebrates Onam with dynamic folk performances from Gurukulam and Convent schools. Tune in to join the celebrations.</desc>
 	</programme>
 	<programme channel="5638" start="20241026140000 +0000" stop="20241026143000 +0000">
 		<title>Maalikapuram</title>
@@ -28811,88 +28819,80 @@ Christy、Jessica转赴「音乐之都」维也纳，探索其甜品的历史渊
 		<desc>A show follows Revathy, a lower-class daughter, marrying Sachi, a quirky taxi driver battling alcoholism. Expect drama, humor, and unexpected twists in their unconventional love story.</desc>
 	</programme>
 	<programme channel="5638" start="20241026160000 +0000" stop="20241026163000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+		<title>Ishttam Mathram</title>
+		<desc>Mahesh struggles to express his love for his daughter Chippy, while Ishitha's affection for her deepens, sparking envy in him. A tale of love and longing.</desc>
 	</programme>
 	<programme channel="5638" start="20241026163000 +0000" stop="20241026170000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+		<title>Patharamattu</title>
+		<desc>Nayana, a talented artist, crosses paths with Adarsh, the responsible eldest Moorthy brother, sparking a connection that faces obstacles from envy and familial expectations during the Onam celebrations.</desc>
 	</programme>
 	<programme channel="5638" start="20241026170000 +0000" stop="20241026183000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+		<title>Engile Ennodu Para S01</title>
+		<desc>Engile Ennodu Para S01</desc>
 	</programme>
 	<programme channel="5638" start="20241026183000 +0000" stop="20241026190000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+		<title>Star Talk with Vinay -South Meets North S02</title>
+		<desc>Star Talk with Vinay -South Meets North S02</desc>
 	</programme>
 	<programme channel="5638" start="20241026190000 +0000" stop="20241026220000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+		<title>Chandralekha</title>
+		<desc>The film is about an unemployed guy who saves a girl and gets embroiled in a classic case of mistaken identity. Release Year: 1997 Director: Priyadarshan</desc>
 	</programme>
 	<programme channel="5638" start="20241026220000 +0000" stop="20241026223000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+		<title>Star Singer S09</title>
+		<desc>The Star Singer team celebrates Onam with dynamic folk performances from Gurukulam and Convent schools. Tune in to join the celebrations.</desc>
 	</programme>
 	<programme channel="5638" start="20241026223000 +0000" stop="20241026233000 +0000">
 		<title>Chirikkum Thalika</title>
-		<desc>Chirikkum Thalika</desc>
+		<desc>A comprehensive compilation of some of the best rib-tickling comedy scenes from various Malayalam movies featuring renowned actors and actresses.</desc>
 	</programme>
 	<programme channel="5638" start="20241026233000 +0000" stop="20241027020000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+		<title>Lava Kusha</title>
+		<desc>Two jobless men with a desire to become cops, meet in Chennai and end up becoming friends. They get involved in a police encounter and a series of cat and mouse game ensues with criminals and real cops.</desc>
 	</programme>
 	<programme channel="5638" start="20241027020000 +0000" stop="20241027023000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+		<title>Star Singer S09</title>
+		<desc>The Star Singer team celebrates Onam with dynamic folk performances from Gurukulam and Convent schools. Tune in to join the celebrations.</desc>
 	</programme>
 	<programme channel="5638" start="20241027023000 +0000" stop="20241027030000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+		<title>Chempaneerpoovu</title>
+		<desc>A show follows Revathy, a lower-class daughter, marrying Sachi, a quirky taxi driver battling alcoholism. Expect drama, humor, and unexpected twists in their unconventional love story.</desc>
 	</programme>
 	<programme channel="5638" start="20241027030000 +0000" stop="20241027033000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+		<title>Snehakkoottu</title>
+		<desc>Sethumadhavan becomes the unexpected guardian for his distant stepsisters. Facing challenges and resistance, he must discover if his love can truly unite and heal their fractured bond.</desc>
 	</programme>
 	<programme channel="5638" start="20241027033000 +0000" stop="20241027040000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+		<title>Patharamattu</title>
+		<desc>Nayana, a talented artist, crosses paths with Adarsh, the responsible eldest Moorthy brother, sparking a connection that faces obstacles from envy and familial expectations during the Onam celebrations.</desc>
 	</programme>
 	<programme channel="5638" start="20241027040000 +0000" stop="20241027043000 +0000">
-		<title>Star Singer</title>
-		<desc>Star Singer</desc>
+		<title>Ishttam Mathram</title>
+		<desc>Mahesh struggles to express his love for his daughter Chippy, while Ishitha's affection for her deepens, sparking envy in him. A tale of love and longing.</desc>
 	</programme>
 	<programme channel="5638" start="20241027043000 +0000" stop="20241027050000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+		<title>Santhwanam-2</title>
+		<desc>Two rival families face challenges and strengthen their bonds in 'Santhwanam 2.' Balan's adopted son marries into one family, balancing his loyalties and navigating familial dynamics.</desc>
 	</programme>
-	<programme channel="5638" start="20241027050000 +0000" stop="20241027073000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+	<programme channel="5638" start="20241027050000 +0000" stop="20241027063000 +0000">
+		<title>Star Singer S09</title>
+		<desc>The Star Singer team celebrates Onam with dynamic folk performances from Gurukulam and Convent schools. Tune in to join the celebrations.</desc>
 	</programme>
-	<programme channel="5638" start="20241027073000 +0000" stop="20241027080000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+	<programme channel="5638" start="20241027063000 +0000" stop="20241027080000 +0000">
+		<title>Star Singer S09</title>
+		<desc>The Star Singer team celebrates Onam with dynamic folk performances from Gurukulam and Convent schools. Tune in to join the celebrations.</desc>
 	</programme>
-	<programme channel="5638" start="20241027080000 +0000" stop="20241027083000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
-	</programme>
-	<programme channel="5638" start="20241027083000 +0000" stop="20241027100000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+	<programme channel="5638" start="20241027080000 +0000" stop="20241027100000 +0000">
+		<title>Star Singer S09</title>
+		<desc>The Star Singer team celebrates Onam with dynamic folk performances from Gurukulam and Convent schools. Tune in to join the celebrations.</desc>
 	</programme>
 	<programme channel="5638" start="20241027100000 +0000" stop="20241027130000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+		<title>2018- Every One Is A Hero</title>
+		<desc>Kerala floods in 2018 cause catastrophic consequences, but the people unite to overcome the calamity.</desc>
 	</programme>
 	<programme channel="5638" start="20241027130000 +0000" stop="20241027133000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
-	</programme>
-	<programme channel="5638" start="20241027133000 +0000" stop="20241027140000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+		<title>Star Singer S09</title>
+		<desc>The Star Singer team celebrates Onam with dynamic folk performances from Gurukulam and Convent schools. Tune in to join the celebrations.</desc>
 	</programme>
 	<programme channel="5639" start="20241025133000 +0000" stop="20241025173000 +0000">
 		<title>Lucifer</title>
@@ -30830,11 +30830,11 @@ Christy、Jessica转赴「音乐之都」维也纳，探索其甜品的历史渊
 		<title>Love Bytes</title>
 		<desc>A rich and soulful compilation of some of the most entertaining romantic tracks from the latest Bollywood movies performed by different artists.</desc>
 	</programme>
-	<programme channel="5658" start="20241025210000 +0000" stop="20241025213000 +0000">
+	<programme channel="5658" start="20241025210000 +0000" stop="20241025220000 +0000">
 		<title>MTV Hit & Hot Top 20</title>
 		<desc>A comprehensive compilation of the top 20 songs performed by various artists and bands from all over the world are played back-to-back.</desc>
 	</programme>
-	<programme channel="5658" start="20241025213000 +0000" stop="20241025223000 +0000">
+	<programme channel="5658" start="20241025220000 +0000" stop="20241025223000 +0000">
 		<title>Smash Hours</title>
 		<desc>A compilation of some of the most popular songs performed by various artists and bands.</desc>
 	</programme>
@@ -30934,11 +30934,11 @@ Christy、Jessica转赴「音乐之都」维也纳，探索其甜品的历史渊
 		<title>Love Bytes</title>
 		<desc>A rich and soulful compilation of some of the most entertaining romantic tracks from the latest Bollywood movies performed by different artists.</desc>
 	</programme>
-	<programme channel="5658" start="20241026210000 +0000" stop="20241026213000 +0000">
+	<programme channel="5658" start="20241026210000 +0000" stop="20241026220000 +0000">
 		<title>Smash Hours</title>
 		<desc>A compilation of some of the most popular songs performed by various artists and bands.</desc>
 	</programme>
-	<programme channel="5658" start="20241026213000 +0000" stop="20241026223000 +0000">
+	<programme channel="5658" start="20241026220000 +0000" stop="20241026223000 +0000">
 		<title>Smash Hours</title>
 		<desc>A compilation of some of the most popular songs performed by various artists and bands.</desc>
 	</programme>
@@ -31271,160 +31271,160 @@ Christy、Jessica转赴「音乐之都」维也纳，探索其甜品的历史渊
 		<desc>Entertainement</desc>
 	</programme>
 	<programme channel="5671" start="20241025160000 +0000" stop="20241025170000 +0000">
-		<title>BIGG BOSS 8</title>
-		<desc>BIGG BOSS 8</desc>
+		<title>Bigg Boss S08</title>
+		<desc>Celebrities live in an isolated house cut off from the rest of the world. They have to compete in challenging tasks to avoid elimination and win.</desc>
 	</programme>
 	<programme channel="5671" start="20241025170000 +0000" stop="20241025173000 +0000">
-		<title>BIGG BOSS 8 - UNSEEN EXTRA CUTS</title>
-		<desc>BIGG BOSS 8 - UNSEEN EXTRA CUTS</desc>
+		<title>Bigg Boss S08 - Unseen Extra Cuts</title>
+		<desc>Exclusive behind-the-scenes footage and unseen moments from Bigg Boss Season 8.</desc>
 	</programme>
 	<programme channel="5671" start="20241025173000 +0000" stop="20241025183000 +0000">
-		<title>Movie_ S/O.SATYA MURTHY</title>
-		<desc>Movie_ S/O.SATYA MURTHY</desc>
+		<title>S/O Satyamurthy</title>
+		<desc>Anand, the son of a rich businessman, struggles to save his father's wealth. Release Year: 2015 Director: Trivikram Srinivas Awards: 63rd Filmfare Awards - Best Director - Trivikram Srinivas - Nominated</desc>
 	</programme>
 	<programme channel="5671" start="20241025183000 +0000" stop="20241025203000 +0000">
-		<title>Movie_S/O.SATYA MURTHY</title>
-		<desc>Movie_S/O.SATYA MURTHY</desc>
+		<title>S/O Satyamurthy</title>
+		<desc>Anand, the son of a rich businessman, struggles to save his father's wealth. Release Year: 2015 Director: Trivikram Srinivas Awards: 63rd Filmfare Awards - Best Director - Trivikram Srinivas - Nominated</desc>
 	</programme>
 	<programme channel="5671" start="20241025203000 +0000" stop="20241025230000 +0000">
-		<title>Movie_NENE RAJU NENE MANTRI</title>
-		<desc>Movie_NENE RAJU NENE MANTRI</desc>
+		<title>Nene Raju Nene Mantri</title>
+		<desc>Padma reforms Rajendra; love complicates as Rajendra falls for her, and Rupa doubts Padma's motives.</desc>
 	</programme>
 	<programme channel="5671" start="20241025230000 +0000" stop="20241026010000 +0000">
-		<title>Movie_KRISHNA ARJUNA YUDHAM</title>
-		<desc>Entertainment</desc>
+		<title>Krishna Arjuna Yudham</title>
+		<desc>Two opposite lookalikes unite to find kidnapped loved ones.</desc>
 	</programme>
 	<programme channel="5671" start="20241026010000 +0000" stop="20241026013000 +0000">
-		<title>FUN TIME</title>
-		<desc>FUN TIME</desc>
+		<title>Fun Time</title>
+		<desc>Tune into a compilation of comedy clips from the recently released Tollywood movies.</desc>
 	</programme>
 	<programme channel="5671" start="20241026013000 +0000" stop="20241026033000 +0000">
-		<title>AADIVARAM STAR MAA PARIVARAM ® - STAR WARS</title>
-		<desc>AADIVARAM STAR MAA PARIVARAM ® - STAR WARS</desc>
+		<title>Aadivaram Star Maa Parivaram - Star Wars S02</title>
+		<desc>Sreemukhi hosts an event where families compete in musical games.</desc>
 	</programme>
 	<programme channel="5671" start="20241026033000 +0000" stop="20241026063000 +0000">
-		<title>MOVIE_NAA SAAMI RANGA</title>
-		<desc>Entertainment</desc>
+		<title>Naa Saami Ranga</title>
+		<desc>Three brothers brought together by chance navigate their love lives while jealousy from village elders brews.</desc>
 	</programme>
 	<programme channel="5671" start="20241026063000 +0000" stop="20241026070000 +0000">
-		<title>Paape Naa Jeevana Jyothi</title>
-		<desc>Story revolves around mother and missed daughter</desc>
+		<title>Paape Maa Jeevana Jyothi</title>
+		<desc>Jyothi seeks acceptance but faces turmoil as daughter Jeevana is kidnapped, jeopardizing their newfound peace.</desc>
 	</programme>
 	<programme channel="5671" start="20241026070000 +0000" stop="20241026073000 +0000">
-		<title>NINNU KORI</title>
-		<desc>NINNU KORI</desc>
+		<title>Ninnu Kori</title>
+		<desc>Pallavi invites her ex-boyfriend to stay with her and her husband to prove she is happy. Uma tries to break them up.</desc>
 	</programme>
 	<programme channel="5671" start="20241026073000 +0000" stop="20241026080000 +0000">
-		<title>NUVVU NENU PREMA</title>
-		<desc>NUVVU NENU PREMA</desc>
+		<title>Nuvvu Nenu Prema</title>
+		<desc>Padmavathi, a family-loving girl, meets Vikramaditya, an arrogant businessman grappling with the loss of his parents.</desc>
 	</programme>
 	<programme channel="5671" start="20241026080000 +0000" stop="20241026083000 +0000">
-		<title>PALUKE BANGARAMAYENA</title>
-		<desc>PALUKE BANGARAMAYENA</desc>
+		<title>Paluke Bangaramayena</title>
+		<desc>Speech-impaired Swaragini, deemed unlucky by her father. Can Officer Abhishek alter her fate?</desc>
 	</programme>
 	<programme channel="5671" start="20241026083000 +0000" stop="20241026090000 +0000">
-		<title>MAMA GARU</title>
-		<desc>Serial</desc>
+		<title>Mama Garu</title>
+		<desc>Ganga confronts chauvinistic father-in-law, challenging norms. Can she carve her path to victory and claim her rights?</desc>
 	</programme>
 	<programme channel="5671" start="20241026090000 +0000" stop="20241026093000 +0000">
 		<title>Vantalakka</title>
-		<desc>Serial</desc>
+		<desc>Kind-hearted Murali loves a wealthy girl. Their romance encounters numerous obstacles.</desc>
 	</programme>
 	<programme channel="5671" start="20241026093000 +0000" stop="20241026100000 +0000">
 		<title>Malli</title>
-		<desc>Story of village girl</desc>
+		<desc>Malli promises Meera after hearing her past. Arvind's family frets over his new project.</desc>
 	</programme>
 	<programme channel="5671" start="20241026100000 +0000" stop="20241026103000 +0000">
-		<title>YETO VELLIPOINDI MANASU</title>
-		<desc>YETO VELLIPOINDI MANASU</desc>
+		<title>Yeto Vellipoindi Manasu</title>
+		<desc>Varun and Nithya's lifelong journey is marked by ups and downs, leading to multiple separations.</desc>
 	</programme>
 	<programme channel="5671" start="20241026103000 +0000" stop="20241026110000 +0000">
-		<title>GUNDE NINDA GUDIGANTALU</title>
-		<desc>Entertainment</desc>
+		<title>Gunde Ninda Gudigantalu</title>
+		<desc>Circumstances force Meena, a family-centric girl, to marry Balu, a thug. Will this unfortunate marriage turn into love?</desc>
 	</programme>
 	<programme channel="5671" start="20241026110000 +0000" stop="20241026120000 +0000">
-		<title>BIGG BOSS 8 ® -</title>
-		<desc>BIGG BOSS 8 ® -</desc>
+		<title>Bigg Boss S08</title>
+		<desc>Celebrities live in an isolated house cut off from the rest of the world. They have to compete in challenging tasks to avoid elimination and win.</desc>
 	</programme>
 	<programme channel="5671" start="20241026120000 +0000" stop="20241026123000 +0000">
-		<title>GUPPEDANTHA MANASU ®</title>
-		<desc>GUPPEDANTHA MANASU ®</desc>
+		<title>Guppedantha Manasu</title>
+		<desc>Anupama urges Mahindra to report Rishi's disappearance. Next day, Vasudhara sets out on a mission to locate him.</desc>
 	</programme>
 	<programme channel="5671" start="20241026123000 +0000" stop="20241026130000 +0000">
-		<title>SATYABHAMA</title>
-		<desc>SATYABHAMA</desc>
+		<title>Sathyabhama</title>
+		<desc>Krish falls for Satya, a principled girl. What unfolds for this extraordinary couple in their love story?</desc>
 	</programme>
 	<programme channel="5671" start="20241026130000 +0000" stop="20241026133000 +0000">
-		<title>MAGUVA O MAGUVA</title>
-		<desc>MAGUVA O MAGUVA</desc>
+		<title>Maguva O Maguva</title>
+		<desc>Wealthy Akhila and single mom Anjali bond during pregnancy, navigating diverse backgrounds in a tale of motherhood.</desc>
 	</programme>
 	<programme channel="5671" start="20241026133000 +0000" stop="20241026140000 +0000">
-		<title>CHINNI</title>
-		<desc>Serial</desc>
+		<title>Chinni</title>
+		<desc>A heartwarming tale of a Mother and Daughter navigating through unexpected challenges, strengthening their bond and understanding each other in new ways.</desc>
 	</programme>
 	<programme channel="5671" start="20241026140000 +0000" stop="20241026143000 +0000">
-		<title>BRAHMA MUDI</title>
-		<desc>BRAHMA MUDI</desc>
+		<title>Brahma Mudi</title>
+		<desc>Mother arranges weddings for talented daughters. Affairs take an unexpected turn with an affluent family.</desc>
 	</programme>
-	<programme channel="5671" start="20241026143000 +0000" stop="20241026153000 +0000">
-		<title>INTINTI RAMAYANAM</title>
-		<desc>INTINTI RAMAYANAM</desc>
+	<programme channel="5671" start="20241026143000 +0000" stop="20241026150000 +0000">
+		<title>Karthika Deepam-Nava Vasantham</title>
+		<desc>Deepa, dark-skinned, toils against social pressures after marrying Dr. Karthik.</desc>
+	</programme>
+	<programme channel="5671" start="20241026150000 +0000" stop="20241026153000 +0000">
+		<title>Intinti Ramayanam</title>
+		<desc>Members of a close-knit family begin to doubt one another when they suddenly face a problem.</desc>
 	</programme>
 	<programme channel="5671" start="20241026153000 +0000" stop="20241026153000 +0000">
-		<title>BIGG BOSS 8</title>
-		<desc>BIGG BOSS 8</desc>
+		<title>Bigg Boss S08</title>
+		<desc>Celebrities live in an isolated house cut off from the rest of the world. They have to compete in challenging tasks to avoid elimination and win.</desc>
 	</programme>
 	<programme channel="5671" start="20241026153000 +0000" stop="20241026170000 +0000">
-		<title>BIGG BOSS 8</title>
-		<desc>BIGG BOSS 8</desc>
+		<title>Bigg Boss S08</title>
+		<desc>Celebrities live in an isolated house cut off from the rest of the world. They have to compete in challenging tasks to avoid elimination and win.</desc>
 	</programme>
-	<programme channel="5671" start="20241026170000 +0000" stop="20241026173000 +0000">
-		<title>STAR MAA PARIVAR AWARDS 2024 - RED CARPET</title>
-		<desc>STAR MAA PARIVAR AWARDS 2024 - RED CARPET</desc>
-	</programme>
-	<programme channel="5671" start="20241026173000 +0000" stop="20241026183000 +0000">
-		<title>MOVIE_RAJU GARI GADHI 2</title>
-		<desc>MOVIE_RAJU GARI GADHI 2</desc>
+	<programme channel="5671" start="20241026170000 +0000" stop="20241026183000 +0000">
+		<title>Raju Gari Gadhi 2</title>
+		<desc>Three friends decide to invest in a resort and run a business.</desc>
 	</programme>
 	<programme channel="5671" start="20241026183000 +0000" stop="20241026190000 +0000">
-		<title>FUN TIME</title>
-		<desc>FUN TIME</desc>
+		<title>Real Estate Guru</title>
+		<desc>The host provides information related to the latest real estate developments.</desc>
 	</programme>
 	<programme channel="5671" start="20241026190000 +0000" stop="20241026203000 +0000">
-		<title>Movie_GAURAVAM</title>
-		<desc>Movie_GAURAVAM</desc>
+		<title>Gauravam</title>
+		<desc>Arjun seeks eloped friend and joins Yazhini to find couple.</desc>
 	</programme>
 	<programme channel="5671" start="20241026203000 +0000" stop="20241026230000 +0000">
-		<title>Movie_KEVVU KEKA</title>
-		<desc>Movie_KEVVU KEKA</desc>
+		<title>Kevvu Keka</title>
+		<desc>A girl lies about her boyfriend's wealth, father breaks the alliance. She challenges them to make him rich.</desc>
 	</programme>
 	<programme channel="5671" start="20241026230000 +0000" stop="20241027010000 +0000">
-		<title>Movie_OKA LAILA KOSAM</title>
-		<desc>Entertainment</desc>
+		<title>Oka Laila Kosam</title>
+		<desc>After returning from Europe Karthik falls head over heels for Nandana, who can't stand him.</desc>
 	</programme>
 	<programme channel="5671" start="20241027010000 +0000" stop="20241027013000 +0000">
-		<title>FUN TIME</title>
-		<desc>FUN TIME</desc>
+		<title>Fun Time</title>
+		<desc>Tune into a compilation of comedy clips from the recently released Tollywood movies.</desc>
 	</programme>
 	<programme channel="5671" start="20241027013000 +0000" stop="20241027023000 +0000">
-		<title>RAASI PHALALU</title>
-		<desc>RAASI PHALALU</desc>
+		<title>Raasi Phalalu</title>
+		<desc>Learn how the stars affect business, finance, health and travel.</desc>
 	</programme>
 	<programme channel="5671" start="20241027023000 +0000" stop="20241027053000 +0000">
-		<title>MOVIE_KRACK</title>
-		<desc>Drama</desc>
+		<title>Krack</title>
+		<desc>3 criminals clash with hot-tempered police officer Potharaju Shanker, leading to their unexpected imprisonment. Release Year: 2021 Director: Gopichand Malineni Awards: 2022 Winner SIIMA - Telugu, 2022 Nominee SIIMA - Telugu</desc>
 	</programme>
 	<programme channel="5671" start="20241027053000 +0000" stop="20241027073000 +0000">
-		<title>AADIVARAM STAR MAA PARIVARAM - STAR WARS_S5</title>
-		<desc>Entertainment</desc>
+		<title>Aadivaram Star Maa Parivaram - Star Wars 5</title>
+		<desc>Hosted by Sreemukhi, enjoy musical games and cash prizes with your favorite Maa families!</desc>
 	</programme>
 	<programme channel="5671" start="20241027073000 +0000" stop="20241027103000 +0000">
-		<title>MOVIE_AADI PURUSH</title>
-		<desc>Entertainment</desc>
+		<title>Aadi Purush</title>
+		<desc>Raghava, the prince of the Ikshvaku dynasty of Kosala, seeks to save his wife Janaki from the demon king Lankesh.</desc>
 	</programme>
 	<programme channel="5671" start="20241027103000 +0000" stop="20241027133000 +0000">
-		<title>Movie_RAJA THE GREAT</title>
-		<desc>Entertainment</desc>
+		<title>Raja The Great</title>
+		<desc>A blind man is inspired to protect the pampered daughter of a murdered police officer. Release Year: 2017 Director: Anil Ravipudi</desc>
 	</programme>
 	<programme channel="5676" start="20241025160000 +0000" stop="20241025220000 +0000">
 		<title>NEWS</title>
@@ -32379,8 +32379,8 @@ Christy、Jessica转赴「音乐之都」维也纳，探索其甜品的历史渊
 		<desc>Project X returns for the first time in 18 years. The former series featured people involved in project related to the Japanese industry and contemporary history. The new series focuses on people in the “Lost Era” following the collapse of the bubble econ</desc>
 	</programme>
 	<programme channel="5682" start="20241026111500 +0000" stop="20241026122500 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+		<title>The Lower House Election Special</title>
+		<desc>The Lower House Election Special</desc>
 	</programme>
 	<programme channel="5682" start="20241026122500 +0000" stop="20241026123000 +0000">
 		<title>News & Weather</title>
@@ -32404,7 +32404,7 @@ Christy、Jessica转赴「音乐之都」维也纳，探索其甜品的历史渊
 	</programme>
 	<programme channel="5682" start="20241026140000 +0000" stop="20241026143000 +0000">
 		<title>Venue101</title>
-		<desc>Venue101</desc>
+		<desc>This live entertainment show delivers the latest music performances and information, and also connects with the audience making full use of social media.</desc>
 	</programme>
 	<programme channel="5682" start="20241026143000 +0000" stop="20241026160000 +0000">
 		<title>Sada Masashi's Midnight Talk Show</title>
@@ -32507,8 +32507,8 @@ Christy、Jessica转赴「音乐之都」维也纳，探索其甜品的历史渊
 		<desc>Children can learn the enjoyment of designing and the process of envisioning designs.</desc>
 	</programme>
 	<programme channel="5682" start="20241027000000 +0000" stop="20241027004500 +0000">
-		<title>Special Program</title>
-		<desc>Special Program</desc>
+		<title>Premium Talk "Shirota Yu"</title>
+		<desc>Premium Talk "Shirota Yu"</desc>
 	</programme>
 	<programme channel="5682" start="20241027004500 +0000" stop="20241027010000 +0000">
 		<title>100 Beautiful Mountains of Japan Mini</title>
