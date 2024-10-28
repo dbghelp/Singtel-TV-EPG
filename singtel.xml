@@ -4372,13 +4372,9 @@ Shen Yi joins the Criminal Investigation Department as a mock portrait artist an
 		<title>ISU World Figure Skating Grand Prix Halifax (CANADA)</title>
 		<desc>The ISU Grand Prix of Figure Skating Series consists of six international senior events in North America, Europe and Asia, culminating with the ISU Grand Prix of Figure Skating Final in Grenoble, France.</desc>
 	</programme>
-	<programme channel="6115" start="20241028120000 +0000" stop="20241028133000 +0000">
+	<programme channel="6115" start="20241028120000 +0000" stop="20241028140000 +0000">
 		<title>ISU World Figure Skating Grand Prix Halifax (CANADA)</title>
 		<desc>The ISU Grand Prix of Figure Skating Series consists of six international senior events in North America, Europe and Asia, culminating with the ISU Grand Prix of Figure Skating Final in Grenoble, France.</desc>
-	</programme>
-	<programme channel="6115" start="20241028133000 +0000" stop="20241028140000 +0000">
-		<title>Hyundai Archery World Cup Tlaxcala 2024 Recurved Final</title>
-		<desc>Consisting of three stages and a grand final, the annual Hyundai Archery World Cup features international elite compound and recurve archers shooting for the title of Hyundai Archery World Cup Champion.</desc>
 	</programme>
 	<programme channel="6115" start="20241028140000 +0000" stop="20241028160000 +0000">
 		<title>ROSHN Saudi League 2024-25 Matchday 7 Episode 2</title>
@@ -6838,7 +6834,7 @@ Shen Yi joins the Criminal Investigation Department as a mock portrait artist an
 	</programme>
 	<programme channel="5157" start="20241029043000 +0000" stop="20241029044500 +0000">
 		<title>DEEPER LOOK</title>
-		<desc>An experienced anchor Del Irani has a cutting-edge dialogue with a first-class guest on a current-affairs topics.</desc>
+		<desc>Japan's Permanent Representative to the United Nations, Ambassador Yamazaki Kazuyuki, discusses his views on the UN's challenges to maintain international peace and security and how Japan contributes.</desc>
 	</programme>
 	<programme channel="5157" start="20241029044500 +0000" stop="20241029045500 +0000">
 		<title>Dig More Japan</title>
@@ -6894,7 +6890,7 @@ Shen Yi joins the Criminal Investigation Department as a mock portrait artist an
 	</programme>
 	<programme channel="5157" start="20241029083000 +0000" stop="20241029084500 +0000">
 		<title>DEEPER LOOK</title>
-		<desc>An experienced anchor Del Irani has a cutting-edge dialogue with a first-class guest on a current-affairs topics.</desc>
+		<desc>Japan's Permanent Representative to the United Nations, Ambassador Yamazaki Kazuyuki, discusses his views on the UN's challenges to maintain international peace and security and how Japan contributes.</desc>
 	</programme>
 	<programme channel="5157" start="20241029084500 +0000" stop="20241029090000 +0000">
 		<title>BOSAI: Science that Can Save Your Life</title>
@@ -21003,11 +20999,13 @@ Christy、Jessica转赴「音乐之都」维也纳，探索其甜品的历史渊
 	</programme>
 	<programme channel="5511" start="20241028093000 +0000" stop="20241028103000 +0000">
 		<title>燕云台 / The Legend of Xiao Chuo Episode 610128</title>
-		<desc>第十五集
+		<desc>第二十集
 
-穆宗酒后狩猎，临时起了兴致，竟然又开始疯狂射杀奴仆。楚补给穆宗身边的近侍们嘘寒问暖之时鼓励他们既然整日命悬一线，不如干脆同归于尽，奋起反抗穆宗。
-正在对弈的耶律贤与韩德让二人棋逢对手，此时接到飞鸽传书——事成。众人齐声恭贺耶律贤大业将成，韩德让带耶律贤出关，却发现通关令牌临时更换，韩德让答应耶律贤自己一定会送他出城，转身去向燕燕求救，燕燕决定去罨撒葛府偷取新的通关令牌。韩德让拿着新的通关令府带着耶律贤顺利离开上京。
-前往黑山一路奔波，耶律贤渐渐体力不支，韩德让与他共乘一骑，鼓励他务必撑到黑山，</desc>
+大婚当夜，耶律贤第一次向燕燕表露心迹，没有过多勉强，表示自己愿意等她回心转意。燕燕辗转难眠，思念远走的韩德让，远处的韩德让也在思念着燕燕。
+耶律贤一直在派人暗中观察着韩德让的行踪，并适时把韩德让的踪迹告诉了李思。
+韩德让思念着燕燕，一路走过二人共同走过的路，不觉间一路向幽州奔波而去。
+韩德让无意之中救下出来猎鹿的日连部落少族长阿孛合，受到邀请到部族暂住，部族艰苦的生活让韩德让更加切身体会到推行汉制给百姓带来安定生活的必要性，也更加理解了身上的责任。
+耶律贤和燕燕未有夫妻之实的事情在宫内宫外传得</desc>
 	</programme>
 	<programme channel="5511" start="20241028103000 +0000" stop="20241028110500 +0000">
 		<title>六点半新闻报导 及 世界观 / News At 18:30 and Global View</title>
@@ -21077,11 +21075,13 @@ Christy、Jessica转赴「音乐之都」维也纳，探索其甜品的历史渊
 	</programme>
 	<programme channel="5511" start="20241028200000 +0000" stop="20241028210000 +0000">
 		<title>燕云台 / The Legend of Xiao Chuo Episode 610128</title>
-		<desc>第十五集
+		<desc>第二十集
 
-穆宗酒后狩猎，临时起了兴致，竟然又开始疯狂射杀奴仆。楚补给穆宗身边的近侍们嘘寒问暖之时鼓励他们既然整日命悬一线，不如干脆同归于尽，奋起反抗穆宗。
-正在对弈的耶律贤与韩德让二人棋逢对手，此时接到飞鸽传书——事成。众人齐声恭贺耶律贤大业将成，韩德让带耶律贤出关，却发现通关令牌临时更换，韩德让答应耶律贤自己一定会送他出城，转身去向燕燕求救，燕燕决定去罨撒葛府偷取新的通关令牌。韩德让拿着新的通关令府带着耶律贤顺利离开上京。
-前往黑山一路奔波，耶律贤渐渐体力不支，韩德让与他共乘一骑，鼓励他务必撑到黑山，</desc>
+大婚当夜，耶律贤第一次向燕燕表露心迹，没有过多勉强，表示自己愿意等她回心转意。燕燕辗转难眠，思念远走的韩德让，远处的韩德让也在思念着燕燕。
+耶律贤一直在派人暗中观察着韩德让的行踪，并适时把韩德让的踪迹告诉了李思。
+韩德让思念着燕燕，一路走过二人共同走过的路，不觉间一路向幽州奔波而去。
+韩德让无意之中救下出来猎鹿的日连部落少族长阿孛合，受到邀请到部族暂住，部族艰苦的生活让韩德让更加切身体会到推行汉制给百姓带来安定生活的必要性，也更加理解了身上的责任。
+耶律贤和燕燕未有夫妻之实的事情在宫内宫外传得</desc>
 	</programme>
 	<programme channel="5511" start="20241028210000 +0000" stop="20241028220000 +0000">
 		<title>流行都市 / Big City Shop 2024 Episode 215</title>
@@ -21096,7 +21096,7 @@ Christy、Jessica转赴「音乐之都」维也纳，探索其甜品的历史渊
 		<desc>《东张西望》星期一至日，紧贴追踪社会大事、趣闻逸事，并报导娱乐圈最新动态、艺人消息，以及剧集宣传和花絮。「今日突发」环节为大家追踪即日热门新闻；专题环节，深入探讨大众关心的时事、社会及民生问题，并访问相关的专家。</desc>
 	</programme>
 	<programme channel="5511" start="20241028230000 +0000" stop="20241029000000 +0000">
-		<title>香港早晨 及 世界观 / Good Morning Hong Kong and Global View Episode 269</title>
+		<title>香港早晨 及 世界观 / Good Morning Hong Kong and Global View Episode 270</title>
 		<desc>报导香港、两岸及国际重要新闻。</desc>
 	</programme>
 	<programme channel="5511" start="20241029000000 +0000" stop="20241029010000 +0000">
@@ -21189,11 +21189,13 @@ Christy、Jessica转赴「音乐之都」维也纳，探索其甜品的历史渊
 	</programme>
 	<programme channel="5511" start="20241029093000 +0000" stop="20241029103000 +0000">
 		<title>燕云台 / The Legend of Xiao Chuo Episode 610158</title>
-		<desc>第十五集
+		<desc>第二十集
 
-穆宗酒后狩猎，临时起了兴致，竟然又开始疯狂射杀奴仆。楚补给穆宗身边的近侍们嘘寒问暖之时鼓励他们既然整日命悬一线，不如干脆同归于尽，奋起反抗穆宗。
-正在对弈的耶律贤与韩德让二人棋逢对手，此时接到飞鸽传书——事成。众人齐声恭贺耶律贤大业将成，韩德让带耶律贤出关，却发现通关令牌临时更换，韩德让答应耶律贤自己一定会送他出城，转身去向燕燕求救，燕燕决定去罨撒葛府偷取新的通关令牌。韩德让拿着新的通关令府带着耶律贤顺利离开上京。
-前往黑山一路奔波，耶律贤渐渐体力不支，韩德让与他共乘一骑，鼓励他务必撑到黑山，</desc>
+大婚当夜，耶律贤第一次向燕燕表露心迹，没有过多勉强，表示自己愿意等她回心转意。燕燕辗转难眠，思念远走的韩德让，远处的韩德让也在思念着燕燕。
+耶律贤一直在派人暗中观察着韩德让的行踪，并适时把韩德让的踪迹告诉了李思。
+韩德让思念着燕燕，一路走过二人共同走过的路，不觉间一路向幽州奔波而去。
+韩德让无意之中救下出来猎鹿的日连部落少族长阿孛合，受到邀请到部族暂住，部族艰苦的生活让韩德让更加切身体会到推行汉制给百姓带来安定生活的必要性，也更加理解了身上的责任。
+耶律贤和燕燕未有夫妻之实的事情在宫内宫外传得</desc>
 	</programme>
 	<programme channel="5511" start="20241029103000 +0000" stop="20241029110500 +0000">
 		<title>六点半新闻报导 及 世界观 / News At 18:30 and Global View</title>
