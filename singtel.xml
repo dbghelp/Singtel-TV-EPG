@@ -4332,9 +4332,13 @@ Shen Yi joins the Criminal Investigation Department as a mock portrait artist an
 		<title>2024 Supercars C'ship Gold Coast</title>
 		<desc>Supercars delivers exhilarating and accessible motorsports-led entertainment to engaged and passionate fans.</desc>
 	</programme>
-	<programme channel="6115" start="20241029203000 +0000" stop="20241029223000 +0000">
+	<programme channel="6115" start="20241029203000 +0000" stop="20241029220000 +0000">
 		<title>ISU World Figure Skating Grand Prix Halifax (CANADA) Episode 2</title>
 		<desc>The ISU Grand Prix of Figure Skating Series consists of six international senior events in North America, Europe and Asia, culminating with the ISU Grand Prix of Figure Skating Final in Grenoble, France.</desc>
+	</programme>
+	<programme channel="6115" start="20241029220000 +0000" stop="20241029223000 +0000">
+		<title>MotoGP 2024 Grand Prix of Australian Recap Episode 2</title>
+		<desc>Recap the action, behind-the-scenes and rider interviews at the MotoGP 2024 Grand Prix of Japan Recap.</desc>
 	</programme>
 	<programme channel="6115" start="20241029223000 +0000" stop="20241029230000 +0000">
 		<title>SailGP: Racing on the Edge</title>
@@ -4348,11 +4352,19 @@ Shen Yi joins the Criminal Investigation Department as a mock portrait artist an
 		<title>2024 MLB World Series Game 4 (Live)</title>
 		<desc>12 of the best MLB teams of the Regular Season slug it out through the Wild Card, Division, League Championship and World Series to be crowned kings of the world's best professional baseball league.</desc>
 	</programme>
-	<programme channel="6115" start="20241030030000 +0000" stop="20241030063000 +0000">
+	<programme channel="6115" start="20241030030000 +0000" stop="20241030040000 +0000">
 		<title>MotoGP 2024 Round 17 - Qatar Airways Australian Motorcycle Grand Prix Episode 3</title>
 		<desc>The MotoGP World Championship crowns one of 22 riders lining up on 1000cc prototype bikes capable of producing over 240 horsepower and getting up to speeds of 350kph over 21 Grand Prix races.</desc>
 	</programme>
-	<programme channel="6115" start="20241030063000 +0000" stop="20241030080000 +0000">
+	<programme channel="6115" start="20241030040000 +0000" stop="20241030043000 +0000">
+		<title>MotoGP 2024 Spotlight Episode 2</title>
+		<desc>Takaaki Nakagami has officially announced his retirement from racing at the end of 2024 season. Nakagami is set to transition into a development role with Honda Racing Corporation starting in 2025</desc>
+	</programme>
+	<programme channel="6115" start="20241030043000 +0000" stop="20241030064500 +0000">
+		<title>ISU World Figure Skating Grand Prix Halifax (CANADA)</title>
+		<desc>The ISU Grand Prix of Figure Skating Series consists of six international senior events in North America, Europe and Asia, culminating with the ISU Grand Prix of Figure Skating Final in Grenoble, France.</desc>
+	</programme>
+	<programme channel="6115" start="20241030064500 +0000" stop="20241030080000 +0000">
 		<title>ISU World Figure Skating Grand Prix Halifax (CANADA) Episode 3</title>
 		<desc>The ISU Grand Prix of Figure Skating Series consists of six international senior events in North America, Europe and Asia, culminating with the ISU Grand Prix of Figure Skating Final in Grenoble, France.</desc>
 	</programme>
@@ -6745,8 +6757,8 @@ Shen Yi joins the Criminal Investigation Department as a mock portrait artist an
 		<desc>Having experienced the removal of landmines with Japan's assistance, Cambodia is now helping other countries with its demining technology. The leader of this initiative gives us his thoughts on peace.</desc>
 	</programme>
 	<programme channel="5157" start="20241030013000 +0000" stop="20241030014500 +0000">
-		<title>NHK WORLD-JAPAN Special program</title>
-		<desc>NHK WORLD-JAPAN presents a wide range of programs from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+		<title>EKIBEN JAPAN</title>
+		<desc>Shimane's miso-stewed beef bento features beef simmered in naturally fermented miso and soy sauce with cooking sake, highlighting the Izumo region's koji culture. It pairs well with the quality rice!</desc>
 	</programme>
 	<programme channel="5157" start="20241030014500 +0000" stop="20241030015500 +0000">
 		<title>Magical Japanese</title>
@@ -6809,8 +6821,8 @@ Shen Yi joins the Criminal Investigation Department as a mock portrait artist an
 		<desc>This daily news program picks up the key news stories of the past 24 hours from Japan and around Asia.</desc>
 	</programme>
 	<programme channel="5157" start="20241030063000 +0000" stop="20241030064500 +0000">
-		<title>NHK WORLD-JAPAN Special program</title>
-		<desc>NHK WORLD-JAPAN presents a wide range of programs from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+		<title>EKIBEN JAPAN</title>
+		<desc>Shimane's miso-stewed beef bento features beef simmered in naturally fermented miso and soy sauce with cooking sake, highlighting the Izumo region's koji culture. It pairs well with the quality rice!</desc>
 	</programme>
 	<programme channel="5157" start="20241030064500 +0000" stop="20241030065500 +0000">
 		<title>Magical Japanese</title>
@@ -6901,8 +6913,8 @@ Shen Yi joins the Criminal Investigation Department as a mock portrait artist an
 		<desc>This program gives you comprehensive coverage of events in Japan and Asia. It explains the day's developments and what is behind them.</desc>
 	</programme>
 	<programme channel="5157" start="20241030123000 +0000" stop="20241030124500 +0000">
-		<title>NHK WORLD-JAPAN Special program</title>
-		<desc>NHK WORLD-JAPAN presents a wide range of programs from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+		<title>EKIBEN JAPAN</title>
+		<desc>Shimane's miso-stewed beef bento features beef simmered in naturally fermented miso and soy sauce with cooking sake, highlighting the Izumo region's koji culture. It pairs well with the quality rice!</desc>
 	</programme>
 	<programme channel="5157" start="20241030124500 +0000" stop="20241030125500 +0000">
 		<title>Magical Japanese</title>
@@ -25094,9 +25106,9 @@ Idealistic and passionate rookie lawyer Qing takes on the case of a death row pr
 		<title>拜倒石榴裙 / Forever Diamonds</title>
 		<desc>丁芝華綺年玉貌，衣著華麗，將偷回來的珠寶從香港偷運去星加坡。因鑽石不准進口，芝華情急智生，將戒指盒放進陌生男子張志賢衣袋，順利通過，但當出機場時卻不見志賢的蹤跡。芝華找遍星加坡每一角落，都找不到志賢。一日，芝華到泳場，竟巧遇志賢，她便用盡一切方法去接近志賢欲取回戒指…</desc>
 	</programme>
-	<programme channel="5580" start="20241030130000 +0000" stop="20241030150000 +0000">
-		<title>幪面大俠 / That Man In Chang-an</title>
-		<desc>漢高祖死後,呂后專權,密詔太尉設法殺死代王劉恆。幪面大俠發現其詭計後，馬上告知劉恆。劉於是急遣護衛保護公主往長安求援。太尉率大隊軍馬沿途追殺公主,幸得幪面大俠保護,處處化險為夷。最後，幪面大俠更助劉恆成功繼承漢室大統。</desc>
+	<programme channel="5580" start="20241030130000 +0000" stop="20241030145500 +0000">
+		<title>遊俠兒 / The Wandering Swordsman</title>
+		<desc>武功高強的遊俠兒遊戲人間，劫富濟貧，往往連自已的銀子都散給災民。一日，他遇上一班強盜，他們打算搶劫一個正在保運一批價值連城珍寶的護衛。最初他們欺騙遊和他們一起劫鏢，但後來被遊發現，誓要進行報復。</desc>
 	</programme>
 	<programme channel="5585" start="20241028143500 +0000" stop="20241028162000 +0000">
 		<title>千王斗千霸 / Challenge of the Gamesters</title>
@@ -28684,7 +28696,7 @@ Idealistic and passionate rookie lawyer Qing takes on the case of a death row pr
 	</programme>
 	<programme channel="5634" start="20241029143000 +0000" stop="20241029150000 +0000">
 		<title>Bigg Boss Tamil S08 Plus Episode 16</title>
-		<desc>Bigg Boss Tamil S08 Plus</desc>
+		<desc>Bigg Boss Tamil Season 8 starts with 18 diverse contestants for thrilling entertainment!</desc>
 	</programme>
 	<programme channel="5634" start="20241029150000 +0000" stop="20241029153000 +0000">
 		<title>Chinna Marumagal Panirendaam Vaguppu Episode 204</title>
@@ -28712,7 +28724,7 @@ Idealistic and passionate rookie lawyer Qing takes on the case of a death row pr
 	</programme>
 	<programme channel="5634" start="20241029183000 +0000" stop="20241029190000 +0000">
 		<title>Bigg Boss Tamil S08 Plus Episode 16</title>
-		<desc>Bigg Boss Tamil S08 Plus</desc>
+		<desc>Bigg Boss Tamil Season 8 starts with 18 diverse contestants for thrilling entertainment!</desc>
 	</programme>
 	<programme channel="5634" start="20241029190000 +0000" stop="20241029193000 +0000">
 		<title>Sakthivel - Theeyaai Oru Theeraakkaadhal Episode 278</title>
@@ -28772,7 +28784,7 @@ Idealistic and passionate rookie lawyer Qing takes on the case of a death row pr
 	</programme>
 	<programme channel="5634" start="20241030023000 +0000" stop="20241030030000 +0000">
 		<title>Bigg Boss Tamil S08 Plus Episode 16</title>
-		<desc>Bigg Boss Tamil S08 Plus</desc>
+		<desc>Bigg Boss Tamil Season 8 starts with 18 diverse contestants for thrilling entertainment!</desc>
 	</programme>
 	<programme channel="5634" start="20241030030000 +0000" stop="20241030043000 +0000">
 		<title>Start Music S05 Episode 21</title>
@@ -28856,7 +28868,7 @@ Idealistic and passionate rookie lawyer Qing takes on the case of a death row pr
 	</programme>
 	<programme channel="5634" start="20241030143000 +0000" stop="20241030150000 +0000">
 		<title>Bigg Boss Tamil S08 Plus Episode 17</title>
-		<desc>Bigg Boss Tamil S08 Plus</desc>
+		<desc>Bigg Boss Tamil Season 8 starts with 18 diverse contestants for thrilling entertainment!</desc>
 	</programme>
 	<programme channel="5634" start="20241030150000 +0000" stop="20241030153000 +0000">
 		<title>Chinna Marumagal Panirendaam Vaguppu Episode 205</title>
