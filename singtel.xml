@@ -3834,7 +3834,7 @@ Shen Yi joins the Criminal Investigation Department as a mock portrait artist an
 	</programme>
 	<programme channel="4102" start="20241031133000 +0000" stop="20241031140000 +0000">
 		<title>THE BIG INTERVIEW Episode 12</title>
-		<desc>Extended sit-downs and more informal 'out and about' interviews with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
+		<desc>Born into a football-loving family in Senegal, Pape Matar Sarr was destined for a life in the game. Despite being linked with Barcelona at a young age, Sarr made his name at Metz before joining Tottenham Hotspur. This week The Big Interview learns how those moves came about, how computer science has helped him understand his role on the pitch and how a passion for Formula 1 keeps him entertained off the pitch.</desc>
 	</programme>
 	<programme channel="4103" start="20241029160000 +0000" stop="20241029220000 +0000">
 		<title>End of Transmission</title>
@@ -4168,9 +4168,13 @@ Shen Yi joins the Criminal Investigation Department as a mock portrait artist an
 		<title>MotoGP eSports Championship 2024 - Global Series Episode 2</title>
 		<desc>The 2024 MotoGP eSports Championship Global Series bringing together 11 of the world's fastest gamers who were selected by MotoGP teams to compete across three intense rounds.</desc>
 	</programme>
-	<programme channel="6114" start="20241030190000 +0000" stop="20241031045000 +0000">
+	<programme channel="6114" start="20241030190000 +0000" stop="20241031042000 +0000">
 		<title>HSBC BWF WTS 750 VICTOR Denmark Open 2024 Episode 2</title>
 		<desc>The HSBC BWF World Tour attracts the world's elite badminton players in competing for prize money and world ranking points in 30 four-tiered tournaments, culminating in the World Tour Finals in December.</desc>
+	</programme>
+	<programme channel="6114" start="20241031042000 +0000" stop="20241031045000 +0000">
+		<title>FIA Pure Motorsport 2024 Episode 3</title>
+		<desc>Motorsport is broader than you think - have a deeper look to some of the FIA's most thrilling competitions.</desc>
 	</programme>
 	<programme channel="6114" start="20241031045000 +0000" stop="20241031100000 +0000">
 		<title>BDMNTN - XL 2024 (BXL) (Live)</title>
@@ -4218,7 +4222,7 @@ Shen Yi joins the Criminal Investigation Department as a mock portrait artist an
 	</programme>
 	<programme channel="6115" start="20241030040000 +0000" stop="20241030043000 +0000">
 		<title>MotoGP 2024 Spotlight Episode 2</title>
-		<desc>Takaaki Nakagami has officially announced his retirement from racing at the end of 2024 season. Nakagami is set to transition into a development role with Honda Racing Corporation starting in 2025</desc>
+		<desc>Jack Miller Special in Australia | Jack Miller Questions | In Conversation: Jorge Martin</desc>
 	</programme>
 	<programme channel="6115" start="20241030043000 +0000" stop="20241030064500 +0000">
 		<title>ISU World Figure Skating Grand Prix Halifax (CANADA)</title>
@@ -4265,7 +4269,7 @@ Shen Yi joins the Criminal Investigation Department as a mock portrait artist an
 		<desc>The world's elite singles and doubles table tennis players battle for a share of the US$2 million prize pool as well as 2000 world ranking points in Montpellier,France.</desc>
 	</programme>
 	<programme channel="6115" start="20241030233000 +0000" stop="20241031000800 +0000">
-		<title>Hyundai Archery World Cup Tlaxcala 2024 Recurved Final Episode 2</title>
+		<title>Hyundai Archery World Cup Tlaxcala 2024 Recurve Final Episode 2</title>
 		<desc>Consisting of three stages and a grand final, the annual Hyundai Archery World Cup features international elite compound and recurve archers shooting for the title of Hyundai Archery World Cup Champion.</desc>
 	</programme>
 	<programme channel="6115" start="20241031000800 +0000" stop="20241031030000 +0000">
@@ -4301,7 +4305,7 @@ Shen Yi joins the Criminal Investigation Department as a mock portrait artist an
 		<desc>Recap the action, behind-the-scenes and rider interviews at the MotoGP 2024 Grand Prix of Thailand Recap.</desc>
 	</programme>
 	<programme channel="6115" start="20241031113000 +0000" stop="20241031120000 +0000">
-		<title>MotoGP 2024 Spotlight</title>
+		<title>MotoGP 2024 Spotlight Episode 3</title>
 		<desc>Takaaki Nakagami has officially announced his retirement from racing at the end of 2024 season. Nakagami is set to transition into a development role with Honda Racing Corporation starting in 2025</desc>
 	</programme>
 	<programme channel="6115" start="20241031120000 +0000" stop="20241031143000 +0000">
@@ -4313,7 +4317,7 @@ Shen Yi joins the Criminal Investigation Department as a mock portrait artist an
 		<desc>Expect sheer emotion, state-of-the-art technology and incredible drama as elite athletes fly cutting-edge wingsailed catamarans in thrilling close-to-shore races in iconic venues across the globe.</desc>
 	</programme>
 	<programme channel="6115" start="20241031150000 +0000" stop="20241031153000 +0000">
-		<title>Hyundai Archery World Cup Tlaxcala 2024 Recurved Final Episode 3</title>
+		<title>Hyundai Archery World Cup Tlaxcala 2024 Recurve Final Episode 3</title>
 		<desc>Consisting of three stages and a grand final, the annual Hyundai Archery World Cup features international elite compound and recurve archers shooting for the title of Hyundai Archery World Cup Champion.</desc>
 	</programme>
 	<programme channel="6116" start="20241029144000 +0000" stop="20241029200000 +0000">
@@ -20577,7 +20581,7 @@ Idealistic and passionate rookie lawyer Qing takes on the case of a death row pr
 耶律贤一直在派人暗中观察着韩德让的行踪，并适时把韩德让的踪迹告诉了李思。
 韩德让思念着燕燕，一路走过二人共同走过的路，不觉间一路向幽州奔波而去。
 韩德让无意之中救下出来猎鹿的日连部落少族长阿孛合，受到邀请到部族暂住，部族艰苦的生活让韩德让更加切身体会到推行汉制给百姓带来安定生活的必要性，也更加理解了身上的责任。
-耶律贤和燕燕未有夫妻之实的事情在宫内宫外传得</desc>
+耶律贤和燕燕未有夫妻之实的事情在宫内宫外传得沸沸扬扬。耶律贤找机会不断影响燕燕，让燕燕逐步了解到耶律贤的政治抱负，更深刻理解了汉制改革对大辽的重要性 。</desc>
 	</programme>
 	<programme channel="5511" start="20241029210000 +0000" stop="20241029220000 +0000">
 		<title>流行都市 / Big City Shop 2024 Episode 216</title>
@@ -20691,7 +20695,7 @@ Idealistic and passionate rookie lawyer Qing takes on the case of a death row pr
 耶律贤一直在派人暗中观察着韩德让的行踪，并适时把韩德让的踪迹告诉了李思。
 韩德让思念着燕燕，一路走过二人共同走过的路，不觉间一路向幽州奔波而去。
 韩德让无意之中救下出来猎鹿的日连部落少族长阿孛合，受到邀请到部族暂住，部族艰苦的生活让韩德让更加切身体会到推行汉制给百姓带来安定生活的必要性，也更加理解了身上的责任。
-耶律贤和燕燕未有夫妻之实的事情在宫内宫外传得</desc>
+耶律贤和燕燕未有夫妻之实的事情在宫内宫外传得沸沸扬扬。耶律贤找机会不断影响燕燕，让燕燕逐步了解到耶律贤的政治抱负，更深刻理解了汉制改革对大辽的重要性 。</desc>
 	</programme>
 	<programme channel="5511" start="20241030103000 +0000" stop="20241030110500 +0000">
 		<title>六点半新闻报导 及 世界观 / News At 18:30 and Global View</title>
@@ -20767,7 +20771,7 @@ Idealistic and passionate rookie lawyer Qing takes on the case of a death row pr
 耶律贤一直在派人暗中观察着韩德让的行踪，并适时把韩德让的踪迹告诉了李思。
 韩德让思念着燕燕，一路走过二人共同走过的路，不觉间一路向幽州奔波而去。
 韩德让无意之中救下出来猎鹿的日连部落少族长阿孛合，受到邀请到部族暂住，部族艰苦的生活让韩德让更加切身体会到推行汉制给百姓带来安定生活的必要性，也更加理解了身上的责任。
-耶律贤和燕燕未有夫妻之实的事情在宫内宫外传得</desc>
+耶律贤和燕燕未有夫妻之实的事情在宫内宫外传得沸沸扬扬。耶律贤找机会不断影响燕燕，让燕燕逐步了解到耶律贤的政治抱负，更深刻理解了汉制改革对大辽的重要性 。</desc>
 	</programme>
 	<programme channel="5511" start="20241030210000 +0000" stop="20241030220000 +0000">
 		<title>流行都市 / Big City Shop 2024 Episode 217</title>
@@ -20881,7 +20885,7 @@ Idealistic and passionate rookie lawyer Qing takes on the case of a death row pr
 耶律贤一直在派人暗中观察着韩德让的行踪，并适时把韩德让的踪迹告诉了李思。
 韩德让思念着燕燕，一路走过二人共同走过的路，不觉间一路向幽州奔波而去。
 韩德让无意之中救下出来猎鹿的日连部落少族长阿孛合，受到邀请到部族暂住，部族艰苦的生活让韩德让更加切身体会到推行汉制给百姓带来安定生活的必要性，也更加理解了身上的责任。
-耶律贤和燕燕未有夫妻之实的事情在宫内宫外传得</desc>
+耶律贤和燕燕未有夫妻之实的事情在宫内宫外传得沸沸扬扬。耶律贤找机会不断影响燕燕，让燕燕逐步了解到耶律贤的政治抱负，更深刻理解了汉制改革对大辽的重要性 。</desc>
 	</programme>
 	<programme channel="5511" start="20241031103000 +0000" stop="20241031110500 +0000">
 		<title>六点半新闻报导 及 世界观 / News At 18:30 and Global View</title>
