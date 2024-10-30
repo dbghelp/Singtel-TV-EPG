@@ -1194,7 +1194,7 @@
 	</programme>
 	<programme channel="5004" start="20241030123000 +0000" stop="20241030130000 +0000">
 		<title>Detik Personaliti Episode 5</title>
-		<desc>A programme that profiles inspiring Singaporeans from within the Malay/Muslim and Singapore community.</desc>
+		<desc>Discover the deep bond of language and literature that unites writer couple Dr Noridah Kamari and Farihan Bahron. Immerse yourself in their journey through Singapore Malay literature.</desc>
 	</programme>
 	<programme channel="5004" start="20241030130000 +0000" stop="20241030133000 +0000">
 		<title>Air Tangan Episode 3</title>
@@ -4441,7 +4441,7 @@ Shen Yi joins the Criminal Investigation Department as a mock portrait artist an
 		<desc>Premiership Rugby Bath v Sale</desc>
 	</programme>
 	<programme channel="5118" start="20241029183000 +0000" stop="20241029190000 +0000">
-		<title>5 &amp; 6 Nations Classics 2010 - Wales v Scotland</title>
+		<title>5 &amp; 6 Nations Classics 2010 / Wales v Scotland</title>
 		<desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
 	</programme>
 	<programme channel="5118" start="20241029190000 +0000" stop="20241029210000 +0000">
@@ -4525,7 +4525,7 @@ Shen Yi joins the Criminal Investigation Department as a mock portrait artist an
 		<desc>The Glasgow Warriors are in South Africa again for this URC clash against the DHL Stormers at the Danie Craven Stadium.</desc>
 	</programme>
 	<programme channel="5118" start="20241030042000 +0000" stop="20241030045000 +0000">
-		<title>5 &amp; 6 Nations Classics 2007 - Ireland v France</title>
+		<title>5 &amp; 6 Nations Classics 2007 / Ireland v France</title>
 		<desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
 	</programme>
 	<programme channel="5118" start="20241030045000 +0000" stop="20241030064000 +0000">
@@ -4533,7 +4533,7 @@ Shen Yi joins the Criminal Investigation Department as a mock portrait artist an
 		<desc>The Ospreys and Edinburgh meet at Dunraven Brewery Field for this URC game.</desc>
 	</programme>
 	<programme channel="5118" start="20241030064000 +0000" stop="20241030071000 +0000">
-		<title>5 &amp; 6 Nations Classics 2003 - Ireland v England</title>
+		<title>5 &amp; 6 Nations Classics 2003 / Ireland v England</title>
 		<desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
 	</programme>
 	<programme channel="5118" start="20241030071000 +0000" stop="20241030091000 +0000">
@@ -4581,7 +4581,7 @@ Shen Yi joins the Criminal Investigation Department as a mock portrait artist an
 		<desc>The Brave Blossoms face the All Blacks in the eighth test match played between the two teams since their first encounter in Osaka, back in 1987.</desc>
 	</programme>
 	<programme channel="5118" start="20241030141000 +0000" stop="20241030144000 +0000">
-		<title>5 &amp; 6 Nations Classics 2001 - Wales v England</title>
+		<title>5 &amp; 6 Nations Classics 2001 / Wales v England</title>
 		<desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
 	</programme>
 	<programme channel="5118" start="20241030144000 +0000" stop="20241030144000 +0000">
@@ -4704,13 +4704,21 @@ Shen Yi joins the Criminal Investigation Department as a mock portrait artist an
 		<title>Australia Tour of England 2024 Highlights: Eng v Aus 1st T20 Episode 943440</title>
 		<desc>Australia Tour of England 2024 Highlights: Eng v Aus 1st T20</desc>
 	</programme>
-	<programme channel="5123" start="20241030043000 +0000" stop="20241030113000 +0000">
+	<programme channel="5123" start="20241030043000 +0000" stop="20241030112500 +0000">
 		<title>West Indies Tour of England 2024: Eng vs W.I 2nd Test Day 2 Episode 912922</title>
 		<desc>West Indies Tour of England 2024: Eng vs W.I 2nd Test Day 2</desc>
 	</programme>
-	<programme channel="5123" start="20241030113000 +0000" stop="20241030125500 +0000">
-		<title>West Indies Tour of England 2024: Eng vs W.I 3rd Test Day 3 Episode 917785</title>
-		<desc>West Indies Tour of England 2024: Eng vs W.I 3rd Test Day 3</desc>
+	<programme channel="5123" start="20241030112500 +0000" stop="20241030122500 +0000">
+		<title>Australia Tour of England 2024 Highlights: Eng v Aus 1st ODI Episode 943443</title>
+		<desc>Australia Tour of England 2024 Highlights: Eng v Aus 1st ODI</desc>
+	</programme>
+	<programme channel="5123" start="20241030122500 +0000" stop="20241030125500 +0000">
+		<title>Australia Tour of England 2024 Highlights: Eng v Aus 1st T20 Episode 943440</title>
+		<desc>Australia Tour of England 2024 Highlights: Eng v Aus 1st T20</desc>
+	</programme>
+	<programme channel="5123" start="20241030125500 +0000" stop="20241030125500 +0000">
+		<title>Super 50 Cup 2024: Barbados Pride vs Jamaica Scorpions (Live) Episode 960379</title>
+		<desc>Super 50 Cup 2024: Barbados Pride vs Jamaica Scorpions (Live)</desc>
 	</programme>
 	<programme channel="5123" start="20241030125500 +0000" stop="20241030210000 +0000">
 		<title>Super 50 Cup 2024: Barbados Pride vs Jamaica Scorpions (Live) Episode 960379</title>
@@ -4973,11 +4981,11 @@ Shen Yi joins the Criminal Investigation Department as a mock portrait artist an
 		<desc>ATP Tour 1000 2024</desc>
 	</programme>
 	<programme channel="6127" start="20241030013000 +0000" stop="20241030030000 +0000">
-		<title>ATP Tour 1000 2024: Paris Day 2 Match 2 Episode 346</title>
+		<title>ATP Tour 1000 2024: Paris Day 2 Tiafoe v Mpetshi Perricard Episode 346</title>
 		<desc>ATP Tour 1000 2024</desc>
 	</programme>
 	<programme channel="6127" start="20241030030000 +0000" stop="20241030043000 +0000">
-		<title>ATP Tour 1000 2024: Paris Day 2 Match 3 Episode 347</title>
+		<title>ATP Tour 1000 2024: Paris Day 2 Gasquet v Bergs Episode 347</title>
 		<desc>ATP Tour 1000 2024</desc>
 	</programme>
 	<programme channel="6127" start="20241030043000 +0000" stop="20241030050000 +0000">
@@ -4985,15 +4993,15 @@ Shen Yi joins the Criminal Investigation Department as a mock portrait artist an
 		<desc>ATP Tour: This Week 2024</desc>
 	</programme>
 	<programme channel="6127" start="20241030050000 +0000" stop="20241030063000 +0000">
-		<title>ATP Tour 1000 2024: Paris Day 2 Match 4 Episode 348</title>
+		<title>ATP Tour 1000 2024: Paris Day 2 Cilic v Fils Episode 345</title>
 		<desc>ATP Tour 1000 2024</desc>
 	</programme>
 	<programme channel="6127" start="20241030063000 +0000" stop="20241030080000 +0000">
-		<title>ATP Tour 1000 2024: Paris Day 2 Match 5 Episode 349</title>
+		<title>ATP Tour 1000 2024: Paris Day 2 Alcaraz v Jarry Episode 349</title>
 		<desc>ATP Tour 1000 2024</desc>
 	</programme>
 	<programme channel="6127" start="20241030080000 +0000" stop="20241030093000 +0000">
-		<title>ATP Tour 1000 2024: Paris Day 2 Match 6 Episode 350</title>
+		<title>ATP Tour 1000 2024: Paris Day 2 Thompson v Ruud Episode 350</title>
 		<desc>ATP Tour 1000 2024</desc>
 	</programme>
 	<programme channel="6127" start="20241030093000 +0000" stop="20241030100000 +0000">
@@ -5001,15 +5009,15 @@ Shen Yi joins the Criminal Investigation Department as a mock portrait artist an
 		<desc>ATP Tour: This Week 2024</desc>
 	</programme>
 	<programme channel="6127" start="20241030100000 +0000" stop="20241030120000 +0000">
-		<title>ATP Tour 1000 2024: Paris Day 3 Match 1 (Live) Episode 351</title>
+		<title>ATP Tour 1000 2024: Paris Day 3 Medvedev v Popyrin (Live) Episode 351</title>
 		<desc>ATP Tour 1000 2024</desc>
 	</programme>
 	<programme channel="6127" start="20241030120000 +0000" stop="20241030140000 +0000">
-		<title>ATP Tour 1000 2024: Paris Day 3 Match 2 (Live) Episode 352</title>
+		<title>ATP Tour 1000 2024: Paris Day 3 Fils v Struff (Live) Episode 352</title>
 		<desc>ATP Tour 1000 2024</desc>
 	</programme>
 	<programme channel="6127" start="20241030140000 +0000" stop="20241030160000 +0000">
-		<title>ATP Tour 1000 2024: Paris Day 3 Match 3 (Live) Episode 353</title>
+		<title>ATP Tour 1000 2024: Paris Day 3 Khachanov v Mpetshi Perricard (Live) Episode 353</title>
 		<desc>ATP Tour 1000 2024</desc>
 	</programme>
 	<programme channel="6127" start="20241030160000 +0000" stop="20241030180000 +0000">
@@ -8446,7 +8454,7 @@ Shen Yi joins the Criminal Investigation Department as a mock portrait artist an
 	</programme>
 	<programme channel="6166" start="20241030003000 +0000" stop="20241030010000 +0000">
 		<title>HARDtalk</title>
-		<desc>In-depth interviews with the world's leading politicians, opinion-formers and key figures from culture, business and sport.</desc>
+		<desc>Stephen Sackur talks to Diane Foley whose son James was kidnapped by the so-called Islamic state and murdered in 2014.</desc>
 	</programme>
 	<programme channel="6166" start="20241030010000 +0000" stop="20241030013000 +0000">
 		<title>BBC News</title>
@@ -8526,7 +8534,7 @@ Shen Yi joins the Criminal Investigation Department as a mock portrait artist an
 	</programme>
 	<programme channel="6166" start="20241030083000 +0000" stop="20241030090000 +0000">
 		<title>Talking Business (r)</title>
-		<desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+		<desc>The music industry is a multi-billion-dollar powerhouse that has continuously adapted to technological advancements. But could AI pose a threat to the very sound the industry is built on?</desc>
 	</programme>
 	<programme channel="6166" start="20241030090000 +0000" stop="20241030093000 +0000">
 		<title>BBC News</title>
@@ -8542,7 +8550,7 @@ Shen Yi joins the Criminal Investigation Department as a mock portrait artist an
 	</programme>
 	<programme channel="6166" start="20241030103000 +0000" stop="20241030110000 +0000">
 		<title>HARDtalk (r)</title>
-		<desc>In-depth interviews with the world's leading politicians, opinion-formers and key figures from culture, business and sport.</desc>
+		<desc>Stephen Sackur talks to Diane Foley whose son James was kidnapped by the so-called Islamic state and murdered in 2014.</desc>
 	</programme>
 	<programme channel="6166" start="20241030110000 +0000" stop="20241030113000 +0000">
 		<title>BBC News</title>
@@ -26492,16 +26500,16 @@ Idealistic and passionate rookie lawyer Qing takes on the case of a death row pr
 		<desc>Unfortunate events force an ambitious Eashwari and a school dropout Azhagar to tie the knot. Can this odd couple turn their marriage into a happily ever after? Will Eashwari realize her IPS dream amidst life's many hardships?</desc>
 	</programme>
 	<programme channel="5622" start="20241030073000 +0000" stop="20241030080000 +0000">
-		<title>Movie - MARUTHA</title>
-		<desc>Unable to return her brother's monetary favour, Meenakshi's husband ends his life. When her brother's wife expects her to repay the money, Meenakshi sees it as a chance to reclaim her lost honour.</desc>
+		<title>Movie - A1</title>
+		<desc>Divya aspires to marry a thug from a different caste and soon finds what she is looking for in Saravanan. However, problems emerge when she finds out that her dream man is not what he claims to be.</desc>
 	</programme>
 	<programme channel="5622" start="20241030080000 +0000" stop="20241030083000 +0000">
 		<title>News</title>
 		<desc>This news programme chronicles the latest events, developments, inventions, discoveries and happenings around the world.</desc>
 	</programme>
 	<programme channel="5622" start="20241030083000 +0000" stop="20241030103000 +0000">
-		<title>Movie Contd - MARUTHA</title>
-		<desc>Unable to return her brother's monetary favour, Meenakshi's husband ends his life. When her brother's wife expects her to repay the money, Meenakshi sees it as a chance to reclaim her lost honour.</desc>
+		<title>Movie Contd - A1</title>
+		<desc>Divya aspires to marry a thug from a different caste and soon finds what she is looking for in Saravanan. However, problems emerge when she finds out that her dream man is not what he claims to be.</desc>
 	</programme>
 	<programme channel="5622" start="20241030103000 +0000" stop="20241030110000 +0000">
 		<title>RAMAYANAM</title>
@@ -26544,8 +26552,8 @@ Idealistic and passionate rookie lawyer Qing takes on the case of a death row pr
 		<desc>Anjali and Vicky are two different individuals who approaches life differently, they both meet each other at a point where completely interesting lead begins.</desc>
 	</programme>
 	<programme channel="5622" start="20241030153000 +0000" stop="20241030160000 +0000">
-		<title>Malar - Serial</title>
-		<desc>Though not siblings by birth, Parvathi means the world to her warm-hearted sister Malar. While Malar's ultimate wish is to find the perfect life partner &amp; a happily-ever-after life for Paravathi, what is destiny's plan for them?</desc>
+		<title>Movie - GULEBHAGAVALI</title>
+		<desc>A businessperson sends three thieves to find the hidden treasure in a village named Gulaebaghavali. A fourth criminal enters the gang midway, and they plan to divide the loot among themselves.</desc>
 	</programme>
 	<programme channel="5622" start="20241030160000 +0000" stop="20241030180000 +0000">
 		<title>Movie Contd - GULEBHAGAVALI</title>
@@ -28791,23 +28799,27 @@ Idealistic and passionate rookie lawyer Qing takes on the case of a death row pr
 		<title>Chirikkum Thalika</title>
 		<desc>A compilation of some of the best comedy scenes from Malayalam movies.</desc>
 	</programme>
-	<programme channel="5639" start="20241030013000 +0000" stop="20241030043000 +0000">
+	<programme channel="5639" start="20241030013000 +0000" stop="20241030015000 +0000">
+		<title>Filler: Chirikkum Thalika</title>
+		<desc>Filler Segment</desc>
+	</programme>
+	<programme channel="5639" start="20241030015000 +0000" stop="20241030044000 +0000">
 		<title>One</title>
 		<desc>A politician's ideologies are tested when allegations are levelled against him. Release Year: 2021 Director: Santhosh Viswanath</desc>
 	</programme>
-	<programme channel="5639" start="20241030043000 +0000" stop="20241030073000 +0000">
+	<programme channel="5639" start="20241030044000 +0000" stop="20241030073500 +0000">
 		<title>Kumbalangi Nights</title>
 		<desc>Saji, Bonny, Bobby and Francy are siblings who mostly do not get along. However, a series of events forces them to keep their animosity aside and support each other. Release Year: 2019 Director: Madhu C. Narayanan</desc>
 	</programme>
-	<programme channel="5639" start="20241030073000 +0000" stop="20241030103000 +0000">
+	<programme channel="5639" start="20241030073500 +0000" stop="20241030103000 +0000">
 		<title>Thrissur Pooram</title>
 		<desc>Pullu Giri wants a peaceful life but gets dragged back into the web of crime. Release Year: 2019 Director: Rajesh Mohan</desc>
 	</programme>
-	<programme channel="5639" start="20241030103000 +0000" stop="20241030133000 +0000">
+	<programme channel="5639" start="20241030103000 +0000" stop="20241030133500 +0000">
 		<title>Kilichundan Mambazham</title>
 		<desc>Haji marries despite his 2 wives' objection. His new wife's in love with Abdul. Release Year: 2003 Director: Priyadarshan</desc>
 	</programme>
-	<programme channel="5639" start="20241030133000 +0000" stop="20241030133500 +0000">
+	<programme channel="5639" start="20241030133500 +0000" stop="20241030133500 +0000">
 		<title>Karyasthan</title>
 		<desc>While settling a dispute between 2 families, Krishna falls in love with Sribala. Release Year: 2010 Director: Thomson K. Thomas</desc>
 	</programme>
