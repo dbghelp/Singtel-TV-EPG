@@ -4,6 +4,8 @@
 
 This repository contains the XML EPG (Electronic Program Guide) for Singtel TV channels. The EPG provides a schedule of the current and upcoming TV programs, enabling users to easily see what's on and plan their viewing.
 
+Preview: https://dbghelp.github.io/epg.html?file=https://raw.githubusercontent.com/dbghelp/Singtel-TV-EPG/refs/heads/main/singtel.xml
+
 ## Features
 
 - XML formatted EPG for Singtel TV channels
