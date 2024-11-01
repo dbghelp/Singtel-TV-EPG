@@ -1094,7 +1094,7 @@
 	</programme>
 	<programme channel="5003" start="20241102033000 +0000" stop="20241102040000 +0000">
 		<title>焦点 Episode 27</title>
-		<desc>《焦点》追踪国际时事，实地报道区域课题，以新加坡的视角分析时局发展的前因后果和潜在影响。</desc>
+		<desc>美国总统选举在即，民调显示候选人哈里斯和特朗普支持率相近。选前民调是否能准确反映实况？日本执政的自民党在众议院选举中没能保住过半议席，日本政坛是否进入多事之秋？</desc>
 	</programme>
 	<programme channel="5003" start="20241102040000 +0000" stop="20241102050000 +0000">
 		<title>小岛国 大发现 Episode 5</title>
@@ -1193,8 +1193,8 @@
 		<desc>To help the children of beggars in Sandakan continue with their studies, Adam sacrifices his dream of adventure as he builds a "Sekolah Sampah" for the sake of educating children in a garbage dump.</desc>
 	</programme>
 	<programme channel="5004" start="20241031220000 +0000" stop="20241031230000 +0000">
-		<title>End of Transmission</title>
-		<desc>End of Transmission</desc>
+		<title>Kisah Tok Kadi</title>
+		<desc>Kisah Tok Kadi (Tok Kadi's Story)This is a light hearted drama series that revolves around the life of a young popular 'tok kadi' Shahrul who successfully conducts solemnization for couples each week. In each episode Kisah Tok Kadi shows some of the unique experiences that he faces.</desc>
 	</programme>
 	<programme channel="5004" start="20241031230000 +0000" stop="20241101000000 +0000">
 		<title>Kisah Tok Kadi Episode 2</title>
@@ -1234,7 +1234,7 @@
 	</programme>
 	<programme channel="5004" start="20241101070000 +0000" stop="20241101080000 +0000">
 		<title>Detik Dialog Episode 2</title>
-		<desc>Forum-styled discussion with experts on issues pertaining to economic, social, political and educational issues that affects the Malay/Muslim community and Singaporeans.</desc>
+		<desc>Dr Muhammad Ariff Ahmad is a Singaporean literary and cultural figure. Better known by his pen name, MAS, the late Allahyarham was a figure who contributed a lot to Singapore and the Malay community. This year in conjunction with commemorating the contribution of Dr Muhammad Ariff Ahmad Detik Dialog held a discussion on the topic of can the struggle to preserve the Malay language and culture continue?</desc>
 	</programme>
 	<programme channel="5004" start="20241101080000 +0000" stop="20241101090000 +0000">
 		<title>Suri Hati Episode 6</title>
@@ -1301,8 +1301,8 @@
 		<desc>Shahrul and Humairah have now been married for 3 months. The couple learn to adjust to their new roles, balancing each other's and family's expectations. At work, Shahrul conducts a special wedding between a hearing-impaired groom and a bride who faces family's objections to the union.</desc>
 	</programme>
 	<programme channel="5004" start="20241101220000 +0000" stop="20241101230000 +0000">
-		<title>Kisah Tok Kadi 2 Episode 2</title>
-		<desc>Kamil goes for his first understudy solemnization with Shahrul. At the ceremony, Kamil meets Ainah, an extroverted wedding planner, who finds him adorable. At work, a Vietnamese groom seeks Shahrul's help to solemnize his wedding.</desc>
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
 	</programme>
 	<programme channel="5004" start="20241101230000 +0000" stop="20241102000000 +0000">
 		<title>Kisah Tok Kadi 2 Episode 3</title>
@@ -1473,8 +1473,8 @@
 		<desc>Kundali is a comedy movie starring Soham Shah, Manshi Joshi, Harish Bhatt, Karan Rajveer, and RJ harsh Bhatariya. The movie is Directed &amp; Produced by Harish Bhatt.</desc>
 	</programme>
 	<programme channel="5005" start="20241101230000 +0000" stop="20241101233000 +0000">
-		<title>Ungalukkaga Paadalgal Episode 46</title>
-		<desc>Sit back and relax as we bring to you popular Kollywood songs!</desc>
+		<title>End of Transmission</title>
+		<desc>End of Transmission</desc>
 	</programme>
 	<programme channel="5005" start="20241101233000 +0000" stop="20241102000000 +0000">
 		<title>Ungalukkaga Paadalgal Episode 24</title>
@@ -1762,7 +1762,7 @@
 	</programme>
 	<programme channel="5006" start="20241102123000 +0000" stop="20241102130000 +0000">
 		<title>Money Mind Episode 27</title>
-		<desc>Money Mind is all about how to save, how to invest, and how to better spend your money. Your weekly personal finance tips to help you make all the right money moves in Asia. Because, personal finance matters.</desc>
+		<desc>Strategies for riding out volatility into the new year. A young adult's guide to picking their first credit cards. Plus, why young people in China are checking into retirement villages.</desc>
 	</programme>
 	<programme channel="5006" start="20241102130000 +0000" stop="20241102130200 +0000">
 		<title>Headline News Episode 1005</title>
@@ -1778,7 +1778,7 @@
 	</programme>
 	<programme channel="5006" start="20241102143000 +0000" stop="20241102150000 +0000">
 		<title>On The Red Dot Episode 23</title>
-		<desc>On The Red Dot offers weekly in-depth analysis and discussion on key issues and events that matter to Singaporeans.</desc>
+		<desc>In Seville, a Singaporean dancer and arts producer is making a name for herself in the flamenco industry.</desc>
 	</programme>
 	<programme channel="5006" start="20241102150000 +0000" stop="20241102150300 +0000">
 		<title>Headline News Episode 1006</title>
@@ -4390,7 +4390,7 @@ Xiao Wuxia, the young lord of Moonfall City, endures humiliation and infiltrates
 		<title>2024 BWF Badminton Unlimited</title>
 		<desc>Catch up on all the latest news and information from the world of badminton.</desc>
 	</programme>
-	<programme channel="6115" start="20241031153000 +0000" stop="20241031174500 +0000">
+	<programme channel="6115" start="20241031153500 +0000" stop="20241031174500 +0000">
 		<title>2024 GTOUR Mixed Cup 2nd Tournament Oligio</title>
 		<desc>Launched in 2012, the Golfzon GTOUR is a series of professional men's and women's screen golf tournaments in South Korea.</desc>
 	</programme>
@@ -5439,8 +5439,16 @@ Xiao Wuxia, the young lord of Moonfall City, endures humiliation and infiltrates
 		<desc>Closed</desc>
 	</programme>
 	<programme channel="5127" start="20241101220000 +0000" stop="20241102100000 +0000">
+		<title>Closed Episode 101231</title>
+		<desc>Closed</desc>
+	</programme>
+	<programme channel="5127" start="20241102100000 +0000" stop="20241102125500 +0000">
 		<title>Closed Episode 101232</title>
 		<desc>Closed</desc>
+	</programme>
+	<programme channel="5127" start="20241102125500 +0000" stop="20241102150500 +0000">
+		<title>La Liga 24-25: Osasuna vs Valladolid (Live) Episode 961355</title>
+		<desc>La Liga 24-25: Osasuna vs Valladolid (Live)</desc>
 	</programme>
 	<programme channel="5128" start="20241031100000 +0000" stop="20241031220000 +0000">
 		<title>Closed Episode 101232</title>
@@ -6515,8 +6523,8 @@ Xiao Wuxia, the young lord of Moonfall City, endures humiliation and infiltrates
 		<desc>Reporting the latest business, finance and economic news, with added analysis from studio guests.</desc>
 	</programme>
 	<programme channel="5157" start="20241101082300 +0000" stop="20241101083000 +0000">
-		<title>Chatroom Japan</title>
-		<desc>All moms need some "me time." That's why one forward-thinking woman in Kyoto established Mamo Heart, a space for mothers to not only relax, but also get their own business ideas off the ground.</desc>
+		<title>Chatroom Japan #9</title>
+		<desc>Greg Dvorak and Ono Kenji say Japan is preventing them from fulfilling something essential for their long-term happiness. They want the country to legalize same-sex marriage.</desc>
 	</programme>
 	<programme channel="5157" start="20241101083000 +0000" stop="20241101090000 +0000">
 		<title>Document 72 hours</title>
@@ -6723,8 +6731,8 @@ Xiao Wuxia, the young lord of Moonfall City, endures humiliation and infiltrates
 		<desc>NHK WORLD-JAPAN's flagship hourly news program delivers the latest world news, business and weather, with a focus on Japan and the rest of Asia.</desc>
 	</programme>
 	<programme channel="5157" start="20241101231000 +0000" stop="20241101231500 +0000">
-		<title>Chatroom Japan</title>
-		<desc>All moms need some "me time." That's why one forward-thinking woman in Kyoto established Mamo Heart, a space for mothers to not only relax, but also get their own business ideas off the ground.</desc>
+		<title>Chatroom Japan #9</title>
+		<desc>Greg Dvorak and Ono Kenji say Japan is preventing them from fulfilling something essential for their long-term happiness. They want the country to legalize same-sex marriage.</desc>
 	</programme>
 	<programme channel="5157" start="20241101231500 +0000" stop="20241101232000 +0000">
 		<title>no art, no life</title>
@@ -6924,7 +6932,7 @@ Xiao Wuxia, the young lord of Moonfall City, endures humiliation and infiltrates
 	</programme>
 	<programme channel="5157" start="20241102141000 +0000" stop="20241102144000 +0000">
 		<title>BIZ STREAM</title>
-		<desc>This upbeat program combines business and economic news with in-depth feature stories that give you a closer look at the latest trends within Japan and around the world.</desc>
+		<desc>This episode features businesses that have come up with unique ways of finding new homes for unhoused animals.</desc>
 	</programme>
 	<programme channel="5157" start="20241102144000 +0000" stop="20241102145000 +0000">
 		<title>Viewpoint Science</title>
@@ -9010,29 +9018,29 @@ Xiao Wuxia, the young lord of Moonfall City, endures humiliation and infiltrates
 		<title>Laura Coates Live: Thursday, October 31, 2024 11 PM</title>
 		<desc>Laura Coates goes inside the story with a relentless pursuit of the facts.</desc>
 	</programme>
-	<programme channel="5167" start="20241101040000 +0000" stop="20241101044500 +0000">
+	<programme channel="5167" start="20241101040000 +0000" stop="20241101050000 +0000">
 		<title>CNN Newsroom: Friday, November 1, 2024 12am ET</title>
 		<desc>Live context and clarity to the day's top stories from around the world.</desc>
 	</programme>
-	<programme channel="5167" start="20241101044500 +0000" stop="20241101050000 +0000">
-		<title>World Sport: Friday, November 1, 2024 1245am ET</title>
-		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
-	</programme>
-	<programme channel="5167" start="20241101050000 +0000" stop="20241101060000 +0000">
+	<programme channel="5167" start="20241101050000 +0000" stop="20241101054500 +0000">
 		<title>CNN Newsroom: Friday, November 1, 2024 1am ET</title>
 		<desc>Live context and clarity to the day's top stories from around the world.</desc>
 	</programme>
-	<programme channel="5167" start="20241101060000 +0000" stop="20241101064500 +0000">
-		<title>CNN Newsroom: Friday, November 1, 2024 2am ET</title>
-		<desc>Live context and clarity to the day's top stories from around the world.</desc>
-	</programme>
-	<programme channel="5167" start="20241101064500 +0000" stop="20241101070000 +0000">
+	<programme channel="5167" start="20241101054500 +0000" stop="20241101060000 +0000">
 		<title>World Sport: Friday, November 1, 2024 1245am ET</title>
 		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
 	</programme>
-	<programme channel="5167" start="20241101070000 +0000" stop="20241101080000 +0000">
+	<programme channel="5167" start="20241101060000 +0000" stop="20241101070000 +0000">
+		<title>CNN Newsroom: Friday, November 1, 2024 2am ET</title>
+		<desc>Live context and clarity to the day's top stories from around the world.</desc>
+	</programme>
+	<programme channel="5167" start="20241101070000 +0000" stop="20241101074500 +0000">
 		<title>CNN Newsroom: Friday, November 1, 2024 3am ET</title>
 		<desc>Live context and clarity to the day's top stories from around the world.</desc>
+	</programme>
+	<programme channel="5167" start="20241101074500 +0000" stop="20241101080000 +0000">
+		<title>World Sport: Friday, November 1, 2024 1245am ET</title>
+		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
 	</programme>
 	<programme channel="5167" start="20241101080000 +0000" stop="20241101090000 +0000">
 		<title>CNN Newsroom: Friday, November 1, 2024 4am ET</title>
@@ -9214,9 +9222,13 @@ Xiao Wuxia, the young lord of Moonfall City, endures humiliation and infiltrates
 		<title>Bloomberg: Balance of Power</title>
 		<desc>Bloomberg: Balance of Power focuses on the politics and policies being shaped by the agenda of President Biden's administration.</desc>
 	</programme>
-	<programme channel="5171" start="20241031220000 +0000" stop="20241031230000 +0000">
-		<title>The Invisible Shield</title>
-		<desc>The New Playbook. With all the challenges the public health sector faces, how will a committed next generation of public health workers going overcome these obstacles?</desc>
+	<programme channel="5171" start="20241031220000 +0000" stop="20241031223000 +0000">
+		<title>Bloomberg Technology</title>
+		<desc>The only daily news programme focused exclusively on technology, innovation and the future of business. Hosted by Ed Ludlow from San Francisco and Caroline Hyde in New York.</desc>
+	</programme>
+	<programme channel="5171" start="20241031223000 +0000" stop="20241031230000 +0000">
+		<title>Bloomberg Screentime: Defining the Next Phase of Pop Culture</title>
+		<desc>Screentime gathers the moguls, celebrities, and entrepreneurs defining the next phase of pop culture, including Michael Rapino, Clara Wu Tsai, Brian Roberts, Bela Bajaria and Snoop Dogg.</desc>
 	</programme>
 	<programme channel="5171" start="20241031230000 +0000" stop="20241101010000 +0000">
 		<title>Bloomberg The Asia Trade</title>
@@ -9262,145 +9274,141 @@ Xiao Wuxia, the young lord of Moonfall City, endures humiliation and infiltrates
 		<title>Bloomberg Technology</title>
 		<desc>The only daily news programme focused exclusively on technology, innovation and the future of business. Hosted by Ed Ludlow from San Francisco and Caroline Hyde in New York.</desc>
 	</programme>
-	<programme channel="5171" start="20241101160000 +0000" stop="20241101170000 +0000">
-		<title>Bloomberg Markets: European Close</title>
-		<desc>Analysing the major market moving stories across the day in Europe, hearing from the biggest newsmakers, and showcasing the unrivalled expertise of Bloomberg News.</desc>
+	<programme channel="5171" start="20241101160000 +0000" stop="20241101163000 +0000">
+		<title>Bloomberg Real Yield</title>
+		<desc>Focusing on global issues and events that directly affect debt markets. Host Jonathan Ferro discusses stories from the fixed income world with the biggest names in the field.</desc>
+	</programme>
+	<programme channel="5171" start="20241101163000 +0000" stop="20241101170000 +0000">
+		<title>Bloomberg Markets</title>
+		<desc>Bloomberg Markets is focused on bringing you the most important global business and breaking markets news and information as it happens.</desc>
 	</programme>
 	<programme channel="5171" start="20241101170000 +0000" stop="20241101180000 +0000">
 		<title>Bloomberg: Balance of Power</title>
 		<desc>Bloomberg: Balance of Power focuses on the politics and policies being shaped by the agenda of President Biden's administration.</desc>
 	</programme>
-	<programme channel="5171" start="20241101180000 +0000" stop="20241101183000 +0000">
-		<title>Bloomberg Real Yield</title>
-		<desc>Focusing on global issues and events that directly affect debt markets. Host Jonathan Ferro discusses stories from the fixed income world with the biggest names in the field.</desc>
+	<programme channel="5171" start="20241101180000 +0000" stop="20241101190000 +0000">
+		<title>Bloomberg BusinessWeek</title>
+		<desc>Carol Massar and Tim Stenovec bring together the latest news from the world of business and finance by harnessing the power of Bloomberg Businessweek reporters and editors.</desc>
 	</programme>
-	<programme channel="5171" start="20241101183000 +0000" stop="20241101190000 +0000">
-		<title>Bloomberg Markets</title>
-		<desc>Bloomberg Markets is focused on bringing you the most important global business and breaking markets news and information as it happens.</desc>
+	<programme channel="5171" start="20241101190000 +0000" stop="20241101210000 +0000">
+		<title>Bloomberg The Close</title>
+		<desc>Alix Steel, Romaine Bostick and Scarlet Fu own the market-moving breaking news around the closing bell in this must-watch daily program to get an edge on equities, earnings and the economy.</desc>
 	</programme>
-	<programme channel="5171" start="20241101190000 +0000" stop="20241101213000 +0000">
-		<title>Bloomberg Markets: The Close</title>
-		<desc>Romaine Bostick, Alix Steel and Scarlet Fu break down the day's top stories and trading action around the close.</desc>
-	</programme>
-	<programme channel="5171" start="20241101213000 +0000" stop="20241101220000 +0000">
-		<title>Bloomberg Markets: What'd You Miss?</title>
-		<desc>Bloomberg TV's flagship markets programme, providing key insights, analysis and context at the market close. It's a highly intelligent look at the markets that misses nothing.</desc>
+	<programme channel="5171" start="20241101210000 +0000" stop="20241101220000 +0000">
+		<title>Bloomberg: Balance of Power</title>
+		<desc>Bloomberg: Balance of Power focuses on the politics and policies being shaped by the agenda of President Biden's administration.</desc>
 	</programme>
 	<programme channel="5171" start="20241101220000 +0000" stop="20241101230000 +0000">
-		<title>Bloomberg Technology</title>
-		<desc>The only daily news programme focused exclusively on technology, innovation and the future of business. Hosted by Ed Ludlow from San Francisco and Caroline Hyde in New York.</desc>
-	</programme>
-	<programme channel="5171" start="20241101230000 +0000" stop="20241102000000 +0000">
 		<title>Bloomberg Wall Street Week</title>
-		<desc>David Westin speaks with top names in finance about the week's biggest issues on Wall Street.</desc>
+		<desc>A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York.</desc>
+	</programme>
+	<programme channel="5171" start="20241101230000 +0000" stop="20241101233000 +0000">
+		<title>The Circuit</title>
+		<desc>Emily Chang meets Anduril founder Palmer Luckey for a closer look at his defence tech startup's autonomous fleet and software operations.</desc>
+	</programme>
+	<programme channel="5171" start="20241101233000 +0000" stop="20241102000000 +0000">
+		<title>Momentum</title>
+		<desc>Join Haslinda Amin as she explores the way robots and AI are integrated into Japanese life. From drones managing crops to unmanned harvesters, see how it's paving the way to a more efficient future.</desc>
 	</programme>
 	<programme channel="5171" start="20241102000000 +0000" stop="20241102003000 +0000">
 		<title>Leaders with Lacqua</title>
-		<desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
+		<desc>Brookfield CEO Bruce Flatt. Bruce Flatt speaks to Francine about the secrets of his success, the outlook for commercial real estate, and his own future.</desc>
 	</programme>
 	<programme channel="5171" start="20241102003000 +0000" stop="20241102010000 +0000">
-		<title>Athlete | Empire: Alex Rodriguez</title>
-		<desc>Former baseball pro Alex Rodriguez quietly built a real estate empire over 20 years. Now, after retiring from baseball, he's accelerating his transformation from former athlete to investor and owner.</desc>
+		<title>Leaders with Lacqua</title>
+		<desc>Emma Grede, Good American CEO and Co-Founder. British entrepreneur Emma Grede discusses her rise to the top, how she measures success, and why diversity remains elusive in the world of fashion.</desc>
 	</programme>
 	<programme channel="5171" start="20241102010000 +0000" stop="20241102013000 +0000">
-		<title>Bloomberg Studio 1.0</title>
-		<desc>Roblox CEO &amp; Co-Founder David Baszucki. Bloomberg talks to David Baszucki about the success of the online gaming platform, Roblox.</desc>
+		<title>The David Rubenstein Show</title>
+		<desc>Josh Harris, 26North. Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
 	</programme>
 	<programme channel="5171" start="20241102013000 +0000" stop="20241102020000 +0000">
-		<title>Leaders with Lacqua</title>
-		<desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
+		<title>Bloomberg Originals</title>
+		<desc>Exploring every angle of climate change, technology, finance, sports and beyond, Bloomberg Originals is business as you've never seen it.</desc>
 	</programme>
-	<programme channel="5171" start="20241102020000 +0000" stop="20241102023000 +0000">
-		<title>The David Rubenstein Show</title>
-		<desc>Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
-	</programme>
-	<programme channel="5171" start="20241102023000 +0000" stop="20241102030000 +0000">
-		<title>Bloomberg Studio 1.0</title>
-		<desc>Roblox CEO &amp; Co-Founder David Baszucki. Bloomberg talks to David Baszucki about the success of the online gaming platform, Roblox.</desc>
-	</programme>
-	<programme channel="5171" start="20241102030000 +0000" stop="20241102040000 +0000">
+	<programme channel="5171" start="20241102020000 +0000" stop="20241102030000 +0000">
 		<title>Bloomberg Wall Street Week</title>
-		<desc>David Westin speaks with top names in finance about the week's biggest issues on Wall Street.</desc>
+		<desc>A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York.</desc>
+	</programme>
+	<programme channel="5171" start="20241102030000 +0000" stop="20241102033000 +0000">
+		<title>The Circuit</title>
+		<desc>Google &amp; Alphabet CEO Sundar Pichai sits down with Emily Chang to discuss the future of search, accelerating work on Google's AI models and how his upbringing prepared him for this moment.</desc>
+	</programme>
+	<programme channel="5171" start="20241102033000 +0000" stop="20241102040000 +0000">
+		<title>Inside Adani: A Bloomberg Exclusive</title>
+		<desc>With unprecedented access to each of the scions and Gautam Adani himself, we see what succession looks like inside one of the wealthiest and most opaque family businesses in the world.</desc>
 	</programme>
 	<programme channel="5171" start="20241102040000 +0000" stop="20241102043000 +0000">
 		<title>Leaders with Lacqua</title>
-		<desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
+		<desc>Man Group CEO Robyn Grew. Francine Lacqua speaks to Man Group CEO Robyn Grew about diversity, purpose, and what the future holds in an ever-changing world.</desc>
 	</programme>
 	<programme channel="5171" start="20241102043000 +0000" stop="20241102050000 +0000">
-		<title>Bloomberg Studio 1.0</title>
-		<desc>Roblox CEO &amp; Co-Founder David Baszucki. Bloomberg talks to David Baszucki about the success of the online gaming platform, Roblox.</desc>
+		<title>Power Players</title>
+		<desc>National Women's Soccer League Commissioner Jessica Berman is presiding over a pivotal moment for women's soccer. Can she help turn astronomical growth into a sustained business?</desc>
 	</programme>
 	<programme channel="5171" start="20241102050000 +0000" stop="20241102053000 +0000">
-		<title>Leaders with Lacqua</title>
-		<desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
+		<title>Bloomberg Screentime: Defining the Next Phase of Pop Culture</title>
+		<desc>Screentime gathers the moguls, celebrities, and entrepreneurs defining the next phase of pop culture, including Michael Rapino, Clara Wu Tsai, Brian Roberts, Bela Bajaria and Snoop Dogg.</desc>
 	</programme>
 	<programme channel="5171" start="20241102053000 +0000" stop="20241102060000 +0000">
-		<title>Bloomberg Wealth with David Rubenstein</title>
-		<desc>Renowned financier and philanthropist David Rubenstein talks with the world's most successful investors, who share their investing strategies and tactics.</desc>
+		<title>Best of the Global Business Forum 2024</title>
+		<desc>Discussions focused on aligning governments and businesses around major trends, risks and opportunities impacting global markets.</desc>
 	</programme>
 	<programme channel="5171" start="20241102060000 +0000" stop="20241102063000 +0000">
-		<title>Bloomberg Wealth with David Rubenstein</title>
-		<desc>Renowned financier and philanthropist David Rubenstein talks with the world's most successful investors, who share their investing strategies and tactics.</desc>
+		<title>Inside Adani: A Bloomberg Exclusive</title>
+		<desc>With unprecedented access to each of the scions and Gautam Adani himself, we see what succession looks like inside one of the wealthiest and most opaque family businesses in the world.</desc>
 	</programme>
 	<programme channel="5171" start="20241102063000 +0000" stop="20241102070000 +0000">
-		<title>Athlete | Empire: Alex Rodriguez</title>
-		<desc>Former baseball pro Alex Rodriguez quietly built a real estate empire over 20 years. Now, after retiring from baseball, he's accelerating his transformation from former athlete to investor and owner.</desc>
+		<title>Leaders with Lacqua</title>
+		<desc>In a rare interview, Chanel CEO Leena Nair speaks about her professional and personal journey, how it defines her leadership style, and her unique approach at the top of luxury.</desc>
 	</programme>
-	<programme channel="5171" start="20241102070000 +0000" stop="20241102073000 +0000">
-		<title>Bloomberg Studio 1.0</title>
-		<desc>Roblox CEO &amp; Co-Founder David Baszucki. Bloomberg talks to David Baszucki about the success of the online gaming platform, Roblox.</desc>
-	</programme>
-	<programme channel="5171" start="20241102073000 +0000" stop="20241102080000 +0000">
-		<title>Bloomberg Studio 1.0</title>
-		<desc>Roblox CEO &amp; Co-Founder David Baszucki. Bloomberg talks to David Baszucki about the success of the online gaming platform, Roblox.</desc>
-	</programme>
-	<programme channel="5171" start="20241102080000 +0000" stop="20241102090000 +0000">
+	<programme channel="5171" start="20241102070000 +0000" stop="20241102080000 +0000">
 		<title>Bloomberg Wall Street Week</title>
-		<desc>David Westin speaks with top names in finance about the week's biggest issues on Wall Street.</desc>
+		<desc>A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York.</desc>
 	</programme>
-	<programme channel="5171" start="20241102090000 +0000" stop="20241102093000 +0000">
-		<title>Leaders with Lacqua</title>
-		<desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
+	<programme channel="5171" start="20241102080000 +0000" stop="20241102083000 +0000">
+		<title>Momentum</title>
+		<desc>Join Haslinda Amin as she explores the way robots and AI are integrated into Japanese life. From drones managing crops to unmanned harvesters, see how it's paving the way to a more efficient future.</desc>
 	</programme>
-	<programme channel="5171" start="20241102093000 +0000" stop="20241102100000 +0000">
-		<title>Bloomberg Studio 1.0</title>
-		<desc>Roblox CEO &amp; Co-Founder David Baszucki. Bloomberg talks to David Baszucki about the success of the online gaming platform, Roblox.</desc>
+	<programme channel="5171" start="20241102083000 +0000" stop="20241102090000 +0000">
+		<title>Bloomberg Screentime: Defining the Next Phase of Pop Culture</title>
+		<desc>Screentime gathers the moguls, celebrities, and entrepreneurs defining the next phase of pop culture, including Michael Rapino, Clara Wu Tsai, Brian Roberts, Bela Bajaria and Snoop Dogg.</desc>
 	</programme>
-	<programme channel="5171" start="20241102100000 +0000" stop="20241102103000 +0000">
-		<title>Bloomberg Wealth with David Rubenstein</title>
-		<desc>Renowned financier and philanthropist David Rubenstein talks with the world's most successful investors, who share their investing strategies and tactics.</desc>
+	<programme channel="5171" start="20241102090000 +0000" stop="20241102100000 +0000">
+		<title>Idea Generation</title>
+		<desc>Ideas are the global currency of the 21st century. But how do you come up with, execute, and operationalise one? The answers are what separates successful creative influences from everyone else.</desc>
 	</programme>
-	<programme channel="5171" start="20241102103000 +0000" stop="20241102110000 +0000">
-		<title>Leaders with Lacqua</title>
-		<desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
+	<programme channel="5171" start="20241102100000 +0000" stop="20241102110000 +0000">
+		<title>Bloomberg Wall Street Week</title>
+		<desc>A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York.</desc>
 	</programme>
 	<programme channel="5171" start="20241102110000 +0000" stop="20241102120000 +0000">
-		<title>Bloomberg Wall Street Week</title>
-		<desc>David Westin speaks with top names in finance about the week's biggest issues on Wall Street.</desc>
+		<title>The Deal with Alex Rodriguez and Jason Kelly</title>
+		<desc>George Pyne. The hosts talk with Bruin Capital Founder &amp; CEO George Pyne about how he got started in sports, his role as an operator and his philosophy on sports investment.</desc>
 	</programme>
 	<programme channel="5171" start="20241102120000 +0000" stop="20241102123000 +0000">
-		<title>Bloomberg Green</title>
-		<desc>Climate change is the defining story of our time. Bloomberg Green brings you the news, science, and data to understand it in full. Hosted by Kailey Leinz.</desc>
+		<title>The Circuit</title>
+		<desc>Emily Chang meets Anduril founder Palmer Luckey for a closer look at his defence tech startup's autonomous fleet and software operations.</desc>
 	</programme>
 	<programme channel="5171" start="20241102123000 +0000" stop="20241102130000 +0000">
-		<title>Athlete | Empire: Alex Rodriguez</title>
-		<desc>Former baseball pro Alex Rodriguez quietly built a real estate empire over 20 years. Now, after retiring from baseball, he's accelerating his transformation from former athlete to investor and owner.</desc>
+		<title>Bloomberg Originals</title>
+		<desc>Exploring every angle of climate change, technology, finance, sports and beyond, Bloomberg Originals is business as you've never seen it.</desc>
 	</programme>
 	<programme channel="5171" start="20241102130000 +0000" stop="20241102133000 +0000">
-		<title>Leaders with Lacqua</title>
-		<desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
+		<title>The David Rubenstein Show</title>
+		<desc>Josh Harris, 26North. Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
 	</programme>
 	<programme channel="5171" start="20241102133000 +0000" stop="20241102140000 +0000">
-		<title>Bloomberg Studio 1.0</title>
-		<desc>Roblox CEO &amp; Co-Founder David Baszucki. Bloomberg talks to David Baszucki about the success of the online gaming platform, Roblox.</desc>
+		<title>The Circuit</title>
+		<desc>Google &amp; Alphabet CEO Sundar Pichai sits down with Emily Chang to discuss the future of search, accelerating work on Google's AI models and how his upbringing prepared him for this moment.</desc>
 	</programme>
-	<programme channel="5171" start="20241102140000 +0000" stop="20241102143000 +0000">
-		<title>The David Rubenstein Show</title>
-		<desc>Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
+	<programme channel="5171" start="20241102140000 +0000" stop="20241102150000 +0000">
+		<title>Bloomberg Wall Street Week</title>
+		<desc>A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York.</desc>
 	</programme>
-	<programme channel="5171" start="20241102143000 +0000" stop="20241102150000 +0000">
-		<title>Bloomberg Wealth with David Rubenstein</title>
-		<desc>Renowned financier and philanthropist David Rubenstein talks with the world's most successful investors, who share their investing strategies and tactics.</desc>
+	<programme channel="5171" start="20241102150000 +0000" stop="20241102153000 +0000">
+		<title>Best of the Global Business Forum 2024</title>
+		<desc>Discussions focused on aligning governments and businesses around major trends, risks and opportunities impacting global markets.</desc>
 	</programme>
 	<programme channel="5173" start="20241031160000 +0000" stop="20241031163000 +0000">
 		<title>Us Halftime Report</title>
@@ -20503,7 +20511,7 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<desc>绝对精彩的美食节目。看后保证让您垂涎三尺！</desc>
 	</programme>
 	<programme channel="6507" start="20241101040000 +0000" stop="20241101060000 +0000">
-		<title>FOCUS世界新闻 / Focus World News</title>
+		<title>FOCUS 世界新闻 / Focus World News</title>
 		<desc>聚焦国际与台湾重点新闻，提供观众最新最深入的国际与台湾新闻。</desc>
 	</programme>
 	<programme channel="6507" start="20241101060000 +0000" stop="20241101070000 +0000">
@@ -20623,7 +20631,7 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<desc>行脚旅游节目《爱玩客 向世界出发》主持群将从台湾启程，勇闯鲜少人涉足的观光胜地。他们将品尝当地美食、挑战极限，深入感受当地的人文风情及体验最真实的生活面貌。</desc>
 	</programme>
 	<programme channel="6507" start="20241102130000 +0000" stop="20241102140000 +0000">
-		<title>TVBS文茜的世界周报-亚洲版 / TVBS Sisy's World News Asia</title>
+		<title>TVBS文茜的世界周报 / TVBS Sisy's World News</title>
 		<desc>无论是财经议题、国际政治局势，还是世界脉动，主持人陈文茜将提供更多元的角度与新观点。</desc>
 	</programme>
 	<programme channel="6507" start="20241102140000 +0000" stop="20241102150000 +0000">
@@ -21531,8 +21539,8 @@ Kyle、Gillian作格拉斯哥深度游。先往品尝苏格兰传统菜「肉馅
 		<desc>瞭解本日最重要新聞</desc>
 	</programme>
 	<programme channel="6516" start="20241102130000 +0000" stop="20241102140000 +0000">
-		<title>九点热话题 / 2100 HOT TOPICS</title>
-		<desc>帶您關注台灣與全球的新聞焦點</desc>
+		<title>2024 美国总统大选交锋 / 2024 U.S. PRESIDENTIAL ELECTION SHOWDOWN</title>
+		<desc>2024 U.S. PRESIDENTIAL ELECTION SHOWDOWN</desc>
 	</programme>
 	<programme channel="6516" start="20241102140000 +0000" stop="20241102150000 +0000">
 		<title>十点不一样 / NEWS NIGHT</title>
@@ -21787,18 +21795,14 @@ Kyle、Gillian作格拉斯哥深度游。先往品尝苏格兰传统菜「肉馅
 		<desc>三位踏入三十歲，在娛樂產業中打滾的好友努力在愛情、事業和夢想之間取得平衡。她們在生活的低潮中支持彼此，並在友誼中找到力量。</desc>
 	</programme>
 	<programme channel="5518" start="20241031220000 +0000" stop="20241031222000 +0000">
-		<title>Sam Kim名廚煮意 / You Can Cook With Sam Kim Episode 17</title>
-		<desc>從意大利面到西班牙料理，從主菜到甜品，大廚Sam Kim都會一一教你做！快跟著Sam Kim一起製作簡單易做的料理，享受下廚的樂趣！</desc>
-	</programme>
-	<programme channel="5518" start="20241031222000 +0000" stop="20241031224000 +0000">
 		<title>Sam Kim名廚煮意 / You Can Cook With Sam Kim Episode 18</title>
 		<desc>從意大利面到西班牙料理，從主菜到甜品，大廚Sam Kim都會一一教你做！快跟著Sam Kim一起製作簡單易做的料理，享受下廚的樂趣！</desc>
 	</programme>
-	<programme channel="5518" start="20241031224000 +0000" stop="20241101003000 +0000">
+	<programme channel="5518" start="20241031222000 +0000" stop="20241101001000 +0000">
 		<title>一日三餐：Light特別篇 / 3 Meals A Day : Light Episode 6</title>
 		<desc>《一日三餐》系列開播10周年之際以新一季回歸。車勝元、柳海真再次體驗自給自足的山村生活，與驚喜嘉賓享受簡單又美味的料理。</desc>
 	</programme>
-	<programme channel="5518" start="20241101003000 +0000" stop="20241101030000 +0000">
+	<programme channel="5518" start="20241101001000 +0000" stop="20241101030000 +0000">
 		<title>舞台王者 / Stage Fighter Episode 4</title>
 		<desc>這是一個男性舞者之間的舞蹈競賽節目，他們會透過芭蕾舞、現代舞和傳統韓國舞蹈，帶來充滿個人魅力的表演。</desc>
 	</programme>
@@ -21810,17 +21814,13 @@ Kyle、Gillian作格拉斯哥深度游。先往品尝苏格兰传统菜「肉馅
 		<title>或好或壞的東載 / Dongjae, The Good or The Bad Episode 7</title>
 		<desc>這部《秘密森林》系列外傳講述身敗名裂的檢察官徐東載接手一宗謀殺案，在職業操守與個人野心之間苦苦掙扎，猶如走鋼索般危險。他能否重拾正直，還是會深陷腐敗的泥沼？</desc>
 	</programme>
-	<programme channel="5518" start="20241101051500 +0000" stop="20241101065500 +0000">
+	<programme channel="5518" start="20241101051500 +0000" stop="20241101071500 +0000">
 		<title>帳篷外是歐洲 : 意大利篇 / Europe Outside Your Tent: Romantic Italy Episode 2</title>
 		<desc>露營老手羅美蘭將帶領三名新手郭善英、李主儐及李世榮展開一場浪漫的露營之旅，走訪意大利不為人知的美景。</desc>
 	</programme>
-	<programme channel="5518" start="20241101065500 +0000" stop="20241101083500 +0000">
+	<programme channel="5518" start="20241101071500 +0000" stop="20241101085500 +0000">
 		<title>生意天才白社長2 / The Genius Paik 2 Episode 8</title>
 		<desc>韓國首屈一指的餐廳經營者白種元回歸！白種元與一班藝人再次來到陌生的國度開辦韓式餐廳，接受向世界介紹韓國料理的挑戰。</desc>
-	</programme>
-	<programme channel="5518" start="20241101083500 +0000" stop="20241101085500 +0000">
-		<title>Sam Kim名廚煮意 / You Can Cook With Sam Kim Episode 18</title>
-		<desc>從意大利面到西班牙料理，從主菜到甜品，大廚Sam Kim都會一一教你做！快跟著Sam Kim一起製作簡單易做的料理，享受下廚的樂趣！</desc>
 	</programme>
 	<programme channel="5518" start="20241101085500 +0000" stop="20241101092500 +0000">
 		<title>燦盛這料理 / Chansung's Cooking Episode 9</title>
@@ -21846,21 +21846,17 @@ Kyle、Gillian作格拉斯哥深度游。先往品尝苏格兰传统菜「肉馅
 		<title>舞台王者 / Stage Fighter Episode 5</title>
 		<desc>這是一個男性舞者之間的舞蹈競賽節目，他們會透過芭蕾舞、現代舞和傳統韓國舞蹈，帶來充滿個人魅力的表演。</desc>
 	</programme>
-	<programme channel="5518" start="20241101143000 +0000" stop="20241101170000 +0000">
+	<programme channel="5518" start="20241101143000 +0000" stop="20241101172000 +0000">
 		<title>舞台王者 / Stage Fighter Episode 5</title>
 		<desc>這是一個男性舞者之間的舞蹈競賽節目，他們會透過芭蕾舞、現代舞和傳統韓國舞蹈，帶來充滿個人魅力的表演。</desc>
 	</programme>
-	<programme channel="5518" start="20241101170000 +0000" stop="20241101185000 +0000">
+	<programme channel="5518" start="20241101172000 +0000" stop="20241101191000 +0000">
 		<title>極速相親 / The Skip Dating</title>
 		<desc>&lt;第六感&gt;製作人丁哲珉帶來破格戀愛綜藝！由劉在錫、全昭旻、Nucksal主持，節目將找來8位單身男女進行4:4快速相親，一旦覺得對方不相配即可選擇Skip跳到下一位！</desc>
 	</programme>
-	<programme channel="5518" start="20241101185000 +0000" stop="20241101192000 +0000">
+	<programme channel="5518" start="20241101191000 +0000" stop="20241101194000 +0000">
 		<title>燦盛這料理 / Chansung's Cooking Episode 9</title>
 		<desc>2PM燦盛將帶你探索不同餐廳、嚐遍人氣料理，並以創意方式把食譜重新演繹！</desc>
-	</programme>
-	<programme channel="5518" start="20241101192000 +0000" stop="20241101194000 +0000">
-		<title>Sam Kim名廚煮意 / You Can Cook With Sam Kim Episode 18</title>
-		<desc>從意大利面到西班牙料理，從主菜到甜品，大廚Sam Kim都會一一教你做！快跟著Sam Kim一起製作簡單易做的料理，享受下廚的樂趣！</desc>
 	</programme>
 	<programme channel="5518" start="20241101194000 +0000" stop="20241101204500 +0000">
 		<title>或好或壞的東載 / Dongjae, The Good or The Bad Episode 7</title>
@@ -21870,15 +21866,15 @@ Kyle、Gillian作格拉斯哥深度游。先往品尝苏格兰传统菜「肉馅
 		<title>浪漫的體質 / Be Melodramatic Episode 8</title>
 		<desc>三位踏入三十歲，在娛樂產業中打滾的好友努力在愛情、事業和夢想之間取得平衡。她們在生活的低潮中支持彼此，並在友誼中找到力量。</desc>
 	</programme>
-	<programme channel="5518" start="20241101220000 +0000" stop="20241102003000 +0000">
+	<programme channel="5518" start="20241101220000 +0000" stop="20241102004000 +0000">
 		<title>舞台王者 / Stage Fighter Episode 5</title>
 		<desc>這是一個男性舞者之間的舞蹈競賽節目，他們會透過芭蕾舞、現代舞和傳統韓國舞蹈，帶來充滿個人魅力的表演。</desc>
 	</programme>
-	<programme channel="5518" start="20241102003000 +0000" stop="20241102014500 +0000">
+	<programme channel="5518" start="20241102004000 +0000" stop="20241102015000 +0000">
 		<title>檢察官內傳 / Diary of a Prosecutor Episode 5</title>
 		<desc>檢察界明日之星車明珠被調派到地方支廳，為小鎮上「生活型檢察官」單調又過勞的日常帶來波瀾。</desc>
 	</programme>
-	<programme channel="5518" start="20241102014500 +0000" stop="20241102030000 +0000">
+	<programme channel="5518" start="20241102015000 +0000" stop="20241102030000 +0000">
 		<title>檢察官內傳 / Diary of a Prosecutor Episode 6</title>
 		<desc>檢察界明日之星車明珠被調派到地方支廳，為小鎮上「生活型檢察官」單調又過勞的日常帶來波瀾。</desc>
 	</programme>
@@ -21898,19 +21894,19 @@ Kyle、Gillian作格拉斯哥深度游。先往品尝苏格兰传统菜「肉馅
 		<title>花遊記 / A Korean Odyssey Episode 2</title>
 		<desc>傲慢的孫悟空在童年陳善美的幫助下逃出了五行山，但卻違反諾言、逃之夭夭。25年後，兩人的命運再次相遇，開始了在黑暗的世界上尋找光明的旅程，一起消滅妖魔鬼怪 。</desc>
 	</programme>
-	<programme channel="5518" start="20241102081500 +0000" stop="20241102084500 +0000">
-		<title>燦盛這料理 / Chansung's Cooking Episode 8</title>
-		<desc>2PM燦盛將帶你探索不同餐廳、嚐遍人氣料理，並以創意方式把食譜重新演繹！</desc>
+	<programme channel="5518" start="20241102081500 +0000" stop="20241102083500 +0000">
+		<title>Sam Kim名廚煮意 / You Can Cook With Sam Kim Episode 17</title>
+		<desc>從意大利面到西班牙料理，從主菜到甜品，大廚Sam Kim都會一一教你做！快跟著Sam Kim一起製作簡單易做的料理，享受下廚的樂趣！</desc>
 	</programme>
-	<programme channel="5518" start="20241102084500 +0000" stop="20241102091500 +0000">
-		<title>燦盛這料理 / Chansung's Cooking Episode 9</title>
-		<desc>2PM燦盛將帶你探索不同餐廳、嚐遍人氣料理，並以創意方式把食譜重新演繹！</desc>
+	<programme channel="5518" start="20241102083500 +0000" stop="20241102085500 +0000">
+		<title>Sam Kim名廚煮意 / You Can Cook With Sam Kim Episode 18</title>
+		<desc>從意大利面到西班牙料理，從主菜到甜品，大廚Sam Kim都會一一教你做！快跟著Sam Kim一起製作簡單易做的料理，享受下廚的樂趣！</desc>
 	</programme>
-	<programme channel="5518" start="20241102091500 +0000" stop="20241102110000 +0000">
+	<programme channel="5518" start="20241102085500 +0000" stop="20241102104000 +0000">
 		<title>白老師的背包食堂2 / The Backpacker Chef 2 Episode 21</title>
 		<desc>《白老師的背包食堂》回歸！面對更多客人，更極端的環境，與升級了的背包，白老師這次也能化腐朽為神奇嗎？</desc>
 	</programme>
-	<programme channel="5518" start="20241102110000 +0000" stop="20241102124000 +0000">
+	<programme channel="5518" start="20241102104000 +0000" stop="20241102124000 +0000">
 		<title>帳篷外是歐洲 : 意大利篇 / Europe Outside Your Tent: Romantic Italy Episode 2</title>
 		<desc>露營老手羅美蘭將帶領三名新手郭善英、李主儐及李世榮展開一場浪漫的露營之旅，走訪意大利不為人知的美景。</desc>
 	</programme>
@@ -26335,18 +26331,14 @@ Kyle、Gillian作格拉斯哥深度游。先往品尝苏格兰传统菜「肉馅
 		<desc>3 best friends in their 30s struggling to balance between love, career and dreams, support each other through life's ups and downs and find strength in their friendship.</desc>
 	</programme>
 	<programme channel="5619" start="20241031220000 +0000" stop="20241031222000 +0000">
-		<title>You Can Cook With Sam Kim Episode 17</title>
-		<desc>Star chef Sam Kim will teach you how to make all kinds of delicious dishes – from Italian pasta, Spanish food to desserts! Follow his easy recipes and enjoy cooking!</desc>
-	</programme>
-	<programme channel="5619" start="20241031222000 +0000" stop="20241031224000 +0000">
 		<title>You Can Cook With Sam Kim Episode 18</title>
 		<desc>Star chef Sam Kim will teach you how to make all kinds of delicious dishes – from Italian pasta, Spanish food to desserts! Follow his easy recipes and enjoy cooking!</desc>
 	</programme>
-	<programme channel="5619" start="20241031224000 +0000" stop="20241101003000 +0000">
+	<programme channel="5619" start="20241031222000 +0000" stop="20241101001000 +0000">
 		<title>3 Meals A Day : Light Episode 6</title>
 		<desc>&lt;3 Meals A Day&gt; returns on its 10th anniversary. Cha Seung-won and Yoo Hae-jin will experience a self-sufficient village life again and enjoy simple yet fulfilling meals with surprise guests.</desc>
 	</programme>
-	<programme channel="5619" start="20241101003000 +0000" stop="20241101030000 +0000">
+	<programme channel="5619" start="20241101001000 +0000" stop="20241101030000 +0000">
 		<title>Stage Fighter Episode 4</title>
 		<desc>&lt;Stage Fighter&gt; is a survival program for male dancers to compete in ballet, modern dance and Korean traditional dance genres. They will present spectacular performances with unique style.</desc>
 	</programme>
@@ -26358,17 +26350,13 @@ Kyle、Gillian作格拉斯哥深度游。先往品尝苏格兰传统菜「肉馅
 		<title>Dongjae, The Good or The Bad Episode 7</title>
 		<desc>In this ‘Stranger' spin-off, disgraced prosecutor Seo Dong-jae faces a high-profile case that challenges his tarnished reputation. Will he reclaim his integrity or fall deeper into corruption?</desc>
 	</programme>
-	<programme channel="5619" start="20241101051500 +0000" stop="20241101065500 +0000">
+	<programme channel="5619" start="20241101051500 +0000" stop="20241101071500 +0000">
 		<title>Europe Outside Your Tent: Romantic Italy Episode 2</title>
 		<desc>Join veteran camper Ra Mi-ran as she leads a trio of rookie campers - Kwak Sun-young, Lee Joo-bin and Lee Se-young - on a romantic camping trip across Italy's hidden gems.</desc>
 	</programme>
-	<programme channel="5619" start="20241101065500 +0000" stop="20241101083500 +0000">
+	<programme channel="5619" start="20241101071500 +0000" stop="20241101085500 +0000">
 		<title>The Genius Paik 2 Episode 8</title>
 		<desc>Top Korean restaurateur chef Paik is back with a team of A-list celebrities, accepting the challenge of starting a Korean restaurant and introducing Korean cuisine to the globe in an unfamiliar country.</desc>
-	</programme>
-	<programme channel="5619" start="20241101083500 +0000" stop="20241101085500 +0000">
-		<title>You Can Cook With Sam Kim Episode 18</title>
-		<desc>Star chef Sam Kim will teach you how to make all kinds of delicious dishes – from Italian pasta, Spanish food to desserts! Follow his easy recipes and enjoy cooking!</desc>
 	</programme>
 	<programme channel="5619" start="20241101085500 +0000" stop="20241101092500 +0000">
 		<title>Chansung's Cooking Episode 9</title>
@@ -26394,21 +26382,17 @@ Kyle、Gillian作格拉斯哥深度游。先往品尝苏格兰传统菜「肉馅
 		<title>Stage Fighter Episode 5</title>
 		<desc>&lt;Stage Fighter&gt; is a survival program for male dancers to compete in ballet, modern dance and Korean traditional dance genres. They will present spectacular performances with unique style.</desc>
 	</programme>
-	<programme channel="5619" start="20241101143000 +0000" stop="20241101170000 +0000">
+	<programme channel="5619" start="20241101143000 +0000" stop="20241101172000 +0000">
 		<title>Stage Fighter Episode 5</title>
 		<desc>&lt;Stage Fighter&gt; is a survival program for male dancers to compete in ballet, modern dance and Korean traditional dance genres. They will present spectacular performances with unique style.</desc>
 	</programme>
-	<programme channel="5619" start="20241101170000 +0000" stop="20241101185000 +0000">
+	<programme channel="5619" start="20241101172000 +0000" stop="20241101191000 +0000">
 		<title>The Skip Dating</title>
 		<desc>&lt;The Skip Dating&gt; is a speed dating reality show featuring 4 males and 4 females. As they meet, they will be given the option to press the “skip” button and switch to a new partner.</desc>
 	</programme>
-	<programme channel="5619" start="20241101185000 +0000" stop="20241101192000 +0000">
+	<programme channel="5619" start="20241101191000 +0000" stop="20241101194000 +0000">
 		<title>Chansung's Cooking Episode 9</title>
 		<desc>2PM's Chansung will explore different restaurants, taste popular menus and recreate them with his own recipes!</desc>
-	</programme>
-	<programme channel="5619" start="20241101192000 +0000" stop="20241101194000 +0000">
-		<title>You Can Cook With Sam Kim Episode 18</title>
-		<desc>Star chef Sam Kim will teach you how to make all kinds of delicious dishes – from Italian pasta, Spanish food to desserts! Follow his easy recipes and enjoy cooking!</desc>
 	</programme>
 	<programme channel="5619" start="20241101194000 +0000" stop="20241101204500 +0000">
 		<title>Dongjae, The Good or The Bad Episode 7</title>
@@ -26418,15 +26402,15 @@ Kyle、Gillian作格拉斯哥深度游。先往品尝苏格兰传统菜「肉馅
 		<title>Be Melodramatic Episode 8</title>
 		<desc>3 best friends in their 30s struggling to balance between love, career and dreams, support each other through life's ups and downs and find strength in their friendship.</desc>
 	</programme>
-	<programme channel="5619" start="20241101220000 +0000" stop="20241102003000 +0000">
+	<programme channel="5619" start="20241101220000 +0000" stop="20241102004000 +0000">
 		<title>Stage Fighter Episode 5</title>
 		<desc>&lt;Stage Fighter&gt; is a survival program for male dancers to compete in ballet, modern dance and Korean traditional dance genres. They will present spectacular performances with unique style.</desc>
 	</programme>
-	<programme channel="5619" start="20241102003000 +0000" stop="20241102014500 +0000">
+	<programme channel="5619" start="20241102004000 +0000" stop="20241102015000 +0000">
 		<title>Diary of a Prosecutor Episode 5</title>
 		<desc>A hotshot prosecutor has been transferred to a small branch office in a provincial town, threatens to shake up the humdrum routines of her overworked new colleagues.</desc>
 	</programme>
-	<programme channel="5619" start="20241102014500 +0000" stop="20241102030000 +0000">
+	<programme channel="5619" start="20241102015000 +0000" stop="20241102030000 +0000">
 		<title>Diary of a Prosecutor Episode 6</title>
 		<desc>A hotshot prosecutor has been transferred to a small branch office in a provincial town, threatens to shake up the humdrum routines of her overworked new colleagues.</desc>
 	</programme>
@@ -26446,19 +26430,19 @@ Kyle、Gillian作格拉斯哥深度游。先往品尝苏格兰传统菜「肉馅
 		<title>A Korean Odyssey Episode 2</title>
 		<desc>Having made a contract with Seon-mi 25 years ago, Son Oh-gong entitles her to seek help whenever she calls in exchange for letting him free. The two meet again in a fateful encounter.</desc>
 	</programme>
-	<programme channel="5619" start="20241102081500 +0000" stop="20241102084500 +0000">
-		<title>Chansung's Cooking Episode 8</title>
-		<desc>2PM's Chansung will explore different restaurants, taste popular menus and recreate them with his own recipes!</desc>
+	<programme channel="5619" start="20241102081500 +0000" stop="20241102083500 +0000">
+		<title>You Can Cook With Sam Kim Episode 17</title>
+		<desc>Star chef Sam Kim will teach you how to make all kinds of delicious dishes – from Italian pasta, Spanish food to desserts! Follow his easy recipes and enjoy cooking!</desc>
 	</programme>
-	<programme channel="5619" start="20241102084500 +0000" stop="20241102091500 +0000">
-		<title>Chansung's Cooking Episode 9</title>
-		<desc>2PM's Chansung will explore different restaurants, taste popular menus and recreate them with his own recipes!</desc>
+	<programme channel="5619" start="20241102083500 +0000" stop="20241102085500 +0000">
+		<title>You Can Cook With Sam Kim Episode 18</title>
+		<desc>Star chef Sam Kim will teach you how to make all kinds of delicious dishes – from Italian pasta, Spanish food to desserts! Follow his easy recipes and enjoy cooking!</desc>
 	</programme>
-	<programme channel="5619" start="20241102091500 +0000" stop="20241102110000 +0000">
+	<programme channel="5619" start="20241102085500 +0000" stop="20241102104000 +0000">
 		<title>The Backpacker Chef 2 Episode 21</title>
 		<desc>&lt;The Backpacker Chef&gt; is back! With more clients, more demanding environment and an upgraded backpack, how will Chef Paik take on challenges this time?</desc>
 	</programme>
-	<programme channel="5619" start="20241102110000 +0000" stop="20241102124000 +0000">
+	<programme channel="5619" start="20241102104000 +0000" stop="20241102124000 +0000">
 		<title>Europe Outside Your Tent: Romantic Italy Episode 2</title>
 		<desc>Join veteran camper Ra Mi-ran as she leads a trio of rookie campers - Kwak Sun-young, Lee Joo-bin and Lee Se-young - on a romantic camping trip across Italy's hidden gems.</desc>
 	</programme>
@@ -26971,36 +26955,36 @@ Kyle、Gillian作格拉斯哥深度游。先往品尝苏格兰传统菜「肉馅
 		<desc>Three buddies deal with a set of personal problems, but nothing compares to the trouble they find when a deadly crime syndicate puts them on its hit list.</desc>
 	</programme>
 	<programme channel="5625" start="20241101183000 +0000" stop="20241101200000 +0000">
-		<title>Movie Contd</title>
-		<desc>Movie Contd</desc>
+		<title>Movie Contd - Settai</title>
+		<desc>Three buddies deal with a set of personal problems, but nothing compares to the trouble they find when a deadly crime syndicate puts them on its hit list.</desc>
 	</programme>
 	<programme channel="5625" start="20241101200000 +0000" stop="20241101223000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Mudhal Kanavae</title>
+		<desc>Hari, a painter, settles in Kanyakumari to earn his livelihood. He falls in love with Jenny without knowing anything about her. He then learns that she is married. But, the past reveals another fact.</desc>
 	</programme>
 	<programme channel="5625" start="20241101223000 +0000" stop="20241102010000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Mudhal Seedhanam</title>
+		<desc>RKS falls in love with Veni when she helps him change his attitude towards his professional life. However, circumstances force them to part ways.</desc>
 	</programme>
 	<programme channel="5625" start="20241102010000 +0000" stop="20241102013000 +0000">
 		<title>Teleshopping</title>
-		<desc>Teleshopping</desc>
+		<desc>Consumer can purchase goods and services shown on television; the purchaser telephones an order, or orders with the aid of a computer, and the products are delivered to the home.</desc>
 	</programme>
 	<programme channel="5625" start="20241102013000 +0000" stop="20241102043000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Kanden Kadhalai</title>
+		<desc>Sakthivel and Anjali are poles apart in attitude. Circumstances bring them together and Anjali's parents believe they are in love. But they soon part ways after Anjali elopes to meet her lover.</desc>
 	</programme>
 	<programme channel="5625" start="20241102043000 +0000" stop="20241102073000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Ellam Avan Seyal</title>
+		<desc>Laxman Krishna, a criminal lawyer, manages to win all his cases. All the wrong-doers consider him as their God. But things change when he is assigned to defend the convicts who have murdered a girl.</desc>
 	</programme>
 	<programme channel="5625" start="20241102073000 +0000" stop="20241102103000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Oru Kal Oru Kannadi</title>
+		<desc>Saravanan falls for Meera at first sight, but she eventually turns him down. When he learns about her upcoming marriage, he and his friend, Partha, set out to Pondicherry to stop the wedding.</desc>
 	</programme>
 	<programme channel="5625" start="20241102103000 +0000" stop="20241102133000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - MR.Local</title>
+		<desc>Cast - Sivakarthikeyan,Nayanthara</desc>
 	</programme>
 	<programme channel="5627" start="20241031153000 +0000" stop="20241031163000 +0000">
 		<title>Non Stop Hits</title>
@@ -28814,19 +28798,19 @@ Kyle、Gillian作格拉斯哥深度游。先往品尝苏格兰传统菜「肉馅
 		<title>TBA</title>
 		<desc>TBA</desc>
 	</programme>
-	<programme channel="5639" start="20241031133000 +0000" stop="20241031163000 +0000">
+	<programme channel="5639" start="20241031133000 +0000" stop="20241031164000 +0000">
 		<title>Jaya Jaya Jaya Jaya Hey</title>
 		<desc>Woman fights back against abusive husband, facing consequences. Release Year: 2022 Director: Vipin Das Awards: 2023 Nominee Bollywood Life - South Movies Award - Best Film</desc>
 	</programme>
-	<programme channel="5639" start="20241031163000 +0000" stop="20241031193000 +0000">
+	<programme channel="5639" start="20241031164000 +0000" stop="20241031194000 +0000">
 		<title>Chithram</title>
 		<desc>Vishnu agrees to act as Kalyani's husband for a fee, to keep her father happy. Release Year: 1988 Director: Priyadarshan Awards: 1989 Winner Kerala State Film Award - Special Jury Award - Mohanlal</desc>
 	</programme>
-	<programme channel="5639" start="20241031193000 +0000" stop="20241031220000 +0000">
+	<programme channel="5639" start="20241031194000 +0000" stop="20241031221000 +0000">
 		<title>Neelakasham Pachakadal Chuvanna Bhoomi</title>
 		<desc>Kasi and Suni are close friends. Assi falls in love with Kasi. Release Year: 2013 Director: Sameer Thahir</desc>
 	</programme>
-	<programme channel="5639" start="20241031220000 +0000" stop="20241101003000 +0000">
+	<programme channel="5639" start="20241031221000 +0000" stop="20241101003000 +0000">
 		<title>Payyans</title>
 		<desc>Josy is an unemployed man. His life changes when his moM dies in an accident. Release Year: 2011 Director: Leo Thaddeus</desc>
 	</programme>
@@ -28834,11 +28818,11 @@ Kyle、Gillian作格拉斯哥深度游。先往品尝苏格兰传统菜「肉馅
 		<title>Chirikkum Thalika</title>
 		<desc>A compilation of some of the best comedy scenes from Malayalam movies.</desc>
 	</programme>
-	<programme channel="5639" start="20241101013000 +0000" stop="20241101043000 +0000">
+	<programme channel="5639" start="20241101013000 +0000" stop="20241101041000 +0000">
 		<title>Aravindhante Athidhikal</title>
 		<desc>A 5-year-old boy named Aravindan is left at a temple by his mother. He grows up with a hotelier but longs to find his mother. Release Year: 2018 Director: M. Mohanan</desc>
 	</programme>
-	<programme channel="5639" start="20241101043000 +0000" stop="20241101073000 +0000">
+	<programme channel="5639" start="20241101041000 +0000" stop="20241101073000 +0000">
 		<title>Nadodi Mannan</title>
 		<desc>Mayor Padmanabhan gets in trouble when he is forced to fight corruption. Release Year: 2013 Director: Viji Thampi</desc>
 	</programme>
@@ -28854,19 +28838,19 @@ Kyle、Gillian作格拉斯哥深度游。先往品尝苏格兰传统菜「肉馅
 		<title>Bangalore Days</title>
 		<desc>Cousins fulfil their dream of moving to Bangalore and they also face challenges. Release Year: 2014 Director: Anjali Menon Awards: 2015 Winner Asianet Film Award - Most Popular Movie Anjali Menon, 2015 Winner SIIMA - Malayalam - Best Film</desc>
 	</programme>
-	<programme channel="5639" start="20241101133000 +0000" stop="20241101163000 +0000">
+	<programme channel="5639" start="20241101133000 +0000" stop="20241101170000 +0000">
 		<title>Bangalore Days</title>
 		<desc>Cousins fulfil their dream of moving to Bangalore and they also face challenges. Release Year: 2014 Director: Anjali Menon Awards: 2015 Winner Asianet Film Award - Most Popular Movie Anjali Menon, 2015 Winner SIIMA - Malayalam - Best Film</desc>
 	</programme>
-	<programme channel="5639" start="20241101163000 +0000" stop="20241101193000 +0000">
+	<programme channel="5639" start="20241101170000 +0000" stop="20241101200000 +0000">
 		<title>Niram</title>
 		<desc>Aby is unable to express his feelings to Sona. What happens next? Release Year: 2009</desc>
 	</programme>
-	<programme channel="5639" start="20241101193000 +0000" stop="20241101220000 +0000">
+	<programme channel="5639" start="20241101200000 +0000" stop="20241101223000 +0000">
 		<title>Kerala Varma Pazhassiraja</title>
 		<desc>Story about King Kerala Varma Pazhassi Raja and his revolts against the British.</desc>
 	</programme>
-	<programme channel="5639" start="20241101220000 +0000" stop="20241102003000 +0000">
+	<programme channel="5639" start="20241101223000 +0000" stop="20241102003000 +0000">
 		<title>Street Lights</title>
 		<desc>Here's an unmissable cops vs robbers story, with some unexpected twists and turns.</desc>
 	</programme>
@@ -29868,23 +29852,23 @@ Kyle、Gillian作格拉斯哥深度游。先往品尝苏格兰传统菜「肉馅
 	</programme>
 	<programme channel="5652" start="20241031190000 +0000" stop="20241031193000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 493</title>
-		<desc>Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity.</desc>
+		<desc>An overjoyed Mahishi names her newborn as Gajasur. Later, she confides her wish to guide her son to the throne of the Asur kingdom.</desc>
 	</programme>
 	<programme channel="5652" start="20241031193000 +0000" stop="20241031200000 +0000">
 		<title>Mangal Lakshmi Episode 246</title>
-		<desc>Mangal searches for a perfect husband for her sister, Lakshmi, revealing the enduring strength of sisterhood and the power of destiny over this journey.</desc>
+		<desc>Soumya challenges Mangal to single-handedly oversee the Diwali celebrations. Undeterred, Mangal vows to surprise the family with a delightful evening.</desc>
 	</programme>
 	<programme channel="5652" start="20241031200000 +0000" stop="20241031203000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 45</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Vikram slips into a fit of blind rage when Rajesh accuses Durga of being a rebellious spouse. Later, Durga is compelled to face the full wrath of Vikram's rage.</desc>
 	</programme>
 	<programme channel="5652" start="20241031203000 +0000" stop="20241031210000 +0000">
 		<title>Mera Balam Thanedaar Episode 217</title>
-		<desc>An amiable girl who believes in supporting the lie if someone benefits for good marries a police officer under unfortunate circumstances.</desc>
+		<desc>Vardhan and Veer subject themselves to a disguise to stage a daring rescue for Bulbul and the captive girls. On the other hand, Bulbul comes up with a spooky scheme to deceive her captor.</desc>
 	</programme>
 	<programme channel="5652" start="20241031210000 +0000" stop="20241031213000 +0000">
 		<title>Mishri Episode 118</title>
-		<desc>A young girl, adored by her community, finds joy in the happiness of others and strives to fulfil her late father's aspirations by finishing her academic education.</desc>
+		<desc>With Diwali around the corner, Raghav plans a surprise for Mishri. Later, Mishri is delighted by Raghav's honest efforts.</desc>
 	</programme>
 	<programme channel="5652" start="20241031213000 +0000" stop="20241031220000 +0000">
 		<title>Parineetii Episode 919</title>
@@ -29892,11 +29876,11 @@ Kyle、Gillian作格拉斯哥深度游。先往品尝苏格兰传统菜「肉馅
 	</programme>
 	<programme channel="5652" start="20241031220000 +0000" stop="20241031223000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 493</title>
-		<desc>Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity.</desc>
+		<desc>An overjoyed Mahishi names her newborn as Gajasur. Later, she confides her wish to guide her son to the throne of the Asur kingdom.</desc>
 	</programme>
 	<programme channel="5652" start="20241031223000 +0000" stop="20241031230000 +0000">
 		<title>Suman Indori Episode 58</title>
-		<desc>Forced by fate to marry a rich, shrewd politician, Suman embraces obstacles adjusting to her new life while dealing with her sister-in-law who seeks to become the head of the household.</desc>
+		<desc>While Teerth's altercation with his neighbours threatens to slip out of control, Devika tries to shift the blame on Suman.</desc>
 	</programme>
 	<programme channel="5652" start="20241031230000 +0000" stop="20241031232000 +0000">
 		<title>Parineetii Episode 919</title>
@@ -29904,55 +29888,55 @@ Kyle、Gillian作格拉斯哥深度游。先往品尝苏格兰传统菜「肉馅
 	</programme>
 	<programme channel="5652" start="20241031232000 +0000" stop="20241031234000 +0000">
 		<title>Megha Barsenge Episode 86</title>
-		<desc>After a groom absconds from his wedding, his bride is left at the mercy of her sentiments of abandonment and to endure a judgemental societal structure.</desc>
+		<desc>Despite Arjun succeeding in apprehending Manoj, Megha is haunted by the latter's evil memories. Eventually, Arjun grows concerned about Megha's deteriorating mental health.</desc>
 	</programme>
 	<programme channel="5652" start="20241031234000 +0000" stop="20241101000000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 45</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Vikram slips into a fit of blind rage when Rajesh accuses Durga of being a rebellious spouse. Later, Durga is compelled to face the full wrath of Vikram's rage.</desc>
 	</programme>
 	<programme channel="5652" start="20241101000000 +0000" stop="20241101003000 +0000">
 		<title>Mera Balam Thanedaar Episode 217</title>
-		<desc>An amiable girl who believes in supporting the lie if someone benefits for good marries a police officer under unfortunate circumstances.</desc>
+		<desc>Vardhan and Veer subject themselves to a disguise to stage a daring rescue for Bulbul and the captive girls. On the other hand, Bulbul comes up with a spooky scheme to deceive her captor.</desc>
 	</programme>
 	<programme channel="5652" start="20241101003000 +0000" stop="20241101010000 +0000">
 		<title>Mangal Lakshmi Episode 246</title>
-		<desc>Mangal searches for a perfect husband for her sister, Lakshmi, revealing the enduring strength of sisterhood and the power of destiny over this journey.</desc>
+		<desc>Soumya challenges Mangal to single-handedly oversee the Diwali celebrations. Undeterred, Mangal vows to surprise the family with a delightful evening.</desc>
 	</programme>
 	<programme channel="5652" start="20241101010000 +0000" stop="20241101013000 +0000">
 		<title>Suman Indori Episode 58</title>
-		<desc>Forced by fate to marry a rich, shrewd politician, Suman embraces obstacles adjusting to her new life while dealing with her sister-in-law who seeks to become the head of the household.</desc>
+		<desc>While Teerth's altercation with his neighbours threatens to slip out of control, Devika tries to shift the blame on Suman.</desc>
 	</programme>
 	<programme channel="5652" start="20241101013000 +0000" stop="20241101020000 +0000">
 		<title>Mishri Episode 118</title>
-		<desc>A young girl, adored by her community, finds joy in the happiness of others and strives to fulfil her late father's aspirations by finishing her academic education.</desc>
+		<desc>With Diwali around the corner, Raghav plans a surprise for Mishri. Later, Mishri is delighted by Raghav's honest efforts.</desc>
 	</programme>
 	<programme channel="5652" start="20241101020000 +0000" stop="20241101023000 +0000">
 		<title>Megha Barsenge Episode 86</title>
-		<desc>After a groom absconds from his wedding, his bride is left at the mercy of her sentiments of abandonment and to endure a judgemental societal structure.</desc>
+		<desc>Despite Arjun succeeding in apprehending Manoj, Megha is haunted by the latter's evil memories. Eventually, Arjun grows concerned about Megha's deteriorating mental health.</desc>
 	</programme>
 	<programme channel="5652" start="20241101023000 +0000" stop="20241101030000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 493</title>
-		<desc>Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity.</desc>
+		<desc>An overjoyed Mahishi names her newborn as Gajasur. Later, she confides her wish to guide her son to the throne of the Asur kingdom.</desc>
 	</programme>
 	<programme channel="5652" start="20241101030000 +0000" stop="20241101033000 +0000">
 		<title>Suman Indori Episode 58</title>
-		<desc>Forced by fate to marry a rich, shrewd politician, Suman embraces obstacles adjusting to her new life while dealing with her sister-in-law who seeks to become the head of the household.</desc>
+		<desc>While Teerth's altercation with his neighbours threatens to slip out of control, Devika tries to shift the blame on Suman.</desc>
 	</programme>
 	<programme channel="5652" start="20241101033000 +0000" stop="20241101040000 +0000">
 		<title>Mangal Lakshmi Episode 246</title>
-		<desc>Mangal searches for a perfect husband for her sister, Lakshmi, revealing the enduring strength of sisterhood and the power of destiny over this journey.</desc>
+		<desc>Soumya challenges Mangal to single-handedly oversee the Diwali celebrations. Undeterred, Mangal vows to surprise the family with a delightful evening.</desc>
 	</programme>
 	<programme channel="5652" start="20241101040000 +0000" stop="20241101043000 +0000">
 		<title>Mera Balam Thanedaar Episode 218</title>
-		<desc>An amiable girl who believes in supporting the lie if someone benefits for good marries a police officer under unfortunate circumstances.</desc>
+		<desc>Disguised as a sheikh, Veer offers to purchase Bulbul as his bride. Later, things take an ugly turn when Veer slaps Ratan for making an offensive comment at Bulbul.</desc>
 	</programme>
 	<programme channel="5652" start="20241101043000 +0000" stop="20241101050000 +0000">
 		<title>Suman Indori Episode 59</title>
-		<desc>Forced by fate to marry a rich, shrewd politician, Suman embraces obstacles adjusting to her new life while dealing with her sister-in-law who seeks to become the head of the household.</desc>
+		<desc>Teerth relocates to Suman's house and undertakes extreme measures to win over her affection. Moved by Teerth's honesty, Suman eventually experiences a change of heart.</desc>
 	</programme>
 	<programme channel="5652" start="20241101050000 +0000" stop="20241101052000 +0000">
 		<title>Megha Barsenge Episode 87</title>
-		<desc>After a groom absconds from his wedding, his bride is left at the mercy of her sentiments of abandonment and to endure a judgemental societal structure.</desc>
+		<desc>Arjun half-heartedly congratulates his father on his professional success. Later, Megha and Arjun experiences a rush of emotions when the latter's family visits her house.</desc>
 	</programme>
 	<programme channel="5652" start="20241101052000 +0000" stop="20241101054000 +0000">
 		<title>Parineetii Episode 920</title>
@@ -29960,7 +29944,7 @@ Kyle、Gillian作格拉斯哥深度游。先往品尝苏格兰传统菜「肉馅
 	</programme>
 	<programme channel="5652" start="20241101054000 +0000" stop="20241101060000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 46</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Durga reminds Vikram about his promise when Rajesh refuses to allow her to pursue her medical education. Later, a confrontation erupts when Rajesh meets Paani Bai.</desc>
 	</programme>
 	<programme channel="5652" start="20241101060000 +0000" stop="20241101063000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 494</title>
@@ -29968,7 +29952,7 @@ Kyle、Gillian作格拉斯哥深度游。先往品尝苏格兰传统菜「肉馅
 	</programme>
 	<programme channel="5652" start="20241101063000 +0000" stop="20241101070000 +0000">
 		<title>Mishri Episode 119</title>
-		<desc>A young girl, adored by her community, finds joy in the happiness of others and strives to fulfil her late father's aspirations by finishing her academic education.</desc>
+		<desc>Vaani mocks Mishri's helplessness when the inspector refuses to retract a police complaint against Parvati. Later, Raghav lands in a dilemma when Parvati slaps Mishri.</desc>
 	</programme>
 	<programme channel="5652" start="20241101070000 +0000" stop="20241101073000 +0000">
 		<title>Mangal Lakshmi Episode 247</title>
@@ -29976,27 +29960,27 @@ Kyle、Gillian作格拉斯哥深度游。先往品尝苏格兰传统菜「肉馅
 	</programme>
 	<programme channel="5652" start="20241101073000 +0000" stop="20241101090000 +0000">
 		<title>Bigg Boss Episode 24</title>
-		<desc>As Bigg Boss delves into the future of the contestants with the cataclysm of technology, the housemates try to conquer 'Time Ka Tandav', and emerge victorious in a locked house in BB's surveillance.</desc>
+		<desc>A surprise awaits the housemates when Bigg Boss makes a shocking announcement. With their future on the line, the contestants scramble to escape a possible eviction.</desc>
 	</programme>
 	<programme channel="5652" start="20241101090000 +0000" stop="20241101093000 +0000">
 		<title>Mangal Lakshmi Episode 246</title>
-		<desc>Mangal searches for a perfect husband for her sister, Lakshmi, revealing the enduring strength of sisterhood and the power of destiny over this journey.</desc>
+		<desc>Soumya challenges Mangal to single-handedly oversee the Diwali celebrations. Undeterred, Mangal vows to surprise the family with a delightful evening.</desc>
 	</programme>
 	<programme channel="5652" start="20241101093000 +0000" stop="20241101100000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 45</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Vikram slips into a fit of blind rage when Rajesh accuses Durga of being a rebellious spouse. Later, Durga is compelled to face the full wrath of Vikram's rage.</desc>
 	</programme>
 	<programme channel="5652" start="20241101100000 +0000" stop="20241101103000 +0000">
 		<title>Mera Balam Thanedaar Episode 218</title>
-		<desc>An amiable girl who believes in supporting the lie if someone benefits for good marries a police officer under unfortunate circumstances.</desc>
+		<desc>Disguised as a sheikh, Veer offers to purchase Bulbul as his bride. Later, things take an ugly turn when Veer slaps Ratan for making an offensive comment at Bulbul.</desc>
 	</programme>
 	<programme channel="5652" start="20241101103000 +0000" stop="20241101110000 +0000">
 		<title>Suman Indori Episode 59</title>
-		<desc>Forced by fate to marry a rich, shrewd politician, Suman embraces obstacles adjusting to her new life while dealing with her sister-in-law who seeks to become the head of the household.</desc>
+		<desc>Teerth relocates to Suman's house and undertakes extreme measures to win over her affection. Moved by Teerth's honesty, Suman eventually experiences a change of heart.</desc>
 	</programme>
 	<programme channel="5652" start="20241101110000 +0000" stop="20241101112000 +0000">
 		<title>Megha Barsenge Episode 87</title>
-		<desc>After a groom absconds from his wedding, his bride is left at the mercy of her sentiments of abandonment and to endure a judgemental societal structure.</desc>
+		<desc>Arjun half-heartedly congratulates his father on his professional success. Later, Megha and Arjun experiences a rush of emotions when the latter's family visits her house.</desc>
 	</programme>
 	<programme channel="5652" start="20241101112000 +0000" stop="20241101114000 +0000">
 		<title>Parineetii Episode 920</title>
@@ -30004,7 +29988,7 @@ Kyle、Gillian作格拉斯哥深度游。先往品尝苏格兰传统菜「肉馅
 	</programme>
 	<programme channel="5652" start="20241101114000 +0000" stop="20241101120000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 46</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Durga reminds Vikram about his promise when Rajesh refuses to allow her to pursue her medical education. Later, a confrontation erupts when Rajesh meets Paani Bai.</desc>
 	</programme>
 	<programme channel="5652" start="20241101120000 +0000" stop="20241101123000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 494</title>
@@ -30012,7 +29996,7 @@ Kyle、Gillian作格拉斯哥深度游。先往品尝苏格兰传统菜「肉馅
 	</programme>
 	<programme channel="5652" start="20241101123000 +0000" stop="20241101130000 +0000">
 		<title>Mishri Episode 119</title>
-		<desc>A young girl, adored by her community, finds joy in the happiness of others and strives to fulfil her late father's aspirations by finishing her academic education.</desc>
+		<desc>Vaani mocks Mishri's helplessness when the inspector refuses to retract a police complaint against Parvati. Later, Raghav lands in a dilemma when Parvati slaps Mishri.</desc>
 	</programme>
 	<programme channel="5652" start="20241101130000 +0000" stop="20241101133000 +0000">
 		<title>Mangal Lakshmi Episode 247</title>
@@ -30020,19 +30004,19 @@ Kyle、Gillian作格拉斯哥深度游。先往品尝苏格兰传统菜「肉馅
 	</programme>
 	<programme channel="5652" start="20241101133000 +0000" stop="20241101150000 +0000">
 		<title>Bigg Boss Episode 25</title>
-		<desc>As Bigg Boss delves into the future of the contestants with the cataclysm of technology, the housemates try to conquer 'Time Ka Tandav', and emerge victorious in a locked house in BB's surveillance.</desc>
+		<desc>Vivian and Karanveer battle it out to secure the throne of 'Time God'. Later, the debate takes an unexpected turn when Chahat's hygiene takes centerstage.</desc>
 	</programme>
 	<programme channel="5652" start="20241101150000 +0000" stop="20241101153000 +0000">
 		<title>Mishri Episode 119</title>
-		<desc>A young girl, adored by her community, finds joy in the happiness of others and strives to fulfil her late father's aspirations by finishing her academic education.</desc>
+		<desc>Vaani mocks Mishri's helplessness when the inspector refuses to retract a police complaint against Parvati. Later, Raghav lands in a dilemma when Parvati slaps Mishri.</desc>
 	</programme>
 	<programme channel="5652" start="20241101153000 +0000" stop="20241101160000 +0000">
 		<title>Suman Indori Episode 59</title>
-		<desc>Forced by fate to marry a rich, shrewd politician, Suman embraces obstacles adjusting to her new life while dealing with her sister-in-law who seeks to become the head of the household.</desc>
+		<desc>Teerth relocates to Suman's house and undertakes extreme measures to win over her affection. Moved by Teerth's honesty, Suman eventually experiences a change of heart.</desc>
 	</programme>
 	<programme channel="5652" start="20241101160000 +0000" stop="20241101162000 +0000">
 		<title>Megha Barsenge Episode 87</title>
-		<desc>After a groom absconds from his wedding, his bride is left at the mercy of her sentiments of abandonment and to endure a judgemental societal structure.</desc>
+		<desc>Arjun half-heartedly congratulates his father on his professional success. Later, Megha and Arjun experiences a rush of emotions when the latter's family visits her house.</desc>
 	</programme>
 	<programme channel="5652" start="20241101162000 +0000" stop="20241101164000 +0000">
 		<title>Parineetii Episode 920</title>
@@ -30040,11 +30024,11 @@ Kyle、Gillian作格拉斯哥深度游。先往品尝苏格兰传统菜「肉馅
 	</programme>
 	<programme channel="5652" start="20241101164000 +0000" stop="20241101170000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 46</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Durga reminds Vikram about his promise when Rajesh refuses to allow her to pursue her medical education. Later, a confrontation erupts when Rajesh meets Paani Bai.</desc>
 	</programme>
 	<programme channel="5652" start="20241101170000 +0000" stop="20241101173000 +0000">
 		<title>Mera Balam Thanedaar Episode 218</title>
-		<desc>An amiable girl who believes in supporting the lie if someone benefits for good marries a police officer under unfortunate circumstances.</desc>
+		<desc>Disguised as a sheikh, Veer offers to purchase Bulbul as his bride. Later, things take an ugly turn when Veer slaps Ratan for making an offensive comment at Bulbul.</desc>
 	</programme>
 	<programme channel="5652" start="20241101173000 +0000" stop="20241101180000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 494</title>
@@ -30052,7 +30036,7 @@ Kyle、Gillian作格拉斯哥深度游。先往品尝苏格兰传统菜「肉馅
 	</programme>
 	<programme channel="5652" start="20241101180000 +0000" stop="20241101183000 +0000">
 		<title>Suman Indori Episode 59</title>
-		<desc>Forced by fate to marry a rich, shrewd politician, Suman embraces obstacles adjusting to her new life while dealing with her sister-in-law who seeks to become the head of the household.</desc>
+		<desc>Teerth relocates to Suman's house and undertakes extreme measures to win over her affection. Moved by Teerth's honesty, Suman eventually experiences a change of heart.</desc>
 	</programme>
 	<programme channel="5652" start="20241101183000 +0000" stop="20241101190000 +0000">
 		<title>Parineetii Episode 920</title>
@@ -30068,15 +30052,15 @@ Kyle、Gillian作格拉斯哥深度游。先往品尝苏格兰传统菜「肉馅
 	</programme>
 	<programme channel="5652" start="20241101200000 +0000" stop="20241101203000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 46</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Durga reminds Vikram about his promise when Rajesh refuses to allow her to pursue her medical education. Later, a confrontation erupts when Rajesh meets Paani Bai.</desc>
 	</programme>
 	<programme channel="5652" start="20241101203000 +0000" stop="20241101210000 +0000">
 		<title>Mera Balam Thanedaar Episode 218</title>
-		<desc>An amiable girl who believes in supporting the lie if someone benefits for good marries a police officer under unfortunate circumstances.</desc>
+		<desc>Disguised as a sheikh, Veer offers to purchase Bulbul as his bride. Later, things take an ugly turn when Veer slaps Ratan for making an offensive comment at Bulbul.</desc>
 	</programme>
 	<programme channel="5652" start="20241101210000 +0000" stop="20241101213000 +0000">
 		<title>Mishri Episode 119</title>
-		<desc>A young girl, adored by her community, finds joy in the happiness of others and strives to fulfil her late father's aspirations by finishing her academic education.</desc>
+		<desc>Vaani mocks Mishri's helplessness when the inspector refuses to retract a police complaint against Parvati. Later, Raghav lands in a dilemma when Parvati slaps Mishri.</desc>
 	</programme>
 	<programme channel="5652" start="20241101213000 +0000" stop="20241101220000 +0000">
 		<title>Parineetii Episode 918</title>
@@ -30092,23 +30076,23 @@ Kyle、Gillian作格拉斯哥深度游。先往品尝苏格兰传统菜「肉馅
 	</programme>
 	<programme channel="5652" start="20241101230000 +0000" stop="20241101233000 +0000">
 		<title>Megha Barsenge Episode 85</title>
-		<desc>After a groom absconds from his wedding, his bride is left at the mercy of her sentiments of abandonment and to endure a judgemental societal structure.</desc>
+		<desc>Arjun builds a fortress of police officers and security guards around the hospital to safeguard Megha. However, Manoj secures a disguise and manages to sneak into the hospital ward.</desc>
 	</programme>
 	<programme channel="5652" start="20241101233000 +0000" stop="20241102000000 +0000">
 		<title>Megha Barsenge Episode 86</title>
-		<desc>After a groom absconds from his wedding, his bride is left at the mercy of her sentiments of abandonment and to endure a judgemental societal structure.</desc>
+		<desc>Despite Arjun succeeding in apprehending Manoj, Megha is haunted by the latter's evil memories. Eventually, Arjun grows concerned about Megha's deteriorating mental health.</desc>
 	</programme>
 	<programme channel="5652" start="20241102000000 +0000" stop="20241102003000 +0000">
 		<title>Megha Barsenge Episode 87</title>
-		<desc>After a groom absconds from his wedding, his bride is left at the mercy of her sentiments of abandonment and to endure a judgemental societal structure.</desc>
+		<desc>Arjun half-heartedly congratulates his father on his professional success. Later, Megha and Arjun experiences a rush of emotions when the latter's family visits her house.</desc>
 	</programme>
 	<programme channel="5652" start="20241102003000 +0000" stop="20241102010000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 492</title>
-		<desc>Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity.</desc>
+		<desc>Lord Shiva intervenes and saves Mahishi and her unborn child from Indra's rage. Later, things take a turn when Lord Ram confronts Indra Dev.</desc>
 	</programme>
 	<programme channel="5652" start="20241102010000 +0000" stop="20241102013000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 493</title>
-		<desc>Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity.</desc>
+		<desc>An overjoyed Mahishi names her newborn as Gajasur. Later, she confides her wish to guide her son to the throne of the Asur kingdom.</desc>
 	</programme>
 	<programme channel="5652" start="20241102013000 +0000" stop="20241102020000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 494</title>
@@ -30116,15 +30100,15 @@ Kyle、Gillian作格拉斯哥深度游。先往品尝苏格兰传统菜「肉馅
 	</programme>
 	<programme channel="5652" start="20241102020000 +0000" stop="20241102023000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 44</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Durga confides with Meera about her previous marriage with Anurag. Later, Meera is shocked to learn about Durga's intention to forsake Rajesh and pursue her academic dreams.</desc>
 	</programme>
 	<programme channel="5652" start="20241102023000 +0000" stop="20241102030000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 45</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Vikram slips into a fit of blind rage when Rajesh accuses Durga of being a rebellious spouse. Later, Durga is compelled to face the full wrath of Vikram's rage.</desc>
 	</programme>
 	<programme channel="5652" start="20241102030000 +0000" stop="20241102033000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 46</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Durga reminds Vikram about his promise when Rajesh refuses to allow her to pursue her medical education. Later, a confrontation erupts when Rajesh meets Paani Bai.</desc>
 	</programme>
 	<programme channel="5652" start="20241102033000 +0000" stop="20241102040000 +0000">
 		<title>Desi Beat Episode 34</title>
@@ -30164,7 +30148,7 @@ Kyle、Gillian作格拉斯哥深度游。先往品尝苏格兰传统菜「肉馅
 	</programme>
 	<programme channel="5652" start="20241102073000 +0000" stop="20241102090000 +0000">
 		<title>Bigg Boss Episode 25</title>
-		<desc>As Bigg Boss delves into the future of the contestants with the cataclysm of technology, the housemates try to conquer 'Time Ka Tandav', and emerge victorious in a locked house in BB's surveillance.</desc>
+		<desc>Vivian and Karanveer battle it out to secure the throne of 'Time God'. Later, the debate takes an unexpected turn when Chahat's hygiene takes centerstage.</desc>
 	</programme>
 	<programme channel="5652" start="20241102090000 +0000" stop="20241102093000 +0000">
 		<title>Mangal Lakshmi Episode 247</title>
@@ -30172,7 +30156,7 @@ Kyle、Gillian作格拉斯哥深度游。先往品尝苏格兰传统菜「肉馅
 	</programme>
 	<programme channel="5652" start="20241102093000 +0000" stop="20241102100000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 46</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Durga reminds Vikram about his promise when Rajesh refuses to allow her to pursue her medical education. Later, a confrontation erupts when Rajesh meets Paani Bai.</desc>
 	</programme>
 	<programme channel="5652" start="20241102100000 +0000" stop="20241102103000 +0000">
 		<title>Desi Beat Episode 36</title>
@@ -30207,8 +30191,8 @@ Kyle、Gillian作格拉斯哥深度游。先往品尝苏格兰传统菜「肉馅
 		<desc>Mangal searches for a perfect husband for her sister, Lakshmi, revealing the enduring strength of sisterhood and the power of destiny over this journey.</desc>
 	</programme>
 	<programme channel="5652" start="20241102133000 +0000" stop="20241102150000 +0000">
-		<title>Bigg Boss Episode 26</title>
-		<desc>As Bigg Boss delves into the future of the contestants with the cataclysm of technology, the housemates try to conquer 'Time Ka Tandav', and emerge victorious in a locked house in BB's surveillance.</desc>
+		<title>Bigg Boss - Weekend Ka Vaar Episode 26</title>
+		<desc>Host Salman Khan entertains the audience and interacts with the housemates to discuss the various happenings over the week.</desc>
 	</programme>
 	<programme channel="5652" start="20241102150000 +0000" stop="20241102153000 +0000">
 		<title>Desi Beat Episode 36</title>
@@ -31058,11 +31042,11 @@ Kyle、Gillian作格拉斯哥深度游。先往品尝苏格兰传统菜「肉馅
 		<title>Pump Up</title>
 		<desc>A comprehensive and melodious compilation of some of the most popular songs composed by renowned artists is played back to back.</desc>
 	</programme>
-	<programme channel="5658" start="20241102110000 +0000" stop="20241102120000 +0000">
+	<programme channel="5658" start="20241102110000 +0000" stop="20241102121500 +0000">
 		<title>Hustle Episode 3</title>
 		<desc>Talented rappers from all over the country compete against each other and perform various tasks to win a chance to shine and build a career.</desc>
 	</programme>
-	<programme channel="5658" start="20241102120000 +0000" stop="20241102130000 +0000">
+	<programme channel="5658" start="20241102121500 +0000" stop="20241102130000 +0000">
 		<title>Roadies Real Heroes Episode 7</title>
 		<desc>Youngsters from different regions, who have made a significant impact on the society, compete in a series of tasks to prove their mettle and become real-life heroes.</desc>
 	</programme>
@@ -31219,7 +31203,7 @@ Kyle、Gillian作格拉斯哥深度游。先往品尝苏格兰传统菜「肉馅
 		<desc>When the leader of a ruling party dies, there is a power struggle to fill his shoes. His adopted son, the mysterious Stephen, steps in and faces challenges in all spheres of life.</desc>
 	</programme>
 	<programme channel="5668" start="20241101213600 +0000" stop="20241101221400 +0000">
-		<title>EXTRAA SHOTS LUDO</title>
+		<title>Extraa Shots Ludo</title>
 		<desc>Watch behind the scenes and meet the cast and crew of the movie.</desc>
 	</programme>
 	<programme channel="5668" start="20241101221400 +0000" stop="20241102000000 +0000">
@@ -31239,7 +31223,7 @@ Kyle、Gillian作格拉斯哥深度游。先往品尝苏格兰传统菜「肉馅
 		<desc>IPS officer Manoj Kumar Sharma fearlessly embraces the idea of restarting his academic journey and reclaiming his destiny at a place where millions of students attempt the world's toughest competitive exam: UPSC.</desc>
 	</programme>
 	<programme channel="5668" start="20241102062400 +0000" stop="20241102085900 +0000">
-		<title>CHAK DE! INDIA</title>
+		<title>Chak De! India</title>
 		<desc>The story of a hockey player who returns to the game as a coach of a women's hockey team.</desc>
 	</programme>
 	<programme channel="5668" start="20241102085900 +0000" stop="20241102120000 +0000">
@@ -31291,11 +31275,11 @@ Kyle、Gillian作格拉斯哥深度游。先往品尝苏格兰传统菜「肉馅
 		<desc>Entertainement</desc>
 	</programme>
 	<programme channel="5670" start="20241101183000 +0000" stop="20241101213000 +0000">
-		<title>Movie</title>
+		<title>ATHADE</title>
 		<desc>Entertainement</desc>
 	</programme>
 	<programme channel="5670" start="20241101213000 +0000" stop="20241102003000 +0000">
-		<title>Movie</title>
+		<title>DAGGARAGA DOORAMGA</title>
 		<desc>Entertainement</desc>
 	</programme>
 	<programme channel="5670" start="20241102003000 +0000" stop="20241102013000 +0000">
@@ -31303,23 +31287,23 @@ Kyle、Gillian作格拉斯哥深度游。先往品尝苏格兰传统菜「肉馅
 		<desc>Entertainement</desc>
 	</programme>
 	<programme channel="5670" start="20241102013000 +0000" stop="20241102033000 +0000">
-		<title>Movie</title>
+		<title>SHAKINI DAKINI</title>
 		<desc>Entertainement</desc>
 	</programme>
 	<programme channel="5670" start="20241102033000 +0000" stop="20241102053000 +0000">
-		<title>Movie</title>
+		<title>HAPPY DAYS</title>
 		<desc>Entertainement</desc>
 	</programme>
 	<programme channel="5670" start="20241102053000 +0000" stop="20241102100000 +0000">
-		<title>Movie</title>
+		<title>MIRCHI</title>
 		<desc>Entertainement</desc>
 	</programme>
 	<programme channel="5670" start="20241102100000 +0000" stop="20241102123000 +0000">
-		<title>Movie</title>
+		<title>JANATHA GARRAGE</title>
 		<desc>Entertainement</desc>
 	</programme>
 	<programme channel="5670" start="20241102123000 +0000" stop="20241102150000 +0000">
-		<title>Movie</title>
+		<title>SKANDA</title>
 		<desc>Entertainement</desc>
 	</programme>
 	<programme channel="5671" start="20241031160000 +0000" stop="20241031170000 +0000">
@@ -31443,15 +31427,15 @@ Kyle、Gillian作格拉斯哥深度游。先往品尝苏格兰传统菜「肉馅
 		<desc>Movie_RAJA THE GREAT</desc>
 	</programme>
 	<programme channel="5671" start="20241101183000 +0000" stop="20241101203000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie_RAJA THE GREAT</title>
+		<desc>Movie_RAJA THE GREAT</desc>
 	</programme>
 	<programme channel="5671" start="20241101203000 +0000" stop="20241101230000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie_INKOKKADU</title>
+		<desc>Movie_INKOKKADU</desc>
 	</programme>
 	<programme channel="5671" start="20241101230000 +0000" stop="20241102010000 +0000">
-		<title>Movie</title>
+		<title>Movie_RAIL</title>
 		<desc>Entertainment</desc>
 	</programme>
 	<programme channel="5671" start="20241102010000 +0000" stop="20241102013000 +0000">
@@ -31463,7 +31447,7 @@ Kyle、Gillian作格拉斯哥深度游。先往品尝苏格兰传统菜「肉馅
 		<desc>AADIVARAM STAR MAA PARIVARAM ® - STAR WARS</desc>
 	</programme>
 	<programme channel="5671" start="20241102033000 +0000" stop="20241102063000 +0000">
-		<title>Movie</title>
+		<title>MOVIE_RRR</title>
 		<desc>Entertainment</desc>
 	</programme>
 	<programme channel="5671" start="20241102063000 +0000" stop="20241102070000 +0000">
@@ -32531,8 +32515,8 @@ Kyle、Gillian作格拉斯哥深度游。先往品尝苏格兰传统菜「肉馅
 		<desc>An actor Seiji Rokkaku, who loves both train and liquor, travels around Japan by rail. He stops over at stations he likes and explores the streets. Enjoy the fun-filled railroad trip with the music he selects!</desc>
 	</programme>
 	<programme channel="5682" start="20241101142500 +0000" stop="20241101143000 +0000">
-		<title>Mini Program</title>
-		<desc>Mini Program</desc>
+		<title>Camera-eyed Japan</title>
+		<desc>Camera-eyed Japan</desc>
 	</programme>
 	<programme channel="5682" start="20241101143000 +0000" stop="20241101144000 +0000">
 		<title>News Commentary</title>
@@ -32659,8 +32643,8 @@ Kyle、Gillian作格拉斯哥深度游。先往品尝苏格兰传统菜「肉馅
 		<desc>The latest up-to-date news and nationwide weather information.</desc>
 	</programme>
 	<programme channel="5682" start="20241102010500 +0000" stop="20241102013800 +0000">
-		<title>The Visualization Entertainment: Go! Kaneo-kun (R)</title>
-		<desc>The Visualization Entertainment: Go! Kaneo-kun (R)</desc>
+		<title>The Visualization Entertainment: Go! Kaneo-kun</title>
+		<desc>The show is MC-ed by comedian Ariyoshi Hiroiki, who hosts an NHK program on a regular basis for the first time. The mascot character "Kaneo-kun" (voice of Nobu, of comedy duo Chidori), who loves money, visits various places, including popular visiting lo</desc>
 	</programme>
 	<programme channel="5682" start="20241102013800 +0000" stop="20241102022300 +0000">
 		<title>The Secrets of Japan's Treasures "Haniwa, Warrior in Keiko Armor" (R)</title>
@@ -32743,8 +32727,8 @@ Kyle、Gillian作格拉斯哥深度游。先往品尝苏格兰传统菜「肉馅
 		<desc>This children's program includes a puppet show, cartoon, music, and gymnastics in which children can participate.</desc>
 	</programme>
 	<programme channel="5682" start="20241102085900 +0000" stop="20241102090000 +0000">
-		<title>Blue &amp; Yellow 1min</title>
-		<desc>As different colors, blue and yellow can make green by getting together, similarly different lives can coexist by helping each other. This is a program to develop the mind of living together.</desc>
+		<title>Mini Program</title>
+		<desc>Mini Program</desc>
 	</programme>
 	<programme channel="5682" start="20241102090000 +0000" stop="20241102090500 +0000">
 		<title>News (B)</title>
@@ -34638,17 +34622,21 @@ Kyle、Gillian作格拉斯哥深度游。先往品尝苏格兰传统菜「肉馅
 		<title>TV PATROL GLOBAL EDITION</title>
 		<desc>TV PATROL GLOBAL EDITION</desc>
 	</programme>
-	<programme channel="5693" start="20241101213000 +0000" stop="20241101223000 +0000">
+	<programme channel="5693" start="20241101213000 +0000" stop="20241101220000 +0000">
 		<title>KAPAMILYA DAILY MASS</title>
 		<desc>KAPAMILYA DAILY MASS</desc>
+	</programme>
+	<programme channel="5693" start="20241101220000 +0000" stop="20241101223000 +0000">
+		<title>MY PUHUNAN: KAYA MO!</title>
+		<desc>MY PUHUNAN: KAYA MO!</desc>
 	</programme>
 	<programme channel="5693" start="20241101223000 +0000" stop="20241101230000 +0000">
 		<title>CHEF RV'S KITCHEN S14</title>
 		<desc>CHEF RV'S KITCHEN S14</desc>
 	</programme>
 	<programme channel="5693" start="20241101230000 +0000" stop="20241102000000 +0000">
-		<title>FOOD PRINTS S5</title>
-		<desc>FOOD PRINTS S5</desc>
+		<title>FOOD PRINTS S7</title>
+		<desc>FOOD PRINTS S7</desc>
 	</programme>
 	<programme channel="5693" start="20241102000000 +0000" stop="20241102003000 +0000">
 		<title>WOW</title>
@@ -34703,8 +34691,8 @@ Kyle、Gillian作格拉斯哥深度游。先往品尝苏格兰传统菜「肉馅
 		<desc>RAINBOW RUMBLE</desc>
 	</programme>
 	<programme channel="5693" start="20241102123000 +0000" stop="20241102133000 +0000">
-		<title>HIGH STREET (SAT)</title>
-		<desc>HIGH STREET (SAT)</desc>
+		<title>HIGH STREET</title>
+		<desc>HIGH STREET</desc>
 	</programme>
 	<programme channel="5693" start="20241102133000 +0000" stop="20241102140000 +0000">
 		<title>OGIE DIAZ INSPIRES</title>
