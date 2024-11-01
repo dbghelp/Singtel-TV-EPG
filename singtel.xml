@@ -4886,9 +4886,13 @@ Xiao Wuxia, the young lord of Moonfall City, endures humiliation and infiltrates
 		<title>Australia Tour of England 2024 Highlights: Eng v Aus 1st ODI Episode 943443</title>
 		<desc>Australia Tour of England 2024 Highlights: Eng v Aus 1st ODI</desc>
 	</programme>
-	<programme channel="5123" start="20241102020000 +0000" stop="20241102100000 +0000">
+	<programme channel="5123" start="20241102020000 +0000" stop="20241102080000 +0000">
 		<title>England Tour of West Indies 2024: 1st ODI Episode 952137</title>
 		<desc>England Tour of West Indies 2024: 1st ODI</desc>
+	</programme>
+	<programme channel="5123" start="20241102080000 +0000" stop="20241102100000 +0000">
+		<title>New Zealand Women's Tour of England 2024: Eng v NZ 2nd T20 Episode 912871</title>
+		<desc>New Zealand Women's Tour of England 2024: Eng v NZ 2nd T20</desc>
 	</programme>
 	<programme channel="5123" start="20241102100000 +0000" stop="20241102132500 +0000">
 		<title>DP World ILT20 2024: Desert Vipers vs Gulf Giants Episode 861378</title>
@@ -6696,7 +6700,7 @@ Xiao Wuxia, the young lord of Moonfall City, endures humiliation and infiltrates
 	</programme>
 	<programme channel="5157" start="20241101203000 +0000" stop="20241101210000 +0000">
 		<title>Today's Close-Up</title>
-		<desc>Dig deeper into current affairs. Cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+		<desc>Nihon Hidankyo, a group in support of atomic bomb sufferers, was awarded the Nobel Peace Prize. With the A-bomb survivors getting older, how can we ensure their memories are kept alive?</desc>
 	</programme>
 	<programme channel="5157" start="20241101210000 +0000" stop="20241101211800 +0000">
 		<title>NHK NEWSLINE&lt;NY&gt;</title>
@@ -6784,7 +6788,7 @@ Xiao Wuxia, the young lord of Moonfall City, endures humiliation and infiltrates
 	</programme>
 	<programme channel="5157" start="20241102031000 +0000" stop="20241102034000 +0000">
 		<title>Today's Close-Up</title>
-		<desc>Dig deeper into current affairs. Cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+		<desc>Nihon Hidankyo, a group in support of atomic bomb sufferers, was awarded the Nobel Peace Prize. With the A-bomb survivors getting older, how can we ensure their memories are kept alive?</desc>
 	</programme>
 	<programme channel="5157" start="20241102034000 +0000" stop="20241102035000 +0000">
 		<title>Viewpoint Science</title>
@@ -6884,7 +6888,7 @@ Xiao Wuxia, the young lord of Moonfall City, endures humiliation and infiltrates
 	</programme>
 	<programme channel="5157" start="20241102101000 +0000" stop="20241102104000 +0000">
 		<title>Today's Close-Up</title>
-		<desc>Dig deeper into current affairs. Cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+		<desc>Nihon Hidankyo, a group in support of atomic bomb sufferers, was awarded the Nobel Peace Prize. With the A-bomb survivors getting older, how can we ensure their memories are kept alive?</desc>
 	</programme>
 	<programme channel="5157" start="20241102104000 +0000" stop="20241102105000 +0000">
 		<title>Viewpoint Science</title>
@@ -8135,12 +8139,12 @@ Xiao Wuxia, the young lord of Moonfall City, endures humiliation and infiltrates
 		<desc>DW News</desc>
 	</programme>
 	<programme channel="5161" start="20241101171500 +0000" stop="20241101173000 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Best of DW-online Content</desc>
+		<title>REV</title>
+		<desc>Join Sri Lankan daredevil Jagath Perera as he defies gravity on the Wall of Death. A tradition over 100 years old, these fearless riders face broken bones and deadly falls—but their passion keeps the spectacle alive. Will this be the last generation of Wa</desc>
 	</programme>
 	<programme channel="5161" start="20241101173000 +0000" stop="20241101180000 +0000">
 		<title>Afrimaxx</title>
-		<desc>Afrimaxx</desc>
+		<desc>This time host Palesa Tembe is in Newtown, Johannesburg to meet dancer Tom London. Plus, sustainable fine dining, Zanzibar's female seaweed farmers and a Ghanaian in the women's domain of pottery.</desc>
 	</programme>
 	<programme channel="5161" start="20241101180000 +0000" stop="20241101183000 +0000">
 		<title>DW News</title>
@@ -8148,7 +8152,7 @@ Xiao Wuxia, the young lord of Moonfall City, endures humiliation and infiltrates
 	</programme>
 	<programme channel="5161" start="20241101183000 +0000" stop="20241101190000 +0000">
 		<title>Conflict Zone</title>
-		<desc>Conflict Zone</desc>
+		<desc>Tim Sebastian interviews Kaupo Rosin, Director General of the Estonian Foreign Intelligence Service. (First aired: 25 September 2024)</desc>
 	</programme>
 	<programme channel="5161" start="20241101190000 +0000" stop="20241101190200 +0000">
 		<title>DW News</title>
@@ -8156,7 +8160,7 @@ Xiao Wuxia, the young lord of Moonfall City, endures humiliation and infiltrates
 	</programme>
 	<programme channel="5161" start="20241101190200 +0000" stop="20241101193000 +0000">
 		<title>Focus on Europe</title>
-		<desc>Focus on Europe</desc>
+		<desc>A new law in Georgia is sparking fear in the LGBTQ+ community. +++ In Spain, livestock farmers face challenges as wolf populations are on the rise.</desc>
 	</programme>
 	<programme channel="5161" start="20241101193000 +0000" stop="20241101200000 +0000">
 		<title>Eco Africa</title>
@@ -8175,8 +8179,8 @@ Xiao Wuxia, the young lord of Moonfall City, endures humiliation and infiltrates
 		<desc>DW News</desc>
 	</programme>
 	<programme channel="5161" start="20241101210200 +0000" stop="20241101211500 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Best of DW-online Content</desc>
+		<title>REV</title>
+		<desc>Join Sri Lankan daredevil Jagath Perera as he defies gravity on the Wall of Death. A tradition over 100 years old, these fearless riders face broken bones and deadly falls—but their passion keeps the spectacle alive. Will this be the last generation of Wa</desc>
 	</programme>
 	<programme channel="5161" start="20241101211500 +0000" stop="20241101220000 +0000">
 		<title>DocFilm</title>
@@ -8199,8 +8203,8 @@ Xiao Wuxia, the young lord of Moonfall City, endures humiliation and infiltrates
 		<desc>DW News</desc>
 	</programme>
 	<programme channel="5161" start="20241101231500 +0000" stop="20241101233000 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Best of DW-online Content</desc>
+		<title>REV</title>
+		<desc>Join Sri Lankan daredevil Jagath Perera as he defies gravity on the Wall of Death. A tradition over 100 years old, these fearless riders face broken bones and deadly falls—but their passion keeps the spectacle alive. Will this be the last generation of Wa</desc>
 	</programme>
 	<programme channel="5161" start="20241101233000 +0000" stop="20241102000000 +0000">
 		<title>DW News</title>
@@ -8216,19 +8220,19 @@ Xiao Wuxia, the young lord of Moonfall City, endures humiliation and infiltrates
 	</programme>
 	<programme channel="5161" start="20241102003000 +0000" stop="20241102010000 +0000">
 		<title>REV</title>
-		<desc>REV</desc>
+		<desc>Testing the new Volvo EX30. Can the Swedes' compact e-SUV challenge rivals like the Tesla Model 3 &amp; VW's I.D.3? And, as China targets EV expansion but German manufacturers' EV plans falter, we ask - is the EV dream dead?</desc>
 	</programme>
 	<programme channel="5161" start="20241102010000 +0000" stop="20241102011500 +0000">
 		<title>DW News</title>
 		<desc>DW News</desc>
 	</programme>
 	<programme channel="5161" start="20241102011500 +0000" stop="20241102013000 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Best of DW-online Content</desc>
+		<title>Planet A</title>
+		<desc>As the planet gets hotter, more people use air conditioners to keep cool. Running these takes lots of energy, which means emissions that then further speed up global warming. Rethinking our architecture and using more efficient cooling technologies could</desc>
 	</programme>
 	<programme channel="5161" start="20241102013000 +0000" stop="20241102020000 +0000">
 		<title>Tomorrow Today</title>
-		<desc>Tomorrow Today</desc>
+		<desc>Why we need diversity in animals and plants, and what food has to do with culture and background.</desc>
 	</programme>
 	<programme channel="5161" start="20241102020000 +0000" stop="20241102020200 +0000">
 		<title>DW News</title>
@@ -8247,8 +8251,8 @@ Xiao Wuxia, the young lord of Moonfall City, endures humiliation and infiltrates
 		<desc>DW News</desc>
 	</programme>
 	<programme channel="5161" start="20241102031500 +0000" stop="20241102033000 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Best of DW-online Content</desc>
+		<title>REV</title>
+		<desc>Join Sri Lankan daredevil Jagath Perera as he defies gravity on the Wall of Death. A tradition over 100 years old, these fearless riders face broken bones and deadly falls—but their passion keeps the spectacle alive. Will this be the last generation of Wa</desc>
 	</programme>
 	<programme channel="5161" start="20241102033000 +0000" stop="20241102040000 +0000">
 		<title>DocFilm</title>
@@ -8272,23 +8276,23 @@ Xiao Wuxia, the young lord of Moonfall City, endures humiliation and infiltrates
 	</programme>
 	<programme channel="5161" start="20241102050200 +0000" stop="20241102053000 +0000">
 		<title>Arts Unveiled</title>
-		<desc>Arts Unveiled</desc>
+		<desc>Roma heroes who resisted the Nazis. Sinti boxer Johann 'Rukeli' Trollmann staged a protest at a title fight to ridicule the Nazi's racial ideology. Alfreda "Noncia" Markowska saved around 50 children destined for concentration and death camps.</desc>
 	</programme>
 	<programme channel="5161" start="20241102053000 +0000" stop="20241102060000 +0000">
 		<title>The 77 Percent</title>
-		<desc>The 77 Percent</desc>
+		<desc>Ten years after the abduction of the 'Chibok girls' and resulting #BringBackOutGirls campaign, we take a look at the issue of kidnappings across Africa. In Nigeria abduction has a business run by so-called 'bandits'. In our Street debate we talk to one of</desc>
 	</programme>
 	<programme channel="5161" start="20241102060000 +0000" stop="20241102061500 +0000">
 		<title>DW News</title>
 		<desc>DW News</desc>
 	</programme>
 	<programme channel="5161" start="20241102061500 +0000" stop="20241102063000 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Best of DW-online Content</desc>
+		<title>REV</title>
+		<desc>Join Sri Lankan daredevil Jagath Perera as he defies gravity on the Wall of Death. A tradition over 100 years old, these fearless riders face broken bones and deadly falls—but their passion keeps the spectacle alive. Will this be the last generation of Wa</desc>
 	</programme>
 	<programme channel="5161" start="20241102063000 +0000" stop="20241102070000 +0000">
 		<title>REV</title>
-		<desc>REV</desc>
+		<desc>Testing the new Volvo EX30. Can the Swedes' compact e-SUV challenge rivals like the Tesla Model 3 &amp; VW's I.D.3? And, as China targets EV expansion but German manufacturers' EV plans falter, we ask - is the EV dream dead?</desc>
 	</programme>
 	<programme channel="5161" start="20241102070000 +0000" stop="20241102071500 +0000">
 		<title>DW News</title>
@@ -8296,11 +8300,11 @@ Xiao Wuxia, the young lord of Moonfall City, endures humiliation and infiltrates
 	</programme>
 	<programme channel="5161" start="20241102071500 +0000" stop="20241102073000 +0000">
 		<title>Sports Life</title>
-		<desc>Sports Life</desc>
+		<desc>An indigenous community in southeast Mexico has had strict gender roles stretching back to the Mayan civilization. But Las Amazonas are changing that: a team of women shattering expectations by playing softball in traditional outfits while highlighting th</desc>
 	</programme>
 	<programme channel="5161" start="20241102073000 +0000" stop="20241102080000 +0000">
 		<title>Tomorrow Today</title>
-		<desc>Tomorrow Today</desc>
+		<desc>Why we need diversity in animals and plants, and what food has to do with culture and background.</desc>
 	</programme>
 	<programme channel="5161" start="20241102080000 +0000" stop="20241102081500 +0000">
 		<title>DW News</title>
@@ -8316,7 +8320,7 @@ Xiao Wuxia, the young lord of Moonfall City, endures humiliation and infiltrates
 	</programme>
 	<programme channel="5161" start="20241102091500 +0000" stop="20241102093000 +0000">
 		<title>Sports Life</title>
-		<desc>Sports Life</desc>
+		<desc>An indigenous community in southeast Mexico has had strict gender roles stretching back to the Mayan civilization. But Las Amazonas are changing that: a team of women shattering expectations by playing softball in traditional outfits while highlighting th</desc>
 	</programme>
 	<programme channel="5161" start="20241102093000 +0000" stop="20241102100000 +0000">
 		<title>In Good Shape</title>
@@ -8364,15 +8368,15 @@ Xiao Wuxia, the young lord of Moonfall City, endures humiliation and infiltrates
 	</programme>
 	<programme channel="5161" start="20241102143000 +0000" stop="20241102150000 +0000">
 		<title>The 77 Percent</title>
-		<desc>The 77 Percent</desc>
+		<desc>Ten years after the abduction of the 'Chibok girls' and resulting #BringBackOutGirls campaign, we take a look at the issue of kidnappings across Africa. In Nigeria abduction has a business run by so-called 'bandits'. In our Street debate we talk to one of</desc>
 	</programme>
 	<programme channel="5161" start="20241102150000 +0000" stop="20241102151500 +0000">
 		<title>DW News</title>
 		<desc>DW News</desc>
 	</programme>
 	<programme channel="5161" start="20241102151500 +0000" stop="20241102153000 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Best of DW-online Content</desc>
+		<title>Transforming Business</title>
+		<desc>Electrifying transport is one of the main ways that cities and countries can reduce their carbon footprints. But not everyone wants, or can afford, their own personal electric vehicle. We go to two countries that are looking to power up their fleets -- bo</desc>
 	</programme>
 	<programme channel="5165" start="20241031160000 +0000" stop="20241031170000 +0000">
 		<title>Outnumbered</title>
@@ -26243,7 +26247,7 @@ Kyle、Gillian作格拉斯哥深度游。先往品尝苏格兰传统菜「肉馅
 		<desc>Radit and Rangga have a mutual affection for Tiara. But Tiara would rather have Radit as her lover than Rangga. For Radit and Tiara's happiness, Rangga made the decision to cave in and make a sacrifice. He let the woman he cared about to be content with the man she choose. But he pledged to support Tiara no matter what.</desc>
 	</programme>
 	<programme channel="5618" start="20241101223000 +0000" stop="20241101233000 +0000">
-		<title>SETULUS HATI EPS 80</title>
+		<title>SETULUS HATI EPS 88-89</title>
 		<desc>Narrates the tale of the romance between Rossa, a flight attendant, and pilot Alvino. They are both fortunate to have one another, and their marriage always seems to be going well. Their home life is incredibly loving and peaceful. Rossa is always led astray by Alvino's sentimental demeanor, which 'touches' her.</desc>
 	</programme>
 	<programme channel="5618" start="20241101233000 +0000" stop="20241102003000 +0000">
@@ -26271,7 +26275,7 @@ Kyle、Gillian作格拉斯哥深度游。先往品尝苏格兰传统菜「肉馅
 		<desc>Radit and Rangga have a mutual affection for Tiara. But Tiara would rather have Radit as her lover than Rangga. For Radit and Tiara's happiness, Rangga made the decision to cave in and make a sacrifice. He let the woman he cared about to be content with the man she choose. But he pledged to support Tiara no matter what.</desc>
 	</programme>
 	<programme channel="5618" start="20241102063000 +0000" stop="20241102073000 +0000">
-		<title>SETULUS HATI EPS 80</title>
+		<title>SETULUS HATI EPS 88-89</title>
 		<desc>Narrates the tale of the romance between Rossa, a flight attendant, and pilot Alvino. They are both fortunate to have one another, and their marriage always seems to be going well. Their home life is incredibly loving and peaceful. Rossa is always led astray by Alvino's sentimental demeanor, which 'touches' her.</desc>
 	</programme>
 	<programme channel="5618" start="20241102073000 +0000" stop="20241102083000 +0000">
@@ -26295,7 +26299,7 @@ Kyle、Gillian作格拉斯哥深度游。先往品尝苏格兰传统菜「肉馅
 		<desc>It tells the story of Aldebaran (Arya Saloka) who initially wanted to avenge the death of his sister and ended up marrying Andin (Amanda Manopo) who was imprisoned due to accusations by his sister, Elsa (Glenca Chysara). When all is revealed, Elsa is serving her sentence because she is the real culprit. Nino (Evan Sanders) who is Andin's ex-husband is now obsessed with Reyna, his daughter and Andin. Al Fahri's family survived and their happiness increased with the birth of Askara. Watch today...</desc>
 	</programme>
 	<programme channel="5618" start="20241102133000 +0000" stop="20241102143000 +0000">
-		<title>SETULUS HATI EPS 81</title>
+		<title>SETULUS HATI EPS 90</title>
 		<desc>Narrates the tale of the romance between Rossa, a flight attendant, and pilot Alvino. They are both fortunate to have one another, and their marriage always seems to be going well. Their home life is incredibly loving and peaceful. Rossa is always led astray by Alvino's sentimental demeanor, which 'touches' her.</desc>
 	</programme>
 	<programme channel="5618" start="20241102143000 +0000" stop="20241102153000 +0000">
@@ -31098,11 +31102,11 @@ Kyle、Gillian作格拉斯哥深度游。先往品尝苏格兰传统菜「肉馅
 		<title>Deewana</title>
 		<desc>Newlywed Kajal's husband Ravi is killed by his enemies. She moves to the city and marries again, but her happiness is jinxed when Ravi returns. Release Year: 1992 Director: Raj Kanwar Awards: 1993 Winner Filmfare Award- Best Music Direction- Nadeem Saifi, Shravan Rathod, 1993 Winner Filmfare Award- Best Lyricist- Sameer, 1993 Winner Filmfare Award- Best Playback Singer- Kumar Sanu, 1993 Winner Filmfare Award- Best Debut Actor- Shah Rukh Khan</desc>
 	</programme>
-	<programme channel="5662" start="20241101140000 +0000" stop="20241101140000 +0000">
+	<programme channel="5662" start="20241101140000 +0000" stop="20241101140400 +0000">
 		<title>Rab Ne Bana Di Jodi</title>
 		<desc>Surinder, a simple man, falls for a vivacious Tani and gets married to her. In order to impress her, he undergoes a complete makeover and becomes Raj. Release Year: 2008 Director: Aditya Chopra Awards: Best Actor: Shah Rukh Khan Apsara Film Producers Guild Awards; Best Playback Singer - Male: Sukhwinder Singh, Best Scene of the Year Filmfare Awards</desc>
 	</programme>
-	<programme channel="5662" start="20241101140000 +0000" stop="20241101170000 +0000">
+	<programme channel="5662" start="20241101140400 +0000" stop="20241101170000 +0000">
 		<title>Rab Ne Bana Di Jodi</title>
 		<desc>Surinder, a simple man, falls for a vivacious Tani and gets married to her. In order to impress her, he undergoes a complete makeover and becomes Raj. Release Year: 2008 Director: Aditya Chopra Awards: Best Actor: Shah Rukh Khan Apsara Film Producers Guild Awards; Best Playback Singer - Male: Sukhwinder Singh, Best Scene of the Year Filmfare Awards</desc>
 	</programme>
