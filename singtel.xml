@@ -4735,9 +4735,13 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<title>DP World ILT20 2024: Dubai Capitals vs Sharjah Warriors Episode 861364</title>
 		<desc>DP World ILT20 2024: Dubai Capitals vs Sharjah Warriors</desc>
 	</programme>
-	<programme channel="5123" start="20241105020000 +0000" stop="20241105100000 +0000">
+	<programme channel="5123" start="20241105020000 +0000" stop="20241105093000 +0000">
 		<title>England Tour of West Indies 2024: 2nd ODI Episode 952138</title>
 		<desc>England Tour of West Indies 2024: 2nd ODI</desc>
+	</programme>
+	<programme channel="5123" start="20241105093000 +0000" stop="20241105100000 +0000">
+		<title>Australia Tour of England 2024 Highlights: Eng v Aus 1st T20 Episode 943440</title>
+		<desc>Australia Tour of England 2024 Highlights: Eng v Aus 1st T20</desc>
 	</programme>
 	<programme channel="5124" start="20241103100000 +0000" stop="20241103220000 +0000">
 		<title>Closed Episode 408153</title>
@@ -4759,65 +4763,61 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<title>Closed Episode 415688</title>
 		<desc>Closed</desc>
 	</programme>
-	<programme channel="6126" start="20241103153000 +0000" stop="20241103165500 +0000">
-		<title>Grand Prix Sunday 2024: FORMULA 1 LENOVO GRANDE PREMIO DE SAO PAULO 2024 (Live) Episode 21</title>
-		<desc>Grand Prix Sunday 2024</desc>
-	</programme>
-	<programme channel="6126" start="20241103165500 +0000" stop="20241103190000 +0000">
+	<programme channel="6126" start="20241103152500 +0000" stop="20241103173000 +0000">
 		<title>Formula 1 Main Race 2024: FORMULA 1 LENOVO GRANDE PREMIO DE SAO PAULO 2024 (Live) Episode 21</title>
 		<desc>Formula 1 Main Race 2024</desc>
 	</programme>
-	<programme channel="6126" start="20241103190000 +0000" stop="20241103200000 +0000">
+	<programme channel="6126" start="20241103173000 +0000" stop="20241103183000 +0000">
 		<title>Chequered Flag 2024: FORMULA 1 LENOVO GRANDE PREMIO DE SAO PAULO 2024 (Live) Episode 21</title>
 		<desc>Chequered Flag 2024</desc>
 	</programme>
-	<programme channel="6126" start="20241103200000 +0000" stop="20241103203000 +0000">
+	<programme channel="6126" start="20241103183000 +0000" stop="20241103190000 +0000">
 		<title>Ted's Notebook 2024: FORMULA 1 LENOVO GRANDE PREMIO DE SAO PAULO 2024 (Live) Episode 16</title>
 		<desc>Ted's Notebook 2024</desc>
 	</programme>
-	<programme channel="6126" start="20241103203000 +0000" stop="20241103210000 +0000">
+	<programme channel="6126" start="20241103190000 +0000" stop="20241103193000 +0000">
 		<title>Gearing Up 2024: November Episode 10</title>
 		<desc>Gearing Up 2024</desc>
 	</programme>
-	<programme channel="6126" start="20241103210000 +0000" stop="20241103225000 +0000">
+	<programme channel="6126" start="20241103193000 +0000" stop="20241103195500 +0000">
+		<title>MUTV: 2000 Premier League Goals: 1997/98 Episode 16</title>
+		<desc>MUTV: 2000 Premier League Goals</desc>
+	</programme>
+	<programme channel="6126" start="20241103195500 +0000" stop="20241103220000 +0000">
+		<title>LaLiga 2024/25: Athletic Bilbao vs Real Betis (Live) Episode 119</title>
+		<desc>LaLiga 2024/25</desc>
+	</programme>
+	<programme channel="6126" start="20241103220000 +0000" stop="20241103235000 +0000">
+		<title>LaLiga 2024/25: Atletico Madrid vs Las Palmas Episode 116</title>
+		<desc>LaLiga 2024/25</desc>
+	</programme>
+	<programme channel="6126" start="20241103235000 +0000" stop="20241104014000 +0000">
 		<title>LaLiga 2024/25: Barcelona vs Espanyol Episode 117</title>
 		<desc>LaLiga 2024/25</desc>
 	</programme>
-	<programme channel="6126" start="20241103225000 +0000" stop="20241104004000 +0000">
+	<programme channel="6126" start="20241104014000 +0000" stop="20241104033000 +0000">
 		<title>LaLiga 2024/25: Sevilla vs Real Sociedad Episode 118</title>
 		<desc>LaLiga 2024/25</desc>
 	</programme>
-	<programme channel="6126" start="20241104004000 +0000" stop="20241104023000 +0000">
-		<title>LaLiga 2024/25: Athletic Bilbao vs Real Betis Episode 119</title>
-		<desc>LaLiga 2024/25</desc>
-	</programme>
-	<programme channel="6126" start="20241104023000 +0000" stop="20241104030000 +0000">
-		<title>LaLiga Talking Football 2024/25: Aboubacar Bassinga Episode 2</title>
-		<desc>LaLiga Talking Football 2024/25</desc>
-	</programme>
-	<programme channel="6126" start="20241104030000 +0000" stop="20241104040000 +0000">
+	<programme channel="6126" start="20241104033000 +0000" stop="20241104043000 +0000">
 		<title>Formula 1 Qualifying 2024: FORMULA 1 LENOVO GRANDE PREMIO DE SAO PAULO 2024 Episode 21</title>
 		<desc>Formula 1 Qualifying 2024</desc>
 	</programme>
-	<programme channel="6126" start="20241104040000 +0000" stop="20241104060000 +0000">
+	<programme channel="6126" start="20241104043000 +0000" stop="20241104063000 +0000">
 		<title>F1 Kids 2024: FORMULA 1 LENOVO GRANDE PREMIO DE SAO PAULO 2024 Episode 6</title>
 		<desc>F1 Kids 2024</desc>
 	</programme>
-	<programme channel="6126" start="20241104060000 +0000" stop="20241104063000 +0000">
+	<programme channel="6126" start="20241104063000 +0000" stop="20241104070000 +0000">
 		<title>MUTV Highlights 2024/25: Fenerbahce vs Man United - UEL Episode 12</title>
 		<desc>MUTV Highlights 2024/25</desc>
 	</programme>
-	<programme channel="6126" start="20241104063000 +0000" stop="20241104082500 +0000">
+	<programme channel="6126" start="20241104070000 +0000" stop="20241104085500 +0000">
 		<title>MUTV 2024/25: Man United vs Chelsea Episode 13</title>
 		<desc>MUTV 2024/25</desc>
 	</programme>
-	<programme channel="6126" start="20241104082500 +0000" stop="20241104085500 +0000">
+	<programme channel="6126" start="20241104085500 +0000" stop="20241104092500 +0000">
 		<title>MUTV: Match Day Review 2024/25: Man United vs Chelsea Episode 13</title>
 		<desc>MUTV: Match Day Review 2024/25</desc>
-	</programme>
-	<programme channel="6126" start="20241104085500 +0000" stop="20241104092500 +0000">
-		<title>Kite Masters 2024: November Episode 4</title>
-		<desc>Kite Masters 2024</desc>
 	</programme>
 	<programme channel="6126" start="20241104092500 +0000" stop="20241104102500 +0000">
 		<title>Ferrari Challenge Europe Highlights 2024: World Finals Imola I Episode 8</title>
@@ -8573,7 +8573,7 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 	</programme>
 	<programme channel="6166" start="20241103163000 +0000" stop="20241103170000 +0000">
 		<title>Talking Business (r)</title>
-		<desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+		<desc>Mark Lobel meets the people building the cities of the future. As the global population continues to explode new cities are being planned and built at a rapid rate.</desc>
 	</programme>
 	<programme channel="6166" start="20241103170000 +0000" stop="20241103180000 +0000">
 		<title>BBC News</title>
@@ -8584,8 +8584,8 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<desc>The latest news from the BBC.</desc>
 	</programme>
 	<programme channel="6166" start="20241103183000 +0000" stop="20241103190000 +0000">
-		<title>Americast (r)</title>
-		<desc>The latest analysis on American politics.</desc>
+		<title>Finding Mr Fox (r)</title>
+		<desc>BBC Africa Eye tracks down an alleged drug trafficking mastermind, known as 'Fox'.</desc>
 	</programme>
 	<programme channel="6166" start="20241103190000 +0000" stop="20241103193000 +0000">
 		<title>BBC News</title>
@@ -8629,7 +8629,7 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 	</programme>
 	<programme channel="6166" start="20241104003000 +0000" stop="20241104010000 +0000">
 		<title>HARDtalk</title>
-		<desc>In-depth interviews with the world's leading politicians, opinion-formers and key figures from culture, business and sport.</desc>
+		<desc>Stephen Sackur speaks to Russia's ambassador in London, Andrei Kelin. Diplomatic relations between Moscow and the West are poisonous. Is Putin right to think he's reshaping geopolitics?</desc>
 	</programme>
 	<programme channel="6166" start="20241104010000 +0000" stop="20241104013000 +0000">
 		<title>BBC News</title>
@@ -8709,7 +8709,7 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 	</programme>
 	<programme channel="6166" start="20241104083000 +0000" stop="20241104090000 +0000">
 		<title>Talking Business (r)</title>
-		<desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+		<desc>Mark Lobel meets the people building the cities of the future. As the global population continues to explode new cities are being planned and built at a rapid rate.</desc>
 	</programme>
 	<programme channel="6166" start="20241104090000 +0000" stop="20241104093000 +0000">
 		<title>BBC News</title>
@@ -8725,7 +8725,7 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 	</programme>
 	<programme channel="6166" start="20241104103000 +0000" stop="20241104110000 +0000">
 		<title>HARDtalk (r)</title>
-		<desc>In-depth interviews with the world's leading politicians, opinion-formers and key figures from culture, business and sport.</desc>
+		<desc>Stephen Sackur speaks to Russia's ambassador in London, Andrei Kelin. Diplomatic relations between Moscow and the West are poisonous. Is Putin right to think he's reshaping geopolitics?</desc>
 	</programme>
 	<programme channel="6166" start="20241104110000 +0000" stop="20241104113000 +0000">
 		<title>BBC News</title>
@@ -8833,7 +8833,7 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 	</programme>
 	<programme channel="6166" start="20241104223000 +0000" stop="20241104230000 +0000">
 		<title>HARDtalk (r)</title>
-		<desc>In-depth interviews with the world's leading politicians, opinion-formers and key figures from culture, business and sport.</desc>
+		<desc>Stephen Sackur speaks to Russia's ambassador in London, Andrei Kelin. Diplomatic relations between Moscow and the West are poisonous. Is Putin right to think he's reshaping geopolitics?</desc>
 	</programme>
 	<programme channel="6166" start="20241104230000 +0000" stop="20241104233000 +0000">
 		<title>BBC World News America</title>
@@ -8848,8 +8848,8 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<desc>The latest news from the BBC.</desc>
 	</programme>
 	<programme channel="6166" start="20241105003000 +0000" stop="20241105010000 +0000">
-		<title>HARDtalk</title>
-		<desc>In-depth interviews with the world's leading politicians, opinion-formers and key figures from culture, business and sport.</desc>
+		<title>HARDtalk (r)</title>
+		<desc>Stephen Sackur speaks to Russia's ambassador in London, Andrei Kelin. Diplomatic relations between Moscow and the West are poisonous. Is Putin right to think he's reshaping geopolitics?</desc>
 	</programme>
 	<programme channel="6166" start="20241105010000 +0000" stop="20241105013000 +0000">
 		<title>BBC News</title>
@@ -8945,7 +8945,7 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 	</programme>
 	<programme channel="6166" start="20241105103000 +0000" stop="20241105110000 +0000">
 		<title>HARDtalk (r)</title>
-		<desc>In-depth interviews with the world's leading politicians, opinion-formers and key figures from culture, business and sport.</desc>
+		<desc>Stephen Sackur speaks to Russia's ambassador in London, Andrei Kelin. Diplomatic relations between Moscow and the West are poisonous. Is Putin right to think he's reshaping geopolitics?</desc>
 	</programme>
 	<programme channel="6166" start="20241105110000 +0000" stop="20241105113000 +0000">
 		<title>BBC News</title>
@@ -19631,11 +19631,11 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<title>GAME CHANGE</title>
 		<desc>Adapted from the non-fiction book of the same name, this HBO Original Movie provides an insider's look at the 2008 US presidential election.</desc>
 	</programme>
-	<programme channel="6421" start="20241105140000 +0000" stop="20241105150000 +0000">
+	<programme channel="6421" start="20241105140000 +0000" stop="20241105145500 +0000">
 		<title>THE PENGUIN S1 Episode 7</title>
 		<desc>The next chapter in The Batman saga, this crime drama follows Oswald “Oz” Cobb's quest for power and control in Gotham City.</desc>
 	</programme>
-	<programme channel="6421" start="20241105150000 +0000" stop="20241105153000 +0000">
+	<programme channel="6421" start="20241105145500 +0000" stop="20241105152500 +0000">
 		<title>THE FRANCHISE S1 Episode 5</title>
 		<desc>A hopeful crew finds themselves trapped inside the dysfunctional, nonsensical, joyous hellscape of franchise superhero moviemaking.</desc>
 	</programme>
@@ -21121,67 +21121,67 @@ Christy、Jessica追踪维也纳咖啡文化。置身开业逾150年的传统咖
 		<title>训长吴纯南 / TEACHER OH SOON NAM Episode 52</title>
 		<desc>一位传统学校女训长在一夜之间失去了女儿与她所有的一切。 她能否找到杀害女儿的幕后黑手吗？</desc>
 	</programme>
-	<programme channel="5513" start="20241104043000 +0000" stop="20241104054500 +0000">
+	<programme channel="5513" start="20241104043000 +0000" stop="20241104055000 +0000">
 		<title>如此亲密的背叛者 / DOUBT Episode 6</title>
 		<desc>讲述一名韩国最杰出的犯罪心理分析师在得知女儿与自己正在调查的谋杀案有关联后面临的两难困境。</desc>
 	</programme>
-	<programme channel="5513" start="20241104054500 +0000" stop="20241104070000 +0000">
+	<programme channel="5513" start="20241104055000 +0000" stop="20241104071000 +0000">
 		<title>如此亲密的背叛者 / DOUBT Episode 7</title>
 		<desc>讲述一名韩国最杰出的犯罪心理分析师在得知女儿与自己正在调查的谋杀案有关联后面临的两难困境。</desc>
 	</programme>
-	<programme channel="5513" start="20241104070000 +0000" stop="20241104085000 +0000">
+	<programme channel="5513" start="20241104071000 +0000" stop="20241104085800 +0000">
 		<title>好好休息就算万幸 / THE HALF-STAR HOTEL IN LOST ISLAND Episode 24</title>
 		<desc>安正焕和剧组成员们使用了来自海洋的食材为客人烹饪食物, 并为荒岛上的废弃房屋带来了新生命。</desc>
 	</programme>
-	<programme channel="5513" start="20241104085000 +0000" stop="20241104093500 +0000">
+	<programme channel="5513" start="20241104085800 +0000" stop="20241104094300 +0000">
 		<title>训长吴纯南 / TEACHER OH SOON NAM Episode 51</title>
 		<desc>一位传统学校女训长在一夜之间失去了女儿与她所有的一切。 她能否找到杀害女儿的幕后黑手吗？</desc>
 	</programme>
-	<programme channel="5513" start="20241104093500 +0000" stop="20241104102000 +0000">
+	<programme channel="5513" start="20241104094300 +0000" stop="20241104102700 +0000">
 		<title>训长吴纯南 / TEACHER OH SOON NAM Episode 52</title>
 		<desc>一位传统学校女训长在一夜之间失去了女儿与她所有的一切。 她能否找到杀害女儿的幕后黑手吗？</desc>
 	</programme>
-	<programme channel="5513" start="20241104102000 +0000" stop="20241104114000 +0000">
+	<programme channel="5513" start="20241104102700 +0000" stop="20241104114800 +0000">
 		<title>如此亲密的背叛者 / DOUBT Episode 6</title>
 		<desc>讲述一名韩国最杰出的犯罪心理分析师在得知女儿与自己正在调查的谋杀案有关联后面临的两难困境。</desc>
 	</programme>
-	<programme channel="5513" start="20241104114000 +0000" stop="20241104130000 +0000">
+	<programme channel="5513" start="20241104114800 +0000" stop="20241104130800 +0000">
 		<title>如此亲密的背叛者 / DOUBT Episode 7</title>
 		<desc>讲述一名韩国最杰出的犯罪心理分析师在得知女儿与自己正在调查的谋杀案有关联后面临的两难困境。</desc>
 	</programme>
-	<programme channel="5513" start="20241104130000 +0000" stop="20241104134000 +0000">
+	<programme channel="5513" start="20241104130800 +0000" stop="20241104134900 +0000">
 		<title>英勇无比龙水晶 / THE BRAVE YONGSUJUNG Episode 95</title>
 		<desc>讲述一名成功的家庭购物女主播与一个勤奋又小气并且将命运托付于她身上的男子之间的浪漫复仇故事。</desc>
 	</programme>
-	<programme channel="5513" start="20241104134000 +0000" stop="20241104142000 +0000">
+	<programme channel="5513" start="20241104134900 +0000" stop="20241104142800 +0000">
 		<title>英勇无比龙水晶 / THE BRAVE YONGSUJUNG Episode 96</title>
 		<desc>讲述一名成功的家庭购物女主播与一个勤奋又小气并且将命运托付于她身上的男子之间的浪漫复仇故事。</desc>
 	</programme>
-	<programme channel="5513" start="20241104142000 +0000" stop="20241104150000 +0000">
+	<programme channel="5513" start="20241104142800 +0000" stop="20241104151000 +0000">
 		<title>英勇无比龙水晶 / THE BRAVE YONGSUJUNG Episode 97</title>
 		<desc>讲述一名成功的家庭购物女主播与一个勤奋又小气并且将命运托付于她身上的男子之间的浪漫复仇故事。</desc>
 	</programme>
-	<programme channel="5513" start="20241104150000 +0000" stop="20241104154000 +0000">
+	<programme channel="5513" start="20241104151000 +0000" stop="20241104154900 +0000">
 		<title>英勇无比龙水晶 / THE BRAVE YONGSUJUNG Episode 98</title>
 		<desc>讲述一名成功的家庭购物女主播与一个勤奋又小气并且将命运托付于她身上的男子之间的浪漫复仇故事。</desc>
 	</programme>
-	<programme channel="5513" start="20241104154000 +0000" stop="20241104154000 +0000">
+	<programme channel="5513" start="20241104154900 +0000" stop="20241104154900 +0000">
 		<title>如此亲密的背叛者 / DOUBT Episode 6</title>
 		<desc>讲述一名韩国最杰出的犯罪心理分析师在得知女儿与自己正在调查的谋杀案有关联后面临的两难困境。</desc>
 	</programme>
-	<programme channel="5513" start="20241104154000 +0000" stop="20241104170000 +0000">
+	<programme channel="5513" start="20241104154900 +0000" stop="20241104171000 +0000">
 		<title>如此亲密的背叛者 / DOUBT Episode 6</title>
 		<desc>讲述一名韩国最杰出的犯罪心理分析师在得知女儿与自己正在调查的谋杀案有关联后面临的两难困境。</desc>
 	</programme>
-	<programme channel="5513" start="20241104170000 +0000" stop="20241104182000 +0000">
+	<programme channel="5513" start="20241104171000 +0000" stop="20241104183100 +0000">
 		<title>如此亲密的背叛者 / DOUBT Episode 7</title>
 		<desc>讲述一名韩国最杰出的犯罪心理分析师在得知女儿与自己正在调查的谋杀案有关联后面临的两难困境。</desc>
 	</programme>
-	<programme channel="5513" start="20241104182000 +0000" stop="20241104201500 +0000">
+	<programme channel="5513" start="20241104183100 +0000" stop="20241104202200 +0000">
 		<title>RUNNING MAN / RUNNING MAN Episode 703</title>
 		<desc>你不容错过的韩国综艺节目! 每集里, 主持群将与来宾们接受不同的挑战, 并淘汰对方, 成为最后的优胜者。</desc>
 	</programme>
-	<programme channel="5513" start="20241104201500 +0000" stop="20241104220000 +0000">
+	<programme channel="5513" start="20241104202200 +0000" stop="20241104220000 +0000">
 		<title>大富翁世界旅行1 / WORLD DICE TOUR1 Episode 2</title>
 		<desc>韩国最受欢迎的三位旅游YouTubers参加了一场根据掷骰子决定他们环游世界3周的旅行目的地竞赛。</desc>
 	</programme>
@@ -25269,67 +25269,67 @@ Christy、Jessica追踪维也纳咖啡文化。置身开业逾150年的传统咖
 		<title>TEACHER OH SOON NAM Episode 52</title>
 		<desc>Bok Hee regains consciousness but loses some of her memories. Yoo Min agrees to let Soon Nam visit Bok Hee if Doo Mool accepts his business offer.</desc>
 	</programme>
-	<programme channel="5604" start="20241104043000 +0000" stop="20241104054500 +0000">
+	<programme channel="5604" start="20241104043000 +0000" stop="20241104055000 +0000">
 		<title>DOUBT Episode 6</title>
 		<desc>Korea's best criminal profiler Jang Tae-soo faces a dilemma when he discovers that his daughter might be involved in a murder case he's investigating.</desc>
 	</programme>
-	<programme channel="5604" start="20241104054500 +0000" stop="20241104070000 +0000">
+	<programme channel="5604" start="20241104055000 +0000" stop="20241104071000 +0000">
 		<title>DOUBT Episode 7</title>
 		<desc>Korea's best criminal profiler Jang Tae-soo faces a dilemma when he discovers that his daughter might be involved in a murder case he's investigating.</desc>
 	</programme>
-	<programme channel="5604" start="20241104070000 +0000" stop="20241104085000 +0000">
+	<programme channel="5604" start="20241104071000 +0000" stop="20241104085800 +0000">
 		<title>THE HALF-STAR HOTEL IN LOST ISLAND Episode 24</title>
 		<desc>Ahn Jung-hwan and the cast members bring new life to an abandoned home on a deserted island and cook food using ingredients from the sea for guests.</desc>
 	</programme>
-	<programme channel="5604" start="20241104085000 +0000" stop="20241104093500 +0000">
+	<programme channel="5604" start="20241104085800 +0000" stop="20241104094300 +0000">
 		<title>TEACHER OH SOON NAM Episode 51</title>
 		<desc>Doo Mool is in a dilemma after he learned of Se Hee's evildoings from Myung Ja. Bong Chul pesters Yoo Min to finalise the contract with Ungil Foods.</desc>
 	</programme>
-	<programme channel="5604" start="20241104093500 +0000" stop="20241104102000 +0000">
+	<programme channel="5604" start="20241104094300 +0000" stop="20241104102700 +0000">
 		<title>TEACHER OH SOON NAM Episode 52</title>
 		<desc>Bok Hee regains consciousness but loses some of her memories. Yoo Min agrees to let Soon Nam visit Bok Hee if Doo Mool accepts his business offer.</desc>
 	</programme>
-	<programme channel="5604" start="20241104102000 +0000" stop="20241104114000 +0000">
+	<programme channel="5604" start="20241104102700 +0000" stop="20241104114800 +0000">
 		<title>DOUBT Episode 6</title>
 		<desc>Korea's best criminal profiler Jang Tae-soo faces a dilemma when he discovers that his daughter might be involved in a murder case he's investigating.</desc>
 	</programme>
-	<programme channel="5604" start="20241104114000 +0000" stop="20241104130000 +0000">
+	<programme channel="5604" start="20241104114800 +0000" stop="20241104130800 +0000">
 		<title>DOUBT Episode 7</title>
 		<desc>Korea's best criminal profiler Jang Tae-soo faces a dilemma when he discovers that his daughter might be involved in a murder case he's investigating.</desc>
 	</programme>
-	<programme channel="5604" start="20241104130000 +0000" stop="20241104134000 +0000">
+	<programme channel="5604" start="20241104130800 +0000" stop="20241104134900 +0000">
 		<title>THE BRAVE YONGSUJUNG Episode 95</title>
 		<desc>A romance revenge drama about Yong Su-jung, a successful home shopping host and Yeo Eui-joo, a hardworking and stingy man who bet his life on her.</desc>
 	</programme>
-	<programme channel="5604" start="20241104134000 +0000" stop="20241104142000 +0000">
+	<programme channel="5604" start="20241104134900 +0000" stop="20241104142800 +0000">
 		<title>THE BRAVE YONGSUJUNG Episode 96</title>
 		<desc>A romance revenge drama about Yong Su-jung, a successful home shopping host and Yeo Eui-joo, a hardworking and stingy man who bet his life on her.</desc>
 	</programme>
-	<programme channel="5604" start="20241104142000 +0000" stop="20241104150000 +0000">
+	<programme channel="5604" start="20241104142800 +0000" stop="20241104151000 +0000">
 		<title>THE BRAVE YONGSUJUNG Episode 97</title>
 		<desc>A romance revenge drama about Yong Su-jung, a successful home shopping host and Yeo Eui-joo, a hardworking and stingy man who bet his life on her.</desc>
 	</programme>
-	<programme channel="5604" start="20241104150000 +0000" stop="20241104154000 +0000">
+	<programme channel="5604" start="20241104151000 +0000" stop="20241104154900 +0000">
 		<title>THE BRAVE YONGSUJUNG Episode 98</title>
 		<desc>A romance revenge drama about Yong Su-jung, a successful home shopping host and Yeo Eui-joo, a hardworking and stingy man who bet his life on her.</desc>
 	</programme>
-	<programme channel="5604" start="20241104154000 +0000" stop="20241104154000 +0000">
+	<programme channel="5604" start="20241104154900 +0000" stop="20241104154900 +0000">
 		<title>DOUBT Episode 6</title>
 		<desc>Korea's best criminal profiler Jang Tae-soo faces a dilemma when he discovers that his daughter might be involved in a murder case he's investigating.</desc>
 	</programme>
-	<programme channel="5604" start="20241104154000 +0000" stop="20241104170000 +0000">
+	<programme channel="5604" start="20241104154900 +0000" stop="20241104171000 +0000">
 		<title>DOUBT Episode 6</title>
 		<desc>Korea's best criminal profiler Jang Tae-soo faces a dilemma when he discovers that his daughter might be involved in a murder case he's investigating.</desc>
 	</programme>
-	<programme channel="5604" start="20241104170000 +0000" stop="20241104182000 +0000">
+	<programme channel="5604" start="20241104171000 +0000" stop="20241104183100 +0000">
 		<title>DOUBT Episode 7</title>
 		<desc>Korea's best criminal profiler Jang Tae-soo faces a dilemma when he discovers that his daughter might be involved in a murder case he's investigating.</desc>
 	</programme>
-	<programme channel="5604" start="20241104182000 +0000" stop="20241104201500 +0000">
+	<programme channel="5604" start="20241104183100 +0000" stop="20241104202200 +0000">
 		<title>RUNNING MAN Episode 703</title>
 		<desc>The must watch for K-Variety shows! In this "urban action variety", the hosts complete a series of obstacles and aim to eliminate each other to win.</desc>
 	</programme>
-	<programme channel="5604" start="20241104201500 +0000" stop="20241104220000 +0000">
+	<programme channel="5604" start="20241104202200 +0000" stop="20241104220000 +0000">
 		<title>WORLD DICE TOUR1 Episode 2</title>
 		<desc>Three most popular Korean travel youtubers participate in a game where a dice decides their destinations and they travel around the world for 3 weeks.</desc>
 	</programme>
