@@ -4183,13 +4183,21 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<title>BDMNTN - XL 2024 (BXL)</title>
 		<desc>A groundbreaking Badminton event that breaks away from traditional conventions. A stage for fierce competition and showcasing the best of the best.</desc>
 	</programme>
-	<programme channel="6114" start="20241104000000 +0000" stop="20241104080000 +0000">
+	<programme channel="6114" start="20241104000000 +0000" stop="20241104070000 +0000">
 		<title>HSBC BWF WTS 300 HYLO Badminton Open 2024</title>
 		<desc>The HSBC BWF World Tour attracts the world's elite badminton players in competing for prize money and world ranking points in 30 four-tiered tournaments, culminating in the World Tour Finals in December.</desc>
 	</programme>
-	<programme channel="6114" start="20241104080000 +0000" stop="20241104140000 +0000">
+	<programme channel="6114" start="20241104070000 +0000" stop="20241104080000 +0000">
+		<title>Roshn Saudi League Recap 2024/25 Episode 2</title>
+		<desc>Catch the ROSHN Saudi League weekly magazine show, bringing together prominent professional players from the Kingdom and all around the world.</desc>
+	</programme>
+	<programme channel="6114" start="20241104080000 +0000" stop="20241104130000 +0000">
 		<title>BDMNTN - XL 2024 (BXL)</title>
 		<desc>A groundbreaking Badminton event that breaks away from traditional conventions. A stage for fierce competition and showcasing the best of the best.</desc>
+	</programme>
+	<programme channel="6114" start="20241104130000 +0000" stop="20241104140000 +0000">
+		<title>2024 Velocity Invitational</title>
+		<desc>Velocity Invitational is dedicated to creating the ultimate weekend by highlighting the best race cars and collections from the international community and the United States.</desc>
 	</programme>
 	<programme channel="6114" start="20241104140000 +0000" stop="20241104151500 +0000">
 		<title>2024 FIA TCR World Tour ZHUZHOU Episode 2</title>
@@ -4231,7 +4239,7 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<title>2024 FIA TCR World Tour ZHUZHOU</title>
 		<desc>The world's premier touring car racing competition gains FIA recognition from 2024 and consists of seven events across Europe, Africa, North America, South America and Asia.</desc>
 	</programme>
-	<programme channel="6114" start="20241105080000 +0000" stop="20241105130000 +0000">
+	<programme channel="6114" start="20241105080000 +0000" stop="20241105140000 +0000">
 		<title>HSBC BWF WTS 300 HYLO Badminton Open 2024</title>
 		<desc>The HSBC BWF World Tour attracts the world's elite badminton players in competing for prize money and world ranking points in 30 four-tiered tournaments, culminating in the World Tour Finals in December.</desc>
 	</programme>
@@ -4311,19 +4319,19 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<title>ISU World Figure Skating Grand Prix Angers (FRANCE)</title>
 		<desc>The ISU Grand Prix of Figure Skating Series consists of six international senior events in North America, Europe and Asia, culminating with the ISU Grand Prix of Figure Skating Final in Grenoble, France.</desc>
 	</programme>
-	<programme channel="6115" start="20241104230000 +0000" stop="20241105013000 +0000">
+	<programme channel="6115" start="20241104230000 +0000" stop="20241105012000 +0000">
 		<title>2024 MLB World Series Game 4 Episode 2</title>
 		<desc>12 of the best MLB teams of the Regular Season slug it out through the Wild Card, Division, League Championship and World Series to be crowned kings of the world's best professional baseball league.</desc>
 	</programme>
-	<programme channel="6115" start="20241105013000 +0000" stop="20241105051500 +0000">
+	<programme channel="6115" start="20241105012000 +0000" stop="20241105050500 +0000">
 		<title>WTT Champions Frankfurt 2024</title>
 		<desc>The world's elite singles and doubles table tennis players battle for a share of the US$2 million prize pool as well as 2000 world ranking points in Montpellier,France.</desc>
 	</programme>
-	<programme channel="6115" start="20241105051500 +0000" stop="20241105061500 +0000">
+	<programme channel="6115" start="20241105050500 +0000" stop="20241105060500 +0000">
 		<title>2024 SLS Championship Tour - Stop 6 Sydney (AUS) Men's</title>
 		<desc>From the streets to the league, the SLS features professional street skateboarders competing for the largest monetary prize in the history of skateboarding</desc>
 	</programme>
-	<programme channel="6115" start="20241105061500 +0000" stop="20241105081500 +0000">
+	<programme channel="6115" start="20241105060500 +0000" stop="20241105081500 +0000">
 		<title>ISU World Figure Skating Grand Prix Angers (FRANCE)</title>
 		<desc>The ISU Grand Prix of Figure Skating Series consists of six international senior events in North America, Europe and Asia, culminating with the ISU Grand Prix of Figure Skating Final in Grenoble, France.</desc>
 	</programme>
@@ -20765,7 +20773,7 @@ Christy、Jessica追踪维也纳咖啡文化。置身开业逾150年的传统咖
 		<desc>《东张西望》星期一至日，紧贴追踪社会大事、趣闻逸事，并报导娱乐圈最新动态、艺人消息，以及剧集宣传和花絮。「今日突发」环节为大家追踪即日热门新闻；专题环节，深入探讨大众关心的时事、社会及民生问题，并访问相关的专家。</desc>
 	</programme>
 	<programme channel="5511" start="20241104230000 +0000" stop="20241105000000 +0000">
-		<title>香港早晨 及 世界观 / Good Morning Hong Kong and Global View Episode 271</title>
+		<title>香港早晨 及 世界观 / Good Morning Hong Kong and Global View Episode 272</title>
 		<desc>报导香港、两岸及国际重要新闻。</desc>
 	</programme>
 	<programme channel="5511" start="20241105000000 +0000" stop="20241105010000 +0000">
