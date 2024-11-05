@@ -4265,32 +4265,32 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<desc>Triathlon: supertri E</desc>
 	</programme>
 	<programme channel="6116" start="20241105230000 +0000" stop="20241106010000 +0000">
-		<title>Triathlon: SUPERTRI</title>
-		<desc>Triathlon: SUPERTRI</desc>
+		<title>supertri League | Boston</title>
+		<desc>Round 1</desc>
 	</programme>
 	<programme channel="6116" start="20241106010000 +0000" stop="20241106030000 +0000">
 		<title>Marathon |</title>
 		<desc>London |</desc>
 	</programme>
 	<programme channel="6116" start="20241106030000 +0000" stop="20241106070000 +0000">
-		<title>Endurance Car Racing: World Championship</title>
-		<desc>Endurance Car Racing: World Championship</desc>
+		<title>FIA WEC | 24 Hours of Le Mans | Review</title>
+		<desc>Round 4</desc>
 	</programme>
 	<programme channel="6116" start="20241106070000 +0000" stop="20241106090000 +0000">
 		<title>Triathlon: T100 Triathlon World Tour</title>
 		<desc>Triathlon: T100 Triathlon World Tour</desc>
 	</programme>
 	<programme channel="6116" start="20241106090000 +0000" stop="20241106100000 +0000">
-		<title>Xtreme Sports: World Series</title>
-		<desc>Xtreme Sports: World Series</desc>
+		<title>FISE World Series | Review</title>
+		<desc>Shanghai</desc>
 	</programme>
 	<programme channel="6116" start="20241106100000 +0000" stop="20241106130000 +0000">
-		<title>Endurance Car Racing: World Championship</title>
-		<desc>Endurance Car Racing: World Championship</desc>
+		<title>FIA WEC | 24 Hours of Le Mans | Review</title>
+		<desc>Round 4</desc>
 	</programme>
 	<programme channel="6116" start="20241106130000 +0000" stop="20241106150000 +0000">
-		<title>Fleche Wallonne</title>
-		<desc>Men</desc>
+		<title>Flèche Wallonne</title>
+		<desc>Men | Leuven - Overijse (195.2km)</desc>
 	</programme>
 	<programme channel="5118" start="20241104151000 +0000" stop="20241104170000 +0000">
 		<title>URC Leinster v Lions</title>
@@ -6445,7 +6445,7 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<desc>Shosanbetsu village's sole convenience store is indispensable for its 1,000 residents, especially in midwinter. For three days, we talked to customers about daily life in this Hokkaido village.</desc>
 	</programme>
 	<programme channel="5157" start="20241105200000 +0000" stop="20241105201800 +0000">
-		<title>NHK NEWSLINE&lt;NY&gt;</title>
+		<title>NHK NEWSLINE</title>
 		<desc>NHK WORLD-JAPAN's flagship hourly news program delivers the latest world news, business and weather, with a focus on Japan and the rest of Asia.</desc>
 	</programme>
 	<programme channel="5157" start="20241105201800 +0000" stop="20241105203000 +0000">
@@ -6457,7 +6457,7 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<desc>Newts have the amazing ability to regenerate various parts of their bodies, seemingly without limit! Could that mechanism be used one day to help humans regrow limbs and other body parts as well?</desc>
 	</programme>
 	<programme channel="5157" start="20241105210000 +0000" stop="20241105211800 +0000">
-		<title>NHK NEWSLINE&lt;NY&gt;</title>
+		<title>NHK NEWSLINE</title>
 		<desc>NHK WORLD-JAPAN's flagship hourly news program delivers the latest world news, business and weather, with a focus on Japan and the rest of Asia.</desc>
 	</programme>
 	<programme channel="5157" start="20241105211800 +0000" stop="20241105213000 +0000">
@@ -6469,7 +6469,7 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<desc>In Hokkaido, Martin discovers the culture and customs of the indigenous Ainu people in the Nibutani district. On this program, get to know the real Japan and discover useful travel tips.</desc>
 	</programme>
 	<programme channel="5157" start="20241105220000 +0000" stop="20241105221800 +0000">
-		<title>NHK NEWSLINE&lt;NY&gt;</title>
+		<title>NHK NEWSLINE</title>
 		<desc>NHK WORLD-JAPAN's flagship hourly news program delivers the latest world news, business and weather, with a focus on Japan and the rest of Asia.</desc>
 	</programme>
 	<programme channel="5157" start="20241105221800 +0000" stop="20241105223000 +0000">
@@ -6513,7 +6513,7 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<desc>Sumopedia enriches your sumo experience with information on the techniques, traditions and famous wrestlers of the past. The rules may be simple but there is a lot more to sumo than meets the eye.</desc>
 	</programme>
 	<programme channel="5157" start="20241106000000 +0000" stop="20241106001500 +0000">
-		<title>NHK NEWSLINE&lt;NY&gt;</title>
+		<title>NHK NEWSLINE</title>
 		<desc>NHK WORLD-JAPAN's flagship hourly news program delivers the latest world news, business and weather, with a focus on Japan and the rest of Asia.</desc>
 	</programme>
 	<programme channel="5157" start="20241106001500 +0000" stop="20241106003000 +0000">
@@ -6525,7 +6525,7 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<desc>Machida is a suburban city about 30 minutes west of central Tokyo by train. Join us as we trace the local history and discover the charms of this hilly area that has been inhabited for millennia.</desc>
 	</programme>
 	<programme channel="5157" start="20241106010000 +0000" stop="20241106011500 +0000">
-		<title>NHK NEWSLINE&lt;NY&gt;</title>
+		<title>NHK NEWSLINE</title>
 		<desc>NHK WORLD-JAPAN's flagship hourly news program delivers the latest world news, business and weather, with a focus on Japan and the rest of Asia.</desc>
 	</programme>
 	<programme channel="5157" start="20241106011500 +0000" stop="20241106013000 +0000">
@@ -15056,17 +15056,17 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<title>The World Episode 178</title>
 		<desc>There's never been a more important time to stay in touch with what's happening in our world. Weeknights at 9pm AEDT, Girish Sawlani presents the latest international news from correspondents and interviews with guests.</desc>
 	</programme>
-	<programme channel="5251" start="20241105153000 +0000" stop="20241105153000 +0000">
+	<programme channel="5251" start="20241105153000 +0000" stop="20241105152500 +0000">
 		<title>Four Corners Episode 27</title>
 		<desc>In the red soil of the Top End a new 'silver bullet' industry is emerging - cotton. Angus Grigg exposes a system riven by conflicts of interest that threatens to destroy some of the NT's most famous tourism destinations.</desc>
 	</programme>
-	<programme channel="5251" start="20241105153000 +0000" stop="20241105161500 +0000">
+	<programme channel="5251" start="20241105152500 +0000" stop="20241105161500 +0000">
 		<title>Four Corners Episode 27</title>
 		<desc>In the red soil of the Top End a new 'silver bullet' industry is emerging - cotton. Angus Grigg exposes a system riven by conflicts of interest that threatens to destroy some of the NT's most famous tourism destinations.</desc>
 	</programme>
 	<programme channel="5251" start="20241105161500 +0000" stop="20241105163000 +0000">
 		<title>Media Watch Episode 39</title>
-		<desc>Australia's leading forum for media analysis and comment, bringing you a brave and fearless critique of the week's journalism, issues and events in the news. Presented by Paul Barry.</desc>
+		<desc>A US election special. Will billionaire media moguls swing the US presidential election? Will a re-elected Trump punish the mainstream media? Should the media believe the opinion polls?</desc>
 	</programme>
 	<programme channel="5251" start="20241105163000 +0000" stop="20241105173000 +0000">
 		<title>Dolphins: Is Our Love Too Deep?</title>
@@ -15074,19 +15074,19 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 	</programme>
 	<programme channel="5251" start="20241105173000 +0000" stop="20241105180000 +0000">
 		<title>7.30 Episode 174</title>
-		<desc>Sarah Ferguson presents Australia's premier daily current affairs program, delivering agenda-setting public affairs journalism and interviews that hold the powerful to account. Plus political analysis from Laura Tingle.</desc>
+		<desc>On the eve of the US Election, Sarah Ferguson is in the US with the final word on the presidential campaign, plus agenda-setting public affairs journalism and interviews that hold the powerful to account.</desc>
 	</programme>
 	<programme channel="5251" start="20241105180000 +0000" stop="20241105190000 +0000">
-		<title>The World Episode 178</title>
-		<desc>There's never been a more important time to stay in touch with what's happening in our world. Weeknights at 9pm AEDT, Girish Sawlani presents the latest international news from correspondents and interviews with guests.</desc>
+		<title>News Breakfast: USA Votes Episode 223</title>
+		<desc>An extended 5 hour News Breakfast on US Election Day. James Glenday and Catherine Murphy are joined by Michael Rowland reporting live from Washington DC, plus Charles Brice, Stephanie Ferrier and ABC News reporters.</desc>
 	</programme>
 	<programme channel="5251" start="20241105190000 +0000" stop="20241105220000 +0000">
 		<title>News Breakfast: USA Votes Episode 223</title>
-		<desc>A special extended 5 hour edition of News Breakfast on US Election Day. Michael Rowland is reporting live from Washington, joined by ABC News correspondents across the US and reporters back home with the news of the day.</desc>
+		<desc>An extended 5 hour News Breakfast on US Election Day. James Glenday and Catherine Murphy are joined by Michael Rowland reporting live from Washington DC, plus Charles Brice, Stephanie Ferrier and ABC News reporters.</desc>
 	</programme>
 	<programme channel="5251" start="20241105220000 +0000" stop="20241105230000 +0000">
 		<title>News Breakfast: USA Votes Episode 19</title>
-		<desc>A special extended 5 hour edition of News Breakfast on US Election Day. Michael Rowland is reporting live from Washington, joined by ABC News correspondents across the US and reporters back home with the news of the day.</desc>
+		<desc>An extended 5 hour News Breakfast on US Election Day. James Glenday and Catherine Murphy are joined by Michael Rowland reporting live from Washington DC, plus Charles Brice, Stephanie Ferrier and ABC News reporters.</desc>
 	</programme>
 	<programme channel="5251" start="20241105230000 +0000" stop="20241106010000 +0000">
 		<title>USA Votes: Election Day Live</title>
@@ -15098,15 +15098,15 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 	</programme>
 	<programme channel="5251" start="20241106030000 +0000" stop="20241106040000 +0000">
 		<title>USA Votes: The Race For The White House Episode 3</title>
-		<desc>Jeremy Fernandez, Bridget Brennan, Casey Briggs and Julia Baird bring you the latest election updates, with live reports from Michael Rowland, David Speers, John Lyons, Jade Macmillan, Carrington Clarke and Isabella Higgins.</desc>
+		<desc>The most extensive live coverage of the US Election. The ABC's unrivalled team of political experts bring you uninterrupted coverage of historic events throughout the day with insights and analysis from ABC correspondents.</desc>
 	</programme>
 	<programme channel="5251" start="20241106040000 +0000" stop="20241106060000 +0000">
 		<title>USA Votes: America's Decision Episode 4</title>
-		<desc>Jeremy Fernandez and Bridget Brennan bring you live election results and analysis featuring Casey Briggs, Julia Baird, Nick Bryant, David Lipson, Sara James, Simon Jackman and ABC News correspondents in the US.</desc>
+		<desc>Jeremy Fernandez and Bridget Brennan bring you live election results and analysis with Casey Briggs, Julia Baird, David Lipson, and reports from David Speers, John Lyons, Jade Macmillan and Carrington Clarke.</desc>
 	</programme>
 	<programme channel="5251" start="20241106060000 +0000" stop="20241106080000 +0000">
 		<title>USA Votes: Election Latest Episode 5</title>
-		<desc>Jeremy Fernandez, Bridget Brennan, Casey Briggs and Julia Baird bring you the latest election updates, with live reports from Michael Rowland, David Speers, John Lyons, Jade Macmillan, Carrington Clarke and Isabella Higgins.</desc>
+		<desc>Jeremy Fernandez, Bridget Brennan, Casey Briggs and Julia Baird bring you up-to-the-minute results and updates, live reporting from correspondents in the US plus insights and analysis by David Speers and John Lyons.</desc>
 	</programme>
 	<programme channel="5251" start="20241106080000 +0000" stop="20241106090000 +0000">
 		<title>ABC News Episode 311</title>
@@ -15114,7 +15114,7 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 	</programme>
 	<programme channel="5251" start="20241106090000 +0000" stop="20241106100000 +0000">
 		<title>Planet America: Election Night Special Episode 37</title>
-		<desc>Chas Licciardello and John Barron return for their fourth US Presidential Election Night Special. Joined by top shelf guests for the latest commentary and analysis of the 2024 election. The stakes couldn't be higher.</desc>
+		<desc>Chas Licciardello and John Barron return for their fourth US Presidential Election Night Special. Joined by top shelf guests for the latest commentary and analysis of the election. The stakes couldn't be higher.</desc>
 	</programme>
 	<programme channel="5251" start="20241106100000 +0000" stop="20241106110000 +0000">
 		<title>ABC News: USA Votes Special Coverage</title>
@@ -15134,7 +15134,7 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 	</programme>
 	<programme channel="5251" start="20241106133000 +0000" stop="20241106140000 +0000">
 		<title>That Pacific Sports Show Episode 37</title>
-		<desc>Join Tiana Penitani and Sam Wykes for your weekly hit of Pacific joy, as they share inspiring stories and incredible sporting prowess of athletes with Pacific Island heritage, from Australia and around the world.</desc>
+		<desc>Sera Naiqama is back in the studio with double trouble, Sam Wykes and Tinirau Arona. Fellow Fijian Miliakere Koyamainavure joins the crew again to discuss 3x3 basketball. We also catch up with the Samoa Triathlon team.</desc>
 	</programme>
 	<programme channel="5251" start="20241106140000 +0000" stop="20241106143000 +0000">
 		<title>ABC Late News Episode 223</title>
@@ -15142,7 +15142,7 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 	</programme>
 	<programme channel="5251" start="20241106143000 +0000" stop="20241106153000 +0000">
 		<title>Planet America: Election Night Special Episode 37</title>
-		<desc>Chas Licciardello and John Barron return for their fourth US Presidential Election Night Special. Joined by top shelf guests for the latest commentary and analysis of the 2024 election. The stakes couldn't be higher.</desc>
+		<desc>Chas Licciardello and John Barron return for their fourth US Presidential Election Night Special. Joined by top shelf guests for the latest commentary and analysis of the election. The stakes couldn't be higher.</desc>
 	</programme>
 	<programme channel="5252" start="20241104154800 +0000" stop="20241104163600 +0000">
 		<title>Halloween Wars (S14) Episode 2</title>
@@ -20423,13 +20423,11 @@ Idealistic and passionate rookie lawyer Qing takes on the case of a death row pr
 	</programme>
 	<programme channel="5511" start="20241105200000 +0000" stop="20241105210000 +0000">
 		<title>燕云台 / The Legend of Xiao Chuo Episode 613230</title>
-		<desc>第二十集
+		<desc>第二十五集
 
-大婚当夜，耶律贤第一次向燕燕表露心迹，没有过多勉强，表示自己愿意等她回心转意。燕燕辗转难眠，思念远走的韩德让，远处的韩德让也在思念着燕燕。
-耶律贤一直在派人暗中观察着韩德让的行踪，并适时把韩德让的踪迹告诉了李思。
-韩德让思念着燕燕，一路走过二人共同走过的路，不觉间一路向幽州奔波而去。
-韩德让无意之中救下出来猎鹿的日连部落少族长阿孛合，受到邀请到部族暂住，部族艰苦的生活让韩德让更加切身体会到推行汉制给百姓带来安定生活的必要性，也更加理解了身上的责任。
-耶律贤和燕燕未有夫妻之实的事情在宫内宫外传得沸沸扬扬。耶律贤找机会不断影响燕燕，让燕燕逐步了解到耶律贤的政治抱负，更深刻理解了汉制改革对大辽的重要性 。</desc>
+早已埋伏好的刺客忽然暴起直取萧思温，萧思温身上中箭跌下马来，众人大惊失色。耶律贤发现萧思温奄奄一息，震惊痛苦，弥留之际答应一定照顾好燕燕，照顾好萧家。
+耶律贤为了不让已有身孕的燕燕过于悲痛，下令不准将萧思温遇害一事告诉燕燕。胡辇悲痛，并告诉耶律贤如果瞒着燕燕，燕燕会记恨他的。
+喜哥多番被燕燕打压，终于找到机会怂恿两位太妃将萧思温去世的消息告诉燕燕，燕燕顿时昏厥。耶律贤大怒，将几人打入冷宫。燕燕转醒后，对耶律贤心生怨恨，独自回到萧府祭拜，与父亲的点滴涌上心头，悲痛欲绝，三姐妹灵前哭到不能自已。</desc>
 	</programme>
 	<programme channel="5511" start="20241105210000 +0000" stop="20241105220000 +0000">
 		<title>流行都市 / Big City Shop 2024 Episode 221</title>
@@ -20545,13 +20543,11 @@ Idealistic and passionate rookie lawyer Qing takes on the case of a death row pr
 	</programme>
 	<programme channel="5511" start="20241106093000 +0000" stop="20241106103000 +0000">
 		<title>燕云台 / The Legend of Xiao Chuo Episode 613260</title>
-		<desc>第二十集
+		<desc>第二十五集
 
-大婚当夜，耶律贤第一次向燕燕表露心迹，没有过多勉强，表示自己愿意等她回心转意。燕燕辗转难眠，思念远走的韩德让，远处的韩德让也在思念着燕燕。
-耶律贤一直在派人暗中观察着韩德让的行踪，并适时把韩德让的踪迹告诉了李思。
-韩德让思念着燕燕，一路走过二人共同走过的路，不觉间一路向幽州奔波而去。
-韩德让无意之中救下出来猎鹿的日连部落少族长阿孛合，受到邀请到部族暂住，部族艰苦的生活让韩德让更加切身体会到推行汉制给百姓带来安定生活的必要性，也更加理解了身上的责任。
-耶律贤和燕燕未有夫妻之实的事情在宫内宫外传得沸沸扬扬。耶律贤找机会不断影响燕燕，让燕燕逐步了解到耶律贤的政治抱负，更深刻理解了汉制改革对大辽的重要性 。</desc>
+早已埋伏好的刺客忽然暴起直取萧思温，萧思温身上中箭跌下马来，众人大惊失色。耶律贤发现萧思温奄奄一息，震惊痛苦，弥留之际答应一定照顾好燕燕，照顾好萧家。
+耶律贤为了不让已有身孕的燕燕过于悲痛，下令不准将萧思温遇害一事告诉燕燕。胡辇悲痛，并告诉耶律贤如果瞒着燕燕，燕燕会记恨他的。
+喜哥多番被燕燕打压，终于找到机会怂恿两位太妃将萧思温去世的消息告诉燕燕，燕燕顿时昏厥。耶律贤大怒，将几人打入冷宫。燕燕转醒后，对耶律贤心生怨恨，独自回到萧府祭拜，与父亲的点滴涌上心头，悲痛欲绝，三姐妹灵前哭到不能自已。</desc>
 	</programme>
 	<programme channel="5511" start="20241106103000 +0000" stop="20241106110500 +0000">
 		<title>六点半新闻报导 及 世界观 / News At 18:30 and Global View</title>
@@ -31282,116 +31278,116 @@ Idealistic and passionate rookie lawyer Qing takes on the case of a death row pr
 		<desc>Circumstances force Meena, a family-centric girl, to marry Balu, a thug. Will this unfortunate marriage turn into love?</desc>
 	</programme>
 	<programme channel="5671" start="20241105160000 +0000" stop="20241105170000 +0000">
-		<title>Bigg Boss S08</title>
-		<desc>Celebrities live in an isolated house cut off from the rest of the world. They have to compete in challenging tasks to avoid elimination and win.</desc>
+		<title>BIGG BOSS 8</title>
+		<desc>BIGG BOSS 8</desc>
 	</programme>
-	<programme channel="5671" start="20241105170000 +0000" stop="20241105173000 +0000">
-		<title>Bigg Boss S08 - Unseen Extra Cuts</title>
-		<desc>Exclusive behind-the-scenes footage and unseen moments from Bigg Boss Season 8.</desc>
+	<programme channel="5671" start="20241105170000 +0000" stop="20241105180000 +0000">
+		<title>BIGG BOSS 8 - UNSEEN EXTRA CUTS</title>
+		<desc>BIGG BOSS 8 - UNSEEN EXTRA CUTS</desc>
 	</programme>
-	<programme channel="5671" start="20241105173000 +0000" stop="20241105203000 +0000">
-		<title>Nuvvu Naaku Nachhav</title>
-		<desc>Venky and Nandini's friendship transforms into a romantic relationship, but Nandini's marriage is fixed elsewhere.</desc>
+	<programme channel="5671" start="20241105180000 +0000" stop="20241105203000 +0000">
+		<title>Movie_NUVVU NAAKU NACHHAV</title>
+		<desc>Movie_NUVVU NAAKU NACHHAV</desc>
 	</programme>
 	<programme channel="5671" start="20241105203000 +0000" stop="20241105230000 +0000">
-		<title>Doosukeltha</title>
-		<desc>After a sting operation lands Chinna in the hospital, he falls for Dr. Alekhya. Chinna decides to help her.</desc>
+		<title>Movie_DOOSUKELTHA</title>
+		<desc>Movie_DOOSUKELTHA</desc>
 	</programme>
-	<programme channel="5671" start="20241105230000 +0000" stop="20241106010000 +0000">
-		<title>Inkokkadu</title>
-		<desc>Suspended RAW agent, devastated by his wife's death at a drug lord's hands, seeks vengeance years later.</desc>
+	<programme channel="5671" start="20241105230000 +0000" stop="20241106003000 +0000">
+		<title>Movie_INKOKKADU</title>
+		<desc>Entertainment</desc>
 	</programme>
-	<programme channel="5671" start="20241106010000 +0000" stop="20241106013000 +0000">
-		<title>Fun Time</title>
-		<desc>Tune into a compilation of comedy clips from the recently released Tollywood movies.</desc>
+	<programme channel="5671" start="20241106003000 +0000" stop="20241106013000 +0000">
+		<title>Guppedantha Manasu</title>
+		<desc>Guppedantha Manasu</desc>
 	</programme>
 	<programme channel="5671" start="20241106013000 +0000" stop="20241106020000 +0000">
-		<title>Maha Bharatam</title>
-		<desc>Watch for an epic retelling of the ancient Indian saga filled with drama, mythology and valor.</desc>
+		<title>INTINTI RAMAYANAM ®</title>
+		<desc>INTINTI RAMAYANAM ®</desc>
 	</programme>
 	<programme channel="5671" start="20241106020000 +0000" stop="20241106023000 +0000">
-		<title>Shubapradam</title>
-		<desc>Dr. Pradeep, astrology scholar, provides Hindu scripture-based remedies for diverse issues and zodiac-related guidance.</desc>
+		<title>SHUBAPRADAM</title>
+		<desc>SHUBAPRADAM</desc>
 	</programme>
 	<programme channel="5671" start="20241106023000 +0000" stop="20241106030000 +0000">
-		<title>Radha Krishna</title>
-		<desc>The story of Radha and Krishna is the epitome of eternal love, which transcends eras and emotions.</desc>
+		<title>RADHA KRISHNA</title>
+		<desc>RADHA KRISHNA</desc>
 	</programme>
 	<programme channel="5671" start="20241106030000 +0000" stop="20241106033000 +0000">
-		<title>Sri Renuka Yellamma</title>
-		<desc>Goddess Parvati incarnates as Renuka and Yellamma to safeguard against evil in royal and village settings.</desc>
+		<title>SRI RENUKA YELLAMMA</title>
+		<desc>SRI RENUKA YELLAMMA</desc>
 	</programme>
 	<programme channel="5671" start="20241106033000 +0000" stop="20241106063000 +0000">
-		<title>Magadheera</title>
-		<desc>A warrior reincarnates 400 years later, determined to reclaim his lost love and kingdom against adversity. Release Year: 2009 Director: S.S. Rajamouli Awards: Best Director: S.S. Rajamouli Filmfare Awards South; Best Choreography: Shivashankar, Best Speci</desc>
+		<title>Movie_MAGADHEERA</title>
+		<desc>Movie_MAGADHEERA</desc>
 	</programme>
 	<programme channel="5671" start="20241106063000 +0000" stop="20241106070000 +0000">
-		<title>Paape Maa Jeevana Jyothi</title>
-		<desc>Jyothi seeks acceptance but faces turmoil as daughter Jeevana is kidnapped, jeopardizing their newfound peace.</desc>
+		<title>Paape Naa Jeevana Jyothi</title>
+		<desc>Story revolves around mother and missed daughter</desc>
 	</programme>
 	<programme channel="5671" start="20241106070000 +0000" stop="20241106073000 +0000">
-		<title>Ninnu Kori</title>
-		<desc>Pallavi invites her ex-boyfriend to stay with her and her husband to prove she is happy. Uma tries to break them up.</desc>
+		<title>NINNU KORI</title>
+		<desc>NINNU KORI</desc>
 	</programme>
 	<programme channel="5671" start="20241106073000 +0000" stop="20241106080000 +0000">
-		<title>Nuvvu Nenu Prema</title>
-		<desc>Padmavathi, a family-loving girl, meets Vikramaditya, an arrogant businessman grappling with the loss of his parents.</desc>
+		<title>NUVVU NENU PREMA</title>
+		<desc>NUVVU NENU PREMA</desc>
 	</programme>
 	<programme channel="5671" start="20241106080000 +0000" stop="20241106083000 +0000">
-		<title>Paluke Bangaramayena</title>
-		<desc>Speech-impaired Swaragini, deemed unlucky by her father. Can Officer Abhishek alter her fate?</desc>
+		<title>PALUKE BANGARAMAYENA</title>
+		<desc>PALUKE BANGARAMAYENA</desc>
 	</programme>
 	<programme channel="5671" start="20241106083000 +0000" stop="20241106090000 +0000">
-		<title>Mama Garu</title>
-		<desc>Ganga confronts chauvinistic father-in-law, challenging norms. Can she carve her path to victory and claim her rights?</desc>
+		<title>MAMA GARU</title>
+		<desc>Serial</desc>
 	</programme>
 	<programme channel="5671" start="20241106090000 +0000" stop="20241106093000 +0000">
 		<title>Vantalakka</title>
-		<desc>Kind-hearted Murali loves a wealthy girl. Their romance encounters numerous obstacles.</desc>
+		<desc>Serial</desc>
 	</programme>
 	<programme channel="5671" start="20241106093000 +0000" stop="20241106100000 +0000">
 		<title>Malli</title>
-		<desc>Malli promises Meera after hearing her past. Arvind's family frets over his new project.</desc>
+		<desc>Story of village girl</desc>
 	</programme>
 	<programme channel="5671" start="20241106100000 +0000" stop="20241106103000 +0000">
-		<title>Yeto Vellipoindi Manasu</title>
-		<desc>Varun and Nithya's lifelong journey is marked by ups and downs, leading to multiple separations.</desc>
+		<title>YETO VELLIPOINDI MANASU</title>
+		<desc>YETO VELLIPOINDI MANASU</desc>
 	</programme>
 	<programme channel="5671" start="20241106103000 +0000" stop="20241106110000 +0000">
-		<title>Gunde Ninda Gudigantalu</title>
-		<desc>Circumstances force Meena, a family-centric girl, to marry Balu, a thug. Will this unfortunate marriage turn into love?</desc>
+		<title>GUNDE NINDA GUDIGANTALU</title>
+		<desc>GUNDE NINDA GUDIGANTALU</desc>
 	</programme>
 	<programme channel="5671" start="20241106110000 +0000" stop="20241106120000 +0000">
-		<title>Bigg Boss S08</title>
-		<desc>Celebrities live in an isolated house cut off from the rest of the world. They have to compete in challenging tasks to avoid elimination and win.</desc>
+		<title>BIGG BOSS 8 ®</title>
+		<desc>BIGG BOSS 8 ®</desc>
 	</programme>
 	<programme channel="5671" start="20241106120000 +0000" stop="20241106123000 +0000">
-		<title>Guppedantha Manasu</title>
-		<desc>Anupama urges Mahindra to report Rishi's disappearance. Next day, Vasudhara sets out on a mission to locate him.</desc>
+		<title>GUPPEDANTHA MANASU SPL</title>
+		<desc>GUPPEDANTHA MANASU SPL</desc>
 	</programme>
 	<programme channel="5671" start="20241106123000 +0000" stop="20241106130000 +0000">
-		<title>Sathyabhama</title>
-		<desc>Krish falls for Satya, a principled girl. What unfolds for this extraordinary couple in their love story?</desc>
+		<title>SATHYABHAMA</title>
+		<desc>SATHYABHAMA</desc>
 	</programme>
 	<programme channel="5671" start="20241106130000 +0000" stop="20241106133000 +0000">
-		<title>Maguva O Maguva</title>
-		<desc>Wealthy Akhila and single mom Anjali bond during pregnancy, navigating diverse backgrounds in a tale of motherhood.</desc>
+		<title>MAGUVA O MAGUVA</title>
+		<desc>MAGUVA O MAGUVA</desc>
 	</programme>
 	<programme channel="5671" start="20241106133000 +0000" stop="20241106140000 +0000">
-		<title>Chinni</title>
-		<desc>A heartwarming tale of a Mother and Daughter navigating through unexpected challenges, strengthening their bond and understanding each other in new ways.</desc>
+		<title>CHINNI</title>
+		<desc>Serial</desc>
 	</programme>
 	<programme channel="5671" start="20241106140000 +0000" stop="20241106143000 +0000">
-		<title>Brahma Mudi</title>
-		<desc>Mother arranges weddings for talented daughters. Affairs take an unexpected turn with an affluent family.</desc>
+		<title>BRAHMA MUDI</title>
+		<desc>BRAHMA MUDI</desc>
 	</programme>
 	<programme channel="5671" start="20241106143000 +0000" stop="20241106150000 +0000">
-		<title>Karthika Deepam-Nava Vasantham</title>
-		<desc>Deepa, dark-skinned, toils against social pressures after marrying Dr. Karthik.</desc>
+		<title>KARTHIKA DEEPAM-NAVA VASANTHAM</title>
+		<desc>KARTHIKA DEEPAM-NAVA VASANTHAM</desc>
 	</programme>
 	<programme channel="5671" start="20241106150000 +0000" stop="20241106153000 +0000">
-		<title>Intinti Ramayanam</title>
-		<desc>Members of a close-knit family begin to doubt one another when they suddenly face a problem.</desc>
+		<title>INTINTI RAMAYANAM</title>
+		<desc>INTINTI RAMAYANAM</desc>
 	</programme>
 	<programme channel="5676" start="20241104160000 +0000" stop="20241104170000 +0000">
 		<title>INDIA UPFRONT</title>
@@ -34322,8 +34318,8 @@ Idealistic and passionate rookie lawyer Qing takes on the case of a death row pr
 		<desc>KAHIT MINSAN LAMANG</desc>
 	</programme>
 	<programme channel="6692" start="20241106100000 +0000" stop="20241106120000 +0000">
-		<title>KUSINA - Re-edit Pushed in HD</title>
-		<desc>KUSINA - Re-edit Pushed in HD</desc>
+		<title>KUSINA</title>
+		<desc>KUSINA</desc>
 	</programme>
 	<programme channel="6692" start="20241106120000 +0000" stop="20241106140000 +0000">
 		<title>SHE'S DATING THE GANGSTER</title>
