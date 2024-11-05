@@ -4348,25 +4348,25 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<title>Gallagher Premiership Gallagher Premiership</title>
 		<desc>The best of the latest action from the Gallagher Premiership.</desc>
 	</programme>
-	<programme channel="5118" start="20241105015000 +0000" stop="20241105035000 +0000">
-		<title>AFLW Geelong v Adelaide</title>
-		<desc>AFLW Geelong v Adelaide</desc>
-	</programme>
-	<programme channel="5118" start="20241105035000 +0000" stop="20241105040000 +0000">
+	<programme channel="5118" start="20241105015000 +0000" stop="20241105020000 +0000">
 		<title>URC Match Highlights Benetton v Bulls</title>
 		<desc>Catch up on all the match highlights from the most recent round of United Rugby Championship.</desc>
 	</programme>
-	<programme channel="5118" start="20241105040000 +0000" stop="20241105041000 +0000">
+	<programme channel="5118" start="20241105020000 +0000" stop="20241105021000 +0000">
 		<title>URC Match Highlights Scarlets v Zebre</title>
 		<desc>Catch up on all the match highlights from the most recent round of United Rugby Championship.</desc>
 	</programme>
-	<programme channel="5118" start="20241105041000 +0000" stop="20241105042000 +0000">
+	<programme channel="5118" start="20241105021000 +0000" stop="20241105022000 +0000">
 		<title>URC Match Highlights Stormers v Glasgow Warriors</title>
 		<desc>Catch up on all the match highlights from the most recent round of United Rugby Championship.</desc>
 	</programme>
-	<programme channel="5118" start="20241105042000 +0000" stop="20241105043000 +0000">
+	<programme channel="5118" start="20241105022000 +0000" stop="20241105023000 +0000">
 		<title>URC Match Highlights Ospreys v Edinburgh</title>
 		<desc>Catch up on all the match highlights from the most recent round of United Rugby Championship.</desc>
+	</programme>
+	<programme channel="5118" start="20241105023000 +0000" stop="20241105043000 +0000">
+		<title>LIVE Melbourne Cup LIVE Melbourne Cup</title>
+		<desc>The 2024 Melbourne Cup will be the 164th running of the Melbourne Cup, an Australian thoroughbred horse race.</desc>
 	</programme>
 	<programme channel="5118" start="20241105043000 +0000" stop="20241105044000 +0000">
 		<title>URC Match Highlights Sharks v Munster</title>
@@ -4441,11 +4441,11 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<desc>Watch all the action in the Autumn Nation Series, as the Southern Hempisphere teams make the long journey north to take on the best that Europe has to offer.</desc>
 	</programme>
 	<programme channel="5118" start="20241105155000 +0000" stop="20241105155000 +0000">
-		<title>5 &amp; 6 Nations Classics 2007 / Scotland v Italy</title>
+		<title>5 &amp; 6 Nations Classics 2007 - Scotland v Italy</title>
 		<desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
 	</programme>
 	<programme channel="5118" start="20241105155000 +0000" stop="20241105162000 +0000">
-		<title>5 &amp; 6 Nations Classics 2007 / Scotland v Italy</title>
+		<title>5 &amp; 6 Nations Classics 2007 - Scotland v Italy</title>
 		<desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
 	</programme>
 	<programme channel="5118" start="20241105162000 +0000" stop="20241105181000 +0000">
@@ -4457,7 +4457,7 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<desc>Premiership Rugby Exeter v Harlequins</desc>
 	</programme>
 	<programme channel="5118" start="20241105200000 +0000" stop="20241105203000 +0000">
-		<title>5 &amp; 6 Nations Classics 2001 / Wales v England</title>
+		<title>5 &amp; 6 Nations Classics 2001 - Wales v England</title>
 		<desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
 	</programme>
 	<programme channel="5118" start="20241105203000 +0000" stop="20241105204000 +0000">
@@ -4501,7 +4501,7 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<desc>Benetton and the Vodacom Bulls face off in this URC matchup from the Stadio Comunale di Monigo.</desc>
 	</programme>
 	<programme channel="5118" start="20241106014000 +0000" stop="20241106021000 +0000">
-		<title>5 &amp; 6 Nations Classics 2003 / Italy v France</title>
+		<title>5 &amp; 6 Nations Classics 2003 - Italy v France</title>
 		<desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
 	</programme>
 	<programme channel="5118" start="20241106021000 +0000" stop="20241106040000 +0000">
@@ -4513,7 +4513,7 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<desc>The Glasgow Warriors are in South Africa again for this URC clash against the DHL Stormers at the Danie Craven Stadium.</desc>
 	</programme>
 	<programme channel="5118" start="20241106055000 +0000" stop="20241106062000 +0000">
-		<title>5 &amp; 6 Nations Classics 2002 / Wales v France</title>
+		<title>5 &amp; 6 Nations Classics 2002 - Wales v France</title>
 		<desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
 	</programme>
 	<programme channel="5118" start="20241106062000 +0000" stop="20241106081000 +0000">
@@ -4561,7 +4561,7 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<desc>The Hollywoodbets Sharks and Munster do battle in this URC fixture from Kings Park Stadium in Durban.</desc>
 	</programme>
 	<programme channel="5118" start="20241106131000 +0000" stop="20241106134000 +0000">
-		<title>5 &amp; 6 Nations Classics 2007 / Scotland v Italy</title>
+		<title>5 &amp; 6 Nations Classics 2007 - Scotland v Italy</title>
 		<desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
 	</programme>
 	<programme channel="5118" start="20241106134000 +0000" stop="20241106153000 +0000">
@@ -4636,11 +4636,7 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<title>Closed Episode 415689</title>
 		<desc>Closed</desc>
 	</programme>
-	<programme channel="6126" start="20241104140000 +0000" stop="20241104163000 +0000">
-		<title>Formula 1 Main Race 2024: FORMULA 1 LENOVO GRANDE PREMIO DE SAO PAULO 2024 Episode 21</title>
-		<desc>Formula 1 Main Race 2024</desc>
-	</programme>
-	<programme channel="6126" start="20241104163000 +0000" stop="20241104163500 +0000">
+	<programme channel="6126" start="20241104160000 +0000" stop="20241104163500 +0000">
 		<title>Formula 1 Highlights 2024: FORMULA 1 LENOVO GRANDE PREMIO DE SAO PAULO 2024 Episode 21</title>
 		<desc>Formula 1 Highlights 2024</desc>
 	</programme>
@@ -4681,56 +4677,64 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<desc>LaLiga 2 2024/25</desc>
 	</programme>
 	<programme channel="6126" start="20241105015000 +0000" stop="20241105034000 +0000">
-		<title>LaLiga 2 2024/25: Episode Number 118 Episode 118</title>
-		<desc>LaLiga 2 2024/25</desc>
+		<title>LaLiga 2024/25: Barcelona vs Espanyol Episode 117</title>
+		<desc>LaLiga 2024/25</desc>
 	</programme>
 	<programme channel="6126" start="20241105034000 +0000" stop="20241105040000 +0000">
 		<title>LaLiga Zap 2024/25: Episode Number 3 Episode 3</title>
 		<desc>LaLiga Zap 2024/25</desc>
 	</programme>
-	<programme channel="6126" start="20241105040000 +0000" stop="20241105060000 +0000">
-		<title>MUTV 2024/25: Man United vs Chelsea Episode 13</title>
-		<desc>MUTV 2024/25</desc>
+	<programme channel="6126" start="20241105040000 +0000" stop="20241105050000 +0000">
+		<title>Ferrari Challenge Europe Highlights 2024: World Finals Imola I Episode 8</title>
+		<desc>Ferrari Challenge Europe Highlights 2024</desc>
+	</programme>
+	<programme channel="6126" start="20241105050000 +0000" stop="20241105060000 +0000">
+		<title>Ferrari Challenge Europe Highlights 2024: World Finals Imola II Episode 9</title>
+		<desc>Ferrari Challenge Europe Highlights 2024</desc>
 	</programme>
 	<programme channel="6126" start="20241105060000 +0000" stop="20241105063000 +0000">
-		<title>MUTV: Match Day Review 2024/25: Man United vs Chelsea Episode 13</title>
-		<desc>MUTV: Match Day Review 2024/25</desc>
-	</programme>
-	<programme channel="6126" start="20241105063000 +0000" stop="20241105070000 +0000">
-		<title>MUTV Highlights 2024/25: Man United vs Brentford Episode 11</title>
-		<desc>MUTV Highlights 2024/25</desc>
-	</programme>
-	<programme channel="6126" start="20241105070000 +0000" stop="20241105083000 +0000">
-		<title>Premier Padel 2024: Dubai P1 Day 1 Match 1 (Live) Episode 653</title>
-		<desc>Premier Padel 2024</desc>
-	</programme>
-	<programme channel="6126" start="20241105083000 +0000" stop="20241105100000 +0000">
-		<title>Premier Padel 2024: Dubai P1 Day 1 Match 2 (Live) Episode 654</title>
-		<desc>Premier Padel 2024</desc>
-	</programme>
-	<programme channel="6126" start="20241105100000 +0000" stop="20241105113000 +0000">
-		<title>Premier Padel 2024: Dubai P1 Day 1 Match 3 (Live) Episode 655</title>
-		<desc>Premier Padel 2024</desc>
-	</programme>
-	<programme channel="6126" start="20241105113000 +0000" stop="20241105130000 +0000">
-		<title>Premier Padel 2024: Dubai P1 Day 1 Match 4 (Live) Episode 656</title>
-		<desc>Premier Padel 2024</desc>
-	</programme>
-	<programme channel="6126" start="20241105130000 +0000" stop="20241105143000 +0000">
-		<title>Premier Padel 2024: Dubai P1 Day 1 Match 5 (Live) Episode 657</title>
-		<desc>Premier Padel 2024</desc>
-	</programme>
-	<programme channel="6126" start="20241105143000 +0000" stop="20241105150000 +0000">
-		<title>Mini Match - Bundesliga 2024/25: Leverkusen vs Stuttgart Episode 73</title>
+		<title>Mini Match - Bundesliga 2024/25: Bayern vs FC Union Episode 74</title>
 		<desc>Mini Match - Bundesliga 2024/25</desc>
 	</programme>
-	<programme channel="6126" start="20241105150000 +0000" stop="20241105160000 +0000">
+	<programme channel="6126" start="20241105063000 +0000" stop="20241105073000 +0000">
 		<title>Bundesliga Highlights 2024/25: Matchday 9 Episode 9</title>
 		<desc>Bundesliga Highlights 2024/25</desc>
 	</programme>
-	<programme channel="6126" start="20241105160000 +0000" stop="20241105170000 +0000">
-		<title>Ferrari Challenge Europe Highlights 2024: World Finals Imola II Episode 9</title>
-		<desc>Ferrari Challenge Europe Highlights 2024</desc>
+	<programme channel="6126" start="20241105073000 +0000" stop="20241105080000 +0000">
+		<title>MUTV Highlights 2024/25: Man United vs Brentford Episode 11</title>
+		<desc>MUTV Highlights 2024/25</desc>
+	</programme>
+	<programme channel="6126" start="20241105080000 +0000" stop="20241105100000 +0000">
+		<title>MUTV 2024/25: Man United vs Chelsea Episode 13</title>
+		<desc>MUTV 2024/25</desc>
+	</programme>
+	<programme channel="6126" start="20241105100000 +0000" stop="20241105103000 +0000">
+		<title>MUTV: Match Day Review 2024/25: Man United vs Chelsea Episode 13</title>
+		<desc>MUTV: Match Day Review 2024/25</desc>
+	</programme>
+	<programme channel="6126" start="20241105103000 +0000" stop="20241105120000 +0000">
+		<title>Premier Padel 2024: Dubai P1 Day 1 Match 1 (Live) Episode 653</title>
+		<desc>Premier Padel 2024</desc>
+	</programme>
+	<programme channel="6126" start="20241105120000 +0000" stop="20241105133000 +0000">
+		<title>Premier Padel 2024: Dubai P1 Day 1 Match 2 (Live) Episode 654</title>
+		<desc>Premier Padel 2024</desc>
+	</programme>
+	<programme channel="6126" start="20241105133000 +0000" stop="20241105150000 +0000">
+		<title>Premier Padel 2024: Dubai P1 Day 1 Match 3 (Live) Episode 655</title>
+		<desc>Premier Padel 2024</desc>
+	</programme>
+	<programme channel="6126" start="20241105150000 +0000" stop="20241105153000 +0000">
+		<title>Premier Padel 2024: Dubai P1 Day 1 Match 4 (Live) Episode 656</title>
+		<desc>Premier Padel 2024</desc>
+	</programme>
+	<programme channel="6126" start="20241105153000 +0000" stop="20241105153000 +0000">
+		<title>Premier Padel 2024: Dubai P1 Day 1 Match 4 (Live) Episode 656</title>
+		<desc>Premier Padel 2024</desc>
+	</programme>
+	<programme channel="6126" start="20241105153000 +0000" stop="20241105170000 +0000">
+		<title>Premier Padel 2024: Dubai P1 Day 1 Match 4 (Live) Episode 656</title>
+		<desc>Premier Padel 2024</desc>
 	</programme>
 	<programme channel="6126" start="20241105170000 +0000" stop="20241105171000 +0000">
 		<title>Bundesliga Goals: Counter-Attack Goal Episode 2</title>
@@ -4745,64 +4749,64 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<desc>UEFA Champions League 2024/25</desc>
 	</programme>
 	<programme channel="6126" start="20241105195500 +0000" stop="20241105220000 +0000">
-		<title>UEFA Champions League 2024/25: Real Madrid vs Milan - MD4 (Live) Episode 76</title>
+		<title>UEFA Champions League 2024/25: Liverpool vs Leverkusen - MD4 (Live) Episode 74</title>
 		<desc>UEFA Champions League 2024/25</desc>
 	</programme>
-	<programme channel="6126" start="20241105220000 +0000" stop="20241105230000 +0000">
-		<title>LaLiga 2 Highlights 2024/25: Matchday 13 Episode 13</title>
-		<desc>LaLiga 2 Highlights 2024/25</desc>
+	<programme channel="6126" start="20241105220000 +0000" stop="20241105233000 +0000">
+		<title>Premier Padel 2024: Dubai P1 Day 1 Match 5 Episode 657</title>
+		<desc>Premier Padel 2024</desc>
 	</programme>
-	<programme channel="6126" start="20241105230000 +0000" stop="20241106010000 +0000">
+	<programme channel="6126" start="20241105233000 +0000" stop="20241106013000 +0000">
 		<title>LaLiga 2024/25: Celta Vigo vs Getafe Episode 120</title>
 		<desc>LaLiga 2024/25</desc>
 	</programme>
-	<programme channel="6126" start="20241106010000 +0000" stop="20241106020000 +0000">
+	<programme channel="6126" start="20241106013000 +0000" stop="20241106023000 +0000">
 		<title>Bundesliga Highlights 2024/25: Matchday 9 Episode 9</title>
 		<desc>Bundesliga Highlights 2024/25</desc>
 	</programme>
-	<programme channel="6126" start="20241106020000 +0000" stop="20241106035500 +0000">
+	<programme channel="6126" start="20241106023000 +0000" stop="20241106042500 +0000">
 		<title>LaLiga 2024/25: Atletico Madrid vs Las Palmas Episode 116</title>
 		<desc>LaLiga 2024/25</desc>
 	</programme>
-	<programme channel="6126" start="20241106035500 +0000" stop="20241106043000 +0000">
+	<programme channel="6126" start="20241106042500 +0000" stop="20241106050000 +0000">
 		<title>Formula 1 Highlights 2024: FORMULA 1 LENOVO GRANDE PREMIO DE SAO PAULO 2024 Episode 21</title>
 		<desc>Formula 1 Highlights 2024</desc>
 	</programme>
-	<programme channel="6126" start="20241106043000 +0000" stop="20241106050000 +0000">
-		<title>Mini Match - Bundesliga 2024/25: Bayern vs FC Union Episode 74</title>
-		<desc>Mini Match - Bundesliga 2024/25</desc>
-	</programme>
-	<programme channel="6126" start="20241106050000 +0000" stop="20241106053000 +0000">
-		<title>Mini Match - Bundesliga 2024/25: Dortmund vs Leipzig Episode 79</title>
-		<desc>Mini Match - Bundesliga 2024/25</desc>
-	</programme>
-	<programme channel="6126" start="20241106053000 +0000" stop="20241106060000 +0000">
-		<title>LaLiga World 2024/25: Episode Number 13 Episode 13</title>
-		<desc>LaLiga World 2024/25</desc>
-	</programme>
-	<programme channel="6126" start="20241106060000 +0000" stop="20241106073000 +0000">
+	<programme channel="6126" start="20241106050000 +0000" stop="20241106063000 +0000">
 		<title>Premier Padel 2024: Dubai P1 Day 2 Match 1 (Live) Episode 658</title>
 		<desc>Premier Padel 2024</desc>
 	</programme>
-	<programme channel="6126" start="20241106073000 +0000" stop="20241106090000 +0000">
+	<programme channel="6126" start="20241106063000 +0000" stop="20241106070000 +0000">
+		<title>Mini Match - Bundesliga 2024/25: Dortmund vs Leipzig Episode 79</title>
+		<desc>Mini Match - Bundesliga 2024/25</desc>
+	</programme>
+	<programme channel="6126" start="20241106070000 +0000" stop="20241106073000 +0000">
+		<title>Mini Match - Bundesliga 2024/25: Hoffenheim vs St. Pauli Episode 76</title>
+		<desc>Mini Match - Bundesliga 2024/25</desc>
+	</programme>
+	<programme channel="6126" start="20241106073000 +0000" stop="20241106080000 +0000">
+		<title>LaLiga World 2024/25: Episode Number 13 Episode 13</title>
+		<desc>LaLiga World 2024/25</desc>
+	</programme>
+	<programme channel="6126" start="20241106080000 +0000" stop="20241106100000 +0000">
+		<title>LFCTV 2024/25: Liverpool vs Brighton Episode 12</title>
+		<desc>LFCTV 2024/25</desc>
+	</programme>
+	<programme channel="6126" start="20241106100000 +0000" stop="20241106103000 +0000">
+		<title>LFC Trending 2024/25: Episode Number 12 Episode 12</title>
+		<desc>LFC Trending 2024/25</desc>
+	</programme>
+	<programme channel="6126" start="20241106103000 +0000" stop="20241106110000 +0000">
+		<title>LFCTV Highlights 2024/25: Brighton vs Liverpool - Carabao Cup Episode 5</title>
+		<desc>LFCTV Highlights 2024/25</desc>
+	</programme>
+	<programme channel="6126" start="20241106110000 +0000" stop="20241106123000 +0000">
 		<title>Premier Padel 2024: Dubai P1 Day 2 Match 2 (Live) Episode 659</title>
 		<desc>Premier Padel 2024</desc>
 	</programme>
-	<programme channel="6126" start="20241106090000 +0000" stop="20241106103000 +0000">
+	<programme channel="6126" start="20241106123000 +0000" stop="20241106140000 +0000">
 		<title>Premier Padel 2024: Dubai P1 Day 2 Match 3 (Live) Episode 660</title>
 		<desc>Premier Padel 2024</desc>
-	</programme>
-	<programme channel="6126" start="20241106103000 +0000" stop="20241106120000 +0000">
-		<title>Premier Padel 2024: Dubai P1 Day 2 Match 4 (Live) Episode 661</title>
-		<desc>Premier Padel 2024</desc>
-	</programme>
-	<programme channel="6126" start="20241106120000 +0000" stop="20241106133000 +0000">
-		<title>Premier Padel 2024: Dubai P1 Day 2 Match 5 (Live) Episode 662</title>
-		<desc>Premier Padel 2024</desc>
-	</programme>
-	<programme channel="6126" start="20241106133000 +0000" stop="20241106140000 +0000">
-		<title>LaLiga World 2024/25: Episode Number 13 Episode 13</title>
-		<desc>LaLiga World 2024/25</desc>
 	</programme>
 	<programme channel="6126" start="20241106140000 +0000" stop="20241106142000 +0000">
 		<title>LaLiga Zap 2024/25: Episode Number 3 Episode 3</title>
@@ -4993,7 +4997,7 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<desc>UEFA Champions League Highlights 2024/25</desc>
 	</programme>
 	<programme channel="6110" start="20241105014500 +0000" stop="20241105034500 +0000">
-		<title>Arsenal TV Classic 2024/25: Liverpool vs Arsenal Episode 9</title>
+		<title>Arsenal TV Classic 2024/25: Arsenal vs Southampton Episode 9</title>
 		<desc>Arsenal TV Classic 2024/25</desc>
 	</programme>
 	<programme channel="6110" start="20241105034500 +0000" stop="20241105054500 +0000">
@@ -5045,7 +5049,7 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<desc>UEFA Champions League 2024/25</desc>
 	</programme>
 	<programme channel="6110" start="20241105195500 +0000" stop="20241105220000 +0000">
-		<title>UEFA Champions League 2024/25: Liverpool vs Leverkusen - MD4 (Live) Episode 74</title>
+		<title>UEFA Champions League 2024/25: Real Madrid vs Milan - MD4 (Live) Episode 76</title>
 		<desc>UEFA Champions League 2024/25</desc>
 	</programme>
 	<programme channel="6110" start="20241105220000 +0000" stop="20241105224500 +0000">
@@ -20136,20 +20140,20 @@ Idealistic and passionate rookie lawyer Qing takes on the case of a death row pr
 		<desc>《11点热吵店》透过年轻世代的角度，无论是两性、职场、人际、时事娱乐等，大谈他们最关心、最想发泄、最有意见的热门话题！</desc>
 	</programme>
 	<programme channel="6507" start="20241106010000 +0000" stop="20241106020000 +0000">
-		<title>女人我最大 / Queen</title>
-		<desc>《女人我最大》节目内容包罗万象，从各行各业的奇特文化；社会异象到生活新鲜事，美艳的主持人蓝心湄将带领观众一起探讨及解开谜团。</desc>
+		<title>2024美國總統大選 / 2024 U.S. Presidential Election</title>
+		<desc>2024 U.S. Presidential Election</desc>
 	</programme>
 	<programme channel="6507" start="20241106020000 +0000" stop="20241106030000 +0000">
-		<title>拜托ATM / Battle ATM</title>
-		<desc>极具未来感场景的全新益智综艺节目《拜托ATM》，结合电玩游戏概念，挑战者将透过益智竞争，开启ATM进行终极译码游戏。一场科技与智慧的益智竞赛《拜托ATM》由行长胡瓜、襄理Sandra与精英挑战者携手打造。</desc>
+		<title>2024美國總統大選 / 2024 U.S. Presidential Election</title>
+		<desc>2024 U.S. Presidential Election</desc>
 	</programme>
 	<programme channel="6507" start="20241106030000 +0000" stop="20241106040000 +0000">
-		<title>食尚玩家 Hello 腹饿代 / Super Taste: Hungry Generations</title>
-		<desc>绝对精彩的美食节目。看后保证让您垂涎三尺！</desc>
+		<title>2024美國總統大選 / 2024 U.S. Presidential Election</title>
+		<desc>2024 U.S. Presidential Election</desc>
 	</programme>
 	<programme channel="6507" start="20241106040000 +0000" stop="20241106060000 +0000">
-		<title>FOCUS 世界新闻 / Focus World News</title>
-		<desc>聚焦国际与台湾重点新闻，提供观众最新最深入的国际与台湾新闻。</desc>
+		<title>整点新闻 / TVBS News</title>
+		<desc>本新闻时段除了在第一时间为观众提供深入的直击报导外，还提供详细的世界头条新闻、两岸三地要闻、台湾焦点新闻，让您的新闻信息零时差。</desc>
 	</programme>
 	<programme channel="6507" start="20241106060000 +0000" stop="20241106070000 +0000">
 		<title>健康2.0 / All About Health</title>
@@ -20168,12 +20172,12 @@ Idealistic and passionate rookie lawyer Qing takes on the case of a death row pr
 		<desc>绝对精彩的美食节目。看后保证让您垂涎三尺！</desc>
 	</programme>
 	<programme channel="6507" start="20241106100000 +0000" stop="20241106110000 +0000">
-		<title>国民大会 / Citizens' Subjects</title>
-		<desc>「国民大会」从台湾的人、台湾的事，畅谈台湾的故事，以深入浅出，轻松幽默的不同面向解读社会时事的氛围。</desc>
+		<title>FOCUS全球新闻 美国大选特别报导 / Global Focus：U.S. Election Special Report</title>
+		<desc>聚焦国际与台湾重点新闻，提供观众最新最深入的国际与台湾新闻。</desc>
 	</programme>
 	<programme channel="6507" start="20241106110000 +0000" stop="20241106120000 +0000">
-		<title>FOCUS全球新闻 / Global Focus</title>
-		<desc>聚焦全球大事，从华府到北京，从欧美到亚非，从政治、经济到科技与文化，透过深度而完整的报导，带领观众进入关键事件的核心，补给面向世界的知识能量，掌握国际发展趋势。</desc>
+		<title>FOCUS全球新闻 美国大选特别报导 / Global Focus：U.S. Election Special Report</title>
+		<desc>聚焦国际与台湾重点新闻，提供观众最新最深入的国际与台湾新闻。</desc>
 	</programme>
 	<programme channel="6507" start="20241106120000 +0000" stop="20241106130000 +0000">
 		<title>拜托ATM / Battle ATM</title>
@@ -21066,16 +21070,16 @@ Idealistic and passionate rookie lawyer Qing takes on the case of a death row pr
 		<desc>早安台灣提供來自全球各地重點新聞</desc>
 	</programme>
 	<programme channel="6516" start="20241106010000 +0000" stop="20241106020000 +0000">
-		<title>上午9点新闻 / 0900 MORNING NEWS</title>
-		<desc>TVBS News，完整報導新聞時事</desc>
+		<title>2024美國總統大選 / 2024 U.S. PRESIDENTIAL ELECTION</title>
+		<desc>2024 U.S. PRESIDENTIAL ELECTION</desc>
 	</programme>
 	<programme channel="6516" start="20241106020000 +0000" stop="20241106030000 +0000">
-		<title>上午10点新闻 / 1000 MORNING NEWS</title>
-		<desc>TVBS News，完整報導新聞時事</desc>
+		<title>2024美國總統大選 / 2024 U.S. PRESIDENTIAL ELECTION</title>
+		<desc>2024 U.S. PRESIDENTIAL ELECTION</desc>
 	</programme>
 	<programme channel="6516" start="20241106030000 +0000" stop="20241106040000 +0000">
-		<title>上午11点新闻 / 1100 MORNING NEWS</title>
-		<desc>TVBS News，完整報導新聞時事</desc>
+		<title>2024美國總統大選 / 2024 U.S. PRESIDENTIAL ELECTION</title>
+		<desc>2024 U.S. PRESIDENTIAL ELECTION</desc>
 	</programme>
 	<programme channel="6516" start="20241106040000 +0000" stop="20241106050000 +0000">
 		<title>午间12.13新闻 / 1200/1300 NOON NEWS</title>
@@ -25565,169 +25569,169 @@ Idealistic and passionate rookie lawyer Qing takes on the case of a death row pr
 		<title>Singgah Set S2 Episode 44</title>
 		<desc>Secara eksklusif BamBam Studio bawakan disebalik tabir pembikinan drama-drama Astro khas buat anda</desc>
 	</programme>
-	<programme channel="5610" start="20241104160000 +0000" stop="20241104170000 +0000">
-		<title>Roda-Roda Gila Episode 36</title>
-		<desc>Roda Roda Gila tells the story of the adventures of Elvano, a biker who has a romantic story with Mika, a senior racer's child. Their first meeting on the racing circuit made Elvano fall in love with Mika. However, the romance between Mika and Elvano seems to be hindered by the blessings of their parents and friends.</desc>
+	<programme channel="5610" start="20241104153000 +0000" stop="20241104170000 +0000">
+		<title>Dosen Ayang Bikin Salting Brutal</title>
+		<desc>Rama (Andrew Andika) becomes a lecturer who often punishes Elsa (Andi Viola). Elsa is then asked to make Rama emotional and break up with him in front of everyone. However, it is Elsa who is emotional and upset when Rama declares his love.</desc>
 	</programme>
 	<programme channel="5610" start="20241104170000 +0000" stop="20241104182500 +0000">
 		<title>Ruang Rindu - Catatan Harianku</title>
 		<desc>My Diary - Ruang Rindu, played by, Morgan Oey, Rachel Amanda. Elang and Nayla have been friends since childhood. One day, Nayla had to follow her father to move out of town and separated from Elang. They both have many sweet memories, one of which is the story of the Snow Queen that Nayla really likes. For Elang, Nayla is his Snow Queen.</desc>
 	</programme>
-	<programme channel="5610" start="20241104182500 +0000" stop="20241104195500 +0000">
+	<programme channel="5610" start="20241104182500 +0000" stop="20241104192000 +0000">
+		<title>Love Story The Series (S2) Episode 170</title>
+		<desc>Kendra's meeting with Maudy began with an accidental meeting at the Villa, that's where Ken first saw Maudy and immediately fell in love. Initially, Maudy was disturbed by Ken's presence, accidentally the horse that Maudy was riding went berserk until it fell into the river, not long after Ken jumped to save Maudy.</desc>
+	</programme>
+	<programme channel="5610" start="20241104192000 +0000" stop="20241104201500 +0000">
+		<title>Roda-Roda Gila Episode 36</title>
+		<desc>Roda Roda Gila tells the story of the adventures of Elvano, a biker who has a romantic story with Mika, a senior racer's child. Their first meeting on the racing circuit made Elvano fall in love with Mika. However, the romance between Mika and Elvano seems to be hindered by the blessings of their parents and friends.</desc>
+	</programme>
+	<programme channel="5610" start="20241104201500 +0000" stop="20241104214000 +0000">
 		<title>Dosen Ayang Bikin Salting Brutal</title>
 		<desc>Rama (Andrew Andika) becomes a lecturer who often punishes Elsa (Andi Viola). Elsa is then asked to make Rama emotional and break up with him in front of everyone. However, it is Elsa who is emotional and upset when Rama declares his love.</desc>
 	</programme>
-	<programme channel="5610" start="20241104195500 +0000" stop="20241104205000 +0000">
-		<title>Love Story The Series (S2) Episode 170</title>
-		<desc>Kendra's meeting with Maudy began with an accidental meeting at the Villa, that's where Ken first saw Maudy and immediately fell in love. Initially, Maudy was disturbed by Ken's presence, accidentally the horse that Maudy was riding went berserk until it fell into the river, not long after Ken jumped to save Maudy.</desc>
-	</programme>
-	<programme channel="5610" start="20241104205000 +0000" stop="20241104214500 +0000">
-		<title>Roda-Roda Gila Episode 36</title>
-		<desc>Roda Roda Gila tells the story of the adventures of Elvano, a biker who has a romantic story with Mika, a senior racer's child. Their first meeting on the racing circuit made Elvano fall in love with Mika. However, the romance between Mika and Elvano seems to be hindered by the blessings of their parents and friends.</desc>
-	</programme>
-	<programme channel="5610" start="20241104214500 +0000" stop="20241104231000 +0000">
+	<programme channel="5610" start="20241104214000 +0000" stop="20241104230500 +0000">
 		<title>Ruang Rindu - Catatan Harianku</title>
 		<desc>My Diary - Ruang Rindu, played by, Morgan Oey, Rachel Amanda. Elang and Nayla have been friends since childhood. One day, Nayla had to follow her father to move out of town and separated from Elang. They both have many sweet memories, one of which is the story of the Snow Queen that Nayla really likes. For Elang, Nayla is his Snow Queen.</desc>
 	</programme>
-	<programme channel="5610" start="20241104231000 +0000" stop="20241105000500 +0000">
+	<programme channel="5610" start="20241104230500 +0000" stop="20241105000000 +0000">
 		<title>Love Story The Series (S2) Episode 170</title>
 		<desc>Kendra's meeting with Maudy began with an accidental meeting at the Villa, that's where Ken first saw Maudy and immediately fell in love. Initially, Maudy was disturbed by Ken's presence, accidentally the horse that Maudy was riding went berserk until it fell into the river, not long after Ken jumped to save Maudy.</desc>
 	</programme>
-	<programme channel="5610" start="20241105000500 +0000" stop="20241105010000 +0000">
+	<programme channel="5610" start="20241105000000 +0000" stop="20241105005500 +0000">
 		<title>Roda-Roda Gila Episode 36</title>
 		<desc>Roda Roda Gila tells the story of the adventures of Elvano, a biker who has a romantic story with Mika, a senior racer's child. Their first meeting on the racing circuit made Elvano fall in love with Mika. However, the romance between Mika and Elvano seems to be hindered by the blessings of their parents and friends.</desc>
 	</programme>
-	<programme channel="5610" start="20241105010000 +0000" stop="20241105022500 +0000">
+	<programme channel="5610" start="20241105005500 +0000" stop="20241105022000 +0000">
 		<title>Memori Memudar - Catatan Harianku</title>
 		<desc>Fading Memories My Diary Aired April 14, 2021 “Rania Putrisari must accept the fact that she only remembers memories before she married her deceased husband.</desc>
 	</programme>
-	<programme channel="5610" start="20241105022500 +0000" stop="20241105032000 +0000">
-		<title>Love Story The Series (S2) Episode 170</title>
-		<desc>Kendra's meeting with Maudy began with an accidental meeting at the Villa, that's where Ken first saw Maudy and immediately fell in love. Initially, Maudy was disturbed by Ken's presence, accidentally the horse that Maudy was riding went berserk until it fell into the river, not long after Ken jumped to save Maudy.</desc>
-	</programme>
-	<programme channel="5610" start="20241105032000 +0000" stop="20241105041500 +0000">
-		<title>Roda-Roda Gila Episode 36</title>
-		<desc>Roda Roda Gila tells the story of the adventures of Elvano, a biker who has a romantic story with Mika, a senior racer's child. Their first meeting on the racing circuit made Elvano fall in love with Mika. However, the romance between Mika and Elvano seems to be hindered by the blessings of their parents and friends.</desc>
-	</programme>
-	<programme channel="5610" start="20241105041500 +0000" stop="20241105054000 +0000">
+	<programme channel="5610" start="20241105022000 +0000" stop="20241105034500 +0000">
 		<title>Miss Amis Tapi Manis Bikin Cintaku Ngga Abis-Abis</title>
 		<desc>Famous artist Raisa finds herself inheriting a pond, triggering family conflict, betrayal, and the struggle to manage the family legacy. With Tama's support, Raisa faces increasingly complex challenges, while Melati creates intrigue for her own personal gain.</desc>
 	</programme>
-	<programme channel="5610" start="20241105054000 +0000" stop="20241105063500 +0000">
+	<programme channel="5610" start="20241105034500 +0000" stop="20241105044000 +0000">
 		<title>Love Story The Series (S2) Episode 170</title>
 		<desc>Kendra's meeting with Maudy began with an accidental meeting at the Villa, that's where Ken first saw Maudy and immediately fell in love. Initially, Maudy was disturbed by Ken's presence, accidentally the horse that Maudy was riding went berserk until it fell into the river, not long after Ken jumped to save Maudy.</desc>
 	</programme>
-	<programme channel="5610" start="20241105063500 +0000" stop="20241105073000 +0000">
+	<programme channel="5610" start="20241105044000 +0000" stop="20241105053500 +0000">
 		<title>Roda-Roda Gila Episode 36</title>
 		<desc>Roda Roda Gila tells the story of the adventures of Elvano, a biker who has a romantic story with Mika, a senior racer's child. Their first meeting on the racing circuit made Elvano fall in love with Mika. However, the romance between Mika and Elvano seems to be hindered by the blessings of their parents and friends.</desc>
 	</programme>
-	<programme channel="5610" start="20241105073000 +0000" stop="20241105090000 +0000">
+	<programme channel="5610" start="20241105053500 +0000" stop="20241105070000 +0000">
+		<title>Memori Memudar - Catatan Harianku</title>
+		<desc>Fading Memories My Diary Aired April 14, 2021 “Rania Putrisari must accept the fact that she only remembers memories before she married her deceased husband.</desc>
+	</programme>
+	<programme channel="5610" start="20241105070000 +0000" stop="20241105075500 +0000">
+		<title>Love Story The Series (S2) Episode 170</title>
+		<desc>Kendra's meeting with Maudy began with an accidental meeting at the Villa, that's where Ken first saw Maudy and immediately fell in love. Initially, Maudy was disturbed by Ken's presence, accidentally the horse that Maudy was riding went berserk until it fell into the river, not long after Ken jumped to save Maudy.</desc>
+	</programme>
+	<programme channel="5610" start="20241105075500 +0000" stop="20241105092000 +0000">
 		<title>Cinta yang Hilang - Catatan Harianku</title>
 		<desc>Melati is a young woman who works as a barista at a coffee shop. She has been dating Dastan, a rich man's son, for a long time but has been hiding her identity from Melati for a long time. However, when he wanted to be honest, Dastan actually got into trouble because his grandmother did not approve. However, because of sincere love, Dastan chose to leave his family who was crazy about wealth for Melati, a simple woman but with a very kind heart.</desc>
 	</programme>
-	<programme channel="5610" start="20241105090000 +0000" stop="20241105095500 +0000">
+	<programme channel="5610" start="20241105092000 +0000" stop="20241105105000 +0000">
+		<title>Plis Genjreng Hatiku Dong Mas</title>
+		<desc>Rika, the metal busker, has to disguise herself as her twin, a guitarist in a band. But Rika ends up falling in love with Athar, the band's vocalist. Even though Rika has to maintain her disguise.</desc>
+	</programme>
+	<programme channel="5610" start="20241105105000 +0000" stop="20241105114500 +0000">
 		<title>Love Story The Series (S2) Episode 171</title>
 		<desc>Kendra's meeting with Maudy began with an accidental meeting at the Villa, that's where Ken first saw Maudy and immediately fell in love. Initially, Maudy was disturbed by Ken's presence, accidentally the horse that Maudy was riding went berserk until it fell into the river, not long after Ken jumped to save Maudy.</desc>
 	</programme>
-	<programme channel="5610" start="20241105095500 +0000" stop="20241105112000 +0000">
+	<programme channel="5610" start="20241105114500 +0000" stop="20241105131000 +0000">
 		<title>Day Care Cinta Mbak Crush Pok Amai Amai</title>
 		<desc>Even though they have been neighbors since childhood and studied at the same campus, MENTARI (Raisya Bawazier) and LEO (Fauzan Nasrul) never get along. Every time they meet, they always fight.</desc>
 	</programme>
-	<programme channel="5610" start="20241105112000 +0000" stop="20241105121500 +0000">
+	<programme channel="5610" start="20241105131000 +0000" stop="20241105140500 +0000">
 		<title>Roda-Roda Gila Episode 37</title>
 		<desc>Roda Roda Gila tells the story of the adventures of Elvano, a biker who has a romantic story with Mika, a senior racer's child. Their first meeting on the racing circuit made Elvano fall in love with Mika. However, the romance between Mika and Elvano seems to be hindered by the blessings of their parents and friends.</desc>
 	</programme>
-	<programme channel="5610" start="20241105121500 +0000" stop="20241105134000 +0000">
+	<programme channel="5610" start="20241105140500 +0000" stop="20241105153000 +0000">
 		<title>Mba Badut Terghumuz FYP Di Hatiku</title>
 		<desc>After Michelle Joan's father died, she became poor and had to become a clown. In addition, she also had to find her missing sister. Then she met her ex who said that after returning from abroad he would marry her. With such complicated problems, will they still get married?</desc>
 	</programme>
-	<programme channel="5610" start="20241105134000 +0000" stop="20241105150500 +0000">
+	<programme channel="5610" start="20241105153000 +0000" stop="20241105153000 +0000">
 		<title>Day Care Cinta Mbak Crush Pok Amai Amai</title>
 		<desc>Even though they have been neighbors since childhood and studied at the same campus, MENTARI (Raisya Bawazier) and LEO (Fauzan Nasrul) never get along. Every time they meet, they always fight.</desc>
 	</programme>
-	<programme channel="5610" start="20241105150500 +0000" stop="20241105160000 +0000">
-		<title>Love Story The Series (S2) Episode 171</title>
-		<desc>Kendra's meeting with Maudy began with an accidental meeting at the Villa, that's where Ken first saw Maudy and immediately fell in love. Initially, Maudy was disturbed by Ken's presence, accidentally the horse that Maudy was riding went berserk until it fell into the river, not long after Ken jumped to save Maudy.</desc>
-	</programme>
-	<programme channel="5610" start="20241105160000 +0000" stop="20241105170000 +0000">
-		<title>Roda-Roda Gila Episode 37</title>
-		<desc>Roda Roda Gila tells the story of the adventures of Elvano, a biker who has a romantic story with Mika, a senior racer's child. Their first meeting on the racing circuit made Elvano fall in love with Mika. However, the romance between Mika and Elvano seems to be hindered by the blessings of their parents and friends.</desc>
+	<programme channel="5610" start="20241105153000 +0000" stop="20241105170000 +0000">
+		<title>Day Care Cinta Mbak Crush Pok Amai Amai</title>
+		<desc>Even though they have been neighbors since childhood and studied at the same campus, MENTARI (Raisya Bawazier) and LEO (Fauzan Nasrul) never get along. Every time they meet, they always fight.</desc>
 	</programme>
 	<programme channel="5610" start="20241105170000 +0000" stop="20241105182500 +0000">
 		<title>Mba Badut Terghumuz FYP Di Hatiku</title>
 		<desc>After Michelle Joan's father died, she became poor and had to become a clown. In addition, she also had to find her missing sister. Then she met her ex who said that after returning from abroad he would marry her. With such complicated problems, will they still get married?</desc>
 	</programme>
-	<programme channel="5610" start="20241105182500 +0000" stop="20241105195500 +0000">
+	<programme channel="5610" start="20241105182500 +0000" stop="20241105192000 +0000">
+		<title>Love Story The Series (S2) Episode 171</title>
+		<desc>Kendra's meeting with Maudy began with an accidental meeting at the Villa, that's where Ken first saw Maudy and immediately fell in love. Initially, Maudy was disturbed by Ken's presence, accidentally the horse that Maudy was riding went berserk until it fell into the river, not long after Ken jumped to save Maudy.</desc>
+	</programme>
+	<programme channel="5610" start="20241105192000 +0000" stop="20241105201500 +0000">
+		<title>Roda-Roda Gila Episode 37</title>
+		<desc>Roda Roda Gila tells the story of the adventures of Elvano, a biker who has a romantic story with Mika, a senior racer's child. Their first meeting on the racing circuit made Elvano fall in love with Mika. However, the romance between Mika and Elvano seems to be hindered by the blessings of their parents and friends.</desc>
+	</programme>
+	<programme channel="5610" start="20241105201500 +0000" stop="20241105214000 +0000">
 		<title>Day Care Cinta Mbak Crush Pok Amai Amai</title>
 		<desc>Even though they have been neighbors since childhood and studied at the same campus, MENTARI (Raisya Bawazier) and LEO (Fauzan Nasrul) never get along. Every time they meet, they always fight.</desc>
 	</programme>
-	<programme channel="5610" start="20241105195500 +0000" stop="20241105205000 +0000">
-		<title>Love Story The Series (S2) Episode 171</title>
-		<desc>Kendra's meeting with Maudy began with an accidental meeting at the Villa, that's where Ken first saw Maudy and immediately fell in love. Initially, Maudy was disturbed by Ken's presence, accidentally the horse that Maudy was riding went berserk until it fell into the river, not long after Ken jumped to save Maudy.</desc>
-	</programme>
-	<programme channel="5610" start="20241105205000 +0000" stop="20241105214500 +0000">
-		<title>Roda-Roda Gila Episode 37</title>
-		<desc>Roda Roda Gila tells the story of the adventures of Elvano, a biker who has a romantic story with Mika, a senior racer's child. Their first meeting on the racing circuit made Elvano fall in love with Mika. However, the romance between Mika and Elvano seems to be hindered by the blessings of their parents and friends.</desc>
-	</programme>
-	<programme channel="5610" start="20241105214500 +0000" stop="20241105231000 +0000">
+	<programme channel="5610" start="20241105214000 +0000" stop="20241105230500 +0000">
 		<title>Mba Badut Terghumuz FYP Di Hatiku</title>
 		<desc>After Michelle Joan's father died, she became poor and had to become a clown. In addition, she also had to find her missing sister. Then she met her ex who said that after returning from abroad he would marry her. With such complicated problems, will they still get married?</desc>
 	</programme>
-	<programme channel="5610" start="20241105231000 +0000" stop="20241106000500 +0000">
+	<programme channel="5610" start="20241105230500 +0000" stop="20241106000000 +0000">
 		<title>Love Story The Series (S2) Episode 171</title>
 		<desc>Kendra's meeting with Maudy began with an accidental meeting at the Villa, that's where Ken first saw Maudy and immediately fell in love. Initially, Maudy was disturbed by Ken's presence, accidentally the horse that Maudy was riding went berserk until it fell into the river, not long after Ken jumped to save Maudy.</desc>
 	</programme>
-	<programme channel="5610" start="20241106000500 +0000" stop="20241106010000 +0000">
+	<programme channel="5610" start="20241106000000 +0000" stop="20241106005500 +0000">
 		<title>Roda-Roda Gila Episode 37</title>
 		<desc>Roda Roda Gila tells the story of the adventures of Elvano, a biker who has a romantic story with Mika, a senior racer's child. Their first meeting on the racing circuit made Elvano fall in love with Mika. However, the romance between Mika and Elvano seems to be hindered by the blessings of their parents and friends.</desc>
 	</programme>
-	<programme channel="5610" start="20241106010000 +0000" stop="20241106022500 +0000">
+	<programme channel="5610" start="20241106005500 +0000" stop="20241106022000 +0000">
 		<title>Dosen Ayang Bikin Salting Brutal</title>
 		<desc>Rama (Andrew Andika) becomes a lecturer who often punishes Elsa (Andi Viola). Elsa is then asked to make Rama emotional and break up with him in front of everyone. However, it is Elsa who is emotional and upset when Rama declares his love.</desc>
 	</programme>
-	<programme channel="5610" start="20241106022500 +0000" stop="20241106032000 +0000">
-		<title>Love Story The Series (S2) Episode 171</title>
-		<desc>Kendra's meeting with Maudy began with an accidental meeting at the Villa, that's where Ken first saw Maudy and immediately fell in love. Initially, Maudy was disturbed by Ken's presence, accidentally the horse that Maudy was riding went berserk until it fell into the river, not long after Ken jumped to save Maudy.</desc>
-	</programme>
-	<programme channel="5610" start="20241106032000 +0000" stop="20241106041500 +0000">
-		<title>Roda-Roda Gila Episode 37</title>
-		<desc>Roda Roda Gila tells the story of the adventures of Elvano, a biker who has a romantic story with Mika, a senior racer's child. Their first meeting on the racing circuit made Elvano fall in love with Mika. However, the romance between Mika and Elvano seems to be hindered by the blessings of their parents and friends.</desc>
-	</programme>
-	<programme channel="5610" start="20241106041500 +0000" stop="20241106054000 +0000">
+	<programme channel="5610" start="20241106022000 +0000" stop="20241106034500 +0000">
 		<title>Ruang Rindu - Catatan Harianku</title>
 		<desc>My Diary - Ruang Rindu, played by, Morgan Oey, Rachel Amanda. Elang and Nayla have been friends since childhood. One day, Nayla had to follow her father to move out of town and separated from Elang. They both have many sweet memories, one of which is the story of the Snow Queen that Nayla really likes. For Elang, Nayla is his Snow Queen.</desc>
 	</programme>
-	<programme channel="5610" start="20241106054000 +0000" stop="20241106063500 +0000">
+	<programme channel="5610" start="20241106034500 +0000" stop="20241106044000 +0000">
 		<title>Love Story The Series (S2) Episode 171</title>
 		<desc>Kendra's meeting with Maudy began with an accidental meeting at the Villa, that's where Ken first saw Maudy and immediately fell in love. Initially, Maudy was disturbed by Ken's presence, accidentally the horse that Maudy was riding went berserk until it fell into the river, not long after Ken jumped to save Maudy.</desc>
 	</programme>
-	<programme channel="5610" start="20241106063500 +0000" stop="20241106073000 +0000">
+	<programme channel="5610" start="20241106044000 +0000" stop="20241106053500 +0000">
 		<title>Roda-Roda Gila Episode 37</title>
 		<desc>Roda Roda Gila tells the story of the adventures of Elvano, a biker who has a romantic story with Mika, a senior racer's child. Their first meeting on the racing circuit made Elvano fall in love with Mika. However, the romance between Mika and Elvano seems to be hindered by the blessings of their parents and friends.</desc>
 	</programme>
-	<programme channel="5610" start="20241106073000 +0000" stop="20241106090000 +0000">
+	<programme channel="5610" start="20241106053500 +0000" stop="20241106070000 +0000">
+		<title>Dosen Ayang Bikin Salting Brutal</title>
+		<desc>Rama (Andrew Andika) becomes a lecturer who often punishes Elsa (Andi Viola). Elsa is then asked to make Rama emotional and break up with him in front of everyone. However, it is Elsa who is emotional and upset when Rama declares his love.</desc>
+	</programme>
+	<programme channel="5610" start="20241106070000 +0000" stop="20241106075500 +0000">
+		<title>Love Story The Series (S2) Episode 171</title>
+		<desc>Kendra's meeting with Maudy began with an accidental meeting at the Villa, that's where Ken first saw Maudy and immediately fell in love. Initially, Maudy was disturbed by Ken's presence, accidentally the horse that Maudy was riding went berserk until it fell into the river, not long after Ken jumped to save Maudy.</desc>
+	</programme>
+	<programme channel="5610" start="20241106075500 +0000" stop="20241106092000 +0000">
 		<title>Memori Memudar - Catatan Harianku</title>
 		<desc>Fading Memories My Diary Aired April 14, 2021 “Rania Putrisari must accept the fact that she only remembers memories before she married her deceased husband.</desc>
 	</programme>
-	<programme channel="5610" start="20241106090000 +0000" stop="20241106095500 +0000">
+	<programme channel="5610" start="20241106092000 +0000" stop="20241106105000 +0000">
+		<title>Miss Amis Tapi Manis Bikin Cintaku Ngga Abis-Abis</title>
+		<desc>Famous artist Raisa finds herself inheriting a pond, triggering family conflict, betrayal, and the struggle to manage the family legacy. With Tama's support, Raisa faces increasingly complex challenges, while Melati creates intrigue for her own personal gain.</desc>
+	</programme>
+	<programme channel="5610" start="20241106105000 +0000" stop="20241106114500 +0000">
 		<title>Love Story The Series (S2) Episode 172</title>
 		<desc>Kendra's meeting with Maudy began with an accidental meeting at the Villa, that's where Ken first saw Maudy and immediately fell in love. Initially, Maudy was disturbed by Ken's presence, accidentally the horse that Maudy was riding went berserk until it fell into the river, not long after Ken jumped to save Maudy.</desc>
 	</programme>
-	<programme channel="5610" start="20241106095500 +0000" stop="20241106112000 +0000">
+	<programme channel="5610" start="20241106114500 +0000" stop="20241106131000 +0000">
 		<title>Miss Centang Biru Cosplay Jadi Tawanan</title>
 		<desc>In fact, Andi Viola only pretended to be kidnapped by El Ryan so that Andi Viola's father would give a ransom. But Andi Viola and El Ryan got into trouble. They even had to return to El Ryan's village.</desc>
 	</programme>
-	<programme channel="5610" start="20241106112000 +0000" stop="20241106121500 +0000">
+	<programme channel="5610" start="20241106131000 +0000" stop="20241106140500 +0000">
 		<title>Roda-Roda Gila Episode 38</title>
 		<desc>Roda Roda Gila tells the story of the adventures of Elvano, a biker who has a romantic story with Mika, a senior racer's child. Their first meeting on the racing circuit made Elvano fall in love with Mika. However, the romance between Mika and Elvano seems to be hindered by the blessings of their parents and friends.</desc>
 	</programme>
-	<programme channel="5610" start="20241106121500 +0000" stop="20241106134000 +0000">
+	<programme channel="5610" start="20241106140500 +0000" stop="20241106153000 +0000">
 		<title>Babe Angel's Cinta Lama Damagenya Warbiyasak</title>
 		<desc>Babe Somad (Felix William Smith) was kidnapped, Babe Angel's task is Juleha (Rachquel Nesia), Nisa (Daisy Nathalie) and Mala (Rachel Patricia) to find Babe Somad. Meanwhile, Julaiha meets Bian (Ridho Illahi), the ex that Juleha loves and has not moved on, and joins the mission to find Babe Somad.</desc>
-	</programme>
-	<programme channel="5610" start="20241106134000 +0000" stop="20241106150500 +0000">
-		<title>Miss Centang Biru Cosplay Jadi Tawanan</title>
-		<desc>In fact, Andi Viola only pretended to be kidnapped by El Ryan so that Andi Viola's father would give a ransom. But Andi Viola and El Ryan got into trouble. They even had to return to El Ryan's village.</desc>
 	</programme>
 	<programme channel="5618" start="20241104153000 +0000" stop="20241104163000 +0000">
 		<title>PUTRI UNTUK PANGERAN EPS 382</title>
