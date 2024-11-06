@@ -1606,7 +1606,7 @@
 	</programme>
 	<programme channel="5006" start="20241105230000 +0000" stop="20241106080000 +0000">
 		<title>US Votes 2024</title>
-		<desc>Americans are choosing their next president and CNA will bring you wall-to-wall live coverage, including what it means for Asia.Watch 'US Votes 2024' to get rapid-fire results, analysis and updates from across the country as Democrat Kamala Harris and Re</desc>
+		<desc>Americans are choosing their next president and CNA will bring you wall-to-wall live coverage, including what it means for Asia.Watch 'US Votes 2024' to get rapid-fire results, analysis and updates from across the country as Democrat Kamala Harris and Republican Donald Trump fight to win an extremely tight race for the White House. From 7:00am SIN/HK time on 6 November, only on CNA.</desc>
 	</programme>
 	<programme channel="5006" start="20241106080000 +0000" stop="20241106090000 +0000">
 		<title>Insight Episode 28</title>
@@ -1646,7 +1646,7 @@
 	</programme>
 	<programme channel="5006" start="20241106150000 +0000" stop="20241106160000 +0000">
 		<title>US Votes 2024</title>
-		<desc>Americans are choosing their next president and CNA will bring results and analysis, plus reports from our correspondents in Asia. Don't miss 'US Votes 2024' as we track the extremely tight race for the White House between Democrat Kamala Harris and Repub</desc>
+		<desc>Americans are choosing their next president and CNA will bring results and analysis, plus reports from our correspondents in Asia. Don't miss 'US Votes 2024' as we track the extremely tight race for the White House between Democrat Kamala Harris and Republican Donald Trump. From 11:00pm SIN/HK time on 6 November, only on CNA.</desc>
 	</programme>
 	<programme channel="5006" start="20241106160000 +0000" stop="20241106170000 +0000">
 		<title>East Asia Tonight Episode 148</title>
@@ -4068,13 +4068,9 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<title>2024 Ultimate Pool Pairs Cup</title>
 		<desc>A professional-only ranking event taking place over 21 weeks, the Ultimate Pool Champions League consists of 64 professional players competing in and progressing through 3 phases to be crowned champion.</desc>
 	</programme>
-	<programme channel="6114" start="20241106150000 +0000" stop="20241106173000 +0000">
+	<programme channel="6114" start="20241106150000 +0000" stop="20241106180000 +0000">
 		<title>2024 Ultimate Pool Pairs Cup</title>
 		<desc>A professional-only ranking event taking place over 21 weeks, the Ultimate Pool Champions League consists of 64 professional players competing in and progressing through 3 phases to be crowned champion.</desc>
-	</programme>
-	<programme channel="6114" start="20241106173000 +0000" stop="20241106180000 +0000">
-		<title>2024 FIA TCR World Tour ZHUZHOU Episode 2</title>
-		<desc>The world's premier touring car racing competition gains FIA recognition from 2024 and consists of seven events across Europe, Africa, North America, South America and Asia.</desc>
 	</programme>
 	<programme channel="6114" start="20241106180000 +0000" stop="20241106223000 +0000">
 		<title>PSA World Tour 2024/25: US Open 2024 Episode 2</title>
@@ -4172,9 +4168,13 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<title>ISU World Figure Skating Grand Prix Angers (FRANCE)</title>
 		<desc>The ISU Grand Prix of Figure Skating Series consists of six international senior events in North America, Europe and Asia, culminating with the ISU Grand Prix of Figure Skating Final in Grenoble, France.</desc>
 	</programme>
-	<programme channel="6115" start="20241107020000 +0000" stop="20241107053000 +0000">
+	<programme channel="6115" start="20241107020000 +0000" stop="20241107050000 +0000">
 		<title>WTT Champions Frankfurt 2024</title>
 		<desc>The world's elite singles and doubles table tennis players battle for a share of the US$2 million prize pool as well as 2000 world ranking points in Montpellier,France.</desc>
+	</programme>
+	<programme channel="6115" start="20241107050000 +0000" stop="20241107053000 +0000">
+		<title>MotoGP 2024 Spotlight Episode 3</title>
+		<desc>Jack Miller Special in Australia | Jack Miller Questions | In Conversation: Jorge Martin</desc>
 	</programme>
 	<programme channel="6115" start="20241107053000 +0000" stop="20241107060000 +0000">
 		<title>SailGP</title>
@@ -6458,7 +6458,7 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 	</programme>
 	<programme channel="5157" start="20241107023000 +0000" stop="20241107030000 +0000">
 		<title>Japanology Plus</title>
-		<desc>Deep dives into cultural phenomena with Peter Barakan, a bilingual British broadcaster based in Japan since 1974. Each time, Peter himself discovers something new about Japan.</desc>
+		<desc>The spaces under Japan's elevated train tracks are now being used not just for pubs and restaurants but in many new ways, in various urban settings. We explore the economic and community benefits.</desc>
 	</programme>
 	<programme channel="5157" start="20241107030000 +0000" stop="20241107031500 +0000">
 		<title>NHK NEWSLINE</title>
@@ -6514,7 +6514,7 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 	</programme>
 	<programme channel="5157" start="20241107073000 +0000" stop="20241107080000 +0000">
 		<title>Japanology Plus</title>
-		<desc>Deep dives into cultural phenomena with Peter Barakan, a bilingual British broadcaster based in Japan since 1974. Each time, Peter himself discovers something new about Japan.</desc>
+		<desc>The spaces under Japan's elevated train tracks are now being used not just for pubs and restaurants but in many new ways, in various urban settings. We explore the economic and community benefits.</desc>
 	</programme>
 	<programme channel="5157" start="20241107080000 +0000" stop="20241107081400 +0000">
 		<title>NHK NEWSLINE</title>
@@ -6606,7 +6606,7 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 	</programme>
 	<programme channel="5157" start="20241107133000 +0000" stop="20241107140000 +0000">
 		<title>Japanology Plus</title>
-		<desc>Deep dives into cultural phenomena with Peter Barakan, a bilingual British broadcaster based in Japan since 1974. Each time, Peter himself discovers something new about Japan.</desc>
+		<desc>The spaces under Japan's elevated train tracks are now being used not just for pubs and restaurants but in many new ways, in various urban settings. We explore the economic and community benefits.</desc>
 	</programme>
 	<programme channel="5157" start="20241107140000 +0000" stop="20241107141500 +0000">
 		<title>NHK NEWSLINE</title>
