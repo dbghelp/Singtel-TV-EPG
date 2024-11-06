@@ -4116,9 +4116,13 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<title>ISU World Figure Skating Grand Prix Angers (FRANCE)</title>
 		<desc>The ISU Grand Prix of Figure Skating Series consists of six international senior events in North America, Europe and Asia, culminating with the ISU Grand Prix of Figure Skating Final in Grenoble, France.</desc>
 	</programme>
-	<programme channel="6115" start="20241106011500 +0000" stop="20241106051500 +0000">
+	<programme channel="6115" start="20241106011500 +0000" stop="20241106044500 +0000">
 		<title>WTT Champions Frankfurt 2024</title>
 		<desc>The world's elite singles and doubles table tennis players battle for a share of the US$2 million prize pool as well as 2000 world ranking points in Montpellier,France.</desc>
+	</programme>
+	<programme channel="6115" start="20241106044500 +0000" stop="20241106051500 +0000">
+		<title>MotoGP 2024 Grand Prix of Thailand Recap Episode 3</title>
+		<desc>Recap the action, behind-the-scenes and rider interviews at the MotoGP 2024 Grand Prix of Thailand Recap.</desc>
 	</programme>
 	<programme channel="6115" start="20241106051500 +0000" stop="20241106084500 +0000">
 		<title>2024 MLB World Series Game 5 Episode 2</title>
@@ -4588,9 +4592,13 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<title>Closed Episode 101231</title>
 		<desc>Closed</desc>
 	</programme>
-	<programme channel="6126" start="20241105153000 +0000" stop="20241105170000 +0000">
+	<programme channel="6126" start="20241105150000 +0000" stop="20241105163000 +0000">
 		<title>Premier Padel 2024: Dubai P1 Day 1 Match 4 (Live) Episode 656</title>
 		<desc>Premier Padel 2024</desc>
+	</programme>
+	<programme channel="6126" start="20241105163000 +0000" stop="20241105170000 +0000">
+		<title>Mini Match - Bundesliga 2024/25: Leverkusen vs Stuttgart Episode 73</title>
+		<desc>Mini Match - Bundesliga 2024/25</desc>
 	</programme>
 	<programme channel="6126" start="20241105170000 +0000" stop="20241105171000 +0000">
 		<title>Bundesliga Goals: Counter-Attack Goal Episode 2</title>
@@ -4608,61 +4616,61 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<title>UEFA Champions League 2024/25: Liverpool vs Leverkusen - MD4 (Live) Episode 74</title>
 		<desc>UEFA Champions League 2024/25</desc>
 	</programme>
-	<programme channel="6126" start="20241105220000 +0000" stop="20241105233000 +0000">
-		<title>Premier Padel 2024: Dubai P1 Day 1 Match 5 Episode 657</title>
-		<desc>Premier Padel 2024</desc>
-	</programme>
-	<programme channel="6126" start="20241105233000 +0000" stop="20241106013000 +0000">
+	<programme channel="6126" start="20241105220000 +0000" stop="20241106000000 +0000">
 		<title>LaLiga 2024/25: Celta Vigo vs Getafe Episode 120</title>
 		<desc>LaLiga 2024/25</desc>
 	</programme>
-	<programme channel="6126" start="20241106013000 +0000" stop="20241106023000 +0000">
+	<programme channel="6126" start="20241106000000 +0000" stop="20241106010000 +0000">
 		<title>Bundesliga Highlights 2024/25: Matchday 9 Episode 9</title>
 		<desc>Bundesliga Highlights 2024/25</desc>
 	</programme>
-	<programme channel="6126" start="20241106023000 +0000" stop="20241106042500 +0000">
+	<programme channel="6126" start="20241106010000 +0000" stop="20241106030000 +0000">
 		<title>LaLiga 2024/25: Atletico Madrid vs Las Palmas Episode 116</title>
 		<desc>LaLiga 2024/25</desc>
 	</programme>
-	<programme channel="6126" start="20241106042500 +0000" stop="20241106050000 +0000">
-		<title>Formula 1 Highlights 2024: FORMULA 1 LENOVO GRANDE PREMIO DE SAO PAULO 2024 Episode 21</title>
-		<desc>Formula 1 Highlights 2024</desc>
+	<programme channel="6126" start="20241106030000 +0000" stop="20241106033000 +0000">
+		<title>Mini Match - Bundesliga 2024/25: Dortmund vs Leipzig Episode 79</title>
+		<desc>Mini Match - Bundesliga 2024/25</desc>
 	</programme>
-	<programme channel="6126" start="20241106050000 +0000" stop="20241106063000 +0000">
+	<programme channel="6126" start="20241106033000 +0000" stop="20241106040000 +0000">
+		<title>LaLiga World 2024/25: Episode Number 13 Episode 13</title>
+		<desc>LaLiga World 2024/25</desc>
+	</programme>
+	<programme channel="6126" start="20241106040000 +0000" stop="20241106053000 +0000">
 		<title>Premier Padel 2024: Dubai P1 Day 2 Match 1 (Live) Episode 658</title>
 		<desc>Premier Padel 2024</desc>
 	</programme>
-	<programme channel="6126" start="20241106063000 +0000" stop="20241106070000 +0000">
-		<title>Mini Match - Bundesliga 2024/25: Dortmund vs Leipzig Episode 79</title>
-		<desc>Mini Match - Bundesliga 2024/25</desc>
+	<programme channel="6126" start="20241106053000 +0000" stop="20241106070000 +0000">
+		<title>Premier Padel 2024: Dubai P1 Day 2 Match 2 (Live) Episode 659</title>
+		<desc>Premier Padel 2024</desc>
 	</programme>
 	<programme channel="6126" start="20241106070000 +0000" stop="20241106073000 +0000">
 		<title>Mini Match - Bundesliga 2024/25: Hoffenheim vs St. Pauli Episode 76</title>
 		<desc>Mini Match - Bundesliga 2024/25</desc>
 	</programme>
-	<programme channel="6126" start="20241106073000 +0000" stop="20241106080000 +0000">
-		<title>LaLiga World 2024/25: Episode Number 13 Episode 13</title>
-		<desc>LaLiga World 2024/25</desc>
-	</programme>
-	<programme channel="6126" start="20241106080000 +0000" stop="20241106100000 +0000">
+	<programme channel="6126" start="20241106073000 +0000" stop="20241106093000 +0000">
 		<title>LFCTV 2024/25: Liverpool vs Brighton Episode 12</title>
 		<desc>LFCTV 2024/25</desc>
 	</programme>
-	<programme channel="6126" start="20241106100000 +0000" stop="20241106103000 +0000">
+	<programme channel="6126" start="20241106093000 +0000" stop="20241106100000 +0000">
 		<title>LFC Trending 2024/25: Episode Number 12 Episode 12</title>
 		<desc>LFC Trending 2024/25</desc>
 	</programme>
-	<programme channel="6126" start="20241106103000 +0000" stop="20241106110000 +0000">
+	<programme channel="6126" start="20241106100000 +0000" stop="20241106103000 +0000">
 		<title>LFCTV Highlights 2024/25: Brighton vs Liverpool - Carabao Cup Episode 5</title>
 		<desc>LFCTV Highlights 2024/25</desc>
 	</programme>
-	<programme channel="6126" start="20241106110000 +0000" stop="20241106123000 +0000">
-		<title>Premier Padel 2024: Dubai P1 Day 2 Match 2 (Live) Episode 659</title>
-		<desc>Premier Padel 2024</desc>
-	</programme>
-	<programme channel="6126" start="20241106123000 +0000" stop="20241106140000 +0000">
+	<programme channel="6126" start="20241106103000 +0000" stop="20241106120000 +0000">
 		<title>Premier Padel 2024: Dubai P1 Day 2 Match 3 (Live) Episode 660</title>
 		<desc>Premier Padel 2024</desc>
+	</programme>
+	<programme channel="6126" start="20241106120000 +0000" stop="20241106133000 +0000">
+		<title>Premier Padel 2024: Dubai P1 Day 2 Match 4 (Live) Episode 661</title>
+		<desc>Premier Padel 2024</desc>
+	</programme>
+	<programme channel="6126" start="20241106133000 +0000" stop="20241106140000 +0000">
+		<title>LaLiga World 2024/25: Episode Number 13 Episode 13</title>
+		<desc>LaLiga World 2024/25</desc>
 	</programme>
 	<programme channel="6126" start="20241106140000 +0000" stop="20241106142000 +0000">
 		<title>LaLiga Zap 2024/25: Episode Number 3 Episode 3</title>
@@ -5269,148 +5277,124 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<desc>A comprehensive round-up of the day's biggest news stories, including analysis and insight from Sky News correspondents.</desc>
 	</programme>
 	<programme channel="5151" start="20241105190000 +0000" stop="20241105193000 +0000">
-		<title>Politics Hub With Sophy Ridge</title>
-		<desc>Interviews, insight and analysis on the big political stories of the day with Sophy Ridge.</desc>
+		<title>America Votes</title>
+		<desc>Anna Botting presents from Washington as voters go to the polls in one of the tightest ever U.S. Presidential elections.</desc>
 	</programme>
 	<programme channel="5151" start="20241105193000 +0000" stop="20241105200000 +0000">
-		<title>Politics Hub With Sophy Ridge</title>
-		<desc>Interviews, insight and analysis on the big political stories of the day with Sophy Ridge.</desc>
+		<title>America Votes</title>
+		<desc>Anna Botting presents from Washington as voters go to the polls in one of the tightest ever U.S. Presidential elections.</desc>
 	</programme>
 	<programme channel="5151" start="20241105200000 +0000" stop="20241105203000 +0000">
-		<title>UK Tonight With Sarah-Jane Mee</title>
-		<desc>Sarah-Jane Mee with the stories the UK is talking about plus interviews, discussion and debate with the people at the heart of the news.</desc>
+		<title>America Votes</title>
+		<desc>Anna Botting presents from Washington as voters go to the polls in one of the tightest ever U.S. Presidential elections.</desc>
 	</programme>
 	<programme channel="5151" start="20241105203000 +0000" stop="20241105210000 +0000">
-		<title>UK Tonight With Sarah-Jane Mee</title>
-		<desc>Sarah-Jane Mee with the stories the UK is talking about plus interviews, discussion and debate with the people at the heart of the news.</desc>
+		<title>America Votes</title>
+		<desc>Anna Botting presents from Washington as voters go to the polls in one of the tightest ever U.S. Presidential elections.</desc>
 	</programme>
 	<programme channel="5151" start="20241105210000 +0000" stop="20241105213000 +0000">
-		<title>The World with Yalda Hakim</title>
-		<desc>Eyewitness reports, interviews and analysis on the big stories around the world with Yalda Hakim.</desc>
+		<title>America Votes</title>
+		<desc>Anna Botting presents from Washington as voters go to the polls in one of the tightest ever U.S. Presidential elections.</desc>
 	</programme>
 	<programme channel="5151" start="20241105213000 +0000" stop="20241105220000 +0000">
-		<title>The World with Yalda Hakim</title>
-		<desc>Eyewitness reports, interviews and analysis on the big stories around the world with Yalda Hakim.</desc>
+		<title>America Votes</title>
+		<desc>Anna Botting presents from Washington as voters go to the polls in one of the tightest ever U.S. Presidential elections.</desc>
 	</programme>
-	<programme channel="5151" start="20241105220000 +0000" stop="20241105223000 +0000">
-		<title>News at 10 with Anna Botting</title>
-		<desc>A comprehensive round-up of the main news stories of the day from the UK and around the world.</desc>
+	<programme channel="5151" start="20241105220000 +0000" stop="20241105230000 +0000">
+		<title>America Votes: Election Night Live</title>
+		<desc>Mark Austin and Yalda Hakim present full coverage of the U.S. Election, with live results and analysis as America votes for Kamala Harris or Donald Trump.</desc>
 	</programme>
-	<programme channel="5151" start="20241105223000 +0000" stop="20241105230000 +0000">
-		<title>Press Preview</title>
-		<desc>Lively debate and discussion with our panel of paper reviewers about the stories making tomorrow morning's newspapers.</desc>
-	</programme>
-	<programme channel="5151" start="20241105230000 +0000" stop="20241105233000 +0000">
-		<title>News &amp; Press Preview</title>
-		<desc>The key stories of the day plus debate and discussion with our panel of reviewers on the stories making the morning newspapers in the extended press preview.</desc>
-	</programme>
-	<programme channel="5151" start="20241105233000 +0000" stop="20241106000000 +0000">
-		<title>Press Preview</title>
-		<desc>Lively debate and discussion with our panel of paper reviewers about the stories making tomorrow morning's newspapers.</desc>
+	<programme channel="5151" start="20241105230000 +0000" stop="20241106000000 +0000">
+		<title>America Votes: Election Night Live</title>
+		<desc>Mark Austin and Yalda Hakim present full coverage of the U.S. Election, with live results and analysis as America votes for Kamala Harris or Donald Trump.</desc>
 	</programme>
 	<programme channel="5151" start="20241106000000 +0000" stop="20241106010000 +0000">
-		<title>Sky News</title>
-		<desc>News reports on the big stories from the UK and around the world.</desc>
+		<title>America Votes: Election Night Live</title>
+		<desc>Mark Austin and Yalda Hakim present full coverage of the U.S. Election, with live results and analysis as America votes for Kamala Harris or Donald Trump.</desc>
 	</programme>
 	<programme channel="5151" start="20241106010000 +0000" stop="20241106020000 +0000">
-		<title>Sky News</title>
-		<desc>A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
+		<title>America Votes: Election Night Live</title>
+		<desc>Mark Austin and Yalda Hakim present full coverage of the U.S. Election, with live results and analysis as America votes for Kamala Harris or Donald Trump.</desc>
 	</programme>
 	<programme channel="5151" start="20241106020000 +0000" stop="20241106030000 +0000">
-		<title>Sky News</title>
-		<desc>A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
+		<title>America Votes: Election Night Live</title>
+		<desc>Mark Austin and Yalda Hakim present full coverage of the U.S. Election, with live results and analysis as America votes for Kamala Harris or Donald Trump.</desc>
 	</programme>
 	<programme channel="5151" start="20241106030000 +0000" stop="20241106040000 +0000">
-		<title>Sky News</title>
-		<desc>A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
+		<title>America Votes: Election Night Live</title>
+		<desc>Mark Austin and Yalda Hakim present full coverage of the U.S. Election, with live results and analysis as America votes for Kamala Harris or Donald Trump.</desc>
 	</programme>
 	<programme channel="5151" start="20241106040000 +0000" stop="20241106050000 +0000">
-		<title>Sky News</title>
-		<desc>A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
+		<title>America Votes: Election Night Live</title>
+		<desc>Mark Austin and Yalda Hakim present full coverage of the U.S. Election, with live results and analysis as America votes for Kamala Harris or Donald Trump.</desc>
 	</programme>
 	<programme channel="5151" start="20241106050000 +0000" stop="20241106060000 +0000">
-		<title>Sky News</title>
-		<desc>A round up of all the latest news from the UK and around the world, including the Press Preview.</desc>
+		<title>America Votes: Election Night Live</title>
+		<desc>Mark Austin and Yalda Hakim present full coverage of the U.S. Election, with live results and analysis as America votes for Kamala Harris or Donald Trump.</desc>
 	</programme>
-	<programme channel="5151" start="20241106060000 +0000" stop="20241106063000 +0000">
-		<title>Breakfast</title>
-		<desc>All the big stories of the morning plus news making interviews, analysis, sport and weather.</desc>
+	<programme channel="5151" start="20241106060000 +0000" stop="20241106070000 +0000">
+		<title>America Votes: Election Night Live</title>
+		<desc>Mark Austin and Yalda Hakim present full coverage of the U.S. Election, with live results and analysis as America votes for Kamala Harris or Donald Trump.</desc>
 	</programme>
-	<programme channel="5151" start="20241106063000 +0000" stop="20241106070000 +0000">
-		<title>Breakfast</title>
-		<desc>All the big stories of the morning plus news making interviews, analysis, sport and weather.</desc>
+	<programme channel="5151" start="20241106070000 +0000" stop="20241106080000 +0000">
+		<title>America Votes: Election Night Live</title>
+		<desc>Mark Austin and Yalda Hakim present full coverage of the U.S. Election, with live results and analysis as America votes for Kamala Harris or Donald Trump.</desc>
 	</programme>
-	<programme channel="5151" start="20241106070000 +0000" stop="20241106073000 +0000">
-		<title>Breakfast with Kay Burley</title>
-		<desc>All the big stories of the morning presented by Kay Burley, with big name interviews, analysis and reports from the Sky News team.</desc>
+	<programme channel="5151" start="20241106080000 +0000" stop="20241106090000 +0000">
+		<title>America Votes: Election Night Live</title>
+		<desc>Mark Austin and Yalda Hakim present full coverage of the U.S. Election, with live results and analysis as America votes for Kamala Harris or Donald Trump.</desc>
 	</programme>
-	<programme channel="5151" start="20241106073000 +0000" stop="20241106080000 +0000">
-		<title>Breakfast with Kay Burley</title>
-		<desc>All the big stories of the morning presented by Kay Burley, with big name interviews, analysis and reports from the Sky News team.</desc>
-	</programme>
-	<programme channel="5151" start="20241106080000 +0000" stop="20241106083000 +0000">
-		<title>Breakfast with Kay Burley</title>
-		<desc>All the big stories of the morning presented by Kay Burley, with big name interviews, analysis and reports from the Sky News team.</desc>
-	</programme>
-	<programme channel="5151" start="20241106083000 +0000" stop="20241106090000 +0000">
-		<title>Breakfast with Kay Burley</title>
-		<desc>All the big stories of the morning presented by Kay Burley, with big name interviews, analysis and reports from the Sky News team.</desc>
-	</programme>
-	<programme channel="5151" start="20241106090000 +0000" stop="20241106093000 +0000">
-		<title>Breakfast with Kay Burley</title>
-		<desc>All the big stories of the morning presented by Kay Burley, with big name interviews, analysis and reports from the Sky News team.</desc>
-	</programme>
-	<programme channel="5151" start="20241106093000 +0000" stop="20241106100000 +0000">
-		<title>Breakfast with Kay Burley</title>
-		<desc>All the big stories of the morning presented by Kay Burley, with big name interviews, analysis and reports from the Sky News team.</desc>
+	<programme channel="5151" start="20241106090000 +0000" stop="20241106100000 +0000">
+		<title>America Votes: Election Night Live</title>
+		<desc>Mark Austin and Yalda Hakim present full coverage of the U.S. Election, with live results and analysis as America votes for Kamala Harris or Donald Trump.</desc>
 	</programme>
 	<programme channel="5151" start="20241106100000 +0000" stop="20241106103000 +0000">
-		<title>Sky News Today with Wilfred Frost</title>
-		<desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
+		<title>America Votes</title>
+		<desc>Gillian Joseph presents from Washington with results and analysis after voting in one of the tightest ever U.S. Presidential elections.</desc>
 	</programme>
 	<programme channel="5151" start="20241106103000 +0000" stop="20241106110000 +0000">
-		<title>Sky News Today with Wilfred Frost</title>
-		<desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
+		<title>America Votes</title>
+		<desc>Gillian Joseph presents from Washington with results and analysis after voting in one of the tightest ever U.S. Presidential elections.</desc>
 	</programme>
 	<programme channel="5151" start="20241106110000 +0000" stop="20241106113000 +0000">
-		<title>Sky News Today with Wilfred Frost</title>
-		<desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
+		<title>America Votes</title>
+		<desc>Gillian Joseph presents from Washington with results and analysis after voting in one of the tightest ever U.S. Presidential elections.</desc>
 	</programme>
 	<programme channel="5151" start="20241106113000 +0000" stop="20241106120000 +0000">
-		<title>Business Live</title>
-		<desc>Interviews, insight and analysis on the big business and economic stories of the day.</desc>
+		<title>America Votes</title>
+		<desc>Gillian Joseph presents from Washington with results and analysis after voting in one of the tightest ever U.S. Presidential elections.</desc>
 	</programme>
 	<programme channel="5151" start="20241106120000 +0000" stop="20241106123000 +0000">
-		<title>PMQ's</title>
-		<desc>Live coverage from the House of Commons as the Prime Minister answers questions from MPs.</desc>
+		<title>America Votes</title>
+		<desc>Gillian Joseph presents from Washington with results and analysis after voting in one of the tightest ever U.S. Presidential elections.</desc>
 	</programme>
 	<programme channel="5151" start="20241106123000 +0000" stop="20241106130000 +0000">
-		<title>PMQ's</title>
-		<desc>Live coverage from the House of Commons as the Prime Minister answers questions from MPs.</desc>
+		<title>America Votes</title>
+		<desc>Gillian Joseph presents from Washington with results and analysis after voting in one of the tightest ever U.S. Presidential elections.</desc>
 	</programme>
 	<programme channel="5151" start="20241106130000 +0000" stop="20241106133000 +0000">
-		<title>Sky News Today with Jayne Secker</title>
-		<desc>The latest breaking news stories with reports and analysis from Sky News correspondents in the UK and around the world.</desc>
+		<title>America Votes</title>
+		<desc>Gillian Joseph presents from Washington with results and analysis after voting in one of the tightest ever U.S. Presidential elections.</desc>
 	</programme>
 	<programme channel="5151" start="20241106133000 +0000" stop="20241106140000 +0000">
-		<title>Sky News Today with Jayne Secker</title>
-		<desc>The latest breaking news stories with reports and analysis from Sky News correspondents in the UK and around the world.</desc>
+		<title>America Votes</title>
+		<desc>Gillian Joseph presents from Washington with results and analysis after voting in one of the tightest ever U.S. Presidential elections.</desc>
 	</programme>
 	<programme channel="5151" start="20241106140000 +0000" stop="20241106143000 +0000">
-		<title>Sky News with Kamali Melbourne</title>
-		<desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
+		<title>America Votes</title>
+		<desc>Gillian Joseph presents from Washington with results and analysis after voting in one of the tightest ever U.S. Presidential elections.</desc>
 	</programme>
 	<programme channel="5151" start="20241106143000 +0000" stop="20241106150000 +0000">
-		<title>Sky News with Kamali Melbourne</title>
-		<desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
+		<title>America Votes</title>
+		<desc>Gillian Joseph presents from Washington with results and analysis after voting in one of the tightest ever U.S. Presidential elections.</desc>
 	</programme>
 	<programme channel="5151" start="20241106150000 +0000" stop="20241106153000 +0000">
-		<title>Sky News with Kamali Melbourne</title>
-		<desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
+		<title>America Votes</title>
+		<desc>Gillian Joseph presents from Washington with results and analysis after voting in one of the tightest ever U.S. Presidential elections.</desc>
 	</programme>
 	<programme channel="5151" start="20241106153000 +0000" stop="20241106160000 +0000">
-		<title>Sky News with Kamali Melbourne</title>
-		<desc>Breaking news, developing stories and live events from Sky News correspondents in the UK and around the world.</desc>
+		<title>America Votes</title>
+		<desc>Gillian Joseph presents from Washington with results and analysis after voting in one of the tightest ever U.S. Presidential elections.</desc>
 	</programme>
 	<programme channel="5151" start="20241106160000 +0000" stop="20241106163000 +0000">
 		<title>Sky News with Kamali Melbourne</title>
@@ -25685,7 +25669,7 @@ Idealistic and passionate rookie lawyer Qing takes on the case of a death row pr
 		<desc>Rama, Arsy's future spouse, is a compassionate man. They've both planned a wedding reception. Sadly, Arsy and Rama were involved in an accident prior to their wedding day when their vehicle lost control and collided with a tree. Fortunately, Arsy made it out of the automobile alive. Rama, meanwhile, was pronounced deceased. Arsy was asked to carry on the marriage following Rama's passing. However, King was with his younger brother Rama. It is well known that the King wed Arsy purely out of ob...</desc>
 	</programme>
 	<programme channel="5618" start="20241105183000 +0000" stop="20241105200000 +0000">
-		<title>CINTA BERAKHIR BAHAGIA EPS 253</title>
+		<title>CINTA BERAKHIR BAHAGIA EPS 254</title>
 		<desc>Adisty, the beautiful girl who became the backbone of the family, almost became a commercial sex worker (PSK) to pay off her family's debt. But fate brings him together with Pasha, a respectable man from a wealthy family. Without them knowing that both of them were children who were exchanged as babies. They fall in love but are opposed by the Pasha family.</desc>
 	</programme>
 	<programme channel="5618" start="20241105200000 +0000" stop="20241105213000 +0000">
@@ -25713,7 +25697,7 @@ Idealistic and passionate rookie lawyer Qing takes on the case of a death row pr
 		<desc>Rama, Arsy's future spouse, is a compassionate man. They've both planned a wedding reception. Sadly, Arsy and Rama were involved in an accident prior to their wedding day when their vehicle lost control and collided with a tree. Fortunately, Arsy made it out of the automobile alive. Rama, meanwhile, was pronounced deceased. Arsy was asked to carry on the marriage following Rama's passing. However, King was with his younger brother Rama. It is well known that the King wed Arsy purely out of ob...</desc>
 	</programme>
 	<programme channel="5618" start="20241106023000 +0000" stop="20241106040000 +0000">
-		<title>CINTA BERAKHIR BAHAGIA EPS 253</title>
+		<title>CINTA BERAKHIR BAHAGIA EPS 254</title>
 		<desc>Adisty, the beautiful girl who became the backbone of the family, almost became a commercial sex worker (PSK) to pay off her family's debt. But fate brings him together with Pasha, a respectable man from a wealthy family. Without them knowing that both of them were children who were exchanged as babies. They fall in love but are opposed by the Pasha family.</desc>
 	</programme>
 	<programme channel="5618" start="20241106040000 +0000" stop="20241106053000 +0000">
@@ -25741,7 +25725,7 @@ Idealistic and passionate rookie lawyer Qing takes on the case of a death row pr
 		<desc>Rama, Arsy's future spouse, is a compassionate man. They've both planned a wedding reception. Sadly, Arsy and Rama were involved in an accident prior to their wedding day when their vehicle lost control and collided with a tree. Fortunately, Arsy made it out of the automobile alive. Rama, meanwhile, was pronounced deceased. Arsy was asked to carry on the marriage following Rama's passing. However, King was with his younger brother Rama. It is well known that the King wed Arsy purely out of ob...</desc>
 	</programme>
 	<programme channel="5618" start="20241106103000 +0000" stop="20241106120000 +0000">
-		<title>CINTA BERAKHIR BAHAGIA EPS 254</title>
+		<title>CINTA BERAKHIR BAHAGIA EPS 255</title>
 		<desc>Adisty, the beautiful girl who became the backbone of the family, almost became a commercial sex worker (PSK) to pay off her family's debt. But fate brings him together with Pasha, a respectable man from a wealthy family. Without them knowing that both of them were children who were exchanged as babies. They fall in love but are opposed by the Pasha family.</desc>
 	</programme>
 	<programme channel="5618" start="20241106120000 +0000" stop="20241106133000 +0000">
@@ -25985,8 +25969,8 @@ Idealistic and passionate rookie lawyer Qing takes on the case of a death row pr
 		<desc>3 best friends in their 30s struggling to balance between love, career and dreams, support each other through life's ups and downs and find strength in their friendship.</desc>
 	</programme>
 	<programme channel="5622" start="20241105160000 +0000" stop="20241105163000 +0000">
-		<title>Aruvi - Rpt</title>
-		<desc>Stern and traditional, matriarch Saraswathi runs a tight ship at her home. But Aruvi is a bold young woman who is all about breaking social barriers. Ironically, Saraswathi's son Pugazh marries Aruvi and brings her home as the unwelcome bride.</desc>
+		<title>Puthu Vasantham - Rpt</title>
+		<desc>Raised as a single child, Selvi longs for the loving embrace &amp; heart-warming bond of a joint family. And when her dream comes true, watch her battle all odds &amp; win over her husband's large family.</desc>
 	</programme>
 	<programme channel="5622" start="20241105163000 +0000" stop="20241105230000 +0000">
 		<title>SONGS</title>
@@ -26498,11 +26482,11 @@ Idealistic and passionate rookie lawyer Qing takes on the case of a death row pr
 	</programme>
 	<programme channel="5624" start="20241106040000 +0000" stop="20241106070000 +0000">
 		<title>MOVIES - GHOSTY</title>
-		<desc>Tamil Comedy horror film, Starring - Kajal Agarwal, K/S/Ravikumar, Yogi Babu &amp; Redin Kingsley</desc>
+		<desc>Tamil Comedy horror film, Starring - Kajal Agarwal, K.S.Ravikumar, Yogi Babu &amp; Redin Kingsley</desc>
 	</programme>
 	<programme channel="5624" start="20241106070000 +0000" stop="20241106100000 +0000">
 		<title>MOVIES - THANGARAJA</title>
-		<desc>Tamil Action Movie, Starring, Nagarjuna, Ramya Krishna, Naga Chaitanya and Krithi Shetty/</desc>
+		<desc>Tamil Action Movie, Starring, Nagarjuna, Ramya Krishna, Naga Chaitanya and Krithi Shetty.</desc>
 	</programme>
 	<programme channel="5624" start="20241106100000 +0000" stop="20241106130000 +0000">
 		<title>MOVIES - DORA</title>
@@ -26510,7 +26494,7 @@ Idealistic and passionate rookie lawyer Qing takes on the case of a death row pr
 	</programme>
 	<programme channel="5624" start="20241106130000 +0000" stop="20241106160000 +0000">
 		<title>MOVIES - VIKRAM VEDHA</title>
-		<desc>Tamil Thriller Action Film, Starring, Vijay Sethupathi, R/ Madhavan, Kathir, Varalaxmi Sarathkumar</desc>
+		<desc>Tamil Thriller Action Film, Starring, Vijay Sethupathi, R. Madhavan, Kathir, Varalaxmi Sarathkumar</desc>
 	</programme>
 	<programme channel="5624" start="20241106160000 +0000" stop="20241106183000 +0000">
 		<title>MOVIES - LAKSHMI</title>
@@ -28112,12 +28096,8 @@ Idealistic and passionate rookie lawyer Qing takes on the case of a death row pr
 		<title>Siragadikka Aasai Episode 530</title>
 		<desc>Meena and Muthukumar, both carrying emotional baggage, struggle through challenges in their marriage due to their troubled backgrounds.</desc>
 	</programme>
-	<programme channel="5634" start="20241106023000 +0000" stop="20241106033000 +0000">
+	<programme channel="5634" start="20241106023000 +0000" stop="20241106040000 +0000">
 		<title>Bigg Boss Tamil S08 Episode 30</title>
-		<desc>Bigg Boss Tamil Season 8 starts with 18 diverse contestants for thrilling entertainment!</desc>
-	</programme>
-	<programme channel="5634" start="20241106033000 +0000" stop="20241106040000 +0000">
-		<title>Bigg Boss Tamil S08 Plus Episode 21</title>
 		<desc>Bigg Boss Tamil Season 8 starts with 18 diverse contestants for thrilling entertainment!</desc>
 	</programme>
 	<programme channel="5634" start="20241106040000 +0000" stop="20241106053000 +0000">
@@ -29686,95 +29666,95 @@ Idealistic and passionate rookie lawyer Qing takes on the case of a death row pr
 	</programme>
 	<programme channel="5652" start="20241105160000 +0000" stop="20241105162000 +0000">
 		<title>Megha Barsenge Episode 91</title>
-		<desc>After a groom absconds from his wedding, his bride is left at the mercy of her sentiments of abandonment and to endure a judgemental societal structure.</desc>
+		<desc>During the engagement ceremony, Megha and Arjun celebrate the occasion with their performances. Later, Megha is bothered by Manoj's memories.</desc>
 	</programme>
 	<programme channel="5652" start="20241105162000 +0000" stop="20241105164000 +0000">
 		<title>Parineetii Episode 924</title>
-		<desc>Two best friends who support each other through thick and thin face a problem when circumstance causes both of them to get married to the same man.</desc>
+		<desc>When Parineet desperately tries to hide from Rajesh, the former gets exposed. However, when Parineet takes a firm stand for herself, Rajesh is taken aback.</desc>
 	</programme>
 	<programme channel="5652" start="20241105164000 +0000" stop="20241105170000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 50</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Things get out of control when Panibai begins to taunt Durga. Consequently, Panibai accuses Durga of manipulating Rajesh.</desc>
 	</programme>
 	<programme channel="5652" start="20241105170000 +0000" stop="20241105173000 +0000">
 		<title>Mera Balam Thanedaar Episode 220</title>
-		<desc>An amiable girl who believes in supporting the lie if someone benefits for good marries a police officer under unfortunate circumstances.</desc>
+		<desc>Sulakshana tries to convince Drishti to celebrate Diwali at home with the family. Meanwhile, Bulbul wishes to perform the veneration with Veer.</desc>
 	</programme>
 	<programme channel="5652" start="20241105173000 +0000" stop="20241105183000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 498</title>
-		<desc>Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity.</desc>
+		<desc>During the competition, Kartikeya tries to seek help from an old man. In the meantime, Goddess Parvati believes that Kartikeya will win the competition.</desc>
 	</programme>
 	<programme channel="5652" start="20241105183000 +0000" stop="20241105190000 +0000">
 		<title>Parineetii Episode 924</title>
-		<desc>Two best friends who support each other through thick and thin face a problem when circumstance causes both of them to get married to the same man.</desc>
+		<desc>When Parineet desperately tries to hide from Rajesh, the former gets exposed. However, when Parineet takes a firm stand for herself, Rajesh is taken aback.</desc>
 	</programme>
 	<programme channel="5652" start="20241105190000 +0000" stop="20241105200000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 498</title>
-		<desc>Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity.</desc>
+		<desc>During the competition, Kartikeya tries to seek help from an old man. In the meantime, Goddess Parvati believes that Kartikeya will win the competition.</desc>
 	</programme>
 	<programme channel="5652" start="20241105200000 +0000" stop="20241105203000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 50</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Things get out of control when Panibai begins to taunt Durga. Consequently, Panibai accuses Durga of manipulating Rajesh.</desc>
 	</programme>
 	<programme channel="5652" start="20241105203000 +0000" stop="20241105210000 +0000">
 		<title>Mera Balam Thanedaar Episode 220</title>
-		<desc>An amiable girl who believes in supporting the lie if someone benefits for good marries a police officer under unfortunate circumstances.</desc>
+		<desc>Sulakshana tries to convince Drishti to celebrate Diwali at home with the family. Meanwhile, Bulbul wishes to perform the veneration with Veer.</desc>
 	</programme>
 	<programme channel="5652" start="20241105210000 +0000" stop="20241105213000 +0000">
 		<title>Parineetii Episode 924</title>
-		<desc>Two best friends who support each other through thick and thin face a problem when circumstance causes both of them to get married to the same man.</desc>
+		<desc>When Parineet desperately tries to hide from Rajesh, the former gets exposed. However, when Parineet takes a firm stand for herself, Rajesh is taken aback.</desc>
 	</programme>
 	<programme channel="5652" start="20241105213000 +0000" stop="20241105220000 +0000">
 		<title>Megha Barsenge Episode 91</title>
-		<desc>After a groom absconds from his wedding, his bride is left at the mercy of her sentiments of abandonment and to endure a judgemental societal structure.</desc>
+		<desc>During the engagement ceremony, Megha and Arjun celebrate the occasion with their performances. Later, Megha is bothered by Manoj's memories.</desc>
 	</programme>
 	<programme channel="5652" start="20241105220000 +0000" stop="20241105230000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 498</title>
-		<desc>Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity.</desc>
+		<desc>During the competition, Kartikeya tries to seek help from an old man. In the meantime, Goddess Parvati believes that Kartikeya will win the competition.</desc>
 	</programme>
 	<programme channel="5652" start="20241105230000 +0000" stop="20241105233000 +0000">
 		<title>Parineetii Episode 924</title>
-		<desc>Two best friends who support each other through thick and thin face a problem when circumstance causes both of them to get married to the same man.</desc>
+		<desc>When Parineet desperately tries to hide from Rajesh, the former gets exposed. However, when Parineet takes a firm stand for herself, Rajesh is taken aback.</desc>
 	</programme>
 	<programme channel="5652" start="20241105233000 +0000" stop="20241106000000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 50</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Things get out of control when Panibai begins to taunt Durga. Consequently, Panibai accuses Durga of manipulating Rajesh.</desc>
 	</programme>
 	<programme channel="5652" start="20241106000000 +0000" stop="20241106003000 +0000">
 		<title>Mera Balam Thanedaar Episode 220</title>
-		<desc>An amiable girl who believes in supporting the lie if someone benefits for good marries a police officer under unfortunate circumstances.</desc>
+		<desc>Sulakshana tries to convince Drishti to celebrate Diwali at home with the family. Meanwhile, Bulbul wishes to perform the veneration with Veer.</desc>
 	</programme>
 	<programme channel="5652" start="20241106003000 +0000" stop="20241106010000 +0000">
 		<title>Mangal Lakshmi Episode 251</title>
-		<desc>Mangal searches for a perfect husband for her sister, Lakshmi, revealing the enduring strength of sisterhood and the power of destiny over this journey.</desc>
+		<desc>Mangal begins to panic when she must pay Akshat's school fees to keep him in school. Later, Mangal decides to arrange the money without seeking Adit's help.</desc>
 	</programme>
 	<programme channel="5652" start="20241106010000 +0000" stop="20241106013000 +0000">
 		<title>Suman Indori Episode 63</title>
-		<desc>Forced by fate to marry a rich, shrewd politician, Suman embraces obstacles adjusting to her new life while dealing with her sister-in-law who seeks to become the head of the household.</desc>
+		<desc>When Devika puts up an act of pretending to reprimand Kritika in front of everyone. However, a clever Teerth realises that Devika is faking it.</desc>
 	</programme>
 	<programme channel="5652" start="20241106013000 +0000" stop="20241106020000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 50</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Things get out of control when Panibai begins to taunt Durga. Consequently, Panibai accuses Durga of manipulating Rajesh.</desc>
 	</programme>
 	<programme channel="5652" start="20241106020000 +0000" stop="20241106023000 +0000">
 		<title>Megha Barsenge Episode 91</title>
-		<desc>After a groom absconds from his wedding, his bride is left at the mercy of her sentiments of abandonment and to endure a judgemental societal structure.</desc>
+		<desc>During the engagement ceremony, Megha and Arjun celebrate the occasion with their performances. Later, Megha is bothered by Manoj's memories.</desc>
 	</programme>
 	<programme channel="5652" start="20241106023000 +0000" stop="20241106030000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 498</title>
-		<desc>Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity.</desc>
+		<desc>During the competition, Kartikeya tries to seek help from an old man. In the meantime, Goddess Parvati believes that Kartikeya will win the competition.</desc>
 	</programme>
 	<programme channel="5652" start="20241106030000 +0000" stop="20241106033000 +0000">
 		<title>Suman Indori Episode 63</title>
-		<desc>Forced by fate to marry a rich, shrewd politician, Suman embraces obstacles adjusting to her new life while dealing with her sister-in-law who seeks to become the head of the household.</desc>
+		<desc>When Devika puts up an act of pretending to reprimand Kritika in front of everyone. However, a clever Teerth realises that Devika is faking it.</desc>
 	</programme>
 	<programme channel="5652" start="20241106033000 +0000" stop="20241106040000 +0000">
 		<title>Mangal Lakshmi Episode 251</title>
-		<desc>Mangal searches for a perfect husband for her sister, Lakshmi, revealing the enduring strength of sisterhood and the power of destiny over this journey.</desc>
+		<desc>Mangal begins to panic when she must pay Akshat's school fees to keep him in school. Later, Mangal decides to arrange the money without seeking Adit's help.</desc>
 	</programme>
 	<programme channel="5652" start="20241106040000 +0000" stop="20241106043000 +0000">
 		<title>Mera Balam Thanedaar Episode 221</title>
-		<desc>An amiable girl who believes in supporting the lie if someone benefits for good marries a police officer under unfortunate circumstances.</desc>
+		<desc>While Sampurna tries to break the lamp, Bulbul is left disappointed. On the other hand, things get intense when Drishti finds out the truth.</desc>
 	</programme>
 	<programme channel="5652" start="20241106043000 +0000" stop="20241106050000 +0000">
 		<title>Suman Indori Episode 64</title>
@@ -29782,19 +29762,19 @@ Idealistic and passionate rookie lawyer Qing takes on the case of a death row pr
 	</programme>
 	<programme channel="5652" start="20241106050000 +0000" stop="20241106052000 +0000">
 		<title>Megha Barsenge Episode 92</title>
-		<desc>After a groom absconds from his wedding, his bride is left at the mercy of her sentiments of abandonment and to endure a judgemental societal structure.</desc>
+		<desc>As Arjun remains unaware of Megha's feelings, he gets involved in the engagement celebrations. Later, Megha reveals the truth to Arjun.</desc>
 	</programme>
 	<programme channel="5652" start="20241106052000 +0000" stop="20241106054000 +0000">
 		<title>Parineetii Episode 925</title>
-		<desc>Two best friends who support each other through thick and thin face a problem when circumstance causes both of them to get married to the same man.</desc>
+		<desc>A helpless Parineet finds herself in a spot of bother when Rakesh kidnaps her. On the other hand, Neeti witnesses the incident.</desc>
 	</programme>
 	<programme channel="5652" start="20241106054000 +0000" stop="20241106060000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 51</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Things get out of control when a helpless Durga gets severely injured by Rajesh. Subsequently, Durga feels abandoned in pain.</desc>
 	</programme>
 	<programme channel="5652" start="20241106060000 +0000" stop="20241106070000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 499</title>
-		<desc>Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity.</desc>
+		<desc>Kartikeya expresses his wish to Lord Ganesha and Goddess Paravati about being a king. Later, Kartikeya participates in Nahusha's coronation ceremony.</desc>
 	</programme>
 	<programme channel="5652" start="20241106070000 +0000" stop="20241106073000 +0000">
 		<title>Mangal Lakshmi Episode 252</title>
@@ -29802,19 +29782,19 @@ Idealistic and passionate rookie lawyer Qing takes on the case of a death row pr
 	</programme>
 	<programme channel="5652" start="20241106073000 +0000" stop="20241106090000 +0000">
 		<title>Bigg Boss Episode 29</title>
-		<desc>As Bigg Boss delves into the future of the contestants with the cataclysm of technology, the housemates try to conquer 'Time Ka Tandav', and emerge victorious in a locked house in BB's surveillance.</desc>
+		<desc>Things get intense between Digvijay Rathee and Vivian regarding the house duties. Later, Bigg Boss gives a special power to Vivian.</desc>
 	</programme>
 	<programme channel="5652" start="20241106090000 +0000" stop="20241106093000 +0000">
 		<title>Mangal Lakshmi Episode 251</title>
-		<desc>Mangal searches for a perfect husband for her sister, Lakshmi, revealing the enduring strength of sisterhood and the power of destiny over this journey.</desc>
+		<desc>Mangal begins to panic when she must pay Akshat's school fees to keep him in school. Later, Mangal decides to arrange the money without seeking Adit's help.</desc>
 	</programme>
 	<programme channel="5652" start="20241106093000 +0000" stop="20241106100000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 50</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Things get out of control when Panibai begins to taunt Durga. Consequently, Panibai accuses Durga of manipulating Rajesh.</desc>
 	</programme>
 	<programme channel="5652" start="20241106100000 +0000" stop="20241106103000 +0000">
 		<title>Mera Balam Thanedaar Episode 221</title>
-		<desc>An amiable girl who believes in supporting the lie if someone benefits for good marries a police officer under unfortunate circumstances.</desc>
+		<desc>While Sampurna tries to break the lamp, Bulbul is left disappointed. On the other hand, things get intense when Drishti finds out the truth.</desc>
 	</programme>
 	<programme channel="5652" start="20241106103000 +0000" stop="20241106110000 +0000">
 		<title>Suman Indori Episode 64</title>
@@ -29822,19 +29802,19 @@ Idealistic and passionate rookie lawyer Qing takes on the case of a death row pr
 	</programme>
 	<programme channel="5652" start="20241106110000 +0000" stop="20241106112000 +0000">
 		<title>Megha Barsenge Episode 92</title>
-		<desc>After a groom absconds from his wedding, his bride is left at the mercy of her sentiments of abandonment and to endure a judgemental societal structure.</desc>
+		<desc>As Arjun remains unaware of Megha's feelings, he gets involved in the engagement celebrations. Later, Megha reveals the truth to Arjun.</desc>
 	</programme>
 	<programme channel="5652" start="20241106112000 +0000" stop="20241106114000 +0000">
 		<title>Parineetii Episode 925</title>
-		<desc>Two best friends who support each other through thick and thin face a problem when circumstance causes both of them to get married to the same man.</desc>
+		<desc>A helpless Parineet finds herself in a spot of bother when Rakesh kidnaps her. On the other hand, Neeti witnesses the incident.</desc>
 	</programme>
 	<programme channel="5652" start="20241106114000 +0000" stop="20241106120000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 51</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Things get out of control when a helpless Durga gets severely injured by Rajesh. Subsequently, Durga feels abandoned in pain.</desc>
 	</programme>
 	<programme channel="5652" start="20241106120000 +0000" stop="20241106130000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 499</title>
-		<desc>Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity.</desc>
+		<desc>Kartikeya expresses his wish to Lord Ganesha and Goddess Paravati about being a king. Later, Kartikeya participates in Nahusha's coronation ceremony.</desc>
 	</programme>
 	<programme channel="5652" start="20241106130000 +0000" stop="20241106133000 +0000">
 		<title>Mangal Lakshmi Episode 252</title>
@@ -29842,11 +29822,11 @@ Idealistic and passionate rookie lawyer Qing takes on the case of a death row pr
 	</programme>
 	<programme channel="5652" start="20241106133000 +0000" stop="20241106150000 +0000">
 		<title>Bigg Boss Episode 30</title>
-		<desc>As Bigg Boss delves into the future of the contestants with the cataclysm of technology, the housemates try to conquer 'Time Ka Tandav', and emerge victorious in a locked house in BB's surveillance.</desc>
+		<desc>As Rajat Dalal gets out of jail, he gets involved in a verbal spat with Vivian. Consequently, when Avinash intervenes, Rajat gets physical with him.</desc>
 	</programme>
 	<programme channel="5652" start="20241106150000 +0000" stop="20241106153000 +0000">
 		<title>Mera Balam Thanedaar Episode 221</title>
-		<desc>An amiable girl who believes in supporting the lie if someone benefits for good marries a police officer under unfortunate circumstances.</desc>
+		<desc>While Sampurna tries to break the lamp, Bulbul is left disappointed. On the other hand, things get intense when Drishti finds out the truth.</desc>
 	</programme>
 	<programme channel="5652" start="20241106153000 +0000" stop="20241106160000 +0000">
 		<title>Suman Indori Episode 64</title>
@@ -31121,120 +31101,120 @@ Idealistic and passionate rookie lawyer Qing takes on the case of a death row pr
 		<desc>Entertainement</desc>
 	</programme>
 	<programme channel="5671" start="20241105160000 +0000" stop="20241105170000 +0000">
-		<title>BIGG BOSS 8</title>
-		<desc>BIGG BOSS 8</desc>
+		<title>Bigg Boss S08</title>
+		<desc>Celebrities live in an isolated house cut off from the rest of the world. They have to compete in challenging tasks to avoid elimination and win.</desc>
 	</programme>
-	<programme channel="5671" start="20241105170000 +0000" stop="20241105180000 +0000">
-		<title>BIGG BOSS 8 - UNSEEN EXTRA CUTS</title>
-		<desc>BIGG BOSS 8 - UNSEEN EXTRA CUTS</desc>
+	<programme channel="5671" start="20241105170000 +0000" stop="20241105173000 +0000">
+		<title>Bigg Boss S08 - Unseen Extra Cuts</title>
+		<desc>Exclusive behind-the-scenes footage and unseen moments from Bigg Boss Season 8.</desc>
 	</programme>
-	<programme channel="5671" start="20241105180000 +0000" stop="20241105203000 +0000">
-		<title>Movie_NUVVU NAAKU NACHHAV</title>
-		<desc>Movie_NUVVU NAAKU NACHHAV</desc>
+	<programme channel="5671" start="20241105173000 +0000" stop="20241105203000 +0000">
+		<title>Nuvvu Naaku Nachhav</title>
+		<desc>Venky and Nandini's friendship transforms into a romantic relationship, but Nandini's marriage is fixed elsewhere.</desc>
 	</programme>
 	<programme channel="5671" start="20241105203000 +0000" stop="20241105230000 +0000">
-		<title>Movie_DOOSUKELTHA</title>
-		<desc>Movie_DOOSUKELTHA</desc>
+		<title>Doosukeltha</title>
+		<desc>After a sting operation lands Chinna in the hospital, he falls for Dr. Alekhya. Chinna decides to help her.</desc>
 	</programme>
-	<programme channel="5671" start="20241105230000 +0000" stop="20241106003000 +0000">
-		<title>Movie_INKOKKADU</title>
-		<desc>Entertainment</desc>
+	<programme channel="5671" start="20241105230000 +0000" stop="20241106010000 +0000">
+		<title>Inkokkadu</title>
+		<desc>Suspended RAW agent, devastated by his wife's death at a drug lord's hands, seeks vengeance years later.</desc>
 	</programme>
-	<programme channel="5671" start="20241106003000 +0000" stop="20241106013000 +0000">
-		<title>Guppedantha Manasu</title>
-		<desc>Guppedantha Manasu</desc>
+	<programme channel="5671" start="20241106010000 +0000" stop="20241106013000 +0000">
+		<title>Fun Time</title>
+		<desc>Tune into a compilation of comedy clips from the recently released Tollywood movies.</desc>
 	</programme>
 	<programme channel="5671" start="20241106013000 +0000" stop="20241106020000 +0000">
-		<title>INTINTI RAMAYANAM ®</title>
-		<desc>INTINTI RAMAYANAM ®</desc>
+		<title>Maha Bharatam</title>
+		<desc>Watch for an epic retelling of the ancient Indian saga filled with drama, mythology and valor.</desc>
 	</programme>
 	<programme channel="5671" start="20241106020000 +0000" stop="20241106023000 +0000">
-		<title>SHUBAPRADAM</title>
-		<desc>SHUBAPRADAM</desc>
+		<title>Shubapradam</title>
+		<desc>Dr. Pradeep, astrology scholar, provides Hindu scripture-based remedies for diverse issues and zodiac-related guidance.</desc>
 	</programme>
 	<programme channel="5671" start="20241106023000 +0000" stop="20241106030000 +0000">
-		<title>RADHA KRISHNA</title>
-		<desc>RADHA KRISHNA</desc>
+		<title>Radha Krishna</title>
+		<desc>The story of Radha and Krishna is the epitome of eternal love, which transcends eras and emotions.</desc>
 	</programme>
 	<programme channel="5671" start="20241106030000 +0000" stop="20241106033000 +0000">
-		<title>SRI RENUKA YELLAMMA</title>
-		<desc>SRI RENUKA YELLAMMA</desc>
+		<title>Sri Renuka Yellamma</title>
+		<desc>Goddess Parvati incarnates as Renuka and Yellamma to safeguard against evil in royal and village settings.</desc>
 	</programme>
 	<programme channel="5671" start="20241106033000 +0000" stop="20241106063000 +0000">
-		<title>Movie_MAGADHEERA</title>
-		<desc>Movie_MAGADHEERA</desc>
+		<title>Magadheera</title>
+		<desc>A warrior reincarnates 400 years later, determined to reclaim his lost love and kingdom against adversity. Release Year: 2009 Director: S.S. Rajamouli Awards: Best Director: S.S. Rajamouli Filmfare Awards South; Best Choreography: Shivashankar, Best Speci</desc>
 	</programme>
 	<programme channel="5671" start="20241106063000 +0000" stop="20241106070000 +0000">
-		<title>Paape Naa Jeevana Jyothi</title>
-		<desc>Story revolves around mother and missed daughter</desc>
+		<title>Paape Maa Jeevana Jyothi</title>
+		<desc>Jyothi seeks acceptance but faces turmoil as daughter Jeevana is kidnapped, jeopardizing their newfound peace.</desc>
 	</programme>
 	<programme channel="5671" start="20241106070000 +0000" stop="20241106073000 +0000">
-		<title>NINNU KORI</title>
-		<desc>NINNU KORI</desc>
+		<title>Ninnu Kori</title>
+		<desc>Pallavi invites her ex-boyfriend to stay with her and her husband to prove she is happy. Uma tries to break them up.</desc>
 	</programme>
 	<programme channel="5671" start="20241106073000 +0000" stop="20241106080000 +0000">
-		<title>NUVVU NENU PREMA</title>
-		<desc>NUVVU NENU PREMA</desc>
+		<title>Nuvvu Nenu Prema</title>
+		<desc>Padmavathi, a family-loving girl, meets Vikramaditya, an arrogant businessman grappling with the loss of his parents.</desc>
 	</programme>
 	<programme channel="5671" start="20241106080000 +0000" stop="20241106083000 +0000">
-		<title>PALUKE BANGARAMAYENA</title>
-		<desc>PALUKE BANGARAMAYENA</desc>
+		<title>Paluke Bangaramayena</title>
+		<desc>Speech-impaired Swaragini, deemed unlucky by her father. Can Officer Abhishek alter her fate?</desc>
 	</programme>
 	<programme channel="5671" start="20241106083000 +0000" stop="20241106090000 +0000">
-		<title>MAMA GARU</title>
-		<desc>Serial</desc>
+		<title>Mama Garu</title>
+		<desc>Ganga confronts chauvinistic father-in-law, challenging norms. Can she carve her path to victory and claim her rights?</desc>
 	</programme>
 	<programme channel="5671" start="20241106090000 +0000" stop="20241106093000 +0000">
 		<title>Vantalakka</title>
-		<desc>Serial</desc>
+		<desc>Kind-hearted Murali loves a wealthy girl. Their romance encounters numerous obstacles.</desc>
 	</programme>
 	<programme channel="5671" start="20241106093000 +0000" stop="20241106100000 +0000">
 		<title>Malli</title>
-		<desc>Story of village girl</desc>
+		<desc>Malli promises Meera after hearing her past. Arvind's family frets over his new project.</desc>
 	</programme>
 	<programme channel="5671" start="20241106100000 +0000" stop="20241106103000 +0000">
-		<title>YETO VELLIPOINDI MANASU</title>
-		<desc>YETO VELLIPOINDI MANASU</desc>
+		<title>Yeto Vellipoindi Manasu</title>
+		<desc>Varun and Nithya's lifelong journey is marked by ups and downs, leading to multiple separations.</desc>
 	</programme>
 	<programme channel="5671" start="20241106103000 +0000" stop="20241106110000 +0000">
-		<title>GUNDE NINDA GUDIGANTALU</title>
-		<desc>GUNDE NINDA GUDIGANTALU</desc>
+		<title>Gunde Ninda Gudigantalu</title>
+		<desc>Circumstances force Meena, a family-centric girl, to marry Balu, a thug. Will this unfortunate marriage turn into love?</desc>
 	</programme>
 	<programme channel="5671" start="20241106110000 +0000" stop="20241106120000 +0000">
-		<title>BIGG BOSS 8 ®</title>
-		<desc>BIGG BOSS 8 ®</desc>
+		<title>Bigg Boss S08</title>
+		<desc>Celebrities live in an isolated house cut off from the rest of the world. They have to compete in challenging tasks to avoid elimination and win.</desc>
 	</programme>
 	<programme channel="5671" start="20241106120000 +0000" stop="20241106123000 +0000">
-		<title>GUPPEDANTHA MANASU SPL</title>
-		<desc>GUPPEDANTHA MANASU SPL</desc>
+		<title>Guppedantha Manasu</title>
+		<desc>Anupama urges Mahindra to report Rishi's disappearance. Next day, Vasudhara sets out on a mission to locate him.</desc>
 	</programme>
 	<programme channel="5671" start="20241106123000 +0000" stop="20241106130000 +0000">
-		<title>SATHYABHAMA</title>
-		<desc>SATHYABHAMA</desc>
+		<title>Sathyabhama</title>
+		<desc>Krish falls for Satya, a principled girl. What unfolds for this extraordinary couple in their love story?</desc>
 	</programme>
 	<programme channel="5671" start="20241106130000 +0000" stop="20241106133000 +0000">
-		<title>MAGUVA O MAGUVA</title>
-		<desc>MAGUVA O MAGUVA</desc>
+		<title>Maguva O Maguva</title>
+		<desc>Wealthy Akhila and single mom Anjali bond during pregnancy, navigating diverse backgrounds in a tale of motherhood.</desc>
 	</programme>
 	<programme channel="5671" start="20241106133000 +0000" stop="20241106140000 +0000">
-		<title>CHINNI</title>
-		<desc>Serial</desc>
+		<title>Chinni</title>
+		<desc>A heartwarming tale of a Mother and Daughter navigating through unexpected challenges, strengthening their bond and understanding each other in new ways.</desc>
 	</programme>
 	<programme channel="5671" start="20241106140000 +0000" stop="20241106143000 +0000">
-		<title>BRAHMA MUDI</title>
-		<desc>BRAHMA MUDI</desc>
+		<title>Brahma Mudi</title>
+		<desc>Mother arranges weddings for talented daughters. Affairs take an unexpected turn with an affluent family.</desc>
 	</programme>
 	<programme channel="5671" start="20241106143000 +0000" stop="20241106150000 +0000">
-		<title>KARTHIKA DEEPAM-NAVA VASANTHAM</title>
-		<desc>KARTHIKA DEEPAM-NAVA VASANTHAM</desc>
+		<title>Karthika Deepam-Nava Vasantham</title>
+		<desc>Deepa, dark-skinned, toils against social pressures after marrying Dr. Karthik.</desc>
 	</programme>
 	<programme channel="5671" start="20241106150000 +0000" stop="20241106153000 +0000">
-		<title>INTINTI RAMAYANAM</title>
-		<desc>INTINTI RAMAYANAM</desc>
+		<title>Intinti Ramayanam</title>
+		<desc>Members of a close-knit family begin to doubt one another when they suddenly face a problem.</desc>
 	</programme>
 	<programme channel="5671" start="20241106153000 +0000" stop="20241106160000 +0000">
-		<title>GUNDE NINDA GUDIGANTALU</title>
-		<desc>GUNDE NINDA GUDIGANTALU</desc>
+		<title>Gunde Ninda Gudigantalu</title>
+		<desc>Circumstances force Meena, a family-centric girl, to marry Balu, a thug. Will this unfortunate marriage turn into love?</desc>
 	</programme>
 	<programme channel="5671" start="20241106160000 +0000" stop="20241106170000 +0000">
 		<title>BIGG BOSS 8</title>
