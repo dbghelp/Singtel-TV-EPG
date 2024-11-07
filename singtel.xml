@@ -1230,7 +1230,7 @@
 	</programme>
 	<programme channel="5004" start="20241107070000 +0000" stop="20241107073000 +0000">
 		<title>Detik Khas Episode 5</title>
-		<desc>A special episode of DETIK that deep dive into contemporary issues in Singapore and around the region.</desc>
+		<desc>Global Ikhsan Services and Business (GISB) Services Sdn Bhd scandal reveals tale of deviant teachings, child abuse and sexual exploition and organised crime.DETIK Khas travels across the causeway for an exclusive interview with former GISB members to find out the harrowing nightmare haunting members while living within the cult-linked group.</desc>
 	</programme>
 	<programme channel="5004" start="20241107073000 +0000" stop="20241107080000 +0000">
 		<title>Wira Kita Episode 4</title>
@@ -3540,7 +3540,7 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 	</programme>
 	<programme channel="4102" start="20241107000000 +0000" stop="20241107010000 +0000">
 		<title>REVIEW - TUE 05 NOV</title>
-		<desc>Highlights from the latest Premier League Matchweek. Review incorporates all the key moments and manager reaction from every fixture, making it a must-see programme for all Premier League fans.</desc>
+		<desc>Highlights of all the fixtures from Matchweek 10 of the Premier League. With Newcastle taking on Arsenal in the Saturday opener. Then Manchester United face Chelsea at Old Trafford.</desc>
 	</programme>
 	<programme channel="4102" start="20241107010000 +0000" stop="20241107020000 +0000">
 		<title>THE CATCH-UP SHOW Episode 12</title>
@@ -3548,7 +3548,7 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 	</programme>
 	<programme channel="4102" start="20241107020000 +0000" stop="20241107030000 +0000">
 		<title>PL MOMENTS Episode 4</title>
-		<desc>PL Moments combines archive and first person testimony to revisit the very best games, goals, players and performances from the last 30 years.</desc>
+		<desc>Nigeria and Bolton legend Jay-Jay Okocha joins Will Perry to celebrate the phenomenal impact that African footballers have had on the Premier League in this PL Moments special.</desc>
 	</programme>
 	<programme channel="4102" start="20241107030000 +0000" stop="20241107033000 +0000">
 		<title>PL STORIES Episode 23</title>
@@ -3604,7 +3604,7 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 	</programme>
 	<programme channel="4102" start="20241107133000 +0000" stop="20241107140000 +0000">
 		<title>THE BIG INTERVIEW Episode 13</title>
-		<desc>Extended sit-downs and more informal 'out and about' interviews with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
+		<desc>This week on The Big Interview, Wolves' Nelson Semedo reveals what life was like growing up in Lisbon and how street football helped him understand the game. From playing with Messi at Barcelona to his big money move to England, Semedo opens up on his life in football and how he gained inspiration from Muhammad Ali.</desc>
 	</programme>
 	<programme channel="4102" start="20241107140000 +0000" stop="20241107160000 +0000">
 		<title>CLASSIC MATCH 08/09</title>
@@ -4275,7 +4275,7 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<desc>Watch all the action in the Autumn Nation Series, as the Southern Hempisphere teams make the long journey north to take on the best that Europe has to offer.</desc>
 	</programme>
 	<programme channel="5118" start="20241106201000 +0000" stop="20241106204000 +0000">
-		<title>5 &amp; 6 Nations Classics 2003 - Ireland v England</title>
+		<title>5 &amp; 6 Nations Classics 2003 / Ireland v England</title>
 		<desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
 	</programme>
 	<programme channel="5118" start="20241106204000 +0000" stop="20241106223000 +0000">
@@ -4590,16 +4590,24 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<title>Fastzone 2024: Episode Number 30 Episode 30</title>
 		<desc>Fastzone 2024</desc>
 	</programme>
-	<programme channel="6126" start="20241107103000 +0000" stop="20241107142000 +0000">
+	<programme channel="6126" start="20241107103000 +0000" stop="20241107110000 +0000">
+		<title>Mini Match - Bundesliga 2024/25: Freiburg vs Mainz Episode 80</title>
+		<desc>Mini Match - Bundesliga 2024/25</desc>
+	</programme>
+	<programme channel="6126" start="20241107110000 +0000" stop="20241107123000 +0000">
 		<title>Premier Padel 2024: Dubai P1 Day 3 Match 1 (Live) Episode 664</title>
 		<desc>Premier Padel 2024</desc>
 	</programme>
-	<programme channel="6126" start="20241107142000 +0000" stop="20241107143000 +0000">
+	<programme channel="6126" start="20241107123000 +0000" stop="20241107140000 +0000">
 		<title>Premier Padel 2024: Dubai P1 Day 3 Match 2 (Live) Episode 665</title>
 		<desc>Premier Padel 2024</desc>
 	</programme>
-	<programme channel="6126" start="20241107143000 +0000" stop="20241107160000 +0000">
+	<programme channel="6126" start="20241107140000 +0000" stop="20241107153000 +0000">
 		<title>Premier Padel 2024: Dubai P1 Day 3 Match 3 (Live) Episode 666</title>
+		<desc>Premier Padel 2024</desc>
+	</programme>
+	<programme channel="6126" start="20241107153000 +0000" stop="20241107160000 +0000">
+		<title>Premier Padel 2024: Dubai P1 Day 3 Match 4 (Live) Episode 667</title>
 		<desc>Premier Padel 2024</desc>
 	</programme>
 	<programme channel="6126" start="20241107160000 +0000" stop="20241107163000 +0000">
@@ -7991,12 +7999,12 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<desc>America Reports Fox News Live</desc>
 	</programme>
 	<programme channel="5165" start="20241106200000 +0000" stop="20241106210000 +0000">
-		<title>The Story</title>
-		<desc>The Story</desc>
+		<title>Fox News Democracy 2024</title>
+		<desc>Fox News Democracy 2024</desc>
 	</programme>
 	<programme channel="5165" start="20241106210000 +0000" stop="20241106220000 +0000">
-		<title>Your World</title>
-		<desc>Neil Cavuto has all the days business news and market moves</desc>
+		<title>Fox News Democracy 2024</title>
+		<desc>Fox News Democracy 2024</desc>
 	</programme>
 	<programme channel="5165" start="20241106220000 +0000" stop="20241106230000 +0000">
 		<title>The Five</title>
@@ -8027,24 +8035,24 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<desc>Fox News @Night</desc>
 	</programme>
 	<programme channel="5165" start="20241107050000 +0000" stop="20241107060000 +0000">
-		<title>Fox News @Night</title>
-		<desc>Fox News @Night</desc>
+		<title>The Five</title>
+		<desc>Features a roundtable ensemble of five personalities who debate current news stories</desc>
 	</programme>
 	<programme channel="5165" start="20241107060000 +0000" stop="20241107070000 +0000">
-		<title>Fox News Democracy 2024</title>
-		<desc>Fox News Democracy 2024</desc>
+		<title>Jesse Watters Primetime</title>
+		<desc>Watters enters a whole new world!</desc>
 	</programme>
 	<programme channel="5165" start="20241107070000 +0000" stop="20241107080000 +0000">
-		<title>Fox News Democracy 2024</title>
-		<desc>Fox News Democracy 2024</desc>
+		<title>Hannity</title>
+		<desc>Sean Hannity offers a mix of commentary, interviews and branded segments of the days top stories</desc>
 	</programme>
 	<programme channel="5165" start="20241107080000 +0000" stop="20241107090000 +0000">
-		<title>Fox News Democracy 2024</title>
-		<desc>Fox News Democracy 2024</desc>
+		<title>Gutfeld!</title>
+		<desc>Greg Gutfeld looks at the news of the day through a satiric lens fused with pop culture</desc>
 	</programme>
 	<programme channel="5165" start="20241107090000 +0000" stop="20241107100000 +0000">
-		<title>Fox &amp; Friends First</title>
-		<desc>FOX &amp; Friends First delivers headlines viewers may have missed overnight, along with a preview of the day ahead by covering the latest news in politics, business and entertainment.</desc>
+		<title>The Ingraham Angle</title>
+		<desc>Laura Ingraham discusses the issues our counrty is in turmoil about</desc>
 	</programme>
 	<programme channel="5165" start="20241107100000 +0000" stop="20241107110000 +0000">
 		<title>Fox &amp; Friends First</title>
@@ -8567,19 +8575,19 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<desc>The 2024 Presidential Election. Special live continuing coverage.</desc>
 	</programme>
 	<programme channel="5167" start="20241106210000 +0000" stop="20241106220000 +0000">
-		<title>Election Night in America Continued: Wednesday, November 6, 2024 4PM</title>
+		<title>Election Day in America Continued: Wednesday, November 6, 2024 4PM</title>
 		<desc>The 2024 Presidential Election. Special live continuing coverage.</desc>
 	</programme>
 	<programme channel="5167" start="20241106220000 +0000" stop="20241106230000 +0000">
-		<title>Election Night in America Continued: Wednesday, November 6, 2024 5PM</title>
+		<title>Election Day in America Continued: Wednesday, November 6, 2024 5PM</title>
 		<desc>The 2024 Presidential Election. Live election results and coverage with Jake Tapper and Anderson Cooper.</desc>
 	</programme>
 	<programme channel="5167" start="20241106230000 +0000" stop="20241107000000 +0000">
-		<title>Election Night in America Continued: Wednesday, November 6, 2024 6PM</title>
+		<title>Election Day in America Continued: Wednesday, November 6, 2024 6PM</title>
 		<desc>The 2024 Presidential Election. Special live continuing coverage.</desc>
 	</programme>
 	<programme channel="5167" start="20241107000000 +0000" stop="20241107010000 +0000">
-		<title>Election Night in America Continued: Wednesday, November 6, 2024 7PM</title>
+		<title>Election Day in America Continued: Wednesday, November 6, 2024 7PM</title>
 		<desc>The 2024 Presidential Election. Special live continuing coverage.</desc>
 	</programme>
 	<programme channel="5167" start="20241107010000 +0000" stop="20241107020000 +0000">
@@ -8599,48 +8607,48 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<desc>The 2024 Presidential Election. Special live continuing coverage.</desc>
 	</programme>
 	<programme channel="5167" start="20241107050000 +0000" stop="20241107060000 +0000">
-		<title>Election Night in America Continued: Thursday, November 7, 2024 12AM</title>
-		<desc>The 2024 Presidential Election. Special live continuing coverage.</desc>
+		<title>CNN Newsroom: Thursday, November 7, 2024 12am ET</title>
+		<desc>Live context and clarity to the day's top stories from around the world.</desc>
 	</programme>
 	<programme channel="5167" start="20241107060000 +0000" stop="20241107070000 +0000">
-		<title>Election Night in America Continued: Thursday, November 7, 2024 1AM</title>
-		<desc>The 2024 Presidential Election. Special live continuing coverage.</desc>
+		<title>CNN Newsroom: Thursday, November 7, 2024 1am ET</title>
+		<desc>Live context and clarity to the day's top stories from around the world.</desc>
 	</programme>
 	<programme channel="5167" start="20241107070000 +0000" stop="20241107080000 +0000">
-		<title>Election Night in America Continued: Thursday, November 7, 2024 2AM</title>
-		<desc>The 2024 Presidential Election. Special live continuing coverage.</desc>
+		<title>CNN Newsroom: Thursday, November 7, 2024 2am ET</title>
+		<desc>Live context and clarity to the day's top stories from around the world.</desc>
 	</programme>
 	<programme channel="5167" start="20241107080000 +0000" stop="20241107090000 +0000">
-		<title>Election Night in America Continued: Thursday, November 7, 2024 3AM</title>
-		<desc>The 2024 Presidential Election. Special live continuing coverage.</desc>
+		<title>CNN Newsroom: Thursday, November 7, 2024 3am ET</title>
+		<desc>Live context and clarity to the day's top stories from around the world.</desc>
 	</programme>
 	<programme channel="5167" start="20241107090000 +0000" stop="20241107100000 +0000">
-		<title>Election Night in America Continued: Thursday, November 7, 2024 4AM</title>
-		<desc>The 2024 Presidential Election. Special live continuing coverage.</desc>
+		<title>CNN Newsroom: Thursday, November 7, 2024 4am ET</title>
+		<desc>Live context and clarity to the day's top stories from around the world.</desc>
 	</programme>
 	<programme channel="5167" start="20241107100000 +0000" stop="20241107110000 +0000">
-		<title>Election Day in America Continued: Thursday, November 7, 2024 5AM</title>
-		<desc>The 2024 Presidential Election. Special live continuing coverage.</desc>
+		<title>CNN This Morning: Thursday, November 7, 2024 5AM</title>
+		<desc>Start your day with Kasie Hunt bringing you the latest headlines and analysis.</desc>
 	</programme>
 	<programme channel="5167" start="20241107110000 +0000" stop="20241107120000 +0000">
-		<title>Election Day in America Continued: Thursday, November 7, 2024 6AM</title>
-		<desc>The 2024 Presidential Election. Special live continuing coverage.</desc>
+		<title>CNN This Morning: Thursday, November 7, 2024 6AM</title>
+		<desc>Start your day with Kasie Hunt bringing you the latest headlines and analysis.</desc>
 	</programme>
 	<programme channel="5167" start="20241107120000 +0000" stop="20241107130000 +0000">
-		<title>Election Day in America Continued: Thursday, November 7, 2024 7AM</title>
-		<desc>The 2024 Presidential Election. Special live continuing coverage.</desc>
+		<title>CNN News Central: Thursday, November 7, 2024 7AM</title>
+		<desc>Stay up to date with John Berman, Kate Bolduan and Sara Sidner from CNN's immersive news hub.</desc>
 	</programme>
 	<programme channel="5167" start="20241107130000 +0000" stop="20241107140000 +0000">
-		<title>Election Day in America Continued: Thursday, November 7, 2024 8AM</title>
-		<desc>The 2024 Presidential Election. Special live continuing coverage.</desc>
+		<title>CNN Newsroom: Thursday, November 7, 2024 8am ET</title>
+		<desc>Live context and clarity to the day's top stories from around the world.</desc>
 	</programme>
 	<programme channel="5167" start="20241107140000 +0000" stop="20241107150000 +0000">
-		<title>Election Day in America Continued: Thursday, November 7, 2024 9AM</title>
-		<desc>The 2024 Presidential Election. Special live continuing coverage.</desc>
+		<title>Connect the World: Thursday, November 7, 2024 9am ET</title>
+		<desc>Becky Anderson explores diverse perspectives and explains global issues of the day.</desc>
 	</programme>
 	<programme channel="5167" start="20241107150000 +0000" stop="20241107160000 +0000">
-		<title>Election Day in America Continued: Thursday, November 7, 2024 10AM</title>
-		<desc>The 2024 Presidential Election. Special live continuing coverage.</desc>
+		<title>Connect the World: Thursday, November 7, 2024 10am ET</title>
+		<desc>Becky Anderson explores diverse perspectives and explains global issues of the day.</desc>
 	</programme>
 	<programme channel="5167" start="20241107160000 +0000" stop="20241107170000 +0000">
 		<title>Election Day in America Continued: Thursday, November 7, 2024 11AM</title>
@@ -20339,8 +20347,8 @@ Memorable Classic Songs is a new music programs hosted by Chen Guo Hua. He will 
 节目特设表演小舞台，让小朋友展示才艺；齐集创意工作室，DIY小手工。小教「煮」环节，家长和子女共享亲子烹饪乐趣。</desc>
 	</programme>
 	<programme channel="5511" start="20241107020000 +0000" stop="20241107023000 +0000">
-		<title>战场上 / TBC Episode 3</title>
-		<desc>0</desc>
+		<title>特朗普重掌白宫 / 2024 US Presidential Election Special</title>
+		<desc>特朗普重掌白宫 / 2024 US Presidential Election Special</desc>
 	</programme>
 	<programme channel="5511" start="20241107023000 +0000" stop="20241107030000 +0000">
 		<title>玲玲友情报 / Ring Ling Ling Episode 34</title>
@@ -20367,8 +20375,8 @@ Memorable Classic Songs is a new music programs hosted by Chen Guo Hua. He will 
 		<desc>人前光采亮丽的余满月(杨茜尧饰)，背负着一段不堪回首的可怕过去……满月当年惨遭富三代蒋基俊(马志威饰)施暴蹂躏、妹妹曦晨(黄翠如饰)受创变成残废，及后父母受牵连丧命、姐姐漫星(杨卓娜饰)疏远离弃。十八年过去，满月成上流圈炙手可热的危机公关，处心积虑推行复仇大计，要将蒋家父子与共犯绳之于法。孤寂的复仇路上，满月取得卓家千金慧云(林夏薇饰)信任，获同路人成风(王浩信饰)支持，终查清昔日真相。面对始作俑者无情反扑，满月不惜代价也要撕破华丽背后的暗黑虚伪，令恶人得到应有报应！</desc>
 	</programme>
 	<programme channel="5511" start="20241107070500 +0000" stop="20241107073000 +0000">
-		<title>战场上 / TBC Episode 3</title>
-		<desc>0</desc>
+		<title>特朗普重掌白宫 / 2024 US Presidential Election Special</title>
+		<desc>特朗普重掌白宫 / 2024 US Presidential Election Special</desc>
 	</programme>
 	<programme channel="5511" start="20241107073000 +0000" stop="20241107074500 +0000">
 		<title>娱乐头条 / EXTRA Episode 384</title>
@@ -20439,8 +20447,8 @@ Memorable Classic Songs is a new music programs hosted by Chen Guo Hua. He will 
 		<desc>人前光采亮丽的余满月(杨茜尧饰)，背负着一段不堪回首的可怕过去……满月当年惨遭富三代蒋基俊(马志威饰)施暴蹂躏、妹妹曦晨(黄翠如饰)受创变成残废，及后父母受牵连丧命、姐姐漫星(杨卓娜饰)疏远离弃。十八年过去，满月成上流圈炙手可热的危机公关，处心积虑推行复仇大计，要将蒋家父子与共犯绳之于法。孤寂的复仇路上，满月取得卓家千金慧云(林夏薇饰)信任，获同路人成风(王浩信饰)支持，终查清昔日真相。面对始作俑者无情反扑，满月不惜代价也要撕破华丽背后的暗黑虚伪，令恶人得到应有报应！</desc>
 	</programme>
 	<programme channel="5511" start="20241107143000 +0000" stop="20241107150000 +0000">
-		<title>战场上 / TBC Episode 4</title>
-		<desc>0</desc>
+		<title>特朗普重掌白宫 / 2024 US Presidential Election Special Episode 2</title>
+		<desc>特朗普重掌白宫 / 2024 US Presidential Election Special</desc>
 	</programme>
 	<programme channel="5511" start="20241107150000 +0000" stop="20241107151500 +0000">
 		<title>抢食着数特攻队 / Neigbuy Sale - Food and Beverage Episode 46</title>
@@ -28864,41 +28872,45 @@ Tony怎样回馈旅游带给他的所有？西藏</desc>
 		<title>Movie</title>
 		<desc>Movies name is yet to be announced by this channel.</desc>
 	</programme>
-	<programme channel="5639" start="20241106163000 +0000" stop="20241106193000 +0000">
+	<programme channel="5639" start="20241106163000 +0000" stop="20241106164500 +0000">
 		<title>Movie</title>
 		<desc>Malayalam Feature Film</desc>
 	</programme>
-	<programme channel="5639" start="20241106193000 +0000" stop="20241106220000 +0000">
-		<title>Movie</title>
-		<desc>Malayalam Feature Film</desc>
+	<programme channel="5639" start="20241106164500 +0000" stop="20241106192000 +0000">
+		<title>Phoenix</title>
+		<desc>John and his family relocate with hopes of rebuilding.</desc>
 	</programme>
-	<programme channel="5639" start="20241106220000 +0000" stop="20241107003000 +0000">
-		<title>Movie</title>
-		<desc>Malayalam Feature Film</desc>
+	<programme channel="5639" start="20241106192000 +0000" stop="20241106215000 +0000">
+		<title>Thinkal Muthal Velli Vare</title>
+		<desc>A scriptwriter marries a village girl, who is a diehard fan of his serials. Their marriage results in a number of humorous incidents for both of them. Release Year: 2015 Director: Kannan Thamarakkulam</desc>
 	</programme>
-	<programme channel="5639" start="20241107003000 +0000" stop="20241107013000 +0000">
-		<title>TBC</title>
-		<desc>Comedy Scenes from Malayalam Movies</desc>
+	<programme channel="5639" start="20241106215000 +0000" stop="20241107003000 +0000">
+		<title>Chinthamani Kolakkese</title>
+		<desc>Lal Krishna Viradiar is an enigmatic criminal lawyer who helps hardened criminals get away from the courts but later pursues them as a vigilante.</desc>
 	</programme>
-	<programme channel="5639" start="20241107013000 +0000" stop="20241107043000 +0000">
-		<title>Movie</title>
-		<desc>Malayalam Feature Film</desc>
+	<programme channel="5639" start="20241107003000 +0000" stop="20241107012500 +0000">
+		<title>Chirikkum Thalika</title>
+		<desc>A compilation of some of the best comedy scenes from Malayalam movies.</desc>
 	</programme>
-	<programme channel="5639" start="20241107043000 +0000" stop="20241107073000 +0000">
-		<title>Movie</title>
-		<desc>Malayalam Feature Film</desc>
+	<programme channel="5639" start="20241107012500 +0000" stop="20241107042500 +0000">
+		<title>Midhunam</title>
+		<desc>Sethumadhavan plans to start a biscuit factory but corrupt officials hinders.</desc>
+	</programme>
+	<programme channel="5639" start="20241107042500 +0000" stop="20241107073000 +0000">
+		<title>Keshu Ee Veedinte Nadhan</title>
+		<desc>The life of an ordinary driver Keshu turns upside down when he wins a lottery. Release Year: 2021 Director: Nadirshah</desc>
 	</programme>
 	<programme channel="5639" start="20241107073000 +0000" stop="20241107103000 +0000">
-		<title>Movie</title>
-		<desc>Malayalam Feature Film</desc>
+		<title>Neymar</title>
+		<desc>Kunjava and Sinto get Neymar, a dog, to impress a girl in their class. However, trouble ensues when Neymar is kidnapped one night and the boys must risk their lives to rescue their pet.</desc>
 	</programme>
 	<programme channel="5639" start="20241107103000 +0000" stop="20241107133000 +0000">
-		<title>Movie</title>
-		<desc>Malayalam Feature Film</desc>
+		<title>K.G.F: Chapter 1</title>
+		<desc>Rocky seeks to acquire power and wealth to fulfil a promise made to his mother.</desc>
 	</programme>
 	<programme channel="5639" start="20241107133000 +0000" stop="20241107133000 +0000">
-		<title>Movie</title>
-		<desc>Malayalam Feature Film</desc>
+		<title>Yodha</title>
+		<desc>Bunny falls for a rich daughter Mahalaxmi, and wants her entire wealth as dowry. Release Year: 1992 Director: Sangeeth Sivan</desc>
 	</programme>
 	<programme channel="5639" start="20241107133000 +0000" stop="20241107163000 +0000">
 		<title>Movie</title>
@@ -30273,40 +30285,44 @@ Tony怎样回馈旅游带给他的所有？西藏</desc>
 		<desc>Blessed with a nightingale's voice, cute Kulfi is a singing prodigy. After a tragedy strikes, she sets out on a new journey to find her estranged father.</desc>
 	</programme>
 	<programme channel="5654" start="20241106170000 +0000" stop="20241106180000 +0000">
-		<title>TBA</title>
-		<desc>The name of the program is yet to be announced by the channel.</desc>
+		<title>Savdhaan India - India Fights Back Episode 1772</title>
+		<desc>See shocking crime stories based on real life events. The show focuses on stories where justice was delivered.</desc>
 	</programme>
 	<programme channel="5654" start="20241106180000 +0000" stop="20241106183000 +0000">
 		<title>Shaitani Rasmein Episode 252</title>
-		<desc>In Bhurangarh, Nikki challenges satanic force Malik while seeking love.</desc>
+		<desc>Pinni dismisses the villagers' fears about Shaitan and the accusations against her in-laws. Further, Vikram and Sumitra discover Sugna's dead body.</desc>
 	</programme>
 	<programme channel="5654" start="20241106183000 +0000" stop="20241106190000 +0000">
 		<title>10:29 Ki Aakhri Dastak Episode 129</title>
-		<desc>This is not an announcement, but a warning! There is harm in men going out of the house after 10:29 pm. Watch a new show.</desc>
+		<desc>Rimjhim schemes to sow doubt in Abhimanyu's mother's mind about Preeti, claiming she's a witch. Meanwhile, Abhimanyu seeks info on a mysterious girl.</desc>
 	</programme>
 	<programme channel="5654" start="20241106190000 +0000" stop="20241106200000 +0000">
-		<title>TBA</title>
-		<desc>The name of the program is yet to be announced by the channel.</desc>
+		<title>Savdhaan India - Naya Adhyay Episode 189</title>
+		<desc>Revati attracts men for money and tortures them until she extracts every last rupee. Later, she traps Shayam, a married man, and starts removing all the money from his account.</desc>
 	</programme>
-	<programme channel="5654" start="20241106200000 +0000" stop="20241106220000 +0000">
-		<title>TBA</title>
-		<desc>The name of the program is yet to be announced by the channel.</desc>
+	<programme channel="5654" start="20241106200000 +0000" stop="20241106210000 +0000">
+		<title>Savdhaan India - F.I.R. Episode 61</title>
+		<desc>A police officer pays a hefty price for his bravery when his daughter gets kidnapped by some criminal gang. Will he be able to rescue her before it is too late?</desc>
+	</programme>
+	<programme channel="5654" start="20241106210000 +0000" stop="20241106220000 +0000">
+		<title>Savdhaan India - India Fights Back Episode 577</title>
+		<desc>See shocking crime stories based on real life events. The show focuses on stories where justice was delivered.</desc>
 	</programme>
 	<programme channel="5654" start="20241106220000 +0000" stop="20241106230000 +0000">
-		<title>TBA</title>
-		<desc>The name of the program is yet to be announced by the channel.</desc>
+		<title>Savdhaan India - Naya Adhyay Episode 189</title>
+		<desc>Revati attracts men for money and tortures them until she extracts every last rupee. Later, she traps Shayam, a married man, and starts removing all the money from his account.</desc>
 	</programme>
 	<programme channel="5654" start="20241106230000 +0000" stop="20241107000000 +0000">
-		<title>TBA</title>
-		<desc>The name of the program is yet to be announced by the channel.</desc>
+		<title>Savdhaan India - Naya Adhyay Episode 178</title>
+		<desc>Vikram marries Madhuri and takes her home but does not tell her his landlady is his mother. A few days later, Ragini his mother's friend arranges for Madhuri to be kidnapped.</desc>
 	</programme>
 	<programme channel="5654" start="20241107000000 +0000" stop="20241107003000 +0000">
 		<title>10:29 Ki Aakhri Dastak Episode 129</title>
-		<desc>This is not an announcement, but a warning! There is harm in men going out of the house after 10:29 pm. Watch a new show.</desc>
+		<desc>Rimjhim schemes to sow doubt in Abhimanyu's mother's mind about Preeti, claiming she's a witch. Meanwhile, Abhimanyu seeks info on a mysterious girl.</desc>
 	</programme>
 	<programme channel="5654" start="20241107003000 +0000" stop="20241107010000 +0000">
 		<title>Shaitani Rasmein Episode 252</title>
-		<desc>In Bhurangarh, Nikki challenges satanic force Malik while seeking love.</desc>
+		<desc>Pinni dismisses the villagers' fears about Shaitan and the accusations against her in-laws. Further, Vikram and Sumitra discover Sugna's dead body.</desc>
 	</programme>
 	<programme channel="5654" start="20241107010000 +0000" stop="20241107020000 +0000">
 		<title>Jiji Maa – Maha Episode Episode 418</title>
@@ -30314,27 +30330,27 @@ Tony怎样回馈旅游带给他的所有？西藏</desc>
 	</programme>
 	<programme channel="5654" start="20241107020000 +0000" stop="20241107023000 +0000">
 		<title>Yeh Rishtey Hain Pyaar Ke Episode 72</title>
-		<desc>Yeh Rishtey Hain Pyaar Ke</desc>
+		<desc>Lovebirds Abir and Mishti embark upon the journey called 'life'. Watch them heal the fissures in their family, putting everything on the line, even their love.</desc>
 	</programme>
 	<programme channel="5654" start="20241107023000 +0000" stop="20241107030000 +0000">
 		<title>Dil Sambhal Jaa Zara Episode 33</title>
-		<desc>Dil Sambhal Jaa Zara</desc>
+		<desc>As a revenge against her scheming mother, Ahana marries a much-older Anant. With vengeance at the centre, will true love have a chance?</desc>
 	</programme>
 	<programme channel="5654" start="20241107030000 +0000" stop="20241107033000 +0000">
 		<title>Shaitani Rasmein Episode 251</title>
-		<desc>In Bhurangarh, Nikki challenges satanic force Malik while seeking love.</desc>
+		<desc>Netra vows to punish the villagers for their attempt to meet Pinni. Elsewhere, when Pinni confronts the villagers, they inform her about the evil of Bhurangarh.</desc>
 	</programme>
 	<programme channel="5654" start="20241107033000 +0000" stop="20241107040000 +0000">
 		<title>Shaitani Rasmein Episode 252</title>
-		<desc>In Bhurangarh, Nikki challenges satanic force Malik while seeking love.</desc>
+		<desc>Pinni dismisses the villagers' fears about Shaitan and the accusations against her in-laws. Further, Vikram and Sumitra discover Sugna's dead body.</desc>
 	</programme>
 	<programme channel="5654" start="20241107040000 +0000" stop="20241107043000 +0000">
 		<title>Yeh Rishtey Hain Pyaar Ke Episode 71</title>
-		<desc>Yeh Rishtey Hain Pyaar Ke</desc>
+		<desc>Lovebirds Abir and Mishti embark upon the journey called 'life'. Watch them heal the fissures in their family, putting everything on the line, even their love.</desc>
 	</programme>
 	<programme channel="5654" start="20241107043000 +0000" stop="20241107050000 +0000">
 		<title>Yeh Rishtey Hain Pyaar Ke Episode 72</title>
-		<desc>Yeh Rishtey Hain Pyaar Ke</desc>
+		<desc>Lovebirds Abir and Mishti embark upon the journey called 'life'. Watch them heal the fissures in their family, putting everything on the line, even their love.</desc>
 	</programme>
 	<programme channel="5654" start="20241107050000 +0000" stop="20241107060000 +0000">
 		<title>Jiji Maa – Maha Episode Episode 418</title>
@@ -30350,39 +30366,39 @@ Tony怎样回馈旅游带给他的所有？西藏</desc>
 	</programme>
 	<programme channel="5654" start="20241107070000 +0000" stop="20241107073000 +0000">
 		<title>Shaitani Rasmein Episode 252</title>
-		<desc>In Bhurangarh, Nikki challenges satanic force Malik while seeking love.</desc>
+		<desc>Pinni dismisses the villagers' fears about Shaitan and the accusations against her in-laws. Further, Vikram and Sumitra discover Sugna's dead body.</desc>
 	</programme>
 	<programme channel="5654" start="20241107073000 +0000" stop="20241107080000 +0000">
 		<title>Yeh Rishtey Hain Pyaar Ke Episode 71</title>
-		<desc>Yeh Rishtey Hain Pyaar Ke</desc>
+		<desc>Lovebirds Abir and Mishti embark upon the journey called 'life'. Watch them heal the fissures in their family, putting everything on the line, even their love.</desc>
 	</programme>
 	<programme channel="5654" start="20241107080000 +0000" stop="20241107083000 +0000">
 		<title>Yeh Rishtey Hain Pyaar Ke Episode 72</title>
-		<desc>Yeh Rishtey Hain Pyaar Ke</desc>
+		<desc>Lovebirds Abir and Mishti embark upon the journey called 'life'. Watch them heal the fissures in their family, putting everything on the line, even their love.</desc>
 	</programme>
 	<programme channel="5654" start="20241107083000 +0000" stop="20241107093000 +0000">
-		<title>TBA</title>
-		<desc>The name of the program is yet to be announced by the channel.</desc>
+		<title>Savdhaan India - India Fights Back Episode 1772</title>
+		<desc>See shocking crime stories based on real life events. The show focuses on stories where justice was delivered.</desc>
 	</programme>
 	<programme channel="5654" start="20241107093000 +0000" stop="20241107100000 +0000">
 		<title>Shaitani Rasmein Episode 252</title>
-		<desc>In Bhurangarh, Nikki challenges satanic force Malik while seeking love.</desc>
+		<desc>Pinni dismisses the villagers' fears about Shaitan and the accusations against her in-laws. Further, Vikram and Sumitra discover Sugna's dead body.</desc>
 	</programme>
 	<programme channel="5654" start="20241107100000 +0000" stop="20241107110000 +0000">
-		<title>Jiji Maa – Maha Episode Episode 418</title>
-		<desc>Suyash and Falguni organise a grand party for Ladoo's homecoming. However, Uttara Devi enters the house in a disguise and attacks everyone at the party.</desc>
+		<title>Divya-Drishti</title>
+		<desc>Divya and Drishti, two sisters with divine powers, get separated while escaping from an evil witch. Reunited, they intend to exact revenge and defeat her.</desc>
 	</programme>
 	<programme channel="5654" start="20241107110000 +0000" stop="20241107113000 +0000">
 		<title>Dil Sambhal Jaa Zara Episode 33</title>
-		<desc>Dil Sambhal Jaa Zara</desc>
+		<desc>As a revenge against her scheming mother, Ahana marries a much-older Anant. With vengeance at the centre, will true love have a chance?</desc>
 	</programme>
 	<programme channel="5654" start="20241107113000 +0000" stop="20241107120000 +0000">
 		<title>Yeh Rishtey Hain Pyaar Ke Episode 71</title>
-		<desc>Yeh Rishtey Hain Pyaar Ke</desc>
+		<desc>Lovebirds Abir and Mishti embark upon the journey called 'life'. Watch them heal the fissures in their family, putting everything on the line, even their love.</desc>
 	</programme>
 	<programme channel="5654" start="20241107120000 +0000" stop="20241107123000 +0000">
 		<title>Yeh Rishtey Hain Pyaar Ke Episode 72</title>
-		<desc>Yeh Rishtey Hain Pyaar Ke</desc>
+		<desc>Lovebirds Abir and Mishti embark upon the journey called 'life'. Watch them heal the fissures in their family, putting everything on the line, even their love.</desc>
 	</programme>
 	<programme channel="5654" start="20241107123000 +0000" stop="20241107130000 +0000">
 		<title>Kulfi Kumar Bajewala Episode 222</title>
@@ -30394,23 +30410,23 @@ Tony怎样回馈旅游带给他的所有？西藏</desc>
 	</programme>
 	<programme channel="5654" start="20241107133000 +0000" stop="20241107140000 +0000">
 		<title>Shaitani Rasmein Episode 252</title>
-		<desc>In Bhurangarh, Nikki challenges satanic force Malik while seeking love.</desc>
+		<desc>Pinni dismisses the villagers' fears about Shaitan and the accusations against her in-laws. Further, Vikram and Sumitra discover Sugna's dead body.</desc>
 	</programme>
 	<programme channel="5654" start="20241107140000 +0000" stop="20241107143000 +0000">
 		<title>10:29 Ki Aakhri Dastak Episode 129</title>
-		<desc>This is not an announcement, but a warning! There is harm in men going out of the house after 10:29 pm. Watch a new show.</desc>
+		<desc>Rimjhim schemes to sow doubt in Abhimanyu's mother's mind about Preeti, claiming she's a witch. Meanwhile, Abhimanyu seeks info on a mysterious girl.</desc>
 	</programme>
 	<programme channel="5654" start="20241107143000 +0000" stop="20241107150000 +0000">
 		<title>Yeh Rishtey Hain Pyaar Ke Episode 73</title>
-		<desc>Yeh Rishtey Hain Pyaar Ke</desc>
+		<desc>Lovebirds Abir and Mishti embark upon the journey called 'life'. Watch them heal the fissures in their family, putting everything on the line, even their love.</desc>
 	</programme>
 	<programme channel="5654" start="20241107150000 +0000" stop="20241107153000 +0000">
 		<title>Yeh Rishtey Hain Pyaar Ke Episode 74</title>
-		<desc>Yeh Rishtey Hain Pyaar Ke</desc>
+		<desc>Lovebirds Abir and Mishti embark upon the journey called 'life'. Watch them heal the fissures in their family, putting everything on the line, even their love.</desc>
 	</programme>
 	<programme channel="5654" start="20241107153000 +0000" stop="20241107160000 +0000">
 		<title>Dil Sambhal Jaa Zara Episode 34</title>
-		<desc>Dil Sambhal Jaa Zara</desc>
+		<desc>As a revenge against her scheming mother, Ahana marries a much-older Anant. With vengeance at the centre, will true love have a chance?</desc>
 	</programme>
 	<programme channel="5654" start="20241107160000 +0000" stop="20241107163000 +0000">
 		<title>Kulfi Kumar Bajewala Episode 224</title>
