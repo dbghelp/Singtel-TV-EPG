@@ -1038,7 +1038,7 @@
 	</programme>
 	<programme channel="5003" start="20241107143000 +0000" stop="20241107150000 +0000">
 		<title>焦点 Episode 28</title>
-		<desc>《焦点》追踪国际时事，实地报道区域课题，以新加坡的视角分析时局发展的前因后果和潜在影响。</desc>
+		<desc>美国总统选举成绩出炉，前总统特朗普打败副总统哈里斯，二度当选美国总统。特朗普的致胜关键有哪些？哈里斯的竞选策略出了什么问题？热爱大自然的台湾作家刘克襄今年8月来到新加坡担任驻校作家，他在我国发现了什么世外桃源？</desc>
 	</programme>
 	<programme channel="5003" start="20241107150000 +0000" stop="20241107160000 +0000">
 		<title>长风渡 Episode 10</title>
@@ -4751,15 +4751,15 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<desc>ATP Tour 250 2024</desc>
 	</programme>
 	<programme channel="6127" start="20241107020000 +0000" stop="20241107033000 +0000">
-		<title>ATP Tour 250 2024: Metz Day 4 Match 2 Episode 801</title>
+		<title>ATP Tour 250 2024: Metz Day 4 Norrie v Van Assche Episode 801</title>
 		<desc>ATP Tour 250 2024</desc>
 	</programme>
 	<programme channel="6127" start="20241107033000 +0000" stop="20241107050000 +0000">
-		<title>ATP Tour 250 2024: Metz Day 4 Match 3 Episode 802</title>
+		<title>ATP Tour 250 2024: Metz Day 4 Ruud v Bonzi Episode 802</title>
 		<desc>ATP Tour 250 2024</desc>
 	</programme>
 	<programme channel="6127" start="20241107050000 +0000" stop="20241107063000 +0000">
-		<title>ATP Tour 250 2024: Metz Day 4 Match 4 Episode 803</title>
+		<title>ATP Tour 250 2024: Metz Day 4 Bu v De Jong Episode 803</title>
 		<desc>ATP Tour 250 2024</desc>
 	</programme>
 	<programme channel="6127" start="20241107063000 +0000" stop="20241107070000 +0000">
@@ -4767,28 +4767,28 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<desc>ATP Tour: This Week 2024</desc>
 	</programme>
 	<programme channel="6127" start="20241107070000 +0000" stop="20241107083000 +0000">
-		<title>ATP Tour 250 2024: Belgrade Day 4 Match 3 Episode 824</title>
+		<title>ATP Tour 250 2024: Belgrade Day 4 Marozsan v Lajovic Episode 824</title>
 		<desc>ATP Tour 250 2024</desc>
 	</programme>
 	<programme channel="6127" start="20241107083000 +0000" stop="20241107100000 +0000">
-		<title>ATP Tour 250 2024: Belgrade Day 4 Match 4 Episode 825</title>
+		<title>ATP Tour 250 2024: Belgrade Day 4 Ajdukovic v Djere Episode 825</title>
 		<desc>ATP Tour 250 2024</desc>
 	</programme>
 	<programme channel="6127" start="20241107100000 +0000" stop="20241107113000 +0000">
-		<title>ATP Tour 250 2024: Belgrade QF 1 (Live) Episode 826</title>
+		<title>ATP Tour 250 2024: Belgrade QF 1 Lehecka v Klein (Live) Episode 826</title>
 		<desc>ATP Tour 250 2024</desc>
 	</programme>
 	<programme channel="6127" start="20241107113000 +0000" stop="20241107130000 +0000">
-		<title>ATP Tour 250 2024: Belgrade QF 2 (Live) Episode 827</title>
+		<title>ATP Tour 250 2024: Belgrade QF 2 O'Connell v Shapovalov (Live) Episode 827</title>
 		<desc>ATP Tour 250 2024</desc>
 	</programme>
 	<programme channel="6127" start="20241107130000 +0000" stop="20241107150000 +0000">
-		<title>ATP Tour 250 2024: Metz QF 1 (Live) Episode 804</title>
+		<title>ATP Tour 250 2024: Metz QF 1 Norrie v Bergs (Live) Episode 804</title>
 		<desc>ATP Tour 250 2024</desc>
 	</programme>
 	<programme channel="6127" start="20241107150000 +0000" stop="20241107150000 +0000">
-		<title>ATP Tour 250 2024: Metz QF 2 (Live) Episode 805</title>
-		<desc>ATP Tour 250 2024</desc>
+		<title>ATP Tour 250 2024 [Join in Progress]: Belgrade QF 3 Marozsan v Djere (Live) Episode 828</title>
+		<desc>ATP Tour 250 2024 [Join in Progress]</desc>
 	</programme>
 	<programme channel="6127" start="20241107150000 +0000" stop="20241107170000 +0000">
 		<title>ATP Tour 250 2024 [Join in Progress]: Belgrade QF 3 Marozsan v Djere (Live) Episode 828</title>
@@ -5886,13 +5886,9 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<title>Direct Talk #929</title>
 		<desc>In the era of #metoo, intimacy coordinators play an important role in TV, film, and theater, ensuring actors feel comfortable performing intimate scenes, while helping directors execute their visions.</desc>
 	</programme>
-	<programme channel="5157" start="20241106163000 +0000" stop="20241106165700 +0000">
+	<programme channel="5157" start="20241106163000 +0000" stop="20241106170000 +0000">
 		<title>KABUKI KOOL</title>
 		<desc>Actor Kataoka Ainosuke reveals the wide variety of props used by tachiyaku, the male roles in kabuki. Explore the all-important katana sword, tobacco pipes, footwear and gold coins.</desc>
-	</programme>
-	<programme channel="5157" start="20241106165700 +0000" stop="20241106170000 +0000">
-		<title>Sumopedia</title>
-		<desc>Sumopedia enriches your sumo experience with information on the techniques, traditions and famous wrestlers of the past. The rules may be simple but there is a lot more to sumo than meets the eye.</desc>
 	</programme>
 	<programme channel="5157" start="20241106170000 +0000" stop="20241106171500 +0000">
 		<title>NHK NEWSLINE</title>
@@ -5918,11 +5914,7 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<title>NHK NEWSLINE</title>
 		<desc>NHK WORLD-JAPAN's flagship hourly news program delivers the latest world news, business and weather, with a focus on Japan and the rest of Asia.</desc>
 	</programme>
-	<programme channel="5157" start="20241106181500 +0000" stop="20241106182700 +0000">
-		<title>NEWSLINE IN DEPTH</title>
-		<desc>Introducing a colorful variety of feature stories, including reports on daily life from locations throughout Japan, as well as other parts of Asia and around the world.</desc>
-	</programme>
-	<programme channel="5157" start="20241106182700 +0000" stop="20241106182800 +0000">
+	<programme channel="5157" start="20241106181500 +0000" stop="20241106182800 +0000">
 		<title>NEWSLINE IN DEPTH</title>
 		<desc>Introducing a colorful variety of feature stories, including reports on daily life from locations throughout Japan, as well as other parts of Asia and around the world.</desc>
 	</programme>
@@ -5954,13 +5946,9 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<title>NHK NEWSLINE&lt;NY&gt;</title>
 		<desc>NHK WORLD-JAPAN's flagship hourly news program delivers the latest world news, business and weather, with a focus on Japan and the rest of Asia.</desc>
 	</programme>
-	<programme channel="5157" start="20241106201500 +0000" stop="20241106201800 +0000">
+	<programme channel="5157" start="20241106201500 +0000" stop="20241106203000 +0000">
 		<title>NEWSLINE IN DEPTH</title>
 		<desc>Introducing a colorful variety of feature stories, including reports on daily life from locations throughout Japan, as well as other parts of Asia and around the world.</desc>
-	</programme>
-	<programme channel="5157" start="20241106201800 +0000" stop="20241106203000 +0000">
-		<title>NEWSLINE BIZ</title>
-		<desc>Reporting the latest business, finance and economic news, with added analysis from studio guests.</desc>
 	</programme>
 	<programme channel="5157" start="20241106203000 +0000" stop="20241106210000 +0000">
 		<title>Trails to Oishii Tokyo</title>
@@ -5970,13 +5958,9 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<title>NHK NEWSLINE&lt;NY&gt;</title>
 		<desc>NHK WORLD-JAPAN's flagship hourly news program delivers the latest world news, business and weather, with a focus on Japan and the rest of Asia.</desc>
 	</programme>
-	<programme channel="5157" start="20241106211500 +0000" stop="20241106211800 +0000">
+	<programme channel="5157" start="20241106211500 +0000" stop="20241106213000 +0000">
 		<title>NEWSLINE IN DEPTH</title>
 		<desc>Introducing a colorful variety of feature stories, including reports on daily life from locations throughout Japan, as well as other parts of Asia and around the world.</desc>
-	</programme>
-	<programme channel="5157" start="20241106211800 +0000" stop="20241106213000 +0000">
-		<title>NEWSLINE BIZ</title>
-		<desc>Reporting the latest business, finance and economic news, with added analysis from studio guests.</desc>
 	</programme>
 	<programme channel="5157" start="20241106213000 +0000" stop="20241106220000 +0000">
 		<title>Dive in Tokyo</title>
@@ -5986,13 +5970,9 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<title>NHK NEWSLINE&lt;NY&gt;</title>
 		<desc>NHK WORLD-JAPAN's flagship hourly news program delivers the latest world news, business and weather, with a focus on Japan and the rest of Asia.</desc>
 	</programme>
-	<programme channel="5157" start="20241106221500 +0000" stop="20241106221800 +0000">
+	<programme channel="5157" start="20241106221500 +0000" stop="20241106223000 +0000">
 		<title>NEWSLINE IN DEPTH</title>
 		<desc>Introducing a colorful variety of feature stories, including reports on daily life from locations throughout Japan, as well as other parts of Asia and around the world.</desc>
-	</programme>
-	<programme channel="5157" start="20241106221800 +0000" stop="20241106223000 +0000">
-		<title>NEWSLINE BIZ</title>
-		<desc>Reporting the latest business, finance and economic news, with added analysis from studio guests.</desc>
 	</programme>
 	<programme channel="5157" start="20241106223000 +0000" stop="20241106224500 +0000">
 		<title>EKIBEN JAPAN</title>
@@ -6022,13 +6002,9 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<title>JAPAN FROM ABOVE: UP CLOSE</title>
 		<desc>This program takes you on an aerial journey across 21st century Japan. Enjoy the bird's-eye view of unique landscapes as well as intimate portraits of the people who inhabit the archipelago.</desc>
 	</programme>
-	<programme channel="5157" start="20241106233000 +0000" stop="20241106235700 +0000">
+	<programme channel="5157" start="20241106233000 +0000" stop="20241107000000 +0000">
 		<title>KABUKI KOOL</title>
 		<desc>Actor Kataoka Ainosuke reveals the wide variety of props used by tachiyaku, the male roles in kabuki. Explore the all-important katana sword, tobacco pipes, footwear and gold coins.</desc>
-	</programme>
-	<programme channel="5157" start="20241106235700 +0000" stop="20241107000000 +0000">
-		<title>Sumopedia</title>
-		<desc>Sumopedia enriches your sumo experience with information on the techniques, traditions and famous wrestlers of the past. The rules may be simple but there is a lot more to sumo than meets the eye.</desc>
 	</programme>
 	<programme channel="5157" start="20241107000000 +0000" stop="20241107001500 +0000">
 		<title>NHK NEWSLINE&lt;NY&gt;</title>
@@ -6086,13 +6062,9 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<title>NEWSLINE IN DEPTH</title>
 		<desc>Introducing a colorful variety of feature stories, including reports on daily life from locations throughout Japan, as well as other parts of Asia and around the world.</desc>
 	</programme>
-	<programme channel="5157" start="20241107043000 +0000" stop="20241107045700 +0000">
+	<programme channel="5157" start="20241107043000 +0000" stop="20241107050000 +0000">
 		<title>Lunch On!</title>
 		<desc>An auto repair shop in Yokkaichi, Mie Prefecture serves a rice bowl once a week. Ms. Kuroda, who helped run the company for years with her late husband, started making these meals at the age of 70.</desc>
-	</programme>
-	<programme channel="5157" start="20241107045700 +0000" stop="20241107050000 +0000">
-		<title>Sumopedia</title>
-		<desc>Sumopedia enriches your sumo experience with information on the techniques, traditions and famous wrestlers of the past. The rules may be simple but there is a lot more to sumo than meets the eye.</desc>
 	</programme>
 	<programme channel="5157" start="20241107050000 +0000" stop="20241107051500 +0000">
 		<title>NHK NEWSLINE</title>
@@ -6138,13 +6110,9 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<title>JAPAN FROM ABOVE: UP CLOSE</title>
 		<desc>This program takes you on an aerial journey across 21st century Japan. Enjoy the bird's-eye view of unique landscapes as well as intimate portraits of the people who inhabit the archipelago.</desc>
 	</programme>
-	<programme channel="5157" start="20241107083000 +0000" stop="20241107085700 +0000">
+	<programme channel="5157" start="20241107083000 +0000" stop="20241107090000 +0000">
 		<title>Lunch On!</title>
 		<desc>An auto repair shop in Yokkaichi, Mie Prefecture serves a rice bowl once a week. Ms. Kuroda, who helped run the company for years with her late husband, started making these meals at the age of 70.</desc>
-	</programme>
-	<programme channel="5157" start="20241107085700 +0000" stop="20241107090000 +0000">
-		<title>Sumopedia</title>
-		<desc>Sumopedia enriches your sumo experience with information on the techniques, traditions and famous wrestlers of the past. The rules may be simple but there is a lot more to sumo than meets the eye.</desc>
 	</programme>
 	<programme channel="5157" start="20241107090000 +0000" stop="20241107091400 +0000">
 		<title>NHK NEWSLINE</title>
@@ -23745,11 +23713,11 @@ Tony怎样回馈旅游带给他的所有？西藏</desc>
 		<desc>《鳳凰焦點新聞》：聚焦重大時政議題，重大社會事件和新聞熱點，原創性挖掘更多時事與背景，分析梳理新聞的前因後果，人物命運，呈現權威觀點。</desc>
 	</programme>
 	<programme channel="5555" start="20241106155000 +0000" stop="20241106163500 +0000">
-		<title>电视剧：珠江人家 / Classical Theater</title>
+		<title>电视剧：灵与肉 / Classical Theater</title>
 		<desc>Classical Theater</desc>
 	</programme>
 	<programme channel="5555" start="20241106163500 +0000" stop="20241106172000 +0000">
-		<title>电视剧：珠江人家 / Classical Theater</title>
+		<title>电视剧：灵与肉 / Classical Theater</title>
 		<desc>Classical Theater</desc>
 	</programme>
 	<programme channel="5555" start="20241106172000 +0000" stop="20241106172500 +0000">
@@ -23861,7 +23829,7 @@ Tony怎样回馈旅游带给他的所有？西藏</desc>
 		<desc>Advertisements</desc>
 	</programme>
 	<programme channel="5555" start="20241107050500 +0000" stop="20241107054700 +0000">
-		<title>电视剧：珠江人家 / Classical Theater</title>
+		<title>电视剧：灵与肉 / Classical Theater</title>
 		<desc>Classical Theater</desc>
 	</programme>
 	<programme channel="5555" start="20241107054700 +0000" stop="20241107055200 +0000">
@@ -23869,15 +23837,15 @@ Tony怎样回馈旅游带给他的所有？西藏</desc>
 		<desc>Advertisements</desc>
 	</programme>
 	<programme channel="5555" start="20241107055200 +0000" stop="20241107063400 +0000">
-		<title>电视剧：珠江人家 / Classical Theater</title>
+		<title>电视剧：灵与肉 / Classical Theater</title>
 		<desc>Classical Theater</desc>
 	</programme>
 	<programme channel="5555" start="20241107063400 +0000" stop="20241107071600 +0000">
-		<title>电视剧：珠江人家 / Classical Theater</title>
+		<title>电视剧：灵与肉 / Classical Theater</title>
 		<desc>Classical Theater</desc>
 	</programme>
 	<programme channel="5555" start="20241107071600 +0000" stop="20241107075800 +0000">
-		<title>电视剧：珠江人家 / Classical Theater</title>
+		<title>电视剧：灵与肉 / Classical Theater</title>
 		<desc>Classical Theater</desc>
 	</programme>
 	<programme channel="5555" start="20241107075800 +0000" stop="20241107080300 +0000">
@@ -23885,7 +23853,7 @@ Tony怎样回馈旅游带给他的所有？西藏</desc>
 		<desc>Advertisements</desc>
 	</programme>
 	<programme channel="5555" start="20241107080300 +0000" stop="20241107084500 +0000">
-		<title>电视剧：珠江人家 / Classical Theater</title>
+		<title>电视剧：灵与肉 / Classical Theater</title>
 		<desc>Classical Theater</desc>
 	</programme>
 	<programme channel="5555" start="20241107084500 +0000" stop="20241107091500 +0000">
@@ -23941,11 +23909,11 @@ Tony怎样回馈旅游带给他的所有？西藏</desc>
 		<desc>Advertisements</desc>
 	</programme>
 	<programme channel="5555" start="20241107150500 +0000" stop="20241107155000 +0000">
-		<title>电视剧：珠江人家 / Classical Theater</title>
+		<title>电视剧：灵与肉 / Classical Theater</title>
 		<desc>Classical Theater</desc>
 	</programme>
 	<programme channel="5555" start="20241107155000 +0000" stop="20241107155000 +0000">
-		<title>电视剧：珠江人家 / Classical Theater</title>
+		<title>电视剧：灵与肉 / Classical Theater</title>
 		<desc>Classical Theater</desc>
 	</programme>
 	<programme channel="5555" start="20241107155000 +0000" stop="20241107163500 +0000">
@@ -31241,7 +31209,7 @@ Tony怎样回馈旅游带给他的所有？西藏</desc>
 		<desc>Raj, Pooja and Jhanvi are in a complicated love triangle. Pooja and Jhanvi love Raj. Raj loves Jhanvi but is misunderstood as Pooja's husband by their family. How will the confusion clear off?</desc>
 	</programme>
 	<programme channel="5668" start="20241107095100 +0000" stop="20241107115900 +0000">
-		<title>Section 375</title>
+		<title>SECTION 375</title>
 		<desc>A filmmaker stands trial when a costume assistant on his movie accuses him of rape.</desc>
 	</programme>
 	<programme channel="5668" start="20241107115900 +0000" stop="20241107142400 +0000">
