@@ -4729,7 +4729,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<desc>FEI Western Europe League 2024/25</desc>
 	</programme>
 	<programme channel="6126" start="20241109085000 +0000" stop="20241109095000 +0000">
-		<title>FEI Western Europe League 2024/25: Helsinki, Finland Episode 2</title>
+		<title>FEI Western Europe League 2024/25: Lyon, France Episode 3</title>
 		<desc>FEI Western Europe League 2024/25</desc>
 	</programme>
 	<programme channel="6126" start="20241109095000 +0000" stop="20241109102500 +0000">
@@ -4861,11 +4861,11 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<desc>ATP Tour 500 2024</desc>
 	</programme>
 	<programme channel="6127" start="20241109023000 +0000" stop="20241109040000 +0000">
-		<title>ATP Tour 500 2024: Vienna Final Episode 294</title>
+		<title>ATP Tour 500 2024: Vienna Final Draper v Khachanov Episode 294</title>
 		<desc>ATP Tour 500 2024</desc>
 	</programme>
 	<programme channel="6127" start="20241109040000 +0000" stop="20241109053000 +0000">
-		<title>ATP Tour 1000 2024: Shanghai Final Episode 335</title>
+		<title>ATP Tour 1000 2024: Shanghai Final Sinner v Djokovic Episode 335</title>
 		<desc>ATP Tour 1000 2024</desc>
 	</programme>
 	<programme channel="6127" start="20241109053000 +0000" stop="20241109060000 +0000">
@@ -8478,7 +8478,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 	</programme>
 	<programme channel="6166" start="20241109033000 +0000" stop="20241109040000 +0000">
 		<title>The Media Show</title>
-		<desc>A global, topical weekly show that lifts the hood on the entertainment and news business. The Media Show explores the companies and personalities who command our attention.</desc>
+		<desc>Analysis of Trump's election win and his media strategy, and a new investigation into the finances of the British Royal family.</desc>
 	</programme>
 	<programme channel="6166" start="20241109040000 +0000" stop="20241109043000 +0000">
 		<title>BBC News</title>
@@ -8494,7 +8494,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 	</programme>
 	<programme channel="6166" start="20241109053000 +0000" stop="20241109060000 +0000">
 		<title>Unspun World with John Simpson</title>
-		<desc>Unspun World provides an unvarnished version of the week's major global news stories - reliable, honest and essential viewing with the BBC's world affairs editor John Simpson.</desc>
+		<desc>John Simpson examines how the US presidential campaign has highlighted the deep divisions in the country.</desc>
 	</programme>
 	<programme channel="6166" start="20241109060000 +0000" stop="20241109063000 +0000">
 		<title>BBC News</title>
@@ -8538,7 +8538,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 	</programme>
 	<programme channel="6166" start="20241109113000 +0000" stop="20241109120000 +0000">
 		<title>Unspun World with John Simpson (r)</title>
-		<desc>Unspun World provides an unvarnished version of the week's major global news stories - reliable, honest and essential viewing with the BBC's world affairs editor John Simpson.</desc>
+		<desc>John Simpson examines how the US presidential campaign has highlighted the deep divisions in the country.</desc>
 	</programme>
 	<programme channel="6166" start="20241109120000 +0000" stop="20241109123000 +0000">
 		<title>BBC News</title>
@@ -8562,7 +8562,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 	</programme>
 	<programme channel="6166" start="20241109143000 +0000" stop="20241109150000 +0000">
 		<title>The Media Show (r)</title>
-		<desc>A global, topical weekly show that lifts the hood on the entertainment and news business. The Media Show explores the companies and personalities who command our attention.</desc>
+		<desc>Analysis of Trump's election win and his media strategy, and a new investigation into the finances of the British Royal family.</desc>
 	</programme>
 	<programme channel="6166" start="20241109150000 +0000" stop="20241109153000 +0000">
 		<title>BBC News</title>
@@ -8849,144 +8849,128 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<desc>Matt Miller, Katie Greifeld and Sonali Basak deliver the market-moving news you need to know to get a jump start on the US trading day.</desc>
 	</programme>
 	<programme channel="5171" start="20241108160000 +0000" stop="20241108170000 +0000">
-		<title>Bloomberg Markets: European Close</title>
-		<desc>Analysing the major market moving stories across the day in Europe, hearing from the biggest newsmakers, and showcasing the unrivalled expertise of Bloomberg News.</desc>
+		<title>Bloomberg Technology</title>
+		<desc>The only daily news programme focused exclusively on technology, innovation and the future of business. Hosted by Ed Ludlow from San Francisco and Caroline Hyde in New York.</desc>
 	</programme>
 	<programme channel="5171" start="20241108170000 +0000" stop="20241108180000 +0000">
 		<title>Bloomberg: Balance of Power</title>
 		<desc>Bloomberg: Balance of Power focuses on the politics and policies being shaped by the agenda of President Biden's administration.</desc>
 	</programme>
-	<programme channel="5171" start="20241108180000 +0000" stop="20241108183000 +0000">
-		<title>Bloomberg Real Yield</title>
-		<desc>Focusing on global issues and events that directly affect debt markets. Host Jonathan Ferro discusses stories from the fixed income world with the biggest names in the field.</desc>
+	<programme channel="5171" start="20241108180000 +0000" stop="20241108190000 +0000">
+		<title>Bloomberg: Balance of Power</title>
+		<desc>Bloomberg: Balance of Power focuses on the politics and policies being shaped by the agenda of President Biden's administration.</desc>
 	</programme>
-	<programme channel="5171" start="20241108183000 +0000" stop="20241108190000 +0000">
-		<title>Bloomberg Markets</title>
-		<desc>Bloomberg Markets is focused on bringing you the most important global business and breaking markets news and information as it happens.</desc>
+	<programme channel="5171" start="20241108190000 +0000" stop="20241108200000 +0000">
+		<title>Bloomberg BusinessWeek</title>
+		<desc>Carol Massar and Tim Stenovec bring together the latest news from the world of business and finance by harnessing the power of Bloomberg Businessweek reporters and editors.</desc>
 	</programme>
-	<programme channel="5171" start="20241108190000 +0000" stop="20241108213000 +0000">
-		<title>Bloomberg Markets: The Close</title>
-		<desc>Romaine Bostick, Alix Steel and Scarlet Fu break down the day's top stories and trading action around the close.</desc>
-	</programme>
-	<programme channel="5171" start="20241108213000 +0000" stop="20241108220000 +0000">
-		<title>Bloomberg Markets: What'd You Miss?</title>
-		<desc>Bloomberg TV's flagship markets programme, providing key insights, analysis and context at the market close. It's a highly intelligent look at the markets that misses nothing.</desc>
+	<programme channel="5171" start="20241108200000 +0000" stop="20241108220000 +0000">
+		<title>Bloomberg The Close</title>
+		<desc>Alix Steel, Romaine Bostick and Scarlet Fu own the market-moving breaking news around the closing bell in this must-watch daily program to get an edge on equities, earnings and the economy.</desc>
 	</programme>
 	<programme channel="5171" start="20241108220000 +0000" stop="20241108230000 +0000">
-		<title>Bloomberg Technology</title>
-		<desc>The only daily news programme focused exclusively on technology, innovation and the future of business. Hosted by Ed Ludlow from San Francisco and Caroline Hyde in New York.</desc>
+		<title>Bloomberg: Balance of Power</title>
+		<desc>Bloomberg: Balance of Power focuses on the politics and policies being shaped by the agenda of President Biden's administration.</desc>
 	</programme>
 	<programme channel="5171" start="20241108230000 +0000" stop="20241109000000 +0000">
 		<title>Bloomberg Wall Street Week</title>
-		<desc>David Westin speaks with top names in finance about the week's biggest issues on Wall Street.</desc>
+		<desc>A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York.</desc>
 	</programme>
 	<programme channel="5171" start="20241109000000 +0000" stop="20241109003000 +0000">
-		<title>Leaders with Lacqua</title>
-		<desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
+		<title>Momentum</title>
+		<desc>South Korea is emerging as a pivotal force in reshaping maritime transportation, leading the way to a future with autonomous ships and more eco-friendly propulsion systems.</desc>
 	</programme>
 	<programme channel="5171" start="20241109003000 +0000" stop="20241109010000 +0000">
-		<title>Athlete | Empire: Alex Rodriguez</title>
-		<desc>Former baseball pro Alex Rodriguez quietly built a real estate empire over 20 years. Now, after retiring from baseball, he's accelerating his transformation from former athlete to investor and owner.</desc>
+		<title>The Circuit</title>
+		<desc>Ryan. Kaji. Ryan Kaji is the king of toy videos, and one of YouTube's highest paid social media stars. Emily Chang meets Ryan and his parents in Los Angeles at the set of his new movie.</desc>
 	</programme>
-	<programme channel="5171" start="20241109010000 +0000" stop="20241109013000 +0000">
-		<title>Bloomberg Studio 1.0</title>
-		<desc>Roblox CEO &amp; Co-Founder David Baszucki. Bloomberg talks to David Baszucki about the success of the online gaming platform, Roblox.</desc>
-	</programme>
-	<programme channel="5171" start="20241109013000 +0000" stop="20241109020000 +0000">
-		<title>Leaders with Lacqua</title>
-		<desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
+	<programme channel="5171" start="20241109010000 +0000" stop="20241109020000 +0000">
+		<title>The Deal with Alex Rodriguez and Jason Kelly</title>
+		<desc>Candace Parker. Former WNBA player Candace Parker talks about the explosion of women's basketball, why she teamed up with Adidas and her partnership with Marc Lasry.</desc>
 	</programme>
 	<programme channel="5171" start="20241109020000 +0000" stop="20241109023000 +0000">
 		<title>The David Rubenstein Show</title>
-		<desc>Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
+		<desc>Josh Harris, 26North Founder. Billionaire private equity investor and founder of 26North partners Josh Harris joins David Rubenstein for a special interview.</desc>
 	</programme>
 	<programme channel="5171" start="20241109023000 +0000" stop="20241109030000 +0000">
-		<title>Bloomberg Studio 1.0</title>
-		<desc>Roblox CEO &amp; Co-Founder David Baszucki. Bloomberg talks to David Baszucki about the success of the online gaming platform, Roblox.</desc>
+		<title>Bloomberg Originals</title>
+		<desc>Exploring every angle of climate change, technology, finance, sports and beyond, Bloomberg Originals is business as you've never seen it.</desc>
 	</programme>
 	<programme channel="5171" start="20241109030000 +0000" stop="20241109040000 +0000">
 		<title>Bloomberg Wall Street Week</title>
-		<desc>David Westin speaks with top names in finance about the week's biggest issues on Wall Street.</desc>
+		<desc>A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York.</desc>
 	</programme>
 	<programme channel="5171" start="20241109040000 +0000" stop="20241109043000 +0000">
-		<title>Leaders with Lacqua</title>
-		<desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
+		<title>The Earthshot Prize Innovation Summit 2024</title>
+		<desc>This special Bloomberg program highlights the Best of The Earthshot Prize Innovation Summit 2024's biggest interviews and news makers.</desc>
 	</programme>
 	<programme channel="5171" start="20241109043000 +0000" stop="20241109050000 +0000">
-		<title>Bloomberg Studio 1.0</title>
-		<desc>Roblox CEO &amp; Co-Founder David Baszucki. Bloomberg talks to David Baszucki about the success of the online gaming platform, Roblox.</desc>
+		<title>Power Players</title>
+		<desc>A series of shows focused on the business of sport, diversity in elite competition, and the rise of e-sports.</desc>
 	</programme>
 	<programme channel="5171" start="20241109050000 +0000" stop="20241109053000 +0000">
-		<title>Leaders with Lacqua</title>
-		<desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
+		<title>Power Players</title>
+		<desc>A series of shows focused on the business of sport, diversity in elite competition, and the rise of e-sports.</desc>
 	</programme>
 	<programme channel="5171" start="20241109053000 +0000" stop="20241109060000 +0000">
-		<title>Bloomberg Wealth with David Rubenstein</title>
-		<desc>Renowned financier and philanthropist David Rubenstein talks with the world's most successful investors, who share their investing strategies and tactics.</desc>
+		<title>Leaders with Lacqua</title>
+		<desc>In a rare interview, Chanel CEO Leena Nair speaks about her professional and personal journey, how it defines her leadership style, and her unique approach at the top of luxury.</desc>
 	</programme>
 	<programme channel="5171" start="20241109060000 +0000" stop="20241109063000 +0000">
-		<title>Bloomberg Wealth with David Rubenstein</title>
-		<desc>Renowned financier and philanthropist David Rubenstein talks with the world's most successful investors, who share their investing strategies and tactics.</desc>
+		<title>Power Players</title>
+		<desc>National Women's Soccer League Commissioner Jessica Berman is presiding over a pivotal moment for women's soccer. Can she help turn astronomical growth into a sustained business?</desc>
 	</programme>
 	<programme channel="5171" start="20241109063000 +0000" stop="20241109070000 +0000">
-		<title>Athlete | Empire: Alex Rodriguez</title>
-		<desc>Former baseball pro Alex Rodriguez quietly built a real estate empire over 20 years. Now, after retiring from baseball, he's accelerating his transformation from former athlete to investor and owner.</desc>
+		<title>Best of the Global Business Forum 2024</title>
+		<desc>Discussions focused on aligning governments and businesses around major trends, risks and opportunities impacting global markets.</desc>
 	</programme>
 	<programme channel="5171" start="20241109070000 +0000" stop="20241109073000 +0000">
-		<title>Bloomberg Studio 1.0</title>
-		<desc>Roblox CEO &amp; Co-Founder David Baszucki. Bloomberg talks to David Baszucki about the success of the online gaming platform, Roblox.</desc>
+		<title>Inside Adani: A Bloomberg Exclusive</title>
+		<desc>With unprecedented access to each of the scions and Gautam Adani himself, we see what succession looks like inside one of the wealthiest and most opaque family businesses in the world.</desc>
 	</programme>
 	<programme channel="5171" start="20241109073000 +0000" stop="20241109080000 +0000">
-		<title>Bloomberg Studio 1.0</title>
-		<desc>Roblox CEO &amp; Co-Founder David Baszucki. Bloomberg talks to David Baszucki about the success of the online gaming platform, Roblox.</desc>
+		<title>Bloomberg Screentime: Defining the Next Phase of Pop Culture</title>
+		<desc>Screentime gathers the moguls, celebrities, and entrepreneurs defining the next phase of pop culture, including Michael Rapino, Clara Wu Tsai, Brian Roberts, Bela Bajaria and Snoop Dogg.</desc>
 	</programme>
 	<programme channel="5171" start="20241109080000 +0000" stop="20241109090000 +0000">
 		<title>Bloomberg Wall Street Week</title>
-		<desc>David Westin speaks with top names in finance about the week's biggest issues on Wall Street.</desc>
+		<desc>A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York.</desc>
 	</programme>
 	<programme channel="5171" start="20241109090000 +0000" stop="20241109093000 +0000">
-		<title>Leaders with Lacqua</title>
-		<desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
+		<title>Momentum</title>
+		<desc>South Korea is emerging as a pivotal force in reshaping maritime transportation, leading the way to a future with autonomous ships and more eco-friendly propulsion systems.</desc>
 	</programme>
 	<programme channel="5171" start="20241109093000 +0000" stop="20241109100000 +0000">
-		<title>Bloomberg Studio 1.0</title>
-		<desc>Roblox CEO &amp; Co-Founder David Baszucki. Bloomberg talks to David Baszucki about the success of the online gaming platform, Roblox.</desc>
+		<title>Best of the Global Business Forum 2024</title>
+		<desc>Discussions focused on aligning governments and businesses around major trends, risks and opportunities impacting global markets.</desc>
 	</programme>
-	<programme channel="5171" start="20241109100000 +0000" stop="20241109103000 +0000">
-		<title>Bloomberg Wealth with David Rubenstein</title>
-		<desc>Renowned financier and philanthropist David Rubenstein talks with the world's most successful investors, who share their investing strategies and tactics.</desc>
-	</programme>
-	<programme channel="5171" start="20241109103000 +0000" stop="20241109110000 +0000">
-		<title>Leaders with Lacqua</title>
-		<desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
+	<programme channel="5171" start="20241109100000 +0000" stop="20241109110000 +0000">
+		<title>Idea Generation</title>
+		<desc>Ideas are the global currency of the 21st century. But how do you come up with, execute, and operationalise one? The answers are what separates successful creative influences from everyone else.</desc>
 	</programme>
 	<programme channel="5171" start="20241109110000 +0000" stop="20241109120000 +0000">
 		<title>Bloomberg Wall Street Week</title>
-		<desc>David Westin speaks with top names in finance about the week's biggest issues on Wall Street.</desc>
+		<desc>A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York.</desc>
 	</programme>
-	<programme channel="5171" start="20241109120000 +0000" stop="20241109123000 +0000">
-		<title>Bloomberg Green</title>
-		<desc>Climate change is the defining story of our time. Bloomberg Green brings you the news, science, and data to understand it in full. Hosted by Kailey Leinz.</desc>
-	</programme>
-	<programme channel="5171" start="20241109123000 +0000" stop="20241109130000 +0000">
-		<title>Athlete | Empire: Alex Rodriguez</title>
-		<desc>Former baseball pro Alex Rodriguez quietly built a real estate empire over 20 years. Now, after retiring from baseball, he's accelerating his transformation from former athlete to investor and owner.</desc>
+	<programme channel="5171" start="20241109120000 +0000" stop="20241109130000 +0000">
+		<title>The Deal with Alex Rodriguez and Jason Kelly</title>
+		<desc>Candace Parker. Former WNBA player Candace Parker talks about the explosion of women's basketball, why she teamed up with Adidas and her partnership with Marc Lasry.</desc>
 	</programme>
 	<programme channel="5171" start="20241109130000 +0000" stop="20241109133000 +0000">
-		<title>Leaders with Lacqua</title>
-		<desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
+		<title>Bloomberg Screentime: Defining the Next Phase of Pop Culture</title>
+		<desc>Screentime gathers the moguls, celebrities, and entrepreneurs defining the next phase of pop culture, including Michael Rapino, Clara Wu Tsai, Brian Roberts, Bela Bajaria and Snoop Dogg.</desc>
 	</programme>
 	<programme channel="5171" start="20241109133000 +0000" stop="20241109140000 +0000">
-		<title>Bloomberg Studio 1.0</title>
-		<desc>Roblox CEO &amp; Co-Founder David Baszucki. Bloomberg talks to David Baszucki about the success of the online gaming platform, Roblox.</desc>
+		<title>Bloomberg Originals</title>
+		<desc>Exploring every angle of climate change, technology, finance, sports and beyond, Bloomberg Originals is business as you've never seen it.</desc>
 	</programme>
 	<programme channel="5171" start="20241109140000 +0000" stop="20241109143000 +0000">
 		<title>The David Rubenstein Show</title>
-		<desc>Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
+		<desc>Josh Harris, 26North Founder. Billionaire private equity investor and founder of 26North partners Josh Harris joins David Rubenstein for a special interview.</desc>
 	</programme>
 	<programme channel="5171" start="20241109143000 +0000" stop="20241109150000 +0000">
-		<title>Bloomberg Wealth with David Rubenstein</title>
-		<desc>Renowned financier and philanthropist David Rubenstein talks with the world's most successful investors, who share their investing strategies and tactics.</desc>
+		<title>The Earthshot Prize Innovation Summit 2024</title>
+		<desc>This special Bloomberg program highlights the Best of The Earthshot Prize Innovation Summit 2024's biggest interviews and news makers.</desc>
 	</programme>
 	<programme channel="5173" start="20241107160000 +0000" stop="20241107163000 +0000">
 		<title>Us Money Movers</title>
@@ -26237,16 +26221,16 @@ Christy、Jessica追踪维也纳咖啡文化。置身开业逾150年的传统咖
 		<desc>This game show features three celeb divas of your favourite Sun TV families, with a line-up of small-screen stars competing against each other in weekly face-offs to win the ultimate jackpot.</desc>
 	</programme>
 	<programme channel="5622" start="20241109010000 +0000" stop="20241109020000 +0000">
-		<title>Namma ooru Namma Ooru Than</title>
-		<desc>Special Show</desc>
+		<title>MAMA MANASILAAYO</title>
+		<desc>Mama Manasilaayo</desc>
 	</programme>
 	<programme channel="5622" start="20241109020000 +0000" stop="20241109023000 +0000">
 		<title>News</title>
 		<desc>This news programme chronicles the latest events, developments, inventions, discoveries and happenings around the world.</desc>
 	</programme>
 	<programme channel="5622" start="20241109023000 +0000" stop="20241109030000 +0000">
-		<title>Thirai Minalgal</title>
-		<desc>Enjoy an extensive collection of soul-stirring melodies.</desc>
+		<title>MAMA MANASILAAYO</title>
+		<desc>Mama Manasilaayo</desc>
 	</programme>
 	<programme channel="5622" start="20241109030000 +0000" stop="20241109033000 +0000">
 		<title>MALAR</title>
@@ -26285,16 +26269,16 @@ Christy、Jessica追踪维也纳咖啡文化。置身开业逾150年的传统咖
 		<desc>Unfortunate events force an ambitious Eashwari and a school dropout Azhagar to tie the knot. Can this odd couple turn their marriage into a happily ever after? Will Eashwari realize her IPS dream amidst life's many hardships?</desc>
 	</programme>
 	<programme channel="5622" start="20241109073000 +0000" stop="20241109080000 +0000">
-		<title>Movie -</title>
-		<desc>Watch your favourite movies with all the drama and emotion on Sun TV.</desc>
+		<title>Movie - KUTTIPULI</title>
+		<desc>After losing her husband at a young age, Deivanai protects her son Puli so that he doesn't get embroiled in violence and village politics. Unfortunately, Puli follows his deceased father's footsteps.</desc>
 	</programme>
 	<programme channel="5622" start="20241109080000 +0000" stop="20241109083000 +0000">
 		<title>News</title>
 		<desc>This news programme chronicles the latest events, developments, inventions, discoveries and happenings around the world.</desc>
 	</programme>
 	<programme channel="5622" start="20241109083000 +0000" stop="20241109103000 +0000">
-		<title>Movie Contd -</title>
-		<desc>Watch your favourite movies with all the drama and emotion on Sun TV.</desc>
+		<title>Movie Contd - KUTTIPULI</title>
+		<desc>After losing her husband at a young age, Deivanai protects her son Puli so that he doesn't get embroiled in violence and village politics. Unfortunately, Puli follows his deceased father's footsteps.</desc>
 	</programme>
 	<programme channel="5622" start="20241109103000 +0000" stop="20241109110000 +0000">
 		<title>RAMAYANAM</title>
@@ -28021,7 +28005,7 @@ Christy、Jessica追踪维也纳咖啡文化。置身开业逾150年的传统咖
 		<desc>Sandhya Raagam is a story of sisterhood that explores the relationship between two cousins, Maya and Dhanalakshmi who share a close bond. How they navigate through various challenges and support each other through the joys and sorrows of life forms the crux of the story.</desc>
 	</programme>
 	<programme channel="5632" start="20241108220000 +0000" stop="20241108223000 +0000">
-		<title>KARTHIGAI DHEEPAM Episode 365</title>
+		<title>KARTHIGAI DHEEPAM Episode 657</title>
 		<desc>The story of a dark-skinned woman, who is an extremely talented singer. How she marries man who helps her in becoming a music sensation, surpassing the regular standards of beauty and achieving success based on sheer talent.</desc>
 	</programme>
 	<programme channel="5632" start="20241108223000 +0000" stop="20241108230000 +0000">
@@ -28109,8 +28093,8 @@ Christy、Jessica追踪维也纳咖啡文化。置身开业逾150年的传统咖
 		<desc>Konjam Coffee Konjam Cinema - Comedy and action scenes from your favourite stars' movies.</desc>
 	</programme>
 	<programme channel="5632" start="20241109130000 +0000" stop="20241109133000 +0000">
-		<title>SANDHYA RAAGAM Episode 366</title>
-		<desc>Sandhya Raagam is a story of sisterhood that explores the relationship between two cousins, Maya and Dhanalakshmi who share a close bond. How they navigate through various challenges and support each other through the joys and sorrows of life forms the crux of the story.</desc>
+		<title>KCKC (BISKOTH) Episode 7</title>
+		<desc>Konjam Coffee Konjam Cinema - Comedy and action scenes from your favourite stars' movies.</desc>
 	</programme>
 	<programme channel="5632" start="20241109133000 +0000" stop="20241109150000 +0000">
 		<title>SAREGAMAPA LIL CHAMPS Episode 3</title>
@@ -28688,23 +28672,19 @@ Christy、Jessica追踪维也纳咖啡文化。置身开业逾150年的传统咖
 		<title>Kanmani Rambo Khatija</title>
 		<desc>It follows the romance of Rambo with Kanmani and Khatija.</desc>
 	</programme>
-	<programme channel="5639" start="20241108133000 +0000" stop="20241108133000 +0000">
+	<programme channel="5639" start="20241108133000 +0000" stop="20241108160000 +0000">
 		<title>Grrr</title>
 		<desc>Inspired by true events, story of thrill-seekers who stumble into a wild cat sanctuary.</desc>
 	</programme>
-	<programme channel="5639" start="20241108133000 +0000" stop="20241108163000 +0000">
-		<title>Grrr</title>
-		<desc>Inspired by true events, story of thrill-seekers who stumble into a wild cat sanctuary.</desc>
-	</programme>
-	<programme channel="5639" start="20241108163000 +0000" stop="20241108193000 +0000">
+	<programme channel="5639" start="20241108160000 +0000" stop="20241108190000 +0000">
 		<title>Two Countries</title>
 		<desc>Ullas's life changes when he plans to marry an Indian who is settled in Canada. Release Year: 2015 Awards: 2016 Winner Asianet Comedy Award - Best Film - M. Renjith producer</desc>
 	</programme>
-	<programme channel="5639" start="20241108193000 +0000" stop="20241108220000 +0000">
+	<programme channel="5639" start="20241108190000 +0000" stop="20241108214500 +0000">
 		<title>ABCD</title>
 		<desc>NRIs John and Korah are tricked into going to Kerala. They get into trouble there.</desc>
 	</programme>
-	<programme channel="5639" start="20241108220000 +0000" stop="20241109003000 +0000">
+	<programme channel="5639" start="20241108214500 +0000" stop="20241109003000 +0000">
 		<title>Paradesi</title>
 		<desc>Rasa curses his fate when he finds that his lover Angamma and their child are recruited to work at the same tea estate. Release Year: 2007 Director: P. T. Kunju Muhammed Awards: 2008 Nominee V Shantaram Annual Film Award - Best Film</desc>
 	</programme>
@@ -29838,15 +29818,15 @@ Christy、Jessica追踪维也纳咖啡文化。置身开业逾150年的传统咖
 	</programme>
 	<programme channel="5652" start="20241108160000 +0000" stop="20241108163000 +0000">
 		<title>Megha Barsenge Episode 94</title>
-		<desc>After a groom absconds from his wedding, his bride is left at the mercy of her sentiments of abandonment and to endure a judgemental societal structure.</desc>
+		<desc>While Arjun and Megha try to clear out a misunderstanding, KP misbehaves with Goldie. Consequently, Megha and Arjun hear Goldie scream.</desc>
 	</programme>
 	<programme channel="5652" start="20241108163000 +0000" stop="20241108170000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 53</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Rajesh finds out that Anurag and Meera have rushed Durga to the hospital. In the meantime, Anurag makes a promise to Durga to support her.</desc>
 	</programme>
 	<programme channel="5652" start="20241108170000 +0000" stop="20241108173000 +0000">
 		<title>Mera Balam Thanedaar Episode 223</title>
-		<desc>An amiable girl who believes in supporting the lie if someone benefits for good marries a police officer under unfortunate circumstances.</desc>
+		<desc>Veer and Bulbul manage to capture and expose Ratan and Sampurna. Later, the duo bust out the trafficking network and rescue the girls.</desc>
 	</programme>
 	<programme channel="5652" start="20241108173000 +0000" stop="20241108180000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 501</title>
@@ -29854,11 +29834,11 @@ Christy、Jessica追踪维也纳咖啡文化。置身开业逾150年的传统咖
 	</programme>
 	<programme channel="5652" start="20241108180000 +0000" stop="20241108183000 +0000">
 		<title>Suman Indori Episode 66</title>
-		<desc>Forced by fate to marry a rich, shrewd politician, Suman embraces obstacles adjusting to her new life while dealing with her sister-in-law who seeks to become the head of the household.</desc>
+		<desc>Things escalate promptly when Chandrakant find out the truth about Teerth. Later, an infuriated Chandrakant does the unthinkable.</desc>
 	</programme>
 	<programme channel="5652" start="20241108183000 +0000" stop="20241108190000 +0000">
 		<title>Parineetii Episode 927</title>
-		<desc>Two best friends who support each other through thick and thin face a problem when circumstance causes both of them to get married to the same man.</desc>
+		<desc>Things take an unexpected turn as Kalyani makes a shocking prediction. Consequently, Kalyani senses the impending doom on the Bajwas.</desc>
 	</programme>
 	<programme channel="5652" start="20241108190000 +0000" stop="20241108193000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 501</title>
@@ -29870,27 +29850,27 @@ Christy、Jessica追踪维也纳咖啡文化。置身开业逾150年的传统咖
 	</programme>
 	<programme channel="5652" start="20241108200000 +0000" stop="20241108203000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 53</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Rajesh finds out that Anurag and Meera have rushed Durga to the hospital. In the meantime, Anurag makes a promise to Durga to support her.</desc>
 	</programme>
 	<programme channel="5652" start="20241108203000 +0000" stop="20241108210000 +0000">
 		<title>Mera Balam Thanedaar Episode 223</title>
-		<desc>An amiable girl who believes in supporting the lie if someone benefits for good marries a police officer under unfortunate circumstances.</desc>
+		<desc>Veer and Bulbul manage to capture and expose Ratan and Sampurna. Later, the duo bust out the trafficking network and rescue the girls.</desc>
 	</programme>
 	<programme channel="5652" start="20241108210000 +0000" stop="20241108213000 +0000">
 		<title>Parineetii Episode 927</title>
-		<desc>Two best friends who support each other through thick and thin face a problem when circumstance causes both of them to get married to the same man.</desc>
+		<desc>Things take an unexpected turn as Kalyani makes a shocking prediction. Consequently, Kalyani senses the impending doom on the Bajwas.</desc>
 	</programme>
 	<programme channel="5652" start="20241108213000 +0000" stop="20241108220000 +0000">
 		<title>Megha Barsenge Episode 94</title>
-		<desc>After a groom absconds from his wedding, his bride is left at the mercy of her sentiments of abandonment and to endure a judgemental societal structure.</desc>
+		<desc>While Arjun and Megha try to clear out a misunderstanding, KP misbehaves with Goldie. Consequently, Megha and Arjun hear Goldie scream.</desc>
 	</programme>
 	<programme channel="5652" start="20241108220000 +0000" stop="20241108223000 +0000">
 		<title>Parineetii Episode 926</title>
-		<desc>Two best friends who support each other through thick and thin face a problem when circumstance causes both of them to get married to the same man.</desc>
+		<desc>Rakesh finds himself in a spot of bother when the police begin to chase his car. Later, when Rakesh returns home, he spots his father in his room.</desc>
 	</programme>
 	<programme channel="5652" start="20241108223000 +0000" stop="20241108230000 +0000">
 		<title>Parineetii Episode 927</title>
-		<desc>Two best friends who support each other through thick and thin face a problem when circumstance causes both of them to get married to the same man.</desc>
+		<desc>Things take an unexpected turn as Kalyani makes a shocking prediction. Consequently, Kalyani senses the impending doom on the Bajwas.</desc>
 	</programme>
 	<programme channel="5652" start="20241108230000 +0000" stop="20241108233000 +0000">
 		<title>Megha Barsenge Episode 92</title>
@@ -29902,7 +29882,7 @@ Christy、Jessica追踪维也纳咖啡文化。置身开业逾150年的传统咖
 	</programme>
 	<programme channel="5652" start="20241109000000 +0000" stop="20241109003000 +0000">
 		<title>Megha Barsenge Episode 94</title>
-		<desc>After a groom absconds from his wedding, his bride is left at the mercy of her sentiments of abandonment and to endure a judgemental societal structure.</desc>
+		<desc>While Arjun and Megha try to clear out a misunderstanding, KP misbehaves with Goldie. Consequently, Megha and Arjun hear Goldie scream.</desc>
 	</programme>
 	<programme channel="5652" start="20241109003000 +0000" stop="20241109010000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 499</title>
@@ -29910,7 +29890,7 @@ Christy、Jessica追踪维也纳咖啡文化。置身开业逾150年的传统咖
 	</programme>
 	<programme channel="5652" start="20241109010000 +0000" stop="20241109013000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 500</title>
-		<desc>Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity.</desc>
+		<desc>Goddess Paravati gets the assurance from Lord Shiva about a sensitive topic. In the meantime, Krindasur makes a cunning plan against them.</desc>
 	</programme>
 	<programme channel="5652" start="20241109013000 +0000" stop="20241109020000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 501</title>
@@ -29922,11 +29902,11 @@ Christy、Jessica追踪维也纳咖啡文化。置身开业逾150年的传统咖
 	</programme>
 	<programme channel="5652" start="20241109023000 +0000" stop="20241109030000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 52</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>When Anurag witnesses Durga in a horrible state, he ponders over his past. However, Anurag becomes infuriated as he recalls his memories.</desc>
 	</programme>
 	<programme channel="5652" start="20241109030000 +0000" stop="20241109033000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 53</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Rajesh finds out that Anurag and Meera have rushed Durga to the hospital. In the meantime, Anurag makes a promise to Durga to support her.</desc>
 	</programme>
 	<programme channel="5652" start="20241109033000 +0000" stop="20241109040000 +0000">
 		<title>Desi Beat Episode 35</title>
@@ -29962,7 +29942,7 @@ Christy、Jessica追踪维也纳咖啡文化。置身开业逾150年的传统咖
 	</programme>
 	<programme channel="5652" start="20241109073000 +0000" stop="20241109090000 +0000">
 		<title>Bigg Boss Episode 32</title>
-		<desc>As Bigg Boss delves into the future of the contestants with the cataclysm of technology, the housemates try to conquer 'Time Ka Tandav', and emerge victorious in a locked house in BB's surveillance.</desc>
+		<desc>Kashish Kapoor tries to talk to Digvijay and clear things out with him. Later, Sara loses her temper in the house and starts throwing things at Vivian.</desc>
 	</programme>
 	<programme channel="5652" start="20241109090000 +0000" stop="20241109093000 +0000">
 		<title>Mangal Lakshmi Episode 254</title>
@@ -29970,7 +29950,7 @@ Christy、Jessica追踪维也纳咖啡文化。置身开业逾150年的传统咖
 	</programme>
 	<programme channel="5652" start="20241109093000 +0000" stop="20241109100000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 53</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Rajesh finds out that Anurag and Meera have rushed Durga to the hospital. In the meantime, Anurag makes a promise to Durga to support her.</desc>
 	</programme>
 	<programme channel="5652" start="20241109100000 +0000" stop="20241109103000 +0000">
 		<title>Desi Beat Episode 37</title>
@@ -30001,8 +29981,8 @@ Christy、Jessica追踪维也纳咖啡文化。置身开业逾150年的传统咖
 		<desc>Mangal searches for a perfect husband for her sister, Lakshmi, revealing the enduring strength of sisterhood and the power of destiny over this journey.</desc>
 	</programme>
 	<programme channel="5652" start="20241109133000 +0000" stop="20241109150000 +0000">
-		<title>Bigg Boss Episode 33</title>
-		<desc>As Bigg Boss delves into the future of the contestants with the cataclysm of technology, the housemates try to conquer 'Time Ka Tandav', and emerge victorious in a locked house in BB's surveillance.</desc>
+		<title>Bigg Boss Shukravaar Ka Vaar Episode 33</title>
+		<desc>Host Salman Khan entertains the audience and interacts with the housemates to discuss the various happenings over the week.</desc>
 	</programme>
 	<programme channel="5652" start="20241109150000 +0000" stop="20241109153000 +0000">
 		<title>Desi Beat Episode 37</title>
@@ -31065,11 +31045,11 @@ Christy、Jessica追踪维也纳咖啡文化。置身开业逾150年的传统咖
 		<desc>Entertainement</desc>
 	</programme>
 	<programme channel="5670" start="20241108183000 +0000" stop="20241108213000 +0000">
-		<title>Movie</title>
+		<title>EVVARIKEE CHEPPODU</title>
 		<desc>Entertainement</desc>
 	</programme>
 	<programme channel="5670" start="20241108213000 +0000" stop="20241109003000 +0000">
-		<title>Movie</title>
+		<title>ARJUN</title>
 		<desc>Entertainement</desc>
 	</programme>
 	<programme channel="5670" start="20241109003000 +0000" stop="20241109013000 +0000">
@@ -31077,23 +31057,23 @@ Christy、Jessica追踪维也纳咖啡文化。置身开业逾150年的传统咖
 		<desc>Entertainement</desc>
 	</programme>
 	<programme channel="5670" start="20241109013000 +0000" stop="20241109033000 +0000">
-		<title>Movie</title>
+		<title>SILLY FELLOWS</title>
 		<desc>Entertainement</desc>
 	</programme>
 	<programme channel="5670" start="20241109033000 +0000" stop="20241109053000 +0000">
-		<title>Movie</title>
+		<title>PASALAPURI VEERABABU</title>
 		<desc>Entertainement</desc>
 	</programme>
-	<programme channel="5670" start="20241109053000 +0000" stop="20241109100000 +0000">
-		<title>Movie</title>
+	<programme channel="5670" start="20241109053000 +0000" stop="20241109093000 +0000">
+		<title>POKIRI</title>
 		<desc>Entertainement</desc>
 	</programme>
-	<programme channel="5670" start="20241109100000 +0000" stop="20241109123000 +0000">
-		<title>Movie</title>
+	<programme channel="5670" start="20241109093000 +0000" stop="20241109123000 +0000">
+		<title>BRAHMASTRA</title>
 		<desc>Entertainement</desc>
 	</programme>
 	<programme channel="5670" start="20241109123000 +0000" stop="20241109150000 +0000">
-		<title>Movie</title>
+		<title>KRACK</title>
 		<desc>Entertainement</desc>
 	</programme>
 	<programme channel="5671" start="20241107160000 +0000" stop="20241107170000 +0000">
@@ -31205,15 +31185,15 @@ Christy、Jessica追踪维也纳咖啡文化。置身开业逾150年的传统咖
 		<desc>Movie_INTLO ILLAALU VANTINTLO PRIYURAALU</desc>
 	</programme>
 	<programme channel="5671" start="20241108183000 +0000" stop="20241108203000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie_INTLO ILLAALU VANTINTLO PRIYURAALU</title>
+		<desc>Movie_INTLO ILLAALU VANTINTLO PRIYURAALU</desc>
 	</programme>
 	<programme channel="5671" start="20241108203000 +0000" stop="20241108230000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie_CHANDRAMUKHI</title>
+		<desc>Movie_CHANDRAMUKHI</desc>
 	</programme>
 	<programme channel="5671" start="20241108230000 +0000" stop="20241109010000 +0000">
-		<title>Movie</title>
+		<title>Movie_OKA LAILA KOSAM</title>
 		<desc>Entertainment</desc>
 	</programme>
 	<programme channel="5671" start="20241109010000 +0000" stop="20241109013000 +0000">
@@ -31225,7 +31205,7 @@ Christy、Jessica追踪维也纳咖啡文化。置身开业逾150年的传统咖
 		<desc>AADIVARAM STAR MAA PARIVARAM ® - STAR WARS</desc>
 	</programme>
 	<programme channel="5671" start="20241109033000 +0000" stop="20241109063000 +0000">
-		<title>Movie</title>
+		<title>MOVIE_VIRUPAKSHA</title>
 		<desc>Entertainment</desc>
 	</programme>
 	<programme channel="5671" start="20241109063000 +0000" stop="20241109070000 +0000">
@@ -32432,9 +32412,13 @@ Christy、Jessica追踪维也纳咖啡文化。置身开业逾150年的传统咖
 		<title>Mini Program</title>
 		<desc>Mini Program</desc>
 	</programme>
-	<programme channel="5682" start="20241109014000 +0000" stop="20241109023000 +0000">
+	<programme channel="5682" start="20241109014000 +0000" stop="20241109022800 +0000">
 		<title>NHK Special "Century of Turmoil" Final: The Division of Superpowers, Where is America Heading? (R)</title>
 		<desc>A documentary based on timely subjects famous for its dignity and in-depth reporting.</desc>
+	</programme>
+	<programme channel="5682" start="20241109022800 +0000" stop="20241109023000 +0000">
+		<title>Mini Program</title>
+		<desc>Mini Program</desc>
 	</programme>
 	<programme channel="5682" start="20241109023000 +0000" stop="20241109025000 +0000">
 		<title>Documentary: 20 Minutes</title>
@@ -32472,25 +32456,17 @@ Christy、Jessica追踪维也纳咖啡文化。置身开业逾150年的传统咖
 		<title>Historical Drama "Dear Radiance" Eps. 42 (R)</title>
 		<desc>Michinaga and Emperor Sanjo competes for supremacy at the Imperial Court. Michinaga has his daughter Kiyoko (Kurasawa Anna) become Chugu, but Emperor Sanjo insists he places Sukeko (Asakura Aki) as Empress. To show off his power, Michinaga makes a plan, b</desc>
 	</programme>
-	<programme channel="5682" start="20241109045000 +0000" stop="20241109070000 +0000">
-		<title>PREMIUM SELECTIONS</title>
+	<programme channel="5682" start="20241109045000 +0000" stop="20241109073600 +0000">
+		<title>The 66th NHK Trophy National Ski Jump Tournament</title>
 		<desc>Special programs ranging from entertainment shows to documentaries will be shown.</desc>
 	</programme>
-	<programme channel="5682" start="20241109070000 +0000" stop="20241109073000 +0000">
-		<title>PREMIUM SELECTIONS</title>
-		<desc>Special programs ranging from entertainment shows to documentaries will be shown.</desc>
-	</programme>
-	<programme channel="5682" start="20241109073000 +0000" stop="20241109080000 +0000">
+	<programme channel="5682" start="20241109073600 +0000" stop="20241109080600 +0000">
 		<title>SCIENCE ZERO (R)</title>
 		<desc>A scientific information program which explains the latest research, disasters and accidents from scientific aspects with a virtual set in the studio.</desc>
 	</programme>
-	<programme channel="5682" start="20241109080000 +0000" stop="20241109083000 +0000">
+	<programme channel="5682" start="20241109080600 +0000" stop="20241109083500 +0000">
 		<title>Domo! Show</title>
 		<desc>A family stage show with NHK characters Domo-kun and Nanami-chan interacting with guests and audience.</desc>
-	</programme>
-	<programme channel="5682" start="20241109083000 +0000" stop="20241109083500 +0000">
-		<title>Songs for Everyone (R)</title>
-		<desc>A song program where children can sing along by reading the lyrics on the screen.</desc>
 	</programme>
 	<programme channel="5682" start="20241109083500 +0000" stop="20241109085900 +0000">
 		<title>With Mother</title>
@@ -32500,25 +32476,9 @@ Christy、Jessica追踪维也纳咖啡文化。置身开业逾150年的传统咖
 		<title>1-Minute Anime: Songs for SDGs</title>
 		<desc>Let's learn about SDGs while singing along! A selected goal out of 17 will be introduced in each one-minute song with animation.</desc>
 	</programme>
-	<programme channel="5682" start="20241109090000 +0000" stop="20241109090500 +0000">
-		<title>Ultra Heavy Machinery 5min.</title>
-		<desc>Ultra Heavy Machinery 5min.</desc>
-	</programme>
-	<programme channel="5682" start="20241109090500 +0000" stop="20241109093500 +0000">
-		<title>Local Exquisite Omusubi: Special Collaboration with Drama Serial "Omusubi" (R)</title>
-		<desc>A show introducing a variety of omusubi (rice balls) from different regions of Japan collaborates with the drama serial “Omusubi”! MC Iio Kazuki sneaks into the filming site to find out which rice balls the cast members love most and uncovers the secrets</desc>
-	</programme>
-	<programme channel="5682" start="20241109093500 +0000" stop="20241109094500 +0000">
-		<title>Fun with Japanese (R)</title>
-		<desc>Each episode focuses on a word as a theme, exploring its meaning and history while discovering the charm of Japanese language. The program also features dance performances of quotes from the world's great figures, visits schools to interact with children,</desc>
-	</programme>
-	<programme channel="5682" start="20241109094500 +0000" stop="20241109095600 +0000">
-		<title>Let's Enjoy English and Meets the World (R)</title>
-		<desc>Children search for wonders worldwide and challenge themselves to communicate with foreigners in English through puppet shows, games, animation, and more. Have fun and learn English naturally with a witch, Kyary Pamyu Pamyu!</desc>
-	</programme>
-	<programme channel="5682" start="20241109095600 +0000" stop="20241109100000 +0000">
-		<title>World Weather</title>
-		<desc>Weather information of the different areas around the world.</desc>
+	<programme channel="5682" start="20241109090000 +0000" stop="20241109100000 +0000">
+		<title>Whiz-Kids TV Special</title>
+		<desc>Let's cooperate with TV warriors and take on various missions to revive the symbol tree of “Geoworld,” a mysterious otherworldly realm rich in nature!</desc>
 	</programme>
 	<programme channel="5682" start="20241109100000 +0000" stop="20241109103000 +0000">
 		<title>NHK News 7 (B)</title>
@@ -32566,19 +32526,19 @@ Christy、Jessica追踪维也纳咖啡文化。置身开业逾150年的传统咖
 	</programme>
 	<programme channel="5682" start="20241109140000 +0000" stop="20241109143000 +0000">
 		<title>Venue101</title>
-		<desc>This live entertainment show delivers the latest music performances and information, and also connects with the audience making full use of social media.</desc>
+		<desc>Venue101</desc>
 	</programme>
 	<programme channel="5682" start="20241109143000 +0000" stop="20241109150000 +0000">
 		<title>Local Exquisite Omusubi: Special Collaboration with Drama Serial "Omusubi" (R)</title>
 		<desc>A show introducing a variety of omusubi (rice balls) from different regions of Japan collaborates with the drama serial “Omusubi”! MC Iio Kazuki sneaks into the filming site to find out which rice balls the cast members love most and uncovers the secrets</desc>
 	</programme>
-	<programme channel="5682" start="20241109150000 +0000" stop="20241109152700 +0000">
+	<programme channel="5682" start="20241109150000 +0000" stop="20241109152500 +0000">
 		<title>NHK Regional Showcases: Tokai Domannaka! (R)</title>
 		<desc>NHK Regional Showcases: Tokai Domannaka! (R)</desc>
 	</programme>
-	<programme channel="5682" start="20241109152700 +0000" stop="20241109153000 +0000">
-		<title>Mini Program</title>
-		<desc>Mini Program</desc>
+	<programme channel="5682" start="20241109152500 +0000" stop="20241109153000 +0000">
+		<title>Camera-eyed Japan</title>
+		<desc>Camera-eyed Japan</desc>
 	</programme>
 	<programme channel="5040" start="20241107160000 +0000" stop="20241107161400 +0000">
 		<title>Le journal</title>
