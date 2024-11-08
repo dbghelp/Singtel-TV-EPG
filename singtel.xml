@@ -4564,13 +4564,9 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<title>Closed Episode 408153</title>
 		<desc>Closed</desc>
 	</programme>
-	<programme channel="6126" start="20241107160000 +0000" stop="20241107163000 +0000">
-		<title>Mini Match - Bundesliga 2024/25: Freiburg vs Mainz Episode 80</title>
-		<desc>Mini Match - Bundesliga 2024/25</desc>
-	</programme>
-	<programme channel="6126" start="20241107163000 +0000" stop="20241107170000 +0000">
-		<title>Mini Match - Bundesliga 2024/25: Wolfsburg vs Augsburg Episode 77</title>
-		<desc>Mini Match - Bundesliga 2024/25</desc>
+	<programme channel="6126" start="20241107153000 +0000" stop="20241107170000 +0000">
+		<title>Premier Padel 2024: Dubai P1 Day 3 Match 4 (Live) Episode 667</title>
+		<desc>Premier Padel 2024</desc>
 	</programme>
 	<programme channel="6126" start="20241107170000 +0000" stop="20241107171000 +0000">
 		<title>Bundesliga Goals: Volley Goal Episode 4</title>
@@ -4636,28 +4632,24 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<title>LaLiga 2024/25: Atletico Madrid vs Las Palmas Episode 116</title>
 		<desc>LaLiga 2024/25</desc>
 	</programme>
-	<programme channel="6126" start="20241108081000 +0000" stop="20241108105000 +0000">
+	<programme channel="6126" start="20241108081000 +0000" stop="20241108100000 +0000">
 		<title>LaLiga 2024/25: Athletic Bilbao vs Real Betis Episode 119</title>
 		<desc>LaLiga 2024/25</desc>
 	</programme>
-	<programme channel="6126" start="20241108105000 +0000" stop="20241108110000 +0000">
-		<title>DTM Highlights 2024: Season Review Episode 10</title>
-		<desc>DTM Highlights 2024</desc>
-	</programme>
-	<programme channel="6126" start="20241108110000 +0000" stop="20241108113000 +0000">
+	<programme channel="6126" start="20241108100000 +0000" stop="20241108103000 +0000">
 		<title>Bundesliga Weekly 2024/25: Episode Number 13 Episode 13</title>
 		<desc>Bundesliga Weekly 2024/25</desc>
 	</programme>
-	<programme channel="6126" start="20241108113000 +0000" stop="20241108120000 +0000">
+	<programme channel="6126" start="20241108103000 +0000" stop="20241108110000 +0000">
 		<title>LaLiga Show 2024/25: Matchday 13 Episode 13</title>
 		<desc>LaLiga Show 2024/25</desc>
 	</programme>
-	<programme channel="6126" start="20241108120000 +0000" stop="20241108133000 +0000">
-		<title>Premier Padel 2024: Dubai P1 Day 4 QF Match 1 - Men (Live) Episode 670</title>
+	<programme channel="6126" start="20241108110000 +0000" stop="20241108123000 +0000">
+		<title>Premier Padel 2024: Dubai P1 Day 4 QF Match 1 - Women (Live) Episode 670</title>
 		<desc>Premier Padel 2024</desc>
 	</programme>
-	<programme channel="6126" start="20241108133000 +0000" stop="20241108143000 +0000">
-		<title>Premier Padel 2024: Dubai P1 Day 4 QF Match 2 - Women (Live) Episode 671</title>
+	<programme channel="6126" start="20241108123000 +0000" stop="20241108143000 +0000">
+		<title>Premier Padel 2024: Dubai P1 Day 4 QF Match 2 - Men (Live) Episode 671</title>
 		<desc>Premier Padel 2024</desc>
 	</programme>
 	<programme channel="6126" start="20241108143000 +0000" stop="20241108160000 +0000">
@@ -4760,16 +4752,16 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<title>LaLiga 2024/25: Real Madrid vs Osasuna (Live) Episode 122</title>
 		<desc>LaLiga 2024/25</desc>
 	</programme>
-	<programme channel="6127" start="20241107150000 +0000" stop="20241107170000 +0000">
-		<title>ATP Tour 250 2024 [Join in Progress]: Belgrade QF 3 Marozsan v Djere (Live) Episode 828</title>
-		<desc>ATP Tour 250 2024 [Join in Progress]</desc>
+	<programme channel="6127" start="20241107160000 +0000" stop="20241107170000 +0000">
+		<title>ATP Tour Review Show 2024: Paris Episode 22</title>
+		<desc>ATP Tour Review Show 2024</desc>
 	</programme>
 	<programme channel="6127" start="20241107170000 +0000" stop="20241107190000 +0000">
-		<title>ATP Tour 250 2024: Metz QF 3 (Live) Episode 806</title>
+		<title>ATP Tour 250 2024: Metz QF 3 Halys v Bonzi (Live) Episode 806</title>
 		<desc>ATP Tour 250 2024</desc>
 	</programme>
 	<programme channel="6127" start="20241107190000 +0000" stop="20241107210000 +0000">
-		<title>ATP Tour 250 2024: Metz QF 4 (Live) Episode 807</title>
+		<title>ATP Tour 250 2024: Metz QF 4 Bu v Michelsen (Live) Episode 807</title>
 		<desc>ATP Tour 250 2024</desc>
 	</programme>
 	<programme channel="6127" start="20241107210000 +0000" stop="20241107211500 +0000">
@@ -4789,11 +4781,11 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<desc>ATP Tour 250 2024</desc>
 	</programme>
 	<programme channel="6127" start="20241108003000 +0000" stop="20241108020000 +0000">
-		<title>ATP Tour 250 2024: Belgrade QF 1 Episode 826</title>
+		<title>ATP Tour 250 2024: Belgrade QF 1 Lehecka v Klein Episode 826</title>
 		<desc>ATP Tour 250 2024</desc>
 	</programme>
 	<programme channel="6127" start="20241108020000 +0000" stop="20241108033000 +0000">
-		<title>ATP Tour 250 2024: Belgrade QF 2 Episode 827</title>
+		<title>ATP Tour 250 2024: Belgrade QF 2 O'Connell v Shapovalov Episode 827</title>
 		<desc>ATP Tour 250 2024</desc>
 	</programme>
 	<programme channel="6127" start="20241108033000 +0000" stop="20241108040000 +0000">
@@ -4801,19 +4793,19 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<desc>ATP Tour: This Week 2024</desc>
 	</programme>
 	<programme channel="6127" start="20241108040000 +0000" stop="20241108053000 +0000">
-		<title>ATP Tour 250 2024: Belgrade QF 3 Episode 828</title>
+		<title>ATP Tour 250 2024: Belgrade QF 3 Marozsan v Djere Episode 828</title>
 		<desc>ATP Tour 250 2024</desc>
 	</programme>
 	<programme channel="6127" start="20241108053000 +0000" stop="20241108070000 +0000">
-		<title>ATP Tour 250 2024: Belgrade QF 4 Episode 829</title>
+		<title>ATP Tour 250 2024: Belgrade QF 4 Cerundolo v Medjedovic Episode 829</title>
 		<desc>ATP Tour 250 2024</desc>
 	</programme>
 	<programme channel="6127" start="20241108070000 +0000" stop="20241108083000 +0000">
-		<title>ATP Tour 250 2024: Metz QF 1 Episode 804</title>
+		<title>ATP Tour 250 2024: Metz QF 1 Norrie v Bergs Episode 804</title>
 		<desc>ATP Tour 250 2024</desc>
 	</programme>
 	<programme channel="6127" start="20241108083000 +0000" stop="20241108100000 +0000">
-		<title>ATP Tour 250 2024: Metz QF 2 Episode 805</title>
+		<title>ATP Tour 250 2024: Belgrade QF 1 Lehecka v Klein Episode 826</title>
 		<desc>ATP Tour 250 2024</desc>
 	</programme>
 	<programme channel="6127" start="20241108100000 +0000" stop="20241108103000 +0000">
@@ -4821,11 +4813,11 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<desc>ATP Tour: This Week 2024</desc>
 	</programme>
 	<programme channel="6127" start="20241108103000 +0000" stop="20241108120000 +0000">
-		<title>ATP Tour 250 2024: Metz QF 3 Episode 806</title>
+		<title>ATP Tour 250 2024: Metz QF 3 Halys v Bonzi Episode 806</title>
 		<desc>ATP Tour 250 2024</desc>
 	</programme>
 	<programme channel="6127" start="20241108120000 +0000" stop="20241108133000 +0000">
-		<title>ATP Tour 250 2024: Metz QF 4 Episode 807</title>
+		<title>ATP Tour 250 2024: Metz QF 4 Bu v Michelsen Episode 807</title>
 		<desc>ATP Tour 250 2024</desc>
 	</programme>
 	<programme channel="6127" start="20241108133000 +0000" stop="20241108143000 +0000">
@@ -8230,7 +8222,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 	</programme>
 	<programme channel="6166" start="20241107223000 +0000" stop="20241107230000 +0000">
 		<title>HARDtalk (r)</title>
-		<desc>In-depth interviews with the world's leading politicians, opinion-formers and key figures from culture, business and sport.</desc>
+		<desc>Allan Little speaks to the Trinidadian human rights activist Jason Jones. He is campaigning to legalise consensual sex for homosexuals on his native island.</desc>
 	</programme>
 	<programme channel="6166" start="20241107230000 +0000" stop="20241107233000 +0000">
 		<title>BBC World News America</title>
@@ -8246,7 +8238,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 	</programme>
 	<programme channel="6166" start="20241108003000 +0000" stop="20241108010000 +0000">
 		<title>HARDtalk (r)</title>
-		<desc>In-depth interviews with the world's leading politicians, opinion-formers and key figures from culture, business and sport.</desc>
+		<desc>Allan Little speaks to the Trinidadian human rights activist Jason Jones. He is campaigning to legalise consensual sex for homosexuals on his native island.</desc>
 	</programme>
 	<programme channel="6166" start="20241108010000 +0000" stop="20241108013000 +0000">
 		<title>BBC News</title>
@@ -8342,7 +8334,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 	</programme>
 	<programme channel="6166" start="20241108103000 +0000" stop="20241108110000 +0000">
 		<title>HARDtalk (r)</title>
-		<desc>In-depth interviews with the world's leading politicians, opinion-formers and key figures from culture, business and sport.</desc>
+		<desc>Allan Little speaks to the Trinidadian human rights activist Jason Jones. He is campaigning to legalise consensual sex for homosexuals on his native island.</desc>
 	</programme>
 	<programme channel="6166" start="20241108110000 +0000" stop="20241108113000 +0000">
 		<title>BBC News</title>
@@ -28680,19 +28672,19 @@ Christy、Jessica追踪维也纳咖啡文化。置身开业逾150年的传统咖
 		<title>Chirikkum Thalika</title>
 		<desc>A compilation of some of the best comedy scenes from Malayalam movies.</desc>
 	</programme>
-	<programme channel="5639" start="20241108013000 +0000" stop="20241108043000 +0000">
+	<programme channel="5639" start="20241108013000 +0000" stop="20241108042500 +0000">
 		<title>Ee Parakkumthalika</title>
 		<desc>Unni and Sundaresan ply a bus service, Things take a turn when a woman enters.</desc>
 	</programme>
-	<programme channel="5639" start="20241108043000 +0000" stop="20241108073000 +0000">
+	<programme channel="5639" start="20241108042500 +0000" stop="20241108073000 +0000">
 		<title>Naran</title>
 		<desc>Velayudhan is loved by all. Gopinathan tries to trap him in to rule the village? Release Year: 2005 Director: Joshiy</desc>
 	</programme>
-	<programme channel="5639" start="20241108073000 +0000" stop="20241108103000 +0000">
+	<programme channel="5639" start="20241108073000 +0000" stop="20241108101500 +0000">
 		<title>Malikappuram</title>
 		<desc>An intense desire of Kallu an 8 year old girl from Panchalimedu village to visit Sabarimala.</desc>
 	</programme>
-	<programme channel="5639" start="20241108103000 +0000" stop="20241108133000 +0000">
+	<programme channel="5639" start="20241108101500 +0000" stop="20241108133000 +0000">
 		<title>Kanmani Rambo Khatija</title>
 		<desc>It follows the romance of Rambo with Kanmani and Khatija.</desc>
 	</programme>
@@ -29686,99 +29678,99 @@ Christy、Jessica追踪维也纳咖啡文化。置身开业逾150年的传统咖
 	</programme>
 	<programme channel="5652" start="20241107153000 +0000" stop="20241107163000 +0000">
 		<title>Mahasangam Suman Indori /Megha Bar</title>
-		<desc>This is TV Show - Drama Category</desc>
+		<desc>Suman faces obstacles after marrying a rich and shrewd politician; a groom absconds from his wedding, leaving his bride abandoned to a judgmental society.</desc>
 	</programme>
 	<programme channel="5652" start="20241107163000 +0000" stop="20241107170000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 52</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>When Anurag witnesses Durga in a horrible state, he ponders over his past. However, Anurag becomes infuriated as he recalls his memories.</desc>
 	</programme>
 	<programme channel="5652" start="20241107170000 +0000" stop="20241107173000 +0000">
 		<title>Mera Balam Thanedaar Episode 222</title>
-		<desc>An amiable girl who believes in supporting the lie if someone benefits for good marries a police officer under unfortunate circumstances.</desc>
+		<desc>While Veer tries to distract Sampurna, Bulbul tries to hide in the trunk. Drishti, on the other hand, remains clueless about the impending doom.</desc>
 	</programme>
 	<programme channel="5652" start="20241107173000 +0000" stop="20241107180000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 500</title>
-		<desc>Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity.</desc>
+		<desc>Goddess Paravati gets the assurance from Lord Shiva about a sensitive topic. In the meantime, Krindasur makes a cunning plan against them.</desc>
 	</programme>
 	<programme channel="5652" start="20241107180000 +0000" stop="20241107183000 +0000">
 		<title>Parineetii Episode 926</title>
-		<desc>Two best friends who support each other through thick and thin face a problem when circumstance causes both of them to get married to the same man.</desc>
+		<desc>Rakesh finds himself in a spot of bother when the police begin to chase his car. Later, when Rakesh returns home, he spots his father in his room.</desc>
 	</programme>
 	<programme channel="5652" start="20241107183000 +0000" stop="20241107190000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 500</title>
-		<desc>Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity.</desc>
+		<desc>Goddess Paravati gets the assurance from Lord Shiva about a sensitive topic. In the meantime, Krindasur makes a cunning plan against them.</desc>
 	</programme>
 	<programme channel="5652" start="20241107190000 +0000" stop="20241107193000 +0000">
 		<title>Mangal Lakshmi Episode 253</title>
-		<desc>Mangal searches for a perfect husband for her sister, Lakshmi, revealing the enduring strength of sisterhood and the power of destiny over this journey.</desc>
+		<desc>Jiya is taken aback when Kartik informs her that he will not be a part of the project. Later, Jiya warns Kartik about the consequences of his decision.</desc>
 	</programme>
 	<programme channel="5652" start="20241107193000 +0000" stop="20241107200000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 52</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>When Anurag witnesses Durga in a horrible state, he ponders over his past. However, Anurag becomes infuriated as he recalls his memories.</desc>
 	</programme>
 	<programme channel="5652" start="20241107200000 +0000" stop="20241107203000 +0000">
 		<title>Mera Balam Thanedaar Episode 222</title>
-		<desc>An amiable girl who believes in supporting the lie if someone benefits for good marries a police officer under unfortunate circumstances.</desc>
+		<desc>While Veer tries to distract Sampurna, Bulbul tries to hide in the trunk. Drishti, on the other hand, remains clueless about the impending doom.</desc>
 	</programme>
 	<programme channel="5652" start="20241107203000 +0000" stop="20241107210000 +0000">
 		<title>Parineetii Episode 926</title>
-		<desc>Two best friends who support each other through thick and thin face a problem when circumstance causes both of them to get married to the same man.</desc>
+		<desc>Rakesh finds himself in a spot of bother when the police begin to chase his car. Later, when Rakesh returns home, he spots his father in his room.</desc>
 	</programme>
 	<programme channel="5652" start="20241107210000 +0000" stop="20241107220000 +0000">
 		<title>Mahasangam Suman Indori /Megha Bar</title>
-		<desc>This is TV Show - Drama Category</desc>
+		<desc>Suman faces obstacles after marrying a rich and shrewd politician; a groom absconds from his wedding, leaving his bride abandoned to a judgmental society.</desc>
 	</programme>
 	<programme channel="5652" start="20241107220000 +0000" stop="20241107223000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 500</title>
-		<desc>Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity.</desc>
+		<desc>Goddess Paravati gets the assurance from Lord Shiva about a sensitive topic. In the meantime, Krindasur makes a cunning plan against them.</desc>
 	</programme>
 	<programme channel="5652" start="20241107223000 +0000" stop="20241107233000 +0000">
 		<title>Mahasangam Suman Indori /Megha Bar</title>
-		<desc>This is TV Show - Drama Category</desc>
+		<desc>Suman faces obstacles after marrying a rich and shrewd politician; a groom absconds from his wedding, leaving his bride abandoned to a judgmental society.</desc>
 	</programme>
 	<programme channel="5652" start="20241107233000 +0000" stop="20241108000000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 52</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>When Anurag witnesses Durga in a horrible state, he ponders over his past. However, Anurag becomes infuriated as he recalls his memories.</desc>
 	</programme>
 	<programme channel="5652" start="20241108000000 +0000" stop="20241108003000 +0000">
 		<title>Mera Balam Thanedaar Episode 222</title>
-		<desc>An amiable girl who believes in supporting the lie if someone benefits for good marries a police officer under unfortunate circumstances.</desc>
+		<desc>While Veer tries to distract Sampurna, Bulbul tries to hide in the trunk. Drishti, on the other hand, remains clueless about the impending doom.</desc>
 	</programme>
 	<programme channel="5652" start="20241108003000 +0000" stop="20241108010000 +0000">
 		<title>Mangal Lakshmi Episode 253</title>
-		<desc>Mangal searches for a perfect husband for her sister, Lakshmi, revealing the enduring strength of sisterhood and the power of destiny over this journey.</desc>
+		<desc>Jiya is taken aback when Kartik informs her that he will not be a part of the project. Later, Jiya warns Kartik about the consequences of his decision.</desc>
 	</programme>
 	<programme channel="5652" start="20241108010000 +0000" stop="20241108020000 +0000">
 		<title>Mahasangam Suman Indori /Megha Bar</title>
-		<desc>This is TV Show - Drama Category</desc>
+		<desc>Suman faces obstacles after marrying a rich and shrewd politician; a groom absconds from his wedding, leaving his bride abandoned to a judgmental society.</desc>
 	</programme>
 	<programme channel="5652" start="20241108020000 +0000" stop="20241108023000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 52</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>When Anurag witnesses Durga in a horrible state, he ponders over his past. However, Anurag becomes infuriated as he recalls his memories.</desc>
 	</programme>
 	<programme channel="5652" start="20241108023000 +0000" stop="20241108030000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 500</title>
-		<desc>Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity.</desc>
+		<desc>Goddess Paravati gets the assurance from Lord Shiva about a sensitive topic. In the meantime, Krindasur makes a cunning plan against them.</desc>
 	</programme>
 	<programme channel="5652" start="20241108030000 +0000" stop="20241108040000 +0000">
 		<title>Mahasangam Suman Indori /Megha Bar</title>
-		<desc>This is TV Show - Drama Category</desc>
+		<desc>Suman faces obstacles after marrying a rich and shrewd politician; a groom absconds from his wedding, leaving his bride abandoned to a judgmental society.</desc>
 	</programme>
 	<programme channel="5652" start="20241108040000 +0000" stop="20241108043000 +0000">
 		<title>Mera Balam Thanedaar Episode 223</title>
-		<desc>An amiable girl who believes in supporting the lie if someone benefits for good marries a police officer under unfortunate circumstances.</desc>
+		<desc>Veer and Bulbul manage to capture and expose Ratan and Sampurna. Later, the duo bust out the trafficking network and rescue the girls.</desc>
 	</programme>
 	<programme channel="5652" start="20241108043000 +0000" stop="20241108050000 +0000">
 		<title>Suman Indori Episode 66</title>
-		<desc>Forced by fate to marry a rich, shrewd politician, Suman embraces obstacles adjusting to her new life while dealing with her sister-in-law who seeks to become the head of the household.</desc>
+		<desc>Things escalate promptly when Chandrakant find out the truth about Teerth. Later, an infuriated Chandrakant does the unthinkable.</desc>
 	</programme>
 	<programme channel="5652" start="20241108050000 +0000" stop="20241108053000 +0000">
 		<title>Megha Barsenge Episode 94</title>
-		<desc>After a groom absconds from his wedding, his bride is left at the mercy of her sentiments of abandonment and to endure a judgemental societal structure.</desc>
+		<desc>While Arjun and Megha try to clear out a misunderstanding, KP misbehaves with Goldie. Consequently, Megha and Arjun hear Goldie scream.</desc>
 	</programme>
 	<programme channel="5652" start="20241108053000 +0000" stop="20241108060000 +0000">
 		<title>Parineetii Episode 927</title>
-		<desc>Two best friends who support each other through thick and thin face a problem when circumstance causes both of them to get married to the same man.</desc>
+		<desc>Things take an unexpected turn as Kalyani makes a shocking prediction. Consequently, Kalyani senses the impending doom on the Bajwas.</desc>
 	</programme>
 	<programme channel="5652" start="20241108060000 +0000" stop="20241108063000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 501</title>
@@ -29786,7 +29778,7 @@ Christy、Jessica追踪维也纳咖啡文化。置身开业逾150年的传统咖
 	</programme>
 	<programme channel="5652" start="20241108063000 +0000" stop="20241108070000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 53</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Rajesh finds out that Anurag and Meera have rushed Durga to the hospital. In the meantime, Anurag makes a promise to Durga to support her.</desc>
 	</programme>
 	<programme channel="5652" start="20241108070000 +0000" stop="20241108073000 +0000">
 		<title>Mangal Lakshmi Episode 254</title>
@@ -29794,31 +29786,31 @@ Christy、Jessica追踪维也纳咖啡文化。置身开业逾150年的传统咖
 	</programme>
 	<programme channel="5652" start="20241108073000 +0000" stop="20241108090000 +0000">
 		<title>Bigg Boss Episode 31</title>
-		<desc>As Bigg Boss delves into the future of the contestants with the cataclysm of technology, the housemates try to conquer 'Time Ka Tandav', and emerge victorious in a locked house in BB's surveillance.</desc>
+		<desc>The housemates get divided into two teams to choose a new Time God of the house. Later, Sara loses her cool during the task.</desc>
 	</programme>
 	<programme channel="5652" start="20241108090000 +0000" stop="20241108093000 +0000">
 		<title>Mangal Lakshmi Episode 253</title>
-		<desc>Mangal searches for a perfect husband for her sister, Lakshmi, revealing the enduring strength of sisterhood and the power of destiny over this journey.</desc>
+		<desc>Jiya is taken aback when Kartik informs her that he will not be a part of the project. Later, Jiya warns Kartik about the consequences of his decision.</desc>
 	</programme>
 	<programme channel="5652" start="20241108093000 +0000" stop="20241108100000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 52</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>When Anurag witnesses Durga in a horrible state, he ponders over his past. However, Anurag becomes infuriated as he recalls his memories.</desc>
 	</programme>
 	<programme channel="5652" start="20241108100000 +0000" stop="20241108103000 +0000">
 		<title>Mera Balam Thanedaar Episode 223</title>
-		<desc>An amiable girl who believes in supporting the lie if someone benefits for good marries a police officer under unfortunate circumstances.</desc>
+		<desc>Veer and Bulbul manage to capture and expose Ratan and Sampurna. Later, the duo bust out the trafficking network and rescue the girls.</desc>
 	</programme>
 	<programme channel="5652" start="20241108103000 +0000" stop="20241108110000 +0000">
 		<title>Suman Indori Episode 66</title>
-		<desc>Forced by fate to marry a rich, shrewd politician, Suman embraces obstacles adjusting to her new life while dealing with her sister-in-law who seeks to become the head of the household.</desc>
+		<desc>Things escalate promptly when Chandrakant find out the truth about Teerth. Later, an infuriated Chandrakant does the unthinkable.</desc>
 	</programme>
 	<programme channel="5652" start="20241108110000 +0000" stop="20241108113000 +0000">
 		<title>Megha Barsenge Episode 94</title>
-		<desc>After a groom absconds from his wedding, his bride is left at the mercy of her sentiments of abandonment and to endure a judgemental societal structure.</desc>
+		<desc>While Arjun and Megha try to clear out a misunderstanding, KP misbehaves with Goldie. Consequently, Megha and Arjun hear Goldie scream.</desc>
 	</programme>
 	<programme channel="5652" start="20241108113000 +0000" stop="20241108120000 +0000">
 		<title>Parineetii Episode 927</title>
-		<desc>Two best friends who support each other through thick and thin face a problem when circumstance causes both of them to get married to the same man.</desc>
+		<desc>Things take an unexpected turn as Kalyani makes a shocking prediction. Consequently, Kalyani senses the impending doom on the Bajwas.</desc>
 	</programme>
 	<programme channel="5652" start="20241108120000 +0000" stop="20241108123000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 501</title>
@@ -29826,7 +29818,7 @@ Christy、Jessica追踪维也纳咖啡文化。置身开业逾150年的传统咖
 	</programme>
 	<programme channel="5652" start="20241108123000 +0000" stop="20241108130000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 53</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Rajesh finds out that Anurag and Meera have rushed Durga to the hospital. In the meantime, Anurag makes a promise to Durga to support her.</desc>
 	</programme>
 	<programme channel="5652" start="20241108130000 +0000" stop="20241108133000 +0000">
 		<title>Mangal Lakshmi Episode 254</title>
@@ -29834,15 +29826,15 @@ Christy、Jessica追踪维也纳咖啡文化。置身开业逾150年的传统咖
 	</programme>
 	<programme channel="5652" start="20241108133000 +0000" stop="20241108150000 +0000">
 		<title>Bigg Boss Episode 32</title>
-		<desc>As Bigg Boss delves into the future of the contestants with the cataclysm of technology, the housemates try to conquer 'Time Ka Tandav', and emerge victorious in a locked house in BB's surveillance.</desc>
+		<desc>Kashish Kapoor tries to talk to Digvijay and clear things out with him. Later, Sara loses her temper in the house and starts throwing things at Vivian.</desc>
 	</programme>
 	<programme channel="5652" start="20241108150000 +0000" stop="20241108153000 +0000">
 		<title>Mera Balam Thanedaar Episode 223</title>
-		<desc>An amiable girl who believes in supporting the lie if someone benefits for good marries a police officer under unfortunate circumstances.</desc>
+		<desc>Veer and Bulbul manage to capture and expose Ratan and Sampurna. Later, the duo bust out the trafficking network and rescue the girls.</desc>
 	</programme>
 	<programme channel="5652" start="20241108153000 +0000" stop="20241108160000 +0000">
 		<title>Suman Indori Episode 66</title>
-		<desc>Forced by fate to marry a rich, shrewd politician, Suman embraces obstacles adjusting to her new life while dealing with her sister-in-law who seeks to become the head of the household.</desc>
+		<desc>Things escalate promptly when Chandrakant find out the truth about Teerth. Later, an infuriated Chandrakant does the unthinkable.</desc>
 	</programme>
 	<programme channel="5652" start="20241108160000 +0000" stop="20241108163000 +0000">
 		<title>Megha Barsenge Episode 94</title>
@@ -30969,7 +30961,7 @@ Christy、Jessica追踪维也纳咖啡文化。置身开业逾150年的传统咖
 		<desc>A man and a woman, engaged to marry different people, spend a couple of hours chatting together at a train station only to fall for each other.</desc>
 	</programme>
 	<programme channel="5668" start="20241108044300 +0000" stop="20241108065100 +0000">
-		<title>GULABO SITABO</title>
+		<title>Gulabo Sitabo</title>
 		<desc>Two scheming men get caught up in a game of one-up-manship, each one attracting other members to their clan and each one with an agenda of his own.</desc>
 	</programme>
 	<programme channel="5668" start="20241108065100 +0000" stop="20241108092200 +0000">
@@ -32093,8 +32085,8 @@ Christy、Jessica追踪维也纳咖啡文化。置身开业逾150年的传统咖
 		<desc>This children's program includes a puppet show, cartoon, music, and gymnastics in which children can participate.</desc>
 	</programme>
 	<programme channel="5682" start="20241107183500 +0000" stop="20241107192000 +0000">
-		<title>The "Instruction Manual" Show (R)</title>
-		<desc>A unique theater show in which the showman chooses one item of the world and presents how to use or operate it with some surprising facts and useful tips that might 'update' your life.</desc>
+		<title>World Guide of Health Rumors (R)</title>
+		<desc>Featuring distinguished programs ranging from entertainment shows to documentaries.</desc>
 	</programme>
 	<programme channel="5682" start="20241107192000 +0000" stop="20241107192500 +0000">
 		<title>Hello! NHK WORLD-JAPAN (R)</title>
@@ -32118,7 +32110,7 @@ Christy、Jessica追踪维也纳咖啡文化。置身开业逾150年的传统咖
 	</programme>
 	<programme channel="5682" start="20241107201500 +0000" stop="20241107210000 +0000">
 		<title>History Detective (R)</title>
-		<desc>History Detective (R)</desc>
+		<desc>A historical documentary program starring an actor Sato Jiro as a boss of a history detective agency. Conducting on-site investigations and scientific simulations, Jiro and his detective team dig into and uncover the truth from historic mystery.</desc>
 	</programme>
 	<programme channel="5682" start="20241107210000 +0000" stop="20241107220000 +0000">
 		<title>News: Good Morning, Japan</title>
@@ -32181,7 +32173,7 @@ Christy、Jessica追踪维也纳咖啡文化。置身开业逾150年的传统咖
 		<desc>A video collection of heartwarming and rarely seen moments captured by zoo staff.</desc>
 	</programme>
 	<programme channel="5682" start="20241108033000 +0000" stop="20241108034500 +0000">
-		<title>Drama Serial "Churasan" Encore Eps. 155</title>
+		<title>Drama Serial "Churasan" Encore Eps. 154</title>
 		<desc>Eri (Kuninaka Ryoko), from Kohama island, Okinawa, moves to Tokyo to become a nurse while cherishing a childhood promise of marriage with Fumiya (Kohashi Kenji). After reuniting with Fumiya, who is now a doctor, they get married and return to their hometo</desc>
 	</programme>
 	<programme channel="5682" start="20241108034500 +0000" stop="20241108040000 +0000">
