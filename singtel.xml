@@ -716,23 +716,23 @@
 		<title>Sunny Side Up Episode 478</title>
 		<desc>Ibrahim tries to make amends to the Kakis by agreeing to do anything and everything that is asked of him. Hafiq wants to share his newfound wealth with his parents but is disheartened by their reaction.</desc>
 	</programme>
-	<programme channel="5002" start="20241112130000 +0000" stop="20241112133000 +0000">
-		<title>News Tonight Episode 226</title>
+	<programme channel="5002" start="20241112130000 +0000" stop="20241112134500 +0000">
+		<title>News Tonight With Highlights From Parliament Episode 226</title>
 		<desc>The daily evening-news programme featuring highlights and coverage of both local and international news with a local perspective.</desc>
 	</programme>
-	<programme channel="5002" start="20241112133000 +0000" stop="20241112140000 +0000">
+	<programme channel="5002" start="20241112134500 +0000" stop="20241112141500 +0000">
 		<title>Renovaid S11 Episode 5</title>
 		<desc>Three-senior citizens hope to age-in-place in their shared family home. However, the home has fallen into disrepair and is infested with cockroaches. Mdm Selmah's severe hunchback and mobility issues make it challenging for her to maintain the home for her husband and sister.</desc>
 	</programme>
-	<programme channel="5002" start="20241112140000 +0000" stop="20241112141500 +0000">
+	<programme channel="5002" start="20241112141500 +0000" stop="20241112143000 +0000">
 		<title>Siti Vampire Episode 5</title>
 		<desc>When she's inexplicably "turned" into a vampire, Siti must find a way to reverse the curse or remain twenty-five forever...complete with that five-pimple breakout on her face!</desc>
 	</programme>
-	<programme channel="5002" start="20241112141500 +0000" stop="20241112151000 +0000">
+	<programme channel="5002" start="20241112143000 +0000" stop="20241112151500 +0000">
 		<title>So Help Me Todd S1 Episode 21</title>
 		<desc>When Margaret is too sick to work on the final day of an important negotiation, Todd must step in and impersonate a lawyer while Margaret uses her investigative skills; Margaret and Gus share their first kiss.</desc>
 	</programme>
-	<programme channel="5002" start="20241112151000 +0000" stop="20241112160000 +0000">
+	<programme channel="5002" start="20241112151500 +0000" stop="20241112160000 +0000">
 		<title>The Librarians S2 Episode 5</title>
 		<desc>While chasing one of the Library's missing artifacts, Flynn is kidnapped by a mysterious stranger with both amnesia and a collection of all the Library's missing artifacts. Soon all of them are in pursuit of the Staff of Zarathustra before it falls into the hands of Prospero.</desc>
 	</programme>
@@ -748,17 +748,13 @@
 		<title>America's Got Talent S18 Episode 17</title>
 		<desc>With an astronomical number of loyal fans eager to find out what's in store, judges Simon Cowell, Howie Mandel, Heidi Klum and Sofia Vergara - and host Terry Crews - are back with more diverse talent and show-stopping moments than ever before. With contestants of all backgrounds and ages competing for the life-changing, million dollar prize, we follow the hopeful performers, from singers and dancers to comedians, magicians and more, on their incredible journeys.</desc>
 	</programme>
-	<programme channel="5002" start="20241112180500 +0000" stop="20241112185500 +0000">
+	<programme channel="5002" start="20241112180500 +0000" stop="20241112191500 +0000">
 		<title>MasterChef UK Celebrity S18 Episode 17</title>
 		<desc>This programme features UK celebrities who will compete against each other to win the coveted cookery competition title.</desc>
 	</programme>
-	<programme channel="5002" start="20241112185500 +0000" stop="20241112200500 +0000">
+	<programme channel="5002" start="20241112191500 +0000" stop="20241112203500 +0000">
 		<title>Masterchef Australia S11 Episode 60</title>
 		<desc>Top Australian chefs judge passionate home cooks who participate in competitive culinary challenges to develop their cooking skills and win the title of the best chef. Gary Mehigan, George Calombaris and Matt Preston served as judges.</desc>
-	</programme>
-	<programme channel="5002" start="20241112200500 +0000" stop="20241112203500 +0000">
-		<title>Arts 21 Episode 371</title>
-		<desc>ARTS 21 is an arts magazine show focusing on the latest news and events on the culture scene.</desc>
 	</programme>
 	<programme channel="5002" start="20241112203500 +0000" stop="20241112210000 +0000">
 		<title>Wheel Of Fortune S41 Episode 7866</title>
@@ -785,7 +781,7 @@
 		<desc>Kai, Lola, Rammy and Bobbi are four heroic young deer that protect the animals who live in Central Forest and the people living in Platinum City.</desc>
 	</programme>
 	<programme channel="5002" start="20241112233000 +0000" stop="20241112234500 +0000">
-		<title>Little Angel Episode 153</title>
+		<title>Little Angel Episode 177</title>
 		<desc>Come on in and enjoy your favorite nursery rhymes from Baby John and JJ.</desc>
 	</programme>
 	<programme channel="5002" start="20241112234500 +0000" stop="20241113000000 +0000">
@@ -1064,43 +1060,47 @@
 		<title>巨舞霸 Episode 5</title>
 		<desc>(PG-部分画面令人不安) 来自Why Dance 舞蹈社的四位学员Bree、Izzy、Nana和Kira，因她们发布的舞蹈视频在网络疯传，决定组成本地首个plus-sized 舞蹈组合Team BB。随着组合的成功，她们的过去也被挖出，不只要应对外在的压力和个人的问题，四人的友情也面临考验……</desc>
 	</programme>
-	<programme channel="5003" start="20241112140000 +0000" stop="20241112143000 +0000">
-		<title>晚间新闻 Episode 226</title>
+	<programme channel="5003" start="20241112140000 +0000" stop="20241112144500 +0000">
+		<title>晚间新闻包括国会摘要 Episode 226</title>
 		<desc>《晚间新闻》每日为您提供最全面的本地与全球新闻报道。</desc>
 	</programme>
-	<programme channel="5003" start="20241112143000 +0000" stop="20241112150000 +0000">
+	<programme channel="5003" start="20241112144500 +0000" stop="20241112151500 +0000">
 		<title>健康123 S7</title>
 		<desc>(PG) 本季依然有主持人萧慧敏坐镇，节目将透过动画短片，以有趣的方式带出许多人的健康迷思，然后再由中医、西医和营养师为大家带来深入浅出的资讯，分享保健和营养知识，以及健康美味食谱，让观众轻松接收健康资讯，又能吃得健康安心！</desc>
 	</programme>
-	<programme channel="5003" start="20241112150000 +0000" stop="20241112160000 +0000">
+	<programme channel="5003" start="20241112151500 +0000" stop="20241112151500 +0000">
 		<title>长风渡 Episode 13</title>
 		<desc>(PG-些许暴力画面) 顾九思和柳玉茹一心等着乡试放榜，这一天也是柳玉茹的生日。顾九思十分紧张，不敢去看榜，也不许任何人告诉他放榜结果，两人相约，晚上再去看榜，这样一来，如果考上了，那就是给柳玉茹的生日惊喜，考不上，她起码过了个开心的生日。顾九思憋着要给柳玉茹过个从未过过的生日，带她斗鸡、斗蛐蛐、去郊外跑马放歌，玩了整整一天。</desc>
 	</programme>
-	<programme channel="5003" start="20241112160000 +0000" stop="20241112170000 +0000">
+	<programme channel="5003" start="20241112151500 +0000" stop="20241112161500 +0000">
+		<title>长风渡 Episode 13</title>
+		<desc>(PG-些许暴力画面) 顾九思和柳玉茹一心等着乡试放榜，这一天也是柳玉茹的生日。顾九思十分紧张，不敢去看榜，也不许任何人告诉他放榜结果，两人相约，晚上再去看榜，这样一来，如果考上了，那就是给柳玉茹的生日惊喜，考不上，她起码过了个开心的生日。顾九思憋着要给柳玉茹过个从未过过的生日，带她斗鸡、斗蛐蛐、去郊外跑马放歌，玩了整整一天。</desc>
+	</programme>
+	<programme channel="5003" start="20241112161500 +0000" stop="20241112171500 +0000">
 		<title>飞狐外传 Episode 5</title>
 		<desc>(PG13-暴力镜头) 乾隆苦于江湖纷争，特意安排福康安出面召开天下掌门人大会，遍撒英雄帖，请他们上京比武。想用二桃杀三士的法子，让门派之间内斗。已经长大成人的胡斐来到佛山，他带着平四骨灰，要将它安葬故里。不料半途遇到一位神秘女子，此女身着紫衣，腰挂银鞭，武艺高强，脾气古怪，出手就把胡斐整得衣不附体，狼狈不堪。</desc>
 	</programme>
-	<programme channel="5003" start="20241112170000 +0000" stop="20241112173000 +0000">
+	<programme channel="5003" start="20241112171500 +0000" stop="20241112174500 +0000">
 		<title>台湾原味道 Episode 2</title>
 		<desc>《原味道》系列再次登陆台湾，由当地新生代主持韦汝、梁凯晴、朱佑宏接棒，带着在台湾生活多年的香港小清新谭凯萤，以独特观点搜罗台湾的在地好味道！从宝岛海之味，一路到山林间的原住民风味，再细味客家、闽南等不同族群餐桌上的美味，追味寻源了解背后的故事，让大家更深入认识台湾原味道！</desc>
 	</programme>
-	<programme channel="5003" start="20241112173000 +0000" stop="20241112180000 +0000">
+	<programme channel="5003" start="20241112174500 +0000" stop="20241112181500 +0000">
 		<title>阿贤乡镇食旅 Episode 5</title>
 		<desc>一起跟随主持人杨佳贤到各个不同的地方品尝美食吧！在每一期的节目中，阿贤将到马来西亚等地为观众当地介绍最令人赞不绝口的佳肴。绝不能错过！</desc>
 	</programme>
-	<programme channel="5003" start="20241112180000 +0000" stop="20241112190000 +0000">
+	<programme channel="5003" start="20241112181500 +0000" stop="20241112191500 +0000">
 		<title>喜临门2 Episode 55</title>
 		<desc>(PG)</desc>
 	</programme>
-	<programme channel="5003" start="20241112190000 +0000" stop="20241112200000 +0000">
+	<programme channel="5003" start="20241112191500 +0000" stop="20241112201000 +0000">
 		<title>喜临门2 Episode 56</title>
 		<desc>(PG)</desc>
 	</programme>
-	<programme channel="5003" start="20241112200000 +0000" stop="20241112210000 +0000">
+	<programme channel="5003" start="20241112201000 +0000" stop="20241112210500 +0000">
 		<title>幸福来了 Episode 446</title>
 		<desc>(PG) 高家兄弟因为价值观截然不同，不但成就高低立判，连教育出来的子女，个性和品格也大相径庭。上一代有上一代的恩怨情报，下一代有下一代的追求展望;在错综复杂的人生大道上，每个人都汲汲营营，寻找着属于自己的幸福课题。</desc>
 	</programme>
-	<programme channel="5003" start="20241112210000 +0000" stop="20241112220000 +0000">
+	<programme channel="5003" start="20241112210500 +0000" stop="20241112220000 +0000">
 		<title>神雕侠侣 Episode 30</title>
 		<desc>(PG)</desc>
 	</programme>
@@ -1108,11 +1108,11 @@
 		<title>大厨驾到 Episode 2</title>
 		<desc>以名厨Sam Leong一家人开着一台大型"流动厨房"为出发点，他们将走入社群的工作生活圈子，亲手下厨，用美味来慰劳用心工作的劳动族群，通过分享美食，传递温情，散播幸福感，共享幸福好"食"光！传达正能量："施比受更有福"，烹饪下厨+分享料理是一件幸福且有意义的事情！</desc>
 	</programme>
-	<programme channel="5003" start="20241112230000 +0000" stop="20241112233000 +0000">
-		<title>晚间新闻 Episode 226</title>
+	<programme channel="5003" start="20241112230000 +0000" stop="20241112234500 +0000">
+		<title>晚间新闻包括国会摘要 Episode 226</title>
 		<desc>《晚间新闻》每日为您提供最全面的本地与全球新闻报道。</desc>
 	</programme>
-	<programme channel="5003" start="20241112233000 +0000" stop="20241113000000 +0000">
+	<programme channel="5003" start="20241112234500 +0000" stop="20241113000000 +0000">
 		<title>狮城有约精华版 Episode 163</title>
 		<desc>总结一天大小事，关心属于你我的家园。</desc>
 	</programme>
@@ -1876,23 +1876,23 @@
 		<title>一起吃晚餐吗 Episode 22</title>
 		<desc>(PG-部分画面令人不安)(双声道-中/韩) 海庆质问道希为什么还没有跟她的妈妈说他们交往的事，两人在回家路上看到宰赫，海庆为了救宰赫，自己却被车撞上…</desc>
 	</programme>
-	<programme channel="5007" start="20241112150000 +0000" stop="20241112153000 +0000">
-		<title>晚间新闻 Episode 226</title>
+	<programme channel="5007" start="20241112150000 +0000" stop="20241112154500 +0000">
+		<title>晚间新闻包括国会摘要 Episode 226</title>
 		<desc>U频道《晚间新闻》，在半小时里除深入报道本地与国际要闻，还有详尽的财经新闻和体坛动态。世界局势与经济动脉，让大家轻松掌握。</desc>
 	</programme>
-	<programme channel="5007" start="20241112153000 +0000" stop="20241112153000 +0000">
+	<programme channel="5007" start="20241112154500 +0000" stop="20241112154500 +0000">
 		<title>Go Go 台湾 IV Episode 15</title>
 		<desc>GoGo台湾带观众到台湾每一个角落，寻找最好玩的地方，最道地及好吃的食物，最经济实惠的饭店和住宿。在新的一辑将会带大家到嘉义，新竹，彰化，高雄，宜兰等等。</desc>
 	</programme>
-	<programme channel="5007" start="20241112153000 +0000" stop="20241112163000 +0000">
+	<programme channel="5007" start="20241112154500 +0000" stop="20241112164000 +0000">
 		<title>Go Go 台湾 IV Episode 15</title>
 		<desc>GoGo台湾带观众到台湾每一个角落，寻找最好玩的地方，最道地及好吃的食物，最经济实惠的饭店和住宿。在新的一辑将会带大家到嘉义，新竹，彰化，高雄，宜兰等等。</desc>
 	</programme>
-	<programme channel="5007" start="20241112163000 +0000" stop="20241112173000 +0000">
+	<programme channel="5007" start="20241112164000 +0000" stop="20241112173500 +0000">
 		<title>加油！我的人生 Episode 71</title>
 		<desc>(PG)(双声道-中/韩) 仁奎迫不及待地希望次烈和冬熙尽快结婚，而美京也开始对冬熙和力灿敞开心扉。尽管慧兰和成旭苦苦劝说，胜珠仍然拒绝接受脑瘤手术。</desc>
 	</programme>
-	<programme channel="5007" start="20241112173000 +0000" stop="20241112183000 +0000">
+	<programme channel="5007" start="20241112173500 +0000" stop="20241112183000 +0000">
 		<title>加油！我的人生 Episode 72</title>
 		<desc>(PG)(双声道-中/韩) 胜珠为了力灿接受了手术，而手术也很成功。次烈和冬熙在亲朋好友的见证和祝福下，终于结婚了。</desc>
 	</programme>
@@ -6258,7 +6258,7 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 	</programme>
 	<programme channel="5157" start="20241113013000 +0000" stop="20241113014500 +0000">
 		<title>Hit the Road</title>
-		<desc>NHK WORLD-JAPAN presents a wide range of programs from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+		<desc>Join us on a scenic drive through Hokkaido, where we uncover its charm by exploring two milks - fresh dairy from the land and oysters from the sea.</desc>
 	</programme>
 	<programme channel="5157" start="20241113014500 +0000" stop="20241113015500 +0000">
 		<title>Magical Japanese</title>
@@ -6326,7 +6326,7 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 	</programme>
 	<programme channel="5157" start="20241113063000 +0000" stop="20241113064500 +0000">
 		<title>Hit the Road</title>
-		<desc>NHK WORLD-JAPAN presents a wide range of programs from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+		<desc>Join us on a scenic drive through Hokkaido, where we uncover its charm by exploring two milks - fresh dairy from the land and oysters from the sea.</desc>
 	</programme>
 	<programme channel="5157" start="20241113064500 +0000" stop="20241113065500 +0000">
 		<title>Magical Japanese</title>
@@ -6422,7 +6422,7 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 	</programme>
 	<programme channel="5157" start="20241113123000 +0000" stop="20241113124500 +0000">
 		<title>Hit the Road</title>
-		<desc>NHK WORLD-JAPAN presents a wide range of programs from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+		<desc>Join us on a scenic drive through Hokkaido, where we uncover its charm by exploring two milks - fresh dairy from the land and oysters from the sea.</desc>
 	</programme>
 	<programme channel="5157" start="20241113124500 +0000" stop="20241113125500 +0000">
 		<title>Magical Japanese</title>
@@ -20233,7 +20233,7 @@ Nan was once a trainee at the police academy but had to quit midway due to healt
 		<desc>《东张西望》星期一至日，紧贴追踪社会大事、趣闻逸事，并报导娱乐圈最新动态、艺人消息，以及剧集宣传和花絮。「今日突发」环节为大家追踪即日热门新闻；专题环节，深入探讨大众关心的时事、社会及民生问题，并访问相关的专家。</desc>
 	</programme>
 	<programme channel="5511" start="20241111230000 +0000" stop="20241112000000 +0000">
-		<title>香港早晨 及 世界观 / Good Morning Hong Kong and Global View Episode 276</title>
+		<title>香港早晨 及 世界观 / Good Morning Hong Kong and Global View Episode 277</title>
 		<desc>报导香港、两岸及国际重要新闻。</desc>
 	</programme>
 	<programme channel="5511" start="20241112000000 +0000" stop="20241112010000 +0000">
@@ -20296,7 +20296,7 @@ Nan was once a trainee at the police academy but had to quit midway due to healt
 		<desc>汕头与香港，地缘相近、血脉相连、文化相通。随着汕头文化旅游热度不断上升，潮汕美食亦自带流量，计有潮汕牛肉火锅、生腌海鲜、卤水鹅肉等等……系列新一辑，主持王祖蓝决定「一支公」前往汕头走一转，为港人送上汕头滋味攻略。除了聚焦美食之外，祖蓝亦会亲身体验汕头的独特文化与人文风情。</desc>
 	</programme>
 	<programme channel="5511" start="20241112073000 +0000" stop="20241112074500 +0000">
-		<title>娱乐头条 / EXTRA Episode 387</title>
+		<title>娱乐头条 / EXTRA Episode 386</title>
 		<desc>每晚紧贴香港娱乐圈的消息，以至世界各地的影视娱乐新闻，报导艺人最新动态、剧集和电影宣传、演唱会精华、颁奖礼盛况等，甚至远赴外地采访娱乐盛事、追踪各地影星，专访观众熟悉的歌、影、视红人，让大家瞬间掌握影视娱乐圈的动态和最新消息。</desc>
 	</programme>
 	<programme channel="5511" start="20241112074500 +0000" stop="20241112080000 +0000">
@@ -20370,7 +20370,7 @@ Nan was once a trainee at the police academy but had to quit midway due to healt
 		<desc>汕头与香港，地缘相近、血脉相连、文化相通。随着汕头文化旅游热度不断上升，潮汕美食亦自带流量，计有潮汕牛肉火锅、生腌海鲜、卤水鹅肉等等……系列新一辑，主持王祖蓝决定「一支公」前往汕头走一转，为港人送上汕头滋味攻略。除了聚焦美食之外，祖蓝亦会亲身体验汕头的独特文化与人文风情。</desc>
 	</programme>
 	<programme channel="5511" start="20241112150500 +0000" stop="20241112151500 +0000">
-		<title>娱乐头条 / EXTRA Episode 388</title>
+		<title>娱乐头条 / EXTRA Episode 387</title>
 		<desc>每晚紧贴香港娱乐圈的消息，以至世界各地的影视娱乐新闻，报导艺人最新动态、剧集和电影宣传、演唱会精华、颁奖礼盛况等，甚至远赴外地采访娱乐盛事、追踪各地影星，专访观众熟悉的歌、影、视红人，让大家瞬间掌握影视娱乐圈的动态和最新消息。</desc>
 	</programme>
 	<programme channel="5511" start="20241112151500 +0000" stop="20241112155000 +0000">
@@ -20498,7 +20498,7 @@ Nan was once a trainee at the police academy but had to quit midway due to healt
 		<desc>汕头与香港，地缘相近、血脉相连、文化相通。随着汕头文化旅游热度不断上升，潮汕美食亦自带流量，计有潮汕牛肉火锅、生腌海鲜、卤水鹅肉等等……系列新一辑，主持王祖蓝决定「一支公」前往汕头走一转，为港人送上汕头滋味攻略。除了聚焦美食之外，祖蓝亦会亲身体验汕头的独特文化与人文风情。</desc>
 	</programme>
 	<programme channel="5511" start="20241113073000 +0000" stop="20241113074500 +0000">
-		<title>娱乐头条 / EXTRA Episode 388</title>
+		<title>娱乐头条 / EXTRA Episode 387</title>
 		<desc>每晚紧贴香港娱乐圈的消息，以至世界各地的影视娱乐新闻，报导艺人最新动态、剧集和电影宣传、演唱会精华、颁奖礼盛况等，甚至远赴外地采访娱乐盛事、追踪各地影星，专访观众熟悉的歌、影、视红人，让大家瞬间掌握影视娱乐圈的动态和最新消息。</desc>
 	</programme>
 	<programme channel="5511" start="20241113074500 +0000" stop="20241113080000 +0000">
@@ -20574,7 +20574,7 @@ Jacques的中西合璧碗仔翅用上矜贵风干火腿；Ken Tam的嫩滑盐焗
 		<desc>汕头与香港，地缘相近、血脉相连、文化相通。随着汕头文化旅游热度不断上升，潮汕美食亦自带流量，计有潮汕牛肉火锅、生腌海鲜、卤水鹅肉等等……系列新一辑，主持王祖蓝决定「一支公」前往汕头走一转，为港人送上汕头滋味攻略。除了聚焦美食之外，祖蓝亦会亲身体验汕头的独特文化与人文风情。</desc>
 	</programme>
 	<programme channel="5511" start="20241113150500 +0000" stop="20241113151500 +0000">
-		<title>娱乐头条 / EXTRA Episode 389</title>
+		<title>娱乐头条 / EXTRA Episode 388</title>
 		<desc>每晚紧贴香港娱乐圈的消息，以至世界各地的影视娱乐新闻，报导艺人最新动态、剧集和电影宣传、演唱会精华、颁奖礼盛况等，甚至远赴外地采访娱乐盛事、追踪各地影星，专访观众熟悉的歌、影、视红人，让大家瞬间掌握影视娱乐圈的动态和最新消息。</desc>
 	</programme>
 	<programme channel="5511" start="20241113151500 +0000" stop="20241113155000 +0000">
@@ -24358,24 +24358,24 @@ Jacques的中西合璧碗仔翅用上矜贵风干火腿；Ken Tam的嫩滑盐焗
 		<desc>東森EZ新聞&amp;東森美洲城市新聞</desc>
 	</programme>
 	<programme channel="5561" start="20241113100000 +0000" stop="20241113110000 +0000">
-		<title>台灣東森1800晚間新聞 Episode 13</title>
-		<desc>台灣東森1800晚間新聞</desc>
+		<title>進擊的台灣 Episode 8</title>
+		<desc>進擊的台灣</desc>
 	</programme>
 	<programme channel="5561" start="20241113110000 +0000" stop="20241113120000 +0000">
-		<title>台灣東森1900晚間新聞 Episode 13</title>
-		<desc>台灣東森1900晚間新聞</desc>
+		<title>兩岸大視野 Episode 17</title>
+		<desc>兩岸大視野</desc>
 	</programme>
 	<programme channel="5561" start="20241113120000 +0000" stop="20241113130000 +0000">
-		<title>台灣東森2000晚間新聞 Episode 13</title>
-		<desc>台灣東森2000晚間新聞</desc>
+		<title>聚焦全世界 Episode 9</title>
+		<desc>聚焦全世界</desc>
 	</programme>
 	<programme channel="5561" start="20241113130000 +0000" stop="20241113140000 +0000">
-		<title>台灣東森2100晚間新聞 Episode 13</title>
-		<desc>台灣東森2100晚間新聞</desc>
+		<title>樂活好正點 Episode 413</title>
+		<desc>樂活好正點</desc>
 	</programme>
 	<programme channel="5561" start="20241113140000 +0000" stop="20241113150000 +0000">
-		<title>關鍵時刻 Episode 14</title>
-		<desc>關鍵時刻</desc>
+		<title>夢想街57號 Episode 15</title>
+		<desc>夢想街57號</desc>
 	</programme>
 	<programme channel="6571" start="20241111143500 +0000" stop="20241111163500 +0000">
 		<title>青夏 / Blue Summer</title>
@@ -32086,12 +32086,12 @@ Jacques的中西合璧碗仔翅用上矜贵风干火腿；Ken Tam的嫩滑盐焗
 		<desc>Each week, a particular sweet and its recipe will be introduced along with various topics about the sweet.</desc>
 	</programme>
 	<programme channel="5682" start="20241111164000 +0000" stop="20241111170500 +0000">
-		<title>The Life "The Journalists Fascinated by Unknow Painter Tanaka Isson" (R)</title>
-		<desc>Featuring distinguished programs ranging from entertainment shows to documentaries.</desc>
+		<title>My Gardening</title>
+		<desc>Learn useful tips on gardening.</desc>
 	</programme>
 	<programme channel="5682" start="20241111170500 +0000" stop="20241111171000 +0000">
-		<title>Japan Genesis: Pilgrimage to the Land of the Gods 5min.</title>
-		<desc>Japan Genesis: Pilgrimage to the Land of the Gods 5min.</desc>
+		<title>Kyoto's Hidamariya Garden Shop</title>
+		<desc>Offering tips on growing flowers and greens through an animated short story.</desc>
 	</programme>
 	<programme channel="5682" start="20241111171000 +0000" stop="20241111173000 +0000">
 		<title>French in a Happy Mood</title>
@@ -32338,8 +32338,8 @@ Jacques的中西合璧碗仔翅用上矜贵风干火腿；Ken Tam的嫩滑盐焗
 		<desc>The program introduces various Tanka created by viewers while learning and having fun with engaging guests.</desc>
 	</programme>
 	<programme channel="5682" start="20241112170500 +0000" stop="20241112171000 +0000">
-		<title>We Love Fluffy Animals Mini</title>
-		<desc>We Love Fluffy Animals Mini</desc>
+		<title>World Music Album</title>
+		<desc>A 5-minute music program introducing classical music.</desc>
 	</programme>
 	<programme channel="5682" start="20241112171000 +0000" stop="20241112173000 +0000">
 		<title>German in a Happy Mood</title>
