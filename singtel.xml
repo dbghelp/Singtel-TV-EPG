@@ -14922,19 +14922,19 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 	</programme>
 	<programme channel="5251" start="20241111170000 +0000" stop="20241111171500 +0000">
 		<title>ABC Late News Episode 226</title>
-		<desc>Follow the story with the latest on today's news, explaining what's happening and why it matters. ABC News has reporters across Australia and around the globe covering what you need to know. Presented by Jade Barker in Perth.</desc>
+		<desc>Follow the story with the latest on the day's events, explaining what's happening and why it matters. ABC News has reporters across Australia and around the globe uncovering what you need to know. Presented by Jade Barker.</desc>
 	</programme>
 	<programme channel="5251" start="20241111171500 +0000" stop="20241111173000 +0000">
 		<title>The Business Episode 165</title>
-		<desc>Australia's leading daily business and finance show, bringing you up to date on market moves, economic trends and the forces affecting consumers, employees and business owners big and small. Presented by Kirsten Aiken.</desc>
+		<desc>Artificial intelligence is extending workplace surveillance into homes and cars as governments try to determine what employers can monitor. Plus how a Trump presidency will change the economic landscape.</desc>
 	</programme>
 	<programme channel="5251" start="20241111173000 +0000" stop="20241111180000 +0000">
 		<title>7.30 Episode 177</title>
-		<desc>Sarah Ferguson presents Australia's premier daily current affairs program, delivering agenda-setting public affairs journalism and interviews that hold the powerful to account. Plus political analysis from Laura Tingle.</desc>
+		<desc>Treasurer Jim Chalmers says Australia is ready to deal with a second Trump presidency. A new push to end logging of native trees in publicly owned forests sparks industry concern.</desc>
 	</programme>
 	<programme channel="5251" start="20241111180000 +0000" stop="20241111190000 +0000">
 		<title>The World Episode 181</title>
-		<desc>There's never been a more important time to stay in touch with what's happening in our world. Weeknights at 9pm AEDT, Girish Sawlani presents the latest international news from correspondents and interviews with guests.</desc>
+		<desc>Girish Sawlani brings you the latest news from around the globe. Tonight: Donald Trump asks Vladimir Putin not to escalate conflict in Ukraine, and evacuations continue around an erupting volcano in Indonesia.</desc>
 	</programme>
 	<programme channel="5251" start="20241111190000 +0000" stop="20241111220000 +0000">
 		<title>News Breakfast Episode 227</title>
@@ -14957,8 +14957,8 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<desc>Writer Claire Cao treats Arka to her dad's home-made Burmese snacks before they head to Blacktown for a sumptuous meal at one of Western Sydney's only Burmese restaurants, with actor Jing-Xuan Chan.</desc>
 	</programme>
 	<programme channel="5251" start="20241112023500 +0000" stop="20241112030500 +0000">
-		<title>Secret Science Episode 4</title>
-		<desc>Sammy J discovers how our senses shape reality and how, even when lost, they can transform, enhancing our connection to the world.</desc>
+		<title>Secret Science Episode 5</title>
+		<desc>Sammy J takes you on a ride into the marvels of the mind, unveiling the secrets of lifelong neuroplasticity and discovering breakthrough science which rewrites rehabilitation and our approach to learning.</desc>
 	</programme>
 	<programme channel="5251" start="20241112030500 +0000" stop="20241112035000 +0000">
 		<title>Save This Shark</title>
@@ -14968,17 +14968,17 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<title>First Nation Farmers Episode 5</title>
 		<desc>Many farming properties across southern Australia have dry-stone walls. Constructed mostly during the 19th century, they were built to clear land and define boundaries, but their history precedes European settlement.</desc>
 	</programme>
-	<programme channel="5251" start="20241112040000 +0000" stop="20241112044500 +0000">
+	<programme channel="5251" start="20241112040000 +0000" stop="20241112045000 +0000">
 		<title>Four Corners Episode 38</title>
 		<desc>The true cost of social media and younger generations facing the brunt of the deadly consequences. As Australia grapples with how to regulate social media, parents in the US are taking tech giants to court. (Final for 2024)</desc>
 	</programme>
-	<programme channel="5251" start="20241112044500 +0000" stop="20241112050000 +0000">
-		<title>Unusual Farmers Episode 2</title>
-		<desc>Pet ownership soared through the pandemic, and it wasn't just dogs and cats. Demand surged for snakes and lizards. Someone must farm the rats to feed them, and there some big advantages to farming little livestock.</desc>
+	<programme channel="5251" start="20241112045000 +0000" stop="20241112050000 +0000">
+		<title>Gardening Australia - My Garden Path Episode 18</title>
+		<desc>We meet Hsar Ju, a mulilingual Park Ranger with an amazing story who has brought many cultures together through his work with cultivation and community.</desc>
 	</programme>
 	<programme channel="5251" start="20241112050000 +0000" stop="20241112060000 +0000">
 		<title>Afternoon Briefing Episode 207</title>
-		<desc>Live from Parliament House in Canberra, Greg Jennett brings you everything you need to know about politics, national and global affairs today, speaking with the key decision makers and stakeholders on issues in the news.</desc>
+		<desc>Greg Jennett brings you the latest in politics, national and global affairs, speaking with Malarndirri McCarthy, James Paterson, Luke Sheehy, a panel of Matt Thistlethwaite and Jonathon Duniam, plus Catherine Williams.</desc>
 	</programme>
 	<programme channel="5251" start="20241112060000 +0000" stop="20241112070000 +0000">
 		<title>ABC News with Joe O'Brien Episode 227</title>
@@ -14989,8 +14989,8 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<desc>Adam and guests, award-winning cookbook author Lara Lee and social media megastar Andy Hearnden, make a splash in the kitchen with a splash of soy.</desc>
 	</programme>
 	<programme channel="5251" start="20241112072500 +0000" stop="20241112080000 +0000">
-		<title>Secret Science Episode 2</title>
-		<desc>Of our six core emotions, anger gets the worst rap. It has the potential to destroy, but as Myf Warhurst discovers, there's a thin line separating its destructive power from the constructive anger that motivates change.</desc>
+		<title>Secret Science Episode 5</title>
+		<desc>Sammy J takes you on a ride into the marvels of the mind, unveiling the secrets of lifelong neuroplasticity and discovering breakthrough science which rewrites rehabilitation and our approach to learning.</desc>
 	</programme>
 	<programme channel="5251" start="20241112080000 +0000" stop="20241112083000 +0000">
 		<title>ABC National News Episode 317</title>
@@ -15008,21 +15008,21 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<title>The Business Episode 166</title>
 		<desc>Australia's leading daily business and finance show, bringing you up to date on market moves, economic trends and the forces affecting consumers, employees and business owners big and small. Presented by Kirsten Aiken.</desc>
 	</programme>
-	<programme channel="5251" start="20241112100000 +0000" stop="20241112110000 +0000">
+	<programme channel="5251" start="20241112100000 +0000" stop="20241112105500 +0000">
 		<title>The World Episode 182</title>
-		<desc>There's never been a more important time to stay in touch with what's happening in our world. Weeknights at 9pm AEDT, Girish Sawlani presents the latest international news from correspondents and interviews with guests.</desc>
+		<desc>Girish Sawlani brings you the latest world news. Tonight: COP29 begins but with some notable absences, flights over Haiti suspended due to gunfire, and a spokesperson says Israel's PM approved the Hezbollah pager attacks.</desc>
 	</programme>
-	<programme channel="5251" start="20241112110000 +0000" stop="20241112114500 +0000">
+	<programme channel="5251" start="20241112105500 +0000" stop="20241112114500 +0000">
 		<title>Four Corners Episode 38</title>
 		<desc>The true cost of social media and younger generations facing the brunt of the deadly consequences. As Australia grapples with how to regulate social media, parents in the US are taking tech giants to court. (Final for 2024)</desc>
 	</programme>
 	<programme channel="5251" start="20241112114500 +0000" stop="20241112120000 +0000">
 		<title>Media Watch Episode 40</title>
-		<desc>Australia's leading forum for media analysis and comment, bringing you a brave and fearless critique of the week's journalism, issues and events in the news. Presented by Paul Barry.</desc>
+		<desc>Trump's triumph; Where is the outrage?; ACMA's KIIS.</desc>
 	</programme>
 	<programme channel="5251" start="20241112120000 +0000" stop="20241112123000 +0000">
-		<title>Secret Science Episode 2</title>
-		<desc>Of our six core emotions, anger gets the worst rap. It has the potential to destroy, but as Myf Warhurst discovers, there's a thin line separating its destructive power from the constructive anger that motivates change.</desc>
+		<title>Secret Science Episode 5</title>
+		<desc>Sammy J takes you on a ride into the marvels of the mind, unveiling the secrets of lifelong neuroplasticity and discovering breakthrough science which rewrites rehabilitation and our approach to learning.</desc>
 	</programme>
 	<programme channel="5251" start="20241112123000 +0000" stop="20241112131500 +0000">
 		<title>Save This Shark</title>
@@ -15044,11 +15044,11 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<title>The Business Episode 166</title>
 		<desc>Australia's leading daily business and finance show, bringing you up to date on market moves, economic trends and the forces affecting consumers, employees and business owners big and small. Presented by Kirsten Aiken.</desc>
 	</programme>
-	<programme channel="5251" start="20241112143000 +0000" stop="20241112153000 +0000">
+	<programme channel="5251" start="20241112143000 +0000" stop="20241112152500 +0000">
 		<title>The World Episode 182</title>
-		<desc>There's never been a more important time to stay in touch with what's happening in our world. Weeknights at 9pm AEDT, Girish Sawlani presents the latest international news from correspondents and interviews with guests.</desc>
+		<desc>Girish Sawlani brings you the latest world news. Tonight: COP29 begins but with some notable absences, flights over Haiti suspended due to gunfire, and a spokesperson says Israel's PM approved the Hezbollah pager attacks.</desc>
 	</programme>
-	<programme channel="5251" start="20241112153000 +0000" stop="20241112152500 +0000">
+	<programme channel="5251" start="20241112152500 +0000" stop="20241112152500 +0000">
 		<title>Four Corners Episode 38</title>
 		<desc>The true cost of social media and younger generations facing the brunt of the deadly consequences. As Australia grapples with how to regulate social media, parents in the US are taking tech giants to court. (Final for 2024)</desc>
 	</programme>
