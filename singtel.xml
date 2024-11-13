@@ -1306,7 +1306,7 @@
 	</programme>
 	<programme channel="5004" start="20241114010000 +0000" stop="20241114013000 +0000">
 		<title>Beyblade Burst Turbo Episode 41</title>
-		<desc>(Dual Language - English and Malay) Two years after the International Blader's Cup, the story focuses on Aiger Akabane, a wild child that grew up in nature. After battling Valt Aoi the No.1 Blader, Aiger became inspired to become the No.1 Blader in the world.</desc>
+		<desc>(Dual Language - English and Malay) Two years after the International Blader's Cup, the story focuses on Aiger Akabane, a "wild child" that grew up in nature. After battling Valt Aoi the No.1 Blader, Aiger became inspired to become the No.1 Blader in the world.</desc>
 	</programme>
 	<programme channel="5004" start="20241114013000 +0000" stop="20241114020000 +0000">
 		<title>Siapa Master? 2 Episode 11</title>
@@ -1334,7 +1334,7 @@
 	</programme>
 	<programme channel="5004" start="20241114070000 +0000" stop="20241114073000 +0000">
 		<title>Detik Semasa Episode 15</title>
-		<desc>The program analyses and dissect issues of concern to the Malay/Muslim Singaporeans - be it at the community level, national, regional or global. Apart from raising awareness, each DETIK episode hopes to set viewers thinking and make informed decisions on matters that can impact their lives.</desc>
+		<desc>Malay Language tuition providers have been receiving an increasing number of students over the years. While this may indicate a decline in Malay language usage, a renewed awareness among parents could reverse the situation.</desc>
 	</programme>
 	<programme channel="5004" start="20241114073000 +0000" stop="20241114080000 +0000">
 		<title>Air Tangan Episode 4</title>
@@ -1350,7 +1350,7 @@
 	</programme>
 	<programme channel="5004" start="20241114100000 +0000" stop="20241114103000 +0000">
 		<title>Beyblade Burst Turbo Episode 41</title>
-		<desc>(Dual Language - English and Malay) Two years after the International Blader's Cup, the story focuses on Aiger Akabane, a wild child that grew up in nature. After battling Valt Aoi the No.1 Blader, Aiger became inspired to become the No.1 Blader in the world.</desc>
+		<desc>(Dual Language - English and Malay) Two years after the International Blader's Cup, the story focuses on Aiger Akabane, a "wild child" that grew up in nature. After battling Valt Aoi the No.1 Blader, Aiger became inspired to become the No.1 Blader in the world.</desc>
 	</programme>
 	<programme channel="5004" start="20241114103000 +0000" stop="20241114110000 +0000">
 		<title>Siapa Master? 2 Episode 12</title>
@@ -3932,11 +3932,11 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<title>Roshn Saudi League Recap 2024/25</title>
 		<desc>Catch the ROSHN Saudi League weekly magazine show, bringing together prominent professional players from the Kingdom and all around the world.</desc>
 	</programme>
-	<programme channel="6114" start="20241113145500 +0000" stop="20241113150000 +0000">
+	<programme channel="6114" start="20241113145500 +0000" stop="20241113145500 +0000">
 		<title>ROSHN Saudi League 2024/25 Matchday 10 Episode 4</title>
 		<desc>Bringing together prominent professional players from the Kingdom and all around the world, the ROSHN Saudi League delivers weekly thrilling matches to spectators nationally and internationally.</desc>
 	</programme>
-	<programme channel="6114" start="20241113150000 +0000" stop="20241113170000 +0000">
+	<programme channel="6114" start="20241113145500 +0000" stop="20241113170000 +0000">
 		<title>ROSHN Saudi League 2024/25 Matchday 10 Episode 4</title>
 		<desc>Bringing together prominent professional players from the Kingdom and all around the world, the ROSHN Saudi League delivers weekly thrilling matches to spectators nationally and internationally.</desc>
 	</programme>
@@ -3944,13 +3944,9 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<title>MotoGP 2024 Round 18 Grand Prix of Thailand Episode 4</title>
 		<desc>The MotoGP World Championship crowns one of 22 riders lining up on 1000cc prototype bikes capable of producing over 240 horsepower and getting up to speeds of 350kph over 21 Grand Prix races.</desc>
 	</programme>
-	<programme channel="6114" start="20241113180000 +0000" stop="20241113230000 +0000">
+	<programme channel="6114" start="20241113180000 +0000" stop="20241114000000 +0000">
 		<title>HSBC BWF WTS 300 Korea Masters 2024 Episode 4</title>
 		<desc>The HSBC BWF World Tour attracts the world's elite badminton players in competing for prize money and world ranking points in 30 four-tiered tournaments, culminating in the World Tour Finals in December.</desc>
-	</programme>
-	<programme channel="6114" start="20241113230000 +0000" stop="20241114000000 +0000">
-		<title>Roshn Saudi League Recap 2024/25</title>
-		<desc>Catch the ROSHN Saudi League weekly magazine show, bringing together prominent professional players from the Kingdom and all around the world.</desc>
 	</programme>
 	<programme channel="6114" start="20241114000000 +0000" stop="20241114080000 +0000">
 		<title>HSBC BWF WTS 500 KUMAMOTO Masters Japan Badminton Championships (Live)</title>
