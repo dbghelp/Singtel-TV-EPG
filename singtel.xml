@@ -1706,7 +1706,7 @@
 	</programme>
 	<programme channel="5006" start="20241116123000 +0000" stop="20241116130000 +0000">
 		<title>Money Mind Episode 29</title>
-		<desc>Money Mind is all about how to save, how to invest, and how to better spend your money. Your weekly personal finance tips to help you make all the right money moves in Asia. Because, personal finance matters.</desc>
+		<desc>What a second Trump presidency means for your money. How eating "ugly" food can help cut your bills. Plus, is "dasurv" culture busting the budgets of Filipino Gen Zs?</desc>
 	</programme>
 	<programme channel="5006" start="20241116130000 +0000" stop="20241116130200 +0000">
 		<title>Headline News Episode 1053</title>
@@ -5823,7 +5823,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<desc>Sumopedia enriches your sumo experience with information on the techniques, traditions and famous wrestlers of the past. The rules may be simple but there is a lot more to sumo than meets the eye.</desc>
 	</programme>
 	<programme channel="5157" start="20241115000000 +0000" stop="20241115001500 +0000">
-		<title>NHK NEWSLINE&lt;NY&gt;</title>
+		<title>NHK NEWSLINE</title>
 		<desc>NHK WORLD-JAPAN's flagship hourly news program delivers the latest world news, business and weather, with a focus on Japan and the rest of Asia.</desc>
 	</programme>
 	<programme channel="5157" start="20241115001500 +0000" stop="20241115003000 +0000">
@@ -5835,7 +5835,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<desc>Many Nepali workers labor overseas to send home funds to their families, but due to harsh working conditions, a large number are permanently damaging their health, or even losing their lives.</desc>
 	</programme>
 	<programme channel="5157" start="20241115010000 +0000" stop="20241115011500 +0000">
-		<title>NHK NEWSLINE&lt;NY&gt;</title>
+		<title>NHK NEWSLINE</title>
 		<desc>NHK WORLD-JAPAN's flagship hourly news program delivers the latest world news, business and weather, with a focus on Japan and the rest of Asia.</desc>
 	</programme>
 	<programme channel="5157" start="20241115011500 +0000" stop="20241115013000 +0000">
@@ -20122,7 +20122,7 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<desc>行脚旅游节目《爱玩客 向世界出发》主持群将从台湾启程，勇闯鲜少人涉足的观光胜地。他们将品尝当地美食、挑战极限，深入感受当地的人文风情及体验最真实的生活面貌。</desc>
 	</programme>
 	<programme channel="6507" start="20241116130000 +0000" stop="20241116140000 +0000">
-		<title>TVBS文茜的世界周报-亚洲版 / TVBS Sisy's World News Asia</title>
+		<title>TVBS文茜的世界周报 / TVBS Sisy's World News</title>
 		<desc>无论是财经议题、国际政治局势，还是世界脉动，主持人陈文茜将提供更多元的角度与新观点。</desc>
 	</programme>
 	<programme channel="6507" start="20241116140000 +0000" stop="20241116150000 +0000">
@@ -26078,7 +26078,7 @@ Christy、Jessica转赴艾森施塔特小镇，慕名参观当地的宫殿「爱
 		<desc>It's a morning talk show which hosts celebrities &amp; professionals from all walks of life who share their valuable expertise on varied topics. Enjoy a delightful start to your day with a healthy dose of information and entertainment.</desc>
 	</programme>
 	<programme channel="5622" start="20241116000000 +0000" stop="20241116010000 +0000">
-		<title>Ranjithame (Repeat)</title>
+		<title>NANGA READY NREENGA READYA</title>
 		<desc>This game show features three celeb divas of your favourite Sun TV families, with a line-up of small-screen stars competing against each other in weekly face-offs to win the ultimate jackpot.</desc>
 	</programme>
 	<programme channel="5622" start="20241116010000 +0000" stop="20241116020000 +0000">
@@ -26130,16 +26130,16 @@ Christy、Jessica转赴艾森施塔特小镇，慕名参观当地的宫殿「爱
 		<desc>Unfortunate events force an ambitious Eashwari and a school dropout Azhagar to tie the knot. Can this odd couple turn their marriage into a happily ever after? Will Eashwari realize her IPS dream amidst life's many hardships?</desc>
 	</programme>
 	<programme channel="5622" start="20241116073000 +0000" stop="20241116080000 +0000">
-		<title>Movie -</title>
-		<desc>Watch your favourite movies with all the drama and emotion on Sun TV.</desc>
+		<title>Movie - PERANMAI</title>
+		<desc>Dhuruvan is a forest ranger, who is assigned the job of training five girls from the NCC camp. The group hears of a terrorist activity being carried out in the forest and makes a plan to defeat them.</desc>
 	</programme>
 	<programme channel="5622" start="20241116080000 +0000" stop="20241116083000 +0000">
 		<title>News</title>
 		<desc>This news programme chronicles the latest events, developments, inventions, discoveries and happenings around the world.</desc>
 	</programme>
 	<programme channel="5622" start="20241116083000 +0000" stop="20241116103000 +0000">
-		<title>Movie Contd -</title>
-		<desc>Watch your favourite movies with all the drama and emotion on Sun TV.</desc>
+		<title>Movie Contd - PERANMAI</title>
+		<desc>Dhuruvan is a forest ranger, who is assigned the job of training five girls from the NCC camp. The group hears of a terrorist activity being carried out in the forest and makes a plan to defeat them.</desc>
 	</programme>
 	<programme channel="5622" start="20241116103000 +0000" stop="20241116110000 +0000">
 		<title>RAMAYANAM</title>
