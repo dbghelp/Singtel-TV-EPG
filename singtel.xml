@@ -4143,7 +4143,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<desc>Watch all the action in the Autumn Nation Series, as the Southern Hempisphere teams make the long journey north to take on the best that Europe has to offer.</desc>
 	</programme>
 	<programme channel="5118" start="20241114194000 +0000" stop="20241114201000 +0000">
-		<title>5 &amp; 6 Nations Classics 2009 / Wales v Ireland</title>
+		<title>5 &amp; 6 Nations Classics 2009 - Wales v Ireland</title>
 		<desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
 	</programme>
 	<programme channel="5118" start="20241114201000 +0000" stop="20241114220000 +0000">
@@ -4219,7 +4219,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<desc>Watch all the action in the Autumn Nation Series, as the Southern Hempisphere teams make the long journey north to take on the best that Europe has to offer.</desc>
 	</programme>
 	<programme channel="5118" start="20241115084000 +0000" stop="20241115091000 +0000">
-		<title>5 &amp; 6 Nations Classics 2010 / Ireland v Scotland</title>
+		<title>5 &amp; 6 Nations Classics 2010 - Ireland v Scotland</title>
 		<desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
 	</programme>
 	<programme channel="5118" start="20241115091000 +0000" stop="20241115110000 +0000">
@@ -4235,7 +4235,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<desc>Watch all the action in the Autumn Nation Series, as the Southern Hempisphere teams make the long journey north to take on the best that Europe has to offer.</desc>
 	</programme>
 	<programme channel="5118" start="20241115144000 +0000" stop="20241115151000 +0000">
-		<title>5 &amp; 6 Nations Classics 2001 / Wales v England</title>
+		<title>5 &amp; 6 Nations Classics 2001 - Wales v England</title>
 		<desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
 	</programme>
 	<programme channel="5118" start="20241115151000 +0000" stop="20241115151000 +0000">
@@ -4259,7 +4259,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<desc>Watch all the action in the Autumn Nation Series, as the Southern Hempisphere teams make the long journey north to take on the best that Europe has to offer.</desc>
 	</programme>
 	<programme channel="5118" start="20241115221000 +0000" stop="20241115224000 +0000">
-		<title>5 &amp; 6 Nations Classics 1975 / Wales v Ireland</title>
+		<title>5 &amp; 6 Nations Classics 1975 - Wales v Ireland</title>
 		<desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
 	</programme>
 	<programme channel="5118" start="20241115224000 +0000" stop="20241115234000 +0000">
@@ -4282,20 +4282,24 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<title>Autumn Nations Series England v Australia</title>
 		<desc>Watch all the action in the Autumn Nation Series, as the Southern Hempisphere teams make the long journey north to take on the best that Europe has to offer.</desc>
 	</programme>
-	<programme channel="5118" start="20241116061000 +0000" stop="20241116071000 +0000">
-		<title>Gallagher Premiership Gallagher Premiership</title>
-		<desc>The best of the latest action from the Gallagher Premiership.</desc>
+	<programme channel="5118" start="20241116061000 +0000" stop="20241116064000 +0000">
+		<title>5 &amp; 6 Nations Classics 2003 - Italy v France</title>
+		<desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
 	</programme>
-	<programme channel="5118" start="20241116071000 +0000" stop="20241116090000 +0000">
+	<programme channel="5118" start="20241116064000 +0000" stop="20241116082500 +0000">
 		<title>Autumn Nations Series Italy v Argentina</title>
 		<desc>Watch all the action in the Autumn Nation Series, as the Southern Hempisphere teams make the long journey north to take on the best that Europe has to offer.</desc>
 	</programme>
-	<programme channel="5118" start="20241116090000 +0000" stop="20241116105000 +0000">
-		<title>Autumn Nations Series France v Japan</title>
-		<desc>Watch all the action in the Autumn Nation Series, as the Southern Hempisphere teams make the long journey north to take on the best that Europe has to offer.</desc>
+	<programme channel="5118" start="20241116082500 +0000" stop="20241116104000 +0000">
+		<title>LIVE AFLW LIVE Hawthorn v Port Adelaide</title>
+		<desc>Week 2 of the AFLW finals sees Hawthorn and Port Adelaide clash at IKON Park.</desc>
+	</programme>
+	<programme channel="5118" start="20241116104000 +0000" stop="20241116105000 +0000">
+		<title>URC Match Highlights Sharks v Munster</title>
+		<desc>Catch up on all the match highlights from the most recent round of United Rugby Championship.</desc>
 	</programme>
 	<programme channel="5118" start="20241116105000 +0000" stop="20241116112000 +0000">
-		<title>5 &amp; 6 Nations Classics 2004 / Italy v England</title>
+		<title>5 &amp; 6 Nations Classics 2004 - Italy v England</title>
 		<desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
 	</programme>
 	<programme channel="5118" start="20241116112000 +0000" stop="20241116131000 +0000">
@@ -4427,18 +4431,22 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<desc>Chasing the Dream 6</desc>
 	</programme>
 	<programme channel="6126" start="20241115080000 +0000" stop="20241115083000 +0000">
-		<title>Bundesliga Special 2024/25: Episode Number 7 Episode 7</title>
+		<title>Bundesliga Special 2024/25: Roots - Marmoush, Xhaka &amp; Irvine Episode 7</title>
 		<desc>Bundesliga Special 2024/25</desc>
 	</programme>
 	<programme channel="6126" start="20241115083000 +0000" stop="20241115090000 +0000">
 		<title>Bundesliga Weekly 2024/25: Episode Number 14 Episode 14</title>
 		<desc>Bundesliga Weekly 2024/25</desc>
 	</programme>
-	<programme channel="6126" start="20241115090000 +0000" stop="20241115110000 +0000">
+	<programme channel="6126" start="20241115090000 +0000" stop="20241115100000 +0000">
+		<title>LaLiga 2 Highlights 2024/25: Matchday 14 Episode 14</title>
+		<desc>LaLiga 2 Highlights 2024/25</desc>
+	</programme>
+	<programme channel="6126" start="20241115100000 +0000" stop="20241115113000 +0000">
 		<title>Premier Padel 2024: Kuwait P1 Day 5 QF Match 1 - Women (Live) Episode 711</title>
 		<desc>Premier Padel 2024</desc>
 	</programme>
-	<programme channel="6126" start="20241115110000 +0000" stop="20241115124500 +0000">
+	<programme channel="6126" start="20241115113000 +0000" stop="20241115124500 +0000">
 		<title>Premier Padel 2024: Kuwait P1 Day 5 QF Match 2 - Men (Live) Episode 712</title>
 		<desc>Premier Padel 2024</desc>
 	</programme>
@@ -4494,24 +4502,20 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<title>European Le Mans Series Highlights 2024: Season Review Episode 7</title>
 		<desc>European Le Mans Series Highlights 2024</desc>
 	</programme>
-	<programme channel="6126" start="20241116040000 +0000" stop="20241116050000 +0000">
-		<title>FIA World Rally Championship Highlights 2024: Rally Central Europe Episode 13</title>
-		<desc>FIA World Rally Championship Highlights 2024</desc>
-	</programme>
-	<programme channel="6126" start="20241116050000 +0000" stop="20241116053000 +0000">
-		<title>Fastzone 2024: Episode Number 31 Episode 31</title>
-		<desc>Fastzone 2024</desc>
-	</programme>
-	<programme channel="6126" start="20241116053000 +0000" stop="20241116060000 +0000">
+	<programme channel="6126" start="20241116040000 +0000" stop="20241116043000 +0000">
 		<title>GKA Kite World Tour 2024: Kite Surf World Cup - Ibiraquera Episode 6</title>
 		<desc>GKA Kite World Tour 2024</desc>
 	</programme>
+	<programme channel="6126" start="20241116043000 +0000" stop="20241116060000 +0000">
+		<title>Premier Padel 2024: Kuwait P1 Day 5 QF Match 4 - Women Episode 714</title>
+		<desc>Premier Padel 2024</desc>
+	</programme>
 	<programme channel="6126" start="20241116060000 +0000" stop="20241116073000 +0000">
-		<title>Premier Padel 2024: Kuwait P1 Day 5 QF Match 3 - Women Episode 713</title>
+		<title>Premier Padel 2024: Kuwait P1 Day 5 QF Match 5 - Men Episode 825</title>
 		<desc>Premier Padel 2024</desc>
 	</programme>
 	<programme channel="6126" start="20241116073000 +0000" stop="20241116090000 +0000">
-		<title>Premier Padel 2024: Kuwait P1 Day 5 QF Match 4 - Men Episode 714</title>
+		<title>Premier Padel 2024: Kuwait P1 Day 5 QF Match 6 - Men Episode 826</title>
 		<desc>Premier Padel 2024</desc>
 	</programme>
 	<programme channel="6126" start="20241116090000 +0000" stop="20241116110000 +0000">
@@ -7303,8 +7307,8 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<desc>DW News</desc>
 	</programme>
 	<programme channel="5161" start="20241114171500 +0000" stop="20241114173000 +0000">
-		<title>REV</title>
-		<desc>Join Sri Lankan daredevil Jagath Perera as he defies gravity on the Wall of Death. A tradition over 100 years old, these fearless riders face broken bones and deadly falls—but their passion keeps the spectacle alive. Will this be the last generation of Wa</desc>
+		<title>Interview</title>
+		<desc>Germany faces a wave of economic challenges, as snap elections approach amidst political turmoil. Ulrike Malmendier of the German Council of Economic Experts explains the nation's urgent need for public investment, reforming its restrictive debt brake, an</desc>
 	</programme>
 	<programme channel="5161" start="20241114173000 +0000" stop="20241114180000 +0000">
 		<title>DW News</title>
@@ -7328,7 +7332,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 	</programme>
 	<programme channel="5161" start="20241114193000 +0000" stop="20241114200000 +0000">
 		<title>To the Point</title>
-		<desc>To the Point</desc>
+		<desc>After the collapse of Germany's governing coalition, Germans are facing snap elections. Until then, the current chancellor will be a lame duck, blocked both politically and economically. Can new political leadership change the country's fate? Our guests:</desc>
 	</programme>
 	<programme channel="5161" start="20241114200000 +0000" stop="20241114203000 +0000">
 		<title>DW News</title>
@@ -7343,8 +7347,8 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<desc>DW News</desc>
 	</programme>
 	<programme channel="5161" start="20241114210200 +0000" stop="20241114211500 +0000">
-		<title>REV</title>
-		<desc>Join Sri Lankan daredevil Jagath Perera as he defies gravity on the Wall of Death. A tradition over 100 years old, these fearless riders face broken bones and deadly falls—but their passion keeps the spectacle alive. Will this be the last generation of Wa</desc>
+		<title>Interview</title>
+		<desc>Germany faces a wave of economic challenges, as snap elections approach amidst political turmoil. Ulrike Malmendier of the German Council of Economic Experts explains the nation's urgent need for public investment, reforming its restrictive debt brake, an</desc>
 	</programme>
 	<programme channel="5161" start="20241114211500 +0000" stop="20241114220000 +0000">
 		<title>DocFilm</title>
@@ -7360,19 +7364,19 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 	</programme>
 	<programme channel="5161" start="20241114223000 +0000" stop="20241114230000 +0000">
 		<title>To the Point</title>
-		<desc>To the Point</desc>
+		<desc>After the collapse of Germany's governing coalition, Germans are facing snap elections. Until then, the current chancellor will be a lame duck, blocked both politically and economically. Can new political leadership change the country's fate? Our guests:</desc>
 	</programme>
 	<programme channel="5161" start="20241114230000 +0000" stop="20241114231500 +0000">
 		<title>DW News</title>
 		<desc>DW News</desc>
 	</programme>
 	<programme channel="5161" start="20241114231500 +0000" stop="20241114233000 +0000">
-		<title>REV</title>
-		<desc>Join Sri Lankan daredevil Jagath Perera as he defies gravity on the Wall of Death. A tradition over 100 years old, these fearless riders face broken bones and deadly falls—but their passion keeps the spectacle alive. Will this be the last generation of Wa</desc>
+		<title>Interview</title>
+		<desc>Germany faces a wave of economic challenges, as snap elections approach amidst political turmoil. Ulrike Malmendier of the German Council of Economic Experts explains the nation's urgent need for public investment, reforming its restrictive debt brake, an</desc>
 	</programme>
 	<programme channel="5161" start="20241114233000 +0000" stop="20241115000000 +0000">
 		<title>Conflict Zone</title>
-		<desc>Conflict Zone</desc>
+		<desc>Sarah Kelly interviews Yusuf Tuggar, Nigerian Minister of Foreign Affairs. (First aired: 9 October 2024)</desc>
 	</programme>
 	<programme channel="5161" start="20241115000000 +0000" stop="20241115000200 +0000">
 		<title>DW News</title>
@@ -7384,7 +7388,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 	</programme>
 	<programme channel="5161" start="20241115003000 +0000" stop="20241115010000 +0000">
 		<title>To the Point</title>
-		<desc>To the Point</desc>
+		<desc>After the collapse of Germany's governing coalition, Germans are facing snap elections. Until then, the current chancellor will be a lame duck, blocked both politically and economically. Can new political leadership change the country's fate? Our guests:</desc>
 	</programme>
 	<programme channel="5161" start="20241115010000 +0000" stop="20241115011500 +0000">
 		<title>DW News</title>
@@ -7404,15 +7408,15 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 	</programme>
 	<programme channel="5161" start="20241115023000 +0000" stop="20241115030000 +0000">
 		<title>Focus on Europe</title>
-		<desc>Focus on Europe</desc>
+		<desc>Germany's governing coalition has collapsed. What do young people think? +++ Moldova is still debating whether to choose Europe or Russia, even after its presidential election.</desc>
 	</programme>
 	<programme channel="5161" start="20241115030000 +0000" stop="20241115031500 +0000">
 		<title>DW News</title>
 		<desc>DW News</desc>
 	</programme>
 	<programme channel="5161" start="20241115031500 +0000" stop="20241115033000 +0000">
-		<title>REV</title>
-		<desc>Join Sri Lankan daredevil Jagath Perera as he defies gravity on the Wall of Death. A tradition over 100 years old, these fearless riders face broken bones and deadly falls—but their passion keeps the spectacle alive. Will this be the last generation of Wa</desc>
+		<title>Interview</title>
+		<desc>Germany faces a wave of economic challenges, as snap elections approach amidst political turmoil. Ulrike Malmendier of the German Council of Economic Experts explains the nation's urgent need for public investment, reforming its restrictive debt brake, an</desc>
 	</programme>
 	<programme channel="5161" start="20241115033000 +0000" stop="20241115040000 +0000">
 		<title>Made in Germany</title>
@@ -7443,12 +7447,12 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<desc>DW News</desc>
 	</programme>
 	<programme channel="5161" start="20241115061500 +0000" stop="20241115063000 +0000">
-		<title>REV</title>
-		<desc>Join Sri Lankan daredevil Jagath Perera as he defies gravity on the Wall of Death. A tradition over 100 years old, these fearless riders face broken bones and deadly falls—but their passion keeps the spectacle alive. Will this be the last generation of Wa</desc>
+		<title>Interview</title>
+		<desc>Germany faces a wave of economic challenges, as snap elections approach amidst political turmoil. Ulrike Malmendier of the German Council of Economic Experts explains the nation's urgent need for public investment, reforming its restrictive debt brake, an</desc>
 	</programme>
 	<programme channel="5161" start="20241115063000 +0000" stop="20241115070000 +0000">
 		<title>Conflict Zone</title>
-		<desc>Conflict Zone</desc>
+		<desc>Sarah Kelly interviews Yusuf Tuggar, Nigerian Minister of Foreign Affairs. (First aired: 9 October 2024)</desc>
 	</programme>
 	<programme channel="5161" start="20241115070000 +0000" stop="20241115073000 +0000">
 		<title>DW News</title>
@@ -7456,7 +7460,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 	</programme>
 	<programme channel="5161" start="20241115073000 +0000" stop="20241115080000 +0000">
 		<title>To the Point</title>
-		<desc>To the Point</desc>
+		<desc>After the collapse of Germany's governing coalition, Germans are facing snap elections. Until then, the current chancellor will be a lame duck, blocked both politically and economically. Can new political leadership change the country's fate? Our guests:</desc>
 	</programme>
 	<programme channel="5161" start="20241115080000 +0000" stop="20241115083000 +0000">
 		<title>DW News</title>
@@ -7480,7 +7484,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 	</programme>
 	<programme channel="5161" start="20241115103000 +0000" stop="20241115110000 +0000">
 		<title>Conflict Zone</title>
-		<desc>Conflict Zone</desc>
+		<desc>Sarah Kelly interviews Yusuf Tuggar, Nigerian Minister of Foreign Affairs. (First aired: 9 October 2024)</desc>
 	</programme>
 	<programme channel="5161" start="20241115110000 +0000" stop="20241115113000 +0000">
 		<title>DW News</title>
@@ -7488,7 +7492,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 	</programme>
 	<programme channel="5161" start="20241115113000 +0000" stop="20241115120000 +0000">
 		<title>To the Point</title>
-		<desc>To the Point</desc>
+		<desc>After the collapse of Germany's governing coalition, Germans are facing snap elections. Until then, the current chancellor will be a lame duck, blocked both politically and economically. Can new political leadership change the country's fate? Our guests:</desc>
 	</programme>
 	<programme channel="5161" start="20241115120000 +0000" stop="20241115121500 +0000">
 		<title>DW News</title>
@@ -7503,8 +7507,8 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<desc>DW News</desc>
 	</programme>
 	<programme channel="5161" start="20241115131500 +0000" stop="20241115133000 +0000">
-		<title>Travel</title>
-		<desc>Have you ever walked on the seabed? You can do it off of Germany's North Sea coast. There, the tides are so enormous that at low tide, large parts of the sea bed are exposed. DW reporter Gönna grew up on the North Sea. She's going to show you this excitin</desc>
+		<title>Interview</title>
+		<desc>Masih Alinejad is a prominent and internationally active critic of the Iranian regime. As journalist and activist, she left Iran in 2009 for the United States, where she currently lives. She told DW's Giulia Saudelli what she thinks Western countries shou</desc>
 	</programme>
 	<programme channel="5161" start="20241115133000 +0000" stop="20241115140000 +0000">
 		<title>In Good Shape</title>
@@ -7516,7 +7520,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 	</programme>
 	<programme channel="5161" start="20241115143000 +0000" stop="20241115150000 +0000">
 		<title>Eco India</title>
-		<desc>Eco India</desc>
+		<desc>Climate influencers are trying to persuade Indians to embrace a low-carbon lifestyle; how fox nuts could best help Bihar farmers, exploring the potential of hydroponics and how one man is saving trees in Tamil Nadu.</desc>
 	</programme>
 	<programme channel="5161" start="20241115150000 +0000" stop="20241115153000 +0000">
 		<title>DW News</title>
@@ -7524,7 +7528,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 	</programme>
 	<programme channel="5161" start="20241115153000 +0000" stop="20241115160000 +0000">
 		<title>To the Point</title>
-		<desc>To the Point</desc>
+		<desc>After the collapse of Germany's governing coalition, Germans are facing snap elections. Until then, the current chancellor will be a lame duck, blocked both politically and economically. Can new political leadership change the country's fate? Our guests:</desc>
 	</programme>
 	<programme channel="5161" start="20241115160000 +0000" stop="20241115161500 +0000">
 		<title>DW News</title>
@@ -7539,12 +7543,12 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<desc>DW News</desc>
 	</programme>
 	<programme channel="5161" start="20241115171500 +0000" stop="20241115173000 +0000">
-		<title>Travel</title>
-		<desc>Have you ever walked on the seabed? You can do it off of Germany's North Sea coast. There, the tides are so enormous that at low tide, large parts of the sea bed are exposed. DW reporter Gönna grew up on the North Sea. She's going to show you this excitin</desc>
+		<title>Interview</title>
+		<desc>Masih Alinejad is a prominent and internationally active critic of the Iranian regime. As journalist and activist, she left Iran in 2009 for the United States, where she currently lives. She told DW's Giulia Saudelli what she thinks Western countries shou</desc>
 	</programme>
 	<programme channel="5161" start="20241115173000 +0000" stop="20241115180000 +0000">
 		<title>Afrimaxx</title>
-		<desc>Afrimaxx</desc>
+		<desc>This Time, host Kathleen Refilwe Podi explores Phakalane, a mix of places to eat, socialise and get down to business. Plus, how women bikers are changing perspectives in Kenya and dancing away prejudice in South Africa.</desc>
 	</programme>
 	<programme channel="5161" start="20241115180000 +0000" stop="20241115183000 +0000">
 		<title>DW News</title>
@@ -7552,7 +7556,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 	</programme>
 	<programme channel="5161" start="20241115183000 +0000" stop="20241115190000 +0000">
 		<title>Conflict Zone</title>
-		<desc>Conflict Zone</desc>
+		<desc>Sarah Kelly interviews Yusuf Tuggar, Nigerian Minister of Foreign Affairs. (First aired: 9 October 2024)</desc>
 	</programme>
 	<programme channel="5161" start="20241115190000 +0000" stop="20241115190200 +0000">
 		<title>DW News</title>
@@ -7560,11 +7564,11 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 	</programme>
 	<programme channel="5161" start="20241115190200 +0000" stop="20241115193000 +0000">
 		<title>Focus on Europe</title>
-		<desc>Focus on Europe</desc>
+		<desc>Germany's governing coalition has collapsed. What do young people think? +++ Moldova is still debating whether to choose Europe or Russia, even after its presidential election.</desc>
 	</programme>
 	<programme channel="5161" start="20241115193000 +0000" stop="20241115200000 +0000">
 		<title>Eco Africa</title>
-		<desc>Eco Africa</desc>
+		<desc>Making Lagos more livable, bikes for schoolgirls in Uganda, low-tech living in Paris, cross-border plans to stop flooding in Europe. And Egyptian fishers helping to tackle marine pollution in the Mediterranean.</desc>
 	</programme>
 	<programme channel="5161" start="20241115200000 +0000" stop="20241115203000 +0000">
 		<title>DW News</title>
@@ -7574,13 +7578,13 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<title>The Day</title>
 		<desc>The Day</desc>
 	</programme>
-	<programme channel="5161" start="20241115210000 +0000" stop="20241115210300 +0000">
+	<programme channel="5161" start="20241115210000 +0000" stop="20241115210200 +0000">
 		<title>DW News</title>
 		<desc>DW News</desc>
 	</programme>
-	<programme channel="5161" start="20241115210300 +0000" stop="20241115211500 +0000">
-		<title>Travel</title>
-		<desc>Have you ever walked on the seabed? You can do it off of Germany's North Sea coast. There, the tides are so enormous that at low tide, large parts of the sea bed are exposed. DW reporter Gönna grew up on the North Sea. She's going to show you this excitin</desc>
+	<programme channel="5161" start="20241115210200 +0000" stop="20241115211500 +0000">
+		<title>Interview</title>
+		<desc>Masih Alinejad is a prominent and internationally active critic of the Iranian regime. As journalist and activist, she left Iran in 2009 for the United States, where she currently lives. She told DW's Giulia Saudelli what she thinks Western countries shou</desc>
 	</programme>
 	<programme channel="5161" start="20241115211500 +0000" stop="20241115220000 +0000">
 		<title>DocFilm</title>
@@ -7596,15 +7600,15 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 	</programme>
 	<programme channel="5161" start="20241115223000 +0000" stop="20241115230000 +0000">
 		<title>Eco India</title>
-		<desc>Eco India</desc>
+		<desc>Climate influencers are trying to persuade Indians to embrace a low-carbon lifestyle; how fox nuts could best help Bihar farmers, exploring the potential of hydroponics and how one man is saving trees in Tamil Nadu.</desc>
 	</programme>
 	<programme channel="5161" start="20241115230000 +0000" stop="20241115231500 +0000">
 		<title>DW News</title>
 		<desc>DW News</desc>
 	</programme>
 	<programme channel="5161" start="20241115231500 +0000" stop="20241115233000 +0000">
-		<title>Travel</title>
-		<desc>Have you ever walked on the seabed? You can do it off of Germany's North Sea coast. There, the tides are so enormous that at low tide, large parts of the sea bed are exposed. DW reporter Gönna grew up on the North Sea. She's going to show you this excitin</desc>
+		<title>Interview</title>
+		<desc>Masih Alinejad is a prominent and internationally active critic of the Iranian regime. As journalist and activist, she left Iran in 2009 for the United States, where she currently lives. She told DW's Giulia Saudelli what she thinks Western countries shou</desc>
 	</programme>
 	<programme channel="5161" start="20241115233000 +0000" stop="20241116000000 +0000">
 		<title>DW News</title>
@@ -7632,7 +7636,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 	</programme>
 	<programme channel="5161" start="20241116013000 +0000" stop="20241116020000 +0000">
 		<title>Tomorrow Today</title>
-		<desc>Tomorrow Today</desc>
+		<desc>Using the Sun to power steel production / Why Carbon Capture and Storage (CCS) isn't working as planned / How ecosystems recover after flooding disasters / The EarthCARE satellite and the role clouds play in climate change / Exoplanetary systems</desc>
 	</programme>
 	<programme channel="5161" start="20241116020000 +0000" stop="20241116020200 +0000">
 		<title>DW News</title>
@@ -7651,12 +7655,12 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<desc>DW News</desc>
 	</programme>
 	<programme channel="5161" start="20241116031500 +0000" stop="20241116033000 +0000">
-		<title>Travel</title>
-		<desc>Have you ever walked on the seabed? You can do it off of Germany's North Sea coast. There, the tides are so enormous that at low tide, large parts of the sea bed are exposed. DW reporter Gönna grew up on the North Sea. She's going to show you this excitin</desc>
+		<title>Interview</title>
+		<desc>Masih Alinejad is a prominent and internationally active critic of the Iranian regime. As journalist and activist, she left Iran in 2009 for the United States, where she currently lives. She told DW's Giulia Saudelli what she thinks Western countries shou</desc>
 	</programme>
 	<programme channel="5161" start="20241116033000 +0000" stop="20241116040000 +0000">
 		<title>To the Point</title>
-		<desc>To the Point</desc>
+		<desc>After the collapse of Germany's governing coalition, Germans are facing snap elections. Until then, the current chancellor will be a lame duck, blocked both politically and economically. Can new political leadership change the country's fate? Our guests:</desc>
 	</programme>
 	<programme channel="5161" start="20241116040000 +0000" stop="20241116041500 +0000">
 		<title>DW News</title>
@@ -7687,8 +7691,8 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<desc>DW News</desc>
 	</programme>
 	<programme channel="5161" start="20241116061500 +0000" stop="20241116063000 +0000">
-		<title>Travel</title>
-		<desc>Have you ever walked on the seabed? You can do it off of Germany's North Sea coast. There, the tides are so enormous that at low tide, large parts of the sea bed are exposed. DW reporter Gönna grew up on the North Sea. She's going to show you this excitin</desc>
+		<title>Interview</title>
+		<desc>Masih Alinejad is a prominent and internationally active critic of the Iranian regime. As journalist and activist, she left Iran in 2009 for the United States, where she currently lives. She told DW's Giulia Saudelli what she thinks Western countries shou</desc>
 	</programme>
 	<programme channel="5161" start="20241116063000 +0000" stop="20241116070000 +0000">
 		<title>REV</title>
@@ -7700,11 +7704,11 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 	</programme>
 	<programme channel="5161" start="20241116071500 +0000" stop="20241116073000 +0000">
 		<title>Sports Life</title>
-		<desc>Sports Life</desc>
+		<desc>Navigating a balloon 900m in the air - this is Rita Becz's biggest passion. She's Hungary's best female hot air balloon pilot, has a degree in engineering and competes internationally against much better equipped opponents from wealthier countries. How wi</desc>
 	</programme>
 	<programme channel="5161" start="20241116073000 +0000" stop="20241116080000 +0000">
 		<title>Tomorrow Today</title>
-		<desc>Tomorrow Today</desc>
+		<desc>Using the Sun to power steel production / Why Carbon Capture and Storage (CCS) isn't working as planned / How ecosystems recover after flooding disasters / The EarthCARE satellite and the role clouds play in climate change / Exoplanetary systems</desc>
 	</programme>
 	<programme channel="5161" start="20241116080000 +0000" stop="20241116081500 +0000">
 		<title>DW News</title>
@@ -7720,7 +7724,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 	</programme>
 	<programme channel="5161" start="20241116091500 +0000" stop="20241116093000 +0000">
 		<title>Sports Life</title>
-		<desc>Sports Life</desc>
+		<desc>Navigating a balloon 900m in the air - this is Rita Becz's biggest passion. She's Hungary's best female hot air balloon pilot, has a degree in engineering and competes internationally against much better equipped opponents from wealthier countries. How wi</desc>
 	</programme>
 	<programme channel="5161" start="20241116093000 +0000" stop="20241116100000 +0000">
 		<title>In Good Shape</title>
@@ -21342,7 +21346,7 @@ Christy、Jessica转赴艾森施塔特小镇，慕名参观当地的宫殿「爱
 		<desc>三位踏入三十歲，在娛樂產業中打滾的好友努力在愛情、事業和夢想之間取得平衡。她們在生活的低潮中支持彼此，並在友誼中找到力量。</desc>
 	</programme>
 	<programme channel="5518" start="20241115202000 +0000" stop="20241115220000 +0000">
-		<title>CAMP ZEROBASEONE / CAMP ZEROBASEONE</title>
+		<title>CAMP ZEROBASEONE</title>
 		<desc>ZEROBASEONE的9名成員將坐上特別版露營車展開旅程，通過神秘又有趣的任務，從零開始打造出非一般的露營體驗。</desc>
 	</programme>
 	<programme channel="5518" start="20241115220000 +0000" stop="20241115235000 +0000">
@@ -24699,7 +24703,7 @@ Christy、Jessica转赴艾森施塔特小镇，慕名参观当地的宫殿「爱
 	</programme>
 	<programme channel="5602" start="20241115110000 +0000" stop="20241115113000 +0000">
 		<title>Tayangan Perdana Berbahagi Suami</title>
-		<desc>Saksikan drama terbaru di slot Tiara: Berbahagi Suami mulai 18 November, Isnin hingga Jumaat, jam 6 petang di Astro Prima.</desc>
+		<desc>Saksikan drama terbaru di slot Tiara: Berbahagi Suami mulai 2 Disember, Isnin hingga Jumaat, jam 6 petang di Astro Prima.</desc>
 	</programme>
 	<programme channel="5602" start="20241115113000 +0000" stop="20241115120000 +0000">
 		<title>Fan Fanatik Episode 9</title>
@@ -25399,7 +25403,7 @@ Christy、Jessica转赴艾森施塔特小镇，慕名参观当地的宫殿「爱
 	</programme>
 	<programme channel="5608" start="20241116083000 +0000" stop="20241116090000 +0000">
 		<title>Tayangan Perdana Berbahagi Suami</title>
-		<desc>Saksikan drama terbaru di slot Tiara: Berbahagi Suami mulai 18 November, Isnin hingga Jumaat, jam 6 petang di Astro Prima.</desc>
+		<desc>Saksikan drama terbaru di slot Tiara: Berbahagi Suami mulai 2 Disember, Isnin hingga Jumaat, jam 6 petang di Astro Prima.</desc>
 	</programme>
 	<programme channel="5608" start="20241116090000 +0000" stop="20241116100000 +0000">
 		<title>Romantika Janna Nick &amp; Dini Schatzmann</title>
@@ -28513,11 +28517,11 @@ Christy、Jessica转赴艾森施塔特小镇，慕名参观当地的宫殿「爱
 		<title>Grrr</title>
 		<desc>Inspired by true events, story of thrill-seekers who stumble into a wild cat sanctuary.</desc>
 	</programme>
-	<programme channel="5639" start="20241115133000 +0000" stop="20241115163000 +0000">
+	<programme channel="5639" start="20241115133000 +0000" stop="20241115162500 +0000">
 		<title>Grrr</title>
 		<desc>Inspired by true events, story of thrill-seekers who stumble into a wild cat sanctuary.</desc>
 	</programme>
-	<programme channel="5639" start="20241115163000 +0000" stop="20241115193000 +0000">
+	<programme channel="5639" start="20241115162500 +0000" stop="20241115193000 +0000">
 		<title>Christian Brothers</title>
 		<desc>The daughter of a minister gets kidnapped, Christy is called upon to rescue her. Release Year: 2011 Director: Joshiy</desc>
 	</programme>
@@ -29487,95 +29491,95 @@ Christy、Jessica转赴艾森施塔特小镇，慕名参观当地的宫殿「爱
 	</programme>
 	<programme channel="5652" start="20241114160000 +0000" stop="20241114163000 +0000">
 		<title>Megha Barsenge Episode 100</title>
-		<desc>After a groom absconds from his wedding, his bride is left at the mercy of her sentiments of abandonment and to endure a judgemental societal structure.</desc>
+		<desc>Megha feels cornered when the family refuses to believe her allegations. However, Parineet offers to help her in uncovering the real identity of the mysterious dancer.</desc>
 	</programme>
 	<programme channel="5652" start="20241114163000 +0000" stop="20241114170000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 59</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Despite agreeing to accompany Rajesh to the Rathore mansion, Durga is troubled by a looming threat. With Rajesh plotting a cunning scheme, Durga trusts her instincts to trump her husband.</desc>
 	</programme>
 	<programme channel="5652" start="20241114170000 +0000" stop="20241114173000 +0000">
 		<title>Mera Balam Thanedaar Episode 227</title>
-		<desc>An amiable girl who believes in supporting the lie if someone benefits for good marries a police officer under unfortunate circumstances.</desc>
+		<desc>Drishti uses her pregnancy to deflect the family members' rage and seek forgiveness from Sulakshana. Later, Bulbul is devastated when the priest makes a shocking announcement about Veer's horoscope.</desc>
 	</programme>
 	<programme channel="5652" start="20241114173000 +0000" stop="20241114180000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 507</title>
-		<desc>Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity.</desc>
+		<desc>Goddess Parvati transforms into her divine avatar of Mata Bahuchara and assures the Kinnars about their safety and security. However, the transgenders express apprehension about Parvati's motives.</desc>
 	</programme>
 	<programme channel="5652" start="20241114180000 +0000" stop="20241114183000 +0000">
 		<title>Suman Indori Episode 72</title>
-		<desc>Forced by fate to marry a rich, shrewd politician, Suman embraces obstacles adjusting to her new life while dealing with her sister-in-law who seeks to become the head of the household.</desc>
+		<desc>Nostalgia troubles Suman as she recollects her fond memories with her family members. On the other hand, Devika plots a cunning scheme against Suman's loved ones.</desc>
 	</programme>
 	<programme channel="5652" start="20241114183000 +0000" stop="20241114190000 +0000">
 		<title>Parineetii Episode 933</title>
-		<desc>Two best friends who support each other through thick and thin face a problem when circumstance causes both of them to get married to the same man.</desc>
+		<desc>Parineet devises a clever move to disrupt Neeti's wedding by seeking Daljeet's help. Later, drama ensues when Daljeet executes his plan to abduct Neeti.</desc>
 	</programme>
 	<programme channel="5652" start="20241114190000 +0000" stop="20241114193000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 507</title>
-		<desc>Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity.</desc>
+		<desc>Goddess Parvati transforms into her divine avatar of Mata Bahuchara and assures the Kinnars about their safety and security. However, the transgenders express apprehension about Parvati's motives.</desc>
 	</programme>
 	<programme channel="5652" start="20241114193000 +0000" stop="20241114200000 +0000">
 		<title>Mangal Lakshmi Episode 260</title>
-		<desc>Mangal searches for a perfect husband for her sister, Lakshmi, revealing the enduring strength of sisterhood and the power of destiny over this journey.</desc>
+		<desc>Lakshmi finds herself in a spot of bother when Shanthi holds her responsible for the chaos at Lipika's engagement ceremony.</desc>
 	</programme>
 	<programme channel="5652" start="20241114200000 +0000" stop="20241114203000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 59</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Despite agreeing to accompany Rajesh to the Rathore mansion, Durga is troubled by a looming threat. With Rajesh plotting a cunning scheme, Durga trusts her instincts to trump her husband.</desc>
 	</programme>
 	<programme channel="5652" start="20241114203000 +0000" stop="20241114210000 +0000">
 		<title>Mera Balam Thanedaar Episode 227</title>
-		<desc>An amiable girl who believes in supporting the lie if someone benefits for good marries a police officer under unfortunate circumstances.</desc>
+		<desc>Drishti uses her pregnancy to deflect the family members' rage and seek forgiveness from Sulakshana. Later, Bulbul is devastated when the priest makes a shocking announcement about Veer's horoscope.</desc>
 	</programme>
 	<programme channel="5652" start="20241114210000 +0000" stop="20241114220000 +0000">
-		<title>Mahasangam Parineetii / Megha Bars</title>
+		<title>Mahasangam Parineetii / Megha Bars Episode 100</title>
 		<desc>Circumstances make two best friends get married to the same man; a groom absconds leaving behind his bride to a judgmental society.</desc>
 	</programme>
 	<programme channel="5652" start="20241114220000 +0000" stop="20241114223000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 507</title>
-		<desc>Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity.</desc>
+		<desc>Goddess Parvati transforms into her divine avatar of Mata Bahuchara and assures the Kinnars about their safety and security. However, the transgenders express apprehension about Parvati's motives.</desc>
 	</programme>
 	<programme channel="5652" start="20241114223000 +0000" stop="20241114230000 +0000">
 		<title>Suman Indori Episode 72</title>
-		<desc>Forced by fate to marry a rich, shrewd politician, Suman embraces obstacles adjusting to her new life while dealing with her sister-in-law who seeks to become the head of the household.</desc>
+		<desc>Nostalgia troubles Suman as she recollects her fond memories with her family members. On the other hand, Devika plots a cunning scheme against Suman's loved ones.</desc>
 	</programme>
 	<programme channel="5652" start="20241114230000 +0000" stop="20241114233000 +0000">
 		<title>Parineetii Episode 933</title>
-		<desc>Two best friends who support each other through thick and thin face a problem when circumstance causes both of them to get married to the same man.</desc>
+		<desc>Parineet devises a clever move to disrupt Neeti's wedding by seeking Daljeet's help. Later, drama ensues when Daljeet executes his plan to abduct Neeti.</desc>
 	</programme>
 	<programme channel="5652" start="20241114233000 +0000" stop="20241115000000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 59</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Despite agreeing to accompany Rajesh to the Rathore mansion, Durga is troubled by a looming threat. With Rajesh plotting a cunning scheme, Durga trusts her instincts to trump her husband.</desc>
 	</programme>
 	<programme channel="5652" start="20241115000000 +0000" stop="20241115003000 +0000">
 		<title>Mera Balam Thanedaar Episode 227</title>
-		<desc>An amiable girl who believes in supporting the lie if someone benefits for good marries a police officer under unfortunate circumstances.</desc>
+		<desc>Drishti uses her pregnancy to deflect the family members' rage and seek forgiveness from Sulakshana. Later, Bulbul is devastated when the priest makes a shocking announcement about Veer's horoscope.</desc>
 	</programme>
 	<programme channel="5652" start="20241115003000 +0000" stop="20241115010000 +0000">
 		<title>Mangal Lakshmi Episode 260</title>
-		<desc>Mangal searches for a perfect husband for her sister, Lakshmi, revealing the enduring strength of sisterhood and the power of destiny over this journey.</desc>
+		<desc>Lakshmi finds herself in a spot of bother when Shanthi holds her responsible for the chaos at Lipika's engagement ceremony.</desc>
 	</programme>
 	<programme channel="5652" start="20241115010000 +0000" stop="20241115013000 +0000">
 		<title>Suman Indori Episode 72</title>
-		<desc>Forced by fate to marry a rich, shrewd politician, Suman embraces obstacles adjusting to her new life while dealing with her sister-in-law who seeks to become the head of the household.</desc>
+		<desc>Nostalgia troubles Suman as she recollects her fond memories with her family members. On the other hand, Devika plots a cunning scheme against Suman's loved ones.</desc>
 	</programme>
 	<programme channel="5652" start="20241115013000 +0000" stop="20241115020000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 59</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Despite agreeing to accompany Rajesh to the Rathore mansion, Durga is troubled by a looming threat. With Rajesh plotting a cunning scheme, Durga trusts her instincts to trump her husband.</desc>
 	</programme>
 	<programme channel="5652" start="20241115020000 +0000" stop="20241115023000 +0000">
 		<title>Megha Barsenge Episode 100</title>
-		<desc>After a groom absconds from his wedding, his bride is left at the mercy of her sentiments of abandonment and to endure a judgemental societal structure.</desc>
+		<desc>Megha feels cornered when the family refuses to believe her allegations. However, Parineet offers to help her in uncovering the real identity of the mysterious dancer.</desc>
 	</programme>
 	<programme channel="5652" start="20241115023000 +0000" stop="20241115030000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 507</title>
-		<desc>Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity.</desc>
+		<desc>Goddess Parvati transforms into her divine avatar of Mata Bahuchara and assures the Kinnars about their safety and security. However, the transgenders express apprehension about Parvati's motives.</desc>
 	</programme>
 	<programme channel="5652" start="20241115030000 +0000" stop="20241115033000 +0000">
 		<title>Suman Indori Episode 72</title>
-		<desc>Forced by fate to marry a rich, shrewd politician, Suman embraces obstacles adjusting to her new life while dealing with her sister-in-law who seeks to become the head of the household.</desc>
+		<desc>Nostalgia troubles Suman as she recollects her fond memories with her family members. On the other hand, Devika plots a cunning scheme against Suman's loved ones.</desc>
 	</programme>
 	<programme channel="5652" start="20241115033000 +0000" stop="20241115040000 +0000">
 		<title>Mangal Lakshmi Episode 260</title>
-		<desc>Mangal searches for a perfect husband for her sister, Lakshmi, revealing the enduring strength of sisterhood and the power of destiny over this journey.</desc>
+		<desc>Lakshmi finds herself in a spot of bother when Shanthi holds her responsible for the chaos at Lipika's engagement ceremony.</desc>
 	</programme>
 	<programme channel="5652" start="20241115040000 +0000" stop="20241115043000 +0000">
 		<title>Mera Balam Thanedaar Episode 228</title>
@@ -29583,11 +29587,11 @@ Christy、Jessica转赴艾森施塔特小镇，慕名参观当地的宫殿「爱
 	</programme>
 	<programme channel="5652" start="20241115043000 +0000" stop="20241115050000 +0000">
 		<title>Suman Indori Episode 73</title>
-		<desc>Forced by fate to marry a rich, shrewd politician, Suman embraces obstacles adjusting to her new life while dealing with her sister-in-law who seeks to become the head of the household.</desc>
+		<desc>Chandrakant lashes out at Suman and accuses her of betraying the family. However, a nonchalant Suman defends her business decision without any sense of fear.</desc>
 	</programme>
 	<programme channel="5652" start="20241115050000 +0000" stop="20241115053000 +0000">
 		<title>Megha Barsenge Episode 101</title>
-		<desc>After a groom absconds from his wedding, his bride is left at the mercy of her sentiments of abandonment and to endure a judgemental societal structure.</desc>
+		<desc>An air of romance takes centerstage when Megha joins Arjun on a dinner date. Eventually, Megha grows anxious when she misplaces her nuptial chain.</desc>
 	</programme>
 	<programme channel="5652" start="20241115053000 +0000" stop="20241115060000 +0000">
 		<title>Parineetii Episode 934</title>
@@ -29595,11 +29599,11 @@ Christy、Jessica转赴艾森施塔特小镇，慕名参观当地的宫殿「爱
 	</programme>
 	<programme channel="5652" start="20241115060000 +0000" stop="20241115063000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 508</title>
-		<desc>Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity.</desc>
+		<desc>Troubled by a deep sense of remorse, the transgenders pledge to rescue Nahusha. However, Karindasur vents his rage at the entire community after learning about their pledge.</desc>
 	</programme>
 	<programme channel="5652" start="20241115063000 +0000" stop="20241115070000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 60</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Durga threatens to inform Vikram when Rajesh instructs his henchmen to imprison her at a secluded house. However, she is stunned to uncover the truth behind Vikram's sinister motives.</desc>
 	</programme>
 	<programme channel="5652" start="20241115070000 +0000" stop="20241115073000 +0000">
 		<title>Mangal Lakshmi Episode 261</title>
@@ -29607,15 +29611,15 @@ Christy、Jessica转赴艾森施塔特小镇，慕名参观当地的宫殿「爱
 	</programme>
 	<programme channel="5652" start="20241115073000 +0000" stop="20241115090000 +0000">
 		<title>Bigg Boss Episode 38</title>
-		<desc>As Bigg Boss delves into the future of the contestants with the cataclysm of technology, the housemates try to conquer 'Time Ka Tandav', and emerge victorious in a locked house in BB's surveillance.</desc>
+		<desc>While Chahat and Vivian share a tender moment, a task involving Avinash and Digvijay breeds chaos when the duo engage in a physical duel.</desc>
 	</programme>
 	<programme channel="5652" start="20241115090000 +0000" stop="20241115093000 +0000">
 		<title>Mangal Lakshmi Episode 260</title>
-		<desc>Mangal searches for a perfect husband for her sister, Lakshmi, revealing the enduring strength of sisterhood and the power of destiny over this journey.</desc>
+		<desc>Lakshmi finds herself in a spot of bother when Shanthi holds her responsible for the chaos at Lipika's engagement ceremony.</desc>
 	</programme>
 	<programme channel="5652" start="20241115093000 +0000" stop="20241115100000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 59</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Despite agreeing to accompany Rajesh to the Rathore mansion, Durga is troubled by a looming threat. With Rajesh plotting a cunning scheme, Durga trusts her instincts to trump her husband.</desc>
 	</programme>
 	<programme channel="5652" start="20241115100000 +0000" stop="20241115103000 +0000">
 		<title>Mera Balam Thanedaar Episode 228</title>
@@ -29623,11 +29627,11 @@ Christy、Jessica转赴艾森施塔特小镇，慕名参观当地的宫殿「爱
 	</programme>
 	<programme channel="5652" start="20241115103000 +0000" stop="20241115110000 +0000">
 		<title>Suman Indori Episode 73</title>
-		<desc>Forced by fate to marry a rich, shrewd politician, Suman embraces obstacles adjusting to her new life while dealing with her sister-in-law who seeks to become the head of the household.</desc>
+		<desc>Chandrakant lashes out at Suman and accuses her of betraying the family. However, a nonchalant Suman defends her business decision without any sense of fear.</desc>
 	</programme>
 	<programme channel="5652" start="20241115110000 +0000" stop="20241115113000 +0000">
 		<title>Megha Barsenge Episode 101</title>
-		<desc>After a groom absconds from his wedding, his bride is left at the mercy of her sentiments of abandonment and to endure a judgemental societal structure.</desc>
+		<desc>An air of romance takes centerstage when Megha joins Arjun on a dinner date. Eventually, Megha grows anxious when she misplaces her nuptial chain.</desc>
 	</programme>
 	<programme channel="5652" start="20241115113000 +0000" stop="20241115120000 +0000">
 		<title>Parineetii Episode 934</title>
@@ -29635,11 +29639,11 @@ Christy、Jessica转赴艾森施塔特小镇，慕名参观当地的宫殿「爱
 	</programme>
 	<programme channel="5652" start="20241115120000 +0000" stop="20241115123000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 508</title>
-		<desc>Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity.</desc>
+		<desc>Troubled by a deep sense of remorse, the transgenders pledge to rescue Nahusha. However, Karindasur vents his rage at the entire community after learning about their pledge.</desc>
 	</programme>
 	<programme channel="5652" start="20241115123000 +0000" stop="20241115130000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 60</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Durga threatens to inform Vikram when Rajesh instructs his henchmen to imprison her at a secluded house. However, she is stunned to uncover the truth behind Vikram's sinister motives.</desc>
 	</programme>
 	<programme channel="5652" start="20241115130000 +0000" stop="20241115133000 +0000">
 		<title>Mangal Lakshmi Episode 261</title>
@@ -29647,7 +29651,7 @@ Christy、Jessica转赴艾森施塔特小镇，慕名参观当地的宫殿「爱
 	</programme>
 	<programme channel="5652" start="20241115133000 +0000" stop="20241115150000 +0000">
 		<title>Bigg Boss Episode 39</title>
-		<desc>As Bigg Boss delves into the future of the contestants with the cataclysm of technology, the housemates try to conquer 'Time Ka Tandav', and emerge victorious in a locked house in BB's surveillance.</desc>
+		<desc>The contestants are compelled to undertake extreme measures as the crown of 'Time God' reaches a peak moment. With various segments awaited, the housemates must play their cards with caution.</desc>
 	</programme>
 	<programme channel="5652" start="20241115150000 +0000" stop="20241115153000 +0000">
 		<title>Mera Balam Thanedaar Episode 228</title>
@@ -29655,15 +29659,15 @@ Christy、Jessica转赴艾森施塔特小镇，慕名参观当地的宫殿「爱
 	</programme>
 	<programme channel="5652" start="20241115153000 +0000" stop="20241115160000 +0000">
 		<title>Suman Indori Episode 73</title>
-		<desc>Forced by fate to marry a rich, shrewd politician, Suman embraces obstacles adjusting to her new life while dealing with her sister-in-law who seeks to become the head of the household.</desc>
+		<desc>Chandrakant lashes out at Suman and accuses her of betraying the family. However, a nonchalant Suman defends her business decision without any sense of fear.</desc>
 	</programme>
 	<programme channel="5652" start="20241115160000 +0000" stop="20241115163000 +0000">
 		<title>Megha Barsenge Episode 101</title>
-		<desc>After a groom absconds from his wedding, his bride is left at the mercy of her sentiments of abandonment and to endure a judgemental societal structure.</desc>
+		<desc>An air of romance takes centerstage when Megha joins Arjun on a dinner date. Eventually, Megha grows anxious when she misplaces her nuptial chain.</desc>
 	</programme>
 	<programme channel="5652" start="20241115163000 +0000" stop="20241115170000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 60</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Durga threatens to inform Vikram when Rajesh instructs his henchmen to imprison her at a secluded house. However, she is stunned to uncover the truth behind Vikram's sinister motives.</desc>
 	</programme>
 	<programme channel="5652" start="20241115170000 +0000" stop="20241115173000 +0000">
 		<title>Mera Balam Thanedaar Episode 228</title>
@@ -29671,11 +29675,11 @@ Christy、Jessica转赴艾森施塔特小镇，慕名参观当地的宫殿「爱
 	</programme>
 	<programme channel="5652" start="20241115173000 +0000" stop="20241115180000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 508</title>
-		<desc>Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity.</desc>
+		<desc>Troubled by a deep sense of remorse, the transgenders pledge to rescue Nahusha. However, Karindasur vents his rage at the entire community after learning about their pledge.</desc>
 	</programme>
 	<programme channel="5652" start="20241115180000 +0000" stop="20241115183000 +0000">
 		<title>Suman Indori Episode 73</title>
-		<desc>Forced by fate to marry a rich, shrewd politician, Suman embraces obstacles adjusting to her new life while dealing with her sister-in-law who seeks to become the head of the household.</desc>
+		<desc>Chandrakant lashes out at Suman and accuses her of betraying the family. However, a nonchalant Suman defends her business decision without any sense of fear.</desc>
 	</programme>
 	<programme channel="5652" start="20241115183000 +0000" stop="20241115190000 +0000">
 		<title>Parineetii Episode 934</title>
@@ -29683,7 +29687,7 @@ Christy、Jessica转赴艾森施塔特小镇，慕名参观当地的宫殿「爱
 	</programme>
 	<programme channel="5652" start="20241115190000 +0000" stop="20241115193000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 508</title>
-		<desc>Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity.</desc>
+		<desc>Troubled by a deep sense of remorse, the transgenders pledge to rescue Nahusha. However, Karindasur vents his rage at the entire community after learning about their pledge.</desc>
 	</programme>
 	<programme channel="5652" start="20241115193000 +0000" stop="20241115200000 +0000">
 		<title>Mangal Lakshmi Episode 261</title>
@@ -29691,7 +29695,7 @@ Christy、Jessica转赴艾森施塔特小镇，慕名参观当地的宫殿「爱
 	</programme>
 	<programme channel="5652" start="20241115200000 +0000" stop="20241115203000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 60</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Durga threatens to inform Vikram when Rajesh instructs his henchmen to imprison her at a secluded house. However, she is stunned to uncover the truth behind Vikram's sinister motives.</desc>
 	</programme>
 	<programme channel="5652" start="20241115203000 +0000" stop="20241115210000 +0000">
 		<title>Mera Balam Thanedaar Episode 228</title>
@@ -29703,27 +29707,27 @@ Christy、Jessica转赴艾森施塔特小镇，慕名参观当地的宫殿「爱
 	</programme>
 	<programme channel="5652" start="20241115213000 +0000" stop="20241115220000 +0000">
 		<title>Megha Barsenge Episode 101</title>
-		<desc>After a groom absconds from his wedding, his bride is left at the mercy of her sentiments of abandonment and to endure a judgemental societal structure.</desc>
+		<desc>An air of romance takes centerstage when Megha joins Arjun on a dinner date. Eventually, Megha grows anxious when she misplaces her nuptial chain.</desc>
 	</programme>
 	<programme channel="5652" start="20241115220000 +0000" stop="20241115223000 +0000">
-		<title>Parineetii Episode 933</title>
-		<desc>Two best friends who support each other through thick and thin face a problem when circumstance causes both of them to get married to the same man.</desc>
+		<title>Parineetii Episode 932</title>
+		<desc>While Pari conspires to disrupt Rajeev's wedding with Neeti, Daljeet's unexpected return enables the former with an opportunity to fulfil her mission with ease.</desc>
 	</programme>
 	<programme channel="5652" start="20241115223000 +0000" stop="20241115230000 +0000">
+		<title>Parineetii Episode 933</title>
+		<desc>Parineet devises a clever move to disrupt Neeti's wedding by seeking Daljeet's help. Later, drama ensues when Daljeet executes his plan to abduct Neeti.</desc>
+	</programme>
+	<programme channel="5652" start="20241115230000 +0000" stop="20241115233000 +0000">
 		<title>Parineetii Episode 934</title>
 		<desc>Two best friends who support each other through thick and thin face a problem when circumstance causes both of them to get married to the same man.</desc>
 	</programme>
-	<programme channel="5652" start="20241115230000 +0000" stop="20241115233000 +0000">
-		<title>Megha Barsenge Episode 99</title>
-		<desc>After a groom absconds from his wedding, his bride is left at the mercy of her sentiments of abandonment and to endure a judgemental societal structure.</desc>
-	</programme>
 	<programme channel="5652" start="20241115233000 +0000" stop="20241116000000 +0000">
 		<title>Megha Barsenge Episode 100</title>
-		<desc>After a groom absconds from his wedding, his bride is left at the mercy of her sentiments of abandonment and to endure a judgemental societal structure.</desc>
+		<desc>Megha feels cornered when the family refuses to believe her allegations. However, Parineet offers to help her in uncovering the real identity of the mysterious dancer.</desc>
 	</programme>
 	<programme channel="5652" start="20241116000000 +0000" stop="20241116003000 +0000">
 		<title>Megha Barsenge Episode 101</title>
-		<desc>After a groom absconds from his wedding, his bride is left at the mercy of her sentiments of abandonment and to endure a judgemental societal structure.</desc>
+		<desc>An air of romance takes centerstage when Megha joins Arjun on a dinner date. Eventually, Megha grows anxious when she misplaces her nuptial chain.</desc>
 	</programme>
 	<programme channel="5652" start="20241116003000 +0000" stop="20241116010000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 506</title>
@@ -29731,11 +29735,11 @@ Christy、Jessica转赴艾森施塔特小镇，慕名参观当地的宫殿「爱
 	</programme>
 	<programme channel="5652" start="20241116010000 +0000" stop="20241116013000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 507</title>
-		<desc>Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity.</desc>
+		<desc>Goddess Parvati transforms into her divine avatar of Mata Bahuchara and assures the Kinnars about their safety and security. However, the transgenders express apprehension about Parvati's motives.</desc>
 	</programme>
 	<programme channel="5652" start="20241116013000 +0000" stop="20241116020000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 508</title>
-		<desc>Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity.</desc>
+		<desc>Troubled by a deep sense of remorse, the transgenders pledge to rescue Nahusha. However, Karindasur vents his rage at the entire community after learning about their pledge.</desc>
 	</programme>
 	<programme channel="5652" start="20241116020000 +0000" stop="20241116023000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 58</title>
@@ -29743,11 +29747,11 @@ Christy、Jessica转赴艾森施塔特小镇，慕名参观当地的宫殿「爱
 	</programme>
 	<programme channel="5652" start="20241116023000 +0000" stop="20241116030000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 59</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Despite agreeing to accompany Rajesh to the Rathore mansion, Durga is troubled by a looming threat. With Rajesh plotting a cunning scheme, Durga trusts her instincts to trump her husband.</desc>
 	</programme>
 	<programme channel="5652" start="20241116030000 +0000" stop="20241116033000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 60</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Durga threatens to inform Vikram when Rajesh instructs his henchmen to imprison her at a secluded house. However, she is stunned to uncover the truth behind Vikram's sinister motives.</desc>
 	</programme>
 	<programme channel="5652" start="20241116033000 +0000" stop="20241116040000 +0000">
 		<title>Desi Beat Episode 36</title>
@@ -29783,7 +29787,7 @@ Christy、Jessica转赴艾森施塔特小镇，慕名参观当地的宫殿「爱
 	</programme>
 	<programme channel="5652" start="20241116073000 +0000" stop="20241116090000 +0000">
 		<title>Bigg Boss Episode 39</title>
-		<desc>As Bigg Boss delves into the future of the contestants with the cataclysm of technology, the housemates try to conquer 'Time Ka Tandav', and emerge victorious in a locked house in BB's surveillance.</desc>
+		<desc>The contestants are compelled to undertake extreme measures as the crown of 'Time God' reaches a peak moment. With various segments awaited, the housemates must play their cards with caution.</desc>
 	</programme>
 	<programme channel="5652" start="20241116090000 +0000" stop="20241116093000 +0000">
 		<title>Mangal Lakshmi Episode 261</title>
@@ -29791,7 +29795,7 @@ Christy、Jessica转赴艾森施塔特小镇，慕名参观当地的宫殿「爱
 	</programme>
 	<programme channel="5652" start="20241116093000 +0000" stop="20241116100000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 60</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Durga threatens to inform Vikram when Rajesh instructs his henchmen to imprison her at a secluded house. However, she is stunned to uncover the truth behind Vikram's sinister motives.</desc>
 	</programme>
 	<programme channel="5652" start="20241116100000 +0000" stop="20241116103000 +0000">
 		<title>Desi Beat Episode 38</title>
@@ -30890,11 +30894,11 @@ Christy、Jessica转赴艾森施塔特小镇，慕名参观当地的宫殿「爱
 		<desc>Entertainement</desc>
 	</programme>
 	<programme channel="5670" start="20241115183000 +0000" stop="20241115213000 +0000">
-		<title>Movie</title>
+		<title>ATHADE</title>
 		<desc>Entertainement</desc>
 	</programme>
 	<programme channel="5670" start="20241115213000 +0000" stop="20241116003000 +0000">
-		<title>Movie</title>
+		<title>DAGGARAGA DOORAMGA</title>
 		<desc>Entertainement</desc>
 	</programme>
 	<programme channel="5670" start="20241116003000 +0000" stop="20241116013000 +0000">
@@ -30902,23 +30906,23 @@ Christy、Jessica转赴艾森施塔特小镇，慕名参观当地的宫殿「爱
 		<desc>Entertainement</desc>
 	</programme>
 	<programme channel="5670" start="20241116013000 +0000" stop="20241116033000 +0000">
-		<title>Movie</title>
+		<title>MUGGURU MONAGALLU</title>
 		<desc>Entertainement</desc>
 	</programme>
 	<programme channel="5670" start="20241116033000 +0000" stop="20241116053000 +0000">
-		<title>Movie</title>
+		<title>YAMA DONGA</title>
 		<desc>Entertainement</desc>
 	</programme>
-	<programme channel="5670" start="20241116053000 +0000" stop="20241116100000 +0000">
-		<title>Movie</title>
+	<programme channel="5670" start="20241116053000 +0000" stop="20241116090000 +0000">
+		<title>MAALIKA PURAM</title>
 		<desc>Entertainement</desc>
 	</programme>
-	<programme channel="5670" start="20241116100000 +0000" stop="20241116123000 +0000">
-		<title>Movie</title>
+	<programme channel="5670" start="20241116090000 +0000" stop="20241116123000 +0000">
+		<title>KGF</title>
 		<desc>Entertainement</desc>
 	</programme>
 	<programme channel="5670" start="20241116123000 +0000" stop="20241116150000 +0000">
-		<title>Movie</title>
+		<title>BALAGAM</title>
 		<desc>Entertainement</desc>
 	</programme>
 	<programme channel="5671" start="20241114160000 +0000" stop="20241114170000 +0000">
@@ -31033,109 +31037,97 @@ Christy、Jessica转赴艾森施塔特小镇，慕名参观当地的宫殿「爱
 		<title>Bigg Boss S08 - Unseen Extra Cuts</title>
 		<desc>Exclusive behind-the-scenes footage and unseen moments from Bigg Boss Season 8.</desc>
 	</programme>
-	<programme channel="5671" start="20241115173000 +0000" stop="20241115203000 +0000">
+	<programme channel="5671" start="20241115173000 +0000" stop="20241115183000 +0000">
 		<title>Policeodu</title>
 		<desc>Police officer Vijay Kumar imposes a self-exile to take care of his daughter as promised to his deceased wife Mithra.</desc>
 	</programme>
+	<programme channel="5671" start="20241115183000 +0000" stop="20241115203000 +0000">
+		<title>Movie_POLICEODU</title>
+		<desc>Movie_POLICEODU</desc>
+	</programme>
 	<programme channel="5671" start="20241115203000 +0000" stop="20241115230000 +0000">
-		<title>Inkokkadu</title>
-		<desc>Suspended RAW agent, devastated by his wife's death at a drug lord's hands, seeks vengeance years later.</desc>
+		<title>Movie_NENE RAJU NENE MANTRI</title>
+		<desc>Movie_NENE RAJU NENE MANTRI</desc>
 	</programme>
 	<programme channel="5671" start="20241115230000 +0000" stop="20241116010000 +0000">
-		<title>Rail</title>
-		<desc>A railway pantry boy falls heads over heels for a make-up artist who is travelling in the New Delhi-Chennai Express.</desc>
+		<title>Movie_KRISHNA ARJUNA YUDHAM</title>
+		<desc>Entertainment</desc>
 	</programme>
 	<programme channel="5671" start="20241116010000 +0000" stop="20241116013000 +0000">
-		<title>Fun Time</title>
-		<desc>Tune into a compilation of comedy clips from the recently released Tollywood movies.</desc>
+		<title>FUN TIME</title>
+		<desc>FUN TIME</desc>
 	</programme>
-	<programme channel="5671" start="20241116013000 +0000" stop="20241116020000 +0000">
-		<title>Maha Bharatam</title>
-		<desc>Watch for an epic retelling of the ancient Indian saga filled with drama, mythology and valor.</desc>
-	</programme>
-	<programme channel="5671" start="20241116020000 +0000" stop="20241116023000 +0000">
-		<title>Shubapradam</title>
-		<desc>Dr. Pradeep, astrology scholar, provides Hindu scripture-based remedies for diverse issues and zodiac-related guidance.</desc>
-	</programme>
-	<programme channel="5671" start="20241116023000 +0000" stop="20241116030000 +0000">
-		<title>Radha Krishna</title>
-		<desc>The story of Radha and Krishna is the epitome of eternal love, which transcends eras and emotions.</desc>
-	</programme>
-	<programme channel="5671" start="20241116030000 +0000" stop="20241116033000 +0000">
-		<title>Sri Renuka Yellamma</title>
-		<desc>Goddess Parvati incarnates as Renuka and Yellamma to safeguard against evil in royal and village settings.</desc>
+	<programme channel="5671" start="20241116013000 +0000" stop="20241116033000 +0000">
+		<title>AADIVARAM STAR MAA PARIVARAM ® - STAR WARS</title>
+		<desc>AADIVARAM STAR MAA PARIVARAM ® - STAR WARS</desc>
 	</programme>
 	<programme channel="5671" start="20241116033000 +0000" stop="20241116063000 +0000">
-		<title>Baahubali 2: The Conclusion</title>
-		<desc>Shiva, the son of Bahubali, learns about his legacy and responsibility and begins to look for answers. Release Year: 2017 Director: S.S. Rajamouli Awards: 2018 Winner Saturn Award - Best International Film, 2018 Winner Special Award - Extraordinary Franch</desc>
+		<title>MOVIE_FIDAA</title>
+		<desc>Entertainment</desc>
 	</programme>
 	<programme channel="5671" start="20241116063000 +0000" stop="20241116070000 +0000">
-		<title>Paape Maa Jeevana Jyothi</title>
-		<desc>Jyothi seeks acceptance but faces turmoil as daughter Jeevana is kidnapped, jeopardizing their newfound peace.</desc>
+		<title>Paape Naa Jeevana Jyothi</title>
+		<desc>Story revolves around mother and missed daughter</desc>
 	</programme>
 	<programme channel="5671" start="20241116070000 +0000" stop="20241116073000 +0000">
-		<title>Ninnu Kori</title>
-		<desc>Pallavi invites her ex-boyfriend to stay with her and her husband to prove she is happy. Uma tries to break them up.</desc>
+		<title>NINNU KORI</title>
+		<desc>NINNU KORI</desc>
 	</programme>
 	<programme channel="5671" start="20241116073000 +0000" stop="20241116080000 +0000">
-		<title>Nuvvu Nenu Prema</title>
-		<desc>Padmavathi, a family-loving girl, meets Vikramaditya, an arrogant businessman grappling with the loss of his parents.</desc>
+		<title>NUVVU NENU PREMA</title>
+		<desc>NUVVU NENU PREMA</desc>
 	</programme>
 	<programme channel="5671" start="20241116080000 +0000" stop="20241116083000 +0000">
-		<title>Paluke Bangaramayena</title>
-		<desc>Speech-impaired Swaragini, deemed unlucky by her father. Can Officer Abhishek alter her fate?</desc>
+		<title>PALUKE BANGARAMAYENA</title>
+		<desc>PALUKE BANGARAMAYENA</desc>
 	</programme>
 	<programme channel="5671" start="20241116083000 +0000" stop="20241116090000 +0000">
-		<title>Mama Garu</title>
-		<desc>Ganga confronts chauvinistic father-in-law, challenging norms. Can she carve her path to victory and claim her rights?</desc>
+		<title>MAMA GARU</title>
+		<desc>Serial</desc>
 	</programme>
 	<programme channel="5671" start="20241116090000 +0000" stop="20241116093000 +0000">
 		<title>Vantalakka</title>
-		<desc>Kind-hearted Murali loves a wealthy girl. Their romance encounters numerous obstacles.</desc>
+		<desc>Serial</desc>
 	</programme>
 	<programme channel="5671" start="20241116093000 +0000" stop="20241116100000 +0000">
 		<title>Malli</title>
-		<desc>Malli promises Meera after hearing her past. Arvind's family frets over his new project.</desc>
+		<desc>Story of village girl</desc>
 	</programme>
 	<programme channel="5671" start="20241116100000 +0000" stop="20241116103000 +0000">
-		<title>Yeto Vellipoindi Manasu</title>
-		<desc>Varun and Nithya's lifelong journey is marked by ups and downs, leading to multiple separations.</desc>
+		<title>YETO VELLIPOINDI MANASU</title>
+		<desc>YETO VELLIPOINDI MANASU</desc>
 	</programme>
 	<programme channel="5671" start="20241116103000 +0000" stop="20241116110000 +0000">
-		<title>Gunde Ninda Gudigantalu</title>
-		<desc>Circumstances force Meena, a family-centric girl, to marry Balu, a thug. Will this unfortunate marriage turn into love?</desc>
+		<title>GUNDE NINDA GUDIGANTALU</title>
+		<desc>Entertainment</desc>
 	</programme>
 	<programme channel="5671" start="20241116110000 +0000" stop="20241116120000 +0000">
-		<title>Bigg Boss S08</title>
-		<desc>Celebrities live in an isolated house cut off from the rest of the world. They have to compete in challenging tasks to avoid elimination and win.</desc>
+		<title>BIGG BOSS 8 ® -</title>
+		<desc>BIGG BOSS 8 ® -</desc>
 	</programme>
 	<programme channel="5671" start="20241116120000 +0000" stop="20241116123000 +0000">
-		<title>Bigg Boss S08 - Unseen Extra Cuts</title>
-		<desc>Exclusive behind-the-scenes footage and unseen moments from Bigg Boss Season 8.</desc>
+		<title>GUPPEDANTHA MANASU ®</title>
+		<desc>GUPPEDANTHA MANASU ®</desc>
 	</programme>
 	<programme channel="5671" start="20241116123000 +0000" stop="20241116130000 +0000">
-		<title>Sathyabhama</title>
-		<desc>Krish falls for Satya, a principled girl. What unfolds for this extraordinary couple in their love story?</desc>
+		<title>SATYABHAMA</title>
+		<desc>SATYABHAMA</desc>
 	</programme>
 	<programme channel="5671" start="20241116130000 +0000" stop="20241116133000 +0000">
-		<title>Maguva O Maguva</title>
-		<desc>Wealthy Akhila and single mom Anjali bond during pregnancy, navigating diverse backgrounds in a tale of motherhood.</desc>
+		<title>MAGUVA O MAGUVA</title>
+		<desc>MAGUVA O MAGUVA</desc>
 	</programme>
 	<programme channel="5671" start="20241116133000 +0000" stop="20241116140000 +0000">
-		<title>Chinni</title>
-		<desc>A heartwarming tale of a Mother and Daughter navigating through unexpected challenges, strengthening their bond and understanding each other in new ways.</desc>
+		<title>CHINNI</title>
+		<desc>Serial</desc>
 	</programme>
 	<programme channel="5671" start="20241116140000 +0000" stop="20241116143000 +0000">
-		<title>Brahma Mudi</title>
-		<desc>Mother arranges weddings for talented daughters. Affairs take an unexpected turn with an affluent family.</desc>
+		<title>BRAHMA MUDI</title>
+		<desc>BRAHMA MUDI</desc>
 	</programme>
-	<programme channel="5671" start="20241116143000 +0000" stop="20241116150000 +0000">
-		<title>Karthika Deepam-Nava Vasantham</title>
-		<desc>Deepa, dark-skinned, toils against social pressures after marrying Dr. Karthik.</desc>
-	</programme>
-	<programme channel="5671" start="20241116150000 +0000" stop="20241116153000 +0000">
-		<title>Intinti Ramayanam</title>
-		<desc>Members of a close-knit family begin to doubt one another when they suddenly face a problem.</desc>
+	<programme channel="5671" start="20241116143000 +0000" stop="20241116153000 +0000">
+		<title>INTINTI RAMAYANAM</title>
+		<desc>INTINTI RAMAYANAM</desc>
 	</programme>
 	<programme channel="5676" start="20241114160000 +0000" stop="20241114170000 +0000">
 		<title>INDIA UPFRONT</title>
@@ -32105,17 +32097,9 @@ Christy、Jessica转赴艾森施塔特小镇，慕名参观当地的宫殿「爱
 		<title>The Comedy of LIFE "Autumn"</title>
 		<desc>Comedy skits depicting joys and sorrows of life will be presented in omnibus formats.</desc>
 	</programme>
-	<programme channel="5682" start="20241115134500 +0000" stop="20241115141400 +0000">
-		<title>Game Genome "It Takes Two" Encore (R)</title>
-		<desc>Featuring distinguished programs ranging from entertainment shows to documentaries.</desc>
-	</programme>
-	<programme channel="5682" start="20241115141400 +0000" stop="20241115141500 +0000">
-		<title>Mini Program</title>
-		<desc>Mini Program</desc>
-	</programme>
-	<programme channel="5682" start="20241115141500 +0000" stop="20241115143000 +0000">
-		<title>Magnificent Sight!--Mountain Lodges in Europe</title>
-		<desc>Magnificent Sight!--Mountain Lodges in Europe</desc>
+	<programme channel="5682" start="20241115134500 +0000" stop="20241115143000 +0000">
+		<title>The Fountain of Ancient Wisdom</title>
+		<desc>The challenges we face today are similar to what our forerunners went through. The program searches for clues to solve problems, utilizing the wisdoms of historical figures.</desc>
 	</programme>
 	<programme channel="5682" start="20241115143000 +0000" stop="20241115144000 +0000">
 		<title>News Commentary</title>
@@ -32233,11 +32217,15 @@ Christy、Jessica转赴艾森施塔特小镇，慕名参观当地的宫殿「爱
 		<title>News &amp; Weather</title>
 		<desc>The latest up-to-date news and nationwide weather information.</desc>
 	</programme>
-	<programme channel="5682" start="20241116010500 +0000" stop="20241116013800 +0000">
-		<title>The Visualization Entertainment: Go! Kaneo-kun</title>
-		<desc>The show is MC-ed by comedian Ariyoshi Hiroiki, who hosts an NHK program on a regular basis for the first time. The mascot character "Kaneo-kun" (voice of Nobu, of comedy duo Chidori), who loves money, visits various places, including popular visiting lo</desc>
+	<programme channel="5682" start="20241116010500 +0000" stop="20241116013400 +0000">
+		<title>Transcending Happiness: A Love that's Brought Together by a Battle with Breast Cancer (R)</title>
+		<desc>The show features couples, parent and child, and friends talking about the different forms of happiness that they have discovered together throughout their life.</desc>
 	</programme>
-	<programme channel="5682" start="20241116013800 +0000" stop="20241116014000 +0000">
+	<programme channel="5682" start="20241116013400 +0000" stop="20241116013900 +0000">
+		<title>Super Rare! Railroad Treasure Films</title>
+		<desc>Super Rare! Railroad Treasure Films</desc>
+	</programme>
+	<programme channel="5682" start="20241116013900 +0000" stop="20241116014000 +0000">
 		<title>Mini Program</title>
 		<desc>Mini Program</desc>
 	</programme>
@@ -32363,7 +32351,7 @@ Christy、Jessica转赴艾森施塔特小镇，慕名参观当地的宫殿「爱
 	</programme>
 	<programme channel="5682" start="20241116140000 +0000" stop="20241116143000 +0000">
 		<title>Venue101</title>
-		<desc>This live entertainment show delivers the latest music performances and information, and also connects with the audience making full use of social media.</desc>
+		<desc>Venue101</desc>
 	</programme>
 	<programme channel="5682" start="20241116143000 +0000" stop="20241116153000 +0000">
 		<title>Somewhere Street "Charleston, the U.S."</title>
@@ -33993,53 +33981,53 @@ Christy、Jessica转赴艾森施塔特小镇，慕名参观当地的宫殿「爱
 		<title>TUHOG</title>
 		<desc>TUHOG</desc>
 	</programme>
-	<programme channel="6692" start="20241115160000 +0000" stop="20241115173000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="6692" start="20241115160000 +0000" stop="20241115180000 +0000">
+		<title>MY OTHER WOMAN</title>
+		<desc>MY OTHER WOMAN</desc>
 	</programme>
-	<programme channel="6692" start="20241115173000 +0000" stop="20241115190000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="6692" start="20241115180000 +0000" stop="20241115200000 +0000">
+		<title>MASIKIP, MAINIT PARAISONG PARISUKAT</title>
+		<desc>MASIKIP, MAINIT PARAISONG PARISUKAT</desc>
 	</programme>
-	<programme channel="6692" start="20241115190000 +0000" stop="20241115210000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="6692" start="20241115200000 +0000" stop="20241115220000 +0000">
+		<title>KUMANDER MELODY</title>
+		<desc>KUMANDER MELODY</desc>
 	</programme>
-	<programme channel="6692" start="20241115210000 +0000" stop="20241115230000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="6692" start="20241115220000 +0000" stop="20241116000000 +0000">
+		<title>PEDRONG PALAD</title>
+		<desc>PEDRONG PALAD</desc>
 	</programme>
-	<programme channel="6692" start="20241115230000 +0000" stop="20241116010000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="6692" start="20241116000000 +0000" stop="20241116020000 +0000">
+		<title>DINO..ABANGAN ANG SUSUNOD NA</title>
+		<desc>DINO..ABANGAN ANG SUSUNOD NA</desc>
 	</programme>
-	<programme channel="6692" start="20241116010000 +0000" stop="20241116030000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="6692" start="20241116020000 +0000" stop="20241116040000 +0000">
+		<title>KAHIT ISANG SAGLIT</title>
+		<desc>KAHIT ISANG SAGLIT</desc>
 	</programme>
-	<programme channel="6692" start="20241116030000 +0000" stop="20241116050000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="6692" start="20241116040000 +0000" stop="20241116060000 +0000">
+		<title>PANGARAP NG PUSO</title>
+		<desc>PANGARAP NG PUSO</desc>
 	</programme>
-	<programme channel="6692" start="20241116050000 +0000" stop="20241116070000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="6692" start="20241116060000 +0000" stop="20241116080000 +0000">
+		<title>MY ILLEGAL WIFE</title>
+		<desc>MY ILLEGAL WIFE</desc>
 	</programme>
-	<programme channel="6692" start="20241116070000 +0000" stop="20241116090000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
-	</programme>
-	<programme channel="6692" start="20241116090000 +0000" stop="20241116100000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="6692" start="20241116080000 +0000" stop="20241116100000 +0000">
+		<title>FINDING YOU</title>
+		<desc>FINDING YOU</desc>
 	</programme>
 	<programme channel="6692" start="20241116100000 +0000" stop="20241116120000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>MINA-ANUD</title>
+		<desc>MINA-ANUD</desc>
 	</programme>
 	<programme channel="6692" start="20241116120000 +0000" stop="20241116140000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>LANGIS AT TUBIG</title>
+		<desc>LANGIS AT TUBIG</desc>
+	</programme>
+	<programme channel="6692" start="20241116140000 +0000" stop="20241116153000 +0000">
+		<title>BLUE BUSTAMANTE</title>
+		<desc>BLUE BUSTAMANTE</desc>
 	</programme>
 	<programme channel="5693" start="20241114141500 +0000" stop="20241114161500 +0000">
 		<title>IT'S SHOWTIME</title>
