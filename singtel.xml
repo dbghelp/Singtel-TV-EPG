@@ -4430,16 +4430,12 @@ Streetside Feast is a mouth-watering food documentary, presenting viewers with h
 		<desc>Premier Padel 2024</desc>
 	</programme>
 	<programme channel="6126" start="20241116150000 +0000" stop="20241116163000 +0000">
-		<title>Premier Padel 2024: Kuwait P1 Day 6 SF 2 - Men (Live) Episode 718</title>
+		<title>Premier Padel 2024: Kuwait P1 Day 6 SF 2 - Women (Live) Episode 717</title>
 		<desc>Premier Padel 2024</desc>
 	</programme>
-	<programme channel="6126" start="20241116163000 +0000" stop="20241116170000 +0000">
-		<title>Global Polo Show 2024: Breakaway: Polo in the Palm Beaches Part 2 Episode 3</title>
-		<desc>Global Polo Show 2024</desc>
-	</programme>
-	<programme channel="6126" start="20241116170000 +0000" stop="20241116172300 +0000">
-		<title>LaLiga Zap 2024/25: Episode Number 3 Episode 3</title>
-		<desc>LaLiga Zap 2024/25</desc>
+	<programme channel="6126" start="20241116163000 +0000" stop="20241116172300 +0000">
+		<title>Premier Padel 2024: Kuwait P1 Day 6 SF 2 - Men (Live) Episode 718</title>
+		<desc>Premier Padel 2024</desc>
 	</programme>
 	<programme channel="6126" start="20241116172300 +0000" stop="20241116193000 +0000">
 		<title>LaLiga 2 2024/25: Racing de Santander vs Burgos (Live) Episode 38</title>
@@ -6010,8 +6006,8 @@ Streetside Feast is a mouth-watering food documentary, presenting viewers with h
 		<desc>Our focus this time is honey. Innovations like urban beekeeping are born of a global bee crisis. Differing flowers and environments offer infinite flavors in this fascinating world of honey.</desc>
 	</programme>
 	<programme channel="5157" start="20241116162500 +0000" stop="20241116163000 +0000">
-		<title>The seasons of Yamato</title>
-		<desc>NHK WORLD-JAPAN presents a variety of short programs focusing on Japan and Asia.</desc>
+		<title>The Seasons of Yamato</title>
+		<desc>A series of poetic videos by Koichi Hozan, a videographer living in Nara, in collaboration with a pianist, Mine Kawakami, for which she plays exclusive pieces, makes you experience each seasons.</desc>
 	</programme>
 	<programme channel="5157" start="20241116163000 +0000" stop="20241116165700 +0000">
 		<title>GRAND SUMO Highlights</title>
@@ -6098,8 +6094,8 @@ Streetside Feast is a mouth-watering food documentary, presenting viewers with h
 		<desc>Our focus this time is honey. Innovations like urban beekeeping are born of a global bee crisis. Differing flowers and environments offer infinite flavors in this fascinating world of honey.</desc>
 	</programme>
 	<programme channel="5157" start="20241116232000 +0000" stop="20241116232500 +0000">
-		<title>The seasons of Yamato</title>
-		<desc>NHK WORLD-JAPAN presents a variety of short programs focusing on Japan and Asia.</desc>
+		<title>The Seasons of Yamato</title>
+		<desc>A series of poetic videos by Koichi Hozan, a videographer living in Nara, in collaboration with a pianist, Mine Kawakami, for which she plays exclusive pieces, makes you experience each seasons.</desc>
 	</programme>
 	<programme channel="5157" start="20241116232500 +0000" stop="20241116233000 +0000">
 		<title>Ukiyoe EDO-LIFE</title>
@@ -6119,14 +6115,14 @@ Streetside Feast is a mouth-watering food documentary, presenting viewers with h
 	</programme>
 	<programme channel="5157" start="20241117001000 +0000" stop="20241117010000 +0000">
 		<title>Climate Tech</title>
-		<desc>NHK WORLD-JAPAN's flagship documentary series offers must-see episodes on politics, the economy, social trends, science and the environment in Japan and beyond.</desc>
+		<desc>Part 2 is about adaptation measures. It introduces Japan's disaster prevention technology, such as flood control and early warning systems, as well as infectious disease countermeasures in Thailand.</desc>
 	</programme>
 	<programme channel="5157" start="20241117010000 +0000" stop="20241117011000 +0000">
 		<title>NHK NEWSLINE</title>
 		<desc>NHK WORLD-JAPAN's flagship hourly news program delivers the latest world news, business and weather, with a focus on Japan and the rest of Asia.</desc>
 	</programme>
 	<programme channel="5157" start="20241117011000 +0000" stop="20241117020000 +0000">
-		<title>Navigating Disasters: Heavy Rain</title>
+		<title>Navigating Disasters</title>
 		<desc>Torrential rains are causing increasing devastation worldwide. This program shares Japan's disaster prevention expertise and latest research.</desc>
 	</programme>
 	<programme channel="5157" start="20241117020000 +0000" stop="20241117021000 +0000">
@@ -6211,14 +6207,14 @@ Streetside Feast is a mouth-watering food documentary, presenting viewers with h
 	</programme>
 	<programme channel="5157" start="20241117061000 +0000" stop="20241117070000 +0000">
 		<title>Climate Tech</title>
-		<desc>NHK WORLD-JAPAN's flagship documentary series offers must-see episodes on politics, the economy, social trends, science and the environment in Japan and beyond.</desc>
+		<desc>Part 2 is about adaptation measures. It introduces Japan's disaster prevention technology, such as flood control and early warning systems, as well as infectious disease countermeasures in Thailand.</desc>
 	</programme>
 	<programme channel="5157" start="20241117070000 +0000" stop="20241117071000 +0000">
 		<title>NHK NEWSLINE</title>
 		<desc>NHK WORLD-JAPAN's flagship hourly news program delivers the latest world news, business and weather, with a focus on Japan and the rest of Asia.</desc>
 	</programme>
 	<programme channel="5157" start="20241117071000 +0000" stop="20241117080000 +0000">
-		<title>Navigating Disasters: Heavy Rain</title>
+		<title>Navigating Disasters</title>
 		<desc>Torrential rains are causing increasing devastation worldwide. This program shares Japan's disaster prevention expertise and latest research.</desc>
 	</programme>
 	<programme channel="5157" start="20241117080000 +0000" stop="20241117081000 +0000">
@@ -6279,14 +6275,14 @@ Streetside Feast is a mouth-watering food documentary, presenting viewers with h
 	</programme>
 	<programme channel="5157" start="20241117121000 +0000" stop="20241117130000 +0000">
 		<title>Climate Tech</title>
-		<desc>NHK WORLD-JAPAN's flagship documentary series offers must-see episodes on politics, the economy, social trends, science and the environment in Japan and beyond.</desc>
+		<desc>Part 2 is about adaptation measures. It introduces Japan's disaster prevention technology, such as flood control and early warning systems, as well as infectious disease countermeasures in Thailand.</desc>
 	</programme>
 	<programme channel="5157" start="20241117130000 +0000" stop="20241117131000 +0000">
 		<title>NHK NEWSLINE</title>
 		<desc>NHK WORLD-JAPAN's flagship hourly news program delivers the latest world news, business and weather, with a focus on Japan and the rest of Asia.</desc>
 	</programme>
 	<programme channel="5157" start="20241117131000 +0000" stop="20241117140000 +0000">
-		<title>Navigating Disasters: Heavy Rain</title>
+		<title>Navigating Disasters</title>
 		<desc>Torrential rains are causing increasing devastation worldwide. This program shares Japan's disaster prevention expertise and latest research.</desc>
 	</programme>
 	<programme channel="5157" start="20241117140000 +0000" stop="20241117141000 +0000">
@@ -8734,176 +8730,172 @@ Streetside Feast is a mouth-watering food documentary, presenting viewers with h
 		<desc>David Westin speaks with top names in finance about the week's biggest issues on Wall Street.</desc>
 	</programme>
 	<programme channel="5171" start="20241116160000 +0000" stop="20241116163000 +0000">
-		<title>Bloomberg Studio 1.0</title>
-		<desc>Roblox CEO &amp; Co-Founder David Baszucki. Bloomberg talks to David Baszucki about the success of the online gaming platform, Roblox.</desc>
+		<title>Bloomberg New Economy: New Reality, New Rules</title>
+		<desc>Special coverage of the Bloomberg New Economy event. CEOs and government leaders talk about the challenges they face: Trade barriers, technological disruption, environmental catastrophes.</desc>
 	</programme>
 	<programme channel="5171" start="20241116163000 +0000" stop="20241116170000 +0000">
-		<title>Leaders with Lacqua</title>
-		<desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
+		<title>Bloomberg Screentime: Defining the Next Phase of Pop Culture</title>
+		<desc>Screentime gathers the moguls, celebrities, and entrepreneurs defining the next phase of pop culture, including Michael Rapino, Clara Wu Tsai, Brian Roberts, Bela Bajaria and Snoop Dogg.</desc>
 	</programme>
 	<programme channel="5171" start="20241116170000 +0000" stop="20241116173000 +0000">
-		<title>Athlete | Empire: Alex Rodriguez</title>
-		<desc>Former baseball pro Alex Rodriguez quietly built a real estate empire over 20 years. Now, after retiring from baseball, he's accelerating his transformation from former athlete to investor and owner.</desc>
+		<title>The Circuit</title>
+		<desc>A fast-paced, dynamic series that lives at the intersection of culture, tech, entertainment, and business. Hosted by high-profile journalist Emily Chang.</desc>
 	</programme>
 	<programme channel="5171" start="20241116173000 +0000" stop="20241116180000 +0000">
-		<title>Leaders with Lacqua</title>
-		<desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
+		<title>Momentum</title>
+		<desc>Join Haslinda Amin on a journey to the frontiers of innovation, uncovering the groundbreaking ideas and inspiring people shaping our future.</desc>
 	</programme>
 	<programme channel="5171" start="20241116180000 +0000" stop="20241116183000 +0000">
 		<title>The David Rubenstein Show</title>
-		<desc>Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
+		<desc>Cal Ripken Jr. Hall of Fame Baseball Player and MLB Owner. Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
 	</programme>
 	<programme channel="5171" start="20241116183000 +0000" stop="20241116190000 +0000">
-		<title>Bloomberg Green</title>
-		<desc>Climate change is the defining story of our time. Bloomberg Green brings you the news, science, and data to understand it in full. Hosted by Kailey Leinz.</desc>
+		<title>Posthuman</title>
+		<desc>Emily Chang meets some of the world's most advanced, intelligent, robots. Will the creation of a synthetic species with human-like intelligence improve the human experience, or end it?</desc>
 	</programme>
 	<programme channel="5171" start="20241116190000 +0000" stop="20241116193000 +0000">
-		<title>Leaders with Lacqua</title>
-		<desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
+		<title>Power Players</title>
+		<desc>A series of shows focused on the business of sport, diversity in elite competition, and the rise of e-sports.</desc>
 	</programme>
 	<programme channel="5171" start="20241116193000 +0000" stop="20241116200000 +0000">
 		<title>Leaders with Lacqua</title>
-		<desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
+		<desc>In a rare interview, Chanel CEO Leena Nair speaks about her professional and personal journey, how it defines her leadership style, and her unique approach at the top of luxury.</desc>
 	</programme>
 	<programme channel="5171" start="20241116200000 +0000" stop="20241116203000 +0000">
-		<title>Leaders with Lacqua</title>
-		<desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
+		<title>Power Players</title>
+		<desc>National Women's Soccer League Commissioner Jessica Berman is presiding over a pivotal moment for women's soccer. Can she help turn astronomical growth into a sustained business?</desc>
 	</programme>
 	<programme channel="5171" start="20241116203000 +0000" stop="20241116210000 +0000">
-		<title>Athlete | Empire: Alex Rodriguez</title>
-		<desc>Former baseball pro Alex Rodriguez quietly built a real estate empire over 20 years. Now, after retiring from baseball, he's accelerating his transformation from former athlete to investor and owner.</desc>
+		<title>Best of the Global Business Forum 2024</title>
+		<desc>Discussions focused on aligning governments and businesses around major trends, risks and opportunities impacting global markets.</desc>
 	</programme>
 	<programme channel="5171" start="20241116210000 +0000" stop="20241116213000 +0000">
-		<title>Bloomberg Wealth with David Rubenstein</title>
-		<desc>Renowned financier and philanthropist David Rubenstein talks with the world's most successful investors, who share their investing strategies and tactics.</desc>
+		<title>Inside Adani: A Bloomberg Exclusive</title>
+		<desc>With unprecedented access to each of the scions and Gautam Adani himself, we see what succession looks like inside one of the wealthiest and most opaque family businesses in the world.</desc>
 	</programme>
 	<programme channel="5171" start="20241116213000 +0000" stop="20241116220000 +0000">
-		<title>Bloomberg Wealth with David Rubenstein</title>
-		<desc>Renowned financier and philanthropist David Rubenstein talks with the world's most successful investors, who share their investing strategies and tactics.</desc>
+		<title>Leaders with Lacqua</title>
+		<desc>Brookfield CEO Bruce Flatt. Bruce Flatt speaks to Francine about the secrets of his success, the outlook for commercial real estate, and his own future.</desc>
 	</programme>
 	<programme channel="5171" start="20241116220000 +0000" stop="20241116230000 +0000">
-		<title>Bloomberg Wall Street Week</title>
-		<desc>David Westin speaks with top names in finance about the week's biggest issues on Wall Street.</desc>
+		<title>Idea Generation</title>
+		<desc>Ideas are the global currency of the 21st century. But how do you come up with, execute, and operationalise one? The answers are what separates successful creative influences from everyone else.</desc>
 	</programme>
 	<programme channel="5171" start="20241116230000 +0000" stop="20241116233000 +0000">
-		<title>Bloomberg Studio 1.0</title>
-		<desc>Roblox CEO &amp; Co-Founder David Baszucki. Bloomberg talks to David Baszucki about the success of the online gaming platform, Roblox.</desc>
+		<title>Hello World</title>
+		<desc>Switzerland is full of advanced tech startups. We visit an inventor who makes drones do miraculous things and a company that's growing human skin in a lab.</desc>
 	</programme>
 	<programme channel="5171" start="20241116233000 +0000" stop="20241117000000 +0000">
-		<title>Bloomberg Studio 1.0</title>
-		<desc>Roblox CEO &amp; Co-Founder David Baszucki. Bloomberg talks to David Baszucki about the success of the online gaming platform, Roblox.</desc>
+		<title>The Earthshot Prize Innovation Summit 2024</title>
+		<desc>This special Bloomberg program highlights the Best of The Earthshot Prize Innovation Summit 2024's biggest interviews and news makers.</desc>
 	</programme>
 	<programme channel="5171" start="20241117000000 +0000" stop="20241117003000 +0000">
-		<title>Bloomberg Studio 1.0</title>
-		<desc>Roblox CEO &amp; Co-Founder David Baszucki. Bloomberg talks to David Baszucki about the success of the online gaming platform, Roblox.</desc>
+		<title>Power Players</title>
+		<desc>A series of shows focused on the business of sport, diversity in elite competition, and the rise of e-sports.</desc>
 	</programme>
 	<programme channel="5171" start="20241117003000 +0000" stop="20241117010000 +0000">
 		<title>Leaders with Lacqua</title>
-		<desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
+		<desc>In a rare interview, Chanel CEO Leena Nair speaks about her professional and personal journey, how it defines her leadership style, and her unique approach at the top of luxury.</desc>
 	</programme>
 	<programme channel="5171" start="20241117010000 +0000" stop="20241117013000 +0000">
-		<title>Leaders with Lacqua</title>
-		<desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
+		<title>Power Players</title>
+		<desc>National Women's Soccer League Commissioner Jessica Berman is presiding over a pivotal moment for women's soccer. Can she help turn astronomical growth into a sustained business?</desc>
 	</programme>
 	<programme channel="5171" start="20241117013000 +0000" stop="20241117020000 +0000">
-		<title>Leaders with Lacqua</title>
-		<desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
+		<title>Inside Adani: A Bloomberg Exclusive</title>
+		<desc>With unprecedented access to each of the scions and Gautam Adani himself, we see what succession looks like inside one of the wealthiest and most opaque family businesses in the world.</desc>
 	</programme>
 	<programme channel="5171" start="20241117020000 +0000" stop="20241117023000 +0000">
-		<title>Bloomberg Wealth with David Rubenstein</title>
-		<desc>Renowned financier and philanthropist David Rubenstein talks with the world's most successful investors, who share their investing strategies and tactics.</desc>
+		<title>Posthuman</title>
+		<desc>Emily Chang meets some of the world's most advanced, intelligent, robots. Will the creation of a synthetic species with human-like intelligence improve the human experience, or end it?</desc>
 	</programme>
 	<programme channel="5171" start="20241117023000 +0000" stop="20241117030000 +0000">
-		<title>Bloomberg Wealth with David Rubenstein</title>
-		<desc>Renowned financier and philanthropist David Rubenstein talks with the world's most successful investors, who share their investing strategies and tactics.</desc>
+		<title>Best of the Global Business Forum 2024</title>
+		<desc>Discussions focused on aligning governments and businesses around major trends, risks and opportunities impacting global markets.</desc>
 	</programme>
-	<programme channel="5171" start="20241117030000 +0000" stop="20241117033000 +0000">
-		<title>Bloomberg Studio 1.0</title>
-		<desc>Roblox CEO &amp; Co-Founder David Baszucki. Bloomberg talks to David Baszucki about the success of the online gaming platform, Roblox.</desc>
-	</programme>
-	<programme channel="5171" start="20241117033000 +0000" stop="20241117040000 +0000">
-		<title>Bloomberg Studio 1.0</title>
-		<desc>Roblox CEO &amp; Co-Founder David Baszucki. Bloomberg talks to David Baszucki about the success of the online gaming platform, Roblox.</desc>
+	<programme channel="5171" start="20241117030000 +0000" stop="20241117040000 +0000">
+		<title>Idea Generation</title>
+		<desc>Ideas are the global currency of the 21st century. But how do you come up with, execute, and operationalise one? The answers are what separates successful creative influences from everyone else.</desc>
 	</programme>
 	<programme channel="5171" start="20241117040000 +0000" stop="20241117043000 +0000">
-		<title>Athlete | Empire: Alex Rodriguez</title>
-		<desc>Former baseball pro Alex Rodriguez quietly built a real estate empire over 20 years. Now, after retiring from baseball, he's accelerating his transformation from former athlete to investor and owner.</desc>
+		<title>Bloomberg Screentime: Defining the Next Phase of Pop Culture</title>
+		<desc>Screentime gathers the moguls, celebrities, and entrepreneurs defining the next phase of pop culture, including Michael Rapino, Clara Wu Tsai, Brian Roberts, Bela Bajaria and Snoop Dogg.</desc>
 	</programme>
 	<programme channel="5171" start="20241117043000 +0000" stop="20241117050000 +0000">
-		<title>Bloomberg Studio 1.0</title>
-		<desc>Roblox CEO &amp; Co-Founder David Baszucki. Bloomberg talks to David Baszucki about the success of the online gaming platform, Roblox.</desc>
+		<title>Power Players</title>
+		<desc>National Women's Soccer League Commissioner Jessica Berman is presiding over a pivotal moment for women's soccer. Can she help turn astronomical growth into a sustained business?</desc>
 	</programme>
-	<programme channel="5171" start="20241117050000 +0000" stop="20241117060000 +0000">
-		<title>Bloomberg Wall Street Week</title>
-		<desc>David Westin speaks with top names in finance about the week's biggest issues on Wall Street.</desc>
+	<programme channel="5171" start="20241117050000 +0000" stop="20241117053000 +0000">
+		<title>The Circuit</title>
+		<desc>Google &amp; Alphabet CEO Sundar Pichai sits down with Emily Chang to discuss the future of search, accelerating work on Google's AI models and how his upbringing prepared him for this moment.</desc>
+	</programme>
+	<programme channel="5171" start="20241117053000 +0000" stop="20241117060000 +0000">
+		<title>Leaders with Lacqua</title>
+		<desc>Brookfield CEO Bruce Flatt. Bruce Flatt speaks to Francine about the secrets of his success, the outlook for commercial real estate, and his own future.</desc>
 	</programme>
 	<programme channel="5171" start="20241117060000 +0000" stop="20241117063000 +0000">
-		<title>Leaders with Lacqua</title>
-		<desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
+		<title>The Circuit</title>
+		<desc>A fast-paced, dynamic series that lives at the intersection of culture, tech, entertainment, and business. Hosted by high-profile journalist Emily Chang.</desc>
 	</programme>
 	<programme channel="5171" start="20241117063000 +0000" stop="20241117070000 +0000">
-		<title>Worldwide Business with Kathy Ireland</title>
-		<desc>Kathy Ireland, founder and CEO of her own billion-dollar brand, meets corporate leaders who offer the latest in corporate advancements, expert advice and brand strategies.</desc>
+		<title>The Earthshot Prize Innovation Summit 2024</title>
+		<desc>This special Bloomberg program highlights the Best of The Earthshot Prize Innovation Summit 2024's biggest interviews and news makers.</desc>
 	</programme>
 	<programme channel="5171" start="20241117070000 +0000" stop="20241117073000 +0000">
-		<title>Athlete | Empire: Alex Rodriguez</title>
-		<desc>Former baseball pro Alex Rodriguez quietly built a real estate empire over 20 years. Now, after retiring from baseball, he's accelerating his transformation from former athlete to investor and owner.</desc>
+		<title>Best of the Global Business Forum 2024</title>
+		<desc>Discussions focused on aligning governments and businesses around major trends, risks and opportunities impacting global markets.</desc>
 	</programme>
 	<programme channel="5171" start="20241117073000 +0000" stop="20241117080000 +0000">
-		<title>Bloomberg Studio 1.0</title>
-		<desc>Roblox CEO &amp; Co-Founder David Baszucki. Bloomberg talks to David Baszucki about the success of the online gaming platform, Roblox.</desc>
+		<title>Bloomberg Screentime: Defining the Next Phase of Pop Culture</title>
+		<desc>Screentime gathers the moguls, celebrities, and entrepreneurs defining the next phase of pop culture, including Michael Rapino, Clara Wu Tsai, Brian Roberts, Bela Bajaria and Snoop Dogg.</desc>
 	</programme>
 	<programme channel="5171" start="20241117080000 +0000" stop="20241117083000 +0000">
-		<title>Bloomberg Studio 1.0</title>
-		<desc>Roblox CEO &amp; Co-Founder David Baszucki. Bloomberg talks to David Baszucki about the success of the online gaming platform, Roblox.</desc>
+		<title>Momentum</title>
+		<desc>Join Haslinda Amin on a journey to the frontiers of innovation, uncovering the groundbreaking ideas and inspiring people shaping our future.</desc>
 	</programme>
 	<programme channel="5171" start="20241117083000 +0000" stop="20241117090000 +0000">
-		<title>Bloomberg Studio 1.0</title>
-		<desc>Roblox CEO &amp; Co-Founder David Baszucki. Bloomberg talks to David Baszucki about the success of the online gaming platform, Roblox.</desc>
+		<title>Bloomberg New Economy: New Reality, New Rules</title>
+		<desc>Special coverage of the Bloomberg New Economy event. CEOs and government leaders talk about the challenges they face: Trade barriers, technological disruption, environmental catastrophes.</desc>
 	</programme>
 	<programme channel="5171" start="20241117090000 +0000" stop="20241117100000 +0000">
 		<title>Bloomberg Wall Street Week</title>
-		<desc>David Westin speaks with top names in finance about the week's biggest issues on Wall Street.</desc>
+		<desc>A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York.</desc>
 	</programme>
-	<programme channel="5171" start="20241117100000 +0000" stop="20241117103000 +0000">
-		<title>Leaders with Lacqua</title>
-		<desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
-	</programme>
-	<programme channel="5171" start="20241117103000 +0000" stop="20241117110000 +0000">
-		<title>Bloomberg Wealth with David Rubenstein</title>
-		<desc>Renowned financier and philanthropist David Rubenstein talks with the world's most successful investors, who share their investing strategies and tactics.</desc>
+	<programme channel="5171" start="20241117100000 +0000" stop="20241117110000 +0000">
+		<title>Idea Generation</title>
+		<desc>Ideas are the global currency of the 21st century. But how do you come up with, execute, and operationalise one? The answers are what separates successful creative influences from everyone else.</desc>
 	</programme>
 	<programme channel="5171" start="20241117110000 +0000" stop="20241117113000 +0000">
-		<title>Bloomberg Green</title>
-		<desc>Climate change is the defining story of our time. Bloomberg Green brings you the news, science, and data to understand it in full. Hosted by Kailey Leinz.</desc>
+		<title>Momentum</title>
+		<desc>Join Haslinda Amin on a journey to the frontiers of innovation, uncovering the groundbreaking ideas and inspiring people shaping our future.</desc>
 	</programme>
 	<programme channel="5171" start="20241117113000 +0000" stop="20241117120000 +0000">
-		<title>Leaders with Lacqua</title>
-		<desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
+		<title>The Circuit</title>
+		<desc>A fast-paced, dynamic series that lives at the intersection of culture, tech, entertainment, and business. Hosted by high-profile journalist Emily Chang.</desc>
 	</programme>
 	<programme channel="5171" start="20241117120000 +0000" stop="20241117123000 +0000">
-		<title>Athlete | Empire: Alex Rodriguez</title>
-		<desc>Former baseball pro Alex Rodriguez quietly built a real estate empire over 20 years. Now, after retiring from baseball, he's accelerating his transformation from former athlete to investor and owner.</desc>
+		<title>Bloomberg New Economy: New Reality, New Rules</title>
+		<desc>Special coverage of the Bloomberg New Economy event. CEOs and government leaders talk about the challenges they face: Trade barriers, technological disruption, environmental catastrophes.</desc>
 	</programme>
 	<programme channel="5171" start="20241117123000 +0000" stop="20241117130000 +0000">
-		<title>Bloomberg Studio 1.0</title>
-		<desc>Roblox CEO &amp; Co-Founder David Baszucki. Bloomberg talks to David Baszucki about the success of the online gaming platform, Roblox.</desc>
+		<title>Posthuman</title>
+		<desc>Emily Chang meets some of the world's most advanced, intelligent, robots. Will the creation of a synthetic species with human-like intelligence improve the human experience, or end it?</desc>
 	</programme>
 	<programme channel="5171" start="20241117130000 +0000" stop="20241117133000 +0000">
-		<title>Leaders with Lacqua</title>
-		<desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
+		<title>Bloomberg Chief Future Officer</title>
+		<desc>Alan Ellingson, DraftKings. Profiling DraftKings CFO Alan Ellingson, who will play a key role in the online sports betting operator's next phase.</desc>
 	</programme>
 	<programme channel="5171" start="20241117133000 +0000" stop="20241117140000 +0000">
-		<title>Leaders with Lacqua</title>
-		<desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
+		<title>Bloomberg Screentime: Defining the Next Phase of Pop Culture</title>
+		<desc>Screentime gathers the moguls, celebrities, and entrepreneurs defining the next phase of pop culture, including Michael Rapino, Clara Wu Tsai, Brian Roberts, Bela Bajaria and Snoop Dogg.</desc>
 	</programme>
 	<programme channel="5171" start="20241117140000 +0000" stop="20241117150000 +0000">
 		<title>Bloomberg Wall Street Week</title>
-		<desc>David Westin speaks with top names in finance about the week's biggest issues on Wall Street.</desc>
+		<desc>A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York.</desc>
 	</programme>
 	<programme channel="5171" start="20241117150000 +0000" stop="20241117153000 +0000">
 		<title>The David Rubenstein Show</title>
-		<desc>Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
+		<desc>Cal Ripken Jr. Hall of Fame Baseball Player and MLB Owner. Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
 	</programme>
 	<programme channel="5173" start="20241115160000 +0000" stop="20241115163000 +0000">
 		<title>Us Money Movers</title>
@@ -9533,15 +9525,15 @@ Streetside Feast is a mouth-watering food documentary, presenting viewers with h
 		<title>Equator From The Air (S1) Episode 3</title>
 		<desc>Crossing the Pacific, Gordon discovers how a view from above is helping protect hammerhead sharks and giant tortoises, and what it could reveal about the future of our coral reefs.</desc>
 	</programme>
-	<programme channel="6203" start="20241116192000 +0000" stop="20241116201500 +0000">
+	<programme channel="6203" start="20241116192000 +0000" stop="20241116201000 +0000">
 		<title>Engineering Reborn (S1) Episode 3</title>
 		<desc>An old and deserted dry dock is transformed into an amazing subterranean museum, after the engineers drain the entire ground and build a new concrete base.</desc>
 	</programme>
-	<programme channel="6203" start="20241116201500 +0000" stop="20241116210500 +0000">
+	<programme channel="6203" start="20241116201000 +0000" stop="20241116210000 +0000">
 		<title>Extreme Treks (S3) Episode 3</title>
 		<desc>The Kokoda Trail is a single file footpath that runs in a straight line through Papua New Guinea. As hot days give way to intensely cold nights, it becomes clear why so many have died from the extreme natural elements.</desc>
 	</programme>
-	<programme channel="6203" start="20241116210500 +0000" stop="20241116220000 +0000">
+	<programme channel="6203" start="20241116210000 +0000" stop="20241116220000 +0000">
 		<title>The Secret Genius of Modern Life (S2) Episode 2</title>
 		<desc>Hannah takes a look at the vacuum cleaner, going behind the scenes with Dyson and discovering how the motor in their latest vacuum spins nine times faster than that of a Formula One race car.</desc>
 	</programme>
@@ -9607,17 +9599,17 @@ Streetside Feast is a mouth-watering food documentary, presenting viewers with h
 	</programme>
 	<programme channel="6203" start="20241117115500 +0000" stop="20241117130000 +0000">
 		<title>Asia (S1)</title>
-		<desc>Vast deserts, dense jungles, polar landscapes and tropical seas are explored in this dazzling journey across Earth's biggest continent, Asia.</desc>
+		<desc>Asia has the longest coastline of any continent and the earth's richest coral reefs. This episode explores Asia's waters, as spectacular as they are diverse, and never-seen-before animal behaviour.</desc>
 	</programme>
 	<programme channel="6203" start="20241117130000 +0000" stop="20241117140500 +0000">
 		<title>Asia (S1) Episode 2</title>
-		<desc>Vast deserts, dense jungles, polar landscapes and tropical seas are explored in this dazzling journey across Earth's biggest continent, Asia.</desc>
+		<desc>Asia is the most mountainous continent on earth. From the tropical south to its barren centre, its highest places are home to some of our planet's most remarkable wildlife.</desc>
 	</programme>
-	<programme channel="6203" start="20241117140500 +0000" stop="20241117145500 +0000">
+	<programme channel="6203" start="20241117140500 +0000" stop="20241117150000 +0000">
 		<title>Martin Clunes: Islands of the Pacific (S2) Episode 2</title>
 		<desc>Martin explores the Philippines, from Manila's jeepneys and bamboo bikes, Catholic fiestas and family feasts, to remote tribal burials, rice god rituals, meeting chocolate heroes, shamans and witches, to spotting cuddly tarsiers and pulsing fireflies.</desc>
 	</programme>
-	<programme channel="6203" start="20241117145500 +0000" stop="20241117155500 +0000">
+	<programme channel="6203" start="20241117150000 +0000" stop="20241117155500 +0000">
 		<title>Simon Reeve's South America (S1) Episode 4</title>
 		<desc>Simon travels from the vast white salt flats of Bolivia, through the world's greatest wetlands of Brazil's Pantanal and on to the forested heart of Paraguay.</desc>
 	</programme>
@@ -20150,7 +20142,7 @@ Christy、Jessica转赴艾森施塔特小镇，慕名参观当地的宫殿「爱
 	</programme>
 	<programme channel="5511" start="20241116193000 +0000" stop="20241116200000 +0000">
 		<title>Grand住去大阪 / Le Grand Tour de Osaka</title>
-		<desc>0</desc>
+		<desc> 继「台北游」大受欢迎之后，最佳旅行伴游C君再次出发，新一辑与两位新团友高海宁、陆浩明《Grand住去大阪》！团队游走大阪、京都，「开箱」豪华之旅。入住天花板级别酒店，玩味、英式贵族风各具特色，豪叹顶级温泉好写意。坐观光列车细赏绝色海景、见识中古店「镇店之宝」，还与艺伎玩游戏，体验绝非一般。饮食同样够豪，除了朝圣「摘星」餐厅、专为「VIP」服务的名店餐厅，也会一探全世界「最贵寿司」、高级绿茶的滋味。</desc>
 	</programme>
 	<programme channel="5511" start="20241116200000 +0000" stop="20241116203000 +0000">
 		<title>寻醉苏格兰 / The Drunken Scotland Episode 6</title>
@@ -20161,7 +20153,7 @@ Christy、Jessica转赴艾森施塔特小镇，慕名参观当地的宫殿「爱
 	</programme>
 	<programme channel="5511" start="20241116203000 +0000" stop="20241116210000 +0000">
 		<title>澳门25个第一 / Macau 25 Best Episode 3</title>
-		<desc>澳门25个第一 / Macau 25 Best</desc>
+		<desc>作为一个独特的城市，澳门拥有世界级历史建筑、丰富的非物质文化遗产、东方与西方文化艺术融合，以及2024年由政府开始推动的「1+4」经济适度多元发展，令澳门发展更加迅速，创出多个「第一」和佳绩。迎接澳门回归祖国25年周年，主持洪永城、宋宛颖引领观众来趟在地深度游，并从五个主题出发，让大家进一步了解与懂得欣赏这个城市，共同见证澳门的光辉发展历程，同时迎向美好未来。</desc>
 	</programme>
 	<programme channel="5511" start="20241116210000 +0000" stop="20241116213000 +0000">
 		<title>新闻透视 / News Magazine 2024 Episode 45</title>
@@ -20250,11 +20242,11 @@ Jacques的中西合璧碗仔翅用上矜贵风干火腿；Ken Tam的嫩滑盐焗
 	</programme>
 	<programme channel="5511" start="20241117063000 +0000" stop="20241117070000 +0000">
 		<title>澳门25个第一 / Macau 25 Best Episode 3</title>
-		<desc>澳门25个第一 / Macau 25 Best</desc>
+		<desc>作为一个独特的城市，澳门拥有世界级历史建筑、丰富的非物质文化遗产、东方与西方文化艺术融合，以及2024年由政府开始推动的「1+4」经济适度多元发展，令澳门发展更加迅速，创出多个「第一」和佳绩。迎接澳门回归祖国25年周年，主持洪永城、宋宛颖引领观众来趟在地深度游，并从五个主题出发，让大家进一步了解与懂得欣赏这个城市，共同见证澳门的光辉发展历程，同时迎向美好未来。</desc>
 	</programme>
 	<programme channel="5511" start="20241117070000 +0000" stop="20241117073000 +0000">
 		<title>Grand住去大阪 / Le Grand Tour de Osaka</title>
-		<desc>0</desc>
+		<desc> 继「台北游」大受欢迎之后，最佳旅行伴游C君再次出发，新一辑与两位新团友高海宁、陆浩明《Grand住去大阪》！团队游走大阪、京都，「开箱」豪华之旅。入住天花板级别酒店，玩味、英式贵族风各具特色，豪叹顶级温泉好写意。坐观光列车细赏绝色海景、见识中古店「镇店之宝」，还与艺伎玩游戏，体验绝非一般。饮食同样够豪，除了朝圣「摘星」餐厅、专为「VIP」服务的名店餐厅，也会一探全世界「最贵寿司」、高级绿茶的滋味。</desc>
 	</programme>
 	<programme channel="5511" start="20241117073000 +0000" stop="20241117090000 +0000">
 		<title>奖门人台庆感谢祭 / Super Trio - TVB Anniversary Special 2024</title>
@@ -20297,11 +20289,11 @@ Christy、Jessica前往瓦豪河谷，寻找奥地利特产—葡萄酒与杏桃
 	</programme>
 	<programme channel="5511" start="20241117123000 +0000" stop="20241117140000 +0000">
 		<title>中年好声音3 / Midlife, Sing &amp; Shine! 3 Episode 4</title>
-		<desc>中年好声音3 / Midlife, Sing &amp; Shine! 3</desc>
+		<desc>一众热爱歌唱的参赛者，继续于《中年好声音3》开展音乐比拼。除了香港赛区的百强选手为音乐梦奋斗，早前在新马、大湾区两个赛区脱颖而出的十五位「好声音」，也会于中途加入，一起接受各式各样的音乐试炼，力争成为「中三」王者。新一季节目仍然由车婉婉暖心陪伴众人追梦，评审阵容亦更强大。肥妈、伍仲衡、张佳添、周国丰以外，Eric Kwok、布志伦、海儿等音乐人亦会于个别阶段坐上评判席，为选手们点评打分。</desc>
 	</programme>
 	<programme channel="5511" start="20241117140000 +0000" stop="20241117143000 +0000">
 		<title>无穷之路IV - 一带一路 / No Poverty Land IV - One Belt One Road Episode 7</title>
-		<desc>0</desc>
+		<desc>《无穷之路》制作组踏上全新的「出海」征程，我们探索了阿联酋、沙特阿拉伯、希腊、塞尔维亚、埃及、马达加斯加及肯尼亚等七个「一带一路」沿线国家，还采访了在各地默默贡献的中国建设者，纪录他们为有需要的老百姓建起了铁路、大桥、港口，还把技术授予当地人民，为贫困者送上温暖。</desc>
 	</programme>
 	<programme channel="5511" start="20241117143000 +0000" stop="20241117151500 +0000">
 		<title>J Music / J Music Episode 62</title>
@@ -26088,44 +26080,44 @@ Christy、Jessica前往瓦豪河谷，寻找奥地利特产—葡萄酒与杏桃
 		<desc>Movie</desc>
 	</programme>
 	<programme channel="5625" start="20241116133000 +0000" stop="20241116170000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Seemaraja</title>
+		<desc>Seema Raja, the generous and carefree prince of Singampatti, becomes a responsible king and saviour of his people after his granduncle reveals to him the history of his heroic heritage.</desc>
 	</programme>
 	<programme channel="5625" start="20241116170000 +0000" stop="20241116183000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Mouna Ragam</title>
+		<desc>An unpretentious Divya, studying in college, is pressurised by her father to marry Chandrakumar. In grief after her ex-lover, Manohar, is killed, she tries to bite the bullet and get on with life.</desc>
 	</programme>
 	<programme channel="5625" start="20241116183000 +0000" stop="20241116200000 +0000">
-		<title>Movie Contd</title>
-		<desc>Movie Contd</desc>
+		<title>Movie Contd - Mouna Ragam</title>
+		<desc>An unpretentious Divya, studying in college, is pressurised by her father to marry Chandrakumar. In grief after her ex-lover, Manohar, is killed, she tries to bite the bullet and get on with life.</desc>
 	</programme>
 	<programme channel="5625" start="20241116200000 +0000" stop="20241116223000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Pesadha Kannum Pesume</title>
+		<desc>Vikram, a habitual prankster, decides to play a prank on Shweta, his lover. When all fails, he pretends to be married to Priya. His trick backfires when Priya begins to insist she is indeed his wife.</desc>
 	</programme>
 	<programme channel="5625" start="20241116223000 +0000" stop="20241117010000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Piragu</title>
+		<desc>Sathya, who comes to Chennai to be a film director, ends up being targeted by two rival gangs, whose leaders have enough reason to kill him. Now, Sathya must gather his courage and fight his enemies.</desc>
 	</programme>
 	<programme channel="5625" start="20241117010000 +0000" stop="20241117013000 +0000">
 		<title>Teleshopping</title>
-		<desc>Teleshopping</desc>
+		<desc>Consumer can purchase goods and services shown on television; the purchaser telephones an order, or orders with the aid of a computer, and the products are delivered to the home.</desc>
 	</programme>
 	<programme channel="5625" start="20241117013000 +0000" stop="20241117043000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Kanda Kadamba Kadhirvela</title>
+		<desc>Three brothers who come from a rich family live as dictated by their strict mother. They also have a sister who was chased out of the home because she married a poor man. Things change for them when the poor man enters the home.</desc>
 	</programme>
 	<programme channel="5625" start="20241117043000 +0000" stop="20241117073000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Jay Jay</title>
+		<desc>Jamuna, who believes in destiny, writes her address on a currency note and tells Jagan if he finds it, she will marry him. Years later, Jagan manages to find the note and tries to reunite with her.</desc>
 	</programme>
 	<programme channel="5625" start="20241117073000 +0000" stop="20241117103000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - LKG</title>
+		<desc>LKG, a councillor of a small town, aspires to become the chief minister of the state. He enlists the help of the corporates to impress the public but faces threat from another politician.</desc>
 	</programme>
 	<programme channel="5625" start="20241117103000 +0000" stop="20241117133000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Gethu</title>
+		<desc>When Thulasi Raman, a teacher, is falsely accused of killing a man, his son Sethu, a librarian, sets out to find the real culprit.</desc>
 	</programme>
 	<programme channel="5627" start="20241115153000 +0000" stop="20241115163000 +0000">
 		<title>Non Stop Hits</title>
@@ -27759,97 +27751,81 @@ Christy、Jessica前往瓦豪河谷，寻找奥地利特产—葡萄酒与杏桃
 		<title>Patharamattu</title>
 		<desc>Nayana, a talented artist, crosses paths with Adarsh, the responsible eldest Moorthy brother, sparking a connection that faces obstacles from envy and familial expectations during the Onam celebrations.</desc>
 	</programme>
-	<programme channel="5638" start="20241116170000 +0000" stop="20241116173000 +0000">
-		<title>Mounaragam</title>
-		<desc>A woman named Deepa faces cruelty from her husband Prakashan and his mother for giving birth to a mute girl. They mistreat her but Deepa's family supports her.</desc>
+	<programme channel="5638" start="20241116170000 +0000" stop="20241116183000 +0000">
+		<title>Engile Ennodu Para S01</title>
+		<desc>Yes or Miss! Watch Sabu Mon and Shwetha lead celebrities through wild challenges. Who'll triumph and claim the prize? Tune in for the excitement!</desc>
 	</programme>
-	<programme channel="5638" start="20241116173000 +0000" stop="20241116180000 +0000">
-		<title>Jaanakiyudeyum Abhiyudeyum Veedu</title>
-		<desc>Janakiyudeyum Abhiyudeyum Veedu centers on the love of Abhiram and Janaki in the midst of their extended family in Alakapuri household.</desc>
+	<programme channel="5638" start="20241116183000 +0000" stop="20241116190000 +0000">
+		<title>Star Talk with Vinay -South Meets North S02</title>
+		<desc>Star Talk with Vinay -South Meets North S02</desc>
 	</programme>
-	<programme channel="5638" start="20241116180000 +0000" stop="20241116183000 +0000">
-		<title>Geetha Govindam</title>
-		<desc>Young lecturer Vijay falls for cautious Geetha, but a mistake jeopardizes their budding romance, leading to family drama and uncertain consequences. Relationships are put to the test.</desc>
+	<programme channel="5638" start="20241116190000 +0000" stop="20241116220000 +0000">
+		<title>Purusha Pretham</title>
+		<desc>SI Sebastian's reputation is in jeopardy when he loses a body, leading to chaos as a woman claims the deceased man is her husband.</desc>
 	</programme>
-	<programme channel="5638" start="20241116183000 +0000" stop="20241116193000 +0000">
-		<title>TBA</title>
-		<desc>The name of the program is yet to be announced by the channel.</desc>
-	</programme>
-	<programme channel="5638" start="20241116193000 +0000" stop="20241116203000 +0000">
-		<title>TBA</title>
-		<desc>The name of the program is yet to be announced by the channel.</desc>
-	</programme>
-	<programme channel="5638" start="20241116203000 +0000" stop="20241116213000 +0000">
-		<title>TBA</title>
-		<desc>The name of the program is yet to be announced by the channel.</desc>
-	</programme>
-	<programme channel="5638" start="20241116213000 +0000" stop="20241116223000 +0000">
-		<title>TBA</title>
-		<desc>The name of the program is yet to be announced by the channel.</desc>
+	<programme channel="5638" start="20241116220000 +0000" stop="20241116223000 +0000">
+		<title>Engile Ennodu Para S01</title>
+		<desc>Yes or Miss! Watch Sabu Mon and Shwetha lead celebrities through wild challenges. Who'll triumph and claim the prize? Tune in for the excitement!</desc>
 	</programme>
 	<programme channel="5638" start="20241116223000 +0000" stop="20241116233000 +0000">
-		<title>TBA</title>
-		<desc>The name of the program is yet to be announced by the channel.</desc>
+		<title>Chirikkum Thalika</title>
+		<desc>A comprehensive compilation of some of the best rib-tickling comedy scenes from various Malayalam movies featuring renowned actors and actresses.</desc>
 	</programme>
-	<programme channel="5638" start="20241116233000 +0000" stop="20241117003000 +0000">
-		<title>TBA</title>
-		<desc>The name of the program is yet to be announced by the channel.</desc>
+	<programme channel="5638" start="20241116233000 +0000" stop="20241117020000 +0000">
+		<title>Aaram Thampuran</title>
+		<desc>Jagannathan faces several challenges when he promises the villagers that he will help in the preparations for the annual festival.</desc>
 	</programme>
-	<programme channel="5638" start="20241117003000 +0000" stop="20241117013000 +0000">
-		<title>TBA</title>
-		<desc>The name of the program is yet to be announced by the channel.</desc>
+	<programme channel="5638" start="20241117020000 +0000" stop="20241117023000 +0000">
+		<title>Engile Ennodu Para S01</title>
+		<desc>Yes or Miss! Watch Sabu Mon and Shwetha lead celebrities through wild challenges. Who'll triumph and claim the prize? Tune in for the excitement!</desc>
 	</programme>
-	<programme channel="5638" start="20241117013000 +0000" stop="20241117023000 +0000">
-		<title>TBA</title>
-		<desc>The name of the program is yet to be announced by the channel.</desc>
+	<programme channel="5638" start="20241117023000 +0000" stop="20241117030000 +0000">
+		<title>Chempaneerpoovu</title>
+		<desc>A show follows Revathy, a lower-class daughter, marrying Sachi, a quirky taxi driver battling alcoholism. Expect drama, humor, and unexpected twists in their unconventional love story.</desc>
 	</programme>
-	<programme channel="5638" start="20241117023000 +0000" stop="20241117033000 +0000">
-		<title>TBA</title>
-		<desc>The name of the program is yet to be announced by the channel.</desc>
+	<programme channel="5638" start="20241117030000 +0000" stop="20241117033000 +0000">
+		<title>Snehakkoottu</title>
+		<desc>Sethumadhavan becomes the unexpected guardian for his distant stepsisters. Facing challenges and resistance, he must discover if his love can truly unite and heal their fractured bond.</desc>
 	</programme>
-	<programme channel="5638" start="20241117033000 +0000" stop="20241117043000 +0000">
-		<title>TBA</title>
-		<desc>The name of the program is yet to be announced by the channel.</desc>
+	<programme channel="5638" start="20241117033000 +0000" stop="20241117040000 +0000">
+		<title>Patharamattu</title>
+		<desc>Nayana, a talented artist, crosses paths with Adarsh, the responsible eldest Moorthy brother, sparking a connection that faces obstacles from envy and familial expectations during the Onam celebrations.</desc>
 	</programme>
-	<programme channel="5638" start="20241117043000 +0000" stop="20241117053000 +0000">
-		<title>TBA</title>
-		<desc>The name of the program is yet to be announced by the channel.</desc>
+	<programme channel="5638" start="20241117040000 +0000" stop="20241117043000 +0000">
+		<title>Ishttam Mathram</title>
+		<desc>Mahesh struggles to express his love for his daughter Chippy, while Ishitha's affection for her deepens, sparking envy in him. A tale of love and longing.</desc>
 	</programme>
-	<programme channel="5638" start="20241117053000 +0000" stop="20241117063000 +0000">
-		<title>TBA</title>
-		<desc>The name of the program is yet to be announced by the channel.</desc>
+	<programme channel="5638" start="20241117043000 +0000" stop="20241117050000 +0000">
+		<title>Engile Ennodu Para S01</title>
+		<desc>Yes or Miss! Watch Sabu Mon and Shwetha lead celebrities through wild challenges. Who'll triumph and claim the prize? Tune in for the excitement!</desc>
 	</programme>
-	<programme channel="5638" start="20241117063000 +0000" stop="20241117073000 +0000">
-		<title>TBA</title>
-		<desc>The name of the program is yet to be announced by the channel.</desc>
+	<programme channel="5638" start="20241117050000 +0000" stop="20241117073000 +0000">
+		<title>Pookkaalam</title>
+		<desc>An elderly man files for divorce from his wife after discovering a love letter she received decades ago. Love, betrayal, and secrets unravel in this surprising twist of fate.</desc>
 	</programme>
-	<programme channel="5638" start="20241117073000 +0000" stop="20241117083000 +0000">
-		<title>TBA</title>
-		<desc>The name of the program is yet to be announced by the channel.</desc>
+	<programme channel="5638" start="20241117073000 +0000" stop="20241117080000 +0000">
+		<title>Engile Ennodu Para S01</title>
+		<desc>Yes or Miss! Watch Sabu Mon and Shwetha lead celebrities through wild challenges. Who'll triumph and claim the prize? Tune in for the excitement!</desc>
 	</programme>
-	<programme channel="5638" start="20241117083000 +0000" stop="20241117093000 +0000">
-		<title>TBA</title>
-		<desc>The name of the program is yet to be announced by the channel.</desc>
+	<programme channel="5638" start="20241117080000 +0000" stop="20241117083000 +0000">
+		<title>Santhwanam-2</title>
+		<desc>Two rival families face challenges and strengthen their bonds in 'Santhwanam 2.' Balan's adopted son marries into one family, balancing his loyalties and navigating familial dynamics.</desc>
 	</programme>
-	<programme channel="5638" start="20241117093000 +0000" stop="20241117103000 +0000">
-		<title>TBA</title>
-		<desc>The name of the program is yet to be announced by the channel.</desc>
+	<programme channel="5638" start="20241117083000 +0000" stop="20241117100000 +0000">
+		<title>Engile Ennodu Para S01</title>
+		<desc>Yes or Miss! Watch Sabu Mon and Shwetha lead celebrities through wild challenges. Who'll triumph and claim the prize? Tune in for the excitement!</desc>
 	</programme>
-	<programme channel="5638" start="20241117103000 +0000" stop="20241117113000 +0000">
-		<title>TBA</title>
-		<desc>The name of the program is yet to be announced by the channel.</desc>
+	<programme channel="5638" start="20241117100000 +0000" stop="20241117130000 +0000">
+		<title>Pachuvum Albhuthavilakkum</title>
+		<desc>A middle-class Malayali youth living in Mumbai takes a journey to Kerala, where he experiences various incidents that change his perspective.</desc>
 	</programme>
-	<programme channel="5638" start="20241117113000 +0000" stop="20241117123000 +0000">
-		<title>TBA</title>
-		<desc>The name of the program is yet to be announced by the channel.</desc>
-	</programme>
-	<programme channel="5638" start="20241117123000 +0000" stop="20241117133000 +0000">
-		<title>TBA</title>
-		<desc>The name of the program is yet to be announced by the channel.</desc>
+	<programme channel="5638" start="20241117130000 +0000" stop="20241117133000 +0000">
+		<title>Engile Ennodu Para S01</title>
+		<desc>Yes or Miss! Watch Sabu Mon and Shwetha lead celebrities through wild challenges. Who'll triumph and claim the prize? Tune in for the excitement!</desc>
 	</programme>
 	<programme channel="5638" start="20241117133000 +0000" stop="20241117143000 +0000">
-		<title>TBA</title>
-		<desc>The name of the program is yet to be announced by the channel.</desc>
+		<title>12Th Man</title>
+		<desc>After a phone call and a death at a bachelor's party, 12 friends' lives are on the line while a drunken policeman tries to solve the mystery. Release Year: 2022 Director: Jeethu Joseph</desc>
 	</programme>
 	<programme channel="5638" start="20241117143000 +0000" stop="20241117153000 +0000">
 		<title>TBA</title>
@@ -27895,19 +27871,19 @@ Christy、Jessica前往瓦豪河谷，寻找奥地利特产—葡萄酒与杏桃
 		<title>Aattam</title>
 		<desc>A theatre group's party leads to crime, suspicions, and unraveling secrets.</desc>
 	</programme>
-	<programme channel="5639" start="20241116133000 +0000" stop="20241116163000 +0000">
+	<programme channel="5639" start="20241116133000 +0000" stop="20241116164000 +0000">
 		<title>Aattam</title>
 		<desc>A theatre group's party leads to crime, suspicions, and unraveling secrets.</desc>
 	</programme>
-	<programme channel="5639" start="20241116163000 +0000" stop="20241116193000 +0000">
+	<programme channel="5639" start="20241116164000 +0000" stop="20241116195000 +0000">
 		<title>Nadodi Mannan</title>
 		<desc>Mayor Padmanabhan gets in trouble when he is forced to fight corruption. Release Year: 2013 Director: Viji Thampi</desc>
 	</programme>
-	<programme channel="5639" start="20241116193000 +0000" stop="20241116220000 +0000">
+	<programme channel="5639" start="20241116195000 +0000" stop="20241116222500 +0000">
 		<title>Classmates</title>
 		<desc>A reunion of college takes a turn when one of them falls off a college building. Release Year: 2006 Director: Lal Jose Awards: Kerala State Film Awards - Best Film with Popular Appeal and Aesthetic Value, Best Story, Kerala Film Critics AwardsBest Popular</desc>
 	</programme>
-	<programme channel="5639" start="20241116220000 +0000" stop="20241117003000 +0000">
+	<programme channel="5639" start="20241116222500 +0000" stop="20241117003000 +0000">
 		<title>The Metro</title>
 		<desc>Five friends travelling to Palai to deliver a package from the Gulf, are forced to take refuge in the darkness of the metro city. Release Year: 2011 Director: Bipin Prabhakar</desc>
 	</programme>
@@ -30088,7 +30064,7 @@ Christy、Jessica前往瓦豪河谷，寻找奥地利特产—葡萄酒与杏桃
 		<desc>Biographical sports drama based on the life of former Indian international cricketer, Mohammad Azharuddin. Starring Emraan Hashmi.</desc>
 	</programme>
 	<programme channel="5668" start="20241117042800 +0000" stop="20241117070100 +0000">
-		<title>CHAK DE! INDIA</title>
+		<title>Chak De! India</title>
 		<desc>The story of a hockey player who returns to the game as a coach of a women's hockey team.</desc>
 	</programme>
 	<programme channel="5668" start="20241117070100 +0000" stop="20241117091600 +0000">
@@ -31465,7 +31441,7 @@ Christy、Jessica前往瓦豪河谷，寻找奥地利特产—葡萄酒与杏桃
 	</programme>
 	<programme channel="5682" start="20241116230000 +0000" stop="20241116232500 +0000">
 		<title>Gentle Journeys</title>
-		<desc>Gentle Journeys</desc>
+		<desc>A journey to the different places around Japan.</desc>
 	</programme>
 	<programme channel="5682" start="20241116232500 +0000" stop="20241116235000 +0000">
 		<title>Dear Japan</title>
@@ -31531,9 +31507,13 @@ Christy、Jessica前往瓦豪河谷，寻找奥地利特产—葡萄酒与杏桃
 		<title>Sumo Inside Out "Part 27: Dashinage"</title>
 		<desc>Special programs ranging from entertainment shows to documentaries will be shown.</desc>
 	</programme>
-	<programme channel="5682" start="20241117064900 +0000" stop="20241117070000 +0000">
+	<programme channel="5682" start="20241117064900 +0000" stop="20241117065500 +0000">
 		<title>Mini Program</title>
 		<desc>Mini Program</desc>
+	</programme>
+	<programme channel="5682" start="20241117065500 +0000" stop="20241117070000 +0000">
+		<title>We Love Fluffy Animals Mini</title>
+		<desc>We Love Fluffy Animals Mini</desc>
 	</programme>
 	<programme channel="5682" start="20241117070000 +0000" stop="20241117090000 +0000">
 		<title>Grand Sumo Tournament Kyushu Basho at Fukuoka Kokusai Center (B)</title>
@@ -33380,8 +33360,8 @@ Christy、Jessica前往瓦豪河谷，寻找奥地利特产—葡萄酒与杏桃
 		<desc>THE HEALING EUCHARIST</desc>
 	</programme>
 	<programme channel="5693" start="20241116230000 +0000" stop="20241117000000 +0000">
-		<title>BRO. EDDIE CLASSICS</title>
-		<desc>BRO. EDDIE CLASSICS</desc>
+		<title>JESUS IS LORD 46 YEARS: CHRIST IS THE ANSWER</title>
+		<desc>JESUS IS LORD 46 YEARS: CHRIST IS THE ANSWER</desc>
 	</programme>
 	<programme channel="5693" start="20241117000000 +0000" stop="20241117003000 +0000">
 		<title>TAO PO</title>
@@ -33411,13 +33391,9 @@ Christy、Jessica前往瓦豪河谷，寻找奥地利特产—葡萄酒与杏桃
 		<title>BEST 10 BETS S4</title>
 		<desc>BEST 10 BETS S4</desc>
 	</programme>
-	<programme channel="5693" start="20241117070000 +0000" stop="20241117073000 +0000">
+	<programme channel="5693" start="20241117070000 +0000" stop="20241117080000 +0000">
 		<title>THE B SIDE</title>
 		<desc>THE B SIDE</desc>
-	</programme>
-	<programme channel="5693" start="20241117073000 +0000" stop="20241117080000 +0000">
-		<title>FIRST BITE BY JAYZAR RECINTO</title>
-		<desc>FIRST BITE BY JAYZAR RECINTO</desc>
 	</programme>
 	<programme channel="5693" start="20241117080000 +0000" stop="20241117083000 +0000">
 		<title>CHEF RV'S KITCHEN S14</title>
@@ -33435,9 +33411,13 @@ Christy、Jessica前往瓦豪河谷，寻找奥地利特产—葡萄酒与杏桃
 		<title>TAO PO</title>
 		<desc>TAO PO</desc>
 	</programme>
-	<programme channel="5693" start="20241117111500 +0000" stop="20241117133000 +0000">
+	<programme channel="5693" start="20241117111500 +0000" stop="20241117123000 +0000">
 		<title>RAINBOW RUMBLE</title>
 		<desc>RAINBOW RUMBLE</desc>
+	</programme>
+	<programme channel="5693" start="20241117123000 +0000" stop="20241117133000 +0000">
+		<title>HIGH STREET</title>
+		<desc>HIGH STREET</desc>
 	</programme>
 	<programme channel="5693" start="20241117133000 +0000" stop="20241117143000 +0000">
 		<title>MMK</title>
