@@ -4288,8 +4288,8 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<desc>Australia Tour of England 2024: Eng v Aus 1st T20</desc>
 	</programme>
 	<programme channel="5123" start="20241118120000 +0000" stop="20241118160000 +0000">
-		<title>England Tour of West Indies 2024: 5th T20 Episode 952144</title>
-		<desc>England Tour of West Indies 2024: 5th T20</desc>
+		<title>England Tour of West Indies 2024: 4th T20 Episode 952143</title>
+		<desc>England Tour of West Indies 2024: 4th T20</desc>
 	</programme>
 	<programme channel="5123" start="20241118160000 +0000" stop="20241118220000 +0000">
 		<title>Australia Tour of England 2024: Eng v Aus 4th ODI Episode 937200</title>
@@ -4303,13 +4303,21 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<title>Australia Tour of England 2024 Highlights: Eng v Aus 1st T20 Episode 943440</title>
 		<desc>Australia Tour of England 2024 Highlights: Eng v Aus 1st T20</desc>
 	</programme>
-	<programme channel="5123" start="20241119060000 +0000" stop="20241119140000 +0000">
+	<programme channel="5123" start="20241119060000 +0000" stop="20241119120000 +0000">
 		<title>England Tour of West Indies 2024: 1st ODI Episode 952137</title>
 		<desc>England Tour of West Indies 2024: 1st ODI</desc>
 	</programme>
+	<programme channel="5123" start="20241119120000 +0000" stop="20241119130000 +0000">
+		<title>Australia Tour of England 2024 Highlights: Eng v Aus 1st ODI Episode 943443</title>
+		<desc>Australia Tour of England 2024 Highlights: Eng v Aus 1st ODI</desc>
+	</programme>
+	<programme channel="5123" start="20241119130000 +0000" stop="20241119140000 +0000">
+		<title>Australia Tour of England 2024 Highlights: Eng v Aus 2nd ODI Episode 943444</title>
+		<desc>Australia Tour of England 2024 Highlights: Eng v Aus 2nd ODI</desc>
+	</programme>
 	<programme channel="5123" start="20241119140000 +0000" stop="20241119143000 +0000">
-		<title>Australia Tour of England 2024 Highlights: Eng v Aus 1st T20 Episode 943440</title>
-		<desc>Australia Tour of England 2024 Highlights: Eng v Aus 1st T20</desc>
+		<title>South Africa Tour of West Indies 2024 Highlights: West Indies v South Africa 2nd T20 Episode 906438</title>
+		<desc>South Africa Tour of West Indies 2024 Highlights: West Indies v South Africa 2nd T20</desc>
 	</programme>
 	<programme channel="5124" start="20241117100000 +0000" stop="20241117220000 +0000">
 		<title>Closed Episode 101231</title>
@@ -6120,7 +6128,7 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<desc>This program takes you on an aerial journey across 21st century Japan. Enjoy the bird's-eye view of unique landscapes as well as intimate portraits of the people who inhabit the archipelago.</desc>
 	</programme>
 	<programme channel="5157" start="20241118200000 +0000" stop="20241118201800 +0000">
-		<title>NHK NEWSLINE&lt;NY&gt;</title>
+		<title>NHK NEWSLINE&lt; NY &gt;</title>
 		<desc>NHK WORLD-JAPAN's flagship hourly news program delivers the latest world news, business and weather, with a focus on Japan and the rest of Asia.</desc>
 	</programme>
 	<programme channel="5157" start="20241118201800 +0000" stop="20241118203000 +0000">
@@ -6132,7 +6140,7 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<desc>Recent data show constipation can lead to life-threatening conditions like stroke and chronic kidney disease. We explore the risks of self-diagnosing and a new device for managing constipation.</desc>
 	</programme>
 	<programme channel="5157" start="20241118210000 +0000" stop="20241118211800 +0000">
-		<title>NHK NEWSLINE&lt;NY&gt;</title>
+		<title>NHK NEWSLINE&lt; NY &gt;</title>
 		<desc>NHK WORLD-JAPAN's flagship hourly news program delivers the latest world news, business and weather, with a focus on Japan and the rest of Asia.</desc>
 	</programme>
 	<programme channel="5157" start="20241118211800 +0000" stop="20241118213000 +0000">
@@ -6144,7 +6152,7 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<desc>We meet Polish Izabela Ishikawa who works to find and return the remains of those who died during World War II in Okinawa, and Hongkonger Wan Sze Ho, an instructor at a driving school in Kumamoto.</desc>
 	</programme>
 	<programme channel="5157" start="20241118220000 +0000" stop="20241118221800 +0000">
-		<title>NHK NEWSLINE&lt;NY&gt;</title>
+		<title>NHK NEWSLINE&lt; NY &gt;</title>
 		<desc>NHK WORLD-JAPAN's flagship hourly news program delivers the latest world news, business and weather, with a focus on Japan and the rest of Asia.</desc>
 	</programme>
 	<programme channel="5157" start="20241118221800 +0000" stop="20241118223000 +0000">
@@ -6164,7 +6172,7 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<desc>This time we explain program plan in the latter half of 2024 in the former half of the show, and introduce "Documentary 360," the English version of good documentaries produced in Japanese language.</desc>
 	</programme>
 	<programme channel="5157" start="20241118230000 +0000" stop="20241118231500 +0000">
-		<title>NHK NEWSLINE&lt;NY&gt;</title>
+		<title>NHK NEWSLINE&lt; NY &gt;</title>
 		<desc>NHK WORLD-JAPAN's flagship hourly news program delivers the latest world news, business and weather, with a focus on Japan and the rest of Asia.</desc>
 	</programme>
 	<programme channel="5157" start="20241118231500 +0000" stop="20241118232000 +0000">
@@ -6188,7 +6196,7 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<desc>Sumopedia enriches your sumo experience with information on the techniques, traditions and famous wrestlers of the past. The rules may be simple but there is a lot more to sumo than meets the eye.</desc>
 	</programme>
 	<programme channel="5157" start="20241119000000 +0000" stop="20241119001500 +0000">
-		<title>NHK NEWSLINE&lt;NY&gt;</title>
+		<title>NHK NEWSLINE&lt; NY &gt;</title>
 		<desc>NHK WORLD-JAPAN's flagship hourly news program delivers the latest world news, business and weather, with a focus on Japan and the rest of Asia.</desc>
 	</programme>
 	<programme channel="5157" start="20241119001500 +0000" stop="20241119003000 +0000">
@@ -6200,7 +6208,7 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<desc>Food writer David Conklin gets up close to the Buddhas and gods of the mystical Kunisaki Peninsula, visits with locals, and experiences a scintillating fire festival.</desc>
 	</programme>
 	<programme channel="5157" start="20241119010000 +0000" stop="20241119011500 +0000">
-		<title>NHK NEWSLINE&lt;NY&gt;</title>
+		<title>NHK NEWSLINE&lt; NY &gt;</title>
 		<desc>NHK WORLD-JAPAN's flagship hourly news program delivers the latest world news, business and weather, with a focus on Japan and the rest of Asia.</desc>
 	</programme>
 	<programme channel="5157" start="20241119011500 +0000" stop="20241119013000 +0000">
@@ -28172,194 +28180,218 @@ Christy、Jessica前往瓦豪河谷，寻找奥地利特产—葡萄酒与杏桃
 		<desc>TBA</desc>
 	</programme>
 	<programme channel="5638" start="20241117163000 +0000" stop="20241117170000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+		<title>Star Talk with Vinay - South Meets North S02</title>
+		<desc>Star Talk with Vinay - South Meets North S02</desc>
 	</programme>
 	<programme channel="5638" start="20241117170000 +0000" stop="20241117183000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+		<title>Engile Ennodu Para S01</title>
+		<desc>Yes or Miss! Watch Sabu Mon and Shwetha lead celebrities through wild challenges. Who'll triumph and claim the prize? Tune in for the excitement!</desc>
 	</programme>
 	<programme channel="5638" start="20241117183000 +0000" stop="20241117190000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+		<title>Star Talk with Vinay - South Meets North S02</title>
+		<desc>Star Talk with Vinay - South Meets North S02</desc>
 	</programme>
 	<programme channel="5638" start="20241117190000 +0000" stop="20241117220000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+		<title>Vikram</title>
+		<desc>A special agent tracks a masked group of serial killers but discovers a connection to a drug kingpin in Chennai.</desc>
 	</programme>
 	<programme channel="5638" start="20241117220000 +0000" stop="20241117223000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+		<title>Engile Ennodu Para S01</title>
+		<desc>Yes or Miss! Watch Sabu Mon and Shwetha lead celebrities through wild challenges. Who'll triumph and claim the prize? Tune in for the excitement!</desc>
 	</programme>
 	<programme channel="5638" start="20241117223000 +0000" stop="20241117233000 +0000">
 		<title>Chirikkum Thalika</title>
-		<desc>Chirikkum Thalika</desc>
+		<desc>A comprehensive compilation of some of the best rib-tickling comedy scenes from various Malayalam movies featuring renowned actors and actresses.</desc>
 	</programme>
 	<programme channel="5638" start="20241117233000 +0000" stop="20241118020000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+		<title>Avittam Thirunnal Aaroghyasreeman</title>
+		<desc>Avittam Thirunal Achutha Kurup is an elderly man dependent on his children and extended family for a living. But everything changes when the family learns he owns a 50-acre rubber estate. Release Year: 1995 Director: Viji Thampi</desc>
 	</programme>
-	<programme channel="5638" start="20241118020000 +0000" stop="20241118023000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+	<programme channel="5638" start="20241118020000 +0000" stop="20241118033000 +0000">
+		<title>Engile Ennodu Para S01</title>
+		<desc>Yes or Miss! Watch Sabu Mon and Shwetha lead celebrities through wild challenges. Who'll triumph and claim the prize? Tune in for the excitement!</desc>
 	</programme>
-	<programme channel="5638" start="20241118023000 +0000" stop="20241118030000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
-	</programme>
-	<programme channel="5638" start="20241118030000 +0000" stop="20241118033000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
-	</programme>
-	<programme channel="5638" start="20241118033000 +0000" stop="20241118040000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
-	</programme>
-	<programme channel="5638" start="20241118040000 +0000" stop="20241118043000 +0000">
-		<title>Star Singer</title>
-		<desc>Star Singer</desc>
-	</programme>
-	<programme channel="5638" start="20241118043000 +0000" stop="20241118050000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+	<programme channel="5638" start="20241118033000 +0000" stop="20241118050000 +0000">
+		<title>Engile Ennodu Para S01</title>
+		<desc>Yes or Miss! Watch Sabu Mon and Shwetha lead celebrities through wild challenges. Who'll triumph and claim the prize? Tune in for the excitement!</desc>
 	</programme>
 	<programme channel="5638" start="20241118050000 +0000" stop="20241118073000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+		<title>Halal Love Story</title>
+		<desc>A group of aspiring film-makers set out to make a feature film. However, they face challenges as the movie must conform to the 'halal' guidelines of their religious organisation.</desc>
 	</programme>
 	<programme channel="5638" start="20241118073000 +0000" stop="20241118080000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+		<title>Engile Ennodu Para S01</title>
+		<desc>Yes or Miss! Watch Sabu Mon and Shwetha lead celebrities through wild challenges. Who'll triumph and claim the prize? Tune in for the excitement!</desc>
 	</programme>
 	<programme channel="5638" start="20241118080000 +0000" stop="20241118083000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+		<title>Engile Ennodu Para S01</title>
+		<desc>Yes or Miss! Watch Sabu Mon and Shwetha lead celebrities through wild challenges. Who'll triumph and claim the prize? Tune in for the excitement!</desc>
 	</programme>
 	<programme channel="5638" start="20241118083000 +0000" stop="20241118100000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+		<title>Engile Ennodu Para S01</title>
+		<desc>Yes or Miss! Watch Sabu Mon and Shwetha lead celebrities through wild challenges. Who'll triumph and claim the prize? Tune in for the excitement!</desc>
 	</programme>
-	<programme channel="5638" start="20241118100000 +0000" stop="20241118130000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+	<programme channel="5638" start="20241118100000 +0000" stop="20241118123000 +0000">
+		<title>Valatty</title>
+		<desc>Golden retriever Tomy falls for his neighbor Amalu, a cocker spaniel. Despite disapproval from their owners, Tomy and Amalu decide to elope, embarking on an epic adventure. Release Year: 2023 Director: Devan Jayakumar</desc>
+	</programme>
+	<programme channel="5638" start="20241118123000 +0000" stop="20241118130000 +0000">
+		<title>Chirikkum Thalika</title>
+		<desc>A comprehensive compilation of some of the best rib-tickling comedy scenes from various Malayalam movies featuring renowned actors and actresses.</desc>
 	</programme>
 	<programme channel="5638" start="20241118130000 +0000" stop="20241118133000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+		<title>Engile Ennodu Para S01</title>
+		<desc>Yes or Miss! Watch Sabu Mon and Shwetha lead celebrities through wild challenges. Who'll triumph and claim the prize? Tune in for the excitement!</desc>
 	</programme>
 	<programme channel="5638" start="20241118133000 +0000" stop="20241118140000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+		<title>Gouri Shankaram</title>
+		<desc>Gouri, a college girl with strong principles, marries her obsessive lover Sanker. The show unfolds as Sanker pursues Gouri, challenging their opposing principles.</desc>
 	</programme>
-	<programme channel="5638" start="20241118140000 +0000" stop="20241118160000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+	<programme channel="5638" start="20241118140000 +0000" stop="20241118143000 +0000">
+		<title>Maalikapuram</title>
+		<desc>8-year-old Kallu from Panchalimedu village has a strong urge to visit Sabarimala. Join her on a heartwarming journey as she sets out to fulfill her dream against all odds.</desc>
+	</programme>
+	<programme channel="5638" start="20241118143000 +0000" stop="20241118150000 +0000">
+		<title>Snehakkoottu</title>
+		<desc>Sethumadhavan becomes the unexpected guardian for his distant stepsisters. Facing challenges and resistance, he must discover if his love can truly unite and heal their fractured bond.</desc>
+	</programme>
+	<programme channel="5638" start="20241118150000 +0000" stop="20241118153000 +0000">
+		<title>Santhwanam-2</title>
+		<desc>Two rival families face challenges and strengthen their bonds in 'Santhwanam 2.' Balan's adopted son marries into one family, balancing his loyalties and navigating familial dynamics.</desc>
+	</programme>
+	<programme channel="5638" start="20241118153000 +0000" stop="20241118160000 +0000">
+		<title>Chempaneerpoovu</title>
+		<desc>A show follows Revathy, a lower-class daughter, marrying Sachi, a quirky taxi driver battling alcoholism. Expect drama, humor, and unexpected twists in their unconventional love story.</desc>
 	</programme>
 	<programme channel="5638" start="20241118160000 +0000" stop="20241118163000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+		<title>Ishttam Mathram</title>
+		<desc>Mahesh struggles to express his love for his daughter Chippy, while Ishitha's affection for her deepens, sparking envy in him. A tale of love and longing.</desc>
 	</programme>
 	<programme channel="5638" start="20241118163000 +0000" stop="20241118170000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+		<title>Patharamattu</title>
+		<desc>Nayana, a talented artist, crosses paths with Adarsh, the responsible eldest Moorthy brother, sparking a connection that faces obstacles from envy and familial expectations during the Onam celebrations.</desc>
 	</programme>
-	<programme channel="5638" start="20241118170000 +0000" stop="20241118183000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+	<programme channel="5638" start="20241118170000 +0000" stop="20241118173000 +0000">
+		<title>Mounaragam</title>
+		<desc>A woman named Deepa faces cruelty from her husband Prakashan and his mother for giving birth to a mute girl. They mistreat her but Deepa's family supports her.</desc>
+	</programme>
+	<programme channel="5638" start="20241118173000 +0000" stop="20241118180000 +0000">
+		<title>Jaanakiyudeyum Abhiyudeyum Veedu</title>
+		<desc>Janakiyudeyum Abhiyudeyum Veedu centers on the love of Abhiram and Janaki in the midst of their extended family in Alakapuri household.</desc>
+	</programme>
+	<programme channel="5638" start="20241118180000 +0000" stop="20241118183000 +0000">
+		<title>Geetha Govindam</title>
+		<desc>Young lecturer Vijay falls for cautious Geetha, but a mistake jeopardizes their budding romance, leading to family drama and uncertain consequences. Relationships are put to the test.</desc>
 	</programme>
 	<programme channel="5638" start="20241118183000 +0000" stop="20241118190000 +0000">
-		<title>Star Singer</title>
-		<desc>Star Singer</desc>
+		<title>Chandrikayil Aliyunnu Chandrakantham</title>
+		<desc>IPS Gautham reluctantly marries Alakananda, but things get complicated when his first love, Priyamvada, re-enters his life. Love triangle drama ensues in Asianet's series.</desc>
 	</programme>
-	<programme channel="5638" start="20241118190000 +0000" stop="20241118220000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+	<programme channel="5638" start="20241118190000 +0000" stop="20241118193000 +0000">
+		<title>Engile Ennodu Para S01</title>
+		<desc>Yes or Miss! Watch Sabu Mon and Shwetha lead celebrities through wild challenges. Who'll triumph and claim the prize? Tune in for the excitement!</desc>
 	</programme>
-	<programme channel="5638" start="20241118220000 +0000" stop="20241118223000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+	<programme channel="5638" start="20241118193000 +0000" stop="20241118223000 +0000">
+		<title>Bhramam</title>
+		<desc>A piano player pretends to be visually impaired and unwittingly becomes entangled in a number of problems as he witnesses the murder of a former film actor.</desc>
 	</programme>
 	<programme channel="5638" start="20241118223000 +0000" stop="20241118233000 +0000">
 		<title>Chirikkum Thalika</title>
-		<desc>Chirikkum Thalika</desc>
+		<desc>A comprehensive compilation of some of the best rib-tickling comedy scenes from various Malayalam movies featuring renowned actors and actresses.</desc>
 	</programme>
 	<programme channel="5638" start="20241118233000 +0000" stop="20241119020000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+		<title>China Town</title>
+		<desc>Mathukutty, Zachariah and Binoy must come together in order to take charge of a casino and thwart Gowda, a local goon.</desc>
 	</programme>
-	<programme channel="5638" start="20241119020000 +0000" stop="20241119033000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+	<programme channel="5638" start="20241119020000 +0000" stop="20241119023000 +0000">
+		<title>Geetha Govindam</title>
+		<desc>Young lecturer Vijay falls for cautious Geetha, but a mistake jeopardizes their budding romance, leading to family drama and uncertain consequences. Relationships are put to the test.</desc>
+	</programme>
+	<programme channel="5638" start="20241119023000 +0000" stop="20241119030000 +0000">
+		<title>Chempaneerpoovu</title>
+		<desc>A show follows Revathy, a lower-class daughter, marrying Sachi, a quirky taxi driver battling alcoholism. Expect drama, humor, and unexpected twists in their unconventional love story.</desc>
+	</programme>
+	<programme channel="5638" start="20241119030000 +0000" stop="20241119033000 +0000">
+		<title>Snehakkoottu</title>
+		<desc>Sethumadhavan becomes the unexpected guardian for his distant stepsisters. Facing challenges and resistance, he must discover if his love can truly unite and heal their fractured bond.</desc>
 	</programme>
 	<programme channel="5638" start="20241119033000 +0000" stop="20241119040000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+		<title>Patharamattu</title>
+		<desc>Nayana, a talented artist, crosses paths with Adarsh, the responsible eldest Moorthy brother, sparking a connection that faces obstacles from envy and familial expectations during the Onam celebrations.</desc>
 	</programme>
 	<programme channel="5638" start="20241119040000 +0000" stop="20241119043000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+		<title>Ishttam Mathram</title>
+		<desc>Mahesh struggles to express his love for his daughter Chippy, while Ishitha's affection for her deepens, sparking envy in him. A tale of love and longing.</desc>
 	</programme>
 	<programme channel="5638" start="20241119043000 +0000" stop="20241119050000 +0000">
-		<title>Star Singer</title>
-		<desc>Star Singer</desc>
+		<title>Chandrikayil Aliyunnu Chandrakantham</title>
+		<desc>IPS Gautham reluctantly marries Alakananda, but things get complicated when his first love, Priyamvada, re-enters his life. Love triangle drama ensues in Asianet's series.</desc>
 	</programme>
 	<programme channel="5638" start="20241119050000 +0000" stop="20241119073000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+		<title>Aabhasam</title>
+		<desc>During a bus journey, sexually frustrated individuals try to fight their personal urges. Meanwhile, they must also deal with each other's quirks and flaws as they travel together.</desc>
 	</programme>
 	<programme channel="5638" start="20241119073000 +0000" stop="20241119080000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+		<title>Mounaragam</title>
+		<desc>A woman named Deepa faces cruelty from her husband Prakashan and his mother for giving birth to a mute girl. They mistreat her but Deepa's family supports her.</desc>
 	</programme>
 	<programme channel="5638" start="20241119080000 +0000" stop="20241119083000 +0000">
-		<title>Chirikkum Thalika</title>
-		<desc>Chirikkum Thalika</desc>
+		<title>Santhwanam-2</title>
+		<desc>Two rival families face challenges and strengthen their bonds in 'Santhwanam 2.' Balan's adopted son marries into one family, balancing his loyalties and navigating familial dynamics.</desc>
 	</programme>
-	<programme channel="5638" start="20241119083000 +0000" stop="20241119100000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+	<programme channel="5638" start="20241119083000 +0000" stop="20241119090000 +0000">
+		<title>Jaanakiyudeyum Abhiyudeyum Veedu</title>
+		<desc>Janakiyudeyum Abhiyudeyum Veedu centers on the love of Abhiram and Janaki in the midst of their extended family in Alakapuri household.</desc>
+	</programme>
+	<programme channel="5638" start="20241119090000 +0000" stop="20241119093000 +0000">
+		<title>Amma Manassu</title>
+		<desc>'Catch the Malayalam dubbed version of the hit Tamil serial Chellamma on Star Vijay, directed by Francis Kathiravan. Amma Manassu features a talented cast in a compelling family drama.'</desc>
+	</programme>
+	<programme channel="5638" start="20241119093000 +0000" stop="20241119100000 +0000">
+		<title>Etho Janma Kalpanayil</title>
+		<desc>Optimistic Sruthy clashes with arrogant Ashwin, sparking misunderstandings and confrontations, but leading to unexpected love amidst societal pressures, family conflicts, and personal growth.</desc>
 	</programme>
 	<programme channel="5638" start="20241119100000 +0000" stop="20241119123000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+		<title>Maheshum Maruthiyum</title>
+		<desc>In the year 1983, the emotional fixation of a young man with his Maruti 800 car gets tested when he falls for his childhood confidante. Release Year: 2023</desc>
 	</programme>
 	<programme channel="5638" start="20241119123000 +0000" stop="20241119130000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+		<title>Chirikkum Thalika</title>
+		<desc>A comprehensive compilation of some of the best rib-tickling comedy scenes from various Malayalam movies featuring renowned actors and actresses.</desc>
 	</programme>
 	<programme channel="5638" start="20241119130000 +0000" stop="20241119133000 +0000">
-		<title>Star Singer</title>
-		<desc>Star Singer</desc>
+		<title>Engile Ennodu Para S01</title>
+		<desc>Yes or Miss! Watch Sabu Mon and Shwetha lead celebrities through wild challenges. Who'll triumph and claim the prize? Tune in for the excitement!</desc>
 	</programme>
 	<programme channel="5638" start="20241119133000 +0000" stop="20241119140000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+		<title>Gouri Shankaram</title>
+		<desc>Gouri, a college girl with strong principles, marries her obsessive lover Sanker. The show unfolds as Sanker pursues Gouri, challenging their opposing principles.</desc>
 	</programme>
 	<programme channel="5638" start="20241119140000 +0000" stop="20241119143000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+		<title>Maalikapuram</title>
+		<desc>8-year-old Kallu from Panchalimedu village has a strong urge to visit Sabarimala. Join her on a heartwarming journey as she sets out to fulfill her dream against all odds.</desc>
 	</programme>
 	<programme channel="5638" start="20241119143000 +0000" stop="20241119150000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+		<title>Snehakkoottu</title>
+		<desc>Sethumadhavan becomes the unexpected guardian for his distant stepsisters. Facing challenges and resistance, he must discover if his love can truly unite and heal their fractured bond.</desc>
 	</programme>
 	<programme channel="5638" start="20241119150000 +0000" stop="20241119153000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+		<title>Santhwanam-2</title>
+		<desc>Two rival families face challenges and strengthen their bonds in 'Santhwanam 2.' Balan's adopted son marries into one family, balancing his loyalties and navigating familial dynamics.</desc>
 	</programme>
 	<programme channel="5639" start="20241117133000 +0000" stop="20241117163000 +0000">
 		<title>Varshangalkku Shesham</title>
 		<desc>Two boys from Kerala, Murali and Venu, become friends across time periods. Release Year: 2024 Director: Vineeth Sreenivasan</desc>
 	</programme>
-	<programme channel="5639" start="20241117163000 +0000" stop="20241117193000 +0000">
+	<programme channel="5639" start="20241117163000 +0000" stop="20241117200500 +0000">
 		<title>Nerariyan C.B.I.</title>
 		<desc>Sethurama Iyer from CBI catches the culprit after solving much anonymity. Release Year: 2005 Director: K. Madhu</desc>
 	</programme>
-	<programme channel="5639" start="20241117193000 +0000" stop="20241117220000 +0000">
+	<programme channel="5639" start="20241117200500 +0000" stop="20241117221000 +0000">
 		<title>Colours</title>
 		<desc>Rajalakshmi lives with her two daughters, Pinki and Pooja. While Pinki is tomboyish and outspoken, Pooja is a shy teacher. Release Year: 2009 Director: Raj Babu</desc>
 	</programme>
-	<programme channel="5639" start="20241117220000 +0000" stop="20241118003000 +0000">
+	<programme channel="5639" start="20241117221000 +0000" stop="20241118003000 +0000">
 		<title>Abraham Lincoln</title>
 		<desc>Abraham returns home to find his sister's murderer resurrected.</desc>
 	</programme>
