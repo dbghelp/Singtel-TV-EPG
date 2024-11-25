@@ -3763,19 +3763,15 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<title>SPOTV Encore: Japan Open 2024 Finals Episode 2</title>
 		<desc>Recap thrilling badminton action of Japan Open on the HSBC BWF World Tour in 2024.</desc>
 	</programme>
-	<programme channel="6114" start="20241125070000 +0000" stop="20241125120000 +0000">
+	<programme channel="6114" start="20241125070000 +0000" stop="20241125132000 +0000">
 		<title>HSBC BWF WTS 750 LI-NING China Masters 2024</title>
 		<desc>The HSBC BWF World Tour attracts the world's elite badminton players in competing for prize money and world ranking points in 30 four-tiered tournaments, culminating in the World Tour Finals in December.</desc>
 	</programme>
-	<programme channel="6114" start="20241125120000 +0000" stop="20241125140000 +0000">
-		<title>ROSHN Saudi League 2024/25 Matchday 11</title>
-		<desc>Bringing together prominent professional players from the Kingdom and all around the world, the ROSHN Saudi League delivers weekly thrilling matches to spectators nationally and internationally.</desc>
-	</programme>
-	<programme channel="6114" start="20241125140000 +0000" stop="20241125140000 +0000">
+	<programme channel="6114" start="20241125132000 +0000" stop="20241125132000 +0000">
 		<title>T100 Triathlon World Tour: 2024 DUBAI T100 Grand Final</title>
 		<desc>40 of the world's best female and male professional triathletes battle over 8 breakneck 100km races in iconic locations around the globe in a bid to be crowned the first-ever T100 World Champions.</desc>
 	</programme>
-	<programme channel="6114" start="20241125140000 +0000" stop="20241125180000 +0000">
+	<programme channel="6114" start="20241125132000 +0000" stop="20241125180000 +0000">
 		<title>T100 Triathlon World Tour: 2024 DUBAI T100 Grand Final</title>
 		<desc>40 of the world's best female and male professional triathletes battle over 8 breakneck 100km races in iconic locations around the globe in a bid to be crowned the first-ever T100 World Champions.</desc>
 	</programme>
@@ -3795,11 +3791,11 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<title>ROSHN Saudi League 2024/25 Matchday 11 Episode 2</title>
 		<desc>Bringing together prominent professional players from the Kingdom and all around the world, the ROSHN Saudi League delivers weekly thrilling matches to spectators nationally and internationally.</desc>
 	</programme>
-	<programme channel="6114" start="20241126103000 +0000" stop="20241126123000 +0000">
+	<programme channel="6114" start="20241126103000 +0000" stop="20241126125000 +0000">
 		<title>ROSHN Saudi League 2024/25 Matchday 11 Episode 2</title>
 		<desc>Bringing together prominent professional players from the Kingdom and all around the world, the ROSHN Saudi League delivers weekly thrilling matches to spectators nationally and internationally.</desc>
 	</programme>
-	<programme channel="6114" start="20241126123000 +0000" stop="20241126130000 +0000">
+	<programme channel="6114" start="20241126125000 +0000" stop="20241126132000 +0000">
 		<title>SPOTV Encore: Japan Open 2024 Finals Episode 3</title>
 		<desc>Recap thrilling badminton action of Japan Open on the HSBC BWF World Tour in 2024.</desc>
 	</programme>
@@ -3895,21 +3891,21 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<title>MotoGP 2024 Spotlight Episode 7</title>
 		<desc>Takaaki Nakagami has officially announced his retirement from racing at the end of 2024 season. Nakagami is set to transition into a development role with Honda Racing Corporation starting in 2025</desc>
 	</programme>
-	<programme channel="6115" start="20241125180000 +0000" stop="20241125193000 +0000">
+	<programme channel="6115" start="20241125180000 +0000" stop="20241125194500 +0000">
 		<title>ISU World Figure Skating Grand Prix Chongqing (CHN)</title>
 		<desc>The ISU Grand Prix of Figure Skating Series consists of six international senior events in North America, Europe and Asia, culminating with the ISU Grand Prix of Figure Skating Final in Grenoble, France.</desc>
 	</programme>
-	<programme channel="6115" start="20241125193000 +0000" stop="20241125210000 +0000">
+	<programme channel="6115" start="20241125194500 +0000" stop="20241125213000 +0000">
 		<title>ISU World Figure Skating Grand Prix Chongqing (CHN)</title>
 		<desc>The ISU Grand Prix of Figure Skating Series consists of six international senior events in North America, Europe and Asia, culminating with the ISU Grand Prix of Figure Skating Final in Grenoble, France.</desc>
 	</programme>
-	<programme channel="6115" start="20241125210000 +0000" stop="20241125223000 +0000">
+	<programme channel="6115" start="20241125213000 +0000" stop="20241125233000 +0000">
 		<title>ISU World Figure Skating Grand Prix Chongqing (CHN)</title>
 		<desc>The ISU Grand Prix of Figure Skating Series consists of six international senior events in North America, Europe and Asia, culminating with the ISU Grand Prix of Figure Skating Final in Grenoble, France.</desc>
 	</programme>
-	<programme channel="6115" start="20241125223000 +0000" stop="20241126000000 +0000">
-		<title>ISU World Figure Skating Grand Prix Chongqing (CHN)</title>
-		<desc>The ISU Grand Prix of Figure Skating Series consists of six international senior events in North America, Europe and Asia, culminating with the ISU Grand Prix of Figure Skating Final in Grenoble, France.</desc>
+	<programme channel="6115" start="20241125233000 +0000" stop="20241126000000 +0000">
+		<title>MotoGP 2024 Spotlight Episode 3</title>
+		<desc>Recap the action and behind-the-scenes with MotoGP riders.</desc>
 	</programme>
 	<programme channel="6115" start="20241126000000 +0000" stop="20241126004000 +0000">
 		<title>MotoGP 2024 Round 20 -Solidarity Grand Prix of Barcelona</title>
@@ -3939,21 +3935,13 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<title>MotoGP 2024 Round 20 -Solidarity Grand Prix of Barcelona</title>
 		<desc>The MotoGP World Championship crowns one of 22 riders lining up on 1000cc prototype bikes capable of producing over 240 horsepower and getting up to speeds of 350kph over 21 Grand Prix races.</desc>
 	</programme>
-	<programme channel="6115" start="20241126063000 +0000" stop="20241126083000 +0000">
+	<programme channel="6115" start="20241126063000 +0000" stop="20241126092000 +0000">
 		<title>WTT Finals Fukuoka 2024 Episode 2</title>
 		<desc>The world's elite singles and doubles table tennis players battle for a share of the US$2 million prize pool as well as 2000 world ranking points in Montpellier,France.</desc>
 	</programme>
-	<programme channel="6115" start="20241126083000 +0000" stop="20241126101000 +0000">
+	<programme channel="6115" start="20241126092000 +0000" stop="20241126110000 +0000">
 		<title>MotoGP Awards 2024 Episode 2</title>
 		<desc>The top riders of the year will be celebrated in style at the highly anticipated annual red carpet ceremony, where a fresh new identity for the sport will also be unveiled</desc>
-	</programme>
-	<programme channel="6115" start="20241126101000 +0000" stop="20241126103000 +0000">
-		<title>MotoGP 2024 Spotlight Episode 3</title>
-		<desc>Recap the action and behind-the-scenes with Aleix Espargaro.</desc>
-	</programme>
-	<programme channel="6115" start="20241126103000 +0000" stop="20241126110000 +0000">
-		<title>MotoGP 2024 Spotlight Episode 3</title>
-		<desc>Recap the action and behind-the-scenes with MotoGP riders.</desc>
 	</programme>
 	<programme channel="6115" start="20241126110000 +0000" stop="20241126150000 +0000">
 		<title>WTT Finals Fukuoka 2024</title>
@@ -19153,7 +19141,7 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 	</programme>
 	<programme channel="6421" start="20241125033000 +0000" stop="20241125040000 +0000">
 		<title>SOMEBODY SOMEWHERE S3 Episode 5</title>
-		<desc>As her sister and friends all enter new phases of life, Sam (Bridget Everett) takes her own steps toward finally investing in herself.</desc>
+		<desc>Surrounded by her sister and chosen family on Thanksgiving, Sam gains a better appreciation of what it means to love.</desc>
 	</programme>
 	<programme channel="6421" start="20241125040000 +0000" stop="20241125054000 +0000">
 		<title>TOO BIG TO FAIL</title>
@@ -19177,7 +19165,7 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 	</programme>
 	<programme channel="6421" start="20241125140000 +0000" stop="20241125143000 +0000">
 		<title>SOMEBODY SOMEWHERE S3 Episode 5</title>
-		<desc>As her sister and friends all enter new phases of life, Sam (Bridget Everett) takes her own steps toward finally investing in herself.</desc>
+		<desc>Surrounded by her sister and chosen family on Thanksgiving, Sam gains a better appreciation of what it means to love.</desc>
 	</programme>
 	<programme channel="6421" start="20241125143000 +0000" stop="20241125155500 +0000">
 		<title>TO END ALL WAR: OPPENHEIMER AND THE ATOMIC BOMB</title>
@@ -19219,27 +19207,27 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<title>INSECURE S4 Episode 8</title>
 		<desc>Issa and Lawrence catch up and talk life, careers, past mistakes, and what makes each of them happy.</desc>
 	</programme>
-	<programme channel="6421" start="20241126020000 +0000" stop="20241126030000 +0000">
+	<programme channel="6421" start="20241126020000 +0000" stop="20241126025500 +0000">
 		<title>GET MILLIE BLACK S1</title>
 		<desc>After returning home to Jamaica, ex-Scotland Yard detective Millie Black works a missing persons case that threatens to blow up her world.</desc>
 	</programme>
-	<programme channel="6421" start="20241126030000 +0000" stop="20241126044000 +0000">
+	<programme channel="6421" start="20241126025500 +0000" stop="20241126043500 +0000">
 		<title>WHEN HARRY MET SALLY...</title>
 		<desc>Harry and Sally have known each other for years, and are very good friends, but they fear sex would ruin the friendship.</desc>
 	</programme>
-	<programme channel="6421" start="20241126044000 +0000" stop="20241126060500 +0000">
+	<programme channel="6421" start="20241126043500 +0000" stop="20241126060000 +0000">
 		<title>TAKING CHANCE</title>
 		<desc>Kevin Bacon stars in this profoundly moving HBO Original Movie that looks at the military rituals for honoring its war dead.</desc>
 	</programme>
-	<programme channel="6421" start="20241126060500 +0000" stop="20241126081000 +0000">
+	<programme channel="6421" start="20241126060000 +0000" stop="20241126080500 +0000">
 		<title>CRAZY, STUPID, LOVE</title>
 		<desc>A straight-laced man tries to play the field, but discovers that his heart will always be with his wife.</desc>
 	</programme>
-	<programme channel="6421" start="20241126081000 +0000" stop="20241126100500 +0000">
+	<programme channel="6421" start="20241126080500 +0000" stop="20241126100000 +0000">
 		<title>MANN V. FORD</title>
 		<desc>This HBO documentary follows the Ramapough Indians as they take on Ford and the Environmental Protection Agency to secure a healthy future for their children.</desc>
 	</programme>
-	<programme channel="6421" start="20241126100500 +0000" stop="20241126103000 +0000">
+	<programme channel="6421" start="20241126100000 +0000" stop="20241126103000 +0000">
 		<title>HOLLYWOOD ON SET S1 Episode 1092</title>
 		<desc>Each week Hollywood On Set goes behind-the-scenes on three major movies in production, featuring action footage and interviews with filmmakers.</desc>
 	</programme>
@@ -19251,9 +19239,13 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<title>THE THEORY OF EVERYTHING</title>
 		<desc>The story of one of the world's greatest living minds, Stephen Hawking, and the arts student he fell in love with whilst studying at Cambridge.</desc>
 	</programme>
-	<programme channel="6421" start="20241126140000 +0000" stop="20241126150000 +0000">
+	<programme channel="6421" start="20241126140000 +0000" stop="20241126145000 +0000">
 		<title>GET MILLIE BLACK S1</title>
 		<desc>After returning home to Jamaica, ex-Scotland Yard detective Millie Black works a missing persons case that threatens to blow up her world.</desc>
+	</programme>
+	<programme channel="6421" start="20241126145000 +0000" stop="20241126155500 +0000">
+		<title>DUNE: PROPHECY S1 Episode 2</title>
+		<desc>While Valya recruits Theodosia to help manage the situation on Salusa Secundus, a reluctant Tula enlists Lila for a vital mission.</desc>
 	</programme>
 	<programme channel="6422" start="20241124155500 +0000" stop="20241124160500 +0000">
 		<title>APPLE &amp; ONION S2 Episode 29</title>
@@ -20296,7 +20288,7 @@ Nan was once a trainee at the police academy but had to quit midway due to healt
 		<desc>四名不同背景的艺人，包括姜皓文、蔡思贝、余文乐、林盛斌，在近乎没有别人帮助的情况下，独自走访南也门、索科特拉岛、澳洲昆士兰大堡礁及北领地红土地区，分别探讨人生四个重大思考课题︰身在逆境应如何自处？人生最可怕是甚么？人生为谁而活？性格是否决定命运？在渺无人烟的天地之间，每位艺人都于最真诚、无任何骚扰之下抚心自问，来一场真正的《与天地对话》，对自己敞开真正的心扉。</desc>
 	</programme>
 	<programme channel="5511" start="20241125023000 +0000" stop="20241125030000 +0000">
-		<title>新闻掏宝 / News Treasury 2024 Episode 27</title>
+		<title>网红甜卡 / News Treasury 2024 Episode 2</title>
 		<desc>常言道：「今日新闻，明日历史」。每天那么多新闻，大家可能来不及消化，更遑论回望历史。历史就是一个大宝库，少看历史和小看历史，很容易「走宝」。新节目《新闻掏宝》带大家在宝库「掏」新闻宝藏，除了昔日特辑、直播和系列报导，还有从未曝光的珍贵片段，观众有机会重温李小龙出殡、宝生银行劫案、四人帮审讯、英女王访港、的士罢驶、中英签订联合声明、戴卓尔夫人专访、越南难民、尤德逝世、彭定康抵港、启德机场关闭、邓小平逝世、九七回归大典、华航香港空难和沙士记者会。</desc>
 	</programme>
 	<programme channel="5511" start="20241125030000 +0000" stop="20241125040000 +0000">
@@ -20339,18 +20331,14 @@ Nan was once a trainee at the police academy but had to quit midway due to healt
 	</programme>
 	<programme channel="5511" start="20241125080000 +0000" stop="20241125083000 +0000">
 		<title>贝游欧洲 / Europe Go Go Go!</title>
-		<desc>第2集
-布里斯托、巴斯— 攀登25米高观望台、参观罗马浴场遗址
+		<desc>第3集
+利物浦— 主题酒吧尽情玩
 
-来到布里斯托，思贝先寻找「独角兽」，一杯奶昔包含满满奶油的冬甩，思贝吃得像只污糟猫。
+利物浦向来是英伦重要海港，近海当然要尝炸鱼薯条，思贝在码头边找到一店的出品值得推介！讲起美食，原来思贝爱吃「婴儿食品」，一碟利物浦炖菜如何为她带来舒服感觉？
 
-到访由旧船改建而成的博物馆，思贝攀登船上25米高的观望台，雀跃非常。
+酒吧吸客要有主题，「视后」思贝「被困」监狱主题的沉浸式酒吧，实行演技大爆发！疫情期间开设的酒吧则有魔术师互动表演，更会谈到人生哲学。
 
-思贝行逛尼古拉斯巿集，偶遇智利女粉丝，对冲出国际感惊喜。
-
-咖啡店出品的面包，包括奶油、忌廉等都是店内自制，有机概念深得思贝欢心。主打当地人家常小食的餐厅，可吃出童年回忆。
-
-转往姊妹城市巴斯，一探罗马浴场遗址之余，思贝更请街头诗人为她写诗，作品如何？</desc>
+站在利物浦大学门前，参观的却是地下隧道，并了解「一人管理员」的背后感动故事。要于市内买礼物，思贝又有甚么好路数？</desc>
 	</programme>
 	<programme channel="5511" start="20241125083000 +0000" stop="20241125090000 +0000">
 		<title>地球大神秘 / Shock Mystery Episode 17</title>
@@ -20366,13 +20354,13 @@ Nan was once a trainee at the police academy but had to quit midway due to healt
 	</programme>
 	<programme channel="5511" start="20241125093000 +0000" stop="20241125103000 +0000">
 		<title>燕云台 / The Legend of Xiao Chuo Episode 618943</title>
-		<desc>第三十五集
+		<desc>第四十集
 
-燕燕想到韩德让留守幽州，十分担心。
-韩德让与敌烈守城策略不同，敌烈冒进，不管韩德让如何阻拦，敌烈都一意孤行，执意领兵追伐，带走城中一万精锐驰援刘汉。
-敌烈全军覆没，刘汉出城投降，南主一怒之下纵火烧了太原，下一步便会冲着大辽而来，而幽州已呈败象。韩德让安抚百姓，统筹军兵，做最后的部署，打算死守不降。
-燕燕看到乌云盖雪带来的求救信，不顾众人阻拦，马上调兵遣将，亲自前往幽州支持。耶律贤劝阻无果，只好加派精兵跟随她一同解幽州之围。
-韩德让以死守城，眼见要殉国，燕燕驾马而来，看到韩德让被围困在燕云台上，策马奔上燕云台，就在千钧一发之际，救下了韩德让，两人时隔多年在城楼之上再次相见，险些生死永隔。</desc>
+喜隐向乌骨里承认一切都是自己的计划，乌骨里让喜隐保证不伤害大姐和燕燕，就帮他处理兰哥后续之事。
+耶律贤劝燕燕不要因为一个南人而得罪了宗亲部族，燕燕坚持要证明自己清白。 
+胡辇追到兰哥旧居，耐心劝说兰哥出面解局，自己可以保她不死。乌骨里也率马赶来，胡辇看到她竟然帮着夫君善后，对其十分失望。
+以虎古为首的宗亲部族在朝堂上为难燕燕，耶律贤替她解围，喧哗之际，胡辇带着兰哥出现在大殿之上，指认喜隐，一切真相大白。
+乌骨里带着留礼寿跪在大殿外，求燕燕法外开恩，但喜隐屡教不改，燕燕不愿再心软。胡辇答应求情，但也只能求燕燕不要伤喜隐性命。燕燕不好驳回胡辇，下旨将赵王喜隐永囚祖州，终身不得释。</desc>
 	</programme>
 	<programme channel="5511" start="20241125103000 +0000" stop="20241125110500 +0000">
 		<title>六点半新闻报导 及 世界观 / News At 18:30 and Global View</title>
@@ -20416,7 +20404,7 @@ Nan was once a trainee at the police academy but had to quit midway due to healt
 		<desc>由资深新闻工作者负责的《世界观》，带你用世界观、观世界，更阔更广看新闻、长知识。</desc>
 	</programme>
 	<programme channel="5511" start="20241125160000 +0000" stop="20241125163000 +0000">
-		<title>新闻掏宝 / News Treasury 2024 Episode 27</title>
+		<title>网红甜卡 / News Treasury 2024 Episode 2</title>
 		<desc>常言道：「今日新闻，明日历史」。每天那么多新闻，大家可能来不及消化，更遑论回望历史。历史就是一个大宝库，少看历史和小看历史，很容易「走宝」。新节目《新闻掏宝》带大家在宝库「掏」新闻宝藏，除了昔日特辑、直播和系列报导，还有从未曝光的珍贵片段，观众有机会重温李小龙出殡、宝生银行劫案、四人帮审讯、英女王访港、的士罢驶、中英签订联合声明、戴卓尔夫人专访、越南难民、尤德逝世、彭定康抵港、启德机场关闭、邓小平逝世、九七回归大典、华航香港空难和沙士记者会。</desc>
 	</programme>
 	<programme channel="5511" start="20241125163000 +0000" stop="20241125173000 +0000">
@@ -20443,20 +20431,20 @@ Nan was once a trainee at the police academy but had to quit midway due to healt
 	</programme>
 	<programme channel="5511" start="20241125200000 +0000" stop="20241125210000 +0000">
 		<title>燕云台 / The Legend of Xiao Chuo Episode 618943</title>
-		<desc>第三十五集
+		<desc>第四十集
 
-燕燕想到韩德让留守幽州，十分担心。
-韩德让与敌烈守城策略不同，敌烈冒进，不管韩德让如何阻拦，敌烈都一意孤行，执意领兵追伐，带走城中一万精锐驰援刘汉。
-敌烈全军覆没，刘汉出城投降，南主一怒之下纵火烧了太原，下一步便会冲着大辽而来，而幽州已呈败象。韩德让安抚百姓，统筹军兵，做最后的部署，打算死守不降。
-燕燕看到乌云盖雪带来的求救信，不顾众人阻拦，马上调兵遣将，亲自前往幽州支持。耶律贤劝阻无果，只好加派精兵跟随她一同解幽州之围。
-韩德让以死守城，眼见要殉国，燕燕驾马而来，看到韩德让被围困在燕云台上，策马奔上燕云台，就在千钧一发之际，救下了韩德让，两人时隔多年在城楼之上再次相见，险些生死永隔。</desc>
+喜隐向乌骨里承认一切都是自己的计划，乌骨里让喜隐保证不伤害大姐和燕燕，就帮他处理兰哥后续之事。
+耶律贤劝燕燕不要因为一个南人而得罪了宗亲部族，燕燕坚持要证明自己清白。 
+胡辇追到兰哥旧居，耐心劝说兰哥出面解局，自己可以保她不死。乌骨里也率马赶来，胡辇看到她竟然帮着夫君善后，对其十分失望。
+以虎古为首的宗亲部族在朝堂上为难燕燕，耶律贤替她解围，喧哗之际，胡辇带着兰哥出现在大殿之上，指认喜隐，一切真相大白。
+乌骨里带着留礼寿跪在大殿外，求燕燕法外开恩，但喜隐屡教不改，燕燕不愿再心软。胡辇答应求情，但也只能求燕燕不要伤喜隐性命。燕燕不好驳回胡辇，下旨将赵王喜隐永囚祖州，终身不得释。</desc>
 	</programme>
 	<programme channel="5511" start="20241125210000 +0000" stop="20241125220000 +0000">
 		<title>流行都市 / Big City Shop 2024 Episode 235</title>
 		<desc>《流行都市》为观众介绍时令产品、健康养生、健体运动、护肤化妆、时尚服饰、婴幼儿护理、育儿知识、城中美食、饲养宠物等潮流信息，内容包罗万有！主持们亲身体验、示范或测试之外，还会邀请嘉宾带来相关专业知识。烹饪环节方面，多位手势了得的厨艺专家轮流登场，示范简单美味的健康美食、家常小菜，替大家解决煮食烦恼。</desc>
 	</programme>
 	<programme channel="5511" start="20241125220000 +0000" stop="20241125223000 +0000">
-		<title>新闻掏宝 / News Treasury 2024 Episode 27</title>
+		<title>网红甜卡 / News Treasury 2024 Episode 2</title>
 		<desc>常言道：「今日新闻，明日历史」。每天那么多新闻，大家可能来不及消化，更遑论回望历史。历史就是一个大宝库，少看历史和小看历史，很容易「走宝」。新节目《新闻掏宝》带大家在宝库「掏」新闻宝藏，除了昔日特辑、直播和系列报导，还有从未曝光的珍贵片段，观众有机会重温李小龙出殡、宝生银行劫案、四人帮审讯、英女王访港、的士罢驶、中英签订联合声明、戴卓尔夫人专访、越南难民、尤德逝世、彭定康抵港、启德机场关闭、邓小平逝世、九七回归大典、华航香港空难和沙士记者会。</desc>
 	</programme>
 	<programme channel="5511" start="20241125223000 +0000" stop="20241125230000 +0000">
@@ -20464,7 +20452,7 @@ Nan was once a trainee at the police academy but had to quit midway due to healt
 		<desc>《东张西望》星期一至日，紧贴追踪社会大事、趣闻逸事，并报导娱乐圈最新动态、艺人消息，以及剧集宣传和花絮。「今日突发」环节为大家追踪即日热门新闻；专题环节，深入探讨大众关心的时事、社会及民生问题，并访问相关的专家。</desc>
 	</programme>
 	<programme channel="5511" start="20241125230000 +0000" stop="20241126000000 +0000">
-		<title>香港早晨 及 世界观 / Good Morning Hong Kong and Global View Episode 282</title>
+		<title>香港早晨 及 世界观 / Good Morning Hong Kong and Global View Episode 283</title>
 		<desc>报导香港、两岸及国际重要新闻。</desc>
 	</programme>
 	<programme channel="5511" start="20241126000000 +0000" stop="20241126010000 +0000">
@@ -20547,31 +20535,33 @@ Nan was once a trainee at the police academy but had to quit midway due to healt
 	</programme>
 	<programme channel="5511" start="20241126083000 +0000" stop="20241126090000 +0000">
 		<title>冲游泰国 / Thai Rogered (Sr.7)</title>
-		<desc>第4集
-主题海滩俱乐部
+		<desc>第6集
+艺术中心感受泰国文化
 
-疫情下，芭堤雅的海边酒店开设大玩颜色的主题沙滩俱乐部，橙色与蓝色布置鲜丽夺目，旅客可躺于床上看海景，品尝酒店供应的泰菜。日间芭堤雅市况萧条，冲哥夜访昔日游人必到的步行街，是否也「绝对空虚」？曼谷驾车往芭堤雅途经一条美食街，既有地道泰式「两餸饭」、咖啡店色彩缤纷小蛋糕，又有各式手信；占据整个池塘的超大咖啡店，以靓绝景观引人来光顾打卡，甚具创意！面对疫境，各商户勇于求变的正能量，令冲哥与玲玲由衷佩服！</desc>
+冲哥与冬荫妹妹到访清迈艺术馆感受泰国文化，中心融合各式艺术展览、咖啡店、图书馆，并提供瑜伽班、地道家品销售及泰北美食；一道旋转木梯尽显泰式传统工艺！六十年代旧楼隐藏怀旧风情咖啡厅，烧卖搭配鸡尾酒式橙咖啡，冲击味蕾！冲哥置身雅致小旅馆，全馆仅有三间房，顾客可租住套房、上下格床或床位，各适其适。稻田种满不同颜色禾稻，远看犹如彩虹，稻田教育中心如何提升稻米质量？甜品店水果造型甜品几可乱真，冲哥逐一试味。</desc>
 	</programme>
 	<programme channel="5511" start="20241126090000 +0000" stop="20241126093000 +0000">
 		<title>溜走的真味 / The Vanishing Tastes</title>
-		<desc>第2集
-潮汕牛肉火锅
+		<desc>第3集
+生腌海鲜
 
-熟悉潮汕牛肉火锅的朋友，相信一听到吊龙、胸口朥、五花趾等牛部位名称，就知道有好嘢食。
+濑尿虾、生蚝、蟹等海鲜，加入盐、醋、辣椒等调味料腌制，即成潮汕民众的日常鲜味。
 
-三位主持与家燕姐享用潮汕牛肉火锅，三姐还教大家分辨牛肉可会够新鲜。潮汕的手打牛丸质感脆爽兼牛味浓郁，众人细尝牛肉丸、牛根丸的滋味分别。
+主持们与嘉宾陈炜一同品尝生腌盛宴，除了膏蟹、濑尿虾之外，更有难得一遇的生腌龙虾。
 
-德哥透过「沙嗲炒牛肉芥兰」展功架。三姐以吊龙煮出「芫荽牛肉羹」，肉味香浓；另一道「姜葱糯米牛肉球」，让家燕姐想起电影中的酱爆牛丸？此外，加入地道特产老香黄来脆炸牛腩，味道又是怎样？</desc>
+四人来到南澳的海边捉海胆，德哥示范即开海胆，配上三姐的生腌汁，又是一道鲜味美食。
+
+南澳港水质优良，近岸选购地道的水产后，三姐在海中心开火，炮制生腌生蚝、虾酱鱿鱼与响螺紫菜汤饭，炜哥还会客串担任助厨。众人在夕阳余晖下享用佳肴，零舍写意！</desc>
 	</programme>
 	<programme channel="5511" start="20241126093000 +0000" stop="20241126103000 +0000">
 		<title>燕云台 / The Legend of Xiao Chuo Episode 618975</title>
-		<desc>第三十五集
+		<desc>第四十集
 
-燕燕想到韩德让留守幽州，十分担心。
-韩德让与敌烈守城策略不同，敌烈冒进，不管韩德让如何阻拦，敌烈都一意孤行，执意领兵追伐，带走城中一万精锐驰援刘汉。
-敌烈全军覆没，刘汉出城投降，南主一怒之下纵火烧了太原，下一步便会冲着大辽而来，而幽州已呈败象。韩德让安抚百姓，统筹军兵，做最后的部署，打算死守不降。
-燕燕看到乌云盖雪带来的求救信，不顾众人阻拦，马上调兵遣将，亲自前往幽州支持。耶律贤劝阻无果，只好加派精兵跟随她一同解幽州之围。
-韩德让以死守城，眼见要殉国，燕燕驾马而来，看到韩德让被围困在燕云台上，策马奔上燕云台，就在千钧一发之际，救下了韩德让，两人时隔多年在城楼之上再次相见，险些生死永隔。</desc>
+喜隐向乌骨里承认一切都是自己的计划，乌骨里让喜隐保证不伤害大姐和燕燕，就帮他处理兰哥后续之事。
+耶律贤劝燕燕不要因为一个南人而得罪了宗亲部族，燕燕坚持要证明自己清白。 
+胡辇追到兰哥旧居，耐心劝说兰哥出面解局，自己可以保她不死。乌骨里也率马赶来，胡辇看到她竟然帮着夫君善后，对其十分失望。
+以虎古为首的宗亲部族在朝堂上为难燕燕，耶律贤替她解围，喧哗之际，胡辇带着兰哥出现在大殿之上，指认喜隐，一切真相大白。
+乌骨里带着留礼寿跪在大殿外，求燕燕法外开恩，但喜隐屡教不改，燕燕不愿再心软。胡辇答应求情，但也只能求燕燕不要伤喜隐性命。燕燕不好驳回胡辇，下旨将赵王喜隐永囚祖州，终身不得释。</desc>
 	</programme>
 	<programme channel="5511" start="20241126103000 +0000" stop="20241126110500 +0000">
 		<title>六点半新闻报导 及 世界观 / News At 18:30 and Global View</title>
