@@ -3877,7 +3877,7 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<desc>The world's elite singles and doubles table tennis players battle for a share of the US$2 million prize pool as well as 2000 world ranking points in Montpellier,France.</desc>
 	</programme>
 	<programme channel="6116" start="20241125150000 +0000" stop="20241125170000 +0000">
-		<title>UCI Track Champions League (Live)</title>
+		<title>UCI Track Champions League</title>
 		<desc>Round 1 | Saint-Quentin-en-Yvelines</desc>
 	</programme>
 	<programme channel="6116" start="20241125170000 +0000" stop="20241125190000 +0000">
@@ -4189,8 +4189,8 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<desc>Bundesliga Highlights 2024/25</desc>
 	</programme>
 	<programme channel="6126" start="20241125170000 +0000" stop="20241125173000 +0000">
-		<title>Mini Match - LaLiga 2023/24: Atletico vs Villarreal Episode 50</title>
-		<desc>Mini Match - LaLiga 2023/24</desc>
+		<title>Mini Match - LaLiga 2024/25: Atletico Madrid vs Alaves Episode 50</title>
+		<desc>Mini Match - LaLiga 2024/25</desc>
 	</programme>
 	<programme channel="6126" start="20241125173000 +0000" stop="20241125180000 +0000">
 		<title>Mini Match - LaLiga 2024/25: Leganes vs Real Madrid Episode 52</title>
@@ -4233,7 +4233,7 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<desc>Mini Match - Bundesliga 2024/25</desc>
 	</programme>
 	<programme channel="6126" start="20241126040000 +0000" stop="20241126043000 +0000">
-		<title>RIDE FEI Originals 2024: Episode Number 8 Episode 8</title>
+		<title>RIDE FEI Originals 2024: Mediterranean Marathons &amp; Saddle Safaris Episode 8</title>
 		<desc>RIDE FEI Originals 2024</desc>
 	</programme>
 	<programme channel="6126" start="20241126043000 +0000" stop="20241126053000 +0000">
@@ -5726,15 +5726,15 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 	</programme>
 	<programme channel="5157" start="20241126043000 +0000" stop="20241126044500 +0000">
 		<title>DEEPER LOOK</title>
-		<desc>An experienced anchor Del Irani has a cutting-edge dialogue with a first-class guest on a current-affairs topics.</desc>
+		<desc>With so many elections at stake globally, there is growing fear over how AI-generated disinformation might affect voters. Maria Ressa, 2021 Nobel Peace Prize winner, joins the discussion.</desc>
 	</programme>
 	<programme channel="5157" start="20241126044500 +0000" stop="20241126045500 +0000">
 		<title>Dig More Japan</title>
 		<desc>Japan is constantly developing new technologies in diverse fields, including architecture and railroads. We dig a little deeper into the latest cutting-edge developments.</desc>
 	</programme>
 	<programme channel="5157" start="20241126045500 +0000" stop="20241126050000 +0000">
-		<title>The seasons of Yamato</title>
-		<desc>NHK WORLD-JAPAN presents a variety of short programs focusing on Japan and Asia.</desc>
+		<title>The Seasons of Yamato</title>
+		<desc>A series of poetic videos by Koichi Hozan, a videographer living in Nara, in collaboration with a pianist, Mine Kawakami, for which she plays exclusive pieces, makes you experience each seasons.</desc>
 	</programme>
 	<programme channel="5157" start="20241126050000 +0000" stop="20241126051500 +0000">
 		<title>NHK NEWSLINE</title>
@@ -5782,7 +5782,7 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 	</programme>
 	<programme channel="5157" start="20241126083000 +0000" stop="20241126084500 +0000">
 		<title>DEEPER LOOK</title>
-		<desc>An experienced anchor Del Irani has a cutting-edge dialogue with a first-class guest on a current-affairs topics.</desc>
+		<desc>With so many elections at stake globally, there is growing fear over how AI-generated disinformation might affect voters. Maria Ressa, 2021 Nobel Peace Prize winner, joins the discussion.</desc>
 	</programme>
 	<programme channel="5157" start="20241126084500 +0000" stop="20241126090000 +0000">
 		<title>BOSAI: Science that Can Save Your Life</title>
@@ -7886,7 +7886,7 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 	</programme>
 	<programme channel="6166" start="20241125223000 +0000" stop="20241125230000 +0000">
 		<title>HARDtalk (r)</title>
-		<desc>In-depth interviews with the world's leading politicians, opinion-formers and key figures from culture, business and sport.</desc>
+		<desc>Stephen Sackur interviews Serbia's President Aleksandar Vucic. Does Serbia prioritise turning westwards, doing all it can to gain EU entry, or face east, deepening its friendship with Russia?</desc>
 	</programme>
 	<programme channel="6166" start="20241125230000 +0000" stop="20241126000000 +0000">
 		<title>BBC World News America</title>
@@ -7897,8 +7897,8 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<desc>The latest news from the BBC.</desc>
 	</programme>
 	<programme channel="6166" start="20241126003000 +0000" stop="20241126010000 +0000">
-		<title>HARDtalk</title>
-		<desc>In-depth interviews with the world's leading politicians, opinion-formers and key figures from culture, business and sport.</desc>
+		<title>HARDtalk (r)</title>
+		<desc>Stephen Sackur interviews Serbia's President Aleksandar Vucic. Does Serbia prioritise turning westwards, doing all it can to gain EU entry, or face east, deepening its friendship with Russia?</desc>
 	</programme>
 	<programme channel="6166" start="20241126010000 +0000" stop="20241126013000 +0000">
 		<title>BBC News</title>
@@ -7994,7 +7994,7 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 	</programme>
 	<programme channel="6166" start="20241126103000 +0000" stop="20241126110000 +0000">
 		<title>HARDtalk (r)</title>
-		<desc>In-depth interviews with the world's leading politicians, opinion-formers and key figures from culture, business and sport.</desc>
+		<desc>Stephen Sackur interviews Serbia's President Aleksandar Vucic. Does Serbia prioritise turning westwards, doing all it can to gain EU entry, or face east, deepening its friendship with Russia?</desc>
 	</programme>
 	<programme channel="6166" start="20241126110000 +0000" stop="20241126113000 +0000">
 		<title>BBC News</title>
@@ -19879,7 +19879,7 @@ Nan was once a trainee at the police academy but had to quit midway due to healt
 		<desc>绝对精彩的美食节目。看后保证让您垂涎三尺！</desc>
 	</programme>
 	<programme channel="6507" start="20241126040000 +0000" stop="20241126060000 +0000">
-		<title>FOCUS 世界新闻 / Focus World News</title>
+		<title>FOCUS世界新闻 / Focus World News</title>
 		<desc>聚焦国际与台湾重点新闻，提供观众最新最深入的国际与台湾新闻。</desc>
 	</programme>
 	<programme channel="6507" start="20241126060000 +0000" stop="20241126070000 +0000">
@@ -27641,7 +27641,7 @@ Nan was once a trainee at the police academy but had to quit midway due to healt
 	</programme>
 	<programme channel="5632" start="20241126030000 +0000" stop="20241126053000 +0000">
 		<title>Jada</title>
-		<desc>Jada, a rising football star, sets aside his ambitions to participate in a violent local tournament to avenge the death of his hero, Sethu. Release Year: 2019 Director: Kumaran</desc>
+		<desc>Jada, a rising football star, sets aside his ambitions to participate in a violent local tournament to avenge the death of his hero, Sethu.</desc>
 	</programme>
 	<programme channel="5632" start="20241126053000 +0000" stop="20241126060000 +0000">
 		<title>KCKC - Vanavarayan Vallavarayan Episode 15</title>
@@ -28451,15 +28451,19 @@ Nan was once a trainee at the police academy but had to quit midway due to healt
 		<title>Punjabi House</title>
 		<desc>Debtor Unni tries to commit suicide so that his parents can use insurance money. Release Year: 1998 Director: Rafi Mecartin</desc>
 	</programme>
-	<programme channel="5639" start="20241125163000 +0000" stop="20241125193000 +0000">
+	<programme channel="5639" start="20241125163000 +0000" stop="20241125165000 +0000">
 		<title>One</title>
 		<desc>A politician's ideologies are tested when allegations are levelled against him. Release Year: 2021 Director: Santhosh Viswanath</desc>
 	</programme>
-	<programme channel="5639" start="20241125193000 +0000" stop="20241125220000 +0000">
+	<programme channel="5639" start="20241125165000 +0000" stop="20241125195000 +0000">
+		<title>One</title>
+		<desc>A politician's ideologies are tested when allegations are levelled against him. Release Year: 2021 Director: Santhosh Viswanath</desc>
+	</programme>
+	<programme channel="5639" start="20241125195000 +0000" stop="20241125221500 +0000">
 		<title>Hailasa</title>
 		<desc>Unnikrishanan is an orphan, reared by his foster father Madhavan who runs a fertilizer plant. He is forced to leave the village and to take up a job.</desc>
 	</programme>
-	<programme channel="5639" start="20241125220000 +0000" stop="20241126003000 +0000">
+	<programme channel="5639" start="20241125221500 +0000" stop="20241126003000 +0000">
 		<title>Mulla</title>
 		<desc>The film begins around a colony where the 'mafia' world is located and trains that pass next to the colony. Release Year: 2008 Director: Lal Jose</desc>
 	</programme>
@@ -28467,19 +28471,19 @@ Nan was once a trainee at the police academy but had to quit midway due to healt
 		<title>Chirikkum Thalika</title>
 		<desc>A compilation of some of the best comedy scenes from Malayalam movies.</desc>
 	</programme>
-	<programme channel="5639" start="20241126013000 +0000" stop="20241126043000 +0000">
+	<programme channel="5639" start="20241126013000 +0000" stop="20241126042500 +0000">
 		<title>Natturajavu</title>
 		<desc>Pulikattil Charly is forced to sort out the mess left behind by his late father. Release Year: 2004 Director: Shaji Kailas</desc>
 	</programme>
-	<programme channel="5639" start="20241126043000 +0000" stop="20241126073000 +0000">
+	<programme channel="5639" start="20241126042500 +0000" stop="20241126073000 +0000">
 		<title>The Priest</title>
 		<desc>A priest works with the police to investigate a series of mysterious suicides. Release Year: 2021 Director: Jofin T. Chacko</desc>
 	</programme>
-	<programme channel="5639" start="20241126073000 +0000" stop="20241126103000 +0000">
+	<programme channel="5639" start="20241126073000 +0000" stop="20241126103500 +0000">
 		<title>Yodha</title>
 		<desc>Bunny falls for a rich daughter Mahalaxmi, and wants her entire wealth as dowry. Release Year: 1992 Director: Sangeeth Sivan</desc>
 	</programme>
-	<programme channel="5639" start="20241126103000 +0000" stop="20241126133000 +0000">
+	<programme channel="5639" start="20241126103500 +0000" stop="20241126133000 +0000">
 		<title>Android Kunjappan Ver 5.25</title>
 		<desc>Bhaskara, a conservative villager, hates the idea of his son relocating to Russia for a job. However, when his son brings a robot to care for him, he develops an unlikely bond with the machine. Release Year: 2019 Director: Ratheesh Balakrishnan Poduval</desc>
 	</programme>
