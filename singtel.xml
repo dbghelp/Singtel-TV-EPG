@@ -1754,7 +1754,7 @@
 	</programme>
 	<programme channel="5006" start="20241128130000 +0000" stop="20241128140000 +0000">
 		<title>Insight Episode 31</title>
-		<desc>Insight investigates and analyses topical issues that impact Asia and the rest of the world.</desc>
+		<desc>For decades, the Middle East has the focus of US foreign policy. With the war in Gaza, the Middle East is leaning from the American pole. How will the pivot to Asia change the dynamics of the region?</desc>
 	</programme>
 	<programme channel="5006" start="20241128140000 +0000" stop="20241128150000 +0000">
 		<title>Singapore Tonight Episode 242</title>
@@ -4297,11 +4297,11 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<desc>UEFA Champions League 2024/25</desc>
 	</programme>
 	<programme channel="6126" start="20241127220000 +0000" stop="20241127223000 +0000">
-		<title>Inside Sailing 2024: December Episode 11</title>
-		<desc>Inside Sailing 2024</desc>
+		<title>Premier Padel 2024 (Join In Progress): Mexico Major Day 3 Match 3 (Live) Episode 744</title>
+		<desc>Premier Padel 2024 (Join In Progress)</desc>
 	</programme>
 	<programme channel="6126" start="20241127223000 +0000" stop="20241128000000 +0000">
-		<title>Premier Padel 2024: Mexico Major Day 3 Match 1 Episode 742</title>
+		<title>Premier Padel 2024: Mexico Major Day 3 Match 4 (Live) Episode 745</title>
 		<desc>Premier Padel 2024</desc>
 	</programme>
 	<programme channel="6126" start="20241128000000 +0000" stop="20241128013000 +0000">
@@ -4317,15 +4317,15 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<desc>Premier Padel 2024</desc>
 	</programme>
 	<programme channel="6126" start="20241128043000 +0000" stop="20241128060000 +0000">
-		<title>Premier Padel 2024: Mexico Major Day 3 Match 2 Episode 743</title>
+		<title>Premier Padel 2024: Mexico Major Day 3 Match 1 Episode 742</title>
 		<desc>Premier Padel 2024</desc>
 	</programme>
 	<programme channel="6126" start="20241128060000 +0000" stop="20241128073000 +0000">
-		<title>Premier Padel 2024: Mexico Major Day 3 Match 3 Episode 744</title>
+		<title>Premier Padel 2024: Mexico Major Day 3 Match 2 Episode 743</title>
 		<desc>Premier Padel 2024</desc>
 	</programme>
 	<programme channel="6126" start="20241128073000 +0000" stop="20241128085500 +0000">
-		<title>Premier Padel 2024: Mexico Major Day 3 Match 4 Episode 745</title>
+		<title>Premier Padel 2024: Mexico Major Day 3 Match 3 Episode 744</title>
 		<desc>Premier Padel 2024</desc>
 	</programme>
 	<programme channel="6126" start="20241128085500 +0000" stop="20241128092500 +0000">
@@ -4509,7 +4509,7 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<desc>ATP Tour 1000 2024</desc>
 	</programme>
 	<programme channel="6110" start="20241126145500 +0000" stop="20241126170000 +0000">
-		<title>UEFA Youth League 2024/25: Bayern vs PSG - MD5 Episode 18</title>
+		<title>UEFA Youth League 2024/25: Bayern vs PSG - MD5 (Live) Episode 18</title>
 		<desc>UEFA Youth League 2024/25</desc>
 	</programme>
 	<programme channel="6110" start="20241126170000 +0000" stop="20241126174000 +0000">
@@ -4517,11 +4517,11 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<desc>The UCL Preview Show 2024/25</desc>
 	</programme>
 	<programme channel="6110" start="20241126174000 +0000" stop="20241126195500 +0000">
-		<title>UEFA Champions League 2024/25: Slovan Bratislava vs Milan - MD5 Episode 88</title>
+		<title>UEFA Champions League 2024/25: Slovan Bratislava vs Milan - MD5 (Live) Episode 88</title>
 		<desc>UEFA Champions League 2024/25</desc>
 	</programme>
 	<programme channel="6110" start="20241126195500 +0000" stop="20241126220000 +0000">
-		<title>UEFA Champions League 2024/25: Bayern vs PSG - MD5 Episode 92</title>
+		<title>UEFA Champions League 2024/25: Bayern vs PSG - MD5 (Live) Episode 92</title>
 		<desc>UEFA Champions League 2024/25</desc>
 	</programme>
 	<programme channel="6110" start="20241126220000 +0000" stop="20241126224500 +0000">
@@ -4581,7 +4581,7 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<desc>UEFA Conference League 2024/25</desc>
 	</programme>
 	<programme channel="6110" start="20241127174000 +0000" stop="20241127195500 +0000">
-		<title>UEFA Champions League 2024/25: Crvena Zvezda vs Stuttgart - MD5 (Live) Episode 96</title>
+		<title>UEFA Champions League 2024/25: Crvena Zvezda vs Stuttgart - MD5 Episode 96</title>
 		<desc>UEFA Champions League 2024/25</desc>
 	</programme>
 	<programme channel="6110" start="20241127195500 +0000" stop="20241127220000 +0000">
@@ -7130,19 +7130,19 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 	</programme>
 	<programme channel="5161" start="20241126161500 +0000" stop="20241126164500 +0000">
 		<title>Close up</title>
-		<desc>The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+		<desc>Bangladesh Prime Minister Sheikh Hasina fled the country on 5 August 2024 after spending almost 16 years in office. Hasina had ordered a violent crackdown on student protests, but ultimately the uprising led to the toppling of the authoritarian leader.</desc>
 	</programme>
 	<programme channel="5161" start="20241126164500 +0000" stop="20241126170000 +0000">
 		<title>Reporter</title>
-		<desc>Reporter</desc>
+		<desc>After decades of civil war, over a million landmines remain in the ground in Sri Lanka. Women are on the frontline of the demining effort.</desc>
 	</programme>
 	<programme channel="5161" start="20241126170000 +0000" stop="20241126171500 +0000">
 		<title>DW News</title>
 		<desc>DW News</desc>
 	</programme>
 	<programme channel="5161" start="20241126171500 +0000" stop="20241126173000 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Best of DW-online Content</desc>
+		<title>Interview</title>
+		<desc>Unproductive, uncompetitive and bureaucratic: Germany, once the beacon of fiscal stability, has fallen behind economically. So, what is the solution? DW Business speaks to Clemens Fuest, Head of the Ifo Research Institute, about the policies needed to turn things around.</desc>
 	</programme>
 	<programme channel="5161" start="20241126173000 +0000" stop="20241126180000 +0000">
 		<title>REV</title>
@@ -7181,16 +7181,16 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<desc>DW News</desc>
 	</programme>
 	<programme channel="5161" start="20241126210200 +0000" stop="20241126211500 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Best of DW-online Content</desc>
+		<title>Interview</title>
+		<desc>Unproductive, uncompetitive and bureaucratic: Germany, once the beacon of fiscal stability, has fallen behind economically. So, what is the solution? DW Business speaks to Clemens Fuest, Head of the Ifo Research Institute, about the policies needed to turn things around.</desc>
 	</programme>
 	<programme channel="5161" start="20241126211500 +0000" stop="20241126214500 +0000">
 		<title>Close up</title>
-		<desc>The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+		<desc>Bangladesh Prime Minister Sheikh Hasina fled the country on 5 August 2024 after spending almost 16 years in office. Hasina had ordered a violent crackdown on student protests, but ultimately the uprising led to the toppling of the authoritarian leader.</desc>
 	</programme>
 	<programme channel="5161" start="20241126214500 +0000" stop="20241126220000 +0000">
 		<title>Shift</title>
-		<desc>Shift</desc>
+		<desc>Autocrats are cracking down on information access. But there are ways to circumvent censorship. Also on the show: Police are turning to AI to track down criminals. And: Has tech become the ultimate tour guide?</desc>
 	</programme>
 	<programme channel="5161" start="20241126220000 +0000" stop="20241126220200 +0000">
 		<title>DW News</title>
@@ -7202,19 +7202,19 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 	</programme>
 	<programme channel="5161" start="20241126223000 +0000" stop="20241126230000 +0000">
 		<title>The 77 Percent</title>
-		<desc>The 77 Percent</desc>
+		<desc>Lagos is poised to become the world's biggest city. The Nigerian megacity with 17 million people seems like a massive experiment - under-regulated, with endless traffic jams, waterfront slums, a booming economy and an impressively resilient population. We spoke with young Lagosians about their love for the vibrant city and met experts to hear about present and future challenges.</desc>
 	</programme>
 	<programme channel="5161" start="20241126230000 +0000" stop="20241126231500 +0000">
 		<title>DW News</title>
 		<desc>DW News</desc>
 	</programme>
 	<programme channel="5161" start="20241126231500 +0000" stop="20241126233000 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Best of DW-online Content</desc>
+		<title>Interview</title>
+		<desc>Unproductive, uncompetitive and bureaucratic: Germany, once the beacon of fiscal stability, has fallen behind economically. So, what is the solution? DW Business speaks to Clemens Fuest, Head of the Ifo Research Institute, about the policies needed to turn things around.</desc>
 	</programme>
 	<programme channel="5161" start="20241126233000 +0000" stop="20241127000000 +0000">
 		<title>Global Us</title>
-		<desc>Global Us</desc>
+		<desc>Many trans women in Colombia fear for their lives. Plus: Russia's "Pussy Riot” activists showcase their fight against Vladimir Putin in an exhibition in Munich. And New Zealand's sheep farmers worry about their future.</desc>
 	</programme>
 	<programme channel="5161" start="20241127000000 +0000" stop="20241127000200 +0000">
 		<title>DW News</title>
@@ -7226,7 +7226,7 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 	</programme>
 	<programme channel="5161" start="20241127003000 +0000" stop="20241127010000 +0000">
 		<title>Made in Germany</title>
-		<desc>Made in Germany</desc>
+		<desc>A private aerospace company from Spain is reaching for the stars. What's slowing down battery production in Germany? How can energy be stored using gravity? And the inspiring journey of a marketing manager from Indonesia.</desc>
 	</programme>
 	<programme channel="5161" start="20241127010000 +0000" stop="20241127011500 +0000">
 		<title>DW News</title>
@@ -7246,15 +7246,15 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 	</programme>
 	<programme channel="5161" start="20241127023000 +0000" stop="20241127030000 +0000">
 		<title>Global Us</title>
-		<desc>Global Us</desc>
+		<desc>Many trans women in Colombia fear for their lives. Plus: Russia's "Pussy Riot” activists showcase their fight against Vladimir Putin in an exhibition in Munich. And New Zealand's sheep farmers worry about their future.</desc>
 	</programme>
 	<programme channel="5161" start="20241127030000 +0000" stop="20241127031500 +0000">
 		<title>DW News</title>
 		<desc>DW News</desc>
 	</programme>
 	<programme channel="5161" start="20241127031500 +0000" stop="20241127033000 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Best of DW-online Content</desc>
+		<title>Interview</title>
+		<desc>Unproductive, uncompetitive and bureaucratic: Germany, once the beacon of fiscal stability, has fallen behind economically. So, what is the solution? DW Business speaks to Clemens Fuest, Head of the Ifo Research Institute, about the policies needed to turn things around.</desc>
 	</programme>
 	<programme channel="5161" start="20241127033000 +0000" stop="20241127040000 +0000">
 		<title>Eco Africa</title>
@@ -7278,15 +7278,15 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 	</programme>
 	<programme channel="5161" start="20241127053000 +0000" stop="20241127060000 +0000">
 		<title>Made in Germany</title>
-		<desc>Made in Germany</desc>
+		<desc>A private aerospace company from Spain is reaching for the stars. What's slowing down battery production in Germany? How can energy be stored using gravity? And the inspiring journey of a marketing manager from Indonesia.</desc>
 	</programme>
 	<programme channel="5161" start="20241127060000 +0000" stop="20241127061500 +0000">
 		<title>DW News</title>
 		<desc>DW News</desc>
 	</programme>
 	<programme channel="5161" start="20241127061500 +0000" stop="20241127063000 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Best of DW-online Content</desc>
+		<title>Interview</title>
+		<desc>Unproductive, uncompetitive and bureaucratic: Germany, once the beacon of fiscal stability, has fallen behind economically. So, what is the solution? DW Business speaks to Clemens Fuest, Head of the Ifo Research Institute, about the policies needed to turn things around.</desc>
 	</programme>
 	<programme channel="5161" start="20241127063000 +0000" stop="20241127070000 +0000">
 		<title>In Good Shape</title>
@@ -7298,7 +7298,7 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 	</programme>
 	<programme channel="5161" start="20241127073000 +0000" stop="20241127080000 +0000">
 		<title>Close up</title>
-		<desc>The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+		<desc>Bangladesh Prime Minister Sheikh Hasina fled the country on 5 August 2024 after spending almost 16 years in office. Hasina had ordered a violent crackdown on student protests, but ultimately the uprising led to the toppling of the authoritarian leader.</desc>
 	</programme>
 	<programme channel="5161" start="20241127080000 +0000" stop="20241127083000 +0000">
 		<title>DW News</title>
@@ -7322,7 +7322,7 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 	</programme>
 	<programme channel="5161" start="20241127103000 +0000" stop="20241127110000 +0000">
 		<title>Close up</title>
-		<desc>The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+		<desc>Bangladesh Prime Minister Sheikh Hasina fled the country on 5 August 2024 after spending almost 16 years in office. Hasina had ordered a violent crackdown on student protests, but ultimately the uprising led to the toppling of the authoritarian leader.</desc>
 	</programme>
 	<programme channel="5161" start="20241127110000 +0000" stop="20241127113000 +0000">
 		<title>DW News</title>
@@ -7330,7 +7330,7 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 	</programme>
 	<programme channel="5161" start="20241127113000 +0000" stop="20241127120000 +0000">
 		<title>Made in Germany</title>
-		<desc>Made in Germany</desc>
+		<desc>A private aerospace company from Spain is reaching for the stars. What's slowing down battery production in Germany? How can energy be stored using gravity? And the inspiring journey of a marketing manager from Indonesia.</desc>
 	</programme>
 	<programme channel="5161" start="20241127120000 +0000" stop="20241127121500 +0000">
 		<title>DW News</title>
@@ -7345,8 +7345,8 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<desc>DW News</desc>
 	</programme>
 	<programme channel="5161" start="20241127131500 +0000" stop="20241127133000 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Best of DW-online Content</desc>
+		<title>Mapped Out</title>
+		<desc>Maritime shipping networks are crucial for world trade. As the world's top export nation, China has invested in ports across the globe. But access to sea routes is about more than just trade.</desc>
 	</programme>
 	<programme channel="5161" start="20241127133000 +0000" stop="20241127140000 +0000">
 		<title>Eco Africa</title>
@@ -7358,7 +7358,7 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 	</programme>
 	<programme channel="5161" start="20241127143000 +0000" stop="20241127150000 +0000">
 		<title>Made in Germany</title>
-		<desc>Made in Germany</desc>
+		<desc>A private aerospace company from Spain is reaching for the stars. What's slowing down battery production in Germany? How can energy be stored using gravity? And the inspiring journey of a marketing manager from Indonesia.</desc>
 	</programme>
 	<programme channel="5161" start="20241127150000 +0000" stop="20241127153000 +0000">
 		<title>DW News</title>
@@ -7381,12 +7381,12 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<desc>DW News</desc>
 	</programme>
 	<programme channel="5161" start="20241127171500 +0000" stop="20241127173000 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Best of DW-online Content</desc>
+		<title>Mapped Out</title>
+		<desc>Maritime shipping networks are crucial for world trade. As the world's top export nation, China has invested in ports across the globe. But access to sea routes is about more than just trade.</desc>
 	</programme>
 	<programme channel="5161" start="20241127173000 +0000" stop="20241127180000 +0000">
 		<title>Close up</title>
-		<desc>The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+		<desc>Bangladesh Prime Minister Sheikh Hasina fled the country on 5 August 2024 after spending almost 16 years in office. Hasina had ordered a violent crackdown on student protests, but ultimately the uprising led to the toppling of the authoritarian leader.</desc>
 	</programme>
 	<programme channel="5161" start="20241127180000 +0000" stop="20241127183000 +0000">
 		<title>DW News</title>
@@ -7405,8 +7405,8 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<desc>Too much fat in our body and diet is bad for us. But a certain amount of body fat is essential; and particular plant-based oils have real health-boosting properties. In Good Shape checks out what's what when it comes to fat!</desc>
 	</programme>
 	<programme channel="5161" start="20241127193000 +0000" stop="20241127200000 +0000">
-		<title>The 77 Percent</title>
-		<desc>The 77 Percent</desc>
+		<title>Conflict Zone</title>
+		<desc>Tim Sebastian interviews Vladimir Kara-Murza, Russian opposition politician.</desc>
 	</programme>
 	<programme channel="5161" start="20241127200000 +0000" stop="20241127203000 +0000">
 		<title>DW News</title>
@@ -7421,8 +7421,8 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<desc>DW News</desc>
 	</programme>
 	<programme channel="5161" start="20241127210200 +0000" stop="20241127211500 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Best of DW-online Content</desc>
+		<title>Mapped Out</title>
+		<desc>Maritime shipping networks are crucial for world trade. As the world's top export nation, China has invested in ports across the globe. But access to sea routes is about more than just trade.</desc>
 	</programme>
 	<programme channel="5161" start="20241127211500 +0000" stop="20241127220000 +0000">
 		<title>DocFilm</title>
@@ -7437,20 +7437,20 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<desc>The Day</desc>
 	</programme>
 	<programme channel="5161" start="20241127223000 +0000" stop="20241127230000 +0000">
-		<title>Made in Germany</title>
-		<desc>Made in Germany</desc>
+		<title>Conflict Zone</title>
+		<desc>Tim Sebastian interviews Vladimir Kara-Murza, Russian opposition politician.</desc>
 	</programme>
 	<programme channel="5161" start="20241127230000 +0000" stop="20241127231500 +0000">
 		<title>DW News</title>
 		<desc>DW News</desc>
 	</programme>
 	<programme channel="5161" start="20241127231500 +0000" stop="20241127233000 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Best of DW-online Content</desc>
+		<title>Mapped Out</title>
+		<desc>Maritime shipping networks are crucial for world trade. As the world's top export nation, China has invested in ports across the globe. But access to sea routes is about more than just trade.</desc>
 	</programme>
 	<programme channel="5161" start="20241127233000 +0000" stop="20241128000000 +0000">
 		<title>Focus on Europe</title>
-		<desc>Focus on Europe</desc>
+		<desc>Gisele Pelicot demands that video evidence be shown in public trial, emboldening other rape victims. +++ School is the only reason why first-grader Val and his family can stay on their island.</desc>
 	</programme>
 	<programme channel="5161" start="20241128000000 +0000" stop="20241128000200 +0000">
 		<title>DW News</title>
@@ -7462,7 +7462,7 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 	</programme>
 	<programme channel="5161" start="20241128003000 +0000" stop="20241128010000 +0000">
 		<title>¿Cómo te afecta?</title>
-		<desc>¿Cómo te afecta? aims to reach the younger generation with topics, news, problems and solutions that affect young people in Latin America. This program is broadcast in Spanish with English subtitles.</desc>
+		<desc>More than 8 million children between the ages of 5 and 17 work in Latin America, according to the ILO. However, some experts indicate that the figure could be higher. Whether in agriculture, mining or textiles, many of the products we consume are tainted with child exploitation.</desc>
 	</programme>
 	<programme channel="5161" start="20241128010000 +0000" stop="20241128011500 +0000">
 		<title>DW News</title>
@@ -7481,20 +7481,20 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<desc>The Day</desc>
 	</programme>
 	<programme channel="5161" start="20241128023000 +0000" stop="20241128030000 +0000">
-		<title>Made in Germany</title>
-		<desc>Made in Germany</desc>
+		<title>Conflict Zone</title>
+		<desc>Tim Sebastian interviews Vladimir Kara-Murza, Russian opposition politician.</desc>
 	</programme>
 	<programme channel="5161" start="20241128030000 +0000" stop="20241128031500 +0000">
 		<title>DW News</title>
 		<desc>DW News</desc>
 	</programme>
 	<programme channel="5161" start="20241128031500 +0000" stop="20241128033000 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Best of DW-online Content</desc>
+		<title>Mapped Out</title>
+		<desc>Maritime shipping networks are crucial for world trade. As the world's top export nation, China has invested in ports across the globe. But access to sea routes is about more than just trade.</desc>
 	</programme>
 	<programme channel="5161" start="20241128033000 +0000" stop="20241128040000 +0000">
 		<title>¿Cómo te afecta?</title>
-		<desc>¿Cómo te afecta? aims to reach the younger generation with topics, news, problems and solutions that affect young people in Latin America. This program is broadcast in Spanish with English subtitles.</desc>
+		<desc>More than 8 million children between the ages of 5 and 17 work in Latin America, according to the ILO. However, some experts indicate that the figure could be higher. Whether in agriculture, mining or textiles, many of the products we consume are tainted with child exploitation.</desc>
 	</programme>
 	<programme channel="5161" start="20241128040000 +0000" stop="20241128041500 +0000">
 		<title>DW News</title>
@@ -7513,20 +7513,20 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<desc>The Day</desc>
 	</programme>
 	<programme channel="5161" start="20241128053000 +0000" stop="20241128060000 +0000">
-		<title>Focus on Europe</title>
-		<desc>Focus on Europe</desc>
+		<title>Conflict Zone</title>
+		<desc>Tim Sebastian interviews Vladimir Kara-Murza, Russian opposition politician.</desc>
 	</programme>
 	<programme channel="5161" start="20241128060000 +0000" stop="20241128061500 +0000">
 		<title>DW News</title>
 		<desc>DW News</desc>
 	</programme>
 	<programme channel="5161" start="20241128061500 +0000" stop="20241128063000 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Best of DW-online Content</desc>
+		<title>Mapped Out</title>
+		<desc>Maritime shipping networks are crucial for world trade. As the world's top export nation, China has invested in ports across the globe. But access to sea routes is about more than just trade.</desc>
 	</programme>
 	<programme channel="5161" start="20241128063000 +0000" stop="20241128070000 +0000">
 		<title>Made in Germany</title>
-		<desc>Made in Germany</desc>
+		<desc>A private aerospace company from Spain is reaching for the stars. What's slowing down battery production in Germany? How can energy be stored using gravity? And the inspiring journey of a marketing manager from Indonesia.</desc>
 	</programme>
 	<programme channel="5161" start="20241128070000 +0000" stop="20241128073000 +0000">
 		<title>DW News</title>
@@ -7534,7 +7534,7 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 	</programme>
 	<programme channel="5161" start="20241128073000 +0000" stop="20241128080000 +0000">
 		<title>Focus on Europe</title>
-		<desc>Focus on Europe</desc>
+		<desc>Gisele Pelicot demands that video evidence be shown in public trial, emboldening other rape victims. +++ School is the only reason why first-grader Val and his family can stay on their island.</desc>
 	</programme>
 	<programme channel="5161" start="20241128080000 +0000" stop="20241128083000 +0000">
 		<title>DW News</title>
@@ -7542,7 +7542,7 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 	</programme>
 	<programme channel="5161" start="20241128083000 +0000" stop="20241128090000 +0000">
 		<title>¿Cómo te afecta?</title>
-		<desc>¿Cómo te afecta? aims to reach the younger generation with topics, news, problems and solutions that affect young people in Latin America. This program is broadcast in Spanish with English subtitles.</desc>
+		<desc>More than 8 million children between the ages of 5 and 17 work in Latin America, according to the ILO. However, some experts indicate that the figure could be higher. Whether in agriculture, mining or textiles, many of the products we consume are tainted with child exploitation.</desc>
 	</programme>
 	<programme channel="5161" start="20241128090000 +0000" stop="20241128091500 +0000">
 		<title>DW News</title>
@@ -7557,8 +7557,8 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<desc>DW News</desc>
 	</programme>
 	<programme channel="5161" start="20241128103000 +0000" stop="20241128110000 +0000">
-		<title>Eco India</title>
-		<desc>From making Delhi more walkable and Germany's north coast more robust to mangrove restoration and integrated farming: Eco India looks at protecting ourselves and the planet.</desc>
+		<title>Conflict Zone</title>
+		<desc>Tim Sebastian interviews Vladimir Kara-Murza, Russian opposition politician.</desc>
 	</programme>
 	<programme channel="5161" start="20241128110000 +0000" stop="20241128113000 +0000">
 		<title>DW News</title>
@@ -7566,7 +7566,7 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 	</programme>
 	<programme channel="5161" start="20241128113000 +0000" stop="20241128120000 +0000">
 		<title>Focus on Europe</title>
-		<desc>Focus on Europe</desc>
+		<desc>Gisele Pelicot demands that video evidence be shown in public trial, emboldening other rape victims. +++ School is the only reason why first-grader Val and his family can stay on their island.</desc>
 	</programme>
 	<programme channel="5161" start="20241128120000 +0000" stop="20241128121500 +0000">
 		<title>DW News</title>
@@ -7581,8 +7581,8 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 		<desc>DW News</desc>
 	</programme>
 	<programme channel="5161" start="20241128131500 +0000" stop="20241128133000 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Best of DW-online Content</desc>
+		<title>REV</title>
+		<desc>Join Sri Lankan daredevil Jagath Perera as he defies gravity on the Wall of Death. A tradition over 100 years old, these fearless riders face broken bones and deadly falls—but their passion keeps the spectacle alive. Will this be the last generation of Wall of Death riders?</desc>
 	</programme>
 	<programme channel="5161" start="20241128133000 +0000" stop="20241128140000 +0000">
 		<title>REV</title>
@@ -7594,7 +7594,7 @@ Policewoman Ru is a naturally born “highly sensitive” person. She brings cho
 	</programme>
 	<programme channel="5161" start="20241128143000 +0000" stop="20241128150000 +0000">
 		<title>Focus on Europe</title>
-		<desc>Focus on Europe</desc>
+		<desc>Gisele Pelicot demands that video evidence be shown in public trial, emboldening other rape victims. +++ School is the only reason why first-grader Val and his family can stay on their island.</desc>
 	</programme>
 	<programme channel="5161" start="20241128150000 +0000" stop="20241128153000 +0000">
 		<title>DW News</title>
