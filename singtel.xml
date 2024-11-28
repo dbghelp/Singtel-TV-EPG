@@ -4419,8 +4419,8 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>ATP Tour 1000 2024</desc>
 	</programme>
 	<programme channel="6127" start="20241128083000 +0000" stop="20241128084000 +0000">
-		<title>Next Gen ATP Finals - Journey to Jeddah: Shang Juncheng Episode 2</title>
-		<desc>Next Gen ATP Finals - Journey to Jeddah</desc>
+		<title>ATP Tour 500 Highlights 2024: Hamburg Final Zverev v Fils Episode 4</title>
+		<desc>ATP Tour 500 Highlights 2024</desc>
 	</programme>
 	<programme channel="6127" start="20241128084000 +0000" stop="20241128100000 +0000">
 		<title>ATP Tour 1000 2024: Montreal Day 2 Auger-Aliassime v Cobolli Episode 234</title>
@@ -4443,8 +4443,8 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>ATP Tour 1000 2024</desc>
 	</programme>
 	<programme channel="6127" start="20241128160000 +0000" stop="20241128161000 +0000">
-		<title>Next Gen ATP Finals - Journey to Jeddah: Shang Juncheng Episode 2</title>
-		<desc>Next Gen ATP Finals - Journey to Jeddah</desc>
+		<title>ATP Tour 500 Highlights 2024: Halle Final Sinner v Hurkacz Episode 3</title>
+		<desc>ATP Tour 500 Highlights 2024</desc>
 	</programme>
 	<programme channel="6127" start="20241128161000 +0000" stop="20241128174000 +0000">
 		<title>ATP Tour 250 2024: Winston-Salem Day 4 Safiullin v Eubanks Episode 671</title>
@@ -4455,8 +4455,8 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>UEFA Europa League 2024/25</desc>
 	</programme>
 	<programme channel="6127" start="20241128194500 +0000" stop="20241128195500 +0000">
-		<title>Next Gen ATP Finals - Journey to Jeddah: Shang Juncheng Episode 2</title>
-		<desc>Next Gen ATP Finals - Journey to Jeddah</desc>
+		<title>ATP Doco Shorts (CC): Greatest Rallies Episode 34</title>
+		<desc>ATP Doco Shorts (CC)</desc>
 	</programme>
 	<programme channel="6127" start="20241128195500 +0000" stop="20241128220000 +0000">
 		<title>UEFA Europa League 2024/25: Real Sociedad vs Ajax - MD5 (Live) Episode 87</title>
@@ -4507,7 +4507,7 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>ATP Tour 1000 2024</desc>
 	</programme>
 	<programme channel="6110" start="20241127152500 +0000" stop="20241127174000 +0000">
-		<title>UEFA Conference League 2024/25: Basaksehir vs Petrocub - MD4 (Live) Episode 55</title>
+		<title>UEFA Conference League 2024/25: Basaksehir vs Petrocub - MD4 Episode 55</title>
 		<desc>UEFA Conference League 2024/25</desc>
 	</programme>
 	<programme channel="6110" start="20241127174000 +0000" stop="20241127195500 +0000">
@@ -4515,7 +4515,7 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>UEFA Champions League 2024/25</desc>
 	</programme>
 	<programme channel="6110" start="20241127195500 +0000" stop="20241127220000 +0000">
-		<title>UEFA Champions League 2024/25: Liverpool vs Real Madrid - MD5 (Live) Episode 103</title>
+		<title>UEFA Champions League 2024/25: Liverpool vs Real Madrid - MD5 Episode 103</title>
 		<desc>UEFA Champions League 2024/25</desc>
 	</programme>
 	<programme channel="6110" start="20241127220000 +0000" stop="20241127224500 +0000">
@@ -4575,11 +4575,11 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>UEFA Conference League 2024/25</desc>
 	</programme>
 	<programme channel="6110" start="20241128174000 +0000" stop="20241128195500 +0000">
-		<title>UEFA Conference League 2024/25: Heidenheim 1846 vs Chelsea - MD4 Episode 57</title>
+		<title>UEFA Conference League 2024/25: Heidenheim 1846 vs Chelsea - MD4 (Live) Episode 57</title>
 		<desc>UEFA Conference League 2024/25</desc>
 	</programme>
 	<programme channel="6110" start="20241128195500 +0000" stop="20241128220000 +0000">
-		<title>UEFA Europa League 2024/25: Man United vs Bodo/Glimt - MD5 Episode 85</title>
+		<title>UEFA Europa League 2024/25: Man United vs Bodo/Glimt - MD5 (Live) Episode 85</title>
 		<desc>UEFA Europa League 2024/25</desc>
 	</programme>
 	<programme channel="6110" start="20241128220000 +0000" stop="20241128235000 +0000">
@@ -21846,6 +21846,78 @@ Chinese Restaurants, acclaimed as the pinnacle of Chinese cuisine, are considere
 		<title>爱乐之都</title>
 		<desc>爱乐之都</desc>
 	</programme>
+	<programme channel="5535" start="20241128152000 +0000" stop="20241128170000 +0000">
+		<title>爱乐之都</title>
+		<desc>爱乐之都</desc>
+	</programme>
+	<programme channel="5535" start="20241128170000 +0000" stop="20241128180000 +0000">
+		<title>东方新闻</title>
+		<desc>东方新闻</desc>
+	</programme>
+	<programme channel="5535" start="20241128180000 +0000" stop="20241128190200 +0000">
+		<title>未来中国</title>
+		<desc>未来中国</desc>
+	</programme>
+	<programme channel="5535" start="20241128190200 +0000" stop="20241128221500 +0000">
+		<title>爱乐之都</title>
+		<desc>爱乐之都</desc>
+	</programme>
+	<programme channel="5535" start="20241128221500 +0000" stop="20241128230000 +0000">
+		<title>人气美食</title>
+		<desc>人气美食</desc>
+	</programme>
+	<programme channel="5535" start="20241128230000 +0000" stop="20241129010000 +0000">
+		<title>看东方</title>
+		<desc>看东方</desc>
+	</programme>
+	<programme channel="5535" start="20241129010000 +0000" stop="20241129013000 +0000">
+		<title>潮童天下</title>
+		<desc>潮童天下</desc>
+	</programme>
+	<programme channel="5535" start="20241129013000 +0000" stop="20241129031500 +0000">
+		<title>何以中国</title>
+		<desc>何以中国</desc>
+	</programme>
+	<programme channel="5535" start="20241129031500 +0000" stop="20241129040000 +0000">
+		<title>人气美食</title>
+		<desc>人气美食</desc>
+	</programme>
+	<programme channel="5535" start="20241129040000 +0000" stop="20241129050000 +0000">
+		<title>午间30分</title>
+		<desc>午间30分</desc>
+	</programme>
+	<programme channel="5535" start="20241129050000 +0000" stop="20241129062500 +0000">
+		<title>未来中国</title>
+		<desc>未来中国</desc>
+	</programme>
+	<programme channel="5535" start="20241129062500 +0000" stop="20241129065400 +0000">
+		<title>潮童天下</title>
+		<desc>潮童天下</desc>
+	</programme>
+	<programme channel="5535" start="20241129065400 +0000" stop="20241129083500 +0000">
+		<title>何以中国</title>
+		<desc>何以中国</desc>
+	</programme>
+	<programme channel="5535" start="20241129083500 +0000" stop="20241129092000 +0000">
+		<title>人气美食</title>
+		<desc>人气美食</desc>
+	</programme>
+	<programme channel="5535" start="20241129092000 +0000" stop="20241129100000 +0000">
+		<title>名医话养生</title>
+		<desc>名医话养生</desc>
+	</programme>
+	<programme channel="5535" start="20241129100000 +0000" stop="20241129110000 +0000">
+		<title>东方新闻</title>
+		<desc>东方新闻</desc>
+	</programme>
+	<programme channel="5535" start="20241129110000 +0000" stop="20241129142500 +0000">
+		<title>何以中国</title>
+		<desc>何以中国</desc>
+	</programme>
+	<programme channel="5535" start="20241129142500 +0000" stop="20241129152000 +0000">
+		<title>未来中国</title>
+		<desc>未来中国</desc>
+	</programme>
 	<programme channel="5536" start="20241127154000 +0000" stop="20241127171000 +0000">
 		<title>鲜厨100</title>
 		<desc>鲜厨100</desc>
@@ -26263,48 +26335,48 @@ Chinese Restaurants, acclaimed as the pinnacle of Chinese cuisine, are considere
 		<desc>Raja and Devi fall in love with each other and get engaged. However, when Raja learns that he is suffering from cancer, he hides it from Devi and calls off the engagement.</desc>
 	</programme>
 	<programme channel="5625" start="20241127200000 +0000" stop="20241127223000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Sirithal Rasippaen</title>
+		<desc>A rich young woman is madly in love with a manager. But things turn difficult for them after their families disapprove of their relationship.</desc>
 	</programme>
 	<programme channel="5625" start="20241127223000 +0000" stop="20241128010000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Sivarathri</title>
+		<desc>Gayathri, a pious woman, is married to Mohan, a businessman. Their life takes a turn when their child, Raja, obtains special powers after visiting an old temple.</desc>
 	</programme>
 	<programme channel="5625" start="20241128010000 +0000" stop="20241128013000 +0000">
 		<title>Teleshopping</title>
 		<desc>Consumer can purchase goods and services shown on television; the purchaser telephones an order, or orders with the aid of a computer, and the products are delivered to the home.</desc>
 	</programme>
 	<programme channel="5625" start="20241128013000 +0000" stop="20241128043000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Dharma Devathai</title>
+		<desc>A union leader of a factory is killed by his evil employer for provoking the workers to fight for their rights. However, the former's brother decides to avenge the wrong done to his brother.</desc>
 	</programme>
 	<programme channel="5625" start="20241128043000 +0000" stop="20241128073000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - En Mana Vaanil</title>
+		<desc>Ganesh, who is born dumb, falls in love with the affluent Thilaka, who is deaf and dumb. When they elope, Thilaka's fiance pursues them and tries to split the duo. Will Ganesh and Thilaka ever unite?</desc>
 	</programme>
 	<programme channel="5625" start="20241128073000 +0000" stop="20241128103000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Moondru Mugam</title>
+		<desc>Before dying at the hands of a criminal, a police officer swears that he will return as a reincarnation to seek revenge. Consequently, fate brings together his twin sons who were separated at birth.</desc>
 	</programme>
 	<programme channel="5625" start="20241128103000 +0000" stop="20241128133000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Kizhakku Vaasal</title>
+		<desc>When an influential man from the village tries to molest Thaayamma, an orphan, she escapes from his clutches and is saved by Ponnurangam. Eventually, they fall in love.</desc>
 	</programme>
 	<programme channel="5625" start="20241128133000 +0000" stop="20241128133000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Vetaiyadu Viliayadu</title>
+		<desc>DCP Raghavan sets off on the trail of the killers of Rani, the daughter of a police officer. Following this, many more murders take place, leading him to New York to capture the maniac killers.</desc>
 	</programme>
 	<programme channel="5625" start="20241128133000 +0000" stop="20241128170000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Vetaiyadu Viliayadu</title>
+		<desc>DCP Raghavan sets off on the trail of the killers of Rani, the daughter of a police officer. Following this, many more murders take place, leading him to New York to capture the maniac killers.</desc>
 	</programme>
 	<programme channel="5625" start="20241128170000 +0000" stop="20241128183000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Athu Oru Kana Kalam</title>
+		<desc>When a truck driver realises that he's helping an escaped convict, he threatens to hand over Srinivasan to the cops. That's when the latter begins to narrate the circumstances that landed him in jail.</desc>
 	</programme>
 	<programme channel="5625" start="20241128183000 +0000" stop="20241128200000 +0000">
-		<title>Movie Contd</title>
-		<desc>Movie</desc>
+		<title>Movie Contd - Athu Oru Kana Kalam</title>
+		<desc>When a truck driver realises that he's helping an escaped convict, he threatens to hand over Srinivasan to the cops. That's when the latter begins to narrate the circumstances that landed him in jail.</desc>
 	</programme>
 	<programme channel="5625" start="20241128200000 +0000" stop="20241128223000 +0000">
 		<title>Movie - Solla Solla Inikkum</title>
@@ -28318,11 +28390,15 @@ Chinese Restaurants, acclaimed as the pinnacle of Chinese cuisine, are considere
 		<title>Iruvattam Manavatty</title>
 		<desc>Gautham, a veterinerian, falls in love with Bhumika who, fearing her father, does not reciprocate his feelings.</desc>
 	</programme>
-	<programme channel="5639" start="20241128003000 +0000" stop="20241128013000 +0000">
+	<programme channel="5639" start="20241128003000 +0000" stop="20241128012000 +0000">
 		<title>Chirikkum Thalika</title>
 		<desc>A compilation of some of the best comedy scenes from Malayalam movies.</desc>
 	</programme>
-	<programme channel="5639" start="20241128013000 +0000" stop="20241128043000 +0000">
+	<programme channel="5639" start="20241128012000 +0000" stop="20241128015000 +0000">
+		<title>Filler Chirikkum Thalika</title>
+		<desc>Filler Segment</desc>
+	</programme>
+	<programme channel="5639" start="20241128015000 +0000" stop="20241128043000 +0000">
 		<title>Kadha Parayumbol</title>
 		<desc>Balan struggles in life but it changes when his old friend comes to his village. Release Year: 2007 Director: M. Mohanan Awards: 2008 Nominee V Shantaram Annual Film Award - Best Film</desc>
 	</programme>
@@ -28338,49 +28414,45 @@ Chinese Restaurants, acclaimed as the pinnacle of Chinese cuisine, are considere
 		<title>Pathinettam Padi</title>
 		<desc>A Professor tries to guide the students of 2 rival schools on the right path. Release Year: 2019 Director: Shanker Ramakrishnan</desc>
 	</programme>
-	<programme channel="5639" start="20241128133000 +0000" stop="20241128153000 +0000">
+	<programme channel="5639" start="20241128133000 +0000" stop="20241128133000 +0000">
 		<title>Aadu 2</title>
 		<desc>Shaji wants to earn money quickly. So he takes part in a tug of war competition. Release Year: 2017 Director: Midhun Manuel Thomas</desc>
 	</programme>
-	<programme channel="5639" start="20241128153000 +0000" stop="20241128153000 +0000">
-		<title>Movie</title>
-		<desc>Movies name is yet to be announced by this channel.</desc>
+	<programme channel="5639" start="20241128133000 +0000" stop="20241128165000 +0000">
+		<title>Aadu 2</title>
+		<desc>Shaji wants to earn money quickly. So he takes part in a tug of war competition. Release Year: 2017 Director: Midhun Manuel Thomas</desc>
 	</programme>
-	<programme channel="5639" start="20241128153000 +0000" stop="20241128163000 +0000">
-		<title>Movie</title>
-		<desc>Movies name is yet to be announced by this channel.</desc>
+	<programme channel="5639" start="20241128165000 +0000" stop="20241128193000 +0000">
+		<title>Vellimoonga</title>
+		<desc>A man falls in love with a girl. He finds that she's the daughter of his ex-love Release Year: 2014 Director: Jibu Jacob</desc>
 	</programme>
-	<programme channel="5639" start="20241128163000 +0000" stop="20241128193000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="5639" start="20241128193000 +0000" stop="20241128222000 +0000">
+		<title>Crazy Gopalan</title>
+		<desc>Forced to flee from his village, thief Gopalan, plans a big heist in a city.</desc>
 	</programme>
-	<programme channel="5639" start="20241128193000 +0000" stop="20241128220000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
-	</programme>
-	<programme channel="5639" start="20241128220000 +0000" stop="20241129003000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="5639" start="20241128222000 +0000" stop="20241129003000 +0000">
+		<title>Anwar</title>
+		<desc>Anwar's journey towards crime begins when he is arrested. He joins a group of fanatical terrorists and they begin to plant bombs across the city.</desc>
 	</programme>
 	<programme channel="5639" start="20241129003000 +0000" stop="20241129013000 +0000">
-		<title>TBC</title>
-		<desc>TBC</desc>
+		<title>Chirikkum Thalika</title>
+		<desc>A compilation of some of the best comedy scenes from Malayalam movies.</desc>
 	</programme>
 	<programme channel="5639" start="20241129013000 +0000" stop="20241129043000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Nadodi Mannan</title>
+		<desc>Mayor Padmanabhan gets in trouble when he is forced to fight corruption. Release Year: 2013 Director: Viji Thampi</desc>
 	</programme>
 	<programme channel="5639" start="20241129043000 +0000" stop="20241129073000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Adi Kapyare Kootamani</title>
+		<desc>Lakshmi offers Bhanuprasad money to take her to his hostel but she gets trapped. Release Year: 2015 Director: John Varghese</desc>
 	</programme>
 	<programme channel="5639" start="20241129073000 +0000" stop="20241129103000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Grrr</title>
+		<desc>Inspired by true events, story of thrill-seekers who stumble into a wild cat sanctuary.</desc>
 	</programme>
 	<programme channel="5639" start="20241129103000 +0000" stop="20241129133000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>King Of Kotha</title>
+		<desc>Ravi''''s son Tony is torn between his inherited legacy and his desire for a different life. Unlike his father, Tony isn''''t drawn to the dark world of crime. Release Year: 2023 Director: Abhilash Joshiy Awards: 2024 Nominee Iconic Award- Best Actor in a Negative Role- Nyla Usha</desc>
 	</programme>
 	<programme channel="5644" start="20241127155200 +0000" stop="20241127161600 +0000">
 		<title>Pashminna - Dhaage Mohabbat Ke Episode 52</title>
