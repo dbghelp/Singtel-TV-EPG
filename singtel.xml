@@ -914,7 +914,7 @@
 	</programme>
 	<programme channel="5002" start="20241129133000 +0000" stop="20241129140000 +0000">
 		<title>On The Red Dot Episode 27</title>
-		<desc>Young Singaporeans travel to the hometowns of their former domestic helpers to surprise and honour the women who helped raise them.</desc>
+		<desc>Auntie Marlyn had been a constant in Rachel's life for 21 years - until she retired. Rachel never had the chance to thank her for the role she played in her life. Now, she has the moment to do so.</desc>
 	</programme>
 	<programme channel="5003" start="20241127160000 +0000" stop="20241127170000 +0000">
 		<title>飞狐外传 Episode 16</title>
@@ -1630,7 +1630,7 @@
 	</programme>
 	<programme channel="5006" start="20241128110000 +0000" stop="20241128113000 +0000">
 		<title>Global Talent, Local Impact - Building A Diverse Workforce Episode 2</title>
-		<desc>Global Talent, Local Impact - Building A Diverse Workforce</desc>
+		<desc>Join two international experts in AI, robotics, and cable manufacturing and discover how they're shaping the future of Singapore's workforce.</desc>
 	</programme>
 	<programme channel="5006" start="20241128113000 +0000" stop="20241128120000 +0000">
 		<title>CNA Correspondent Episode 34</title>
@@ -1650,7 +1650,7 @@
 	</programme>
 	<programme channel="5006" start="20241128150000 +0000" stop="20241128153000 +0000">
 		<title>Global Talent, Local Impact - Building A Diverse Workforce Episode 2</title>
-		<desc>Global Talent, Local Impact - Building A Diverse Workforce</desc>
+		<desc>Join two international experts in AI, robotics, and cable manufacturing and discover how they're shaping the future of Singapore's workforce.</desc>
 	</programme>
 	<programme channel="5006" start="20241128153000 +0000" stop="20241128160000 +0000">
 		<title>CNA Correspondent Episode 34</title>
@@ -1702,7 +1702,7 @@
 	</programme>
 	<programme channel="5006" start="20241129050000 +0000" stop="20241129053000 +0000">
 		<title>Global Talent, Local Impact - Building A Diverse Workforce Episode 2</title>
-		<desc>Global Talent, Local Impact - Building A Diverse Workforce</desc>
+		<desc>Join two international experts in AI, robotics, and cable manufacturing and discover how they're shaping the future of Singapore's workforce.</desc>
 	</programme>
 	<programme channel="5006" start="20241129053000 +0000" stop="20241129060000 +0000">
 		<title>CNA Correspondent Episode 34</title>
@@ -1738,7 +1738,7 @@
 	</programme>
 	<programme channel="5006" start="20241129130000 +0000" stop="20241129133000 +0000">
 		<title>In The Grandstand Episode 2</title>
-		<desc>In The Grandstand</desc>
+		<desc>At Kranji Racecourse, the 182-year-old Singapore Turf Club gained international acclaim in horse-racing. Outside of the sport, it also continuously built social cohesion and contributed to communities through numerous CSR efforts.</desc>
 	</programme>
 	<programme channel="5006" start="20241129133000 +0000" stop="20241129140000 +0000">
 		<title>On The Red Dot Episode 26</title>
@@ -3911,7 +3911,7 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>Round 1 | Saint-Quentin-en-Yvelines</desc>
 	</programme>
 	<programme channel="6116" start="20241129085000 +0000" stop="20241129101000 +0000">
-		<title>Ruka | Women's 10km Classic (Live)</title>
+		<title>Ruka | Women's 10km Classic</title>
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241129101000 +0000" stop="20241129112500 +0000">
@@ -3919,7 +3919,7 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>World Cup | Day 1</desc>
 	</programme>
 	<programme channel="6116" start="20241129112500 +0000" stop="20241129125500 +0000">
-		<title>Ruka | Men's 10km Classic (Live)</title>
+		<title>Ruka | Men's 10km Classic</title>
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241129125500 +0000" stop="20241129135000 +0000">
@@ -3931,7 +3931,7 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241129143000 +0000" stop="20241129151500 +0000">
-		<title>Ruka | Women's 10km Classic (Live)</title>
+		<title>Ruka | Women's 10km Classic</title>
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="5118" start="20241127160000 +0000" stop="20241127163000 +0000">
@@ -4507,11 +4507,11 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>ATP Tour 1000 2024</desc>
 	</programme>
 	<programme channel="6110" start="20241127152500 +0000" stop="20241127174000 +0000">
-		<title>UEFA Conference League 2024/25: Basaksehir vs Petrocub - MD4 Episode 55</title>
+		<title>UEFA Conference League 2024/25: Basaksehir vs Petrocub - MD4 (Live) Episode 55</title>
 		<desc>UEFA Conference League 2024/25</desc>
 	</programme>
 	<programme channel="6110" start="20241127174000 +0000" stop="20241127195500 +0000">
-		<title>UEFA Champions League 2024/25: Crvena Zvezda vs Stuttgart - MD5 Episode 96</title>
+		<title>UEFA Champions League 2024/25: Crvena Zvezda vs Stuttgart - MD5 (Live) Episode 96</title>
 		<desc>UEFA Champions League 2024/25</desc>
 	</programme>
 	<programme channel="6110" start="20241127195500 +0000" stop="20241127220000 +0000">
@@ -4567,11 +4567,11 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>UEFA Champions League 2024/25</desc>
 	</programme>
 	<programme channel="6110" start="20241128152500 +0000" stop="20241128152500 +0000">
-		<title>UEFA Conference League 2024/25: Astana vs Vitoria SC - MD4 (Live) Episode 56</title>
+		<title>UEFA Conference League 2024/25: Astana vs Vitoria SC - MD4 Episode 56</title>
 		<desc>UEFA Conference League 2024/25</desc>
 	</programme>
 	<programme channel="6110" start="20241128152500 +0000" stop="20241128174000 +0000">
-		<title>UEFA Conference League 2024/25: Astana vs Vitoria SC - MD4 (Live) Episode 56</title>
+		<title>UEFA Conference League 2024/25: Astana vs Vitoria SC - MD4 Episode 56</title>
 		<desc>UEFA Conference League 2024/25</desc>
 	</programme>
 	<programme channel="6110" start="20241128174000 +0000" stop="20241128195500 +0000">
@@ -4579,7 +4579,7 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>UEFA Conference League 2024/25</desc>
 	</programme>
 	<programme channel="6110" start="20241128195500 +0000" stop="20241128220000 +0000">
-		<title>UEFA Europa League 2024/25: Man United vs Bodo/Glimt - MD5 (Live) Episode 85</title>
+		<title>UEFA Europa League 2024/25: Man United vs Bodo/Glimt - MD5 Episode 85</title>
 		<desc>UEFA Europa League 2024/25</desc>
 	</programme>
 	<programme channel="6110" start="20241128220000 +0000" stop="20241128235000 +0000">
