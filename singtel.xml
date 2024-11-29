@@ -3901,15 +3901,15 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241129101000 +0000" stop="20241129112500 +0000">
-		<title>Ruka | Men's HS 142 (Live)</title>
+		<title>Ruka | Men's HS 142</title>
 		<desc>World Cup | Day 1</desc>
 	</programme>
 	<programme channel="6116" start="20241129112500 +0000" stop="20241129125500 +0000">
-		<title>Ruka | Men's 10km Classic</title>
+		<title>Ruka | Men's 10km Classic (Live)</title>
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241129125500 +0000" stop="20241129135000 +0000">
-		<title>Ruka | Men's HS 142 (Live)</title>
+		<title>Ruka | Men's HS 142</title>
 		<desc>World Cup | Day 1</desc>
 	</programme>
 	<programme channel="6116" start="20241129135000 +0000" stop="20241129143000 +0000">
@@ -3921,7 +3921,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241129151500 +0000" stop="20241129151500 +0000">
-		<title>Ruka | Men's 10km Classic</title>
+		<title>Ruka | Men's 10km Classic (Live)</title>
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241129151500 +0000" stop="20241129160500 +0000">
@@ -4569,7 +4569,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<desc>ATP Tour 1000 2024</desc>
 	</programme>
 	<programme channel="6110" start="20241128152500 +0000" stop="20241128174000 +0000">
-		<title>UEFA Conference League 2024/25: Astana vs Vitoria SC - MD4 Episode 56</title>
+		<title>UEFA Conference League 2024/25: Astana vs Vitoria SC - MD4 (Live) Episode 56</title>
 		<desc>UEFA Conference League 2024/25</desc>
 	</programme>
 	<programme channel="6110" start="20241128174000 +0000" stop="20241128195500 +0000">
@@ -4577,7 +4577,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<desc>UEFA Conference League 2024/25</desc>
 	</programme>
 	<programme channel="6110" start="20241128195500 +0000" stop="20241128220000 +0000">
-		<title>UEFA Europa League 2024/25: Man United vs Bodo/Glimt - MD5 Episode 85</title>
+		<title>UEFA Europa League 2024/25: Man United vs Bodo/Glimt - MD5 (Live) Episode 85</title>
 		<desc>UEFA Europa League 2024/25</desc>
 	</programme>
 	<programme channel="6110" start="20241128220000 +0000" stop="20241128235000 +0000">
@@ -7162,7 +7162,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 	</programme>
 	<programme channel="5161" start="20241128193000 +0000" stop="20241128200000 +0000">
 		<title>To the Point</title>
-		<desc>To the Point</desc>
+		<desc>Russia touts a new ‘wonder weapon' and is putting NATO under pressure. At the same time, Russian troops are gaining ground in Ukraine with the help of North Korean soldiers. Is a global war more likely than ever? Our guests: Gustav Gressel (military expert), Jessica Berlin (analyst), Vladimir Esipov (DW).</desc>
 	</programme>
 	<programme channel="5161" start="20241128200000 +0000" stop="20241128203000 +0000">
 		<title>DW News</title>
@@ -7194,7 +7194,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 	</programme>
 	<programme channel="5161" start="20241128223000 +0000" stop="20241128230000 +0000">
 		<title>To the Point</title>
-		<desc>To the Point</desc>
+		<desc>Russia touts a new ‘wonder weapon' and is putting NATO under pressure. At the same time, Russian troops are gaining ground in Ukraine with the help of North Korean soldiers. Is a global war more likely than ever? Our guests: Gustav Gressel (military expert), Jessica Berlin (analyst), Vladimir Esipov (DW).</desc>
 	</programme>
 	<programme channel="5161" start="20241128230000 +0000" stop="20241128231500 +0000">
 		<title>DW News</title>
@@ -7205,8 +7205,8 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<desc>Join Sri Lankan daredevil Jagath Perera as he defies gravity on the Wall of Death. A tradition over 100 years old, these fearless riders face broken bones and deadly falls—but their passion keeps the spectacle alive. Will this be the last generation of Wall of Death riders?</desc>
 	</programme>
 	<programme channel="5161" start="20241128233000 +0000" stop="20241129000000 +0000">
-		<title>Best of DW Podcasts</title>
-		<desc>Select DW video podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
+		<title>Berlin Briefing</title>
+		<desc>Berlin Briefing is an English-language video podcast that dives deep into how Germany - the world's third-largest economy - is navigating major geopolitical challenges. It's smart, informative, and engaging. An essential Berlin Briefing on what's happening in Germany and Europe, what's coming next, and why it matters.</desc>
 	</programme>
 	<programme channel="5161" start="20241129000000 +0000" stop="20241129000200 +0000">
 		<title>DW News</title>
@@ -7218,7 +7218,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 	</programme>
 	<programme channel="5161" start="20241129003000 +0000" stop="20241129010000 +0000">
 		<title>To the Point</title>
-		<desc>To the Point</desc>
+		<desc>Russia touts a new ‘wonder weapon' and is putting NATO under pressure. At the same time, Russian troops are gaining ground in Ukraine with the help of North Korean soldiers. Is a global war more likely than ever? Our guests: Gustav Gressel (military expert), Jessica Berlin (analyst), Vladimir Esipov (DW).</desc>
 	</programme>
 	<programme channel="5161" start="20241129010000 +0000" stop="20241129011500 +0000">
 		<title>DW News</title>
@@ -7238,7 +7238,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 	</programme>
 	<programme channel="5161" start="20241129023000 +0000" stop="20241129030000 +0000">
 		<title>Focus on Europe</title>
-		<desc>Gisele Pelicot demands that video evidence be shown in public trial, emboldening other rape victims. +++ School is the only reason why first-grader Val and his family can stay on their island.</desc>
+		<desc>Gisèle Pelicot demands that videos of her rape be shown in court. Other survivors are encouraged by her strength. +++ School is the only reason why first-grader Val and his family can stay on their island.</desc>
 	</programme>
 	<programme channel="5161" start="20241129030000 +0000" stop="20241129031500 +0000">
 		<title>DW News</title>
@@ -7281,8 +7281,8 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<desc>Join Sri Lankan daredevil Jagath Perera as he defies gravity on the Wall of Death. A tradition over 100 years old, these fearless riders face broken bones and deadly falls—but their passion keeps the spectacle alive. Will this be the last generation of Wall of Death riders?</desc>
 	</programme>
 	<programme channel="5161" start="20241129063000 +0000" stop="20241129070000 +0000">
-		<title>Best of DW Podcasts</title>
-		<desc>Select DW video podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
+		<title>Berlin Briefing</title>
+		<desc>Berlin Briefing is an English-language video podcast that dives deep into how Germany - the world's third-largest economy - is navigating major geopolitical challenges. It's smart, informative, and engaging. An essential Berlin Briefing on what's happening in Germany and Europe, what's coming next, and why it matters.</desc>
 	</programme>
 	<programme channel="5161" start="20241129070000 +0000" stop="20241129073000 +0000">
 		<title>DW News</title>
@@ -7290,7 +7290,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 	</programme>
 	<programme channel="5161" start="20241129073000 +0000" stop="20241129080000 +0000">
 		<title>To the Point</title>
-		<desc>To the Point</desc>
+		<desc>Russia touts a new ‘wonder weapon' and is putting NATO under pressure. At the same time, Russian troops are gaining ground in Ukraine with the help of North Korean soldiers. Is a global war more likely than ever? Our guests: Gustav Gressel (military expert), Jessica Berlin (analyst), Vladimir Esipov (DW).</desc>
 	</programme>
 	<programme channel="5161" start="20241129080000 +0000" stop="20241129083000 +0000">
 		<title>DW News</title>
@@ -7313,8 +7313,8 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<desc>DW News</desc>
 	</programme>
 	<programme channel="5161" start="20241129103000 +0000" stop="20241129110000 +0000">
-		<title>Best of DW Podcasts</title>
-		<desc>Select DW video podcasts enrich the program with current analyses of world politics and its influence on our daily lives. There will also be space in the program for lively discussions about social standards and taboos.</desc>
+		<title>Berlin Briefing</title>
+		<desc>Berlin Briefing is an English-language video podcast that dives deep into how Germany - the world's third-largest economy - is navigating major geopolitical challenges. It's smart, informative, and engaging. An essential Berlin Briefing on what's happening in Germany and Europe, what's coming next, and why it matters.</desc>
 	</programme>
 	<programme channel="5161" start="20241129110000 +0000" stop="20241129113000 +0000">
 		<title>DW News</title>
@@ -7322,7 +7322,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 	</programme>
 	<programme channel="5161" start="20241129113000 +0000" stop="20241129120000 +0000">
 		<title>To the Point</title>
-		<desc>To the Point</desc>
+		<desc>Russia touts a new ‘wonder weapon' and is putting NATO under pressure. At the same time, Russian troops are gaining ground in Ukraine with the help of North Korean soldiers. Is a global war more likely than ever? Our guests: Gustav Gressel (military expert), Jessica Berlin (analyst), Vladimir Esipov (DW).</desc>
 	</programme>
 	<programme channel="5161" start="20241129120000 +0000" stop="20241129121500 +0000">
 		<title>DW News</title>
@@ -7358,7 +7358,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 	</programme>
 	<programme channel="5161" start="20241129153000 +0000" stop="20241129160000 +0000">
 		<title>To the Point</title>
-		<desc>To the Point</desc>
+		<desc>Russia touts a new ‘wonder weapon' and is putting NATO under pressure. At the same time, Russian troops are gaining ground in Ukraine with the help of North Korean soldiers. Is a global war more likely than ever? Our guests: Gustav Gressel (military expert), Jessica Berlin (analyst), Vladimir Esipov (DW).</desc>
 	</programme>
 	<programme channel="5161" start="20241129160000 +0000" stop="20241129161500 +0000">
 		<title>DW News</title>
@@ -14598,15 +14598,15 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 	</programme>
 	<programme channel="5251" start="20241128173000 +0000" stop="20241128180000 +0000">
 		<title>7.30 Episode 188</title>
-		<desc>Sarah Ferguson presents Australia's premier daily current affairs program, delivering agenda-setting public affairs journalism and interviews that hold the powerful to account. Plus political analysis from Laura Tingle.</desc>
+		<desc>Sarah Ferguson interviews Prime Minister Anthony Albanese. Laura Tingle reports on the last sitting day of parliament for the year. Plus the punk rocker who became a judge.</desc>
 	</programme>
 	<programme channel="5251" start="20241128180000 +0000" stop="20241128190000 +0000">
 		<title>The World Episode 192</title>
-		<desc>There's never been a more important time to stay in touch with what's happening in our world. Weeknights at 9pm AEDT, Girish Sawlani presents the latest international news from correspondents and interviews with guests.</desc>
+		<desc>Girish Sawlani brings you the latest world news. Tonight: A ceasefire in Lebanon appears to hold, record snowfall in Seoul turns deadly, plus the ICC seeks an arrest warrant for the head of the Myanmar military.</desc>
 	</programme>
 	<programme channel="5251" start="20241128190000 +0000" stop="20241128220000 +0000">
 		<title>News Breakfast Episode 240</title>
-		<desc>Be the first to know the latest overnight developments, breaking news and today's top stories. Michael Rowland and Emma Rebellato bring you news and interviews, joined by Charles Brice with sport and Nate Byrne with weather.</desc>
+		<desc>Be the first to know the latest overnight developments, breaking news and today's top stories. Michael Rowland and Emma Rebellato bring you news and interviews, joined by Charles Brice with sport.</desc>
 	</programme>
 	<programme channel="5251" start="20241128220000 +0000" stop="20241129010000 +0000">
 		<title>ABC News Mornings Episode 240</title>
@@ -14614,7 +14614,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 	</programme>
 	<programme channel="5251" start="20241129010000 +0000" stop="20241129020000 +0000">
 		<title>ABC News At Noon Episode 240</title>
-		<desc>The leading news at lunchtime. Melissa Mackay brings you the day's top stories and the latest news as it unfolds, with reporters in the community across Australia and around the world reporting on issues that matter to you.</desc>
+		<desc>The leading news at lunchtime. Lorna Dunkley brings you the day's top stories and the latest news as it unfolds, with reporters in the community across Australia and around the world reporting on issues that matter to you.</desc>
 	</programme>
 	<programme channel="5251" start="20241129020000 +0000" stop="20241129025500 +0000">
 		<title>Gardening Australia Episode 35</title>
@@ -14634,7 +14634,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 	</programme>
 	<programme channel="5251" start="20241129043000 +0000" stop="20241129050000 +0000">
 		<title>That Pacific Sports Show Episode 40</title>
-		<desc>Join Tiana Penitani and Sam Wykes for your weekly hit of Pacific joy, as they share inspiring stories and incredible sporting prowess of athletes with Pacific Island heritage, from Australia and around the world.</desc>
+		<desc>We celebrate the milestones and achievements of Pasifika women in sport. Tiana Penitani and Sera Naiqama are at the Sydney Football Stadium, with Moana Leilua, Melanie Kawa and Vaomua Laloifi joining the conversation.</desc>
 	</programme>
 	<programme channel="5251" start="20241129050000 +0000" stop="20241129060000 +0000">
 		<title>Afternoon Briefing Episode 220</title>
@@ -14666,7 +14666,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 	</programme>
 	<programme channel="5251" start="20241129100000 +0000" stop="20241129103000 +0000">
 		<title>The World Episode 48</title>
-		<desc>There's never been a more important time to stay in touch with what's going on in our world. At 9pm AEDT Andrea Nierhoff brings you the latest international news and interviews with correspondents and guests.</desc>
+		<desc>There's never been a more important time to stay in touch with what's going on in our world. At 9pm AEDT Iskhandar Razak brings you the latest international news and interviews with correspondents and guests.</desc>
 	</programme>
 	<programme channel="5251" start="20241129103000 +0000" stop="20241129110000 +0000">
 		<title>The World This Week Episode 46</title>
@@ -14690,7 +14690,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 	</programme>
 	<programme channel="5251" start="20241129133500 +0000" stop="20241129140500 +0000">
 		<title>Asia News Week Episode 20</title>
-		<desc>Girish Sawlani takes you beyond the headlines to bring you stories making news across Asia this week.</desc>
+		<desc>Join Girish Sawlani for the latest news from Asia. This week: A snowstorm takes over Seoul, protests in Pakistan ramp up, plus why are menstrual products sparking debate in China right now?</desc>
 	</programme>
 	<programme channel="5251" start="20241129140500 +0000" stop="20241129143000 +0000">
 		<title>Close Of Business Episode 44</title>
@@ -14698,7 +14698,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 	</programme>
 	<programme channel="5251" start="20241129143000 +0000" stop="20241129150000 +0000">
 		<title>The World Episode 48</title>
-		<desc>There's never been a more important time to stay in touch with what's going on in our world. At 9pm AEDT Andrea Nierhoff brings you the latest international news and interviews with correspondents and guests.</desc>
+		<desc>There's never been a more important time to stay in touch with what's going on in our world. At 9pm AEDT Iskhandar Razak brings you the latest international news and interviews with correspondents and guests.</desc>
 	</programme>
 	<programme channel="5251" start="20241129150000 +0000" stop="20241129153000 +0000">
 		<title>The World This Week Episode 46</title>
@@ -28076,11 +28076,11 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<title>Adi Kapyare Kootamani</title>
 		<desc>Lakshmi offers Bhanuprasad money to take her to his hostel but she gets trapped. Release Year: 2015 Director: John Varghese</desc>
 	</programme>
-	<programme channel="5639" start="20241129073000 +0000" stop="20241129103000 +0000">
+	<programme channel="5639" start="20241129073000 +0000" stop="20241129102000 +0000">
 		<title>Grrr</title>
 		<desc>Inspired by true events, story of thrill-seekers who stumble into a wild cat sanctuary.</desc>
 	</programme>
-	<programme channel="5639" start="20241129103000 +0000" stop="20241129133000 +0000">
+	<programme channel="5639" start="20241129102000 +0000" stop="20241129133000 +0000">
 		<title>King Of Kotha</title>
 		<desc>Ravi''''s son Tony is torn between his inherited legacy and his desire for a different life. Unlike his father, Tony isn''''t drawn to the dark world of crime. Release Year: 2023 Director: Abhilash Joshiy Awards: 2024 Nominee Iconic Award- Best Actor in a Negative Role- Nyla Usha</desc>
 	</programme>
@@ -31624,25 +31624,29 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<title>World Music Album</title>
 		<desc>A 5-minute music program introducing classical music.</desc>
 	</programme>
-	<programme channel="5682" start="20241129060000 +0000" stop="20241129061000 +0000">
-		<title>News &amp; Weather</title>
-		<desc>The latest up-to-date news and nationwide weather information.</desc>
+	<programme channel="5682" start="20241129060000 +0000" stop="20241129063500 +0000">
+		<title>Live from Japan's Diet: Prime Minister's Policy Speech</title>
+		<desc>The latest up-to-date news from Tokyo.</desc>
 	</programme>
-	<programme channel="5682" start="20241129061000 +0000" stop="20241129063000 +0000">
+	<programme channel="5682" start="20241129063500 +0000" stop="20241129065500 +0000">
 		<title>Chinese Navi</title>
 		<desc>If you have any interests in Chinese community, join us to study the Chinese language!</desc>
 	</programme>
-	<programme channel="5682" start="20241129063000 +0000" stop="20241129064500 +0000">
+	<programme channel="5682" start="20241129065500 +0000" stop="20241129071000 +0000">
 		<title>Basic English Opens Door to the World</title>
 		<desc>Let's connect with people around the world using elementary-level English!</desc>
 	</programme>
-	<programme channel="5682" start="20241129064500 +0000" stop="20241129065000 +0000">
+	<programme channel="5682" start="20241129071000 +0000" stop="20241129071500 +0000">
 		<title>See, Learn, Explore--A Deep Travelogue in Tohoku</title>
 		<desc>Explore the unknown charms of the Tohoku region of northern Japan.</desc>
 	</programme>
-	<programme channel="5682" start="20241129065000 +0000" stop="20241129073500 +0000">
-		<title>Choices on How to Deal with Illness (R)</title>
-		<desc>Offering tips on how to take most appropriate option when one becomes ill by referring examples.</desc>
+	<programme channel="5682" start="20241129071500 +0000" stop="20241129072000 +0000">
+		<title>The Great Nature 5min.</title>
+		<desc>The Great Nature 5min.</desc>
+	</programme>
+	<programme channel="5682" start="20241129072000 +0000" stop="20241129073500 +0000">
+		<title>Magnificent Sight!--Mountain Lodges in Europe</title>
+		<desc>Magnificent Sight!--Mountain Lodges in Europe</desc>
 	</programme>
 	<programme channel="5682" start="20241129073500 +0000" stop="20241129080000 +0000">
 		<title>Haru's Weekend at Japanese Old House Cafe (R)</title>
