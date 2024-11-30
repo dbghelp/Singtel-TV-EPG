@@ -4096,7 +4096,7 @@ Streetside Feast is a mouth-watering food documentary, presenting viewers with h
 		<desc>World Cup | Qualifying</desc>
 	</programme>
 	<programme channel="6116" start="20241130090000 +0000" stop="20241130101500 +0000">
-		<title>Ruka | Men's HS 142</title>
+		<title>Ruka | Men's HS 142 (Live)</title>
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241130101500 +0000" stop="20241130121500 +0000">
@@ -4108,7 +4108,7 @@ Streetside Feast is a mouth-watering food documentary, presenting viewers with h
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241130130000 +0000" stop="20241130134500 +0000">
-		<title>Ruka | Men's Gundersen 10km</title>
+		<title>Ruka | Men's Gundersen 10km (Live)</title>
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241130134500 +0000" stop="20241130144500 +0000">
@@ -4116,11 +4116,11 @@ Streetside Feast is a mouth-watering food documentary, presenting viewers with h
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241130144500 +0000" stop="20241130160000 +0000">
-		<title>Killington | Women's Giant Slalom</title>
+		<title>Killington | Women's Giant Slalom (Live)</title>
 		<desc>World Cup | Run 1</desc>
 	</programme>
 	<programme channel="6116" start="20241130160000 +0000" stop="20241130190000 +0000">
-		<title>UCI Track Champions League</title>
+		<title>UCI Track Champions League (Live)</title>
 		<desc>Round 3 | Apeldoorn</desc>
 	</programme>
 	<programme channel="6116" start="20241130190000 +0000" stop="20241130193000 +0000">
@@ -4128,7 +4128,7 @@ Streetside Feast is a mouth-watering food documentary, presenting viewers with h
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241130193000 +0000" stop="20241130203000 +0000">
-		<title>Ruka | Men's HS 142</title>
+		<title>Ruka | Men's HS 142 (Live)</title>
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241130203000 +0000" stop="20241130213000 +0000">
@@ -4140,7 +4140,7 @@ Streetside Feast is a mouth-watering food documentary, presenting viewers with h
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241130221500 +0000" stop="20241130230000 +0000">
-		<title>Ruka | Men's Gundersen 10km</title>
+		<title>Ruka | Men's Gundersen 10km (Live)</title>
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241130230000 +0000" stop="20241201000000 +0000">
@@ -4148,15 +4148,15 @@ Streetside Feast is a mouth-watering food documentary, presenting viewers with h
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241201000000 +0000" stop="20241201010000 +0000">
-		<title>Ruka | Men's HS 142</title>
+		<title>Ruka | Men's HS 142 (Live)</title>
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241201010000 +0000" stop="20241201030000 +0000">
-		<title>UCI Track Champions League</title>
+		<title>UCI Track Champions League (Live)</title>
 		<desc>Round 3 | Apeldoorn</desc>
 	</programme>
 	<programme channel="6116" start="20241201030000 +0000" stop="20241201040000 +0000">
-		<title>Killington | Women's Giant Slalom</title>
+		<title>Killington | Women's Giant Slalom (Live)</title>
 		<desc>World Cup | Run 1</desc>
 	</programme>
 	<programme channel="6116" start="20241201040000 +0000" stop="20241201050000 +0000">
@@ -4164,7 +4164,7 @@ Streetside Feast is a mouth-watering food documentary, presenting viewers with h
 		<desc>World Cup | Run 2</desc>
 	</programme>
 	<programme channel="6116" start="20241201050000 +0000" stop="20241201062000 +0000">
-		<title>UCI Track Champions League</title>
+		<title>UCI Track Champions League (Live)</title>
 		<desc>Round 3 | Apeldoorn</desc>
 	</programme>
 	<programme channel="6116" start="20241201062000 +0000" stop="20241201075000 +0000">
@@ -4172,7 +4172,7 @@ Streetside Feast is a mouth-watering food documentary, presenting viewers with h
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241201075000 +0000" stop="20241201081500 +0000">
-		<title>Ruka | Men's HS 142</title>
+		<title>Ruka | Men's HS 142 (Live)</title>
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241201081500 +0000" stop="20241201093500 +0000">
@@ -4559,17 +4559,21 @@ Streetside Feast is a mouth-watering food documentary, presenting viewers with h
 		<title>Premier Padel 2024: Mexico Major Day 6 SF 1 - Women (Live) Episode 757</title>
 		<desc>Premier Padel 2024</desc>
 	</programme>
-	<programme channel="6126" start="20241130233000 +0000" stop="20241201021000 +0000">
+	<programme channel="6126" start="20241130233000 +0000" stop="20241201010000 +0000">
+		<title>Premier Padel 2024: Mexico Major Day 6 SF 1 - Men (Live) Episode 758</title>
+		<desc>Premier Padel 2024</desc>
+	</programme>
+	<programme channel="6126" start="20241201010000 +0000" stop="20241201023000 +0000">
 		<title>Premier Padel 2024: Mexico Major Day 6 SF 2 - Women (Live) Episode 759</title>
 		<desc>Premier Padel 2024</desc>
 	</programme>
-	<programme channel="6126" start="20241201021000 +0000" stop="20241201023000 +0000">
+	<programme channel="6126" start="20241201023000 +0000" stop="20241201040000 +0000">
 		<title>Premier Padel 2024: Mexico Major Day 6 SF 2 - Men (Live) Episode 760</title>
 		<desc>Premier Padel 2024</desc>
 	</programme>
-	<programme channel="6126" start="20241201023000 +0000" stop="20241201042000 +0000">
-		<title>LaLiga 2024/25: Espanyol vs Celta Vigo Episode 144</title>
-		<desc>LaLiga 2024/25</desc>
+	<programme channel="6126" start="20241201040000 +0000" stop="20241201042000 +0000">
+		<title>LaLiga Zap 2024/25: Episode Number 4 Episode 4</title>
+		<desc>LaLiga Zap 2024/25</desc>
 	</programme>
 	<programme channel="6126" start="20241201042000 +0000" stop="20241201061000 +0000">
 		<title>LaLiga 2024/25: Alaves vs Leganes Episode 143</title>
@@ -4856,11 +4860,11 @@ Streetside Feast is a mouth-watering food documentary, presenting viewers with h
 		<desc>UEFA Europa League 2024/25</desc>
 	</programme>
 	<programme channel="6110" start="20241201064500 +0000" stop="20241201083500 +0000">
-		<title>UEFA Conference League 2024/25: Heidenheim 1846 vs Chelsea - MD4 Episode 57</title>
+		<title>UEFA Conference League 2024/25: Heidenheim 1846 vs Chelsea - MD4 (Live) Episode 57</title>
 		<desc>UEFA Conference League 2024/25</desc>
 	</programme>
 	<programme channel="6110" start="20241201083500 +0000" stop="20241201103000 +0000">
-		<title>UEFA Champions League 2024/25: Liverpool vs Real Madrid - MD5 (Live) Episode 103</title>
+		<title>UEFA Champions League 2024/25: Liverpool vs Real Madrid - MD5 Episode 103</title>
 		<desc>UEFA Champions League 2024/25</desc>
 	</programme>
 	<programme channel="6110" start="20241201103000 +0000" stop="20241201122000 +0000">
@@ -21143,8 +21147,8 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<desc>A medical drama about a man with autistic disorder, who has mentality of 10-year-old, overcomes bias and discrimination by the society and becomes a pediatrician by utilizing his exceptional abilities that the illness brings.</desc>
 	</programme>
 	<programme channel="5038" start="20241129181000 +0000" stop="20241129182500 +0000">
-		<title>TBC</title>
-		<desc>TBC</desc>
+		<title>WORLD-CLASS K-DOL</title>
+		<desc>WORLD-CLASS K-DOL</desc>
 	</programme>
 	<programme channel="5038" start="20241129182500 +0000" stop="20241129183000 +0000">
 		<title>The Best of Immortal Songs</title>
@@ -21175,8 +21179,8 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<desc>A heart-warming story of a promising mid-sized company that achieved success from scratch.</desc>
 	</programme>
 	<programme channel="5038" start="20241130001000 +0000" stop="20241130002500 +0000">
-		<title>TBC</title>
-		<desc>TBC</desc>
+		<title>WORLD-CLASS K-DOL</title>
+		<desc>WORLD-CLASS K-DOL</desc>
 	</programme>
 	<programme channel="5038" start="20241130002500 +0000" stop="20241130010000 +0000">
 		<title>My Merry Marriage Episode 35</title>
@@ -21235,91 +21239,115 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<desc>A capable and distinguished lawyer of the law firm "Kang &amp; Ham" Choi Kang-Seok recruits a young man named Go Yeon-Woo who has a retentive memory but not a law degree. An adaptation from the American TV show Suits.</desc>
 	</programme>
 	<programme channel="5038" start="20241130154500 +0000" stop="20241130154500 +0000">
-		<title>Snow White's Revenge</title>
+		<title>Snow White's Revenge Episode 93</title>
 		<desc>A mystery romance with a woman who wanted to have the world and a woman who risked everything for revenge.</desc>
 	</programme>
 	<programme channel="5038" start="20241130154500 +0000" stop="20241130162000 +0000">
-		<title>Snow White's Revenge</title>
+		<title>Snow White's Revenge Episode 93</title>
 		<desc>A mystery romance with a woman who wanted to have the world and a woman who risked everything for revenge.</desc>
 	</programme>
 	<programme channel="5038" start="20241130162000 +0000" stop="20241130165500 +0000">
-		<title>Snow White's Revenge</title>
+		<title>Snow White's Revenge Episode 94</title>
 		<desc>A mystery romance with a woman who wanted to have the world and a woman who risked everything for revenge.</desc>
 	</programme>
 	<programme channel="5038" start="20241130165500 +0000" stop="20241130173000 +0000">
-		<title>Snow White's Revenge</title>
+		<title>Snow White's Revenge Episode 95</title>
 		<desc>A mystery romance with a woman who wanted to have the world and a woman who risked everything for revenge.</desc>
 	</programme>
 	<programme channel="5038" start="20241130173000 +0000" stop="20241130180500 +0000">
-		<title>Snow White's Revenge</title>
+		<title>Snow White's Revenge Episode 96</title>
 		<desc>A mystery romance with a woman who wanted to have the world and a woman who risked everything for revenge.</desc>
 	</programme>
 	<programme channel="5038" start="20241130180500 +0000" stop="20241130184000 +0000">
-		<title>Snow White's Revenge</title>
+		<title>Snow White's Revenge Episode 97</title>
 		<desc>A mystery romance with a woman who wanted to have the world and a woman who risked everything for revenge.</desc>
 	</programme>
-	<programme channel="5038" start="20241130184000 +0000" stop="20241130200500 +0000">
-		<title>Music Bank</title>
+	<programme channel="5038" start="20241130184000 +0000" stop="20241130200000 +0000">
+		<title>Music Bank Episode 1231</title>
 		<desc>The best tunes in Korea! the most sensational music show on TV satisfies all your senses! Fantastic performances and Awe-inspiring harmony by the nation's top musicians! Follow the latest trend in the Korean music scene through the K-chart, a summary of the week's hottest songs.</desc>
 	</programme>
-	<programme channel="5038" start="20241130200500 +0000" stop="20241130210000 +0000">
-		<title>TBC</title>
-		<desc>TBC</desc>
+	<programme channel="5038" start="20241130200000 +0000" stop="20241130201500 +0000">
+		<title>My Daytrip – Sangju, Into the Hat</title>
+		<desc>A special day as a gift to me! A one-day local trip project that creates a travel plan anyone can see, feel, taste, and experience the charm of the region.</desc>
+	</programme>
+	<programme channel="5038" start="20241130201500 +0000" stop="20241130203000 +0000">
+		<title>My Daytrip – Sangju, Into the Hat</title>
+		<desc>A special day as a gift to me! A one-day local trip project that creates a travel plan anyone can see, feel, taste, and experience the charm of the region.</desc>
+	</programme>
+	<programme channel="5038" start="20241130203000 +0000" stop="20241130204500 +0000">
+		<title>WORLD-CLASS K-DOL</title>
+		<desc>WORLD-CLASS K-DOL</desc>
+	</programme>
+	<programme channel="5038" start="20241130204500 +0000" stop="20241130210000 +0000">
+		<title>WORLD-CLASS K-DOL</title>
+		<desc>WORLD-CLASS K-DOL</desc>
 	</programme>
 	<programme channel="5038" start="20241130210000 +0000" stop="20241130221500 +0000">
-		<title>Iron Family</title>
+		<title>Iron Family Episode 15</title>
 		<desc>A romantic black comedy takes place at "Darim family's laundry" where they dry-clean money instead of clothes.</desc>
 	</programme>
 	<programme channel="5038" start="20241130221500 +0000" stop="20241201000000 +0000">
-		<title>Immortal Songs</title>
+		<title>Immortal Songs Episode 681</title>
 		<desc>The true classic of the century is born again! The legendary classic is reinterpreted by the best idol groups in Korea. Don't miss out on the heart-moving moments that transcend generations.</desc>
 	</programme>
 	<programme channel="5038" start="20241201000000 +0000" stop="20241201011500 +0000">
-		<title>Good Doctor</title>
+		<title>Good Doctor Episode 19</title>
 		<desc>A medical drama about a man with autistic disorder, who has mentality of 10-year-old, overcomes bias and discrimination by the society and becomes a pediatrician by utilizing his exceptional abilities that the illness brings.</desc>
 	</programme>
 	<programme channel="5038" start="20241201011500 +0000" stop="20241201023000 +0000">
-		<title>Good Doctor</title>
+		<title>Good Doctor Episode 20</title>
 		<desc>A medical drama about a man with autistic disorder, who has mentality of 10-year-old, overcomes bias and discrimination by the society and becomes a pediatrician by utilizing his exceptional abilities that the illness brings.</desc>
 	</programme>
 	<programme channel="5038" start="20241201023000 +0000" stop="20241201034500 +0000">
-		<title>Iron Family</title>
+		<title>Iron Family Episode 15</title>
 		<desc>A romantic black comedy takes place at "Darim family's laundry" where they dry-clean money instead of clothes.</desc>
 	</programme>
-	<programme channel="5038" start="20241201034500 +0000" stop="20241201051000 +0000">
-		<title>Music Bank</title>
+	<programme channel="5038" start="20241201034500 +0000" stop="20241201050500 +0000">
+		<title>Music Bank Episode 1231</title>
 		<desc>The best tunes in Korea! the most sensational music show on TV satisfies all your senses! Fantastic performances and Awe-inspiring harmony by the nation's top musicians! Follow the latest trend in the Korean music scene through the K-chart, a summary of the week's hottest songs.</desc>
 	</programme>
-	<programme channel="5038" start="20241201051000 +0000" stop="20241201060500 +0000">
-		<title>TBC</title>
-		<desc>TBC</desc>
+	<programme channel="5038" start="20241201050500 +0000" stop="20241201052000 +0000">
+		<title>My Daytrip – Sangju, Into the Hat</title>
+		<desc>A special day as a gift to me! A one-day local trip project that creates a travel plan anyone can see, feel, taste, and experience the charm of the region.</desc>
+	</programme>
+	<programme channel="5038" start="20241201052000 +0000" stop="20241201053500 +0000">
+		<title>My Daytrip – Sangju, Into the Hat</title>
+		<desc>A special day as a gift to me! A one-day local trip project that creates a travel plan anyone can see, feel, taste, and experience the charm of the region.</desc>
+	</programme>
+	<programme channel="5038" start="20241201053500 +0000" stop="20241201055000 +0000">
+		<title>WORLD-CLASS K-DOL</title>
+		<desc>WORLD-CLASS K-DOL</desc>
+	</programme>
+	<programme channel="5038" start="20241201055000 +0000" stop="20241201060500 +0000">
+		<title>WORLD-CLASS K-DOL</title>
+		<desc>WORLD-CLASS K-DOL</desc>
 	</programme>
 	<programme channel="5038" start="20241201060500 +0000" stop="20241201073500 +0000">
-		<title>Synchro U</title>
+		<title>Synchro U Episode 8</title>
 		<desc>A music variety show that finds the 1% synchronization difference between AI and real singers.</desc>
 	</programme>
 	<programme channel="5038" start="20241201073500 +0000" stop="20241201090500 +0000">
-		<title>Stars' Top Recipe at Fun-Staurant</title>
+		<title>Stars' Top Recipe at Fun-Staurant Episode 248</title>
 		<desc>Gourmet celebrities team up to explore the world of convenience stores and share their secret recipes!</desc>
 	</programme>
 	<programme channel="5038" start="20241201090500 +0000" stop="20241201104500 +0000">
-		<title>Two Days and One Night 4</title>
+		<title>Two Days and One Night 4 Episode 250</title>
 		<desc>Two-day road trip to the beautiful spots in all the corners of Korea! Instead of fancy studio, this on-the-road reality show takes place in the rural sides. While over 10 million Koreans travel abroad each year, the "2 Days and 1 Night" casts travel around Korea - to the mountains, farms, fishing villages, islands - where you can meet the welcoming smiles of our neighbors and the beautiful nature that cleanse our eyes.</desc>
 	</programme>
 	<programme channel="5038" start="20241201104500 +0000" stop="20241201120000 +0000">
-		<title>The Return of Superman</title>
+		<title>The Return of Superman Episode 549</title>
 		<desc>Parenting challenges of "Superman,” the first hero that children encounter when they are born.</desc>
 	</programme>
 	<programme channel="5038" start="20241201120000 +0000" stop="20241201131500 +0000">
-		<title>Iron Family</title>
+		<title>Iron Family Episode 16</title>
 		<desc>A romantic black comedy takes place at "Darim family's laundry" where they dry-clean money instead of clothes.</desc>
 	</programme>
 	<programme channel="5038" start="20241201131500 +0000" stop="20241201143000 +0000">
-		<title>A Beautiful Mind</title>
+		<title>A Beautiful Mind Episode 9</title>
 		<desc>Hyunsung Hospital is the best national hospital with the most advanced medical techniques. Although it is obvious that it is the safest place to be in the country, something mysterious is happening inside the hospital. What is the truth? Who is the criminal? Lee Yeongo is an elite neurosurgeon. He may win recognition from the patients but when he is alone, he feels empty deep in the mind. There is no compassion or emotion for him. Could we think of him as good?</desc>
 	</programme>
 	<programme channel="5038" start="20241201143000 +0000" stop="20241201154500 +0000">
-		<title>A Beautiful Mind</title>
+		<title>A Beautiful Mind Episode 10</title>
 		<desc>Hyunsung Hospital is the best national hospital with the most advanced medical techniques. Although it is obvious that it is the safest place to be in the country, something mysterious is happening inside the hospital. What is the truth? Who is the criminal? Lee Yeongo is an elite neurosurgeon. He may win recognition from the patients but when he is alone, he feels empty deep in the mind. There is no compassion or emotion for him. Could we think of him as good?</desc>
 	</programme>
 	<programme channel="5528" start="20241129140000 +0000" stop="20241129161000 +0000">
@@ -25311,7 +25339,7 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<desc>A program drama FTV about love, friendship, family, happy, sad etc, played by popular actor and actress Indonesia.</desc>
 	</programme>
 	<programme channel="5618" start="20241130183000 +0000" stop="20241130200000 +0000">
-		<title>CINTA BERAKHIR BAHAGIA EPS 280</title>
+		<title>CINTA BERAKHIR BAHAGIA EPS 269</title>
 		<desc>Adisty, the beautiful girl who became the backbone of the family, almost became a commercial sex worker (PSK) to pay off her family's debt. But fate brings him together with Pasha, a respectable man from a wealthy family. Without them knowing that both of them were children who were exchanged as babies. They fall in love but are opposed by the Pasha family.</desc>
 	</programme>
 	<programme channel="5618" start="20241130200000 +0000" stop="20241130213000 +0000">
@@ -25339,7 +25367,7 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<desc>A program drama FTV about love, friendship, family, happy, sad etc, played by popular actor and actress Indonesia.</desc>
 	</programme>
 	<programme channel="5618" start="20241201023000 +0000" stop="20241201040000 +0000">
-		<title>CINTA BERAKHIR BAHAGIA EPS 280</title>
+		<title>CINTA BERAKHIR BAHAGIA EPS 269</title>
 		<desc>Adisty, the beautiful girl who became the backbone of the family, almost became a commercial sex worker (PSK) to pay off her family's debt. But fate brings him together with Pasha, a respectable man from a wealthy family. Without them knowing that both of them were children who were exchanged as babies. They fall in love but are opposed by the Pasha family.</desc>
 	</programme>
 	<programme channel="5618" start="20241201040000 +0000" stop="20241201053000 +0000">
@@ -25367,7 +25395,7 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<desc>A program drama FTV about love, friendship, family, happy, sad etc, played by popular actor and actress Indonesia.</desc>
 	</programme>
 	<programme channel="5618" start="20241201103000 +0000" stop="20241201120000 +0000">
-		<title>CINTA BERAKHIR BAHAGIA EPS 281</title>
+		<title>CINTA BERAKHIR BAHAGIA EPS 270</title>
 		<desc>Adisty, the beautiful girl who became the backbone of the family, almost became a commercial sex worker (PSK) to pay off her family's debt. But fate brings him together with Pasha, a respectable man from a wealthy family. Without them knowing that both of them were children who were exchanged as babies. They fall in love but are opposed by the Pasha family.</desc>
 	</programme>
 	<programme channel="5618" start="20241201120000 +0000" stop="20241201133000 +0000">
@@ -25987,76 +26015,76 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<desc>Two friends, both music directors, have a bitter fall out after a fight with a film director. Later, their children end up falling in love with each other, and, when they learn of each other's fathers, come up with a plan to reunite their parents.</desc>
 	</programme>
 	<programme channel="5625" start="20241129200000 +0000" stop="20241129223000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Suba Muhurtham</title>
+		<desc>Movie starring Kapil Dev,Sulakshana,S.V.Shekher directed by Raghu, Music by S.M.Subbaiah Naidu.</desc>
 	</programme>
 	<programme channel="5625" start="20241129223000 +0000" stop="20241130010000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Sumai</title>
+		<desc>Sathyan, a middle-class man, works hard and saves every penny to financially support his large family. However, his father always gets into trouble by stealing money or gambling with his friends.</desc>
 	</programme>
 	<programme channel="5625" start="20241130010000 +0000" stop="20241130013000 +0000">
 		<title>Teleshopping</title>
 		<desc>Consumer can purchase goods and services shown on television; the purchaser telephones an order, or orders with the aid of a computer, and the products are delivered to the home.</desc>
 	</programme>
 	<programme channel="5625" start="20241130013000 +0000" stop="20241130043000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Thambi</title>
+		<desc>Thambi, a young man with a tragic past, wishes to see the city free of crime and violence. In order to succeed in this mission, he tries to reform Shankara Pandian, a notorious gangster.</desc>
 	</programme>
 	<programme channel="5625" start="20241130043000 +0000" stop="20241130073000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Pistha</title>
+		<desc>Vennila, the arrogant daughter of a wealthy businessman, gets married to Mani in order to inherit her grandfather's property. However, her life changes when she finds out that Mani is an ex-convict.</desc>
 	</programme>
 	<programme channel="5625" start="20241130073000 +0000" stop="20241130103000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Thenkasi Pattinam</title>
+		<desc>Kannan is in love with his childhood friend Meenakshi but keeps it a secret from his beloved friend Das. However, the friendship between them is ruined as Das falls in love with the same girl.</desc>
 	</programme>
 	<programme channel="5625" start="20241130103000 +0000" stop="20241130133000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Demonte Colony</title>
+		<desc>After consuming liquor, four friends decide to do something interesting and visit a haunted bungalow. However, they do not realize that they have returned home with an evil spirit.</desc>
 	</programme>
 	<programme channel="5625" start="20241130133000 +0000" stop="20241130133000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Thani Oruvan</title>
+		<desc>Siddharth Abhimanyu is a rich and powerful scientist who commits many medical malpractices for money. Hence, Mithran, a dutiful IPS officer, sets out to expose him and bring him to justice.</desc>
 	</programme>
 	<programme channel="5625" start="20241130133000 +0000" stop="20241130170000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Thani Oruvan</title>
+		<desc>Siddharth Abhimanyu is a rich and powerful scientist who commits many medical malpractices for money. Hence, Mithran, a dutiful IPS officer, sets out to expose him and bring him to justice.</desc>
 	</programme>
 	<programme channel="5625" start="20241130170000 +0000" stop="20241130183000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Nandha</title>
+		<desc>Nandha returns after serving his term for killing his father. Although he killed him to save his mother, she does not forgive him. He is then taken in by Periyavar, who shelters Sri Lankan refugees.</desc>
 	</programme>
 	<programme channel="5625" start="20241130183000 +0000" stop="20241130200000 +0000">
-		<title>Movie Contd</title>
-		<desc>Movie</desc>
+		<title>Movie Contd - Nandha</title>
+		<desc>Nandha returns after serving his term for killing his father. Although he killed him to save his mother, she does not forgive him. He is then taken in by Periyavar, who shelters Sri Lankan refugees.</desc>
 	</programme>
 	<programme channel="5625" start="20241130200000 +0000" stop="20241130223000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Thaali Dhaanam</title>
+		<desc>Sridhar's mother gets him married to Kalyani, a kind and generous woman. Though they have a happy married life for 12 years, Kalyani is devastated when she is unable to become a mother.</desc>
 	</programme>
 	<programme channel="5625" start="20241130223000 +0000" stop="20241201010000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Thai Pongal</title>
+		<desc>Janaki loses her husband early in her life and is left with a girl child. Without any support, she experiences tough situations involving lecherous men. She meets Vairam who supports her.</desc>
 	</programme>
 	<programme channel="5625" start="20241201010000 +0000" stop="20241201013000 +0000">
 		<title>Teleshopping</title>
 		<desc>Consumer can purchase goods and services shown on television; the purchaser telephones an order, or orders with the aid of a computer, and the products are delivered to the home.</desc>
 	</programme>
 	<programme channel="5625" start="20241201013000 +0000" stop="20241201043000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Bramman</title>
+		<desc>Siva, a movie buff, owns a cinema theatre, which runs into financial trouble. However, his life changes for the better when he meets his childhood friend who is now a famous movie director.</desc>
 	</programme>
 	<programme channel="5625" start="20241201043000 +0000" stop="20241201073000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Ninaithale Innikum</title>
+		<desc>Shiva gets nostalgic thinking about his college life and friends and looks forward to meeting them all. But, there is a sombre mood at the reunion. Soon, Shiva is found almost strangled to death.</desc>
 	</programme>
 	<programme channel="5625" start="20241201073000 +0000" stop="20241201103000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Citizen</title>
+		<desc>Abdulla, a mechanic. Eventually, he kidnaps three prominent government officials. Sarojini is a CBI officer who investigates this matter and tries to piece together the clues left behind by the kidnapper.</desc>
 	</programme>
 	<programme channel="5625" start="20241201103000 +0000" stop="20241201133000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Iruttu</title>
+		<desc>A police officer investigates the mystery behind unnatural deaths after taking charge of his new post at a hill station.</desc>
 	</programme>
 	<programme channel="5627" start="20241129153000 +0000" stop="20241129163000 +0000">
 		<title>Non Stop Hits</title>
@@ -27694,157 +27722,173 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<title>Chirikkum Thalika</title>
 		<desc>A comprehensive compilation of some of the best rib-tickling comedy scenes from various Malayalam movies featuring renowned actors and actresses.</desc>
 	</programme>
-	<programme channel="5638" start="20241129233000 +0000" stop="20241130003000 +0000">
+	<programme channel="5638" start="20241129233000 +0000" stop="20241130020000 +0000">
 		<title>Bhaagamathie</title>
 		<desc>Chanchala, an IAS officer, is imprisoned in a haunted house for interrogation. However, things take an unexpected turn when she gets possessed by a spirit.</desc>
 	</programme>
-	<programme channel="5638" start="20241130003000 +0000" stop="20241130013000 +0000">
-		<title>TBA</title>
-		<desc>The name of the program is yet to be announced by the channel.</desc>
+	<programme channel="5638" start="20241130020000 +0000" stop="20241130023000 +0000">
+		<title>Geetha Govindam</title>
+		<desc>Young lecturer Vijay falls for cautious Geetha, but a mistake jeopardizes their budding romance, leading to family drama and uncertain consequences. Relationships are put to the test.</desc>
 	</programme>
-	<programme channel="5638" start="20241130013000 +0000" stop="20241130023000 +0000">
-		<title>TBA</title>
-		<desc>The name of the program is yet to be announced by the channel.</desc>
+	<programme channel="5638" start="20241130023000 +0000" stop="20241130030000 +0000">
+		<title>Chempaneerpoovu</title>
+		<desc>A show follows Revathy, a lower-class daughter, marrying Sachi, a quirky taxi driver battling alcoholism. Expect drama, humor, and unexpected twists in their unconventional love story.</desc>
 	</programme>
-	<programme channel="5638" start="20241130023000 +0000" stop="20241130033000 +0000">
-		<title>TBA</title>
-		<desc>The name of the program is yet to be announced by the channel.</desc>
+	<programme channel="5638" start="20241130030000 +0000" stop="20241130033000 +0000">
+		<title>Snehakkoottu</title>
+		<desc>Sethumadhavan becomes the unexpected guardian for his distant stepsisters. Facing challenges and resistance, he must discover if his love can truly unite and heal their fractured bond.</desc>
 	</programme>
-	<programme channel="5638" start="20241130033000 +0000" stop="20241130043000 +0000">
-		<title>TBA</title>
-		<desc>The name of the program is yet to be announced by the channel.</desc>
+	<programme channel="5638" start="20241130033000 +0000" stop="20241130040000 +0000">
+		<title>Patharamattu</title>
+		<desc>Nayana, a talented artist, crosses paths with Adarsh, the responsible eldest Moorthy brother, sparking a connection that faces obstacles from envy and familial expectations during the Onam celebrations.</desc>
 	</programme>
-	<programme channel="5638" start="20241130043000 +0000" stop="20241130053000 +0000">
-		<title>TBA</title>
-		<desc>The name of the program is yet to be announced by the channel.</desc>
+	<programme channel="5638" start="20241130040000 +0000" stop="20241130043000 +0000">
+		<title>Ishttam Mathram</title>
+		<desc>Mahesh struggles to express his love for his daughter Chippy, while Ishitha's affection for her deepens, sparking envy in him. A tale of love and longing.</desc>
 	</programme>
-	<programme channel="5638" start="20241130053000 +0000" stop="20241130063000 +0000">
-		<title>TBA</title>
-		<desc>The name of the program is yet to be announced by the channel.</desc>
+	<programme channel="5638" start="20241130043000 +0000" stop="20241130050000 +0000">
+		<title>Chandrikayil Aliyunnu Chandrakantham</title>
+		<desc>IPS Gautham reluctantly marries Alakananda, but things get complicated when his first love, Priyamvada, re-enters his life. Love triangle drama ensues in Asianet's series.</desc>
 	</programme>
-	<programme channel="5638" start="20241130063000 +0000" stop="20241130073000 +0000">
-		<title>TBA</title>
-		<desc>The name of the program is yet to be announced by the channel.</desc>
+	<programme channel="5638" start="20241130050000 +0000" stop="20241130073000 +0000">
+		<title>Falimy</title>
+		<desc>A selfish family reluctantly embarks on a pilgrimage to appease their wandering grandfather and escape their own issues.</desc>
 	</programme>
-	<programme channel="5638" start="20241130073000 +0000" stop="20241130083000 +0000">
-		<title>TBA</title>
-		<desc>The name of the program is yet to be announced by the channel.</desc>
+	<programme channel="5638" start="20241130073000 +0000" stop="20241130080000 +0000">
+		<title>Mounaragam</title>
+		<desc>A woman named Deepa faces cruelty from her husband Prakashan and his mother for giving birth to a mute girl. They mistreat her but Deepa's family supports her.</desc>
 	</programme>
-	<programme channel="5638" start="20241130083000 +0000" stop="20241130093000 +0000">
-		<title>TBA</title>
-		<desc>The name of the program is yet to be announced by the channel.</desc>
+	<programme channel="5638" start="20241130080000 +0000" stop="20241130083000 +0000">
+		<title>Santhwanam-2</title>
+		<desc>Two rival families face challenges and strengthen their bonds in 'Santhwanam 2.' Balan's adopted son marries into one family, balancing his loyalties and navigating familial dynamics.</desc>
 	</programme>
-	<programme channel="5638" start="20241130093000 +0000" stop="20241130103000 +0000">
-		<title>TBA</title>
-		<desc>The name of the program is yet to be announced by the channel.</desc>
+	<programme channel="5638" start="20241130083000 +0000" stop="20241130090000 +0000">
+		<title>Jaanakiyudeyum Abhiyudeyum Veedu</title>
+		<desc>Janakiyudeyum Abhiyudeyum Veedu centers on the love of Abhiram and Janaki in the midst of their extended family in Alakapuri household.</desc>
 	</programme>
-	<programme channel="5638" start="20241130103000 +0000" stop="20241130113000 +0000">
-		<title>TBA</title>
-		<desc>The name of the program is yet to be announced by the channel.</desc>
+	<programme channel="5638" start="20241130090000 +0000" stop="20241130093000 +0000">
+		<title>Amma Manassu</title>
+		<desc>'Catch the Malayalam dubbed version of the hit Tamil serial Chellamma on Star Vijay, directed by Francis Kathiravan. Amma Manassu features a talented cast in a compelling family drama.'</desc>
 	</programme>
-	<programme channel="5638" start="20241130113000 +0000" stop="20241130123000 +0000">
-		<title>TBA</title>
-		<desc>The name of the program is yet to be announced by the channel.</desc>
+	<programme channel="5638" start="20241130093000 +0000" stop="20241130100000 +0000">
+		<title>Etho Janma Kalpanayil</title>
+		<desc>Optimistic Sruthy clashes with arrogant Ashwin, sparking misunderstandings and confrontations, but leading to unexpected love amidst societal pressures, family conflicts, and personal growth.</desc>
 	</programme>
-	<programme channel="5638" start="20241130123000 +0000" stop="20241130133000 +0000">
-		<title>TBA</title>
-		<desc>The name of the program is yet to be announced by the channel.</desc>
+	<programme channel="5638" start="20241130100000 +0000" stop="20241130130000 +0000">
+		<title>Aattam</title>
+		<desc>Aattam</desc>
 	</programme>
-	<programme channel="5638" start="20241130133000 +0000" stop="20241130143000 +0000">
-		<title>TBA</title>
-		<desc>The name of the program is yet to be announced by the channel.</desc>
+	<programme channel="5638" start="20241130130000 +0000" stop="20241130133000 +0000">
+		<title>Engile Ennodu Para S01</title>
+		<desc>Yes or Miss! Watch Sabu Mon and Shwetha lead celebrities through wild challenges. Who'll triumph and claim the prize? Tune in for the excitement!</desc>
 	</programme>
-	<programme channel="5638" start="20241130143000 +0000" stop="20241130153000 +0000">
-		<title>TBA</title>
-		<desc>The name of the program is yet to be announced by the channel.</desc>
+	<programme channel="5638" start="20241130133000 +0000" stop="20241130140000 +0000">
+		<title>Engile Ennodu Para S01</title>
+		<desc>Yes or Miss! Watch Sabu Mon and Shwetha lead celebrities through wild challenges. Who'll triumph and claim the prize? Tune in for the excitement!</desc>
+	</programme>
+	<programme channel="5638" start="20241130140000 +0000" stop="20241130143000 +0000">
+		<title>Maalikapuram</title>
+		<desc>8-year-old Kallu from Panchalimedu village has a strong urge to visit Sabarimala. Join her on a heartwarming journey as she sets out to fulfill her dream against all odds.</desc>
+	</programme>
+	<programme channel="5638" start="20241130143000 +0000" stop="20241130150000 +0000">
+		<title>Snehakkoottu</title>
+		<desc>Sethumadhavan becomes the unexpected guardian for his distant stepsisters. Facing challenges and resistance, he must discover if his love can truly unite and heal their fractured bond.</desc>
+	</programme>
+	<programme channel="5638" start="20241130150000 +0000" stop="20241130153000 +0000">
+		<title>Santhwanam-2</title>
+		<desc>Two rival families face challenges and strengthen their bonds in 'Santhwanam 2.' Balan's adopted son marries into one family, balancing his loyalties and navigating familial dynamics.</desc>
 	</programme>
 	<programme channel="5638" start="20241130153000 +0000" stop="20241130160000 +0000">
-		<title>TBA</title>
-		<desc>The name of the program is yet to be announced by the channel.</desc>
+		<title>Chempaneerpoovu</title>
+		<desc>A show follows Revathy, a lower-class daughter, marrying Sachi, a quirky taxi driver battling alcoholism. Expect drama, humor, and unexpected twists in their unconventional love story.</desc>
 	</programme>
 	<programme channel="5638" start="20241130160000 +0000" stop="20241130163000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+		<title>Ishttam Mathram</title>
+		<desc>Mahesh struggles to express his love for his daughter Chippy, while Ishitha's affection for her deepens, sparking envy in him. A tale of love and longing.</desc>
 	</programme>
 	<programme channel="5638" start="20241130163000 +0000" stop="20241130170000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+		<title>Patharamattu</title>
+		<desc>Nayana, a talented artist, crosses paths with Adarsh, the responsible eldest Moorthy brother, sparking a connection that faces obstacles from envy and familial expectations during the Onam celebrations.</desc>
 	</programme>
-	<programme channel="5638" start="20241130170000 +0000" stop="20241130183000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+	<programme channel="5638" start="20241130170000 +0000" stop="20241130173000 +0000">
+		<title>Star Talk with Vinay - South Meets North S02</title>
+		<desc>Star Talk with Vinay - South Meets North S02</desc>
 	</programme>
-	<programme channel="5638" start="20241130183000 +0000" stop="20241130190000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+	<programme channel="5638" start="20241130173000 +0000" stop="20241130190000 +0000">
+		<title>Engile Ennodu Para S01</title>
+		<desc>Yes or Miss! Watch Sabu Mon and Shwetha lead celebrities through wild challenges. Who'll triumph and claim the prize? Tune in for the excitement!</desc>
 	</programme>
 	<programme channel="5638" start="20241130190000 +0000" stop="20241130220000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+		<title>Kannur Squad</title>
+		<desc>Kannur Squad</desc>
 	</programme>
 	<programme channel="5638" start="20241130220000 +0000" stop="20241130223000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+		<title>Engile Ennodu Para S01</title>
+		<desc>Yes or Miss! Watch Sabu Mon and Shwetha lead celebrities through wild challenges. Who'll triumph and claim the prize? Tune in for the excitement!</desc>
 	</programme>
 	<programme channel="5638" start="20241130223000 +0000" stop="20241130233000 +0000">
 		<title>Chirikkum Thalika</title>
-		<desc>Chirikkum Thalika</desc>
+		<desc>A comprehensive compilation of some of the best rib-tickling comedy scenes from various Malayalam movies featuring renowned actors and actresses.</desc>
 	</programme>
 	<programme channel="5638" start="20241130233000 +0000" stop="20241201020000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+		<title>Kannezhuthi Pottumthottu</title>
+		<desc>Bhadra, a woman, seeks revenge against Natesan, a landlord, who killed her parents fifteen years ago and tries to seduce his son Uthaman making Natesan jealous.</desc>
 	</programme>
 	<programme channel="5638" start="20241201020000 +0000" stop="20241201023000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+		<title>Engile Ennodu Para S01</title>
+		<desc>Yes or Miss! Watch Sabu Mon and Shwetha lead celebrities through wild challenges. Who'll triumph and claim the prize? Tune in for the excitement!</desc>
 	</programme>
 	<programme channel="5638" start="20241201023000 +0000" stop="20241201030000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+		<title>Chempaneerpoovu</title>
+		<desc>A show follows Revathy, a lower-class daughter, marrying Sachi, a quirky taxi driver battling alcoholism. Expect drama, humor, and unexpected twists in their unconventional love story.</desc>
 	</programme>
 	<programme channel="5638" start="20241201030000 +0000" stop="20241201033000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+		<title>Snehakkoottu</title>
+		<desc>Sethumadhavan becomes the unexpected guardian for his distant stepsisters. Facing challenges and resistance, he must discover if his love can truly unite and heal their fractured bond.</desc>
 	</programme>
 	<programme channel="5638" start="20241201033000 +0000" stop="20241201040000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+		<title>Patharamattu</title>
+		<desc>Nayana, a talented artist, crosses paths with Adarsh, the responsible eldest Moorthy brother, sparking a connection that faces obstacles from envy and familial expectations during the Onam celebrations.</desc>
 	</programme>
 	<programme channel="5638" start="20241201040000 +0000" stop="20241201043000 +0000">
-		<title>Star Singer</title>
-		<desc>Star Singer</desc>
+		<title>Ishttam Mathram</title>
+		<desc>Mahesh struggles to express his love for his daughter Chippy, while Ishitha's affection for her deepens, sparking envy in him. A tale of love and longing.</desc>
 	</programme>
 	<programme channel="5638" start="20241201043000 +0000" stop="20241201050000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+		<title>Engile Ennodu Para S01</title>
+		<desc>Yes or Miss! Watch Sabu Mon and Shwetha lead celebrities through wild challenges. Who'll triumph and claim the prize? Tune in for the excitement!</desc>
 	</programme>
 	<programme channel="5638" start="20241201050000 +0000" stop="20241201073000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+		<title>Grrr.</title>
+		<desc>After a tipsy Rejimon crashes into a lion's den, guard Haridas jumps in to save the day, leading to a laugh-out-loud rescue mission filled with chaos!</desc>
 	</programme>
 	<programme channel="5638" start="20241201073000 +0000" stop="20241201080000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+		<title>Engile Ennodu Para S01</title>
+		<desc>Yes or Miss! Watch Sabu Mon and Shwetha lead celebrities through wild challenges. Who'll triumph and claim the prize? Tune in for the excitement!</desc>
 	</programme>
 	<programme channel="5638" start="20241201080000 +0000" stop="20241201083000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+		<title>Santhwanam-2</title>
+		<desc>Two rival families face challenges and strengthen their bonds in 'Santhwanam 2.' Balan's adopted son marries into one family, balancing his loyalties and navigating familial dynamics.</desc>
 	</programme>
 	<programme channel="5638" start="20241201083000 +0000" stop="20241201100000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+		<title>Engile Ennodu Para S01</title>
+		<desc>Yes or Miss! Watch Sabu Mon and Shwetha lead celebrities through wild challenges. Who'll triumph and claim the prize? Tune in for the excitement!</desc>
 	</programme>
 	<programme channel="5638" start="20241201100000 +0000" stop="20241201130000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+		<title>Vaazha</title>
+		<desc>Vaazha</desc>
 	</programme>
 	<programme channel="5638" start="20241201130000 +0000" stop="20241201133000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+		<title>Star Talk with Vinay - South Meets North S02</title>
+		<desc>Star Talk with Vinay - South Meets North S02</desc>
 	</programme>
-	<programme channel="5638" start="20241201133000 +0000" stop="20241201140000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+	<programme channel="5638" start="20241201133000 +0000" stop="20241201150000 +0000">
+		<title>Engile Ennodu Para S01</title>
+		<desc>Yes or Miss! Watch Sabu Mon and Shwetha lead celebrities through wild challenges. Who'll triumph and claim the prize? Tune in for the excitement!</desc>
+	</programme>
+	<programme channel="5638" start="20241201150000 +0000" stop="20241201153000 +0000">
+		<title>Santhwanam-2</title>
+		<desc>Two rival families face challenges and strengthen their bonds in 'Santhwanam 2.' Balan's adopted son marries into one family, balancing his loyalties and navigating familial dynamics.</desc>
 	</programme>
 	<programme channel="5639" start="20241129133000 +0000" stop="20241129164000 +0000">
 		<title>Premam</title>
@@ -27886,15 +27930,15 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<title>Baak</title>
 		<desc>A man uncovers chaos and terror while searching for the truth behind his sister's suspicious death.</desc>
 	</programme>
-	<programme channel="5639" start="20241130133000 +0000" stop="20241130163000 +0000">
+	<programme channel="5639" start="20241130133000 +0000" stop="20241130163500 +0000">
 		<title>Baak</title>
 		<desc>A man uncovers chaos and terror while searching for the truth behind his sister's suspicious death.</desc>
 	</programme>
-	<programme channel="5639" start="20241130163000 +0000" stop="20241130193000 +0000">
+	<programme channel="5639" start="20241130163500 +0000" stop="20241130193500 +0000">
 		<title>Kannur Squad</title>
 		<desc>George and his squad uncover a murder while tracking a political goon.</desc>
 	</programme>
-	<programme channel="5639" start="20241130193000 +0000" stop="20241130220000 +0000">
+	<programme channel="5639" start="20241130193500 +0000" stop="20241130220000 +0000">
 		<title>In Harihar Nagar</title>
 		<desc>Four young men are enamoured by lovely Maya. She is in town to investigate the mysterious circumstances surrounding the death of her brother. Release Year: 1990 Director: Siddique-Lal</desc>
 	</programme>
@@ -28030,9 +28074,13 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<title>Indian Idol 2024 Episode 10</title>
 		<desc>Your favourite singing reality show is back with Judges, Shreya Ghosal Vishal Dadlani &amp; Badshah. So, get ready for an incredible new season filled with mesmerizing talent and unforgettable moments.</desc>
 	</programme>
-	<programme channel="5644" start="20241130103000 +0000" stop="20241130113000 +0000">
-		<title>Kaun Banega Crorepati - 2024 Episode 76</title>
-		<desc>Amitabh Bachchan returns as the megastar host of the worlds' iconic quiz show and gives contestants the chance to take the "Hot Seat" and win a life changing 75 million Rupees.</desc>
+	<programme channel="5644" start="20241130103000 +0000" stop="20241130110000 +0000">
+		<title>Highlights - Ban V Afg U19 Asia Cup 2024</title>
+		<desc>Highlights of the eleventh edition of the prestigious ACC Under-19 Asia Cup, from Nov 29 to Dec 8 featuring the best 8 teams battling across 15 matches.</desc>
+	</programme>
+	<programme channel="5644" start="20241130110000 +0000" stop="20241130113000 +0000">
+		<title>Highlights - Sl V Nep U19 Asia Cup 2024</title>
+		<desc>Highlights of the eleventh edition of the prestigious ACC Under-19 Asia Cup, from Nov 29 to Dec 8 featuring the best 8 teams battling across 15 matches.</desc>
 	</programme>
 	<programme channel="5644" start="20241130113000 +0000" stop="20241130130000 +0000">
 		<title>Champions Ka Tashan Episode 4</title>
@@ -28130,9 +28178,13 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<title>Indian Idol 2024 Episode 11</title>
 		<desc>Your favourite singing reality show is back with Judges, Shreya Ghosal Vishal Dadlani &amp; Badshah. So, get ready for an incredible new season filled with mesmerizing talent and unforgettable moments.</desc>
 	</programme>
-	<programme channel="5644" start="20241201103000 +0000" stop="20241201113000 +0000">
-		<title>Kaun Banega Crorepati - 2024 Episode 77</title>
-		<desc>Amitabh Bachchan returns as the megastar host of the worlds' iconic quiz show and gives contestants the chance to take the "Hot Seat" and win a life changing 75 million Rupees.</desc>
+	<programme channel="5644" start="20241201103000 +0000" stop="20241201110000 +0000">
+		<title>Highlights - Ind V Pak U19 Asia Cup 2024</title>
+		<desc>Highlights of the eleventh edition of the prestigious ACC Under-19 Asia Cup, from Nov 29 to Dec 8 featuring the best 8 teams battling across 15 matches.</desc>
+	</programme>
+	<programme channel="5644" start="20241201110000 +0000" stop="20241201113000 +0000">
+		<title>Highlights - Uae V Jpn U19 Asia Cup 2024</title>
+		<desc>Highlights of the eleventh edition of the prestigious ACC Under-19 Asia Cup, from Nov 29 to Dec 8 featuring the best 8 teams battling across 15 matches.</desc>
 	</programme>
 	<programme channel="5644" start="20241201113000 +0000" stop="20241201130000 +0000">
 		<title>Champions Ka Tashan Episode 5</title>
@@ -29352,15 +29404,15 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 	</programme>
 	<programme channel="5654" start="20241201110000 +0000" stop="20241201113000 +0000">
 		<title>Shaitani Rasmein Episode 270</title>
-		<desc>In Bhurangarh, Nikki challenges satanic force Malik while seeking love.</desc>
+		<desc>As Pinni escapes the zombie realm with Jantar, a headless woman tricks her. Pinni regains Jantar but is knocked unconscious by Veer, who demands she complete the third ritual.</desc>
 	</programme>
 	<programme channel="5654" start="20241201113000 +0000" stop="20241201120000 +0000">
 		<title>Shaitani Rasmein Episode 271</title>
-		<desc>In Bhurangarh, Nikki challenges satanic force Malik while seeking love.</desc>
+		<desc>When Netra finds Pinni dead, Veer grows desperate to bring her back and blames her. Determined, Netra summons Dushchakra to restore Pinni's life.</desc>
 	</programme>
 	<programme channel="5654" start="20241201120000 +0000" stop="20241201123000 +0000">
 		<title>Shaitani Rasmein Episode 272</title>
-		<desc>In Bhurangarh, Nikki challenges satanic force Malik while seeking love.</desc>
+		<desc>Pinni becomes heartbroken after discovering Veer's true face. Vikram and Sumitra meet Jackie and are shocked to see his double-sided nature.</desc>
 	</programme>
 	<programme channel="5654" start="20241201123000 +0000" stop="20241201130000 +0000">
 		<title>Shaitani Rasmein Episode 273</title>
@@ -30167,156 +30219,156 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<desc>Entertainement</desc>
 	</programme>
 	<programme channel="5671" start="20241129160000 +0000" stop="20241129170000 +0000">
-		<title>BIGG BOSS 8</title>
-		<desc>BIGG BOSS 8</desc>
+		<title>Bigg Boss S08</title>
+		<desc>Celebrities live in an isolated house cut off from the rest of the world. They have to compete in challenging tasks to avoid elimination and win.</desc>
 	</programme>
-	<programme channel="5671" start="20241129170000 +0000" stop="20241129173000 +0000">
-		<title>BIGG BOSS 8 - UNSEEN EXTRA CUTS</title>
-		<desc>BIGG BOSS 8 - UNSEEN EXTRA CUTS</desc>
-	</programme>
-	<programme channel="5671" start="20241129173000 +0000" stop="20241129183000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
-	</programme>
-	<programme channel="5671" start="20241129183000 +0000" stop="20241129203000 +0000">
-		<title>Movie_HELLO GURU PREMA KOSAME</title>
-		<desc>Movie_HELLO GURU PREMA KOSAME</desc>
+	<programme channel="5671" start="20241129170000 +0000" stop="20241129203000 +0000">
+		<title>Bigg Boss S08 - Unseen Extra Cuts</title>
+		<desc>Exclusive behind-the-scenes footage and unseen moments from Bigg Boss Season 8.</desc>
 	</programme>
 	<programme channel="5671" start="20241129203000 +0000" stop="20241129230000 +0000">
-		<title>Movie_CHANDRAMUKHI</title>
-		<desc>Movie_CHANDRAMUKHI</desc>
+		<title>Chandramukhi</title>
+		<desc>Strange occurrences in an old mansion believed to be caused by the vengeful ghost of an ancient courtesan.</desc>
 	</programme>
 	<programme channel="5671" start="20241129230000 +0000" stop="20241130010000 +0000">
-		<title>Movie_OKA LAILA KOSAM</title>
-		<desc>Entertainment</desc>
+		<title>Oka Laila Kosam</title>
+		<desc>After returning from Europe Karthik falls head over heels for Nandana, who can't stand him.</desc>
 	</programme>
 	<programme channel="5671" start="20241130010000 +0000" stop="20241130013000 +0000">
-		<title>FUN TIME</title>
-		<desc>FUN TIME</desc>
+		<title>Fun Time</title>
+		<desc>Tune into a compilation of comedy clips from the recently released Tollywood movies.</desc>
 	</programme>
 	<programme channel="5671" start="20241130013000 +0000" stop="20241130033000 +0000">
-		<title>AADIVARAM STAR MAA PARIVARAM ® - STAR WARS</title>
-		<desc>AADIVARAM STAR MAA PARIVARAM ® - STAR WARS</desc>
+		<title>Maha Bharatam Maha Episode</title>
+		<desc>Maha Bharatam Maha Episode</desc>
 	</programme>
 	<programme channel="5671" start="20241130033000 +0000" stop="20241130063000 +0000">
-		<title>MOVIE_VIRUPAKSHA</title>
-		<desc>Entertainment</desc>
+		<title>Virupaksha</title>
+		<desc>Evil spirit terrorizes the community, residents fight through strict ritual. Man unravels mystery of terrible killings. Release Year: 2023 Director: Karthik Varma Dandu</desc>
 	</programme>
 	<programme channel="5671" start="20241130063000 +0000" stop="20241130070000 +0000">
-		<title>Paape Naa Jeevana Jyothi</title>
-		<desc>Story revolves around mother and missed daughter</desc>
+		<title>Paape Maa Jeevana Jyothi</title>
+		<desc>Jyothi seeks acceptance but faces turmoil as daughter Jeevana is kidnapped, jeopardizing their newfound peace.</desc>
 	</programme>
 	<programme channel="5671" start="20241130070000 +0000" stop="20241130073000 +0000">
-		<title>NINNU KORI</title>
-		<desc>NINNU KORI</desc>
+		<title>Ninnu Kori</title>
+		<desc>Pallavi invites her ex-boyfriend to stay with her and her husband to prove she is happy. Uma tries to break them up.</desc>
 	</programme>
 	<programme channel="5671" start="20241130073000 +0000" stop="20241130080000 +0000">
-		<title>BRAHMA MUDI</title>
-		<desc>BRAHMA MUDI</desc>
+		<title>Brahma Mudi</title>
+		<desc>Mother arranges weddings for talented daughters. Affairs take an unexpected turn with an affluent family.</desc>
 	</programme>
 	<programme channel="5671" start="20241130080000 +0000" stop="20241130083000 +0000">
-		<title>PALUKE BANGARAMAYENA</title>
-		<desc>PALUKE BANGARAMAYENA</desc>
+		<title>Paluke Bangaramayena</title>
+		<desc>Speech-impaired Swaragini, deemed unlucky by her father. Can Officer Abhishek alter her fate?</desc>
 	</programme>
 	<programme channel="5671" start="20241130083000 +0000" stop="20241130090000 +0000">
-		<title>MAMA GARU</title>
-		<desc>Serial</desc>
+		<title>Mama Garu</title>
+		<desc>Ganga confronts chauvinistic father-in-law, challenging norms. Can she carve her path to victory and claim her rights?</desc>
 	</programme>
 	<programme channel="5671" start="20241130090000 +0000" stop="20241130093000 +0000">
 		<title>Vantalakka</title>
-		<desc>Serial</desc>
+		<desc>Kind-hearted Murali loves a wealthy girl. Their romance encounters numerous obstacles.</desc>
 	</programme>
 	<programme channel="5671" start="20241130093000 +0000" stop="20241130100000 +0000">
 		<title>Malli</title>
-		<desc>Story of village girl</desc>
+		<desc>Malli promises Meera after hearing her past. Arvind's family frets over his new project.</desc>
 	</programme>
 	<programme channel="5671" start="20241130100000 +0000" stop="20241130103000 +0000">
-		<title>YETO VELLIPOINDI MANASU</title>
-		<desc>YETO VELLIPOINDI MANASU</desc>
+		<title>Yeto Vellipoindi Manasu</title>
+		<desc>Varun and Nithya's lifelong journey is marked by ups and downs, leading to multiple separations.</desc>
 	</programme>
 	<programme channel="5671" start="20241130103000 +0000" stop="20241130110000 +0000">
-		<title>ILLU ILLALU PILLALU ® -</title>
-		<desc>Entertainment</desc>
+		<title>Illu Illalu Pillalu</title>
+		<desc>Ramaraju's life revolves around his big, happy family. When his children get caught in conflicts with rivals, will their strong family bonds withstand the challenges or destiny throws their way?</desc>
 	</programme>
 	<programme channel="5671" start="20241130110000 +0000" stop="20241130120000 +0000">
-		<title>BIGG BOSS 8 ® -</title>
-		<desc>BIGG BOSS 8 ® -</desc>
+		<title>Bigg Boss S08</title>
+		<desc>Celebrities live in an isolated house cut off from the rest of the world. They have to compete in challenging tasks to avoid elimination and win.</desc>
 	</programme>
 	<programme channel="5671" start="20241130120000 +0000" stop="20241130123000 +0000">
-		<title>GUPPEDANTHA MANASU ®</title>
-		<desc>GUPPEDANTHA MANASU ®</desc>
+		<title>Guppedantha Manasu</title>
+		<desc>Anupama urges Mahindra to report Rishi's disappearance. Next day, Vasudhara sets out on a mission to locate him.</desc>
 	</programme>
-	<programme channel="5671" start="20241130123000 +0000" stop="20241130133000 +0000">
-		<title>MAGUVA O MAGUVA</title>
-		<desc>MAGUVA O MAGUVA</desc>
+	<programme channel="5671" start="20241130123000 +0000" stop="20241130130000 +0000">
+		<title>Sathyabhama</title>
+		<desc>Krish falls for Satya, a principled girl. What unfolds for this extraordinary couple in their love story?</desc>
+	</programme>
+	<programme channel="5671" start="20241130130000 +0000" stop="20241130133000 +0000">
+		<title>Maguva O Maguva</title>
+		<desc>Wealthy Akhila and single mom Anjali bond during pregnancy, navigating diverse backgrounds in a tale of motherhood.</desc>
 	</programme>
 	<programme channel="5671" start="20241130133000 +0000" stop="20241130140000 +0000">
-		<title>CHINNI</title>
-		<desc>Serial</desc>
+		<title>Chinni</title>
+		<desc>A heartwarming tale of a Mother and Daughter navigating through unexpected challenges, strengthening their bond and understanding each other in new ways.</desc>
 	</programme>
 	<programme channel="5671" start="20241130140000 +0000" stop="20241130143000 +0000">
-		<title>ILLU ILLALU PILLALU</title>
-		<desc>ILLU ILLALU PILLALU</desc>
+		<title>Illu Illalu Pillalu</title>
+		<desc>Illu Illalu Pillalu</desc>
 	</programme>
-	<programme channel="5671" start="20241130143000 +0000" stop="20241130153000 +0000">
-		<title>INTINTI RAMAYANAM</title>
-		<desc>INTINTI RAMAYANAM</desc>
+	<programme channel="5671" start="20241130143000 +0000" stop="20241130150000 +0000">
+		<title>Karthika Deepam-Nava Vasantham</title>
+		<desc>Deepa, dark-skinned, toils against social pressures after marrying Dr. Karthik.</desc>
+	</programme>
+	<programme channel="5671" start="20241130150000 +0000" stop="20241130153000 +0000">
+		<title>Intinti Ramayanam</title>
+		<desc>Members of a close-knit family begin to doubt one another when they suddenly face a problem.</desc>
 	</programme>
 	<programme channel="5671" start="20241130153000 +0000" stop="20241130153000 +0000">
-		<title>BIGG BOSS 8</title>
-		<desc>BIGG BOSS 8</desc>
+		<title>Bigg Boss S08</title>
+		<desc>Celebrities live in an isolated house cut off from the rest of the world. They have to compete in challenging tasks to avoid elimination and win.</desc>
 	</programme>
 	<programme channel="5671" start="20241130153000 +0000" stop="20241130170000 +0000">
-		<title>BIGG BOSS 8</title>
-		<desc>BIGG BOSS 8</desc>
+		<title>Bigg Boss S08</title>
+		<desc>Celebrities live in an isolated house cut off from the rest of the world. They have to compete in challenging tasks to avoid elimination and win.</desc>
 	</programme>
-	<programme channel="5671" start="20241130170000 +0000" stop="20241130190000 +0000">
-		<title>MOVIE_TOUCH CHESI CHOODU</title>
-		<desc>MOVIE_TOUCH CHESI CHOODU</desc>
+	<programme channel="5671" start="20241130170000 +0000" stop="20241130180000 +0000">
+		<title>CID</title>
+		<desc>Become a part of the investigation as ACP Pradyuman and his team solve some impossible looking criminal cases.</desc>
 	</programme>
-	<programme channel="5671" start="20241130190000 +0000" stop="20241130193000 +0000">
-		<title>Movie_SKETCH</title>
-		<desc>Movie_SKETCH</desc>
+	<programme channel="5671" start="20241130180000 +0000" stop="20241130190000 +0000">
+		<title>CID</title>
+		<desc>Become a part of the investigation as ACP Pradyuman and his team solve some impossible looking criminal cases.</desc>
 	</programme>
-	<programme channel="5671" start="20241130193000 +0000" stop="20241130203000 +0000">
-		<title>FUN TIME</title>
-		<desc>FUN TIME</desc>
+	<programme channel="5671" start="20241130190000 +0000" stop="20241130203000 +0000">
+		<title>Sketch</title>
+		<desc>Sketch, who works as a loan shark, takes away the cars of the defaulters. What will he do when a dangerous don lands on his list?</desc>
 	</programme>
 	<programme channel="5671" start="20241130203000 +0000" stop="20241130230000 +0000">
-		<title>Movie_SREEMANNARAYANA</title>
-		<desc>Movie_SREEMANNARAYANA</desc>
+		<title>Sreemannarayana</title>
+		<desc>Srimannarayana battles corrupt politiciansand Srimannarayana faces embezzlement accusations. Can he clear his name?</desc>
 	</programme>
 	<programme channel="5671" start="20241130230000 +0000" stop="20241201010000 +0000">
-		<title>Movie_MAHANATI</title>
-		<desc>Entertainment</desc>
+		<title>Mahanati</title>
+		<desc>South Indian cinema star Savitri faces personal tragedies, battles alcoholism, and tragically loses her life. Release Year: 2018 Director: Nag Ashwin</desc>
 	</programme>
 	<programme channel="5671" start="20241201010000 +0000" stop="20241201013000 +0000">
-		<title>FUN TIME</title>
-		<desc>FUN TIME</desc>
+		<title>Fun Time</title>
+		<desc>Tune into a compilation of comedy clips from the recently released Tollywood movies.</desc>
 	</programme>
 	<programme channel="5671" start="20241201013000 +0000" stop="20241201023000 +0000">
-		<title>RAASI PHALALU</title>
-		<desc>RAASI PHALALU</desc>
+		<title>Raasi Phalalu</title>
+		<desc>Learn how the stars affect business, finance, health and travel.</desc>
 	</programme>
 	<programme channel="5671" start="20241201023000 +0000" stop="20241201053000 +0000">
-		<title>MOVIE_THE FAMILY STAR</title>
-		<desc>Drama</desc>
+		<title>The Family Star</title>
+		<desc>The highs and lows of family relationships in a Indian middle-class family. The life of Govardhan, who wants to achieve greatness in life but has to navigate through a myriad of relationship/trust/ego issues. Release Year: 2024 Director: Parasuram</desc>
 	</programme>
 	<programme channel="5671" start="20241201053000 +0000" stop="20241201073000 +0000">
-		<title>AADIVARAM STAR MAA PARIVARAM - STAR WARS_S5</title>
-		<desc>Entertainment</desc>
+		<title>Aadivaram Star Maa Parivaram - Star Wars 5</title>
+		<desc>Aadivaram Star Maa Parivaram - Star Wars 5</desc>
 	</programme>
 	<programme channel="5671" start="20241201073000 +0000" stop="20241201103000 +0000">
-		<title>MOVIE_SALAAR</title>
-		<desc>Entertainment</desc>
+		<title>Salaar</title>
+		<desc>Gang leader fulfills dying friend's wish by confronting rival gangs. Release Year: 2023 Director: Prashanth Neel</desc>
 	</programme>
 	<programme channel="5671" start="20241201103000 +0000" stop="20241201130000 +0000">
-		<title>MOVIE_BALAGAM</title>
-		<desc>Entertainment</desc>
+		<title>Balagam</title>
+		<desc>After the death of a family patriarch, a young man manipulates others to solve his problems.</desc>
 	</programme>
 	<programme channel="5671" start="20241201130000 +0000" stop="20241201153000 +0000">
-		<title>Movie_TILLU SQUARE</title>
-		<desc>Entertainment</desc>
+		<title>Tillu Square</title>
+		<desc>Tillu Square Release Year: 2024 Director: Malik Ram</desc>
 	</programme>
 	<programme channel="5676" start="20241129160000 +0000" stop="20241129170000 +0000">
 		<title>THE NATIONAL DEBATE</title>
@@ -33387,8 +33439,8 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<desc>THE HEALING EUCHARIST</desc>
 	</programme>
 	<programme channel="5693" start="20241130230000 +0000" stop="20241201000000 +0000">
-		<title>BRO. EDDIE CLASSICS</title>
-		<desc>BRO. EDDIE CLASSICS</desc>
+		<title>JESUS IS LORD 46 YEARS: CHRIST IS THE ANSWER</title>
+		<desc>JESUS IS LORD 46 YEARS: CHRIST IS THE ANSWER</desc>
 	</programme>
 	<programme channel="5693" start="20241201000000 +0000" stop="20241201003000 +0000">
 		<title>TAO PO</title>
@@ -33403,8 +33455,8 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<desc>MY PUHUNAN: KAYA MO!</desc>
 	</programme>
 	<programme channel="5693" start="20241201013000 +0000" stop="20241201033000 +0000">
-		<title>KUSINA KINGS</title>
-		<desc>KUSINA KINGS</desc>
+		<title>MY CACTUS HEART</title>
+		<desc>MY CACTUS HEART</desc>
 	</programme>
 	<programme channel="5693" start="20241201033000 +0000" stop="20241201040000 +0000">
 		<title>OGIE DIAZ INSPIRES</title>
@@ -33418,13 +33470,9 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<title>BEST 10 BETS S4</title>
 		<desc>BEST 10 BETS S4</desc>
 	</programme>
-	<programme channel="5693" start="20241201070000 +0000" stop="20241201073000 +0000">
-		<title>ANO NA, BEV S2</title>
-		<desc>ANO NA, BEV S2</desc>
-	</programme>
-	<programme channel="5693" start="20241201073000 +0000" stop="20241201080000 +0000">
-		<title>FIRST BITE BY JAYZAR RECINTO S3</title>
-		<desc>FIRST BITE BY JAYZAR RECINTO S3</desc>
+	<programme channel="5693" start="20241201070000 +0000" stop="20241201080000 +0000">
+		<title>THE B SIDE</title>
+		<desc>THE B SIDE</desc>
 	</programme>
 	<programme channel="5693" start="20241201080000 +0000" stop="20241201083000 +0000">
 		<title>CHEF RV'S KITCHEN S14</title>
