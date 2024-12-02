@@ -28375,7 +28375,7 @@ Kaikoura盛产龙虾，海底遗留大量捕笼。港女野人今集任务就是
 	</programme>
 	<programme channel="5638" start="20241201170000 +0000" stop="20241201173000 +0000">
 		<title>Star Talk with Vinay - South Meets North S02</title>
-		<desc>Star Talk with Vinay - South Meets North S02</desc>
+		<desc>Join Vinay for Season 2 of 'Star Talk,' where South meets North! Dive into fascinating conversations that showcase diverse talents and stories. Don't miss out on the fun!</desc>
 	</programme>
 	<programme channel="5638" start="20241201173000 +0000" stop="20241201190000 +0000">
 		<title>Engile Ennodu Para S01</title>
@@ -28431,7 +28431,7 @@ Kaikoura盛产龙虾，海底遗留大量捕笼。港女野人今集任务就是
 	</programme>
 	<programme channel="5638" start="20241202100000 +0000" stop="20241202123000 +0000">
 		<title>Ullozhukku</title>
-		<desc>Ullozhukku</desc>
+		<desc>When a family's burial plans are derailed by rising floodwaters, they're forced to face hidden secrets and lies, putting their bonds to the ultimate test. Secrets spill, tensions rise!</desc>
 	</programme>
 	<programme channel="5638" start="20241202123000 +0000" stop="20241202130000 +0000">
 		<title>Chirikkum Thalika</title>
@@ -28577,15 +28577,19 @@ Kaikoura盛产龙虾，海底遗留大量捕笼。港女野人今集任务就是
 		<title>Spadikam</title>
 		<desc>Thomas runs away from home. Later, he returns as a quarry owner and a gangster. Release Year: 1995 Director: Bhadran Awards: 1996 Winner Filmfare Award - Malayalam Film Industry - Best Film</desc>
 	</programme>
-	<programme channel="5639" start="20241201163000 +0000" stop="20241201193000 +0000">
+	<programme channel="5639" start="20241201163000 +0000" stop="20241201170500 +0000">
 		<title>Sandesam</title>
 		<desc>Sandesam</desc>
 	</programme>
-	<programme channel="5639" start="20241201193000 +0000" stop="20241201220000 +0000">
+	<programme channel="5639" start="20241201170500 +0000" stop="20241201194000 +0000">
+		<title>Sandesam</title>
+		<desc>Two brothers become rival local leaders in Kerala's politics, turning their family upside down and causing stress for their aging parents, who once took pride in them.</desc>
+	</programme>
+	<programme channel="5639" start="20241201194000 +0000" stop="20241201221500 +0000">
 		<title>Vietnam Colony</title>
 		<desc>Krishnamurthy is appointed to vacate a colony full of illegal-antisocial people.</desc>
 	</programme>
-	<programme channel="5639" start="20241201220000 +0000" stop="20241202003000 +0000">
+	<programme channel="5639" start="20241201221500 +0000" stop="20241202003000 +0000">
 		<title>Kabadi Kabadi</title>
 		<desc>Two stepbrothers compete, and their rivalry on the Kabaddi field intensifies when they fall in love with a girl.</desc>
 	</programme>
@@ -28601,11 +28605,11 @@ Kaikoura盛产龙虾，海底遗留大量捕笼。港女野人今集任务就是
 		<title>Manassinakkare</title>
 		<desc>A woman, alienated by her children, meets Reji in who she finds a companion.</desc>
 	</programme>
-	<programme channel="5639" start="20241202073000 +0000" stop="20241202103000 +0000">
+	<programme channel="5639" start="20241202073000 +0000" stop="20241202102000 +0000">
 		<title>The Priest</title>
 		<desc>A priest works with the police to investigate a series of mysterious suicides. Release Year: 2021 Director: Jofin T. Chacko</desc>
 	</programme>
-	<programme channel="5639" start="20241202103000 +0000" stop="20241202133000 +0000">
+	<programme channel="5639" start="20241202102000 +0000" stop="20241202133000 +0000">
 		<title>Ennu Ninte Moideen</title>
 		<desc>Moideen, a Muslim, and Kanchanamala, a Hindu, are in love. They unite after a lot of struggles, but both become victims of a hapless fate. Release Year: 2015 Director: R. S. Vimal</desc>
 	</programme>
@@ -31099,7 +31103,7 @@ Kaikoura盛产龙虾，海底遗留大量捕笼。港女野人今集任务就是
 	</programme>
 	<programme channel="5671" start="20241202103000 +0000" stop="20241202123000 +0000">
 		<title>Aadivaram Star Maa Parivaram - Star Wars 5</title>
-		<desc>Aadivaram Star Maa Parivaram - Star Wars 5</desc>
+		<desc>Prominent personalities compete in exciting games and challenges to win.</desc>
 	</programme>
 	<programme channel="5671" start="20241202123000 +0000" stop="20241202130000 +0000">
 		<title>Sathyabhama</title>
@@ -31115,7 +31119,7 @@ Kaikoura盛产龙虾，海底遗留大量捕笼。港女野人今集任务就是
 	</programme>
 	<programme channel="5671" start="20241202140000 +0000" stop="20241202143000 +0000">
 		<title>Illu Illalu Pillalu</title>
-		<desc>Illu Illalu Pillalu</desc>
+		<desc>Subbayya struggles to improve his life but learns his children's true nature.</desc>
 	</programme>
 	<programme channel="5671" start="20241202143000 +0000" stop="20241202150000 +0000">
 		<title>Karthika Deepam-Nava Vasantham</title>
