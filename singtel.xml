@@ -4059,25 +4059,17 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<title>ISU Figure Skating Grand Prix Grenoble (FRA)</title>
 		<desc>The ISU Grand Prix of Figure Skating Series consists of six international senior events in North America, Europe and Asia, culminating with the ISU Grand Prix of Figure Skating Final in Grenoble, France.</desc>
 	</programme>
-	<programme channel="6115" start="20241206120000 +0000" stop="20241206130000 +0000">
-		<title>ISU Figure Skating Grand Prix Grenoble (FRA)</title>
-		<desc>The ISU Grand Prix of Figure Skating Series consists of six international senior events in North America, Europe and Asia, culminating with the ISU Grand Prix of Figure Skating Final in Grenoble, France.</desc>
+	<programme channel="6115" start="20241206120000 +0000" stop="20241206140000 +0000">
+		<title>Una Famiglia: 2023 Ryder Cup Documentary</title>
+		<desc>The program revisits Team Europe's victory, joining Luke Donald one year on from the tournament to discover his journey to the captaincy, and the unbreakable spirit he cultivated in the team.</desc>
 	</programme>
-	<programme channel="6115" start="20241206130000 +0000" stop="20241206140000 +0000">
-		<title>ISU Figure Skating Grand Prix Grenoble (FRA)</title>
-		<desc>The ISU Grand Prix of Figure Skating Series consists of six international senior events in North America, Europe and Asia, culminating with the ISU Grand Prix of Figure Skating Final in Grenoble, France.</desc>
-	</programme>
-	<programme channel="6115" start="20241206140000 +0000" stop="20241206141500 +0000">
-		<title>MotoGP 2024 Spotlight Episode 3</title>
-		<desc>MotoGP Spotlight features conversations with Joan Mir.</desc>
-	</programme>
-	<programme channel="6115" start="20241206141500 +0000" stop="20241206144500 +0000">
+	<programme channel="6115" start="20241206140000 +0000" stop="20241206145500 +0000">
 		<title>2024/25 Formula E World Championship</title>
 		<desc>From the glamour of Monaco to fiesta of the Foro Sol in Mexico, we're all about wheel-to-wheel action to 10 exciting race locations around the world.</desc>
 	</programme>
-	<programme channel="6115" start="20241206144500 +0000" stop="20241206151100 +0000">
+	<programme channel="6115" start="20241206145500 +0000" stop="20241206151100 +0000">
 		<title>MotoGP 2024 Spotlight Episode 3</title>
-		<desc>MotoGP Spotlight features conversations with Aleix Espargaro.</desc>
+		<desc>MotoGP Spotlight features conversations with Joan Mir.</desc>
 	</programme>
 	<programme channel="6116" start="20241204150500 +0000" stop="20241204164500 +0000">
 		<title>Kontiolahti | Women Individual (Live)</title>
@@ -20827,13 +20819,12 @@ Jacques带来土耳其风味「包罗万有」，烤焗鸡肉串伴上奶酪、�
 	</programme>
 	<programme channel="5511" start="20241205200000 +0000" stop="20241205210000 +0000">
 		<title>燕云台 / The Legend of Xiao Chuo Episode 623546</title>
-		<desc>第四十集
+		<desc>第四十五集
 
-喜隐向乌骨里承认一切都是自己的计划，乌骨里让喜隐保证不伤害大姐和燕燕，就帮他处理兰哥后续之事。
-耶律贤劝燕燕不要因为一个南人而得罪了宗亲部族，燕燕坚持要证明自己清白。 
-胡辇追到兰哥旧居，耐心劝说兰哥出面解局，自己可以保她不死。乌骨里也率马赶来，胡辇看到她竟然帮着夫君善后，对其十分失望。
-以虎古为首的宗亲部族在朝堂上为难燕燕，耶律贤替她解围，喧哗之际，胡辇带着兰哥出现在大殿之上，指认喜隐，一切真相大白。
-乌骨里带着留礼寿跪在大殿外，求燕燕法外开恩，但喜隐屡教不改，燕燕不愿再心软。胡辇答应求情，但也只能求燕燕不要伤喜隐性命。燕燕不好驳回胡辇，下旨将赵王喜隐永囚祖州，终身不得释。</desc>
+三年转瞬即逝，又逢乌骨里忌日。燕燕在佛龛前心情不虞，韩德让看着燕燕落寞的样子暗自心疼。燕燕感慨自乌骨里去后，胡辇往来书信都是政务，鲜有亲情。
+另一边，胡辇追逐猎物穿过树林，看到了上身赤裸，正在湖边刷马的马奴，谁知胡辇坐骑突然受惊扬蹄。危急时刻，挞览阿钵冲过来跳上马背，救下胡辇。胡辇想要赏赐挞览阿钵。挞览阿钵拒绝，而是邀请胡辇明日前来草原部落。
+韩德让寿辰将至，燕燕念其辛苦，要在宫中为他做寿。韩德让拒绝，认为于理不合，燕燕说韩德让身为相父，自然当得起这样的礼遇。燕燕还当众为韩德让建立斡鲁朵。燕燕此举让虎古等人愤懑不已。
+胡辇辗转反侧，起身来到窗前，脑中不断浮现出挞览阿钵。</desc>
 	</programme>
 	<programme channel="5511" start="20241205210000 +0000" stop="20241205220000 +0000">
 		<title>流行都市 / Big City Shop 2024 Episode 253</title>
@@ -20841,14 +20832,10 @@ Jacques带来土耳其风味「包罗万有」，烤焗鸡肉串伴上奶酪、�
 	</programme>
 	<programme channel="5511" start="20241205220000 +0000" stop="20241205223000 +0000">
 		<title>非洲潮什么 / Hipster Tour - Africa Episode 3</title>
-		<desc>第4集
-毛里裘斯「抵住」渡假村
+		<desc>第5集
+开普敦入铁笼睇鲨鱼？
 
-继续毛里裘斯的自然游，想与海豚斗游泳？且坐船出海，由船长及天意决定可有这种缘分！即使无缘，仍有水上购物景点、浮潜胜域，寻找买玩乐趣。
-
-芷佩进驻的渡假村，房间有露台作卖点外，也可免费玩滑水，而且提供一对一贴心教学。她还偕家人以十分钟船程往私人小岛，入住圆形透明酒店房，等着日落再静待晚间看星。
-
-毛里裘斯以出产蔗糖闻名，芷佩到访博物馆了解相关历史；再参观自行种植甘蔗的冧酒工厂，并在附设餐厅细味冧酒飨宴。</desc>
+梁芷佩过往远赴不少欧洲国家，一直想再「飞远啲」，这次除了摄影师丈夫，还有子女陪同，玩尽印度洋珍珠三岛，再畅游大半个非洲！首站前往马尔代夫，住在跟海洋零距离的水上小屋；然后到塞舌尔岛全新度假村，享受阳光与海滩；第三站抵达毛里裘斯任玩水上活动。继续旅程，先飞赴南非开普敦，乘坐豪华电车四处去酒庄试酒，也直接跳进大西洋亲亲鲨鱼。压轴行程，置身肯尼亚的国家保护区近看野生动物，更深入非洲部落和原住民打个招呼。</desc>
 	</programme>
 	<programme channel="5511" start="20241205223000 +0000" stop="20241205230000 +0000">
 		<title>东张西望 / Scoop 2024 Episode 332</title>
@@ -20928,11 +20915,11 @@ Jacques带来土耳其风味「包罗万有」，烤焗鸡肉串伴上奶酪、�
 		<desc>《流行都市》为观众介绍时令产品、健康养生、健体运动、护肤化妆、时尚服饰、婴幼儿护理、育儿知识、城中美食、饲养宠物等潮流信息，内容包罗万有！主持们亲身体验、示范或测试之外，还会邀请嘉宾带来相关专业知识。烹饪环节方面，多位手势了得的厨艺专家轮流登场，示范简单美味的健康美食、家常小菜，替大家解决煮食烦恼。</desc>
 	</programme>
 	<programme channel="5511" start="20241206063000 +0000" stop="20241206073000 +0000">
-		<title>又见逍遥 / Sword and Fairy Episode 2</title>
-		<desc>第8集
-被迷暈的李逍遙等人再次醒來，發現被囚禁在白河寨之中，打開牢籠的鑰匙就掛在不遠處的牆上。林月如用氣劍指打下牢籠鑰匙，但想要將鑰匙拿到手，還需要多用幾次氣劍指才可以。李逍遙催促林月如繼續，林月如卻要求李逍遙先跟自己道歉再說。李逍遙不得不跟林月如道歉，就在林月如即將拿到鑰匙之際，山賊將三人逮了個正著。
-白河寨的大當家重病，三當家急於選人為大當家沖喜，李逍遙原本竊喜，林月如又要嫁人，不料山賊要選的是個男人。劉晉元裝病，李逍遙無奈中選，被迷暈送往韓夢慈小屋。
-趙靈兒受韓醫仙所托，以血救下韓夢慈，三人本打算回到白河寨，誰料靈兒發現發繩遺落回來找尋，在小屋內與李逍遙重逢。李逍遙喜出望外一把握住靈兒的手，但趙靈兒想到自己蛇變模樣，心結難解。李逍遙興奮講述除蛇妖過程，立志除變天下妖邪，趙靈兒聞言心中忐忑。</desc>
+		<title>又见逍遥 / Sword and Fairy 1 Episode 2</title>
+		<desc>第2集
+趙靈兒雖然憤怒，卻也體諒李逍遙救嬸嬸的一片孝心，收了法術想偷偷放走李逍遙。不料姥姥突然出現，要殺掉闖島之人。危機一觸即發時，姥姥認出李逍遙，將其稱作恩公，聲稱李逍遙十年前曾從南詔皇宮救下自己和靈兒。而對於姥姥所說之事，李逍遙一頭霧水，十年前，他還是個孩子，如何救人？
+姥姥不由分說強行逼迫李逍遙與趙靈兒成親。李逍遙雖然對靈兒一見鍾情，卻因覺得如此被逼草率成親既不尊重靈兒，也對不起自己的原則而拒絕。姥姥告訴李逍遙，只要他去一個地方，一切都會明白。
+在仙靈島的藍花楹樹下，李逍遙竟然看到了自己曾經留下的字跡，當他的手觸碰到這些字跡時，無數的回憶湧向了他的腦中，恍惚中，他似乎看到了與趙靈兒接下來的故事，冥冥中註定了他們的命運。兩人結為了夫妻。</desc>
 	</programme>
 	<programme channel="5511" start="20241206073000 +0000" stop="20241206080000 +0000">
 		<title>与天地对话 / Connecting Earth And Sky Episode 13</title>
@@ -20954,13 +20941,12 @@ Jacques带来土耳其风味「包罗万有」，烤焗鸡肉串伴上奶酪、�
 	</programme>
 	<programme channel="5511" start="20241206093000 +0000" stop="20241206103000 +0000">
 		<title>燕云台 / The Legend of Xiao Chuo Episode 623574</title>
-		<desc>第四十集
+		<desc>第四十五集
 
-喜隐向乌骨里承认一切都是自己的计划，乌骨里让喜隐保证不伤害大姐和燕燕，就帮他处理兰哥后续之事。
-耶律贤劝燕燕不要因为一个南人而得罪了宗亲部族，燕燕坚持要证明自己清白。 
-胡辇追到兰哥旧居，耐心劝说兰哥出面解局，自己可以保她不死。乌骨里也率马赶来，胡辇看到她竟然帮着夫君善后，对其十分失望。
-以虎古为首的宗亲部族在朝堂上为难燕燕，耶律贤替她解围，喧哗之际，胡辇带着兰哥出现在大殿之上，指认喜隐，一切真相大白。
-乌骨里带着留礼寿跪在大殿外，求燕燕法外开恩，但喜隐屡教不改，燕燕不愿再心软。胡辇答应求情，但也只能求燕燕不要伤喜隐性命。燕燕不好驳回胡辇，下旨将赵王喜隐永囚祖州，终身不得释。</desc>
+三年转瞬即逝，又逢乌骨里忌日。燕燕在佛龛前心情不虞，韩德让看着燕燕落寞的样子暗自心疼。燕燕感慨自乌骨里去后，胡辇往来书信都是政务，鲜有亲情。
+另一边，胡辇追逐猎物穿过树林，看到了上身赤裸，正在湖边刷马的马奴，谁知胡辇坐骑突然受惊扬蹄。危急时刻，挞览阿钵冲过来跳上马背，救下胡辇。胡辇想要赏赐挞览阿钵。挞览阿钵拒绝，而是邀请胡辇明日前来草原部落。
+韩德让寿辰将至，燕燕念其辛苦，要在宫中为他做寿。韩德让拒绝，认为于理不合，燕燕说韩德让身为相父，自然当得起这样的礼遇。燕燕还当众为韩德让建立斡鲁朵。燕燕此举让虎古等人愤懑不已。
+胡辇辗转反侧，起身来到窗前，脑中不断浮现出挞览阿钵。</desc>
 	</programme>
 	<programme channel="5511" start="20241206103000 +0000" stop="20241206110500 +0000">
 		<title>六点半新闻报导 及 世界观 / News At 18:30 and Global View</title>
@@ -20984,11 +20970,10 @@ Jacques带来土耳其风味「包罗万有」，烤焗鸡肉串伴上奶酪、�
 </desc>
 	</programme>
 	<programme channel="5511" start="20241206133000 +0000" stop="20241206143000 +0000">
-		<title>又见逍遥 / Sword and Fairy Episode 3</title>
-		<desc>第8集
-被迷暈的李逍遙等人再次醒來，發現被囚禁在白河寨之中，打開牢籠的鑰匙就掛在不遠處的牆上。林月如用氣劍指打下牢籠鑰匙，但想要將鑰匙拿到手，還需要多用幾次氣劍指才可以。李逍遙催促林月如繼續，林月如卻要求李逍遙先跟自己道歉再說。李逍遙不得不跟林月如道歉，就在林月如即將拿到鑰匙之際，山賊將三人逮了個正著。
-白河寨的大當家重病，三當家急於選人為大當家沖喜，李逍遙原本竊喜，林月如又要嫁人，不料山賊要選的是個男人。劉晉元裝病，李逍遙無奈中選，被迷暈送往韓夢慈小屋。
-趙靈兒受韓醫仙所托，以血救下韓夢慈，三人本打算回到白河寨，誰料靈兒發現發繩遺落回來找尋，在小屋內與李逍遙重逢。李逍遙喜出望外一把握住靈兒的手，但趙靈兒想到自己蛇變模樣，心結難解。李逍遙興奮講述除蛇妖過程，立志除變天下妖邪，趙靈兒聞言心中忐忑。</desc>
+		<title>又见逍遥 / Sword and Fairy 1 Episode 3</title>
+		<desc>第3集
+南詔國大旱多年，民不聊生，巫王思念妻女，悔不當初，找來南蠻王進行占卜，得知女兒趙靈兒身處中原江南一帶，立刻派人去尋。
+余杭客棧裡，李逍遙撞破南詔神秘客人綁架少女的勾當，和嬸嬸聯手救下了趙靈兒。獲救的靈兒對逍遙講明島上變故並尋求幫助，然而此時的李逍遙卻已失憶，對其親昵舉動更是避之不及。趙靈兒心急去救姥姥沒注意到逍遙的異樣，而靈兒的遭遇激起了逍遙的俠義之氣，立刻陪同前往仙靈島。二人登島，仙靈島已遭神秘人血洗，姥姥也身負重傷奄奄一息，臨終托孤讓李逍遙護送趙靈兒前往南詔。</desc>
 	</programme>
 	<programme channel="5511" start="20241206143000 +0000" stop="20241206150500 +0000">
 		<title>与天地对话 / Connecting Earth And Sky Episode 14</title>
@@ -22055,7 +22040,7 @@ Jacques带来土耳其风味「包罗万有」，烤焗鸡肉串伴上奶酪、�
 		<desc>WORLD-CLASS K-DOL</desc>
 	</programme>
 	<programme channel="5038" start="20241206102000 +0000" stop="20241206103500 +0000">
-		<title>My Daytrip – Sangju, Into the Hat</title>
+		<title>My Day Trip</title>
 		<desc>A special day as a gift to me! A one-day local trip project that creates a travel plan anyone can see, feel, taste, and experience the charm of the region.</desc>
 	</programme>
 	<programme channel="5038" start="20241206103500 +0000" stop="20241206113500 +0000">
