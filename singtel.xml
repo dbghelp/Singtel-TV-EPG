@@ -1098,7 +1098,7 @@
 	</programme>
 	<programme channel="5003" start="20241205143000 +0000" stop="20241205150000 +0000">
 		<title>焦点 Episode 32</title>
-		<desc>《焦点》追踪国际时事，实地报道区域课题，以新加坡的视角分析时局发展的前因后果和潜在影响。</desc>
+		<desc>成立于1996年的新加坡华乐团，是我国唯一的专业国家级华乐团。为了让华乐走进普罗大众，华乐团为不同年龄层量身定做音乐会，并将华乐从音乐厅搬到社区。我国硬地滚球运动员陈仪婷从小患有脑性麻痹，经常面对周围异样的眼光。成长道路不平坦，她如何在运动场上找回自信？</desc>
 	</programme>
 	<programme channel="5003" start="20241205150000 +0000" stop="20241205160000 +0000">
 		<title>长风渡 Episode 30</title>
@@ -1658,7 +1658,7 @@
 	</programme>
 	<programme channel="5006" start="20241205130000 +0000" stop="20241205140000 +0000">
 		<title>Insight Episode 32</title>
-		<desc>Insight investigates and analyses topical issues that impact Asia and the rest of the world.</desc>
+		<desc>Western men are flocking to Asia looking for love. Are these passport bros an update of the sex tourists prevalent in Southeast Asia? Or are they simply lonely men looking for their shot at romance?</desc>
 	</programme>
 	<programme channel="5006" start="20241205140000 +0000" stop="20241205150000 +0000">
 		<title>Singapore Tonight Episode 249</title>
@@ -1694,7 +1694,7 @@
 	</programme>
 	<programme channel="5006" start="20241205210000 +0000" stop="20241205220000 +0000">
 		<title>Insight Episode 32</title>
-		<desc>Insight investigates and analyses topical issues that impact Asia and the rest of the world.</desc>
+		<desc>Western men are flocking to Asia looking for love. Are these passport bros an update of the sex tourists prevalent in Southeast Asia? Or are they simply lonely men looking for their shot at romance?</desc>
 	</programme>
 	<programme channel="5006" start="20241205220000 +0000" stop="20241205230000 +0000">
 		<title>Singapore Tonight Episode 249</title>
@@ -1706,7 +1706,7 @@
 	</programme>
 	<programme channel="5006" start="20241206020000 +0000" stop="20241206030000 +0000">
 		<title>Insight Episode 32</title>
-		<desc>Insight investigates and analyses topical issues that impact Asia and the rest of the world.</desc>
+		<desc>Western men are flocking to Asia looking for love. Are these passport bros an update of the sex tourists prevalent in Southeast Asia? Or are they simply lonely men looking for their shot at romance?</desc>
 	</programme>
 	<programme channel="5006" start="20241206030000 +0000" stop="20241206050000 +0000">
 		<title>Asia Now Episode 180</title>
@@ -6409,7 +6409,7 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 	</programme>
 	<programme channel="5157" start="20241206013000 +0000" stop="20241206014500 +0000">
 		<title>BENTO EXPO</title>
-		<desc>Bento connects the world! Discover a universe of bento from Japan and around the world, with step-by-step instructions and delicious tips and tricks!</desc>
+		<desc>Today: Marc prepares bentos with cooking expert Yanagihara Naoyuki, a chef of Japanese cuisine. Together, the pair make two festive-looking bentos perfect for the holiday season.</desc>
 	</programme>
 	<programme channel="5157" start="20241206014500 +0000" stop="20241206020000 +0000">
 		<title>Zero Waste Life</title>
@@ -6469,7 +6469,7 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 	</programme>
 	<programme channel="5157" start="20241206063000 +0000" stop="20241206064500 +0000">
 		<title>BENTO EXPO</title>
-		<desc>Bento connects the world! Discover a universe of bento from Japan and around the world, with step-by-step instructions and delicious tips and tricks!</desc>
+		<desc>Today: Marc prepares bentos with cooking expert Yanagihara Naoyuki, a chef of Japanese cuisine. Together, the pair make two festive-looking bentos perfect for the holiday season.</desc>
 	</programme>
 	<programme channel="5157" start="20241206064500 +0000" stop="20241206070000 +0000">
 		<title>Zero Waste Life</title>
@@ -6557,7 +6557,7 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 	</programme>
 	<programme channel="5157" start="20241206123000 +0000" stop="20241206124500 +0000">
 		<title>BENTO EXPO</title>
-		<desc>Bento connects the world! Discover a universe of bento from Japan and around the world, with step-by-step instructions and delicious tips and tricks!</desc>
+		<desc>Today: Marc prepares bentos with cooking expert Yanagihara Naoyuki, a chef of Japanese cuisine. Together, the pair make two festive-looking bentos perfect for the holiday season.</desc>
 	</programme>
 	<programme channel="5157" start="20241206124500 +0000" stop="20241206130000 +0000">
 		<title>Zero Waste Life</title>
@@ -10792,8 +10792,8 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>Hosted by U.S Special Forces legend, Terry Schappert, this 4-part special showcases the toughest training segments from History's original Special Forces series.</desc>
 	</programme>
 	<programme channel="5211" start="20241204160000 +0000" stop="20241204165600 +0000">
-		<title>The Songhua River3</title>
-		<desc>The Songhua River3</desc>
+		<title>The Songhua River 3</title>
+		<desc>The Songhua River 3</desc>
 	</programme>
 	<programme channel="5211" start="20241204165600 +0000" stop="20241204170000 +0000">
 		<title>Promos</title>
@@ -10864,8 +10864,8 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>Promos</desc>
 	</programme>
 	<programme channel="5211" start="20241204220000 +0000" stop="20241204225600 +0000">
-		<title>The Songhua River4</title>
-		<desc>The Songhua River4</desc>
+		<title>The Songhua River 4</title>
+		<desc>The Songhua River 4</desc>
 	</programme>
 	<programme channel="5211" start="20241204225600 +0000" stop="20241204230000 +0000">
 		<title>Promos</title>
@@ -10936,8 +10936,8 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>Promos</desc>
 	</programme>
 	<programme channel="5211" start="20241205040000 +0000" stop="20241205045600 +0000">
-		<title>The Songhua River4</title>
-		<desc>The Songhua River4</desc>
+		<title>The Songhua River 4</title>
+		<desc>The Songhua River 4</desc>
 	</programme>
 	<programme channel="5211" start="20241205045600 +0000" stop="20241205050000 +0000">
 		<title>Promos</title>
@@ -11008,8 +11008,8 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>Promos</desc>
 	</programme>
 	<programme channel="5211" start="20241205100000 +0000" stop="20241205105600 +0000">
-		<title>The Songhua River4</title>
-		<desc>The Songhua River4</desc>
+		<title>The Songhua River 4</title>
+		<desc>The Songhua River 4</desc>
 	</programme>
 	<programme channel="5211" start="20241205105600 +0000" stop="20241205110000 +0000">
 		<title>Promos</title>
@@ -11080,8 +11080,8 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>Promos</desc>
 	</programme>
 	<programme channel="5211" start="20241205160000 +0000" stop="20241205165600 +0000">
-		<title>The Songhua River4</title>
-		<desc>The Songhua River4</desc>
+		<title>The Songhua River 4</title>
+		<desc>The Songhua River 4</desc>
 	</programme>
 	<programme channel="5211" start="20241205165600 +0000" stop="20241205170000 +0000">
 		<title>Promos</title>
@@ -11136,8 +11136,8 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>Promos</desc>
 	</programme>
 	<programme channel="5211" start="20241205210000 +0000" stop="20241205212700 +0000">
-		<title>A Gift from the Earth 1</title>
-		<desc>A Gift from the Earth 1</desc>
+		<title>The First Ascent 1</title>
+		<desc>The First Ascent 1</desc>
 	</programme>
 	<programme channel="5211" start="20241205212700 +0000" stop="20241205213000 +0000">
 		<title>Promos</title>
@@ -11152,8 +11152,8 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>Promos</desc>
 	</programme>
 	<programme channel="5211" start="20241205220000 +0000" stop="20241205225600 +0000">
-		<title>The Songhua River5</title>
-		<desc>The Songhua River5</desc>
+		<title>The Songhua River 5</title>
+		<desc>The Songhua River 5</desc>
 	</programme>
 	<programme channel="5211" start="20241205225600 +0000" stop="20241205230000 +0000">
 		<title>Promos</title>
@@ -11208,8 +11208,8 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>Promos</desc>
 	</programme>
 	<programme channel="5211" start="20241206030000 +0000" stop="20241206032700 +0000">
-		<title>A Gift from the Earth 1</title>
-		<desc>A Gift from the Earth 1</desc>
+		<title>The First Ascent 1</title>
+		<desc>The First Ascent 1</desc>
 	</programme>
 	<programme channel="5211" start="20241206032700 +0000" stop="20241206033000 +0000">
 		<title>Promos</title>
@@ -11224,8 +11224,8 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>Promos</desc>
 	</programme>
 	<programme channel="5211" start="20241206040000 +0000" stop="20241206045600 +0000">
-		<title>The Songhua River5</title>
-		<desc>The Songhua River5</desc>
+		<title>The Songhua River 5</title>
+		<desc>The Songhua River 5</desc>
 	</programme>
 	<programme channel="5211" start="20241206045600 +0000" stop="20241206050000 +0000">
 		<title>Promos</title>
@@ -11280,8 +11280,8 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>Promos</desc>
 	</programme>
 	<programme channel="5211" start="20241206090000 +0000" stop="20241206092700 +0000">
-		<title>A Gift from the Earth 1</title>
-		<desc>A Gift from the Earth 1</desc>
+		<title>The First Ascent 1</title>
+		<desc>The First Ascent 1</desc>
 	</programme>
 	<programme channel="5211" start="20241206092700 +0000" stop="20241206093000 +0000">
 		<title>Promos</title>
@@ -11296,8 +11296,8 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>Promos</desc>
 	</programme>
 	<programme channel="5211" start="20241206100000 +0000" stop="20241206105600 +0000">
-		<title>The Songhua River5</title>
-		<desc>The Songhua River5</desc>
+		<title>The Songhua River 5</title>
+		<desc>The Songhua River 5</desc>
 	</programme>
 	<programme channel="5211" start="20241206105600 +0000" stop="20241206110000 +0000">
 		<title>Promos</title>
@@ -11352,8 +11352,8 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>Promos</desc>
 	</programme>
 	<programme channel="5211" start="20241206150000 +0000" stop="20241206152700 +0000">
-		<title>A Gift from the Earth 1</title>
-		<desc>A Gift from the Earth 1</desc>
+		<title>The First Ascent 1</title>
+		<desc>The First Ascent 1</desc>
 	</programme>
 	<programme channel="5211" start="20241206152700 +0000" stop="20241206153000 +0000">
 		<title>Promos</title>
@@ -24412,8 +24412,8 @@ Jacques带来土耳其风味「包罗万有」，烤焗鸡肉串伴上奶酪、�
 		<desc>頭條開講(重)</desc>
 	</programme>
 	<programme channel="5557" start="20241204210000 +0000" stop="20241204220000 +0000">
-		<title>聚焦新亞洲(重)</title>
-		<desc>聚焦新亞洲(重)</desc>
+		<title>中天新聞(重)</title>
+		<desc>中天新聞(重)</desc>
 	</programme>
 	<programme channel="5557" start="20241204220000 +0000" stop="20241204230000 +0000">
 		<title>小明星大跟班(重)</title>
@@ -24444,8 +24444,8 @@ Jacques带来土耳其风味「包罗万有」，烤焗鸡肉串伴上奶酪、�
 		<desc>中天新聞Live</desc>
 	</programme>
 	<programme channel="5557" start="20241205050000 +0000" stop="20241205060000 +0000">
-		<title>聚焦新亞洲 Live</title>
-		<desc>聚焦新亞洲 Live</desc>
+		<title>中天新聞Live</title>
+		<desc>中天新聞Live</desc>
 	</programme>
 	<programme channel="5557" start="20241205060000 +0000" stop="20241205070000 +0000">
 		<title>大新聞大爆卦Live</title>
@@ -24468,8 +24468,8 @@ Jacques带来土耳其风味「包罗万有」，烤焗鸡肉串伴上奶酪、�
 		<desc>中天新聞Live</desc>
 	</programme>
 	<programme channel="5557" start="20241205110000 +0000" stop="20241205120000 +0000">
-		<title>聚焦新亞洲 Live</title>
-		<desc>聚焦新亞洲 Live</desc>
+		<title>中天新聞Live</title>
+		<desc>中天新聞Live</desc>
 	</programme>
 	<programme channel="5557" start="20241205120000 +0000" stop="20241205130000 +0000">
 		<title>頭條開講(首)</title>
@@ -24508,8 +24508,8 @@ Jacques带来土耳其风味「包罗万有」，烤焗鸡肉串伴上奶酪、�
 		<desc>頭條開講(重)</desc>
 	</programme>
 	<programme channel="5557" start="20241205210000 +0000" stop="20241205220000 +0000">
-		<title>聚焦新亞洲(重)</title>
-		<desc>聚焦新亞洲(重)</desc>
+		<title>中天新聞(重)</title>
+		<desc>中天新聞(重)</desc>
 	</programme>
 	<programme channel="5557" start="20241205220000 +0000" stop="20241205230000 +0000">
 		<title>小明星大跟班(重)</title>
@@ -28936,28 +28936,80 @@ Jacques带来土耳其风味「包罗万有」，烤焗鸡肉串伴上奶酪、�
 		<desc>A comprehensive compilation of some of the best rib-tickling comedy scenes from various Malayalam movies featuring renowned actors and actresses.</desc>
 	</programme>
 	<programme channel="5638" start="20241205233000 +0000" stop="20241206020000 +0000">
-		<title>Movie</title>
-		<desc>The movie name is yet to be announced by the channel.</desc>
+		<title>Mayamayooram</title>
+		<desc>Nanda's happiness is short lived as her fiance dies in an accident. A ray of hope strikes through the gloom as she meets the twin brother of him.</desc>
 	</programme>
-	<programme channel="5638" start="20241206020000 +0000" stop="20241206033000 +0000">
-		<title>TBA</title>
-		<desc>The name of the program is yet to be announced by the channel.</desc>
+	<programme channel="5638" start="20241206020000 +0000" stop="20241206023000 +0000">
+		<title>Geetha Govindam</title>
+		<desc>Young lecturer Vijay falls for cautious Geetha, but a mistake jeopardizes their budding romance, leading to family drama and uncertain consequences. Relationships are put to the test.</desc>
 	</programme>
-	<programme channel="5638" start="20241206033000 +0000" stop="20241206063000 +0000">
-		<title>TBA</title>
-		<desc>The name of the program is yet to be announced by the channel.</desc>
+	<programme channel="5638" start="20241206023000 +0000" stop="20241206030000 +0000">
+		<title>Chandrikayil Aliyunnu Chandrakantham</title>
+		<desc>IPS Gautham reluctantly marries Alakananda, but things get complicated when his first love, Priyamvada, re-enters his life. Love triangle drama ensues in Asianet's series.</desc>
 	</programme>
-	<programme channel="5638" start="20241206063000 +0000" stop="20241206093000 +0000">
-		<title>TBA</title>
-		<desc>The name of the program is yet to be announced by the channel.</desc>
+	<programme channel="5638" start="20241206030000 +0000" stop="20241206033000 +0000">
+		<title>Snehakkoottu</title>
+		<desc>Sethumadhavan becomes the unexpected guardian for his distant stepsisters. Facing challenges and resistance, he must discover if his love can truly unite and heal their fractured bond.</desc>
 	</programme>
-	<programme channel="5638" start="20241206093000 +0000" stop="20241206123000 +0000">
-		<title>TBA</title>
-		<desc>The name of the program is yet to be announced by the channel.</desc>
+	<programme channel="5638" start="20241206033000 +0000" stop="20241206040000 +0000">
+		<title>Patharamattu</title>
+		<desc>Nayana, a talented artist, crosses paths with Adarsh, the responsible eldest Moorthy brother, sparking a connection that faces obstacles from envy and familial expectations during the Onam celebrations.</desc>
 	</programme>
-	<programme channel="5638" start="20241206123000 +0000" stop="20241206153000 +0000">
-		<title>TBA</title>
-		<desc>The name of the program is yet to be announced by the channel.</desc>
+	<programme channel="5638" start="20241206040000 +0000" stop="20241206043000 +0000">
+		<title>Ishttam Mathram</title>
+		<desc>Mahesh struggles to express his love for his daughter Chippy, while Ishitha's affection for her deepens, sparking envy in him. A tale of love and longing.</desc>
+	</programme>
+	<programme channel="5638" start="20241206043000 +0000" stop="20241206050000 +0000">
+		<title>Chempaneerpoovu</title>
+		<desc>A show follows Revathy, a lower-class daughter, marrying Sachi, a quirky taxi driver battling alcoholism. Expect drama, humor, and unexpected twists in their unconventional love story.</desc>
+	</programme>
+	<programme channel="5638" start="20241206050000 +0000" stop="20241206073000 +0000">
+		<title>Thanneer Mathan Dinangal</title>
+		<desc>Jaison, a teenager, has a crush on Keerthy, but she does not reciprocate his feelings. To make things worse, he gets in trouble with Ravi, the new teacher who is liked by everyone, especially Keerthy.</desc>
+	</programme>
+	<programme channel="5638" start="20241206073000 +0000" stop="20241206080000 +0000">
+		<title>Mounaragam</title>
+		<desc>A woman named Deepa faces cruelty from her husband Prakashan and his mother for giving birth to a mute girl. They mistreat her but Deepa's family supports her.</desc>
+	</programme>
+	<programme channel="5638" start="20241206080000 +0000" stop="20241206083000 +0000">
+		<title>Santhwanam-2</title>
+		<desc>Two rival families face challenges and strengthen their bonds in 'Santhwanam 2.' Balan's adopted son marries into one family, balancing his loyalties and navigating familial dynamics.</desc>
+	</programme>
+	<programme channel="5638" start="20241206083000 +0000" stop="20241206090000 +0000">
+		<title>Jaanakiyudeyum Abhiyudeyum Veedu</title>
+		<desc>Janakiyudeyum Abhiyudeyum Veedu centers on the love of Abhiram and Janaki in the midst of their extended family in Alakapuri household.</desc>
+	</programme>
+	<programme channel="5638" start="20241206090000 +0000" stop="20241206093000 +0000">
+		<title>Amma Manassu</title>
+		<desc>'Catch the Malayalam dubbed version of the hit Tamil serial Chellamma on Star Vijay, directed by Francis Kathiravan. Amma Manassu features a talented cast in a compelling family drama.'</desc>
+	</programme>
+	<programme channel="5638" start="20241206093000 +0000" stop="20241206100000 +0000">
+		<title>Etho Janma Kalpanayil</title>
+		<desc>Optimistic Sruthy clashes with arrogant Ashwin, sparking misunderstandings and confrontations, but leading to unexpected love amidst societal pressures, family conflicts, and personal growth.</desc>
+	</programme>
+	<programme channel="5638" start="20241206100000 +0000" stop="20241206130000 +0000">
+		<title>Sakhavu</title>
+		<desc>When some people try to use him in order to fulfil their intentions he is forced to fight for his ideals.</desc>
+	</programme>
+	<programme channel="5638" start="20241206130000 +0000" stop="20241206133000 +0000">
+		<title>Engile Ennodu Para S01</title>
+		<desc>Yes or Miss! Watch Sabu Mon and Shwetha lead celebrities through wild challenges. Who'll triumph and claim the prize? Tune in for the excitement!</desc>
+	</programme>
+	<programme channel="5638" start="20241206133000 +0000" stop="20241206140000 +0000">
+		<title>Gouri Shankaram</title>
+		<desc>Gouri, a college girl with strong principles, marries her obsessive lover Sanker. The show unfolds as Sanker pursues Gouri, challenging their opposing principles.</desc>
+	</programme>
+	<programme channel="5638" start="20241206140000 +0000" stop="20241206143000 +0000">
+		<title>Maalikapuram</title>
+		<desc>8-year-old Kallu from Panchalimedu village has a strong urge to visit Sabarimala. Join her on a heartwarming journey as she sets out to fulfill her dream against all odds.</desc>
+	</programme>
+	<programme channel="5638" start="20241206143000 +0000" stop="20241206150000 +0000">
+		<title>Snehakkoottu</title>
+		<desc>Sethumadhavan becomes the unexpected guardian for his distant stepsisters. Facing challenges and resistance, he must discover if his love can truly unite and heal their fractured bond.</desc>
+	</programme>
+	<programme channel="5638" start="20241206150000 +0000" stop="20241206153000 +0000">
+		<title>Santhwanam-2</title>
+		<desc>Two rival families face challenges and strengthen their bonds in 'Santhwanam 2.' Balan's adopted son marries into one family, balancing his loyalties and navigating familial dynamics.</desc>
 	</programme>
 	<programme channel="5639" start="20241204133000 +0000" stop="20241204170500 +0000">
 		<title>Pushpa: The Rise - Part 1</title>
@@ -28969,7 +29021,7 @@ Jacques带来土耳其风味「包罗万有」，烤焗鸡肉串伴上奶酪、�
 	</programme>
 	<programme channel="5639" start="20241204195000 +0000" stop="20241204221500 +0000">
 		<title>Padheyam</title>
-		<desc>Chandradas meets his estranged teenaged daughter, Harita. After great effort, he is able to take his daughter to his ancestral home. Release Year: 1993 Director: Bharathan</desc>
+		<desc>Chandradas meets his estranged teenaged daughter, Harita. After great effort, he is able to take his daughter to his ancestral home. Release Year: 1993 Director: Bharathan Awards: V. Shantaram Award for Best Film, Kerala State Film Award for Best Singer</desc>
 	</programme>
 	<programme channel="5639" start="20241204221500 +0000" stop="20241205003000 +0000">
 		<title>Innanu Aa Kalyanam</title>
@@ -28999,19 +29051,19 @@ Jacques带来土耳其风味「包罗万有」，烤焗鸡肉串伴上奶酪、�
 		<title>Ravanaprabhu</title>
 		<desc>Karthikeyan's ancestral house, usurped by Shekharan, so he abducts his daughter. Release Year: 2001 Director: Ranjith Awards: Kerala State Film Awards - Best Film with Popular Appeal and Aesthetic Value</desc>
 	</programme>
-	<programme channel="5639" start="20241205133000 +0000" stop="20241205163000 +0000">
+	<programme channel="5639" start="20241205133000 +0000" stop="20241205173000 +0000">
 		<title>Ravanaprabhu</title>
 		<desc>Karthikeyan's ancestral house, usurped by Shekharan, so he abducts his daughter. Release Year: 2001 Director: Ranjith Awards: Kerala State Film Awards - Best Film with Popular Appeal and Aesthetic Value</desc>
 	</programme>
-	<programme channel="5639" start="20241205163000 +0000" stop="20241205193000 +0000">
+	<programme channel="5639" start="20241205173000 +0000" stop="20241205201000 +0000">
 		<title>Ittymaani: Made in China</title>
 		<desc>Ittymaani runs a business of spurious products. He tries to help Annamma. Release Year: 2019 Director: Jibi Joju</desc>
 	</programme>
-	<programme channel="5639" start="20241205193000 +0000" stop="20241205220000 +0000">
+	<programme channel="5639" start="20241205201000 +0000" stop="20241205223000 +0000">
 		<title>Vasthavam</title>
-		<desc>Balachandran gets employed in Secretariat and his life changing incidents occur.</desc>
+		<desc>Balachandran gets employed in Secretariat and his life changing incidents occur. Release Year: 2006 Director: M. Padmakumar Awards: Kerala State Film Award for Best Actor,Kerala State Film Award for Best Editor</desc>
 	</programme>
-	<programme channel="5639" start="20241205220000 +0000" stop="20241206003000 +0000">
+	<programme channel="5639" start="20241205223000 +0000" stop="20241206003000 +0000">
 		<title>Koottu</title>
 		<desc>Hari and Balu are best buddies, they come from different backgrounds. Suddenly Balu is found missing and Hari takes the initiative to find him. Release Year: 2004 Director: Jayaprakash</desc>
 	</programme>
@@ -29021,7 +29073,7 @@ Jacques带来土耳其风味「包罗万有」，烤焗鸡肉串伴上奶酪、�
 	</programme>
 	<programme channel="5639" start="20241206013000 +0000" stop="20241206043000 +0000">
 		<title>Ee Parakkumthalika</title>
-		<desc>Unni and Sundaresan ply a bus service, Things take a turn when a woman enters.</desc>
+		<desc>Unni and Sundaresan ply a bus service, Things take a turn when a woman enters. Release Year: 2001</desc>
 	</programme>
 	<programme channel="5639" start="20241206043000 +0000" stop="20241206073000 +0000">
 		<title>Neyyattinkara Gopante Aaraattu</title>
@@ -30389,11 +30441,11 @@ Jacques带来土耳其风味「包罗万有」，烤焗鸡肉串伴上奶酪、�
 	</programme>
 	<programme channel="5654" start="20241204180000 +0000" stop="20241204183000 +0000">
 		<title>Shaitani Rasmein Episode 276</title>
-		<desc>In Bhurangarh, Nikki challenges satanic force Malik while seeking love.</desc>
+		<desc>Jackie is cornered in the palace by Netra, Veer, and their minions but manages to escape. Meanwhile, Dhrumdavati shows Pinni her future.</desc>
 	</programme>
 	<programme channel="5654" start="20241204183000 +0000" stop="20241204190000 +0000">
 		<title>10:29 Ki Aakhri Dastak Episode 153</title>
-		<desc>This is not an announcement, but a warning! There is harm in men going out of the house after 10:29 pm. Watch a new show.</desc>
+		<desc>Abhimanyu pieces together Rani Indumati's torn picture and realises that Bindu is her reincarnation. Meanwhile, Bindu goes to the Ashram to attack Shastri Ji.</desc>
 	</programme>
 	<programme channel="5654" start="20241204190000 +0000" stop="20241204200000 +0000">
 		<title>Savdhaan India - India Fights Back Episode 1532</title>
@@ -30417,7 +30469,7 @@ Jacques带来土耳其风味「包罗万有」，烤焗鸡肉串伴上奶酪、�
 	</programme>
 	<programme channel="5654" start="20241205000000 +0000" stop="20241205003000 +0000">
 		<title>10:29 Ki Aakhri Dastak Episode 153</title>
-		<desc>This is not an announcement, but a warning! There is harm in men going out of the house after 10:29 pm. Watch a new show.</desc>
+		<desc>Abhimanyu pieces together Rani Indumati's torn picture and realises that Bindu is her reincarnation. Meanwhile, Bindu goes to the Ashram to attack Shastri Ji.</desc>
 	</programme>
 	<programme channel="5654" start="20241205003000 +0000" stop="20241205013000 +0000">
 		<title>Divya-Drishti Episode 24</title>
@@ -30437,11 +30489,11 @@ Jacques带来土耳其风味「包罗万有」，烤焗鸡肉串伴上奶酪、�
 	</programme>
 	<programme channel="5654" start="20241205030000 +0000" stop="20241205033000 +0000">
 		<title>Shaitani Rasmein Episode 275</title>
-		<desc>In Bhurangarh, Nikki challenges satanic force Malik while seeking love.</desc>
+		<desc>Pinni struggles to find Dhrumdavati to complete the third Shaitani Rasmein. Elsewhere, Jackie sneaks into the palace to steal the Jantar but gets caught by Veer.</desc>
 	</programme>
 	<programme channel="5654" start="20241205033000 +0000" stop="20241205040000 +0000">
 		<title>Shaitani Rasmein Episode 276</title>
-		<desc>In Bhurangarh, Nikki challenges satanic force Malik while seeking love.</desc>
+		<desc>Jackie is cornered in the palace by Netra, Veer, and their minions but manages to escape. Meanwhile, Dhrumdavati shows Pinni her future.</desc>
 	</programme>
 	<programme channel="5654" start="20241205040000 +0000" stop="20241205043000 +0000">
 		<title>Yeh Rishtey Hain Pyaar Ke Episode 119</title>
@@ -30465,7 +30517,7 @@ Jacques带来土耳其风味「包罗万有」，烤焗鸡肉串伴上奶酪、�
 	</programme>
 	<programme channel="5654" start="20241205070000 +0000" stop="20241205073000 +0000">
 		<title>Shaitani Rasmein Episode 276</title>
-		<desc>In Bhurangarh, Nikki challenges satanic force Malik while seeking love.</desc>
+		<desc>Jackie is cornered in the palace by Netra, Veer, and their minions but manages to escape. Meanwhile, Dhrumdavati shows Pinni her future.</desc>
 	</programme>
 	<programme channel="5654" start="20241205073000 +0000" stop="20241205080000 +0000">
 		<title>Yeh Rishtey Hain Pyaar Ke Episode 119</title>
@@ -30481,7 +30533,7 @@ Jacques带来土耳其风味「包罗万有」，烤焗鸡肉串伴上奶酪、�
 	</programme>
 	<programme channel="5654" start="20241205093000 +0000" stop="20241205100000 +0000">
 		<title>Shaitani Rasmein Episode 276</title>
-		<desc>In Bhurangarh, Nikki challenges satanic force Malik while seeking love.</desc>
+		<desc>Jackie is cornered in the palace by Netra, Veer, and their minions but manages to escape. Meanwhile, Dhrumdavati shows Pinni her future.</desc>
 	</programme>
 	<programme channel="5654" start="20241205100000 +0000" stop="20241205110000 +0000">
 		<title>Divya-Drishti Episode 25</title>
@@ -30509,11 +30561,11 @@ Jacques带来土耳其风味「包罗万有」，烤焗鸡肉串伴上奶酪、�
 	</programme>
 	<programme channel="5654" start="20241205133000 +0000" stop="20241205140000 +0000">
 		<title>Shaitani Rasmein Episode 276</title>
-		<desc>In Bhurangarh, Nikki challenges satanic force Malik while seeking love.</desc>
+		<desc>Jackie is cornered in the palace by Netra, Veer, and their minions but manages to escape. Meanwhile, Dhrumdavati shows Pinni her future.</desc>
 	</programme>
 	<programme channel="5654" start="20241205140000 +0000" stop="20241205143000 +0000">
 		<title>10:29 Ki Aakhri Dastak Episode 153</title>
-		<desc>This is not an announcement, but a warning! There is harm in men going out of the house after 10:29 pm. Watch a new show.</desc>
+		<desc>Abhimanyu pieces together Rani Indumati's torn picture and realises that Bindu is her reincarnation. Meanwhile, Bindu goes to the Ashram to attack Shastri Ji.</desc>
 	</programme>
 	<programme channel="5654" start="20241205143000 +0000" stop="20241205150000 +0000">
 		<title>Yeh Rishtey Hain Pyaar Ke Episode 121</title>
@@ -30589,7 +30641,7 @@ Jacques带来土耳其风味「包罗万有」，烤焗鸡肉串伴上奶酪、�
 	</programme>
 	<programme channel="5654" start="20241206030000 +0000" stop="20241206033000 +0000">
 		<title>Shaitani Rasmein Episode 276</title>
-		<desc>In Bhurangarh, Nikki challenges satanic force Malik while seeking love.</desc>
+		<desc>Jackie is cornered in the palace by Netra, Veer, and their minions but manages to escape. Meanwhile, Dhrumdavati shows Pinni her future.</desc>
 	</programme>
 	<programme channel="5654" start="20241206033000 +0000" stop="20241206040000 +0000">
 		<title>Shaitani Rasmein Episode 277</title>
