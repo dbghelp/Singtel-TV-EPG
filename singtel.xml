@@ -4775,17 +4775,17 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<title>LaLiga Zap 2024/25: Episode Number 4 Episode 4</title>
 		<desc>LaLiga Zap 2024/25</desc>
 	</programme>
-	<programme channel="6126" start="20241206070500 +0000" stop="20241206073500 +0000">
+	<programme channel="6126" start="20241206070500 +0000" stop="20241206075500 +0000">
+		<title>FIA Formula 2 Championship Practice 2024: Yas Marina, Abu Dhabi (Live) Episode 14</title>
+		<desc>FIA Formula 2 Championship Practice 2024</desc>
+	</programme>
+	<programme channel="6126" start="20241206075500 +0000" stop="20241206082500 +0000">
 		<title>LaLiga Show 2024/25: Matchday 16 Episode 16</title>
 		<desc>LaLiga Show 2024/25</desc>
 	</programme>
-	<programme channel="6126" start="20241206073500 +0000" stop="20241206080500 +0000">
+	<programme channel="6126" start="20241206082500 +0000" stop="20241206085500 +0000">
 		<title>Bundesliga Weekly 2024/25: Episode Number 17 Episode 17</title>
 		<desc>Bundesliga Weekly 2024/25</desc>
-	</programme>
-	<programme channel="6126" start="20241206080500 +0000" stop="20241206085500 +0000">
-		<title>FIA Formula 2 Championship Practice 2024: Yas Marina, Abu Dhabi (Live) Episode 14</title>
-		<desc>FIA Formula 2 Championship Practice 2024</desc>
 	</programme>
 	<programme channel="6126" start="20241206085500 +0000" stop="20241206092500 +0000">
 		<title>GP Confidential 2024: Episode Number 24 Episode 24</title>
@@ -4928,7 +4928,7 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>ATP Tour 1000 2024</desc>
 	</programme>
 	<programme channel="6127" start="20241206010500 +0000" stop="20241206023500 +0000">
-		<title>ATP Tour 1000 2024: Rome Day 4 Arnaldi v Jarry Episode 189</title>
+		<title>ATP Tour 1000 2024: Rome Day 4 Tsitsipas vs Struff Episode 193</title>
 		<desc>ATP Tour 1000 2024</desc>
 	</programme>
 	<programme channel="6127" start="20241206023500 +0000" stop="20241206040000 +0000">
@@ -4940,11 +4940,11 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>ATP Tour 500 2024</desc>
 	</programme>
 	<programme channel="6127" start="20241206053000 +0000" stop="20241206070000 +0000">
-		<title>ATP Tour 500 2024: Beijing Day 5 Rublev v Davidovich Fokina Episode 241</title>
+		<title>ATP Tour 500 2024: Beijing Day 4 Alcaraz v Griekspoor Episode 242</title>
 		<desc>ATP Tour 500 2024</desc>
 	</programme>
 	<programme channel="6127" start="20241206070000 +0000" stop="20241206083000 +0000">
-		<title>ATP Tour 500 2024: Beijing Day 4 Alcaraz v Griekspoor Episode 242</title>
+		<title>ATP Tour 500 2024: Beijing Day 5 Rublev v Davidovich Fokina Episode 241</title>
 		<desc>ATP Tour 500 2024</desc>
 	</programme>
 	<programme channel="6127" start="20241206083000 +0000" stop="20241206100000 +0000">
@@ -8477,7 +8477,7 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 	</programme>
 	<programme channel="6166" start="20241205223000 +0000" stop="20241205230000 +0000">
 		<title>HARDtalk (r)</title>
-		<desc>In-depth interviews with the world's leading politicians, opinion-formers and key figures from culture, business and sport.</desc>
+		<desc>Stephen Sackur speaks to Arab Barghouthi, whose father Marwan is serving life for murder in an Israeli jail. Does his son believe he will ever be free?</desc>
 	</programme>
 	<programme channel="6166" start="20241205230000 +0000" stop="20241206000000 +0000">
 		<title>BBC World News America</title>
@@ -8489,7 +8489,7 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 	</programme>
 	<programme channel="6166" start="20241206003000 +0000" stop="20241206010000 +0000">
 		<title>HARDtalk (r)</title>
-		<desc>In-depth interviews with the world's leading politicians, opinion-formers and key figures from culture, business and sport.</desc>
+		<desc>Stephen Sackur speaks to Arab Barghouthi, whose father Marwan is serving life for murder in an Israeli jail. Does his son believe he will ever be free?</desc>
 	</programme>
 	<programme channel="6166" start="20241206010000 +0000" stop="20241206013000 +0000">
 		<title>BBC News</title>
@@ -8585,7 +8585,7 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 	</programme>
 	<programme channel="6166" start="20241206103000 +0000" stop="20241206110000 +0000">
 		<title>HARDtalk (r)</title>
-		<desc>In-depth interviews with the world's leading politicians, opinion-formers and key figures from culture, business and sport.</desc>
+		<desc>Stephen Sackur speaks to Arab Barghouthi, whose father Marwan is serving life for murder in an Israeli jail. Does his son believe he will ever be free?</desc>
 	</programme>
 	<programme channel="6166" start="20241206110000 +0000" stop="20241206113000 +0000">
 		<title>BBC News</title>
@@ -28329,7 +28329,7 @@ Jacques带来土耳其风味「包罗万有」，烤焗鸡肉串伴上奶酪、�
 	</programme>
 	<programme channel="5632" start="20241205203000 +0000" stop="20241205210000 +0000">
 		<title>Mounam Pesiyathey Episode 27</title>
-		<desc>Mounam Pesiyathey</desc>
+		<desc>Thulasi, married to the thug Sethu, meets Siva, who loses his memory.Mistaken for his wife, she pretends to be, but as Sethu searches for her, she falls in love with Siva.</desc>
 	</programme>
 	<programme channel="5632" start="20241205210000 +0000" stop="20241205213000 +0000">
 		<title>Ninaithale Inikkum Episode 1109</title>
@@ -28345,7 +28345,7 @@ Jacques带来土耳其风味「包罗万有」，烤焗鸡肉串伴上奶酪、�
 	</programme>
 	<programme channel="5632" start="20241205223000 +0000" stop="20241205230000 +0000">
 		<title>Mounam Pesiyathey Episode 27</title>
-		<desc>Mounam Pesiyathey</desc>
+		<desc>Thulasi, married to the thug Sethu, meets Siva, who loses his memory.Mistaken for his wife, she pretends to be, but as Sethu searches for her, she falls in love with Siva.</desc>
 	</programme>
 	<programme channel="5632" start="20241205230000 +0000" stop="20241205233000 +0000">
 		<title>Veera Episode 211</title>
@@ -28397,7 +28397,7 @@ Jacques带来土耳其风味「包罗万有」，烤焗鸡肉串伴上奶酪、�
 	</programme>
 	<programme channel="5632" start="20241206073000 +0000" stop="20241206080000 +0000">
 		<title>Mounam Pesiyathey Episode 28</title>
-		<desc>Mounam Pesiyathey</desc>
+		<desc>Thulasi, married to the thug Sethu, meets Siva, who loses his memory.Mistaken for his wife, she pretends to be, but as Sethu searches for her, she falls in love with Siva.</desc>
 	</programme>
 	<programme channel="5632" start="20241206080000 +0000" stop="20241206083000 +0000">
 		<title>Valliyin Velan Episode 67</title>
@@ -28457,7 +28457,7 @@ Jacques带来土耳其风味「包罗万有」，烤焗鸡肉串伴上奶酪、�
 	</programme>
 	<programme channel="5632" start="20241206150000 +0000" stop="20241206153000 +0000">
 		<title>Mounam Pesiyathey Episode 28</title>
-		<desc>Mounam Pesiyathey</desc>
+		<desc>Thulasi, married to the thug Sethu, meets Siva, who loses his memory.Mistaken for his wife, she pretends to be, but as Sethu searches for her, she falls in love with Siva.</desc>
 	</programme>
 	<programme channel="5634" start="20241204160000 +0000" stop="20241204163000 +0000">
 		<title>Pandian Stores Thanthai Sol Mikka Mandhi Episode 343</title>
