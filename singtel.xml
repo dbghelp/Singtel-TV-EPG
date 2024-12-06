@@ -1034,7 +1034,7 @@
 	</programme>
 	<programme channel="5003" start="20241206123000 +0000" stop="20241206130000 +0000">
 		<title>前线追踪 Episode 33</title>
-		<desc>民情、民生、民意！【前线追踪】紧跟社会民生步伐，追踪调查时事动态，探讨新加坡人关心的课题，针对问题的核心追根究底。</desc>
+		<desc>癌症病患在抗癌的过程中经历什么挑战？他们怎么让生活重新回到正轨？</desc>
 	</programme>
 	<programme channel="5003" start="20241206130000 +0000" stop="20241206140000 +0000">
 		<title>再见明天 Episode 7</title>
@@ -3712,13 +3712,9 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<title>English League Championship 24-25: Burnley vs Middlesbrough (Live) Episode 967374</title>
 		<desc>English League Championship 24-25: Burnley vs Middlesbrough (Live)</desc>
 	</programme>
-	<programme channel="5111" start="20241206220000 +0000" stop="20241207060000 +0000">
+	<programme channel="5111" start="20241206220000 +0000" stop="20241207100000 +0000">
 		<title>Closed Episode 101231</title>
 		<desc>Closed</desc>
-	</programme>
-	<programme channel="5111" start="20241207060000 +0000" stop="20241207100000 +0000">
-		<title>Asian Le Mans Series 24-25: 4 Hours of Sepang Race 1 (Live) Episode 954311</title>
-		<desc>Asian Le Mans Series 24-25: 4 Hours of Sepang Race 1 (Live)</desc>
 	</programme>
 	<programme channel="5111" start="20241207100000 +0000" stop="20241207122000 +0000">
 		<title>Closed Episode 101231</title>
@@ -20428,7 +20424,7 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<desc>行脚旅游节目《爱玩客 向世界出发》主持群将从台湾启程，勇闯鲜少人涉足的观光胜地。他们将品尝当地美食、挑战极限，深入感受当地的人文风情及体验最真实的生活面貌。</desc>
 	</programme>
 	<programme channel="6507" start="20241207130000 +0000" stop="20241207140000 +0000">
-		<title>TVBS文茜的世界周报-亚洲版 / TVBS Sisy's World News Asia</title>
+		<title>TVBS文茜的世界周报 / TVBS Sisy's World News</title>
 		<desc>无论是财经议题、国际政治局势，还是世界脉动，主持人陈文茜将提供更多元的角度与新观点。</desc>
 	</programme>
 	<programme channel="6507" start="20241207140000 +0000" stop="20241207150000 +0000">
