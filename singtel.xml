@@ -3909,8 +3909,8 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<desc>The program revisits Team Europe's victory, joining Luke Donald one year on from the tournament to discover his journey to the captaincy, and the unbreakable spirit he cultivated in the team.</desc>
 	</programme>
 	<programme channel="6115" start="20241206140000 +0000" stop="20241206145500 +0000">
-		<title>2024/25 Formula E World Championship</title>
-		<desc>From the glamour of Monaco to fiesta of the Foro Sol in Mexico, we're all about wheel-to-wheel action to 10 exciting race locations around the world.</desc>
+		<title>ISU Figure Skating Grand Prix Grenoble (FRA)</title>
+		<desc>The ISU Grand Prix of Figure Skating Series consists of six international senior events in North America, Europe and Asia, culminating with the ISU Grand Prix of Figure Skating Final in Grenoble, France.</desc>
 	</programme>
 	<programme channel="6115" start="20241206145500 +0000" stop="20241206151100 +0000">
 		<title>MotoGP 2024 Spotlight Episode 3</title>
@@ -4296,37 +4296,25 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<title>URC Match Highlights Connacht v Bulls</title>
 		<desc>Catch up on all the match highlights from the most recent round of United Rugby Championship.</desc>
 	</programme>
-	<programme channel="5118" start="20241206133000 +0000" stop="20241206134000 +0000">
-		<title>URC Match Highlights Munster v Lions</title>
-		<desc>Catch up on all the match highlights from the most recent round of United Rugby Championship.</desc>
-	</programme>
-	<programme channel="5118" start="20241206134000 +0000" stop="20241206135000 +0000">
-		<title>URC Match Highlights Edinburgh v Benetton</title>
-		<desc>Catch up on all the match highlights from the most recent round of United Rugby Championship.</desc>
-	</programme>
-	<programme channel="5118" start="20241206135000 +0000" stop="20241206140000 +0000">
-		<title>URC Match Highlights Zebre v Ospreys</title>
-		<desc>Catch up on all the match highlights from the most recent round of United Rugby Championship.</desc>
-	</programme>
-	<programme channel="5118" start="20241206140000 +0000" stop="20241206145500 +0000">
+	<programme channel="5118" start="20241206133000 +0000" stop="20241206142500 +0000">
 		<title>Gallagher Premiership Gallagher Premiership</title>
 		<desc>The best of the latest action from the Gallagher Premiership.</desc>
 	</programme>
-	<programme channel="5118" start="20241206145500 +0000" stop="20241206145500 +0000">
+	<programme channel="5118" start="20241206142500 +0000" stop="20241206142500 +0000">
 		<title>EPCR Challenge Cup Gloucester v Sharks</title>
 		<desc>Gloucester take on Sharks in the final of the 2024 EPCR Challenge Cup final from the The Tottenham Hotspur Stadium in London.</desc>
 	</programme>
-	<programme channel="5118" start="20241206145500 +0000" stop="20241206165500 +0000">
+	<programme channel="5118" start="20241206142500 +0000" stop="20241206162500 +0000">
 		<title>EPCR Challenge Cup Gloucester v Sharks</title>
 		<desc>Gloucester take on Sharks in the final of the 2024 EPCR Challenge Cup final from the The Tottenham Hotspur Stadium in London.</desc>
 	</programme>
-	<programme channel="5118" start="20241206165500 +0000" stop="20241206193000 +0000">
+	<programme channel="5118" start="20241206162500 +0000" stop="20241206190000 +0000">
 		<title>Champions Cup Leinster v Toulouse</title>
 		<desc>Leinster and Toulouse meet at the Tottenham Hotspur Stadium to decide the destination of the 2024 Investec Champions Cup.</desc>
 	</programme>
-	<programme channel="5118" start="20241206193000 +0000" stop="20241206223000 +0000">
+	<programme channel="5118" start="20241206190000 +0000" stop="20241206223000 +0000">
 		<title>LIVE Champions Cup LIVE Bath v La Rochelle</title>
-		<desc>Watch all the action from the Investec Champions Cup, the premier competition in European rugby, with Toulouse looking to defend their title.</desc>
+		<desc>Coverage of the Investec Champions Cup as Bath Rugby play host to Stade Rochelais in this Round 1 opening game at the Recreation Ground.</desc>
 	</programme>
 	<programme channel="5118" start="20241206223000 +0000" stop="20241206230000 +0000">
 		<title>5 &amp; 6 Nations Classics 2004 - Ireland v Scotland</title>
@@ -4376,29 +4364,29 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<title>URC Match Highlights Munster v Lions</title>
 		<desc>Catch up on all the match highlights from the most recent round of United Rugby Championship.</desc>
 	</programme>
-	<programme channel="5118" start="20241207074000 +0000" stop="20241207075000 +0000">
-		<title>URC Match Highlights Edinburgh v Benetton</title>
-		<desc>Catch up on all the match highlights from the most recent round of United Rugby Championship.</desc>
+	<programme channel="5118" start="20241207074000 +0000" stop="20241207081000 +0000">
+		<title>5 &amp; 6 Nations Classics 2003 - Italy v France</title>
+		<desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
 	</programme>
-	<programme channel="5118" start="20241207075000 +0000" stop="20241207080000 +0000">
-		<title>URC Match Highlights Zebre v Ospreys</title>
-		<desc>Catch up on all the match highlights from the most recent round of United Rugby Championship.</desc>
-	</programme>
-	<programme channel="5118" start="20241207080000 +0000" stop="20241207090000 +0000">
+	<programme channel="5118" start="20241207081000 +0000" stop="20241207091000 +0000">
 		<title>Gallagher Premiership Gallagher Premiership</title>
 		<desc>The best of the latest action from the Gallagher Premiership.</desc>
 	</programme>
-	<programme channel="5118" start="20241207090000 +0000" stop="20241207105000 +0000">
+	<programme channel="5118" start="20241207091000 +0000" stop="20241207110000 +0000">
 		<title>Autumn Nations Series Ireland v Australia</title>
 		<desc>Watch all the action in the Autumn Nation Series, as the Southern Hempisphere teams make the long journey north to take on the best that Europe has to offer.</desc>
 	</programme>
-	<programme channel="5118" start="20241207105000 +0000" stop="20241207124500 +0000">
+	<programme channel="5118" start="20241207110000 +0000" stop="20241207125500 +0000">
 		<title>Champions Cup Bath v La Rochelle</title>
-		<desc>Watch all the action from the Investec Champions Cup, the premier competition in European rugby, with Toulouse looking to defend their title.</desc>
+		<desc>Coverage of the Investec Champions Cup as Bath Rugby play host to Stade Rochelais in this Round 1 opening game at the Recreation Ground.</desc>
 	</programme>
-	<programme channel="5118" start="20241207124500 +0000" stop="20241207150000 +0000">
-		<title>LIVE Champions Cup LIVE Clermont Auvergne v Benetton</title>
-		<desc>Watch all the action from the Investec Champions Cup, the premier competition in European rugby, with Toulouse looking to defend their title.</desc>
+	<programme channel="5118" start="20241207125500 +0000" stop="20241207150000 +0000">
+		<title>LIVE Champions Cup LIVE Clermont v Benetton</title>
+		<desc>Coverage of the Investec Champions Cup as Clermont Auvergne and Benetton face off at the Stade Marcel-Michelin.</desc>
+	</programme>
+	<programme channel="5118" start="20241207150000 +0000" stop="20241207151000 +0000">
+		<title>URC Match Highlights Munster v Lions</title>
+		<desc>Catch up on all the match highlights from the most recent round of United Rugby Championship.</desc>
 	</programme>
 	<programme channel="5123" start="20241205160000 +0000" stop="20241205220000 +0000">
 		<title>England Tour of West Indies 2024: 1st ODI Episode 952137</title>
@@ -8418,7 +8406,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 	</programme>
 	<programme channel="6166" start="20241207033000 +0000" stop="20241207040000 +0000">
 		<title>The Media Show</title>
-		<desc>A global, topical weekly show that lifts the hood on the entertainment and news business. The Media Show explores the companies and personalities who command our attention.</desc>
+		<desc>Why Reddit is one of the fastest growing social networks in the world, media tactics in Syria's conflict explained, and what's it like to interview Anna Wintour, Vogue's legendary editor?</desc>
 	</programme>
 	<programme channel="6166" start="20241207040000 +0000" stop="20241207043000 +0000">
 		<title>BBC News</title>
@@ -8470,7 +8458,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 	</programme>
 	<programme channel="6166" start="20241207103000 +0000" stop="20241207110000 +0000">
 		<title>Talking Business (r)</title>
-		<desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+		<desc>How damaging will Donald Trump's tariff plans be to the global economy? China, Mexico and Canada are the USA's three biggest trading partners and they're all in the sights of the US president-elect.</desc>
 	</programme>
 	<programme channel="6166" start="20241207110000 +0000" stop="20241207113000 +0000">
 		<title>BBC News</title>
@@ -8493,8 +8481,8 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<desc>The latest news from the BBC including sport.</desc>
 	</programme>
 	<programme channel="6166" start="20241207133000 +0000" stop="20241207140000 +0000">
-		<title>Americast</title>
-		<desc>The latest analysis on American politics.</desc>
+		<title>Path to the Presidency (r)</title>
+		<desc>Join Caitríona Perry and Sumi Somaskanda for a dynamic weekly discussion on the US election.</desc>
 	</programme>
 	<programme channel="6166" start="20241207140000 +0000" stop="20241207143000 +0000">
 		<title>BBC News</title>
@@ -8502,7 +8490,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 	</programme>
 	<programme channel="6166" start="20241207143000 +0000" stop="20241207150000 +0000">
 		<title>The Media Show (r)</title>
-		<desc>A global, topical weekly show that lifts the hood on the entertainment and news business. The Media Show explores the companies and personalities who command our attention.</desc>
+		<desc>Why Reddit is one of the fastest growing social networks in the world, media tactics in Syria's conflict explained, and what's it like to interview Anna Wintour, Vogue's legendary editor?</desc>
 	</programme>
 	<programme channel="6166" start="20241207150000 +0000" stop="20241207153000 +0000">
 		<title>BBC News</title>
@@ -8805,144 +8793,136 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<desc>Matt Miller, Katie Greifeld and Sonali Basak deliver the market-moving news you need to know to get a jump start on the US trading day.</desc>
 	</programme>
 	<programme channel="5171" start="20241206160000 +0000" stop="20241206170000 +0000">
-		<title>Bloomberg Markets: European Close</title>
-		<desc>Analysing the major market moving stories across the day in Europe, hearing from the biggest newsmakers, and showcasing the unrivalled expertise of Bloomberg News.</desc>
+		<title>Bloomberg Technology</title>
+		<desc>The only daily news programme focused exclusively on technology, innovation and the future of business. Hosted by Ed Ludlow from San Francisco and Caroline Hyde in New York.</desc>
 	</programme>
-	<programme channel="5171" start="20241206170000 +0000" stop="20241206180000 +0000">
-		<title>Bloomberg: Balance of Power</title>
-		<desc>Bloomberg: Balance of Power focuses on the politics and policies being shaped by the agenda of President Biden's administration.</desc>
-	</programme>
-	<programme channel="5171" start="20241206180000 +0000" stop="20241206183000 +0000">
+	<programme channel="5171" start="20241206170000 +0000" stop="20241206173000 +0000">
 		<title>Bloomberg Real Yield</title>
 		<desc>Focusing on global issues and events that directly affect debt markets. Host Jonathan Ferro discusses stories from the fixed income world with the biggest names in the field.</desc>
 	</programme>
-	<programme channel="5171" start="20241206183000 +0000" stop="20241206190000 +0000">
+	<programme channel="5171" start="20241206173000 +0000" stop="20241206180000 +0000">
 		<title>Bloomberg Markets</title>
 		<desc>Bloomberg Markets is focused on bringing you the most important global business and breaking markets news and information as it happens.</desc>
 	</programme>
-	<programme channel="5171" start="20241206190000 +0000" stop="20241206213000 +0000">
-		<title>Bloomberg Markets: The Close</title>
-		<desc>Romaine Bostick, Alix Steel and Scarlet Fu break down the day's top stories and trading action around the close.</desc>
+	<programme channel="5171" start="20241206180000 +0000" stop="20241206190000 +0000">
+		<title>Bloomberg: Balance of Power</title>
+		<desc>Bloomberg: Balance of Power focuses on the politics and policies being shaped by the agenda of President Biden's administration.</desc>
 	</programme>
-	<programme channel="5171" start="20241206213000 +0000" stop="20241206220000 +0000">
-		<title>Bloomberg Markets: What'd You Miss?</title>
-		<desc>Bloomberg TV's flagship markets programme, providing key insights, analysis and context at the market close. It's a highly intelligent look at the markets that misses nothing.</desc>
+	<programme channel="5171" start="20241206190000 +0000" stop="20241206200000 +0000">
+		<title>Bloomberg BusinessWeek</title>
+		<desc>Carol Massar and Tim Stenovec bring together the latest news from the world of business and finance by harnessing the power of Bloomberg Businessweek reporters and editors.</desc>
+	</programme>
+	<programme channel="5171" start="20241206200000 +0000" stop="20241206220000 +0000">
+		<title>Bloomberg The Close</title>
+		<desc>Alix Steel, Romaine Bostick and Scarlet Fu own the market-moving breaking news around the closing bell in this must-watch daily program to get an edge on equities, earnings and the economy.</desc>
 	</programme>
 	<programme channel="5171" start="20241206220000 +0000" stop="20241206230000 +0000">
-		<title>Bloomberg Technology</title>
-		<desc>The only daily news programme focused exclusively on technology, innovation and the future of business. Hosted by Ed Ludlow from San Francisco and Caroline Hyde in New York.</desc>
+		<title>Bloomberg: Balance of Power</title>
+		<desc>Bloomberg: Balance of Power focuses on the politics and policies being shaped by the agenda of President Biden's administration.</desc>
 	</programme>
 	<programme channel="5171" start="20241206230000 +0000" stop="20241207000000 +0000">
 		<title>Bloomberg Wall Street Week</title>
 		<desc>A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York.</desc>
 	</programme>
 	<programme channel="5171" start="20241207000000 +0000" stop="20241207003000 +0000">
-		<title>Leaders with Lacqua</title>
-		<desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
+		<title>Bloomberg Investigates</title>
+		<desc>Fake permits, undercover informants and millions of dollars. How a US government agency set out to prove suppliers to research labs were importing wild monkeys from Cambodia with false paperwork.</desc>
 	</programme>
 	<programme channel="5171" start="20241207003000 +0000" stop="20241207010000 +0000">
-		<title>Athlete | Empire: Alex Rodriguez</title>
-		<desc>Former baseball pro Alex Rodriguez quietly built a real estate empire over 20 years. Now, after retiring from baseball, he's accelerating his transformation from former athlete to investor and owner.</desc>
+		<title>Momentum</title>
+		<desc>Haslinda Amin reveals the burgeoning role of India's private space firms and their recent advances. Leaders and innovators divulge how they are pushing the boundaries of space.</desc>
 	</programme>
 	<programme channel="5171" start="20241207010000 +0000" stop="20241207013000 +0000">
-		<title>Bloomberg Studio 1.0</title>
-		<desc>Roblox CEO &amp; Co-Founder David Baszucki. Bloomberg talks to David Baszucki about the success of the online gaming platform, Roblox.</desc>
+		<title>The Earthshot Prize Innovation Summit 2024</title>
+		<desc>This special Bloomberg program highlights the Best of The Earthshot Prize Innovation Summit 2024's biggest interviews and news makers.</desc>
 	</programme>
 	<programme channel="5171" start="20241207013000 +0000" stop="20241207020000 +0000">
-		<title>Leaders with Lacqua</title>
-		<desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
+		<title>Best of the Global Business Forum 2024</title>
+		<desc>Discussions focused on aligning governments and businesses around major trends, risks and opportunities impacting global markets.</desc>
 	</programme>
 	<programme channel="5171" start="20241207020000 +0000" stop="20241207023000 +0000">
 		<title>The David Rubenstein Show</title>
-		<desc>Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
+		<desc>Mohamed Kalifa Al Mubarak, Abu Dhabi Department of Culture &amp; Tourism Chairman. David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
 	</programme>
 	<programme channel="5171" start="20241207023000 +0000" stop="20241207030000 +0000">
-		<title>Bloomberg Studio 1.0</title>
-		<desc>Roblox CEO &amp; Co-Founder David Baszucki. Bloomberg talks to David Baszucki about the success of the online gaming platform, Roblox.</desc>
+		<title>Posthuman</title>
+		<desc>From birth to death, tech is stretching the boundaries of biology. In this episode of Posthuman, we explore the discoveries that could transform reproduction, healthcare and how we die.</desc>
 	</programme>
 	<programme channel="5171" start="20241207030000 +0000" stop="20241207040000 +0000">
 		<title>Bloomberg Wall Street Week</title>
 		<desc>A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York.</desc>
 	</programme>
 	<programme channel="5171" start="20241207040000 +0000" stop="20241207043000 +0000">
-		<title>Leaders with Lacqua</title>
-		<desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
+		<title>The Circuit</title>
+		<desc>The Advanced Micro Devices CEO spent the better part of her ten year career engineering one of the biggest turnarounds in Silicon Valley history. Now she's preparing for battle against NVIDIA.</desc>
 	</programme>
 	<programme channel="5171" start="20241207043000 +0000" stop="20241207050000 +0000">
-		<title>Bloomberg Studio 1.0</title>
-		<desc>Roblox CEO &amp; Co-Founder David Baszucki. Bloomberg talks to David Baszucki about the success of the online gaming platform, Roblox.</desc>
+		<title>Inside Adani: A Bloomberg Exclusive</title>
+		<desc>With unprecedented access to each of the scions and Gautam Adani himself, we see what succession looks like inside one of the wealthiest and most opaque family businesses in the world.</desc>
 	</programme>
-	<programme channel="5171" start="20241207050000 +0000" stop="20241207053000 +0000">
-		<title>Leaders with Lacqua</title>
-		<desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
-	</programme>
-	<programme channel="5171" start="20241207053000 +0000" stop="20241207060000 +0000">
-		<title>Bloomberg Wealth with David Rubenstein</title>
-		<desc>Renowned financier and philanthropist David Rubenstein talks with the world's most successful investors, who share their investing strategies and tactics.</desc>
+	<programme channel="5171" start="20241207050000 +0000" stop="20241207060000 +0000">
+		<title>Best of the Bloomberg Green Festival</title>
+		<desc>Highlights of the biggest interviews and news makers at The Bloomberg Green Festival in Seattle - a global collaboration held to explore new solutions spanning the entire climate spectrum.</desc>
 	</programme>
 	<programme channel="5171" start="20241207060000 +0000" stop="20241207063000 +0000">
-		<title>Bloomberg Wealth with David Rubenstein</title>
-		<desc>Renowned financier and philanthropist David Rubenstein talks with the world's most successful investors, who share their investing strategies and tactics.</desc>
+		<title>Bloomberg Screentime: Defining the Next Phase of Pop Culture</title>
+		<desc>Screentime gathers the moguls, celebrities, and entrepreneurs defining the next phase of pop culture, including Michael Rapino, Clara Wu Tsai, Brian Roberts, Bela Bajaria and Snoop Dogg.</desc>
 	</programme>
 	<programme channel="5171" start="20241207063000 +0000" stop="20241207070000 +0000">
-		<title>Athlete | Empire: Alex Rodriguez</title>
-		<desc>Former baseball pro Alex Rodriguez quietly built a real estate empire over 20 years. Now, after retiring from baseball, he's accelerating his transformation from former athlete to investor and owner.</desc>
+		<title>Best of the Global Business Forum 2024</title>
+		<desc>Discussions focused on aligning governments and businesses around major trends, risks and opportunities impacting global markets.</desc>
 	</programme>
 	<programme channel="5171" start="20241207070000 +0000" stop="20241207073000 +0000">
-		<title>Bloomberg Studio 1.0</title>
-		<desc>Roblox CEO &amp; Co-Founder David Baszucki. Bloomberg talks to David Baszucki about the success of the online gaming platform, Roblox.</desc>
+		<title>Bloomberg New Economy: New Reality, New Rules</title>
+		<desc>Special coverage of the Bloomberg New Economy event. CEOs and government leaders talk about the challenges they face: Trade barriers, technological disruption, environmental catastrophes.</desc>
 	</programme>
 	<programme channel="5171" start="20241207073000 +0000" stop="20241207080000 +0000">
-		<title>Bloomberg Studio 1.0</title>
-		<desc>Roblox CEO &amp; Co-Founder David Baszucki. Bloomberg talks to David Baszucki about the success of the online gaming platform, Roblox.</desc>
+		<title>The Earthshot Prize Innovation Summit 2024</title>
+		<desc>This special Bloomberg program highlights the Best of The Earthshot Prize Innovation Summit 2024's biggest interviews and news makers.</desc>
 	</programme>
 	<programme channel="5171" start="20241207080000 +0000" stop="20241207090000 +0000">
 		<title>Bloomberg Wall Street Week</title>
 		<desc>A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York.</desc>
 	</programme>
 	<programme channel="5171" start="20241207090000 +0000" stop="20241207093000 +0000">
-		<title>Leaders with Lacqua</title>
-		<desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
+		<title>The Circuit</title>
+		<desc>The Advanced Micro Devices CEO spent the better part of her ten year career engineering one of the biggest turnarounds in Silicon Valley history. Now she's preparing for battle against NVIDIA.</desc>
 	</programme>
 	<programme channel="5171" start="20241207093000 +0000" stop="20241207100000 +0000">
-		<title>Bloomberg Studio 1.0</title>
-		<desc>Roblox CEO &amp; Co-Founder David Baszucki. Bloomberg talks to David Baszucki about the success of the online gaming platform, Roblox.</desc>
-	</programme>
-	<programme channel="5171" start="20241207100000 +0000" stop="20241207103000 +0000">
-		<title>Bloomberg Wealth with David Rubenstein</title>
-		<desc>Renowned financier and philanthropist David Rubenstein talks with the world's most successful investors, who share their investing strategies and tactics.</desc>
-	</programme>
-	<programme channel="5171" start="20241207103000 +0000" stop="20241207110000 +0000">
 		<title>Leaders with Lacqua</title>
-		<desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
+		<desc>In a rare interview, Chanel CEO Leena Nair speaks about her professional and personal journey, how it defines her leadership style, and her unique approach at the top of luxury.</desc>
+	</programme>
+	<programme channel="5171" start="20241207100000 +0000" stop="20241207110000 +0000">
+		<title>Idea Generation</title>
+		<desc>Ideas are the global currency of the 21st century. But how do you come up with, execute, and operationalise one? The answers are what separates successful creative influences from everyone else.</desc>
 	</programme>
 	<programme channel="5171" start="20241207110000 +0000" stop="20241207120000 +0000">
 		<title>Bloomberg Wall Street Week</title>
 		<desc>A weekly program telling the stories of capitalism from around the world, hosted by David Westin in New York.</desc>
 	</programme>
 	<programme channel="5171" start="20241207120000 +0000" stop="20241207123000 +0000">
-		<title>Bloomberg Green</title>
-		<desc>Climate change is the defining story of our time. Bloomberg Green brings you the news, science, and data to understand it in full. Hosted by Kailey Leinz.</desc>
+		<title>Bloomberg Investigates</title>
+		<desc>Fake permits, undercover informants and millions of dollars. How a US government agency set out to prove suppliers to research labs were importing wild monkeys from Cambodia with false paperwork.</desc>
 	</programme>
 	<programme channel="5171" start="20241207123000 +0000" stop="20241207130000 +0000">
-		<title>Athlete | Empire: Alex Rodriguez</title>
-		<desc>Former baseball pro Alex Rodriguez quietly built a real estate empire over 20 years. Now, after retiring from baseball, he's accelerating his transformation from former athlete to investor and owner.</desc>
+		<title>The Earthshot Prize Innovation Summit 2024</title>
+		<desc>This special Bloomberg program highlights the Best of The Earthshot Prize Innovation Summit 2024's biggest interviews and news makers.</desc>
 	</programme>
 	<programme channel="5171" start="20241207130000 +0000" stop="20241207133000 +0000">
-		<title>Leaders with Lacqua</title>
-		<desc>Francine Lacqua interviews some of the most influential people on the planet.</desc>
+		<title>Posthuman</title>
+		<desc>From birth to death, tech is stretching the boundaries of biology. In this episode of Posthuman, we explore the discoveries that could transform reproduction, healthcare and how we die.</desc>
 	</programme>
 	<programme channel="5171" start="20241207133000 +0000" stop="20241207140000 +0000">
-		<title>Bloomberg Studio 1.0</title>
-		<desc>Roblox CEO &amp; Co-Founder David Baszucki. Bloomberg talks to David Baszucki about the success of the online gaming platform, Roblox.</desc>
+		<title>Best of the Global Business Forum 2024</title>
+		<desc>Discussions focused on aligning governments and businesses around major trends, risks and opportunities impacting global markets.</desc>
 	</programme>
 	<programme channel="5171" start="20241207140000 +0000" stop="20241207143000 +0000">
 		<title>The David Rubenstein Show</title>
-		<desc>Philanthropist and financier David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
+		<desc>Mohamed Kalifa Al Mubarak, Abu Dhabi Department of Culture &amp; Tourism Chairman. David Rubenstein uncovers inside stories from the most influential minds in business.</desc>
 	</programme>
 	<programme channel="5171" start="20241207143000 +0000" stop="20241207150000 +0000">
-		<title>Bloomberg Wealth with David Rubenstein</title>
-		<desc>Renowned financier and philanthropist David Rubenstein talks with the world's most successful investors, who share their investing strategies and tactics.</desc>
+		<title>Bloomberg New Economy: New Reality, New Rules</title>
+		<desc>Special coverage of the Bloomberg New Economy event. CEOs and government leaders talk about the challenges they face: Trade barriers, technological disruption, environmental catastrophes.</desc>
 	</programme>
 	<programme channel="5173" start="20241205160000 +0000" stop="20241205163000 +0000">
 		<title>Us Money Movers</title>
@@ -28239,12 +28219,8 @@ Kaikoura盛产龙虾，海底遗留大量捕笼。港女野人今集任务就是
 		<title>Siragadikka Aasai Episode 556</title>
 		<desc>Meena and Muthukumar, both carrying emotional baggage, struggle through challenges in their marriage due to their troubled backgrounds.</desc>
 	</programme>
-	<programme channel="5634" start="20241206023000 +0000" stop="20241206033000 +0000">
+	<programme channel="5634" start="20241206023000 +0000" stop="20241206040000 +0000">
 		<title>Bigg Boss Tamil S08 Episode 60</title>
-		<desc>Bigg Boss Tamil Season 8 starts with 18 diverse contestants for thrilling entertainment!</desc>
-	</programme>
-	<programme channel="5634" start="20241206033000 +0000" stop="20241206040000 +0000">
-		<title>Bigg Boss Tamil S08 Plus Episode 43</title>
 		<desc>Bigg Boss Tamil Season 8 starts with 18 diverse contestants for thrilling entertainment!</desc>
 	</programme>
 	<programme channel="5634" start="20241206040000 +0000" stop="20241206053000 +0000">
@@ -28449,7 +28425,7 @@ Kaikoura盛产龙虾，海底遗留大量捕笼。港女野人今集任务就是
 	</programme>
 	<programme channel="5634" start="20241207100000 +0000" stop="20241207103000 +0000">
 		<title>Star Talk With Vinay - South Meets North S02 Episode 7</title>
-		<desc>Star Talk With Vinay - South Meets North S02</desc>
+		<desc>Dive into our exclusive interview that showcases versatility and charm, revealing insights that are both engaging and thought-provoking. Don't miss out on this fascinating conversation!</desc>
 	</programme>
 	<programme channel="5634" start="20241207103000 +0000" stop="20241207120000 +0000">
 		<title>Super Singer Junior S10 Episode 7</title>
@@ -28469,10 +28445,6 @@ Kaikoura盛产龙虾，海底遗留大量捕笼。港女野人今集任务就是
 	</programme>
 	<programme channel="5634" start="20241207133000 +0000" stop="20241207150000 +0000">
 		<title>Bigg Boss Tamil S08 Episode 62</title>
-		<desc>Bigg Boss Tamil Season 8 starts with 18 diverse contestants for thrilling entertainment!</desc>
-	</programme>
-	<programme channel="5634" start="20241207150000 +0000" stop="20241207153000 +0000">
-		<title>Bigg Boss Tamil S08 Plus Episode 45</title>
 		<desc>Bigg Boss Tamil Season 8 starts with 18 diverse contestants for thrilling entertainment!</desc>
 	</programme>
 	<programme channel="5638" start="20241205160000 +0000" stop="20241205163000 +0000">
@@ -28727,11 +28699,11 @@ Kaikoura盛产龙虾，海底遗留大量捕笼。港女野人今集任务就是
 		<title>Ee Parakkumthalika</title>
 		<desc>Unni and Sundaresan ply a bus service, Things take a turn when a woman enters. Release Year: 2001</desc>
 	</programme>
-	<programme channel="5639" start="20241206043000 +0000" stop="20241206073000 +0000">
+	<programme channel="5639" start="20241206043000 +0000" stop="20241206072500 +0000">
 		<title>Neyyattinkara Gopante Aaraattu</title>
 		<desc>Edathala Mathai leases his land to Gopan to prevent farmland conversion, facing initial local opposition. Gopan later earns their support. Release Year: 2022 Director: B. Unnikrishnan</desc>
 	</programme>
-	<programme channel="5639" start="20241206073000 +0000" stop="20241206103000 +0000">
+	<programme channel="5639" start="20241206072500 +0000" stop="20241206103000 +0000">
 		<title>Varshangalkku Shesham</title>
 		<desc>Two boys from Kerala, Murali and Venu, become friends across time periods. Release Year: 2024 Director: Vineeth Sreenivasan</desc>
 	</programme>
@@ -28743,19 +28715,19 @@ Kaikoura盛产龙虾，海底遗留大量捕笼。港女野人今集任务就是
 		<title>Bro Daddy</title>
 		<desc>Four cousins who consider each other's relationship as friends decide to walk away from each other when one of them gets married. Soon, their friendship is put to the test. Release Year: 2022 Director: Prithviraj Sukumaran</desc>
 	</programme>
-	<programme channel="5639" start="20241206133000 +0000" stop="20241206163000 +0000">
+	<programme channel="5639" start="20241206133000 +0000" stop="20241206164500 +0000">
 		<title>Bro Daddy</title>
 		<desc>Four cousins who consider each other's relationship as friends decide to walk away from each other when one of them gets married. Soon, their friendship is put to the test. Release Year: 2022 Director: Prithviraj Sukumaran</desc>
 	</programme>
-	<programme channel="5639" start="20241206163000 +0000" stop="20241206193000 +0000">
-		<title>Thuruppugulan</title>
-		<desc>Menon is framed by his aides. His daughter seeks Kunjumon's help.</desc>
+	<programme channel="5639" start="20241206164500 +0000" stop="20241206194000 +0000">
+		<title>Thuruppu Gulan</title>
+		<desc>Menon is framed by his aides. His daughter seeks Kunjumon's help. Release Year: 2006 Director: Johny Antony</desc>
 	</programme>
-	<programme channel="5639" start="20241206193000 +0000" stop="20241206220000 +0000">
+	<programme channel="5639" start="20241206194000 +0000" stop="20241206220500 +0000">
 		<title>New Delhi</title>
 		<desc>An honest journalist is declared unstable and sent to languish in a mental asylum when he tries to expose two corrupt politicians. Release Year: 1987 Director: Joshiy</desc>
 	</programme>
-	<programme channel="5639" start="20241206220000 +0000" stop="20241207003000 +0000">
+	<programme channel="5639" start="20241206220500 +0000" stop="20241207003000 +0000">
 		<title>Udanpirappe</title>
 		<desc>Mathangi's husband and her bro have clashing beliefs. She tries to mend the rift.</desc>
 	</programme>
@@ -28769,19 +28741,15 @@ Kaikoura盛产龙虾，海底遗留大量捕笼。港女野人今集任务就是
 	</programme>
 	<programme channel="5639" start="20241207043000 +0000" stop="20241207073000 +0000">
 		<title>Garudan</title>
-		<desc>Harish Madhav, a straightforward cop, and Nishanth, a college professor, get entangled in a crime and one has to fight for his integrity and other has to fight for justice.</desc>
+		<desc>Harish Madhav, a straightforward cop, and Nishanth, a college professor, get entangled in a crime and one has to fight for his integrity and other has to fight for justice. Release Year: 2023 Director: Arun Varma</desc>
 	</programme>
 	<programme channel="5639" start="20241207073000 +0000" stop="20241207103000 +0000">
 		<title>Aattam</title>
-		<desc>A theatre group's party leads to crime, suspicions, and unraveling secrets.</desc>
+		<desc>A theatre group's party leads to crime, suspicions, and unraveling secrets. Release Year: 2023 Director: Anand Ekarshi Awards: National Film Award for Best Feature Film,National Film Award for Best Editing,National Film Award for Best Screenplay</desc>
 	</programme>
 	<programme channel="5639" start="20241207103000 +0000" stop="20241207133000 +0000">
 		<title>Kuberan</title>
 		<desc>Sidharthan faces several challenges when he helps Pooja deal with her past. Release Year: 2002 Director: Sundardas</desc>
-	</programme>
-	<programme channel="5639" start="20241207133000 +0000" stop="20241207153000 +0000">
-		<title>Aye Auto</title>
-		<desc>The love of an orphan and an auto driver is opposed by the girl's grandmother.</desc>
 	</programme>
 	<programme channel="5644" start="20241205155400 +0000" stop="20241205161700 +0000">
 		<title>Pashminna - Dhaage Mohabbat Ke Episode 64</title>
@@ -29721,15 +29689,15 @@ Kaikoura盛产龙虾，海底遗留大量捕笼。港女野人今集任务就是
 	</programme>
 	<programme channel="5652" start="20241205160000 +0000" stop="20241205163000 +0000">
 		<title>Appollena - Sapno Ki Unchi Udann Episode 2</title>
-		<desc>Apollena, who hails from Lucknow, aspires to become India's first female astronaut even as societal barriers, her academic setbacks and her father's imprisonment threaten to crush her dreams.</desc>
+		<desc>While the family prepares to celebrate Apollena's birthday, a team of police officers pay an unexpected visit to the house. Later, Apollena is left aghast when the police forcibly arrest Giridhar.</desc>
 	</programme>
 	<programme channel="5652" start="20241205163000 +0000" stop="20241205170000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 80</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Anurag faces stiff opposition from his family when he accompanies Durga to their family home. However, Durga remains unfazed and boldly asserts her rights in the household.</desc>
 	</programme>
 	<programme channel="5652" start="20241205170000 +0000" stop="20241205173000 +0000">
 		<title>Mera Balam Thanedaar Episode 242</title>
-		<desc>An amiable girl who believes in supporting the lie if someone benefits for good marries a police officer under unfortunate circumstances.</desc>
+		<desc>Disguised as a masked stranger, Bulbul secretly trails Vansh as the latter plans to meet his accomplice behind the temple heist.</desc>
 	</programme>
 	<programme channel="5652" start="20241205173000 +0000" stop="20241205180000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 528</title>
@@ -29741,7 +29709,7 @@ Kaikoura盛产龙虾，海底遗留大量捕笼。港女野人今集任务就是
 	</programme>
 	<programme channel="5652" start="20241205183000 +0000" stop="20241205190000 +0000">
 		<title>Appollena - Sapno Ki Unchi Udann Episode 2</title>
-		<desc>Apollena, who hails from Lucknow, aspires to become India's first female astronaut even as societal barriers, her academic setbacks and her father's imprisonment threaten to crush her dreams.</desc>
+		<desc>While the family prepares to celebrate Apollena's birthday, a team of police officers pay an unexpected visit to the house. Later, Apollena is left aghast when the police forcibly arrest Giridhar.</desc>
 	</programme>
 	<programme channel="5652" start="20241205190000 +0000" stop="20241205193000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 528</title>
@@ -29749,15 +29717,15 @@ Kaikoura盛产龙虾，海底遗留大量捕笼。港女野人今集任务就是
 	</programme>
 	<programme channel="5652" start="20241205193000 +0000" stop="20241205200000 +0000">
 		<title>Mangal Lakshmi Episode 281</title>
-		<desc>Mangal searches for a perfect husband for her sister, Lakshmi, revealing the enduring strength of sisterhood and the power of destiny over this journey.</desc>
+		<desc>Adit makes the difficult decision of relocating Soumya to his family home after learning about her pregnancy. However, things take a turn when Kusum refuses to entertain Soumya inside the family home.</desc>
 	</programme>
 	<programme channel="5652" start="20241205200000 +0000" stop="20241205203000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 80</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Anurag faces stiff opposition from his family when he accompanies Durga to their family home. However, Durga remains unfazed and boldly asserts her rights in the household.</desc>
 	</programme>
 	<programme channel="5652" start="20241205203000 +0000" stop="20241205210000 +0000">
 		<title>Mera Balam Thanedaar Episode 242</title>
-		<desc>An amiable girl who believes in supporting the lie if someone benefits for good marries a police officer under unfortunate circumstances.</desc>
+		<desc>Disguised as a masked stranger, Bulbul secretly trails Vansh as the latter plans to meet his accomplice behind the temple heist.</desc>
 	</programme>
 	<programme channel="5652" start="20241205210000 +0000" stop="20241205213000 +0000">
 		<title>Parineetii Episode 954</title>
@@ -29765,7 +29733,7 @@ Kaikoura盛产龙虾，海底遗留大量捕笼。港女野人今集任务就是
 	</programme>
 	<programme channel="5652" start="20241205213000 +0000" stop="20241205220000 +0000">
 		<title>Megha Barsenge Episode 121</title>
-		<desc>After a groom absconds from his wedding, his bride is left at the mercy of her sentiments of abandonment and to endure a judgemental societal structure.</desc>
+		<desc>Arjun grows suspicious when Megha makes a desperate effort to conceal a secret. While Megha's mother tries to comfort her, Arjun vows to uncover the truth.</desc>
 	</programme>
 	<programme channel="5652" start="20241205220000 +0000" stop="20241205223000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 528</title>
@@ -29781,15 +29749,15 @@ Kaikoura盛产龙虾，海底遗留大量捕笼。港女野人今集任务就是
 	</programme>
 	<programme channel="5652" start="20241205233000 +0000" stop="20241206000000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 80</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Anurag faces stiff opposition from his family when he accompanies Durga to their family home. However, Durga remains unfazed and boldly asserts her rights in the household.</desc>
 	</programme>
 	<programme channel="5652" start="20241206000000 +0000" stop="20241206003000 +0000">
 		<title>Mera Balam Thanedaar Episode 242</title>
-		<desc>An amiable girl who believes in supporting the lie if someone benefits for good marries a police officer under unfortunate circumstances.</desc>
+		<desc>Disguised as a masked stranger, Bulbul secretly trails Vansh as the latter plans to meet his accomplice behind the temple heist.</desc>
 	</programme>
 	<programme channel="5652" start="20241206003000 +0000" stop="20241206010000 +0000">
 		<title>Mangal Lakshmi Episode 281</title>
-		<desc>Mangal searches for a perfect husband for her sister, Lakshmi, revealing the enduring strength of sisterhood and the power of destiny over this journey.</desc>
+		<desc>Adit makes the difficult decision of relocating Soumya to his family home after learning about her pregnancy. However, things take a turn when Kusum refuses to entertain Soumya inside the family home.</desc>
 	</programme>
 	<programme channel="5652" start="20241206010000 +0000" stop="20241206013000 +0000">
 		<title>Suman Indori Episode 93</title>
@@ -29797,11 +29765,11 @@ Kaikoura盛产龙虾，海底遗留大量捕笼。港女野人今集任务就是
 	</programme>
 	<programme channel="5652" start="20241206013000 +0000" stop="20241206020000 +0000">
 		<title>Appollena - Sapno Ki Unchi Udann Episode 2</title>
-		<desc>Apollena, who hails from Lucknow, aspires to become India's first female astronaut even as societal barriers, her academic setbacks and her father's imprisonment threaten to crush her dreams.</desc>
+		<desc>While the family prepares to celebrate Apollena's birthday, a team of police officers pay an unexpected visit to the house. Later, Apollena is left aghast when the police forcibly arrest Giridhar.</desc>
 	</programme>
 	<programme channel="5652" start="20241206020000 +0000" stop="20241206023000 +0000">
 		<title>Megha Barsenge Episode 121</title>
-		<desc>After a groom absconds from his wedding, his bride is left at the mercy of her sentiments of abandonment and to endure a judgemental societal structure.</desc>
+		<desc>Arjun grows suspicious when Megha makes a desperate effort to conceal a secret. While Megha's mother tries to comfort her, Arjun vows to uncover the truth.</desc>
 	</programme>
 	<programme channel="5652" start="20241206023000 +0000" stop="20241206030000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 528</title>
@@ -29817,7 +29785,7 @@ Kaikoura盛产龙虾，海底遗留大量捕笼。港女野人今集任务就是
 	</programme>
 	<programme channel="5652" start="20241206040000 +0000" stop="20241206043000 +0000">
 		<title>Mera Balam Thanedaar Episode 243</title>
-		<desc>An amiable girl who believes in supporting the lie if someone benefits for good marries a police officer under unfortunate circumstances.</desc>
+		<desc>Bulbul uses a cunning ploy to uncover Vansh's true motives. Later, a heated argument erupts when Vansh accuses Veer's family members of treating him as an outsider.</desc>
 	</programme>
 	<programme channel="5652" start="20241206043000 +0000" stop="20241206050000 +0000">
 		<title>Suman Indori Episode 94</title>
@@ -29825,7 +29793,7 @@ Kaikoura盛产龙虾，海底遗留大量捕笼。港女野人今集任务就是
 	</programme>
 	<programme channel="5652" start="20241206050000 +0000" stop="20241206053000 +0000">
 		<title>Megha Barsenge Episode 122</title>
-		<desc>After a groom absconds from his wedding, his bride is left at the mercy of her sentiments of abandonment and to endure a judgemental societal structure.</desc>
+		<desc>Tempers flare when Arjun gets wind of Megha's attempts to conceal the news of her pregnancy. Eventually, things take an unfortunate turn when Arjun questions his relationship with Megha.</desc>
 	</programme>
 	<programme channel="5652" start="20241206053000 +0000" stop="20241206060000 +0000">
 		<title>Parineetii Episode 955</title>
@@ -29837,7 +29805,7 @@ Kaikoura盛产龙虾，海底遗留大量捕笼。港女野人今集任务就是
 	</programme>
 	<programme channel="5652" start="20241206063000 +0000" stop="20241206070000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 81</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Paani Bai is shocked to learn about Anurag's decision to fund Durga's academic pursuits. However, a heated altercation erupts when Paani Bai demands that Durga return the money immediately.</desc>
 	</programme>
 	<programme channel="5652" start="20241206070000 +0000" stop="20241206073000 +0000">
 		<title>Mangal Lakshmi Episode 282</title>
@@ -29845,11 +29813,11 @@ Kaikoura盛产龙虾，海底遗留大量捕笼。港女野人今集任务就是
 	</programme>
 	<programme channel="5652" start="20241206073000 +0000" stop="20241206090000 +0000">
 		<title>Bigg Boss Episode 59</title>
-		<desc>As Bigg Boss delves into the future of the contestants with the cataclysm of technology, the housemates try to conquer 'Time Ka Tandav', and emerge victorious in a locked house in BB's surveillance.</desc>
+		<desc>Tempers flare and dormant rivalries are reignited when Rajat Dalal and Digvijay Singh Rathee lock horns to secure the crown of Time God.</desc>
 	</programme>
 	<programme channel="5652" start="20241206090000 +0000" stop="20241206093000 +0000">
 		<title>Mangal Lakshmi Episode 281</title>
-		<desc>Mangal searches for a perfect husband for her sister, Lakshmi, revealing the enduring strength of sisterhood and the power of destiny over this journey.</desc>
+		<desc>Adit makes the difficult decision of relocating Soumya to his family home after learning about her pregnancy. However, things take a turn when Kusum refuses to entertain Soumya inside the family home.</desc>
 	</programme>
 	<programme channel="5652" start="20241206093000 +0000" stop="20241206100000 +0000">
 		<title>Appollena - Sapno Ki Unchi Udann Episode 3</title>
@@ -29857,7 +29825,7 @@ Kaikoura盛产龙虾，海底遗留大量捕笼。港女野人今集任务就是
 	</programme>
 	<programme channel="5652" start="20241206100000 +0000" stop="20241206103000 +0000">
 		<title>Mera Balam Thanedaar Episode 243</title>
-		<desc>An amiable girl who believes in supporting the lie if someone benefits for good marries a police officer under unfortunate circumstances.</desc>
+		<desc>Bulbul uses a cunning ploy to uncover Vansh's true motives. Later, a heated argument erupts when Vansh accuses Veer's family members of treating him as an outsider.</desc>
 	</programme>
 	<programme channel="5652" start="20241206103000 +0000" stop="20241206110000 +0000">
 		<title>Suman Indori Episode 94</title>
@@ -29865,7 +29833,7 @@ Kaikoura盛产龙虾，海底遗留大量捕笼。港女野人今集任务就是
 	</programme>
 	<programme channel="5652" start="20241206110000 +0000" stop="20241206113000 +0000">
 		<title>Megha Barsenge Episode 122</title>
-		<desc>After a groom absconds from his wedding, his bride is left at the mercy of her sentiments of abandonment and to endure a judgemental societal structure.</desc>
+		<desc>Tempers flare when Arjun gets wind of Megha's attempts to conceal the news of her pregnancy. Eventually, things take an unfortunate turn when Arjun questions his relationship with Megha.</desc>
 	</programme>
 	<programme channel="5652" start="20241206113000 +0000" stop="20241206120000 +0000">
 		<title>Parineetii Episode 955</title>
@@ -29877,7 +29845,7 @@ Kaikoura盛产龙虾，海底遗留大量捕笼。港女野人今集任务就是
 	</programme>
 	<programme channel="5652" start="20241206123000 +0000" stop="20241206130000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 81</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Paani Bai is shocked to learn about Anurag's decision to fund Durga's academic pursuits. However, a heated altercation erupts when Paani Bai demands that Durga return the money immediately.</desc>
 	</programme>
 	<programme channel="5652" start="20241206130000 +0000" stop="20241206133000 +0000">
 		<title>Mangal Lakshmi Episode 282</title>
@@ -29885,11 +29853,11 @@ Kaikoura盛产龙虾，海底遗留大量捕笼。港女野人今集任务就是
 	</programme>
 	<programme channel="5652" start="20241206133000 +0000" stop="20241206150000 +0000">
 		<title>Bigg Boss Episode 60</title>
-		<desc>As Bigg Boss delves into the future of the contestants with the cataclysm of technology, the housemates try to conquer 'Time Ka Tandav', and emerge victorious in a locked house in BB's surveillance.</desc>
+		<desc>The housemates are in for an unexpected surprise when celebrate filmmaker Anurag Kashyap arrives at the Bigg Boss house.</desc>
 	</programme>
 	<programme channel="5652" start="20241206150000 +0000" stop="20241206153000 +0000">
 		<title>Mera Balam Thanedaar Episode 243</title>
-		<desc>An amiable girl who believes in supporting the lie if someone benefits for good marries a police officer under unfortunate circumstances.</desc>
+		<desc>Bulbul uses a cunning ploy to uncover Vansh's true motives. Later, a heated argument erupts when Vansh accuses Veer's family members of treating him as an outsider.</desc>
 	</programme>
 	<programme channel="5652" start="20241206153000 +0000" stop="20241206160000 +0000">
 		<title>Suman Indori Episode 94</title>
@@ -29901,11 +29869,11 @@ Kaikoura盛产龙虾，海底遗留大量捕笼。港女野人今集任务就是
 	</programme>
 	<programme channel="5652" start="20241206163000 +0000" stop="20241206170000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 81</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Paani Bai is shocked to learn about Anurag's decision to fund Durga's academic pursuits. However, a heated altercation erupts when Paani Bai demands that Durga return the money immediately.</desc>
 	</programme>
 	<programme channel="5652" start="20241206170000 +0000" stop="20241206173000 +0000">
 		<title>Mera Balam Thanedaar Episode 243</title>
-		<desc>An amiable girl who believes in supporting the lie if someone benefits for good marries a police officer under unfortunate circumstances.</desc>
+		<desc>Bulbul uses a cunning ploy to uncover Vansh's true motives. Later, a heated argument erupts when Vansh accuses Veer's family members of treating him as an outsider.</desc>
 	</programme>
 	<programme channel="5652" start="20241206173000 +0000" stop="20241206180000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 529</title>
@@ -29929,11 +29897,11 @@ Kaikoura盛产龙虾，海底遗留大量捕笼。港女野人今集任务就是
 	</programme>
 	<programme channel="5652" start="20241206200000 +0000" stop="20241206203000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 81</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Paani Bai is shocked to learn about Anurag's decision to fund Durga's academic pursuits. However, a heated altercation erupts when Paani Bai demands that Durga return the money immediately.</desc>
 	</programme>
 	<programme channel="5652" start="20241206203000 +0000" stop="20241206210000 +0000">
 		<title>Mera Balam Thanedaar Episode 243</title>
-		<desc>An amiable girl who believes in supporting the lie if someone benefits for good marries a police officer under unfortunate circumstances.</desc>
+		<desc>Bulbul uses a cunning ploy to uncover Vansh's true motives. Later, a heated argument erupts when Vansh accuses Veer's family members of treating him as an outsider.</desc>
 	</programme>
 	<programme channel="5652" start="20241206210000 +0000" stop="20241206213000 +0000">
 		<title>Parineetii Episode 955</title>
@@ -29941,11 +29909,11 @@ Kaikoura盛产龙虾，海底遗留大量捕笼。港女野人今集任务就是
 	</programme>
 	<programme channel="5652" start="20241206213000 +0000" stop="20241206220000 +0000">
 		<title>Megha Barsenge Episode 122</title>
-		<desc>After a groom absconds from his wedding, his bride is left at the mercy of her sentiments of abandonment and to endure a judgemental societal structure.</desc>
+		<desc>Tempers flare when Arjun gets wind of Megha's attempts to conceal the news of her pregnancy. Eventually, things take an unfortunate turn when Arjun questions his relationship with Megha.</desc>
 	</programme>
 	<programme channel="5652" start="20241206220000 +0000" stop="20241206223000 +0000">
 		<title>Parineetii Episode 953</title>
-		<desc>Two best friends who support each other through thick and thin face a problem when circumstance causes both of them to get married to the same man.</desc>
+		<desc>Pari foils a plan to delay Rajeev and the lawyer from getting Neeti's bail but with a twist of fate, Neeti gets freed from jail.</desc>
 	</programme>
 	<programme channel="5652" start="20241206223000 +0000" stop="20241206230000 +0000">
 		<title>Parineetii Episode 954</title>
@@ -29957,15 +29925,15 @@ Kaikoura盛产龙虾，海底遗留大量捕笼。港女野人今集任务就是
 	</programme>
 	<programme channel="5652" start="20241206233000 +0000" stop="20241207000000 +0000">
 		<title>Megha Barsenge Episode 121</title>
-		<desc>After a groom absconds from his wedding, his bride is left at the mercy of her sentiments of abandonment and to endure a judgemental societal structure.</desc>
+		<desc>Arjun grows suspicious when Megha makes a desperate effort to conceal a secret. While Megha's mother tries to comfort her, Arjun vows to uncover the truth.</desc>
 	</programme>
 	<programme channel="5652" start="20241207000000 +0000" stop="20241207003000 +0000">
 		<title>Megha Barsenge Episode 122</title>
-		<desc>After a groom absconds from his wedding, his bride is left at the mercy of her sentiments of abandonment and to endure a judgemental societal structure.</desc>
+		<desc>Tempers flare when Arjun gets wind of Megha's attempts to conceal the news of her pregnancy. Eventually, things take an unfortunate turn when Arjun questions his relationship with Megha.</desc>
 	</programme>
 	<programme channel="5652" start="20241207003000 +0000" stop="20241207010000 +0000">
 		<title>Suman Indori Episode 92</title>
-		<desc>Forced by fate to marry a rich, shrewd politician, Suman embraces obstacles adjusting to her new life while dealing with her sister-in-law who seeks to become the head of the household.</desc>
+		<desc>Teerth agrees to marry Suman for the benefit of his political career. Meanwhile, Devika threatens to expose the truth about Teerth to Suman.</desc>
 	</programme>
 	<programme channel="5652" start="20241207010000 +0000" stop="20241207013000 +0000">
 		<title>Suman Indori Episode 93</title>
@@ -29977,15 +29945,15 @@ Kaikoura盛产龙虾，海底遗留大量捕笼。港女野人今集任务就是
 	</programme>
 	<programme channel="5652" start="20241207020000 +0000" stop="20241207023000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 79</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Emotions run high when Durga and Anurag share their deepest feelings for each other. Meanwhile, Vikram threatens his men with dire consequences for failing to locate Durga's whereabouts.</desc>
 	</programme>
 	<programme channel="5652" start="20241207023000 +0000" stop="20241207030000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 80</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Anurag faces stiff opposition from his family when he accompanies Durga to their family home. However, Durga remains unfazed and boldly asserts her rights in the household.</desc>
 	</programme>
 	<programme channel="5652" start="20241207030000 +0000" stop="20241207033000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 81</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Paani Bai is shocked to learn about Anurag's decision to fund Durga's academic pursuits. However, a heated altercation erupts when Paani Bai demands that Durga return the money immediately.</desc>
 	</programme>
 	<programme channel="5652" start="20241207033000 +0000" stop="20241207040000 +0000">
 		<title>Appollena - Sapno Ki Unchi Udann Episode 4</title>
@@ -30021,7 +29989,7 @@ Kaikoura盛产龙虾，海底遗留大量捕笼。港女野人今集任务就是
 	</programme>
 	<programme channel="5652" start="20241207073000 +0000" stop="20241207090000 +0000">
 		<title>Bigg Boss Episode 60</title>
-		<desc>As Bigg Boss delves into the future of the contestants with the cataclysm of technology, the housemates try to conquer 'Time Ka Tandav', and emerge victorious in a locked house in BB's surveillance.</desc>
+		<desc>The housemates are in for an unexpected surprise when celebrate filmmaker Anurag Kashyap arrives at the Bigg Boss house.</desc>
 	</programme>
 	<programme channel="5652" start="20241207090000 +0000" stop="20241207093000 +0000">
 		<title>Mangal Lakshmi Episode 282</title>
@@ -31131,20 +31099,20 @@ Kaikoura盛产龙虾，海底遗留大量捕笼。港女野人今集任务就是
 		<title>RAJA THE GREAT</title>
 		<desc>Entertainement</desc>
 	</programme>
-	<programme channel="5670" start="20241206153000 +0000" stop="20241206160000 +0000">
+	<programme channel="5670" start="20241206153000 +0000" stop="20241206153000 +0000">
 		<title>BAAHUBALI (THE BEGINNING)</title>
 		<desc>Entertainement</desc>
 	</programme>
-	<programme channel="5670" start="20241206160000 +0000" stop="20241206183000 +0000">
-		<title>Movie</title>
+	<programme channel="5670" start="20241206153000 +0000" stop="20241206183000 +0000">
+		<title>BAAHUBALI (THE BEGINNING)</title>
 		<desc>Entertainement</desc>
 	</programme>
 	<programme channel="5670" start="20241206183000 +0000" stop="20241206213000 +0000">
-		<title>Movie</title>
+		<title>EVVARIKEE CHEPPODU</title>
 		<desc>Entertainement</desc>
 	</programme>
 	<programme channel="5670" start="20241206213000 +0000" stop="20241207003000 +0000">
-		<title>Movie</title>
+		<title>ARJUN</title>
 		<desc>Entertainement</desc>
 	</programme>
 	<programme channel="5670" start="20241207003000 +0000" stop="20241207013000 +0000">
@@ -31152,23 +31120,23 @@ Kaikoura盛产龙虾，海底遗留大量捕笼。港女野人今集任务就是
 		<desc>Entertainement</desc>
 	</programme>
 	<programme channel="5670" start="20241207013000 +0000" stop="20241207033000 +0000">
-		<title>Movie</title>
+		<title>ANUBHAVINCHU RAJA</title>
 		<desc>Entertainement</desc>
 	</programme>
 	<programme channel="5670" start="20241207033000 +0000" stop="20241207063000 +0000">
-		<title>Movie</title>
+		<title>RAJA RAANI</title>
 		<desc>Entertainement</desc>
 	</programme>
 	<programme channel="5670" start="20241207063000 +0000" stop="20241207093000 +0000">
-		<title>Movie</title>
+		<title>GHOST</title>
 		<desc>Entertainement</desc>
 	</programme>
 	<programme channel="5670" start="20241207093000 +0000" stop="20241207123000 +0000">
-		<title>Movie</title>
+		<title>DOOKUDU</title>
 		<desc>Entertainement</desc>
 	</programme>
-	<programme channel="5670" start="20241207123000 +0000" stop="20241207150000 +0000">
-		<title>Movie</title>
+	<programme channel="5670" start="20241207123000 +0000" stop="20241207153000 +0000">
+		<title>KRACK</title>
 		<desc>Entertainement</desc>
 	</programme>
 	<programme channel="5671" start="20241205160000 +0000" stop="20241205163000 +0000">
@@ -31291,89 +31259,97 @@ Kaikoura盛产龙虾，海底遗留大量捕笼。港女野人今集任务就是
 		<title>Bigg Boss S08 - Unseen Extra Cuts</title>
 		<desc>Exclusive behind-the-scenes footage and unseen moments from Bigg Boss Season 8.</desc>
 	</programme>
-	<programme channel="5671" start="20241206180000 +0000" stop="20241206203000 +0000">
+	<programme channel="5671" start="20241206180000 +0000" stop="20241206183000 +0000">
 		<title>Dhamaka</title>
 		<desc>Lookalikes from diverse backgrounds vie for the same girl, facing complications with an unexpected connection.</desc>
 	</programme>
+	<programme channel="5671" start="20241206183000 +0000" stop="20241206203000 +0000">
+		<title>Movie_DHAMAKA</title>
+		<desc>Movie_DHAMAKA</desc>
+	</programme>
 	<programme channel="5671" start="20241206203000 +0000" stop="20241206230000 +0000">
-		<title>Inkokkadu</title>
-		<desc>Suspended RAW agent, devastated by his wife's death at a drug lord's hands, seeks vengeance years later.</desc>
+		<title>Movie_NENE RAJU NENE MANTRI</title>
+		<desc>Movie_NENE RAJU NENE MANTRI</desc>
 	</programme>
 	<programme channel="5671" start="20241206230000 +0000" stop="20241207010000 +0000">
-		<title>Rail</title>
-		<desc>A railway pantry boy falls heads over heels for a make-up artist who is travelling in the New Delhi-Chennai Express.</desc>
+		<title>Movie_KRISHNA ARJUNA YUDHAM</title>
+		<desc>Entertainment</desc>
 	</programme>
 	<programme channel="5671" start="20241207010000 +0000" stop="20241207013000 +0000">
-		<title>Fun Time</title>
-		<desc>Tune into a compilation of comedy clips from the recently released Tollywood movies.</desc>
+		<title>FUN TIME</title>
+		<desc>FUN TIME</desc>
 	</programme>
 	<programme channel="5671" start="20241207013000 +0000" stop="20241207033000 +0000">
-		<title>Aadivaram Star Maa Parivaram</title>
-		<desc>Aadivaram Star Maa Parivaram</desc>
+		<title>AADIVARAM STAR MAA PARIVARAM ® - STAR WARS</title>
+		<desc>AADIVARAM STAR MAA PARIVARAM ® - STAR WARS</desc>
 	</programme>
 	<programme channel="5671" start="20241207033000 +0000" stop="20241207063000 +0000">
-		<title>Pushpa</title>
-		<desc>Violence erupts as police clash with red sandalwood smugglers in Seshachalam forests, South India.</desc>
+		<title>MOVIE_AADI PURUSH</title>
+		<desc>Entertainment</desc>
 	</programme>
 	<programme channel="5671" start="20241207063000 +0000" stop="20241207070000 +0000">
-		<title>Paape Maa Jeevana Jyothi</title>
-		<desc>Jyothi seeks acceptance but faces turmoil as daughter Jeevana is kidnapped, jeopardizing their newfound peace.</desc>
+		<title>Paape Naa Jeevana Jyothi</title>
+		<desc>Story revolves around mother and missed daughter</desc>
 	</programme>
 	<programme channel="5671" start="20241207070000 +0000" stop="20241207073000 +0000">
-		<title>Ninnu Kori</title>
-		<desc>Pallavi invites her ex-boyfriend to stay with her and her husband to prove she is happy. Uma tries to break them up.</desc>
+		<title>NINNU KORI</title>
+		<desc>NINNU KORI</desc>
 	</programme>
 	<programme channel="5671" start="20241207073000 +0000" stop="20241207080000 +0000">
-		<title>Nuvvu Nenu Prema</title>
-		<desc>Padmavathi, a family-loving girl, meets Vikramaditya, an arrogant businessman grappling with the loss of his parents.</desc>
+		<title>BRAHMA MUDI</title>
+		<desc>BRAHMA MUDI</desc>
 	</programme>
 	<programme channel="5671" start="20241207080000 +0000" stop="20241207083000 +0000">
-		<title>Paluke Bangaramayena</title>
-		<desc>Speech-impaired Swaragini, deemed unlucky by her father. Can Officer Abhishek alter her fate?</desc>
+		<title>PALUKE BANGARAMAYENA</title>
+		<desc>PALUKE BANGARAMAYENA</desc>
 	</programme>
 	<programme channel="5671" start="20241207083000 +0000" stop="20241207090000 +0000">
-		<title>Mama Garu</title>
-		<desc>Ganga confronts chauvinistic father-in-law, challenging norms. Can she carve her path to victory and claim her rights?</desc>
+		<title>MAMA GARU</title>
+		<desc>Serial</desc>
 	</programme>
 	<programme channel="5671" start="20241207090000 +0000" stop="20241207093000 +0000">
 		<title>Vantalakka</title>
-		<desc>Kind-hearted Murali loves a wealthy girl. Their romance encounters numerous obstacles.</desc>
+		<desc>Serial</desc>
 	</programme>
 	<programme channel="5671" start="20241207093000 +0000" stop="20241207100000 +0000">
 		<title>Malli</title>
-		<desc>Malli promises Meera after hearing her past. Arvind's family frets over his new project.</desc>
+		<desc>Story of village girl</desc>
 	</programme>
 	<programme channel="5671" start="20241207100000 +0000" stop="20241207103000 +0000">
-		<title>Yeto Vellipoindi Manasu</title>
-		<desc>Varun and Nithya's lifelong journey is marked by ups and downs, leading to multiple separations.</desc>
+		<title>YETO VELLIPOINDI MANASU</title>
+		<desc>YETO VELLIPOINDI MANASU</desc>
 	</programme>
-	<programme channel="5671" start="20241207103000 +0000" stop="20241207123000 +0000">
-		<title>Aadivaram Star Maa Parivaram</title>
-		<desc>Aadivaram Star Maa Parivaram</desc>
+	<programme channel="5671" start="20241207103000 +0000" stop="20241207110000 +0000">
+		<title>ILLU ILLALU PILLALU ® -</title>
+		<desc>Entertainment</desc>
+	</programme>
+	<programme channel="5671" start="20241207110000 +0000" stop="20241207120000 +0000">
+		<title>BIGG BOSS 8 ® -</title>
+		<desc>BIGG BOSS 8 ® -</desc>
+	</programme>
+	<programme channel="5671" start="20241207120000 +0000" stop="20241207123000 +0000">
+		<title>GUPPEDANTHA MANASU ®</title>
+		<desc>GUPPEDANTHA MANASU ®</desc>
 	</programme>
 	<programme channel="5671" start="20241207123000 +0000" stop="20241207130000 +0000">
-		<title>Sathyabhama</title>
-		<desc>Krish falls for Satya, a principled girl. What unfolds for this extraordinary couple in their love story?</desc>
+		<title>SATYABHAMA</title>
+		<desc>SATYABHAMA</desc>
 	</programme>
 	<programme channel="5671" start="20241207130000 +0000" stop="20241207133000 +0000">
-		<title>Maguva O Maguva</title>
-		<desc>Wealthy Akhila and single mom Anjali bond during pregnancy, navigating diverse backgrounds in a tale of motherhood.</desc>
+		<title>MAGUVA O MAGUVA</title>
+		<desc>MAGUVA O MAGUVA</desc>
 	</programme>
 	<programme channel="5671" start="20241207133000 +0000" stop="20241207140000 +0000">
-		<title>Chinni</title>
-		<desc>A heartwarming tale of a Mother and Daughter navigating through unexpected challenges, strengthening their bond and understanding each other in new ways.</desc>
+		<title>CHINNI</title>
+		<desc>Serial</desc>
 	</programme>
 	<programme channel="5671" start="20241207140000 +0000" stop="20241207143000 +0000">
-		<title>Brahma Mudi</title>
-		<desc>Mother arranges weddings for talented daughters. Affairs take an unexpected turn with an affluent family.</desc>
+		<title>ILLU ILLALU PILLALU</title>
+		<desc>ILLU ILLALU PILLALU</desc>
 	</programme>
-	<programme channel="5671" start="20241207143000 +0000" stop="20241207150000 +0000">
-		<title>Karthika Deepam-Nava Vasantham</title>
-		<desc>Deepa, dark-skinned, toils against social pressures after marrying Dr. Karthik.</desc>
-	</programme>
-	<programme channel="5671" start="20241207150000 +0000" stop="20241207153000 +0000">
-		<title>Intinti Ramayanam</title>
-		<desc>Members of a close-knit family begin to doubt one another when they suddenly face a problem.</desc>
+	<programme channel="5671" start="20241207143000 +0000" stop="20241207153000 +0000">
+		<title>INTINTI RAMAYANAM</title>
+		<desc>INTINTI RAMAYANAM</desc>
 	</programme>
 	<programme channel="5676" start="20241205160000 +0000" stop="20241205180000 +0000">
 		<title>THE NEWSHOUR FIRST</title>
@@ -32560,7 +32536,7 @@ Kaikoura盛产龙虾，海底遗留大量捕笼。港女野人今集任务就是
 		<desc>NHK's core news program wrapping up the day's events in an easy to understand way.</desc>
 	</programme>
 	<programme channel="5682" start="20241207103000 +0000" stop="20241207111500 +0000">
-		<title>Project X: The Challengers-New Beginnings</title>
+		<title>Project X: The Challengers-New Beginnings "The COVID-19 Outbreak on the Cruise Ship"</title>
 		<desc>Project X returns for the first time in 18 years. The former series featured people involved in project related to the Japanese industry and contemporary history. The new series focuses on people in the “Lost Era” following the collapse of the bubble economy. In every era, there are always those take on challenges. Even without receiving praise or being in the spotlight, some dedicate themselves to their work. The documentary delivers passion and courage right to you.</desc>
 	</programme>
 	<programme channel="5682" start="20241207111500 +0000" stop="20241207115300 +0000">
@@ -32580,8 +32556,8 @@ Kaikoura盛产龙虾，海底遗留大量捕笼。港女野人今集任务就是
 		<desc>A Saturday night show presents the latest news on domestic and foreign affairs with reliable coverage and innovative presentation.</desc>
 	</programme>
 	<programme channel="5682" start="20241207130000 +0000" stop="20241207135000 +0000">
-		<title>NHK Special</title>
-		<desc>NHK Special</desc>
+		<title>NHK Special "500 Days of Close Coverage on the 'Border Island': Capturing the Frontline of Defense"</title>
+		<desc>A documentary based on timely subjects famous for its dignity and in-depth reporting.</desc>
 	</programme>
 	<programme channel="5682" start="20241207135000 +0000" stop="20241207135500 +0000">
 		<title>Camera-eyed Japan</title>
@@ -34743,33 +34719,25 @@ Kaikoura盛产龙虾，海底遗留大量捕笼。港女野人今集任务就是
 		<title>INSIGHTS: ISRAEL AND MIDDLE EAST</title>
 		<desc>INSIGHTS: ISRAEL AND MIDDLE EAST</desc>
 	</programme>
-	<programme channel="6694" start="20241206213000 +0000" stop="20241206223000 +0000">
+	<programme channel="6694" start="20241206213000 +0000" stop="20241206220000 +0000">
 		<title>EXECUTIVE CLASS</title>
 		<desc>EXECUTIVE CLASS</desc>
 	</programme>
-	<programme channel="6694" start="20241206223000 +0000" stop="20241206230000 +0000">
-		<title>THE BUSINESS ROADSHOW</title>
-		<desc>THE BUSINESS ROADSHOW</desc>
+	<programme channel="6694" start="20241206220000 +0000" stop="20241206230000 +0000">
+		<title>MARKET EDGE</title>
+		<desc>MARKET EDGE</desc>
 	</programme>
 	<programme channel="6694" start="20241206230000 +0000" stop="20241206233000 +0000">
-		<title>ANC RUNDOWN</title>
-		<desc>ANC RUNDOWN</desc>
-	</programme>
-	<programme channel="6694" start="20241206233000 +0000" stop="20241207000000 +0000">
 		<title>THE BUSINESS OUTLOOK</title>
 		<desc>THE BUSINESS OUTLOOK</desc>
 	</programme>
-	<programme channel="6694" start="20241207000000 +0000" stop="20241207000500 +0000">
-		<title>ANC HEADLINES</title>
-		<desc>ANC HEADLINES</desc>
-	</programme>
-	<programme channel="6694" start="20241207000500 +0000" stop="20241207003000 +0000">
-		<title>CITIZEN PINOY</title>
-		<desc>CITIZEN PINOY</desc>
+	<programme channel="6694" start="20241206233000 +0000" stop="20241207003000 +0000">
+		<title>METABEATS</title>
+		<desc>METABEATS</desc>
 	</programme>
 	<programme channel="6694" start="20241207003000 +0000" stop="20241207010000 +0000">
-		<title>TOMORROW TODAY</title>
-		<desc>TOMORROW TODAY</desc>
+		<title>ON CUE</title>
+		<desc>ON CUE</desc>
 	</programme>
 	<programme channel="6694" start="20241207010000 +0000" stop="20241207013000 +0000">
 		<title>ANC CONVERSATIONS</title>
@@ -34780,8 +34748,8 @@ Kaikoura盛产龙虾，海底遗留大量捕笼。港女野人今集任务就是
 		<desc>CASA DAZA</desc>
 	</programme>
 	<programme channel="6694" start="20241207020000 +0000" stop="20241207023000 +0000">
-		<title>ANC RUNDOWN</title>
-		<desc>ANC RUNDOWN</desc>
+		<title>BANKE AFTER DARK</title>
+		<desc>BANKE AFTER DARK</desc>
 	</programme>
 	<programme channel="6694" start="20241207023000 +0000" stop="20241207030000 +0000">
 		<title>ON CUE</title>
@@ -34800,8 +34768,8 @@ Kaikoura盛产龙虾，海底遗留大量捕笼。港女野人今集任务就是
 		<desc>DWELLINGS</desc>
 	</programme>
 	<programme channel="6694" start="20241207040000 +0000" stop="20241207050000 +0000">
-		<title>DATELINE PHILIPPINES</title>
-		<desc>DATELINE PHILIPPINES</desc>
+		<title>HEADSTART</title>
+		<desc>HEADSTART</desc>
 	</programme>
 	<programme channel="6694" start="20241207050000 +0000" stop="20241207050500 +0000">
 		<title>ANC HEADLINES</title>
@@ -34872,8 +34840,8 @@ Kaikoura盛产龙虾，海底遗留大量捕笼。港女野人今集任务就是
 		<desc>G DIARIES</desc>
 	</programme>
 	<programme channel="6694" start="20241207130000 +0000" stop="20241207133000 +0000">
-		<title>THE WORLD TONIGHT</title>
-		<desc>THE WORLD TONIGHT</desc>
+		<title>AT THE MOMENT</title>
+		<desc>AT THE MOMENT</desc>
 	</programme>
 	<programme channel="6694" start="20241207133000 +0000" stop="20241207140000 +0000">
 		<title>EXECUTIVE CLASS</title>
