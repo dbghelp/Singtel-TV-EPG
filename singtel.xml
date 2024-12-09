@@ -3930,11 +3930,11 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<title>2024 International Friendly (Women) Match 3 Episode 2</title>
 		<desc>Australian women's soccer side the Matildas will kick off a series of friendly games against Brazil and Chinese Taipei as preparation for the 2026 Asian Cup and 2027 Women's World Cup qualifiers.</desc>
 	</programme>
-	<programme channel="6115" start="20241209070000 +0000" stop="20241209090000 +0000">
+	<programme channel="6115" start="20241209070000 +0000" stop="20241209085000 +0000">
 		<title>Una Famiglia: 2023 Ryder Cup Documentary</title>
 		<desc>The program revisits Team Europe's victory, joining Luke Donald one year on from the tournament to discover his journey to the captaincy, and the unbreakable spirit he cultivated in the team.</desc>
 	</programme>
-	<programme channel="6115" start="20241209090000 +0000" stop="20241209104500 +0000">
+	<programme channel="6115" start="20241209085000 +0000" stop="20241209104500 +0000">
 		<title>ISU Figure Skating Grand Prix Grenoble (FRA)</title>
 		<desc>The ISU Grand Prix of Figure Skating Series consists of six international senior events in North America, Europe and Asia, culminating with the ISU Grand Prix of Figure Skating Final in Grenoble, France.</desc>
 	</programme>
@@ -3974,43 +3974,39 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<title>ISU Figure Skating Grand Prix Grenoble (FRA)</title>
 		<desc>The ISU Grand Prix of Figure Skating Series consists of six international senior events in North America, Europe and Asia, culminating with the ISU Grand Prix of Figure Skating Final in Grenoble, France.</desc>
 	</programme>
-	<programme channel="6115" start="20241209203000 +0000" stop="20241209213000 +0000">
+	<programme channel="6115" start="20241209203000 +0000" stop="20241209213500 +0000">
 		<title>ISU Figure Skating Grand Prix Grenoble (FRA)</title>
 		<desc>The ISU Grand Prix of Figure Skating Series consists of six international senior events in North America, Europe and Asia, culminating with the ISU Grand Prix of Figure Skating Final in Grenoble, France.</desc>
 	</programme>
-	<programme channel="6115" start="20241209213000 +0000" stop="20241209223000 +0000">
+	<programme channel="6115" start="20241209213500 +0000" stop="20241209225000 +0000">
 		<title>ISU Figure Skating Grand Prix Grenoble (FRA)</title>
 		<desc>The ISU Grand Prix of Figure Skating Series consists of six international senior events in North America, Europe and Asia, culminating with the ISU Grand Prix of Figure Skating Final in Grenoble, France.</desc>
 	</programme>
-	<programme channel="6115" start="20241209223000 +0000" stop="20241210001500 +0000">
+	<programme channel="6115" start="20241209225000 +0000" stop="20241210001000 +0000">
 		<title>ISU Figure Skating Grand Prix Grenoble (FRA)</title>
 		<desc>The ISU Grand Prix of Figure Skating Series consists of six international senior events in North America, Europe and Asia, culminating with the ISU Grand Prix of Figure Skating Final in Grenoble, France.</desc>
 	</programme>
-	<programme channel="6115" start="20241210001500 +0000" stop="20241210021500 +0000">
+	<programme channel="6115" start="20241210001000 +0000" stop="20241210021000 +0000">
 		<title>2024 International Friendly (Women) Match 4 Episode 3</title>
 		<desc>Australian women's soccer side the Matildas will kick off a series of friendly games against Brazil and Chinese Taipei as preparation for the 2026 Asian Cup and 2027 Women's World Cup qualifiers.</desc>
 	</programme>
-	<programme channel="6115" start="20241210021500 +0000" stop="20241210041500 +0000">
+	<programme channel="6115" start="20241210021000 +0000" stop="20241210040000 +0000">
 		<title>Una Famiglia: 2023 Ryder Cup Documentary Episode 2</title>
 		<desc>The program revisits Team Europe's victory, joining Luke Donald one year on from the tournament to discover his journey to the captaincy, and the unbreakable spirit he cultivated in the team.</desc>
 	</programme>
-	<programme channel="6115" start="20241210041500 +0000" stop="20241210053000 +0000">
+	<programme channel="6115" start="20241210040000 +0000" stop="20241210050500 +0000">
 		<title>ISU Figure Skating Grand Prix Grenoble (FRA) Episode 3</title>
 		<desc>The ISU Grand Prix of Figure Skating Series consists of six international senior events in North America, Europe and Asia, culminating with the ISU Grand Prix of Figure Skating Final in Grenoble, France.</desc>
 	</programme>
-	<programme channel="6115" start="20241210053000 +0000" stop="20241210063000 +0000">
+	<programme channel="6115" start="20241210050500 +0000" stop="20241210060000 +0000">
 		<title>ISU Figure Skating Grand Prix Grenoble (FRA) Episode 3</title>
 		<desc>The ISU Grand Prix of Figure Skating Series consists of six international senior events in North America, Europe and Asia, culminating with the ISU Grand Prix of Figure Skating Final in Grenoble, France.</desc>
 	</programme>
-	<programme channel="6115" start="20241210063000 +0000" stop="20241210070000 +0000">
-		<title>2024 SuperTri Highlights Episode 3</title>
-		<desc>The 2024 SuperTri League season was characterized by intense rivalries and strategic races showcasing the athletes' adaptability and resilience in a competitive environment.</desc>
-	</programme>
-	<programme channel="6115" start="20241210070000 +0000" stop="20241210090000 +0000">
+	<programme channel="6115" start="20241210060000 +0000" stop="20241210075500 +0000">
 		<title>FIA Formula E Championship:Sao Paulo E-Prix Episode 2</title>
 		<desc>The FIA Formula E World Championship celebrates its tenth season as the pioneering all-electric motorsport world championship with 11 cities across the globe hosting a record 17-race calendar.</desc>
 	</programme>
-	<programme channel="6115" start="20241210090000 +0000" stop="20241210113000 +0000">
+	<programme channel="6115" start="20241210075500 +0000" stop="20241210113000 +0000">
 		<title>FIA Formula E Championship:Sao Paulo E-Prix Episode 2</title>
 		<desc>The FIA Formula E World Championship celebrates its tenth season as the pioneering all-electric motorsport world championship with 11 cities across the globe hosting a record 17-race calendar.</desc>
 	</programme>
@@ -20508,14 +20504,15 @@ This series tells the story of the wealthy Qiu family who is left rudderless whe
 	</programme>
 	<programme channel="5511" start="20241209080000 +0000" stop="20241209083000 +0000">
 		<title>贝游欧洲 / Europe Go Go Go! Episode 3</title>
-		<desc>第4集
-北韦尔斯— 真正过「山」车、全球最快滑索
+		<desc>第5集
+格拉斯哥— 思貝在蘇格蘭的「男人」
+抵達蘇格蘭最大城市格拉斯哥，思貝先到碧咸喜愛的海鮮餐廳尋味。
 
-北韦尔斯山脉连绵，思贝要玩尽「穿山」玩意，先藉大型千秋体验离心力，再坐上真正穿梭山林的过「山」车；终极还有时速达160公里的全球最快滑索，俯卧于高空中感受自由。
+走進魔法主題店舖，主持要一試最奇怪口味的橡皮糖，卻被懷疑味覺出了問題？
 
-疯狂环节之外，也有美食时间，酷爱芝士的思贝听闻当地有一款著名芝士，必定要试。而逾百年历史的面包店，年资虽深，但亦有创新口味！
+思貝突然自揭「收埋了某個男人」，並相約一起吃中餐。甫面見就來個擁抱，究竟此人是誰？及後，這男人還招待思貝回家，還為她親自下廚！
 
-身在临海小镇兰迪德诺，可遥望无边际的爱尔兰海确实吸引，思贝却不晓镇名的发音，一于向朱古力店店员请教，顺道选购心头好！</desc>
+被喻為蘇格蘭國菜的Haggis，是用羊肉加內臟烹製。遊逛格拉斯哥大學，思貝順道向當地人請教蘇格蘭俚語。再前往體驗飛靶射擊，玩得不亦樂乎。</desc>
 	</programme>
 	<programme channel="5511" start="20241209083000 +0000" stop="20241209090000 +0000">
 		<title>无穷之路IV - 一带一路 / No Poverty Land IV - One Belt One Road Episode 10</title>
@@ -20531,12 +20528,12 @@ This series tells the story of the wealthy Qiu family who is left rudderless whe
 	</programme>
 	<programme channel="5511" start="20241209093000 +0000" stop="20241209103000 +0000">
 		<title>燕云台 / The Legend of Xiao Chuo Episode 624888</title>
-		<desc>第四十五集
+		<desc>第四十八集
 
-三年转瞬即逝，又逢乌骨里忌日。燕燕在佛龛前心情不虞，韩德让看着燕燕落寞的样子暗自心疼。燕燕感慨自乌骨里去后，胡辇往来书信都是政务，鲜有亲情。
-另一边，胡辇追逐猎物穿过树林，看到了上身赤裸，正在湖边刷马的马奴，谁知胡辇坐骑突然受惊扬蹄。危急时刻，挞览阿钵冲过来跳上马背，救下胡辇。胡辇想要赏赐挞览阿钵。挞览阿钵拒绝，而是邀请胡辇明日前来草原部落。
-韩德让寿辰将至，燕燕念其辛苦，要在宫中为他做寿。韩德让拒绝，认为于理不合，燕燕说韩德让身为相父，自然当得起这样的礼遇。燕燕还当众为韩德让建立斡鲁朵。燕燕此举让虎古等人愤懑不已。
-胡辇辗转反侧，起身来到窗前，脑中不断浮现出挞览阿钵。</desc>
+撻覽阿缽私自率人去營中整兵，帶兵刺傷前去巡營的隆緒，雖已無性命之虞但險些傷及要害。撻覽阿缽被關進大牢，隆緒也回到宮接受醫治。胡輦為撻覽阿缽求情，但被隆緒拒絕。
+胡輦憤而劫獄，救下撻覽阿缽逃回北方，韓德讓下令蕭繼先帶兵追擊。燕燕感歎這一次真的失去大姐了。
+撻覽阿缽命懸一線，最後死在胡輦懷中。蕭繼先率兵攻入城內，將胡輦帶回上京。眾大臣紛紛上奏殺掉胡輦以正朝綱，胡輦依然執迷不悟，對燕燕心灰意冷。燕燕內心十分難受，最終無奈下旨，將皇太妃胡輦永囚於懷州，終身不得釋。
+數年後，燕燕興建新都，遷都南京（即今天的北京）。遷都之後，她還政兒子耶律隆緒（遼聖宗），含笑逝于韓德讓懷中，並留下遺囑，令韓得讓與自己合葬。</desc>
 	</programme>
 	<programme channel="5511" start="20241209103000 +0000" stop="20241209110500 +0000">
 		<title>六点半新闻报导 及 世界观 / News At 18:30 and Global View</title>
@@ -20609,12 +20606,12 @@ This series tells the story of the wealthy Qiu family who is left rudderless whe
 	</programme>
 	<programme channel="5511" start="20241209200000 +0000" stop="20241209210000 +0000">
 		<title>燕云台 / The Legend of Xiao Chuo Episode 624888</title>
-		<desc>第四十五集
+		<desc>第四十八集
 
-三年转瞬即逝，又逢乌骨里忌日。燕燕在佛龛前心情不虞，韩德让看着燕燕落寞的样子暗自心疼。燕燕感慨自乌骨里去后，胡辇往来书信都是政务，鲜有亲情。
-另一边，胡辇追逐猎物穿过树林，看到了上身赤裸，正在湖边刷马的马奴，谁知胡辇坐骑突然受惊扬蹄。危急时刻，挞览阿钵冲过来跳上马背，救下胡辇。胡辇想要赏赐挞览阿钵。挞览阿钵拒绝，而是邀请胡辇明日前来草原部落。
-韩德让寿辰将至，燕燕念其辛苦，要在宫中为他做寿。韩德让拒绝，认为于理不合，燕燕说韩德让身为相父，自然当得起这样的礼遇。燕燕还当众为韩德让建立斡鲁朵。燕燕此举让虎古等人愤懑不已。
-胡辇辗转反侧，起身来到窗前，脑中不断浮现出挞览阿钵。</desc>
+撻覽阿缽私自率人去營中整兵，帶兵刺傷前去巡營的隆緒，雖已無性命之虞但險些傷及要害。撻覽阿缽被關進大牢，隆緒也回到宮接受醫治。胡輦為撻覽阿缽求情，但被隆緒拒絕。
+胡輦憤而劫獄，救下撻覽阿缽逃回北方，韓德讓下令蕭繼先帶兵追擊。燕燕感歎這一次真的失去大姐了。
+撻覽阿缽命懸一線，最後死在胡輦懷中。蕭繼先率兵攻入城內，將胡輦帶回上京。眾大臣紛紛上奏殺掉胡輦以正朝綱，胡輦依然執迷不悟，對燕燕心灰意冷。燕燕內心十分難受，最終無奈下旨，將皇太妃胡輦永囚於懷州，終身不得釋。
+數年後，燕燕興建新都，遷都南京（即今天的北京）。遷都之後，她還政兒子耶律隆緒（遼聖宗），含笑逝于韓德讓懷中，並留下遺囑，令韓得讓與自己合葬。</desc>
 	</programme>
 	<programme channel="5511" start="20241209210000 +0000" stop="20241209220000 +0000">
 		<title>流行都市 / Big City Shop 2024 Episode 255</title>
@@ -20629,7 +20626,7 @@ This series tells the story of the wealthy Qiu family who is left rudderless whe
 		<desc>《东张西望》星期一至日，紧贴追踪社会大事、趣闻逸事，并报导娱乐圈最新动态、艺人消息，以及剧集宣传和花絮。「今日突发」环节为大家追踪即日热门新闻；专题环节，深入探讨大众关心的时事、社会及民生问题，并访问相关的专家。</desc>
 	</programme>
 	<programme channel="5511" start="20241209230000 +0000" stop="20241210000000 +0000">
-		<title>香港早晨 及 世界观 / Good Morning Hong Kong and Global View Episode 288</title>
+		<title>香港早晨 及 世界观 / Good Morning Hong Kong and Global View Episode 289</title>
 		<desc>报导香港、两岸及国际重要新闻。</desc>
 	</programme>
 	<programme channel="5511" start="20241210000000 +0000" stop="20241210010000 +0000">
@@ -20714,30 +20711,29 @@ This series tells the story of the wealthy Qiu family who is left rudderless whe
 	</programme>
 	<programme channel="5511" start="20241210083000 +0000" stop="20241210090000 +0000">
 		<title>冲游泰国 / Thai Rogered (Sr.7) Episode 5</title>
-		<desc>第8集
-豪华大宅变身打咭胜地
-变通是求存之道！冲哥与冬荫妹妹到访豪宅改建的复式咖啡店，顾客可于宅内任何房间、角落、地牢艺术馆等，尽情打咭、叹咖啡！户外「干塘」泳池雅座、创意法式牛角包更是大热卖点！疫情下，老字号牛肉餐厅生意如常，矜贵金箔「领事甜品」更属必试之选；店内挂画何故「儿童不宜」？本地品牌酒店改行欧陆风，以超便宜房价吸引外国游客，冲哥逐一介绍特色房间。咖啡店门面挂满符咒，店内粗犷工业风、港式怀旧格调，融合不同文化风情。</desc>
+		<desc>第10集
+「泰遠」特色餐廳、咖啡店
+
+清邁吃喝玩樂別具特色！冲哥入住心水酒店，泳池別墅式房間對著人工湖靚景，令人心曠神怡；客人更可參觀有機農場，體驗特別行程。店家推出款式、味道多不勝數的海南雞飯，仿如進入海南雞飯的多重宇宙！遠離鬧市的食肆如何吸引客人？猶如置身郊野公園內的咖啡店，令人彷彿去了另一省府，自家製精緻糕點更是一大賣點；善用大自然色彩作招徠的餐廳，讓一家大細享受親子時光；擁有靚絕池塘美景等打卡點的咖啡店，吸引無數網紅前來拍照。</desc>
 	</programme>
 	<programme channel="5511" start="20241210090000 +0000" stop="20241210093000 +0000">
 		<title>溜走的真味 / The Vanishing Tastes Episode 3</title>
-		<desc>第4集
-打冷
-打冷是潮汕的著名宵夜，食物种类多元化，卤水、腌制等吃法统统都可找到，冻海鲜更是当中的佼佼者。三位主持走进食店，点吃冻食的龙虾、红蟹、鱿鱼，感受不同的鲜味冲击。
+		<desc>第5集
+米製品
+對於用米製作食品，潮汕人別具心得，粿條、腸粉等皆為米製美食。潮州粥配上稱為「雜鹹」的潮汕冷盤小菜，就是當地人的日常滋味。主持與嘉賓楊潮凱看到桌上108道雜鹹，未吃已感震撼！
 
-鱼饭亦是不可错过的打冷食品，德哥带嘉宾陈炜拜访达人，了解制作奥妙。一尝最地道的潮州蚝烙，与在香港吃到的有何分别？
+用糯米包出的「糭球」，可一次嚐到鹹甜兩種味道；由海中薄殼加工而來的「薄殼米」，又是地道的潮汕風味，還可製成薄殼米粿。
 
-置身当地的渔市场，三姐买到新鲜的海马友，并于炜哥协助下炮制「风沙榄菜马友球」，认真滋味。
-
-此外，德哥一展功架，巧制「肉饼蒸膏蟹圈」。</desc>
+三姐配合米製品主題，炮製「老菜脯蜆蟹粥」、「薄殼韭菜煎蛋角」與「沙嗲豬肉鴛鴦麵」。粥品僅加入魚露，已經鮮味無窮。</desc>
 	</programme>
 	<programme channel="5511" start="20241210093000 +0000" stop="20241210103000 +0000">
 		<title>燕云台 / The Legend of Xiao Chuo Episode 624918</title>
-		<desc>第四十五集
+		<desc>第四十八集
 
-三年转瞬即逝，又逢乌骨里忌日。燕燕在佛龛前心情不虞，韩德让看着燕燕落寞的样子暗自心疼。燕燕感慨自乌骨里去后，胡辇往来书信都是政务，鲜有亲情。
-另一边，胡辇追逐猎物穿过树林，看到了上身赤裸，正在湖边刷马的马奴，谁知胡辇坐骑突然受惊扬蹄。危急时刻，挞览阿钵冲过来跳上马背，救下胡辇。胡辇想要赏赐挞览阿钵。挞览阿钵拒绝，而是邀请胡辇明日前来草原部落。
-韩德让寿辰将至，燕燕念其辛苦，要在宫中为他做寿。韩德让拒绝，认为于理不合，燕燕说韩德让身为相父，自然当得起这样的礼遇。燕燕还当众为韩德让建立斡鲁朵。燕燕此举让虎古等人愤懑不已。
-胡辇辗转反侧，起身来到窗前，脑中不断浮现出挞览阿钵。</desc>
+撻覽阿缽私自率人去營中整兵，帶兵刺傷前去巡營的隆緒，雖已無性命之虞但險些傷及要害。撻覽阿缽被關進大牢，隆緒也回到宮接受醫治。胡輦為撻覽阿缽求情，但被隆緒拒絕。
+胡輦憤而劫獄，救下撻覽阿缽逃回北方，韓德讓下令蕭繼先帶兵追擊。燕燕感歎這一次真的失去大姐了。
+撻覽阿缽命懸一線，最後死在胡輦懷中。蕭繼先率兵攻入城內，將胡輦帶回上京。眾大臣紛紛上奏殺掉胡輦以正朝綱，胡輦依然執迷不悟，對燕燕心灰意冷。燕燕內心十分難受，最終無奈下旨，將皇太妃胡輦永囚於懷州，終身不得釋。
+數年後，燕燕興建新都，遷都南京（即今天的北京）。遷都之後，她還政兒子耶律隆緒（遼聖宗），含笑逝于韓德讓懷中，並留下遺囑，令韓得讓與自己合葬。</desc>
 	</programme>
 	<programme channel="5511" start="20241210103000 +0000" stop="20241210110500 +0000">
 		<title>六点半新闻报导 及 世界观 / News At 18:30 and Global View</title>
@@ -26751,88 +26747,88 @@ This series tells the story of the wealthy Qiu family who is left rudderless whe
 		<desc>Tamil Action Film, Starring, Nikhil Siddharth, Ritu Varma, Isha Koppikar &amp; Others</desc>
 	</programme>
 	<programme channel="5625" start="20241208133000 +0000" stop="20241208170000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Dev</title>
+		<desc>Dev, an adventure-loving young man, often embarks on escapades with his best friend, Vicky. His life takes a turn when Vicky tries to set him up with Meghna, a USA-based businesswoman.</desc>
 	</programme>
 	<programme channel="5625" start="20241208170000 +0000" stop="20241208183000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Satham Podaathay</title>
+		<desc>Bhanu tries to save her marriage although her husband Ratnavel is impotent. Their marriage ends anyway and Bhanu marries again. But a vengeful Ratnavel kidnaps her and holds her hostage in his house.</desc>
 	</programme>
 	<programme channel="5625" start="20241208183000 +0000" stop="20241208200000 +0000">
-		<title>Movie Contd</title>
-		<desc>Movie</desc>
+		<title>Movie contd - Satham Podaathay</title>
+		<desc>Bhanu tries to save her marriage although her husband Ratnavel is impotent. Their marriage ends anyway and Bhanu marries again. But a vengeful Ratnavel kidnaps her and holds her hostage in his house.</desc>
 	</programme>
 	<programme channel="5625" start="20241208200000 +0000" stop="20241208223000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Vadugapatti Mapillai</title>
+		<desc>When Vadivu's city-based fiance, Vijay, refuses to marry her for her simple looks, her father swears that he'll get them married anyhow. She then changes into the avatar of Jeena and enters his life.</desc>
 	</programme>
 	<programme channel="5625" start="20241208223000 +0000" stop="20241209010000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Vaigai</title>
+		<desc>A couple in love survive suicide attempts after the boy's father sends his henchmen to kill the girl. After their separation, he finds her again in the city but things do not work in their favour.</desc>
 	</programme>
 	<programme channel="5625" start="20241209010000 +0000" stop="20241209013000 +0000">
 		<title>Teleshopping</title>
 		<desc>Consumer can purchase goods and services shown on television; the purchaser telephones an order, or orders with the aid of a computer, and the products are delivered to the home.</desc>
 	</programme>
 	<programme channel="5625" start="20241209013000 +0000" stop="20241209043000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Kumbakonam Gopalu</title>
+		<desc>Gopal, a shrewd man hailing from a small town, earns a living by cheating people. When he stumbles across the diary of a deceased woman, he decides to blackmail the three men linked to her.</desc>
 	</programme>
 	<programme channel="5625" start="20241209043000 +0000" stop="20241209073000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Ramachandra</title>
+		<desc>Due To His Honesty And Refusal To Meet The Demands Of Those In Power, Inspector Ramachandran Is Often Transferred From One Town To Another. Soon, He Finds Himself In An Area That Is Highly Terrorised.</desc>
 	</programme>
 	<programme channel="5625" start="20241209073000 +0000" stop="20241209103000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - En Thangachi Padichava</title>
+		<desc>When a police officer gets transferred to a troubled village terrorised by a wealthy landlord, he seeks the help of an ex-convict to seize the tyrant.</desc>
 	</programme>
 	<programme channel="5625" start="20241209103000 +0000" stop="20241209133000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Vettiyai Madichu Kattu</title>
+		<desc>Jai, a timid father, pretends to be brave in order to instil courage into his son. However, he gets in trouble when he is forced to be a witness against a goon by his son.</desc>
 	</programme>
 	<programme channel="5625" start="20241209133000 +0000" stop="20241209133000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Devarattam</title>
+		<desc>Vetri, a young lawyer with anger issues, murders his friend in broad daylight who also happens to be the son of a local gangster. Later, the gangster wishes to kill Vetri.</desc>
 	</programme>
 	<programme channel="5625" start="20241209133000 +0000" stop="20241209170000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Devarattam</title>
+		<desc>Vetri, a young lawyer with anger issues, murders his friend in broad daylight who also happens to be the son of a local gangster. Later, the gangster wishes to kill Vetri.</desc>
 	</programme>
 	<programme channel="5625" start="20241209170000 +0000" stop="20241209183000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Maraivaasi</title>
+		<desc>A billionaire's son returns after his father's death and joins the company as a regular employee in order to nab the people responsible for his father's murder.</desc>
 	</programme>
 	<programme channel="5625" start="20241209183000 +0000" stop="20241209200000 +0000">
-		<title>Movie Contd</title>
-		<desc>Movie</desc>
+		<title>Movie Contd - Maraivaasi</title>
+		<desc>A billionaire's son returns after his father's death and joins the company as a regular employee in order to nab the people responsible for his father's murder.</desc>
 	</programme>
 	<programme channel="5625" start="20241209200000 +0000" stop="20241209223000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Vaikarai Pookkal</title>
+		<desc>Vellaisamy Gounder is a village chief who is in favour of casteism. He forbids the romantic relationship between Deivanai and the village doctor when the latter refuses to reveal his caste.</desc>
 	</programme>
 	<programme channel="5625" start="20241209223000 +0000" stop="20241210010000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Vanjagan</title>
+		<desc>A man dumps a bag while being chased by goons. A reporter finds it and learns about a murder plan of four important people. Two are already dead and she too gets kidnapped trying to save the others.</desc>
 	</programme>
 	<programme channel="5625" start="20241210010000 +0000" stop="20241210013000 +0000">
 		<title>Teleshopping</title>
 		<desc>Consumer can purchase goods and services shown on television; the purchaser telephones an order, or orders with the aid of a computer, and the products are delivered to the home.</desc>
 	</programme>
 	<programme channel="5625" start="20241210013000 +0000" stop="20241210043000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Puthiya Mugham</title>
+		<desc>When Shiva saves a group of children from terrorists, he is recruited into the Indian army. Later, he falls in love with Anjali, who is unaware of his real identity.</desc>
 	</programme>
 	<programme channel="5625" start="20241210043000 +0000" stop="20241210073000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Avatharam</title>
+		<desc>Kuppusamy is crazy about acting in theatre and joins a troupe and falls in love with Ponnama, a blind lady. However, the troupe struggles financially and is disbanded.</desc>
 	</programme>
 	<programme channel="5625" start="20241210073000 +0000" stop="20241210103000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - En Bommukkutti Ammavukku</title>
+		<desc>Vinod and Lakshmi, who lost their daughter in an accident, adopt Tinu, a vivacious young girl, from an orphanage. However, the family faces challenges when Tinu's birth parents set out to find her.</desc>
 	</programme>
 	<programme channel="5625" start="20241210103000 +0000" stop="20241210133000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie - Raja Kaiya Vecha</title>
+		<desc>Raja pretends to be a cop in order to impress the woman he loves and she dumps him on learning the truth. When they meet again, he has a good job, but there is someone else who is in love with him.</desc>
 	</programme>
 	<programme channel="5627" start="20241208153000 +0000" stop="20241208163000 +0000">
 		<title>Soup Songs</title>
