@@ -5978,8 +5978,8 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>NHK WORLD-JAPAN's flagship hourly news program delivers the latest world news, business and weather, with a focus on Japan and the rest of Asia.</desc>
 	</programme>
 	<programme channel="5157" start="20241210151500 +0000" stop="20241210164500 +0000">
-		<title>The NOBEL PEACE PRIZE Award Ceremony</title>
-		<desc>NHK WORLD-JAPAN's flagship hourly news program delivers the latest world news, business and weather, with a focus on Japan and the rest of Asia.</desc>
+		<title>The Nobel Peace Prize Award Ceremony</title>
+		<desc>NHK NEWSLINE will carry live coverage of the Nobel Peace Prize ceremony honoring NIHON HIDANKYO, an organization of A-bomb survivors, featuring analysis from experts on nuclear disarmament.</desc>
 	</programme>
 	<programme channel="5157" start="20241210164500 +0000" stop="20241210165500 +0000">
 		<title>Dig More Japan</title>
@@ -6018,8 +6018,8 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>We attend a New Year's concert at a samurai residence, where a master koto player delights a crowd of gorgeously dressed celebrity-types. Lounging in the best seat in the house is no ordinary V.I.P.</desc>
 	</programme>
 	<programme channel="5157" start="20241210190000 +0000" stop="20241210203000 +0000">
-		<title>The NOBEL PEACE PRIZE Award Ceremony</title>
-		<desc>NHK WORLD-JAPAN's flagship hourly news program delivers the latest world news, business and weather, with a focus on Japan and the rest of Asia.</desc>
+		<title>The Nobel Peace Prize Award Ceremony</title>
+		<desc>NHK NEWSLINE will carry live coverage of the Nobel Peace Prize ceremony honoring NIHON HIDANKYO, an organization of A-bomb survivors, featuring analysis from experts on nuclear disarmament.</desc>
 	</programme>
 	<programme channel="5157" start="20241210203000 +0000" stop="20241210210000 +0000">
 		<title>Science View</title>
@@ -14901,11 +14901,11 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<title>The World Episode 198</title>
 		<desc>There's never been a more important time to stay in touch with what's happening in our world. Weeknights at 9pm AEDT, Girish Sawlani presents the latest international news from correspondents and interviews with guests.</desc>
 	</programme>
-	<programme channel="5251" start="20241210152000 +0000" stop="20241210152000 +0000">
+	<programme channel="5251" start="20241210152000 +0000" stop="20241210153500 +0000">
 		<title>A Brief History Of Cricket Down Under: The 80s Episode 4</title>
 		<desc>The '80s saw the rise of the legendary fast bowler. Australia cruised into the decade fielding two lethal pacemen, while the West Indies blasted onto the scene with a quartet of very cool and very fast deadly bowling weapons.</desc>
 	</programme>
-	<programme channel="5251" start="20241210152000 +0000" stop="20241210163000 +0000">
+	<programme channel="5251" start="20241210153500 +0000" stop="20241210163000 +0000">
 		<title>A Brief History Of Cricket Down Under: The 80s Episode 4</title>
 		<desc>The '80s saw the rise of the legendary fast bowler. Australia cruised into the decade fielding two lethal pacemen, while the West Indies blasted onto the scene with a quartet of very cool and very fast deadly bowling weapons.</desc>
 	</programme>
@@ -14919,7 +14919,7 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 	</programme>
 	<programme channel="5251" start="20241210180000 +0000" stop="20241210190000 +0000">
 		<title>The World Episode 198</title>
-		<desc>There's never been a more important time to stay in touch with what's happening in our world. Weeknights at 9pm AEDT, Girish Sawlani presents the latest international news from correspondents and interviews with guests.</desc>
+		<desc>Girish Sawlani brings you the latest world news. Tonight: power to be handed to Syria's rebel-led government, a man held over the death of a health executive in New York, plus Rupert Murdoch loses a court battle.</desc>
 	</programme>
 	<programme channel="5251" start="20241210190000 +0000" stop="20241210220000 +0000">
 		<title>News Breakfast Episode 248</title>
@@ -14941,15 +14941,19 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<title>The Cook Up With Adam Liaw Episode 70</title>
 		<desc>It's Easy Entertaining, and Adam has lined up two stars, Opera Australia Principal Singers Esther Song and Christian Qi, to make food that's bound to be the star of the show.</desc>
 	</programme>
-	<programme channel="5251" start="20241211023000 +0000" stop="20241211030000 +0000">
+	<programme channel="5251" start="20241211023000 +0000" stop="20241211023200 +0000">
+		<title>This Place Episode 20</title>
+		<desc>Clarence Wyles Jnr is a ranger and proud Warrgamay man with a deep connection to his country and ancestors. He shares his knowledge of Broadwater, where his 'old people' washed away negativity by swimming in the water.</desc>
+	</programme>
+	<programme channel="5251" start="20241211023200 +0000" stop="20241211030000 +0000">
 		<title>Hannah Gadsby's OZ Episode 3</title>
 		<desc>Hannah is still searching for a more inclusive Australian identity in our art. In this episode she enters the NOW! But in post-Cronulla Australian art, this Identity seems even harder to define. (Final)</desc>
 	</programme>
-	<programme channel="5251" start="20241211030000 +0000" stop="20241211033000 +0000">
+	<programme channel="5251" start="20241211030000 +0000" stop="20241211032500 +0000">
 		<title>Framed Episode 3</title>
 		<desc>"This is the Australian Cultural Terrorists. Remember us?". A phone call from the Picasso thieves promises to change everything. With so much at stake, can they be believed?</desc>
 	</programme>
-	<programme channel="5251" start="20241211033000 +0000" stop="20241211040000 +0000">
+	<programme channel="5251" start="20241211032500 +0000" stop="20241211040000 +0000">
 		<title>Art Works Episode 11</title>
 		<desc>Maggie Hensel-Brown shares her lacemaking practice, and we head to Perth Design Week. Bass guitarist Eric Avery shares his story on INSTRUMENTAL. We see how computers can make art and chat to Dr Leuli Eshraghi.</desc>
 	</programme>
@@ -14958,20 +14962,24 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>Can dance be a shortcut to better health? Myf Warhurst hosts a unique experiment where a group of over 65 year olds attempt to slow the effects of ageing through dance training culminating in a special performance.</desc>
 	</programme>
 	<programme channel="5251" start="20241211050000 +0000" stop="20241211060000 +0000">
-		<title>Afternoon Briefing Episode 228</title>
-		<desc>Live from Parliament House in Canberra, Greg Jennett brings you everything you need to know about politics, national and global affairs today, speaking with the key decision makers and stakeholders on issues in the news.</desc>
+		<title>ABC News Summer Episode 3</title>
+		<desc>Joe O'Brien presents the latest from ABC News, following today's top stories and coverage of events as they unfold. Plus original reporting, analysis and updated news, sport and weather you need across the summer holidays.</desc>
 	</programme>
 	<programme channel="5251" start="20241211060000 +0000" stop="20241211070000 +0000">
 		<title>ABC News with Joe O'Brien Episode 248</title>
 		<desc>Joe O'Brien brings you a comprehensive summary of the day's events, with the latest breaking news, in depth coverage of the top stories, live crosses, interviews and explainers to bring you up to speed on what's going on.</desc>
 	</programme>
-	<programme channel="5251" start="20241211070000 +0000" stop="20241211073000 +0000">
+	<programme channel="5251" start="20241211070000 +0000" stop="20241211072500 +0000">
 		<title>The Cook Up With Adam Liaw Episode 70</title>
 		<desc>It's Easy Entertaining, and Adam has lined up two stars, Opera Australia Principal Singers Esther Song and Christian Qi, to make food that's bound to be the star of the show.</desc>
 	</programme>
+	<programme channel="5251" start="20241211072500 +0000" stop="20241211073000 +0000">
+		<title>This Place Episode 33</title>
+		<desc>Professor Len Collard's knowledge of the Whadjuk Nyungar people and ancient dialects provides a deeper meaning to the way of life and the relationship between land, place and the meanings behind places of Nyngar Boojar.</desc>
+	</programme>
 	<programme channel="5251" start="20241211073000 +0000" stop="20241211080000 +0000">
 		<title>That Pacific Sports Show Episode 42</title>
-		<desc>Join Tiana Penitani and Sam Wykes for a weekly hit of Pacific joy, as they share inspiring stories and incredible sporting prowess of athletes with Pacific Island heritage, from Australia and round the world. (Final for 2024)</desc>
+		<desc>Our hosts head to the cinema for our last episode of That Pacific Sports Show for the year. They look back at everything that was, including a special Paris wrap up and of course, a blooper reel. Signing off for 2024!</desc>
 	</programme>
 	<programme channel="5251" start="20241211080000 +0000" stop="20241211083000 +0000">
 		<title>ABC National News Episode 346</title>
@@ -15011,7 +15019,7 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 	</programme>
 	<programme channel="5251" start="20241211130000 +0000" stop="20241211133000 +0000">
 		<title>That Pacific Sports Show Episode 42</title>
-		<desc>Join Tiana Penitani and Sam Wykes for a weekly hit of Pacific joy, as they share inspiring stories and incredible sporting prowess of athletes with Pacific Island heritage, from Australia and round the world. (Final for 2024)</desc>
+		<desc>Our hosts head to the cinema for our last episode of That Pacific Sports Show for the year. They look back at everything that was, including a special Paris wrap up and of course, a blooper reel. Signing off for 2024!</desc>
 	</programme>
 	<programme channel="5251" start="20241211133000 +0000" stop="20241211140000 +0000">
 		<title>7.30 Episode 195</title>
@@ -20806,25 +20814,29 @@ This series tells the story of the wealthy Qiu family who is left rudderless whe
 		<title>PAIK'S LES MISéRABLES / PAIK'S LES MISÉRABLES Episode 2</title>
 		<desc>20名参赛者将经历一系列由白种元设计的艰巨任务。谁将抓住机会，开设自己的餐厅？</desc>
 	</programme>
-	<programme channel="5513" start="20241210143000 +0000" stop="20241210161500 +0000">
+	<programme channel="5513" start="20241210143000 +0000" stop="20241210160500 +0000">
 		<title>PAIK'S LES MISéRABLES / PAIK'S LES MISÉRABLES Episode 2</title>
 		<desc>20名参赛者将经历一系列由白种元设计的艰巨任务。谁将抓住机会，开设自己的餐厅？</desc>
 	</programme>
-	<programme channel="5513" start="20241210161500 +0000" stop="20241210173500 +0000">
+	<programme channel="5513" start="20241210160500 +0000" stop="20241210173000 +0000">
 		<title>姐姐还活着 / BAND OF SISTERS Episode 45</title>
 		<desc>三个女人同样经历过失去亲人的情感创伤。他们在困难时期成为彼此的力量与支柱。</desc>
 	</programme>
-	<programme channel="5513" start="20241210173500 +0000" stop="20241210192000 +0000">
+	<programme channel="5513" start="20241210173000 +0000" stop="20241210190000 +0000">
 		<title>PAIK'S LES MISéRABLES / PAIK'S LES MISÉRABLES Episode 2</title>
 		<desc>20名参赛者将经历一系列由白种元设计的艰巨任务。谁将抓住机会，开设自己的餐厅？</desc>
 	</programme>
-	<programme channel="5513" start="20241210192000 +0000" stop="20241210204000 +0000">
+	<programme channel="5513" start="20241210190000 +0000" stop="20241210202000 +0000">
 		<title>再次相遇的世界 / REUNITED WORLDS Episode 20</title>
 		<desc>讲述一个19岁青年男孩和31岁女子虽然出生于同一年，但不知何故年龄差异了12年的幻想浪漫戏剧。</desc>
 	</programme>
-	<programme channel="5513" start="20241210204000 +0000" stop="20241210220000 +0000">
+	<programme channel="5513" start="20241210202000 +0000" stop="20241210214500 +0000">
 		<title>姐姐还活着 / BAND OF SISTERS Episode 45</title>
 		<desc>三个女人同样经历过失去亲人的情感创伤。他们在困难时期成为彼此的力量与支柱。</desc>
+	</programme>
+	<programme channel="5513" start="20241210214500 +0000" stop="20241210220000 +0000">
+		<title>K-歌 / K-HITS</title>
+		<desc>K-歌为您带来最新的的K -流行音乐。</desc>
 	</programme>
 	<programme channel="5513" start="20241210220000 +0000" stop="20241210224500 +0000">
 		<title>英勇无比龙水晶 / THE BRAVE YONGSUJUNG Episode 116</title>
@@ -24986,25 +24998,29 @@ This series tells the story of the wealthy Qiu family who is left rudderless whe
 		<title>PAIK'S LES MISÉRABLES Episode 2</title>
 		<desc>20 contestants will go through a series of grueling missions designed by Paik Jong-won. Who will seize the opportunity to start his own restaurant?</desc>
 	</programme>
-	<programme channel="5604" start="20241210143000 +0000" stop="20241210161500 +0000">
+	<programme channel="5604" start="20241210143000 +0000" stop="20241210160500 +0000">
 		<title>PAIK'S LES MISÉRABLES Episode 2</title>
 		<desc>20 contestants will go through a series of grueling missions designed by Paik Jong-won. Who will seize the opportunity to start his own restaurant?</desc>
 	</programme>
-	<programme channel="5604" start="20241210161500 +0000" stop="20241210173500 +0000">
+	<programme channel="5604" start="20241210160500 +0000" stop="20241210173000 +0000">
 		<title>BAND OF SISTERS Episode 45</title>
 		<desc>Dal Hee realises Pil Mo has collaborated with Sera's mum to punish her. Se Kyung reveals to Eun Hyang that she is dying from terminal breast cancer.</desc>
 	</programme>
-	<programme channel="5604" start="20241210173500 +0000" stop="20241210192000 +0000">
+	<programme channel="5604" start="20241210173000 +0000" stop="20241210190000 +0000">
 		<title>PAIK'S LES MISÉRABLES Episode 2</title>
 		<desc>20 contestants will go through a series of grueling missions designed by Paik Jong-won. Who will seize the opportunity to start his own restaurant?</desc>
 	</programme>
-	<programme channel="5604" start="20241210192000 +0000" stop="20241210204000 +0000">
+	<programme channel="5604" start="20241210190000 +0000" stop="20241210202000 +0000">
 		<title>REUNITED WORLDS Episode 20</title>
 		<desc>With help from his friends and siblings, Hae Sung finally clears his name. Hae Sung fades away after giving Jung Won a ring as a token of his love.</desc>
 	</programme>
-	<programme channel="5604" start="20241210204000 +0000" stop="20241210220000 +0000">
+	<programme channel="5604" start="20241210202000 +0000" stop="20241210214500 +0000">
 		<title>BAND OF SISTERS Episode 45</title>
 		<desc>Dal Hee realises Pil Mo has collaborated with Sera's mum to punish her. Se Kyung reveals to Eun Hyang that she is dying from terminal breast cancer.</desc>
+	</programme>
+	<programme channel="5604" start="20241210214500 +0000" stop="20241210220000 +0000">
+		<title>K-HITS</title>
+		<desc>K-Hits brings you the latest in the K-Pop scene.</desc>
 	</programme>
 	<programme channel="5604" start="20241210220000 +0000" stop="20241210224500 +0000">
 		<title>THE BRAVE YONGSUJUNG Episode 116</title>
