@@ -5946,8 +5946,8 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>A line-up for ramen in the morning?! Head to an area attracting visitors from around the country in search of...ramen!</desc>
 	</programme>
 	<programme channel="5157" start="20241210114500 +0000" stop="20241210131500 +0000">
-		<title>The NOBEL PEACE PRIZE Award Ceremony</title>
-		<desc>NHK WORLD-JAPAN's flagship hourly news program delivers the latest world news, business and weather, with a focus on Japan and the rest of Asia.</desc>
+		<title>The Nobel Peace Prize Award Ceremony</title>
+		<desc>NHK NEWSLINE will carry live coverage of the Nobel Peace Prize ceremony honoring NIHON HIDANKYO, an organization of A-bomb survivors, featuring analysis from experts on nuclear disarmament.</desc>
 	</programme>
 	<programme channel="5157" start="20241210131500 +0000" stop="20241210133000 +0000">
 		<title>NEWSLINE IN DEPTH</title>
@@ -5974,8 +5974,8 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>NHK WORLD-JAPAN's flagship hourly news program delivers the latest world news, business and weather, with a focus on Japan and the rest of Asia.</desc>
 	</programme>
 	<programme channel="5157" start="20241210151500 +0000" stop="20241210151500 +0000">
-		<title>The NOBEL PEACE PRIZE Award Ceremony</title>
-		<desc>NHK WORLD-JAPAN's flagship hourly news program delivers the latest world news, business and weather, with a focus on Japan and the rest of Asia.</desc>
+		<title>The Nobel Peace Prize Award Ceremony</title>
+		<desc>NHK NEWSLINE will carry live coverage of the Nobel Peace Prize ceremony honoring NIHON HIDANKYO, an organization of A-bomb survivors, featuring analysis from experts on nuclear disarmament.</desc>
 	</programme>
 	<programme channel="5157" start="20241210151500 +0000" stop="20241210164500 +0000">
 		<title>The Nobel Peace Prize Award Ceremony</title>
@@ -14793,57 +14793,65 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<title>House Hunters International (S142) Episode 3</title>
 		<desc>A couple faces financial risks and other complications when they leave Seattle for Glasgow, Scotland.</desc>
 	</programme>
-	<programme channel="5251" start="20241209160000 +0000" stop="20241209170000 +0000">
+	<programme channel="5251" start="20241209160000 +0000" stop="20241209165500 +0000">
 		<title>The Homes That Built Australia</title>
 		<desc>The end of WW2 marks the beginning of radical transformations to Australia's housing landscape - social, cultural and architectural history is about to unfold in ways never before seen on this vast continent.</desc>
 	</programme>
-	<programme channel="5251" start="20241209170000 +0000" stop="20241209171500 +0000">
+	<programme channel="5251" start="20241209165500 +0000" stop="20241209171000 +0000">
 		<title>ABC Late News Episode 246</title>
 		<desc>Follow the story with the latest on today's news, explaining what's happening and why it matters. ABC News has reporters across Australia and around the globe covering what you need to know. Presented by Jade Barker in Perth.</desc>
 	</programme>
-	<programme channel="5251" start="20241209171500 +0000" stop="20241209173000 +0000">
+	<programme channel="5251" start="20241209171000 +0000" stop="20241209172500 +0000">
 		<title>The Business Episode 181</title>
-		<desc>Australia's leading daily business and finance show, bringing you up to date on market moves, economic trends and the forces affecting consumers, employees and business owners big and small. Presented by Kirsten Aiken.</desc>
+		<desc>Home insurance is becoming increasingly unaffordable, with an estimated 180,000 households with mortgages facing "extreme insurance costs". Plus what to expect tomorrow from the RBA's final interest rates meeting of 2024.</desc>
 	</programme>
-	<programme channel="5251" start="20241209173000 +0000" stop="20241209180000 +0000">
+	<programme channel="5251" start="20241209172500 +0000" stop="20241209180000 +0000">
 		<title>7.30 Episode 193</title>
-		<desc>Sarah Ferguson presents Australia's premier daily current affairs program, delivering agenda-setting public affairs journalism and interviews that hold the powerful to account. Plus political analysis from Laura Tingle.</desc>
+		<desc>Police confirm Melbourne synagogue fire is being treated as a terror attack. Plus Chris Bowen, the minister for climate change and energy, and Ted O'Brien, the shadow minister, debate Australia's energy future.</desc>
 	</programme>
 	<programme channel="5251" start="20241209180000 +0000" stop="20241209190000 +0000">
 		<title>The World Episode 197</title>
-		<desc>There's never been a more important time to stay in touch with what's happening in our world. Weeknights at 9pm AEDT, Girish Sawlani presents the latest international news from correspondents and interviews with guests.</desc>
+		<desc>Girish Sawlani brings you the latest news from around the globe. Tonight: Syria's former president Bashar al-Assad arrives in Russia after his government crumbles, and Tonga's PM resigns ahead of a no confidence vote.</desc>
 	</programme>
 	<programme channel="5251" start="20241209190000 +0000" stop="20241209220000 +0000">
 		<title>News Breakfast Episode 247</title>
-		<desc>Be the first to know the latest overnight developments, breaking news and the day's top stories. Michael Rowland and Bridget Brennan bring you news and interviews, joined by Emma Rebellato, Charles Brice and Nate Byrne.</desc>
+		<desc>Be the first to know the latest overnight developments, breaking news and the day's top stories. Michael Rowland and Bridget Brennan bring you news and interviews plus Charles Brice with sport and Emma Rebellato with weather.</desc>
 	</programme>
 	<programme channel="5251" start="20241209220000 +0000" stop="20241210010000 +0000">
 		<title>ABC News Mornings Episode 247</title>
-		<desc>When big stories break, turn to Gemma Veness in the morning to bring you what's happening and why it matters. ABC News has more reporters in more places, serving and connecting communities and telling your stories.</desc>
+		<desc>When big stories break, turn to Melissa Mackay in the morning to bring you what's happening and why it matters. ABC News has more reporters in more places, serving and connecting communities and telling your stories.</desc>
 	</programme>
 	<programme channel="5251" start="20241210010000 +0000" stop="20241210020000 +0000">
 		<title>ABC News At Noon Episode 247</title>
 		<desc>The leading news at lunchtime. Ros Childs brings you the day's top stories and the latest news as it unfolds, with reporters in the community across Australia and around the world reporting on the issues that matter to you.</desc>
 	</programme>
-	<programme channel="5251" start="20241210020000 +0000" stop="20241210023000 +0000">
+	<programme channel="5251" start="20241210020000 +0000" stop="20241210022500 +0000">
 		<title>The Cook Up With Adam Liaw Episode 69</title>
 		<desc>Adam gives his guests, chefs Gunjan Aylawadi and Nagesh Seethiah, the mission of five dollar per-head dinners in fifteen minutes or less.</desc>
 	</programme>
+	<programme channel="5251" start="20241210022500 +0000" stop="20241210023000 +0000">
+		<title>This Place Episode 34</title>
+		<desc>Under the world's oldest picture garden in Broome, WA, sits a jila, or waterhole.Yawuru man Jimmy Edgar remembers the dream time stories of this important meeting place for people from many cultures over thousands of years.</desc>
+	</programme>
 	<programme channel="5251" start="20241210023000 +0000" stop="20241210030000 +0000">
-		<title>Weird Australia</title>
-		<desc>Moataz Hamde investigates the science behind some of Australia's weirdest natural phenomena.</desc>
+		<title>Secret Science Episode 2</title>
+		<desc>Of our six core emotions, anger gets the worst rap. It has the potential to destroy, but as Myf Warhurst discovers, there's a thin line separating its destructive power from the constructive anger that motivates change.</desc>
 	</programme>
 	<programme channel="5251" start="20241210030000 +0000" stop="20241210040000 +0000">
 		<title>War On Waste Episode 3</title>
 		<desc>Craig Reucassel looks at the environmental cost of disposable fashion. He meets waste warriors battling to rescue unwanted fashion items and goes undercover to find out where some of our recycled clothes might end up. (Final)</desc>
 	</programme>
-	<programme channel="5251" start="20241210040000 +0000" stop="20241210050000 +0000">
+	<programme channel="5251" start="20241210040000 +0000" stop="20241210045000 +0000">
 		<title>A Brief History Of Cricket Down Under: The 80s Episode 4</title>
 		<desc>The '80s saw the rise of the legendary fast bowler. Australia cruised into the decade fielding two lethal pacemen, while the West Indies blasted onto the scene with a quartet of very cool and very fast deadly bowling weapons.</desc>
 	</programme>
+	<programme channel="5251" start="20241210045000 +0000" stop="20241210050000 +0000">
+		<title>Beyond Awesome Episode 2</title>
+		<desc>With sea levels on the rise because of climate change, Alan Resture is on a mission to help protect his homeland and that involves making land, literally! We see how it's done.</desc>
+	</programme>
 	<programme channel="5251" start="20241210050000 +0000" stop="20241210060000 +0000">
-		<title>Afternoon Briefing Episode 227</title>
-		<desc>Live from Parliament House in Canberra, Greg Jennett brings you everything you need to know about politics, national and global affairs today, speaking with the key decision makers and stakeholders on issues in the news.</desc>
+		<title>ABC News Summer Episode 2</title>
+		<desc>Joe O'Brien presents the latest from ABC News, following today's top stories and coverage of events as they unfold. Plus original reporting, analysis and updated news, sport and weather you need across the summer holidays.</desc>
 	</programme>
 	<programme channel="5251" start="20241210060000 +0000" stop="20241210070000 +0000">
 		<title>ABC News with Joe O'Brien Episode 247</title>
@@ -14854,8 +14862,8 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>Adam gives his guests, chefs Gunjan Aylawadi and Nagesh Seethiah, the mission of five dollar per-head dinners in fifteen minutes or less.</desc>
 	</programme>
 	<programme channel="5251" start="20241210072500 +0000" stop="20241210080000 +0000">
-		<title>Weird Australia</title>
-		<desc>Moataz Hamde investigates the science behind some of Australia's weirdest natural phenomena.</desc>
+		<title>Secret Science Episode 2</title>
+		<desc>Of our six core emotions, anger gets the worst rap. It has the potential to destroy, but as Myf Warhurst discovers, there's a thin line separating its destructive power from the constructive anger that motivates change.</desc>
 	</programme>
 	<programme channel="5251" start="20241210080000 +0000" stop="20241210083000 +0000">
 		<title>ABC National News Episode 345</title>
@@ -14871,37 +14879,41 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 	</programme>
 	<programme channel="5251" start="20241210094500 +0000" stop="20241210100000 +0000">
 		<title>The Business Episode 182</title>
-		<desc>Australia's leading daily business and finance show, bringing you up to date on market moves, economic trends and the forces affecting consumers, employees and business owners big and small. Presented by Kirsten Aiken.</desc>
+		<desc>The Reserve Bank has left interest rates on hold in December, for a ninth-straight meeting. The RBA kept its cash rate target at 4.35 per cent after a two-day meeting, a level it has been at since November 2023.</desc>
 	</programme>
 	<programme channel="5251" start="20241210100000 +0000" stop="20241210105500 +0000">
 		<title>The World Episode 198</title>
-		<desc>There's never been a more important time to stay in touch with what's happening in our world. Weeknights at 9pm AEDT, Girish Sawlani presents the latest international news from correspondents and interviews with guests.</desc>
+		<desc>Girish Sawlani brings you the latest world news. Tonight: power to be handed to Syria's rebel-led government, a man held over the death of a health executive in New York, plus Rupert Murdoch loses a court battle.</desc>
 	</programme>
-	<programme channel="5251" start="20241210105500 +0000" stop="20241210120500 +0000">
+	<programme channel="5251" start="20241210105500 +0000" stop="20241210115000 +0000">
 		<title>A Brief History Of Cricket Down Under: The 80s Episode 4</title>
 		<desc>The '80s saw the rise of the legendary fast bowler. Australia cruised into the decade fielding two lethal pacemen, while the West Indies blasted onto the scene with a quartet of very cool and very fast deadly bowling weapons.</desc>
 	</programme>
-	<programme channel="5251" start="20241210120500 +0000" stop="20241210123500 +0000">
-		<title>Weird Australia</title>
-		<desc>Moataz Hamde investigates the science behind some of Australia's weirdest natural phenomena.</desc>
+	<programme channel="5251" start="20241210115000 +0000" stop="20241210122000 +0000">
+		<title>In Conversation with Sachin Tendulkar</title>
+		<desc>A masterclass with the Little Master. Paul Kennedy travelled to India for an exclusive one-on-one conversation with Sachin Tendulkar covering his batting technique, aggressive play, focus and deep love of cricket.</desc>
 	</programme>
-	<programme channel="5251" start="20241210123500 +0000" stop="20241210133500 +0000">
+	<programme channel="5251" start="20241210122000 +0000" stop="20241210125000 +0000">
+		<title>Secret Science Episode 2</title>
+		<desc>Of our six core emotions, anger gets the worst rap. It has the potential to destroy, but as Myf Warhurst discovers, there's a thin line separating its destructive power from the constructive anger that motivates change.</desc>
+	</programme>
+	<programme channel="5251" start="20241210125000 +0000" stop="20241210135000 +0000">
 		<title>War On Waste Episode 3</title>
 		<desc>Craig Reucassel looks at the environmental cost of disposable fashion. He meets waste warriors battling to rescue unwanted fashion items and goes undercover to find out where some of our recycled clothes might end up. (Final)</desc>
 	</programme>
-	<programme channel="5251" start="20241210133500 +0000" stop="20241210140500 +0000">
+	<programme channel="5251" start="20241210135000 +0000" stop="20241210142000 +0000">
 		<title>7.30 Episode 194</title>
 		<desc>Sarah Ferguson presents Australia's premier daily current affairs program, delivering agenda-setting public affairs journalism and interviews that hold the powerful to account. Plus political analysis from Laura Tingle.</desc>
 	</programme>
-	<programme channel="5251" start="20241210140500 +0000" stop="20241210142500 +0000">
+	<programme channel="5251" start="20241210142000 +0000" stop="20241210144000 +0000">
 		<title>ABC Late News Episode 247</title>
 		<desc>Follow the story with the latest on today's news, explaining what's happening and why it matters. ABC News has reporters across Australia and around the globe covering what you need to know. Presented by Jade Barker in Perth.</desc>
 	</programme>
-	<programme channel="5251" start="20241210142500 +0000" stop="20241210152000 +0000">
+	<programme channel="5251" start="20241210144000 +0000" stop="20241210153500 +0000">
 		<title>The World Episode 198</title>
-		<desc>There's never been a more important time to stay in touch with what's happening in our world. Weeknights at 9pm AEDT, Girish Sawlani presents the latest international news from correspondents and interviews with guests.</desc>
+		<desc>Girish Sawlani brings you the latest world news. Tonight: power to be handed to Syria's rebel-led government, a man held over the death of a health executive in New York, plus Rupert Murdoch loses a court battle.</desc>
 	</programme>
-	<programme channel="5251" start="20241210152000 +0000" stop="20241210153500 +0000">
+	<programme channel="5251" start="20241210153500 +0000" stop="20241210153500 +0000">
 		<title>A Brief History Of Cricket Down Under: The 80s Episode 4</title>
 		<desc>The '80s saw the rise of the legendary fast bowler. Australia cruised into the decade fielding two lethal pacemen, while the West Indies blasted onto the scene with a quartet of very cool and very fast deadly bowling weapons.</desc>
 	</programme>
