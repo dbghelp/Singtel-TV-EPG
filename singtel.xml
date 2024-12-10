@@ -3753,35 +3753,27 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<title>World Supercross Canadian GP (Vancouver)</title>
 		<desc>The 2024 MotoGP eSports Championship Global Series bringing together 11 of the world's fastest gamers who were selected by MotoGP teams to compete across three intense rounds.</desc>
 	</programme>
-	<programme channel="6114" start="20241210043000 +0000" stop="20241210093000 +0000">
+	<programme channel="6114" start="20241210043000 +0000" stop="20241210113000 +0000">
 		<title>HSBC BWF WTS 300 SYED MODI India International 2024 Episode 2</title>
 		<desc>The HSBC BWF World Tour attracts the world's elite badminton players in competing for prize money and world ranking points in 30 four-tiered tournaments, culminating in the World Tour Finals in December.</desc>
 	</programme>
-	<programme channel="6114" start="20241210093000 +0000" stop="20241210113000 +0000">
-		<title>ROSHN Saudi League 2024/25 Matchday 13</title>
-		<desc>Bringing together prominent professional players from the Kingdom and all around the world, the ROSHN Saudi League delivers weekly thrilling matches to spectators nationally and internationally.</desc>
-	</programme>
-	<programme channel="6114" start="20241210113000 +0000" stop="20241210153000 +0000">
+	<programme channel="6114" start="20241210113000 +0000" stop="20241210160000 +0000">
 		<title>2024 Idemitsu FIM ARRC Round 6: Thailand</title>
 		<desc>The FIM Asia Road Racing Championship is the regional motorcycle road racing championship for Asia, held since 1996.</desc>
-	</programme>
-	<programme channel="6114" start="20241210153000 +0000" stop="20241210160000 +0000">
-		<title>SPOTV Encore: Japan Open 2024 Finals Episode 5</title>
-		<desc>Recap thrilling badminton action of Japan Open on the HSBC BWF World Tour in 2024.</desc>
 	</programme>
 	<programme channel="6114" start="20241210160000 +0000" stop="20241210180000 +0000">
 		<title>ROSHN Saudi League 2024/25 Matchday 13 Episode 2</title>
 		<desc>Bringing together prominent professional players from the Kingdom and all around the world, the ROSHN Saudi League delivers weekly thrilling matches to spectators nationally and internationally.</desc>
 	</programme>
-	<programme channel="6114" start="20241210180000 +0000" stop="20241210223000 +0000">
+	<programme channel="6114" start="20241210180000 +0000" stop="20241210222500 +0000">
 		<title>PSA World Tour 2024/25: Milwaukee Hong Kong Squash Open 2024</title>
 		<desc>The 2024 Milwaukee Hong Kong Squash Open, part of the PSA World Tour Platinum series, showcased high-caliber squash, intense competition, and remarkable sportsmanship.</desc>
 	</programme>
-	<programme channel="6114" start="20241210223000 +0000" stop="20241211010000 +0000">
+	<programme channel="6114" start="20241210222500 +0000" stop="20241211011000 +0000">
 		<title>PSA World Tour 2024/25: Milwaukee Hong Kong Squash Open 2024</title>
 		<desc>The 2024 Milwaukee Hong Kong Squash Open, part of the PSA World Tour Platinum series, showcased high-caliber squash, intense competition, and remarkable sportsmanship.</desc>
 	</programme>
-	<programme channel="6114" start="20241211010000 +0000" stop="20241211013000 +0000">
+	<programme channel="6114" start="20241211011000 +0000" stop="20241211013000 +0000">
 		<title>SPOTV Encore: China Masters 2024 Finals Episode 6</title>
 		<desc>Recap thrilling badminton action of China Open on the HSBC BWF World Tour in 2024.</desc>
 	</programme>
@@ -4598,8 +4590,8 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>LaLiga World 2024/25</desc>
 	</programme>
 	<programme channel="6126" start="20241211120000 +0000" stop="20241211135500 +0000">
-		<title>LFCTV 2024/25: Everton vs Liverpool Episode 17</title>
-		<desc>LFCTV 2024/25</desc>
+		<title>LFCTV Classic 2024/25: Everton vs Liverpool Episode 4</title>
+		<desc>LFCTV Classic 2024/25</desc>
 	</programme>
 	<programme channel="6126" start="20241211135500 +0000" stop="20241211142500 +0000">
 		<title>LFC Trending 2024/25: Episode Number 17 Episode 17</title>
@@ -8361,13 +8353,9 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<title>CNN Newsroom: Monday, December 9, 2024 3pm ET</title>
 		<desc>Live context and clarity to the day's top stories from around the world.</desc>
 	</programme>
-	<programme channel="5167" start="20241209210000 +0000" stop="20241209214500 +0000">
+	<programme channel="5167" start="20241209210000 +0000" stop="20241209220000 +0000">
 		<title>Quest Means Business: Monday, December 9, 2024 4pm ET</title>
 		<desc>Richard Quest speaks to the top names in global business to bring viewers the bottom line.</desc>
-	</programme>
-	<programme channel="5167" start="20241209214500 +0000" stop="20241209220000 +0000">
-		<title>Connecting Africa: Agri Tech</title>
-		<desc>The innovative tech tools revolutionizing agriculture and how technology can drive deeper economic integration and support Africa's journey toward a self-sufficient future.</desc>
 	</programme>
 	<programme channel="5167" start="20241209220000 +0000" stop="20241209223000 +0000">
 		<title>The Lead: Monday, December 9, 2024 5PM</title>
@@ -8521,25 +8509,17 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<title>Laura Coates Live: Tuesday, December 10, 2024 11 PM</title>
 		<desc>Laura Coates goes inside the story with a relentless pursuit of the facts.</desc>
 	</programme>
-	<programme channel="5167" start="20241211050000 +0000" stop="20241211054500 +0000">
+	<programme channel="5167" start="20241211050000 +0000" stop="20241211060000 +0000">
 		<title>CNN Newsroom: Wednesday, December 11, 2024 12am ET</title>
 		<desc>Live context and clarity to the day's top stories from around the world.</desc>
-	</programme>
-	<programme channel="5167" start="20241211054500 +0000" stop="20241211060000 +0000">
-		<title>World Sport: Wednesday, December 11, 2024 1245am ET</title>
-		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
 	</programme>
 	<programme channel="5167" start="20241211060000 +0000" stop="20241211070000 +0000">
 		<title>CNN Newsroom: Wednesday, December 11, 2024 1am ET</title>
 		<desc>Live context and clarity to the day's top stories from around the world.</desc>
 	</programme>
-	<programme channel="5167" start="20241211070000 +0000" stop="20241211074500 +0000">
+	<programme channel="5167" start="20241211070000 +0000" stop="20241211080000 +0000">
 		<title>CNN Newsroom: Wednesday, December 11, 2024 2am ET</title>
 		<desc>Live context and clarity to the day's top stories from around the world.</desc>
-	</programme>
-	<programme channel="5167" start="20241211074500 +0000" stop="20241211080000 +0000">
-		<title>World Sport: Wednesday, December 11, 2024 1245am ET</title>
-		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
 	</programme>
 	<programme channel="5167" start="20241211080000 +0000" stop="20241211083000 +0000">
 		<title>CNN Newsroom: Wednesday, December 11, 2024 3am ET</title>
@@ -8573,13 +8553,9 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<title>CNN Newsroom: Wednesday, December 11, 2024 8am ET</title>
 		<desc>Live context and clarity to the day's top stories from around the world.</desc>
 	</programme>
-	<programme channel="5167" start="20241211140000 +0000" stop="20241211144500 +0000">
+	<programme channel="5167" start="20241211140000 +0000" stop="20241211150000 +0000">
 		<title>Connect the World: Wednesday, December 11, 2024 9am ET</title>
 		<desc>Becky Anderson explores diverse perspectives and explains global issues of the day.</desc>
-	</programme>
-	<programme channel="5167" start="20241211144500 +0000" stop="20241211150000 +0000">
-		<title>World Sport: Wednesday, December 11, 2024 945am ET</title>
-		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
 	</programme>
 	<programme channel="5171" start="20241209160000 +0000" stop="20241209170000 +0000">
 		<title>Bloomberg Technology</title>
@@ -30714,9 +30690,13 @@ This series tells the story of the wealthy Qiu family who is left rudderless whe
 		<title>MTV Hit &amp; Hot Top 20</title>
 		<desc>A comprehensive compilation of the top 20 songs performed by various artists and bands from all over the world are played back-to-back.</desc>
 	</programme>
-	<programme channel="5658" start="20241210040000 +0000" stop="20241210060000 +0000">
+	<programme channel="5658" start="20241210040000 +0000" stop="20241210050000 +0000">
 		<title>Pump Up</title>
 		<desc>A comprehensive and melodious compilation of some of the most popular songs composed by renowned artists is played back to back.</desc>
+	</programme>
+	<programme channel="5658" start="20241210050000 +0000" stop="20241210060000 +0000">
+		<title>Smash Hours</title>
+		<desc>A compilation of some of the most popular songs performed by various artists and bands.</desc>
 	</programme>
 	<programme channel="5658" start="20241210060000 +0000" stop="20241210071500 +0000">
 		<title>Hustle Episode 14</title>
@@ -30814,9 +30794,13 @@ This series tells the story of the wealthy Qiu family who is left rudderless whe
 		<title>Pump Up</title>
 		<desc>A comprehensive and melodious compilation of some of the most popular songs composed by renowned artists is played back to back.</desc>
 	</programme>
-	<programme channel="5658" start="20241211040000 +0000" stop="20241211060000 +0000">
+	<programme channel="5658" start="20241211040000 +0000" stop="20241211050000 +0000">
 		<title>Pump Up</title>
 		<desc>A comprehensive and melodious compilation of some of the most popular songs composed by renowned artists is played back to back.</desc>
+	</programme>
+	<programme channel="5658" start="20241211050000 +0000" stop="20241211060000 +0000">
+		<title>Smash Hours</title>
+		<desc>A compilation of some of the most popular songs performed by various artists and bands.</desc>
 	</programme>
 	<programme channel="5658" start="20241211060000 +0000" stop="20241211071500 +0000">
 		<title>Hustle Episode 13</title>
@@ -32290,49 +32274,45 @@ This series tells the story of the wealthy Qiu family who is left rudderless whe
 		<title>NHK News 845</title>
 		<desc>Today's latest metropolitan area news and weather information program.</desc>
 	</programme>
-	<programme channel="5682" start="20241210120000 +0000" stop="20241210130000 +0000">
+	<programme channel="5682" start="20241210120000 +0000" stop="20241210133000 +0000">
 		<title>News Watch 9 (B)</title>
 		<desc>NHK's mainstay evening news program.</desc>
 	</programme>
-	<programme channel="5682" start="20241210130000 +0000" stop="20241210134500 +0000">
+	<programme channel="5682" start="20241210133000 +0000" stop="20241210141500 +0000">
 		<title>Drama 10 "The Classroom Across the Universe" Eps. 10 (Final)</title>
 		<desc>The story is set in a part-time high school in Shinjuku, Tokyo, where students of different ages and backgrounds, each with diverse circumstances, attend. Under the guidance of the mysterious science teacher Fujitake (Kubota Masataka), who was assigned to the school, they aim to present at an academic conference with an experiment to recreate a Mars crater in the classroom. However, many challenges, including personal obstacles, family troubles, and unbreakable relationships, stand in their way.</desc>
 	</programme>
-	<programme channel="5682" start="20241210134500 +0000" stop="20241210140000 +0000">
-		<title>RAMEN JAPAN 15min.</title>
-		<desc>RAMEN JAPAN 15min.</desc>
-	</programme>
-	<programme channel="5682" start="20241210140000 +0000" stop="20241210143000 +0000">
+	<programme channel="5682" start="20241210141500 +0000" stop="20241210144500 +0000">
 		<title>WARUIKOATSUMARE: For Everyone to Enjoy and Learn about Society</title>
 		<desc>Let's enjoy learning about society with a new educational variety show suitable for children and adults!</desc>
 	</programme>
-	<programme channel="5682" start="20241210143000 +0000" stop="20241210144000 +0000">
+	<programme channel="5682" start="20241210144500 +0000" stop="20241210145500 +0000">
 		<title>News Commentary</title>
 		<desc>NHK news commentators give their views on current issues.</desc>
 	</programme>
-	<programme channel="5682" start="20241210144000 +0000" stop="20241210144500 +0000">
+	<programme channel="5682" start="20241210145500 +0000" stop="20241210150000 +0000">
 		<title>News &amp; Weather</title>
 		<desc>The latest up-to-date news and nationwide weather information.</desc>
 	</programme>
-	<programme channel="5682" start="20241210144500 +0000" stop="20241210152900 +0000">
+	<programme channel="5682" start="20241210150000 +0000" stop="20241210154400 +0000">
 		<title>International News Report 2024</title>
 		<desc>An international news program providing in-depth report on what is happening around the world. (Dual audio when available)</desc>
 	</programme>
-	<programme channel="5682" start="20241210152900 +0000" stop="20241210153000 +0000">
+	<programme channel="5682" start="20241210154400 +0000" stop="20241210154500 +0000">
 		<title>World Weather</title>
 		<desc>Weather information of the different areas around the world.</desc>
 	</programme>
-	<programme channel="5682" start="20241210153000 +0000" stop="20241210153000 +0000">
+	<programme channel="5682" start="20241210154500 +0000" stop="20241210154500 +0000">
 		<title>Recipe for Fulfilling Second Life!</title>
 		<desc>An information program for people in their 50s and 60s providing tips on how to have a fulfilling second life.</desc>
 	</programme>
-	<programme channel="5682" start="20241210153000 +0000" stop="20241210161500 +0000">
+	<programme channel="5682" start="20241210154500 +0000" stop="20241210163000 +0000">
 		<title>Recipe for Fulfilling Second Life!</title>
 		<desc>An information program for people in their 50s and 60s providing tips on how to have a fulfilling second life.</desc>
 	</programme>
-	<programme channel="5682" start="20241210161500 +0000" stop="20241210164000 +0000">
-		<title>Today's Cooking</title>
-		<desc>Cooking instructors will show all there is to know for a good hearty cooking.</desc>
+	<programme channel="5682" start="20241210163000 +0000" stop="20241210164000 +0000">
+		<title>Rural Japan "Satoyama"</title>
+		<desc>Rural Japan "Satoyama"</desc>
 	</programme>
 	<programme channel="5682" start="20241210164000 +0000" stop="20241210170500 +0000">
 		<title>Tanka Poetry</title>
@@ -32572,7 +32552,7 @@ This series tells the story of the wealthy Qiu family who is left rudderless whe
 	</programme>
 	<programme channel="5682" start="20241211130000 +0000" stop="20241211134500 +0000">
 		<title>History Detective</title>
-		<desc>History Detective</desc>
+		<desc>A historical documentary program starring an actor Sato Jiro as a boss of a history detective agency. Conducting on-site investigations and scientific simulations, Jiro and his detective team dig into and uncover the truth from historic mystery.</desc>
 	</programme>
 	<programme channel="5682" start="20241211134500 +0000" stop="20241211140000 +0000">
 		<title>RAMEN JAPAN 15min.</title>
