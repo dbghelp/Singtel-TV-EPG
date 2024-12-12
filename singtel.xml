@@ -1086,7 +1086,7 @@
 	</programme>
 	<programme channel="5003" start="20241212143000 +0000" stop="20241212150000 +0000">
 		<title>焦点 Episode 33</title>
-		<desc>《焦点》追踪国际时事，实地报道区域课题，以新加坡的视角分析时局发展的前因后果和潜在影响。</desc>
+		<desc>阿萨德政府倒台，叙利亚的未来何去何从？韩国执政的国民力量党能避免总统尹锡悦被反对党弹劾吗？</desc>
 	</programme>
 	<programme channel="5003" start="20241212150000 +0000" stop="20241212160000 +0000">
 		<title>长风渡 Episode 35</title>
@@ -4480,7 +4480,7 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>Chasing the Dream 6</desc>
 	</programme>
 	<programme channel="6126" start="20241213135500 +0000" stop="20241213153000 +0000">
-		<title>Women's EHF Euro 2024: Episode Number 61 (Live) Episode 61</title>
+		<title>Women's EHF Euro 2024: Sweden vs Netherlands (Live) Episode 61</title>
 		<desc>Women's EHF Euro 2024</desc>
 	</programme>
 	<programme channel="6127" start="20241211160000 +0000" stop="20241211162000 +0000">
@@ -5984,8 +5984,8 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>Introducing a colorful variety of feature stories, including reports on daily life from locations throughout Japan, as well as other parts of Asia and around the world.</desc>
 	</programme>
 	<programme channel="5157" start="20241213023000 +0000" stop="20241213030000 +0000">
-		<title>NHK WORLD TV Special program</title>
-		<desc>A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+		<title>100 CAMERAS: Tokyo Metro</title>
+		<desc>A vast subway network beneath the streets of the metropolis: the Tokyo Metro. In the first-ever report from its HQ, we see how staff and drivers collaborate to achieve safety and punctuality.</desc>
 	</programme>
 	<programme channel="5157" start="20241213030000 +0000" stop="20241213031500 +0000">
 		<title>NHK NEWSLINE</title>
@@ -6044,8 +6044,8 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>This daily news program picks up the key news stories of the past 24 hours from Japan and around Asia.</desc>
 	</programme>
 	<programme channel="5157" start="20241213073000 +0000" stop="20241213080000 +0000">
-		<title>NHK WORLD TV Special program</title>
-		<desc>A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+		<title>100 CAMERAS: Tokyo Metro</title>
+		<desc>A vast subway network beneath the streets of the metropolis: the Tokyo Metro. In the first-ever report from its HQ, we see how staff and drivers collaborate to achieve safety and punctuality.</desc>
 	</programme>
 	<programme channel="5157" start="20241213080000 +0000" stop="20241213081400 +0000">
 		<title>NHK NEWSLINE</title>
@@ -6140,8 +6140,8 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>Introducing a colorful variety of feature stories, including reports on daily life from locations throughout Japan, as well as other parts of Asia and around the world.</desc>
 	</programme>
 	<programme channel="5157" start="20241213133000 +0000" stop="20241213140000 +0000">
-		<title>NHK WORLD TV Special program</title>
-		<desc>A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+		<title>100 CAMERAS: Tokyo Metro</title>
+		<desc>A vast subway network beneath the streets of the metropolis: the Tokyo Metro. In the first-ever report from its HQ, we see how staff and drivers collaborate to achieve safety and punctuality.</desc>
 	</programme>
 	<programme channel="5157" start="20241213140000 +0000" stop="20241213141500 +0000">
 		<title>NHK NEWSLINE</title>
@@ -27763,288 +27763,324 @@ Chinese Restaurants, acclaimed as the pinnacle of Chinese cuisine, are considere
 		<desc>Aadhya, after losing her mother, is cared for by her aunt Janaki, who must balance Aadhya's urban lifestyle with her family's disapproval. Can Janaki provide the life Aadhya deserves?</desc>
 	</programme>
 	<programme channel="5632" start="20241211183000 +0000" stop="20241211190000 +0000">
-		<title>Idhayam Episode 497</title>
-		<desc>Shankar's discovery of his friend being a womanizer comes to light when his wife is accused of murdering him, revealing another suspect.</desc>
+		<title>Karthigai Deepam Episode 685</title>
+		<desc>A gifted dark-skinned woman, a remarkable singer, marries a supportive man, defies beauty norms, and achieves music stardom with her talent.</desc>
 	</programme>
 	<programme channel="5632" start="20241211190000 +0000" stop="20241211193000 +0000">
-		<title>Idhayam Episode 498</title>
-		<desc>Shankar's discovery of his friend being a womanizer comes to light when his wife is accused of murdering him, revealing another suspect.</desc>
-	</programme>
-	<programme channel="5632" start="20241211193000 +0000" stop="20241211200000 +0000">
-		<title>KCKC - Bhaagamathie Episode 131</title>
-		<desc>Konjam Coffee Konjam Cinema - Comedy and action scenes from your favourite stars' movies.</desc>
-	</programme>
-	<programme channel="5632" start="20241211200000 +0000" stop="20241211203000 +0000">
-		<title>Mounam Pesiyathey Episode 32</title>
-		<desc>Thulasi, married to the thug Sethu, meets Siva, who loses his memory.Mistaken for his wife, she pretends to be, but as Sethu searches for her, she falls in love with Siva.</desc>
-	</programme>
-	<programme channel="5632" start="20241211203000 +0000" stop="20241211210000 +0000">
-		<title>Naane Varuvean Episode 197</title>
-		<desc>Radha, a cheerful girl, is head over heels for Mohan, a cynical businessman, despite being aware of the fact that he has a daughter. However, she believes that she can turn him into a good man.</desc>
-	</programme>
-	<programme channel="5632" start="20241211210000 +0000" stop="20241211213000 +0000">
-		<title>Zee Flix Episode 654</title>
-		<desc>Tune in for best movie scenes.</desc>
-	</programme>
-	<programme channel="5632" start="20241211213000 +0000" stop="20241211220000 +0000">
-		<title>Nee Pathi Naan Paathi Episode 90</title>
-		<desc>Shakti's unwavering love aims to heal Shiv's broken soul, while Shiv strives to transform Shakti into a great doctor. Their journey is filled with hope and dedication.</desc>
-	</programme>
-	<programme channel="5632" start="20241211220000 +0000" stop="20241211223000 +0000">
-		<title>Ninaithale Inikkum Episode 1114</title>
-		<desc>Meet a determined girl with big dreams of becoming a successful businesswoman. Follow her journey as she navigates challenges, pursues her passions, and learns what it takes to succeed.</desc>
-	</programme>
-	<programme channel="5632" start="20241211223000 +0000" stop="20241211230000 +0000">
-		<title>Anna Episode 543</title>
-		<desc>When a caring brother discovers the evil guy tormenting his estranged sister, he springs into action to confront the villain and help turn her life around for the better.</desc>
-	</programme>
-	<programme channel="5632" start="20241211230000 +0000" stop="20241212000000 +0000">
-		<title>Valliyin Velan Episode 75</title>
-		<desc>It is the story of Valli, who is rejected by her father Rathinavel because of her mother's deceit. Determined to prove her mother's innocence, she seeks help from Kadhirvelan to win his love.</desc>
-	</programme>
-	<programme channel="5632" start="20241212000000 +0000" stop="20241212003000 +0000">
 		<title>Nenjathai Killadhe Episode 121</title>
 		<desc>Story of Goutham, an overweight businessman, who marries Mathumitha, an educated woman from a middle-class background. Though older, will their arranged marriage lead to love?</desc>
 	</programme>
-	<programme channel="5632" start="20241212003000 +0000" stop="20241212010000 +0000">
+	<programme channel="5632" start="20241211193000 +0000" stop="20241211200000 +0000">
 		<title>Veera Episode 215</title>
 		<desc>Rannvijay raises his half-sister Veera as his own child, while their mother Ratan, though showing contempt towards Veera, secretly supports her son in raising her.</desc>
 	</programme>
-	<programme channel="5632" start="20241212010000 +0000" stop="20241212013000 +0000">
+	<programme channel="5632" start="20241211200000 +0000" stop="20241211203000 +0000">
 		<title>Naane Varuvean Episode 197</title>
 		<desc>Radha, a cheerful girl, is head over heels for Mohan, a cynical businessman, despite being aware of the fact that he has a daughter. However, she believes that she can turn him into a good man.</desc>
 	</programme>
-	<programme channel="5632" start="20241212013000 +0000" stop="20241212020000 +0000">
+	<programme channel="5632" start="20241211203000 +0000" stop="20241211210000 +0000">
 		<title>Mounam Pesiyathey Episode 32</title>
 		<desc>Thulasi, married to the thug Sethu, meets Siva, who loses his memory.Mistaken for his wife, she pretends to be, but as Sethu searches for her, she falls in love with Siva.</desc>
 	</programme>
-	<programme channel="5632" start="20241212020000 +0000" stop="20241212023000 +0000">
+	<programme channel="5632" start="20241211210000 +0000" stop="20241211213000 +0000">
 		<title>Ninaithale Inikkum Episode 1114</title>
 		<desc>Meet a determined girl with big dreams of becoming a successful businesswoman. Follow her journey as she navigates challenges, pursues her passions, and learns what it takes to succeed.</desc>
 	</programme>
-	<programme channel="5632" start="20241212023000 +0000" stop="20241212033000 +0000">
+	<programme channel="5632" start="20241211213000 +0000" stop="20241211220000 +0000">
 		<title>Sandhya Raagam Episode 395</title>
 		<desc>Aadhya, after losing her mother, is cared for by her aunt Janaki, who must balance Aadhya's urban lifestyle with her family's disapproval. Can Janaki provide the life Aadhya deserves?</desc>
 	</programme>
-	<programme channel="5632" start="20241212033000 +0000" stop="20241212040000 +0000">
+	<programme channel="5632" start="20241211220000 +0000" stop="20241211223000 +0000">
+		<title>Karthigai Deepam Episode 685</title>
+		<desc>A gifted dark-skinned woman, a remarkable singer, marries a supportive man, defies beauty norms, and achieves music stardom with her talent.</desc>
+	</programme>
+	<programme channel="5632" start="20241211223000 +0000" stop="20241211230000 +0000">
 		<title>Mounam Pesiyathey Episode 32</title>
 		<desc>Thulasi, married to the thug Sethu, meets Siva, who loses his memory.Mistaken for his wife, she pretends to be, but as Sethu searches for her, she falls in love with Siva.</desc>
 	</programme>
-	<programme channel="5632" start="20241212040000 +0000" stop="20241212050000 +0000">
+	<programme channel="5632" start="20241211230000 +0000" stop="20241211233000 +0000">
 		<title>Veera Episode 215</title>
 		<desc>Rannvijay raises his half-sister Veera as his own child, while their mother Ratan, though showing contempt towards Veera, secretly supports her son in raising her.</desc>
 	</programme>
-	<programme channel="5632" start="20241212050000 +0000" stop="20241212053000 +0000">
+	<programme channel="5632" start="20241211233000 +0000" stop="20241212000000 +0000">
+		<title>Oru Oorula Oru Raja Kumari Episode 94</title>
+		<desc>Tells the story of Rasathi, a spunky, overweight girl who faces body shaming. She is married to a celebrated Kabbadi player, leading to a journey of self-acceptance and love.</desc>
+	</programme>
+	<programme channel="5632" start="20241212000000 +0000" stop="20241212003000 +0000">
 		<title>Sembaruthi Episode 182</title>
 		<desc>The show will explore mindset and class conflict of two different personalities 'Akhilandeshwari ' and 'Parvathi'. Office Karthik and DJD Kathir are playing the lead roles in this Fiction</desc>
 	</programme>
-	<programme channel="5632" start="20241212053000 +0000" stop="20241212060000 +0000">
+	<programme channel="5632" start="20241212003000 +0000" stop="20241212010000 +0000">
 		<title>Sembaruthi Episode 183</title>
 		<desc>The show will explore mindset and class conflict of two different personalities 'Akhilandeshwari ' and 'Parvathi'. Office Karthik and DJD Kathir are playing the lead roles in this Fiction</desc>
 	</programme>
-	<programme channel="5632" start="20241212060000 +0000" stop="20241212063000 +0000">
+	<programme channel="5632" start="20241212010000 +0000" stop="20241212013000 +0000">
 		<title>Thirumathi Hitler Episode 158</title>
 		<desc>It's a drama-comedy series about AJ, a perfectionist, and Hasini, a challenge-loving woman. The plot revolves around their marriage, with the help of AJ's three daughters-in-law.</desc>
 	</programme>
-	<programme channel="5632" start="20241212063000 +0000" stop="20241212073000 +0000">
+	<programme channel="5632" start="20241212013000 +0000" stop="20241212023000 +0000">
 		<title>Genes S02 Episode 36</title>
 		<desc>'Genes' is a fun show where celebrities dive into their genetic roots, connecting with real families by uncovering their surprising genetic similarities. It's all about discovering your hidden connections!</desc>
 	</programme>
-	<programme channel="5632" start="20241212073000 +0000" stop="20241212080000 +0000">
+	<programme channel="5632" start="20241212023000 +0000" stop="20241212030000 +0000">
 		<title>Nenjathai Killadhe Episode 121</title>
 		<desc>Story of Goutham, an overweight businessman, who marries Mathumitha, an educated woman from a middle-class background. Though older, will their arranged marriage lead to love?</desc>
 	</programme>
-	<programme channel="5632" start="20241212080000 +0000" stop="20241212103000 +0000">
+	<programme channel="5632" start="20241212030000 +0000" stop="20241212053000 +0000">
 		<title>Dora</title>
 		<desc>Tamil Horror Thriller Film, Starring, Nayantara, Thambi Ramaiah, Harish Uthaman, Sulile Kumar, Shan and Others Release Year: 2017 Director: DoSS Ramasamy</desc>
 	</programme>
-	<programme channel="5632" start="20241212103000 +0000" stop="20241212110000 +0000">
+	<programme channel="5632" start="20241212053000 +0000" stop="20241212060000 +0000">
 		<title>KCKC - God Father Episode 38</title>
 		<desc>Konjam Coffee Konjam Cinema - Comedy and action scenes from your favourite stars' movies.</desc>
 	</programme>
-	<programme channel="5632" start="20241212110000 +0000" stop="20241212113000 +0000">
+	<programme channel="5632" start="20241212060000 +0000" stop="20241212063000 +0000">
 		<title>KCKC - Billa Pandi Episode 132</title>
 		<desc>Konjam Coffee Konjam Cinema - Comedy and action scenes from your favourite stars' movies.</desc>
 	</programme>
-	<programme channel="5632" start="20241212113000 +0000" stop="20241212120000 +0000">
+	<programme channel="5632" start="20241212063000 +0000" stop="20241212070000 +0000">
 		<title>Naane Varuvean Episode 198</title>
 		<desc>Radha, a cheerful girl, is head over heels for Mohan, a cynical businessman, despite being aware of the fact that he has a daughter. However, she believes that she can turn him into a good man.</desc>
 	</programme>
-	<programme channel="5632" start="20241212120000 +0000" stop="20241212123000 +0000">
+	<programme channel="5632" start="20241212070000 +0000" stop="20241212073000 +0000">
 		<title>Nee Pathi Naan Paathi Episode 91</title>
 		<desc>Shakti's unwavering love aims to heal Shiv's broken soul, while Shiv strives to transform Shakti into a great doctor. Their journey is filled with hope and dedication.</desc>
 	</programme>
-	<programme channel="5632" start="20241212123000 +0000" stop="20241212130000 +0000">
+	<programme channel="5632" start="20241212073000 +0000" stop="20241212080000 +0000">
 		<title>Mounam Pesiyathey Episode 33</title>
 		<desc>Thulasi, married to the thug Sethu, meets Siva, who loses his memory.Mistaken for his wife, she pretends to be, but as Sethu searches for her, she falls in love with Siva.</desc>
 	</programme>
-	<programme channel="5632" start="20241212130000 +0000" stop="20241212133000 +0000">
+	<programme channel="5632" start="20241212080000 +0000" stop="20241212083000 +0000">
 		<title>Valliyin Velan Episode 75</title>
 		<desc>It is the story of Valli, who is rejected by her father Rathinavel because of her mother's deceit. Determined to prove her mother's innocence, she seeks help from Kadhirvelan to win his love.</desc>
 	</programme>
-	<programme channel="5632" start="20241212133000 +0000" stop="20241212140000 +0000">
+	<programme channel="5632" start="20241212083000 +0000" stop="20241212090000 +0000">
 		<title>Ninaithale Inikkum Episode 1115</title>
 		<desc>Meet a determined girl with big dreams of becoming a successful businesswoman. Follow her journey as she navigates challenges, pursues her passions, and learns what it takes to succeed.</desc>
 	</programme>
-	<programme channel="5632" start="20241212140000 +0000" stop="20241212143000 +0000">
+	<programme channel="5632" start="20241212090000 +0000" stop="20241212093000 +0000">
 		<title>Lakshmi Kalyanam Episode 166</title>
 		<desc>Lakshmi's life takes an unexpected turn when her family gets her married to a rich businessman, Rishi. However, she is feeling betrayed when she learns the truth about her marriage</desc>
 	</programme>
-	<programme channel="5632" start="20241212143000 +0000" stop="20241212150000 +0000">
+	<programme channel="5632" start="20241212093000 +0000" stop="20241212100000 +0000">
 		<title>Veera Episode 216</title>
 		<desc>Rannvijay raises his half-sister Veera as his own child, while their mother Ratan, though showing contempt towards Veera, secretly supports her son in raising her.</desc>
 	</programme>
-	<programme channel="5632" start="20241212150000 +0000" stop="20241212160000 +0000">
+	<programme channel="5632" start="20241212100000 +0000" stop="20241212103000 +0000">
 		<title>Maari Episode 782</title>
 		<desc>Maari' is about a gifted village girl facing victimization for her premonition powers. Unexpectedly marrying Surya, she becomes his savior.</desc>
 	</programme>
-	<programme channel="5632" start="20241212160000 +0000" stop="20241212163000 +0000">
+	<programme channel="5632" start="20241212103000 +0000" stop="20241212110000 +0000">
+		<title>Ninaithaen Vanthai Episode 250</title>
+		<desc>Devastated by his wife Indhumathi's death, Ezhil finds solace when Sudarvizhi, a simple village girl, steps in to care for his children.</desc>
+	</programme>
+	<programme channel="5632" start="20241212110000 +0000" stop="20241212113000 +0000">
 		<title>Nenjathai Killadhe Episode 122</title>
 		<desc>Story of Goutham, an overweight businessman, who marries Mathumitha, an educated woman from a middle-class background. Though older, will their arranged marriage lead to love?</desc>
 	</programme>
-	<programme channel="5632" start="20241212163000 +0000" stop="20241212173000 +0000">
+	<programme channel="5632" start="20241212113000 +0000" stop="20241212120000 +0000">
 		<title>Anna Episode 544</title>
 		<desc>When a caring brother discovers the evil guy tormenting his estranged sister, he springs into action to confront the villain and help turn her life around for the better.</desc>
 	</programme>
-	<programme channel="5632" start="20241212173000 +0000" stop="20241212180000 +0000">
+	<programme channel="5632" start="20241212120000 +0000" stop="20241212123000 +0000">
+		<title>Karthigai Deepam Episode 686</title>
+		<desc>A gifted dark-skinned woman, a remarkable singer, marries a supportive man, defies beauty norms, and achieves music stardom with her talent.</desc>
+	</programme>
+	<programme channel="5632" start="20241212123000 +0000" stop="20241212130000 +0000">
 		<title>Valliyin Velan Episode 76</title>
 		<desc>It is the story of Valli, who is rejected by her father Rathinavel because of her mother's deceit. Determined to prove her mother's innocence, she seeks help from Kadhirvelan to win his love.</desc>
 	</programme>
-	<programme channel="5632" start="20241212180000 +0000" stop="20241212183000 +0000">
+	<programme channel="5632" start="20241212130000 +0000" stop="20241212133000 +0000">
 		<title>Sandhya Raagam Episode 396</title>
 		<desc>Aadhya, after losing her mother, is cared for by her aunt Janaki, who must balance Aadhya's urban lifestyle with her family's disapproval. Can Janaki provide the life Aadhya deserves?</desc>
 	</programme>
-	<programme channel="5632" start="20241212183000 +0000" stop="20241212190000 +0000">
+	<programme channel="5632" start="20241212133000 +0000" stop="20241212140000 +0000">
 		<title>Idhayam Episode 499</title>
 		<desc>Shankar's discovery of his friend being a womanizer comes to light when his wife is accused of murdering him, revealing another suspect.</desc>
 	</programme>
-	<programme channel="5632" start="20241212190000 +0000" stop="20241212193000 +0000">
+	<programme channel="5632" start="20241212140000 +0000" stop="20241212143000 +0000">
 		<title>Idhayam Episode 500</title>
 		<desc>Shankar's discovery of his friend being a womanizer comes to light when his wife is accused of murdering him, revealing another suspect.</desc>
 	</programme>
-	<programme channel="5632" start="20241212193000 +0000" stop="20241212200000 +0000">
+	<programme channel="5632" start="20241212143000 +0000" stop="20241212150000 +0000">
 		<title>KCKC - Billa Pandi Episode 132</title>
 		<desc>Konjam Coffee Konjam Cinema - Comedy and action scenes from your favourite stars' movies.</desc>
 	</programme>
-	<programme channel="5632" start="20241212200000 +0000" stop="20241212203000 +0000">
+	<programme channel="5632" start="20241212150000 +0000" stop="20241212153000 +0000">
 		<title>Mounam Pesiyathey Episode 33</title>
 		<desc>Thulasi, married to the thug Sethu, meets Siva, who loses his memory.Mistaken for his wife, she pretends to be, but as Sethu searches for her, she falls in love with Siva.</desc>
 	</programme>
-	<programme channel="5632" start="20241212203000 +0000" stop="20241212210000 +0000">
+	<programme channel="5632" start="20241212153000 +0000" stop="20241212160000 +0000">
 		<title>Naane Varuvean Episode 198</title>
 		<desc>Radha, a cheerful girl, is head over heels for Mohan, a cynical businessman, despite being aware of the fact that he has a daughter. However, she believes that she can turn him into a good man.</desc>
 	</programme>
-	<programme channel="5632" start="20241212210000 +0000" stop="20241212213000 +0000">
+	<programme channel="5632" start="20241212160000 +0000" stop="20241212163000 +0000">
 		<title>Zee Flix Episode 655</title>
 		<desc>Tune in for best movie scenes.</desc>
 	</programme>
-	<programme channel="5632" start="20241212213000 +0000" stop="20241212220000 +0000">
+	<programme channel="5632" start="20241212163000 +0000" stop="20241212170000 +0000">
 		<title>Nee Pathi Naan Paathi Episode 91</title>
 		<desc>Shakti's unwavering love aims to heal Shiv's broken soul, while Shiv strives to transform Shakti into a great doctor. Their journey is filled with hope and dedication.</desc>
 	</programme>
-	<programme channel="5632" start="20241212220000 +0000" stop="20241212223000 +0000">
+	<programme channel="5632" start="20241212170000 +0000" stop="20241212173000 +0000">
 		<title>Ninaithale Inikkum Episode 1115</title>
 		<desc>Meet a determined girl with big dreams of becoming a successful businesswoman. Follow her journey as she navigates challenges, pursues her passions, and learns what it takes to succeed.</desc>
 	</programme>
-	<programme channel="5632" start="20241212223000 +0000" stop="20241212230000 +0000">
+	<programme channel="5632" start="20241212173000 +0000" stop="20241212180000 +0000">
 		<title>Anna Episode 544</title>
 		<desc>When a caring brother discovers the evil guy tormenting his estranged sister, he springs into action to confront the villain and help turn her life around for the better.</desc>
 	</programme>
-	<programme channel="5632" start="20241212230000 +0000" stop="20241213000000 +0000">
+	<programme channel="5632" start="20241212180000 +0000" stop="20241212183000 +0000">
 		<title>Valliyin Velan Episode 76</title>
 		<desc>It is the story of Valli, who is rejected by her father Rathinavel because of her mother's deceit. Determined to prove her mother's innocence, she seeks help from Kadhirvelan to win his love.</desc>
 	</programme>
-	<programme channel="5632" start="20241213000000 +0000" stop="20241213003000 +0000">
+	<programme channel="5632" start="20241212183000 +0000" stop="20241212190000 +0000">
+		<title>Karthigai Deepam Episode 686</title>
+		<desc>A gifted dark-skinned woman, a remarkable singer, marries a supportive man, defies beauty norms, and achieves music stardom with her talent.</desc>
+	</programme>
+	<programme channel="5632" start="20241212190000 +0000" stop="20241212193000 +0000">
 		<title>Nenjathai Killadhe Episode 122</title>
 		<desc>Story of Goutham, an overweight businessman, who marries Mathumitha, an educated woman from a middle-class background. Though older, will their arranged marriage lead to love?</desc>
 	</programme>
-	<programme channel="5632" start="20241213003000 +0000" stop="20241213010000 +0000">
+	<programme channel="5632" start="20241212193000 +0000" stop="20241212200000 +0000">
 		<title>Veera Episode 216</title>
 		<desc>Rannvijay raises his half-sister Veera as his own child, while their mother Ratan, though showing contempt towards Veera, secretly supports her son in raising her.</desc>
 	</programme>
-	<programme channel="5632" start="20241213010000 +0000" stop="20241213013000 +0000">
+	<programme channel="5632" start="20241212200000 +0000" stop="20241212203000 +0000">
 		<title>Naane Varuvean Episode 198</title>
 		<desc>Radha, a cheerful girl, is head over heels for Mohan, a cynical businessman, despite being aware of the fact that he has a daughter. However, she believes that she can turn him into a good man.</desc>
 	</programme>
-	<programme channel="5632" start="20241213013000 +0000" stop="20241213020000 +0000">
+	<programme channel="5632" start="20241212203000 +0000" stop="20241212210000 +0000">
 		<title>Mounam Pesiyathey Episode 33</title>
 		<desc>Thulasi, married to the thug Sethu, meets Siva, who loses his memory.Mistaken for his wife, she pretends to be, but as Sethu searches for her, she falls in love with Siva.</desc>
 	</programme>
-	<programme channel="5632" start="20241213020000 +0000" stop="20241213023000 +0000">
+	<programme channel="5632" start="20241212210000 +0000" stop="20241212213000 +0000">
 		<title>Ninaithale Inikkum Episode 1115</title>
 		<desc>Meet a determined girl with big dreams of becoming a successful businesswoman. Follow her journey as she navigates challenges, pursues her passions, and learns what it takes to succeed.</desc>
 	</programme>
-	<programme channel="5632" start="20241213023000 +0000" stop="20241213033000 +0000">
+	<programme channel="5632" start="20241212213000 +0000" stop="20241212220000 +0000">
 		<title>Sandhya Raagam Episode 396</title>
 		<desc>Aadhya, after losing her mother, is cared for by her aunt Janaki, who must balance Aadhya's urban lifestyle with her family's disapproval. Can Janaki provide the life Aadhya deserves?</desc>
 	</programme>
-	<programme channel="5632" start="20241213033000 +0000" stop="20241213040000 +0000">
+	<programme channel="5632" start="20241212220000 +0000" stop="20241212223000 +0000">
+		<title>Karthigai Deepam Episode 686</title>
+		<desc>A gifted dark-skinned woman, a remarkable singer, marries a supportive man, defies beauty norms, and achieves music stardom with her talent.</desc>
+	</programme>
+	<programme channel="5632" start="20241212223000 +0000" stop="20241212230000 +0000">
 		<title>Mounam Pesiyathey Episode 33</title>
 		<desc>Thulasi, married to the thug Sethu, meets Siva, who loses his memory.Mistaken for his wife, she pretends to be, but as Sethu searches for her, she falls in love with Siva.</desc>
 	</programme>
-	<programme channel="5632" start="20241213040000 +0000" stop="20241213050000 +0000">
+	<programme channel="5632" start="20241212230000 +0000" stop="20241212233000 +0000">
 		<title>Veera Episode 216</title>
 		<desc>Rannvijay raises his half-sister Veera as his own child, while their mother Ratan, though showing contempt towards Veera, secretly supports her son in raising her.</desc>
 	</programme>
-	<programme channel="5632" start="20241213050000 +0000" stop="20241213053000 +0000">
+	<programme channel="5632" start="20241212233000 +0000" stop="20241213000000 +0000">
+		<title>Oru Oorula Oru Raja Kumari Episode 95</title>
+		<desc>Tells the story of Rasathi, a spunky, overweight girl who faces body shaming. She is married to a celebrated Kabbadi player, leading to a journey of self-acceptance and love.</desc>
+	</programme>
+	<programme channel="5632" start="20241213000000 +0000" stop="20241213003000 +0000">
 		<title>Sembaruthi Episode 184</title>
 		<desc>The show will explore mindset and class conflict of two different personalities 'Akhilandeshwari ' and 'Parvathi'. Office Karthik and DJD Kathir are playing the lead roles in this Fiction</desc>
 	</programme>
-	<programme channel="5632" start="20241213053000 +0000" stop="20241213060000 +0000">
+	<programme channel="5632" start="20241213003000 +0000" stop="20241213010000 +0000">
 		<title>Sembaruthi Episode 185</title>
 		<desc>The show will explore mindset and class conflict of two different personalities 'Akhilandeshwari ' and 'Parvathi'. Office Karthik and DJD Kathir are playing the lead roles in this Fiction</desc>
 	</programme>
-	<programme channel="5632" start="20241213060000 +0000" stop="20241213063000 +0000">
+	<programme channel="5632" start="20241213010000 +0000" stop="20241213013000 +0000">
 		<title>Thirumathi Hitler Episode 159</title>
 		<desc>It's a drama-comedy series about AJ, a perfectionist, and Hasini, a challenge-loving woman. The plot revolves around their marriage, with the help of AJ's three daughters-in-law.</desc>
 	</programme>
-	<programme channel="5632" start="20241213063000 +0000" stop="20241213073000 +0000">
+	<programme channel="5632" start="20241213013000 +0000" stop="20241213023000 +0000">
 		<title>Genes S02 Episode 37</title>
 		<desc>'Genes' is a fun show where celebrities dive into their genetic roots, connecting with real families by uncovering their surprising genetic similarities. It's all about discovering your hidden connections!</desc>
 	</programme>
-	<programme channel="5632" start="20241213073000 +0000" stop="20241213080000 +0000">
+	<programme channel="5632" start="20241213023000 +0000" stop="20241213030000 +0000">
 		<title>Nenjathai Killadhe Episode 122</title>
 		<desc>Story of Goutham, an overweight businessman, who marries Mathumitha, an educated woman from a middle-class background. Though older, will their arranged marriage lead to love?</desc>
 	</programme>
-	<programme channel="5632" start="20241213080000 +0000" stop="20241213103000 +0000">
+	<programme channel="5632" start="20241213030000 +0000" stop="20241213053000 +0000">
 		<title>Dhilluku Dhuddu 2</title>
 		<desc>Tamil Horror Comedy Film, Starring, Santhanam, Shritha Sivadas, Rajendran, T.M. Karthik Srinivasan, Kavitha Ranjini Release Year: 2019 Director: Rambhala</desc>
 	</programme>
-	<programme channel="5632" start="20241213103000 +0000" stop="20241213110000 +0000">
+	<programme channel="5632" start="20241213053000 +0000" stop="20241213060000 +0000">
 		<title>KCKC - Vanamagan Episode 39</title>
 		<desc>Konjam Coffee Konjam Cinema - Comedy and action scenes from your favourite stars' movies.</desc>
 	</programme>
-	<programme channel="5632" start="20241213110000 +0000" stop="20241213113000 +0000">
+	<programme channel="5632" start="20241213060000 +0000" stop="20241213063000 +0000">
 		<title>KCKC - Balloon Episode 133</title>
 		<desc>Konjam Coffee Konjam Cinema - Comedy and action scenes from your favourite stars' movies.</desc>
 	</programme>
-	<programme channel="5632" start="20241213113000 +0000" stop="20241213120000 +0000">
+	<programme channel="5632" start="20241213063000 +0000" stop="20241213070000 +0000">
 		<title>Naane Varuvean Episode 199</title>
 		<desc>Radha, a cheerful girl, is head over heels for Mohan, a cynical businessman, despite being aware of the fact that he has a daughter. However, she believes that she can turn him into a good man.</desc>
 	</programme>
-	<programme channel="5632" start="20241213120000 +0000" stop="20241213123000 +0000">
+	<programme channel="5632" start="20241213070000 +0000" stop="20241213073000 +0000">
 		<title>Nee Pathi Naan Paathi Episode 92</title>
 		<desc>Shakti's unwavering love aims to heal Shiv's broken soul, while Shiv strives to transform Shakti into a great doctor. Their journey is filled with hope and dedication.</desc>
 	</programme>
-	<programme channel="5632" start="20241213123000 +0000" stop="20241213130000 +0000">
+	<programme channel="5632" start="20241213073000 +0000" stop="20241213080000 +0000">
 		<title>Mounam Pesiyathey Episode 34</title>
 		<desc>Thulasi, married to the thug Sethu, meets Siva, who loses his memory.Mistaken for his wife, she pretends to be, but as Sethu searches for her, she falls in love with Siva.</desc>
 	</programme>
-	<programme channel="5632" start="20241213130000 +0000" stop="20241213133000 +0000">
+	<programme channel="5632" start="20241213080000 +0000" stop="20241213083000 +0000">
 		<title>Valliyin Velan Episode 76</title>
 		<desc>It is the story of Valli, who is rejected by her father Rathinavel because of her mother's deceit. Determined to prove her mother's innocence, she seeks help from Kadhirvelan to win his love.</desc>
 	</programme>
-	<programme channel="5632" start="20241213133000 +0000" stop="20241213140000 +0000">
+	<programme channel="5632" start="20241213083000 +0000" stop="20241213090000 +0000">
 		<title>Ninaithale Inikkum Episode 1116</title>
 		<desc>Meet a determined girl with big dreams of becoming a successful businesswoman. Follow her journey as she navigates challenges, pursues her passions, and learns what it takes to succeed.</desc>
 	</programme>
-	<programme channel="5632" start="20241213140000 +0000" stop="20241213143000 +0000">
+	<programme channel="5632" start="20241213090000 +0000" stop="20241213093000 +0000">
 		<title>Lakshmi Kalyanam Episode 167</title>
 		<desc>Lakshmi's life takes an unexpected turn when her family gets her married to a rich businessman, Rishi. However, she is feeling betrayed when she learns the truth about her marriage</desc>
 	</programme>
-	<programme channel="5632" start="20241213143000 +0000" stop="20241213150000 +0000">
+	<programme channel="5632" start="20241213093000 +0000" stop="20241213100000 +0000">
 		<title>Veera Episode 217</title>
 		<desc>Rannvijay raises his half-sister Veera as his own child, while their mother Ratan, though showing contempt towards Veera, secretly supports her son in raising her.</desc>
+	</programme>
+	<programme channel="5632" start="20241213100000 +0000" stop="20241213103000 +0000">
+		<title>Maari Episode 783</title>
+		<desc>Maari' is about a gifted village girl facing victimization for her premonition powers. Unexpectedly marrying Surya, she becomes his savior.</desc>
+	</programme>
+	<programme channel="5632" start="20241213103000 +0000" stop="20241213110000 +0000">
+		<title>Ninaithaen Vanthai Episode 251</title>
+		<desc>Devastated by his wife Indhumathi's death, Ezhil finds solace when Sudarvizhi, a simple village girl, steps in to care for his children.</desc>
+	</programme>
+	<programme channel="5632" start="20241213110000 +0000" stop="20241213113000 +0000">
+		<title>Nenjathai Killadhe Episode 123</title>
+		<desc>Story of Goutham, an overweight businessman, who marries Mathumitha, an educated woman from a middle-class background. Though older, will their arranged marriage lead to love?</desc>
+	</programme>
+	<programme channel="5632" start="20241213113000 +0000" stop="20241213120000 +0000">
+		<title>Anna Episode 545</title>
+		<desc>When a caring brother discovers the evil guy tormenting his estranged sister, he springs into action to confront the villain and help turn her life around for the better.</desc>
+	</programme>
+	<programme channel="5632" start="20241213120000 +0000" stop="20241213123000 +0000">
+		<title>Karthigai Deepam Episode 687</title>
+		<desc>A gifted dark-skinned woman, a remarkable singer, marries a supportive man, defies beauty norms, and achieves music stardom with her talent.</desc>
+	</programme>
+	<programme channel="5632" start="20241213123000 +0000" stop="20241213130000 +0000">
+		<title>Valliyin Velan Episode 77</title>
+		<desc>It is the story of Valli, who is rejected by her father Rathinavel because of her mother's deceit. Determined to prove her mother's innocence, she seeks help from Kadhirvelan to win his love.</desc>
+	</programme>
+	<programme channel="5632" start="20241213130000 +0000" stop="20241213133000 +0000">
+		<title>Sandhya Raagam Episode 397</title>
+		<desc>Aadhya, after losing her mother, is cared for by her aunt Janaki, who must balance Aadhya's urban lifestyle with her family's disapproval. Can Janaki provide the life Aadhya deserves?</desc>
+	</programme>
+	<programme channel="5632" start="20241213133000 +0000" stop="20241213140000 +0000">
+		<title>Idhayam Episode 501</title>
+		<desc>Shankar's discovery of his friend being a womanizer comes to light when his wife is accused of murdering him, revealing another suspect.</desc>
+	</programme>
+	<programme channel="5632" start="20241213140000 +0000" stop="20241213143000 +0000">
+		<title>Idhayam Episode 502</title>
+		<desc>Shankar's discovery of his friend being a womanizer comes to light when his wife is accused of murdering him, revealing another suspect.</desc>
+	</programme>
+	<programme channel="5632" start="20241213143000 +0000" stop="20241213150000 +0000">
+		<title>KCKC - Balloon Episode 133</title>
+		<desc>Konjam Coffee Konjam Cinema - Comedy and action scenes from your favourite stars' movies.</desc>
+	</programme>
+	<programme channel="5632" start="20241213150000 +0000" stop="20241213153000 +0000">
+		<title>Mounam Pesiyathey Episode 34</title>
+		<desc>Thulasi, married to the thug Sethu, meets Siva, who loses his memory.Mistaken for his wife, she pretends to be, but as Sethu searches for her, she falls in love with Siva.</desc>
 	</programme>
 	<programme channel="5634" start="20241211160000 +0000" stop="20241211163000 +0000">
 		<title>Pandian Stores Thanthai Sol Mikka Mandhi Episode 349</title>
