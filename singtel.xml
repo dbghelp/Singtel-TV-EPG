@@ -1022,7 +1022,7 @@
 	</programme>
 	<programme channel="5003" start="20241213123000 +0000" stop="20241213130000 +0000">
 		<title>前线追踪 Episode 34</title>
-		<desc>民情、民生、民意！【前线追踪】紧跟社会民生步伐，追踪调查时事动态，探讨新加坡人关心的课题，针对问题的核心追根究底。</desc>
+		<desc>近几年生活费上涨，民间团体也自动自发推出不同计划帮助有需要的国人。这些计划有哪些？</desc>
 	</programme>
 	<programme channel="5003" start="20241213130000 +0000" stop="20241213140000 +0000">
 		<title>再见明天 Episode 12</title>
@@ -3934,208 +3934,196 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<title>SPOTV ENCORE : WTT Final Fukuoka 2024 Episode 3</title>
 		<desc>The world's elite singles and doubles table tennis players battle for a share of the US$2 million prize pool as well as 2000 world ranking points in Fukuoka,Japan.</desc>
 	</programme>
-	<programme channel="6116" start="20241212160000 +0000" stop="20241212170000 +0000">
+	<programme channel="6116" start="20241212160000 +0000" stop="20241212165500 +0000">
 		<title>Beaver Creek | Men Downhill</title>
 		<desc>World Cup</desc>
 	</programme>
-	<programme channel="6116" start="20241212170000 +0000" stop="20241212180000 +0000">
+	<programme channel="6116" start="20241212165500 +0000" stop="20241212175600 +0000">
+		<title>Beaver Creek | Men's Super-G</title>
+		<desc>World Cup | Day 1</desc>
+	</programme>
+	<programme channel="6116" start="20241212175600 +0000" stop="20241212183000 +0000">
+		<title>Beaver Creek | Men's Giant Slalom</title>
+		<desc>World Cup | Run 1</desc>
+	</programme>
+	<programme channel="6116" start="20241212183000 +0000" stop="20241212185800 +0000">
+		<title>Beaver Creek | Men's Giant Slalom</title>
+		<desc>World Cup | Run 2</desc>
+	</programme>
+	<programme channel="6116" start="20241212185800 +0000" stop="20241212195600 +0000">
+		<title>Carezza | Parallel Giant Slalom</title>
+		<desc>World Cup</desc>
+	</programme>
+	<programme channel="6116" start="20241212195600 +0000" stop="20241212205500 +0000">
+		<title>Val Thorens | Men's &amp; Women's Ski Cross</title>
+		<desc>World Cup | Day 1</desc>
+	</programme>
+	<programme channel="6116" start="20241212205500 +0000" stop="20241212215700 +0000">
+		<title>Beaver Creek | Men Downhill</title>
+		<desc>World Cup</desc>
+	</programme>
+	<programme channel="6116" start="20241212215700 +0000" stop="20241212225700 +0000">
 		<title>Beaver Creek | Men Super-G</title>
 		<desc>World Cup</desc>
 	</programme>
-	<programme channel="6116" start="20241212180000 +0000" stop="20241212183000 +0000">
-		<title>Beaver Creek | Men Giant Slalom</title>
-		<desc>World Cup | Run 1</desc>
-	</programme>
-	<programme channel="6116" start="20241212183000 +0000" stop="20241212190000 +0000">
-		<title>Beaver Creek | Men Giant Slalom</title>
-		<desc>World Cup | Run 2</desc>
-	</programme>
-	<programme channel="6116" start="20241212190000 +0000" stop="20241212200000 +0000">
-		<title>Carezza | Parallel Giant Slalom (Live)</title>
+	<programme channel="6116" start="20241212225700 +0000" stop="20241212235500 +0000">
+		<title>Carezza | Parallel Giant Slalom</title>
 		<desc>World Cup</desc>
 	</programme>
-	<programme channel="6116" start="20241212200000 +0000" stop="20241212210000 +0000">
-		<title>Val Thorens | Ski Cross (Live)</title>
+	<programme channel="6116" start="20241212235500 +0000" stop="20241213005500 +0000">
+		<title>Val Thorens | Men's &amp; Women's Ski Cross</title>
+		<desc>World Cup | Day 1</desc>
+	</programme>
+	<programme channel="6116" start="20241213005500 +0000" stop="20241213012400 +0000">
+		<title>Kontiolahti | Women's Mass Start</title>
 		<desc>World Cup</desc>
 	</programme>
-	<programme channel="6116" start="20241212210000 +0000" stop="20241212213000 +0000">
-		<title>Tremblant | Women Giant Slalom</title>
-		<desc>World Cup | Run 1</desc>
-	</programme>
-	<programme channel="6116" start="20241212213000 +0000" stop="20241212220000 +0000">
-		<title>Tremblant | Women Giant Slalom</title>
-		<desc>World Cup | Run 2</desc>
-	</programme>
-	<programme channel="6116" start="20241212220000 +0000" stop="20241212223000 +0000">
-		<title>Tremblant | Women Giant Slalom</title>
-		<desc>World Cup | Run 1</desc>
-	</programme>
-	<programme channel="6116" start="20241212223000 +0000" stop="20241212230000 +0000">
-		<title>Tremblant | Women Giant Slalom</title>
-		<desc>World Cup | Run 2</desc>
-	</programme>
-	<programme channel="6116" start="20241212230000 +0000" stop="20241213000000 +0000">
-		<title>Carezza | Parallel Giant Slalom (Live)</title>
+	<programme channel="6116" start="20241213012400 +0000" stop="20241213023100 +0000">
+		<title>Kontiolahti | Men's Sprint</title>
 		<desc>World Cup</desc>
 	</programme>
-	<programme channel="6116" start="20241213000000 +0000" stop="20241213010000 +0000">
-		<title>Val Thorens | Ski Cross (Live)</title>
+	<programme channel="6116" start="20241213023100 +0000" stop="20241213025900 +0000">
+		<title>Kontiolahti | Men's Mass Start</title>
 		<desc>World Cup</desc>
 	</programme>
-	<programme channel="6116" start="20241213010000 +0000" stop="20241213013000 +0000">
-		<title>Kontiolahti | Women Mass Start</title>
+	<programme channel="6116" start="20241213025900 +0000" stop="20241213035900 +0000">
+		<title>Wisla | Men's HS 134</title>
+		<desc>World Cup | Day 1</desc>
+	</programme>
+	<programme channel="6116" start="20241213035900 +0000" stop="20241213050200 +0000">
+		<title>Wisla | Men's HS 134</title>
+		<desc>World Cup | Day 2</desc>
+	</programme>
+	<programme channel="6116" start="20241213050200 +0000" stop="20241213055800 +0000">
+		<title>Lillehammer | Men's &amp; Women's Sprint Freestyle</title>
 		<desc>World Cup</desc>
 	</programme>
-	<programme channel="6116" start="20241213013000 +0000" stop="20241213023000 +0000">
-		<title>Kontiolahti | Men Sprint</title>
+	<programme channel="6116" start="20241213055800 +0000" stop="20241213065600 +0000">
+		<title>Carezza | Parallel Giant Slalom</title>
 		<desc>World Cup</desc>
 	</programme>
-	<programme channel="6116" start="20241213023000 +0000" stop="20241213030000 +0000">
-		<title>Kontiolahti | Men Mass Start</title>
-		<desc>World Cup</desc>
-	</programme>
-	<programme channel="6116" start="20241213030000 +0000" stop="20241213040000 +0000">
-		<title>Wisla | Men HS 134</title>
-		<desc>World Cup</desc>
-	</programme>
-	<programme channel="6116" start="20241213040000 +0000" stop="20241213050000 +0000">
-		<title>Wisla | Men HS 134</title>
-		<desc>World Cup</desc>
-	</programme>
-	<programme channel="6116" start="20241213050000 +0000" stop="20241213060000 +0000">
-		<title>Lillehammer | Mixed Sprint Freestyle</title>
-		<desc>World Cup</desc>
-	</programme>
-	<programme channel="6116" start="20241213060000 +0000" stop="20241213070000 +0000">
-		<title>Carezza | Parallel Giant Slalom (Live)</title>
-		<desc>World Cup</desc>
-	</programme>
-	<programme channel="6116" start="20241213070000 +0000" stop="20241213080000 +0000">
-		<title>Val Thorens | Ski Cross (Live)</title>
-		<desc>World Cup</desc>
+	<programme channel="6116" start="20241213065600 +0000" stop="20241213080000 +0000">
+		<title>Val Thorens | Men's &amp; Women's Ski Cross</title>
+		<desc>World Cup | Day 1</desc>
 	</programme>
 	<programme channel="6116" start="20241213080000 +0000" stop="20241213093000 +0000">
-		<title>Wisla | Men HS 134</title>
-		<desc>World Cup</desc>
+		<title>Wisla | Men's HS 134</title>
+		<desc>World Cup | Day 2</desc>
 	</programme>
 	<programme channel="6116" start="20241213093000 +0000" stop="20241213095000 +0000">
-		<title>Kontiolahti | Men Mass Start</title>
+		<title>Kontiolahti | Men's Mass Start</title>
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241213095000 +0000" stop="20241213101500 +0000">
-		<title>Biathlon</title>
-		<desc>Biathlon</desc>
-	</programme>
-	<programme channel="6116" start="20241213101500 +0000" stop="20241213114500 +0000">
-		<title>Biathlon (Live)</title>
-		<desc>Biathlon</desc>
-	</programme>
-	<programme channel="6116" start="20241213114500 +0000" stop="20241213130000 +0000">
-		<title>Val Thorens | Ski Cross (Live)</title>
+		<title>Kontiolahti | Women's Mass Start</title>
 		<desc>World Cup</desc>
 	</programme>
+	<programme channel="6116" start="20241213101500 +0000" stop="20241213114500 +0000">
+		<title>Hochfilzen | Women's Sprint (Live)</title>
+		<desc>World Cup</desc>
+	</programme>
+	<programme channel="6116" start="20241213114500 +0000" stop="20241213130000 +0000">
+		<title>Val Thorens | Men's &amp; Women's Ski Cross (Live)</title>
+		<desc>World Cup | Day 2</desc>
+	</programme>
 	<programme channel="6116" start="20241213130000 +0000" stop="20241213144000 +0000">
-		<title>Biathlon (Live)</title>
-		<desc>Biathlon</desc>
+		<title>Hochfilzen | Men's Sprint (Live)</title>
+		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241213144000 +0000" stop="20241213144000 +0000">
-		<title>Titisee Neustadt | Men (Live)</title>
+		<title>Titisee Neustadt | Men's Team HS 142 (Live)</title>
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241213144000 +0000" stop="20241213163000 +0000">
-		<title>Titisee Neustadt | Men (Live)</title>
+		<title>Titisee Neustadt | Men's Team HS 142 (Live)</title>
 		<desc>World Cup</desc>
 	</programme>
-	<programme channel="6116" start="20241213163000 +0000" stop="20241213164500 +0000">
-		<title>Val Thorens | Ski Cross (Live)</title>
-		<desc>World Cup</desc>
+	<programme channel="6116" start="20241213163000 +0000" stop="20241213165000 +0000">
+		<title>Val Thorens | Men's &amp; Women's Ski Cross (Live)</title>
+		<desc>World Cup | Day 2</desc>
 	</programme>
-	<programme channel="6116" start="20241213164500 +0000" stop="20241213180000 +0000">
-		<title>Davos | Mixed (Live)</title>
+	<programme channel="6116" start="20241213165000 +0000" stop="20241213180000 +0000">
+		<title>Davos | Mixed's Team Sprint Freestyle (Live)</title>
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241213180000 +0000" stop="20241213190000 +0000">
-		<title>Biathlon</title>
-		<desc>Biathlon</desc>
-	</programme>
-	<programme channel="6116" start="20241213190000 +0000" stop="20241213200000 +0000">
-		<title>Biathlon</title>
-		<desc>Biathlon</desc>
-	</programme>
-	<programme channel="6116" start="20241213200000 +0000" stop="20241213210000 +0000">
-		<title>Val Thorens | Ski Cross (Live)</title>
+		<title>Hochfilzen | Women's Sprint (Live)</title>
 		<desc>World Cup</desc>
 	</programme>
+	<programme channel="6116" start="20241213190000 +0000" stop="20241213200000 +0000">
+		<title>Hochfilzen | Men's Sprint (Live)</title>
+		<desc>World Cup</desc>
+	</programme>
+	<programme channel="6116" start="20241213200000 +0000" stop="20241213210000 +0000">
+		<title>Val Thorens | Men's &amp; Women's Ski Cross (Live)</title>
+		<desc>World Cup | Day 2</desc>
+	</programme>
 	<programme channel="6116" start="20241213210000 +0000" stop="20241213220000 +0000">
-		<title>Titisee Neustadt | Men (Live)</title>
+		<title>Titisee Neustadt | Men's Team HS 142 (Live)</title>
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241213220000 +0000" stop="20241213230000 +0000">
-		<title>Davos | Mixed (Live)</title>
+		<title>Davos | Mixed's Team Sprint Freestyle (Live)</title>
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241213230000 +0000" stop="20241214000000 +0000">
-		<title>Val Thorens | Ski Cross (Live)</title>
-		<desc>World Cup</desc>
+		<title>Val Thorens | Men's &amp; Women's Ski Cross (Live)</title>
+		<desc>World Cup | Day 2</desc>
 	</programme>
 	<programme channel="6116" start="20241214000000 +0000" stop="20241214010000 +0000">
-		<title>Titisee Neustadt | Men (Live)</title>
+		<title>Titisee Neustadt | Men's Team HS 142 (Live)</title>
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241214010000 +0000" stop="20241214020000 +0000">
-		<title>Biathlon</title>
-		<desc>Biathlon</desc>
-	</programme>
-	<programme channel="6116" start="20241214020000 +0000" stop="20241214030000 +0000">
-		<title>Biathlon</title>
-		<desc>Biathlon</desc>
-	</programme>
-	<programme channel="6116" start="20241214030000 +0000" stop="20241214040000 +0000">
-		<title>Val Thorens | Ski Cross (Live)</title>
+		<title>Hochfilzen | Women's Sprint (Live)</title>
 		<desc>World Cup</desc>
 	</programme>
+	<programme channel="6116" start="20241214020000 +0000" stop="20241214030000 +0000">
+		<title>Hochfilzen | Men's Sprint (Live)</title>
+		<desc>World Cup</desc>
+	</programme>
+	<programme channel="6116" start="20241214030000 +0000" stop="20241214040000 +0000">
+		<title>Val Thorens | Men's &amp; Women's Ski Cross (Live)</title>
+		<desc>World Cup | Day 2</desc>
+	</programme>
 	<programme channel="6116" start="20241214040000 +0000" stop="20241214050000 +0000">
-		<title>Titisee Neustadt | Men (Live)</title>
+		<title>Titisee Neustadt | Men's Team HS 142 (Live)</title>
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241214050000 +0000" stop="20241214060000 +0000">
-		<title>Hochfilzen | Women Sprint</title>
+		<title>Hochfilzen | Women's Sprint (Live)</title>
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241214060000 +0000" stop="20241214070000 +0000">
-		<title>Hochfilzen | Men Sprint</title>
+		<title>Hochfilzen | Men's Sprint (Live)</title>
 		<desc>World Cup</desc>
 	</programme>
-	<programme channel="6116" start="20241214070000 +0000" stop="20241214073000 +0000">
-		<title>Tremblant | Women Giant Slalom</title>
+	<programme channel="6116" start="20241214070000 +0000" stop="20241214081500 +0000">
+		<title>Val Thorens | Men's &amp; Women's Ski Cross (Live)</title>
+		<desc>World Cup | Day 2</desc>
+	</programme>
+	<programme channel="6116" start="20241214081500 +0000" stop="20241214100000 +0000">
+		<title>Val d'Isere | Men's Giant Slalom</title>
 		<desc>World Cup | Run 1</desc>
 	</programme>
-	<programme channel="6116" start="20241214073000 +0000" stop="20241214080000 +0000">
-		<title>Tremblant | Women Giant Slalom</title>
-		<desc>World Cup | Run 2</desc>
+	<programme channel="6116" start="20241214100000 +0000" stop="20241214102000 +0000">
+		<title>Val Thorens | Ski Cross (Live)</title>
+		<desc>World Cup</desc>
 	</programme>
-	<programme channel="6116" start="20241214080000 +0000" stop="20241214084500 +0000">
-		<title>Beaver Creek | Men Giant Slalom</title>
-		<desc>World Cup | Run 2</desc>
-	</programme>
-	<programme channel="6116" start="20241214084500 +0000" stop="20241214103000 +0000">
-		<title>Val d'Isere | Men Giant Slalom (Live)</title>
-		<desc>World Cup | Run 1</desc>
-	</programme>
-	<programme channel="6116" start="20241214103000 +0000" stop="20241214115500 +0000">
+	<programme channel="6116" start="20241214102000 +0000" stop="20241214120000 +0000">
 		<title>Cervinia | Snowboard Cross (Live)</title>
 		<desc>World Cup</desc>
 	</programme>
-	<programme channel="6116" start="20241214115500 +0000" stop="20241214130000 +0000">
-		<title>Val d'Isere | Men Giant Slalom (Live)</title>
+	<programme channel="6116" start="20241214120000 +0000" stop="20241214130000 +0000">
+		<title>Val d'Isere | Men's Giant Slalom</title>
 		<desc>World Cup | Run 2</desc>
 	</programme>
 	<programme channel="6116" start="20241214130000 +0000" stop="20241214133000 +0000">
-		<title>Hochfilzen | Men Sprint</title>
+		<title>Hochfilzen | Men's Sprint (Live)</title>
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241214133000 +0000" stop="20241214143000 +0000">
-		<title>Hochfilzen | Men Pursuit (Live)</title>
+		<title>Hochfilzen | Men's Pursuit</title>
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="5118" start="20241212142000 +0000" stop="20241212161000 +0000">
@@ -4735,7 +4723,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<desc>ATP Tour 1000 2024</desc>
 	</programme>
 	<programme channel="6127" start="20241214023000 +0000" stop="20241214030000 +0000">
-		<title>ATP Tour: This Week 2024: Episode Number 49 Episode 49</title>
+		<title>ATP Tour: This Week 2024: Episode Number 48 Episode 48</title>
 		<desc>ATP Tour: This Week 2024</desc>
 	</programme>
 	<programme channel="6127" start="20241214030000 +0000" stop="20241214043000 +0000">
@@ -4751,7 +4739,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<desc>ATP Tour 500 2024</desc>
 	</programme>
 	<programme channel="6127" start="20241214073000 +0000" stop="20241214080000 +0000">
-		<title>ATP Tour: This Week 2024: Episode Number 49 Episode 49</title>
+		<title>ATP Tour: This Week 2024: Episode Number 48 Episode 48</title>
 		<desc>ATP Tour: This Week 2024</desc>
 	</programme>
 	<programme channel="6127" start="20241214080000 +0000" stop="20241214093000 +0000">
@@ -4767,7 +4755,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<desc>ATP Tour 1000 2024</desc>
 	</programme>
 	<programme channel="6127" start="20241214123000 +0000" stop="20241214130000 +0000">
-		<title>ATP Tour: This Week 2024: Episode Number 49 Episode 49</title>
+		<title>ATP Tour: This Week 2024: Episode Number 48 Episode 48</title>
 		<desc>ATP Tour: This Week 2024</desc>
 	</programme>
 	<programme channel="6127" start="20241214130000 +0000" stop="20241214143000 +0000">
@@ -5780,7 +5768,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 	</programme>
 	<programme channel="5157" start="20241213011500 +0000" stop="20241213013000 +0000">
 		<title>Direct Talk #167</title>
-		<desc>Direct Talk is an in-depth interview program featuring professionals or experts in the world who share their unique insights, information and analysis.</desc>
+		<desc>Dr. Nguyen Thi Ngoc Phuong has been tackling the link between health hazards such as birth defects and the spraying of Agent Orange by the U.S. military for over 50 years since the Vietnam War.</desc>
 	</programme>
 	<programme channel="5157" start="20241213013000 +0000" stop="20241213014500 +0000">
 		<title>BENTO EXPO</title>
@@ -5799,7 +5787,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<desc>Introducing a colorful variety of feature stories, including reports on daily life from locations throughout Japan, as well as other parts of Asia and around the world.</desc>
 	</programme>
 	<programme channel="5157" start="20241213023000 +0000" stop="20241213030000 +0000">
-		<title>100 CAMERAS: Tokyo Metro</title>
+		<title>100 CAMERAS</title>
 		<desc>A vast subway network beneath the streets of the metropolis: the Tokyo Metro. In the first-ever report from its HQ, we see how staff and drivers collaborate to achieve safety and punctuality.</desc>
 	</programme>
 	<programme channel="5157" start="20241213030000 +0000" stop="20241213031500 +0000">
@@ -5836,7 +5824,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 	</programme>
 	<programme channel="5157" start="20241213051500 +0000" stop="20241213053000 +0000">
 		<title>Direct Talk #167</title>
-		<desc>Direct Talk is an in-depth interview program featuring professionals or experts in the world who share their unique insights, information and analysis.</desc>
+		<desc>Dr. Nguyen Thi Ngoc Phuong has been tackling the link between health hazards such as birth defects and the spraying of Agent Orange by the U.S. military for over 50 years since the Vietnam War.</desc>
 	</programme>
 	<programme channel="5157" start="20241213053000 +0000" stop="20241213060000 +0000">
 		<title>Asia Insight</title>
@@ -5859,7 +5847,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<desc>This daily news program picks up the key news stories of the past 24 hours from Japan and around Asia.</desc>
 	</programme>
 	<programme channel="5157" start="20241213073000 +0000" stop="20241213080000 +0000">
-		<title>100 CAMERAS: Tokyo Metro</title>
+		<title>100 CAMERAS</title>
 		<desc>A vast subway network beneath the streets of the metropolis: the Tokyo Metro. In the first-ever report from its HQ, we see how staff and drivers collaborate to achieve safety and punctuality.</desc>
 	</programme>
 	<programme channel="5157" start="20241213080000 +0000" stop="20241213081400 +0000">
@@ -5928,7 +5916,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 	</programme>
 	<programme channel="5157" start="20241213114000 +0000" stop="20241213115500 +0000">
 		<title>Direct Talk #167</title>
-		<desc>Direct Talk is an in-depth interview program featuring professionals or experts in the world who share their unique insights, information and analysis.</desc>
+		<desc>Dr. Nguyen Thi Ngoc Phuong has been tackling the link between health hazards such as birth defects and the spraying of Agent Orange by the U.S. military for over 50 years since the Vietnam War.</desc>
 	</programme>
 	<programme channel="5157" start="20241213115500 +0000" stop="20241213120000 +0000">
 		<title>Ukiyoe EDO-LIFE</title>
@@ -5955,7 +5943,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<desc>Introducing a colorful variety of feature stories, including reports on daily life from locations throughout Japan, as well as other parts of Asia and around the world.</desc>
 	</programme>
 	<programme channel="5157" start="20241213133000 +0000" stop="20241213140000 +0000">
-		<title>100 CAMERAS: Tokyo Metro</title>
+		<title>100 CAMERAS</title>
 		<desc>A vast subway network beneath the streets of the metropolis: the Tokyo Metro. In the first-ever report from its HQ, we see how staff and drivers collaborate to achieve safety and punctuality.</desc>
 	</programme>
 	<programme channel="5157" start="20241213140000 +0000" stop="20241213141500 +0000">
@@ -5968,7 +5956,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 	</programme>
 	<programme channel="5157" start="20241213143000 +0000" stop="20241213150000 +0000">
 		<title>Today's Close-Up</title>
-		<desc>Dig deeper into current affairs. Cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+		<desc>In Japan, cases of doctors repeatedly causing medical incidents have come to light. We look at the structural reasons behind the issue and what's needed to ensure the safety of medical care.</desc>
 	</programme>
 	<programme channel="5157" start="20241213150000 +0000" stop="20241213151500 +0000">
 		<title>NHK NEWSLINE</title>
@@ -5988,7 +5976,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 	</programme>
 	<programme channel="5157" start="20241213161500 +0000" stop="20241213163000 +0000">
 		<title>Direct Talk #167</title>
-		<desc>Direct Talk is an in-depth interview program featuring professionals or experts in the world who share their unique insights, information and analysis.</desc>
+		<desc>Dr. Nguyen Thi Ngoc Phuong has been tackling the link between health hazards such as birth defects and the spraying of Agent Orange by the U.S. military for over 50 years since the Vietnam War.</desc>
 	</programme>
 	<programme channel="5157" start="20241213163000 +0000" stop="20241213165500 +0000">
 		<title>Spiritual Explorers</title>
@@ -6035,7 +6023,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<desc>iPS cells are being used to treat eye diseases to address donor shortages. We explore advancements made in Japan, such as the transplantation of iPS cell-derived corneal cells and retinal sheets.</desc>
 	</programme>
 	<programme channel="5157" start="20241213193000 +0000" stop="20241213200000 +0000">
-		<title>100 CAMERAS: Tokyo Metro</title>
+		<title>100 CAMERAS</title>
 		<desc>A vast subway network beneath the streets of the metropolis: the Tokyo Metro. In the first-ever report from its HQ, we see how staff and drivers collaborate to achieve safety and punctuality.</desc>
 	</programme>
 	<programme channel="5157" start="20241213200000 +0000" stop="20241213201800 +0000">
@@ -6048,7 +6036,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 	</programme>
 	<programme channel="5157" start="20241213203000 +0000" stop="20241213210000 +0000">
 		<title>Today's Close-Up</title>
-		<desc>Dig deeper into current affairs. Cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+		<desc>In Japan, cases of doctors repeatedly causing medical incidents have come to light. We look at the structural reasons behind the issue and what's needed to ensure the safety of medical care.</desc>
 	</programme>
 	<programme channel="5157" start="20241213210000 +0000" stop="20241213211800 +0000">
 		<title>NHK NEWSLINE&lt; NY &gt;</title>
@@ -6136,7 +6124,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 	</programme>
 	<programme channel="5157" start="20241214031000 +0000" stop="20241214034000 +0000">
 		<title>Today's Close-Up</title>
-		<desc>Dig deeper into current affairs. Cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+		<desc>In Japan, cases of doctors repeatedly causing medical incidents have come to light. We look at the structural reasons behind the issue and what's needed to ensure the safety of medical care.</desc>
 	</programme>
 	<programme channel="5157" start="20241214034000 +0000" stop="20241214035000 +0000">
 		<title>Viewpoint Science</title>
@@ -6224,7 +6212,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 	</programme>
 	<programme channel="5157" start="20241214101000 +0000" stop="20241214104000 +0000">
 		<title>Today's Close-Up</title>
-		<desc>Dig deeper into current affairs. Cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+		<desc>In Japan, cases of doctors repeatedly causing medical incidents have come to light. We look at the structural reasons behind the issue and what's needed to ensure the safety of medical care.</desc>
 	</programme>
 	<programme channel="5157" start="20241214104000 +0000" stop="20241214105000 +0000">
 		<title>Viewpoint Science</title>
@@ -21128,8 +21116,8 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<desc>瞭解本日最重要新聞</desc>
 	</programme>
 	<programme channel="6516" start="20241214130000 +0000" stop="20241214140000 +0000">
-		<title>九点热话题 / 2100 HOT TOPICS</title>
-		<desc>帶您關注台灣與全球的新聞焦點</desc>
+		<title>TVBS娱乐头条 / TVBS ENTERTAINMENT HEADLINES</title>
+		<desc>TVBS ENTERTAINMENT HEADLINES</desc>
 	</programme>
 	<programme channel="6516" start="20241214140000 +0000" stop="20241214150000 +0000">
 		<title>十点不一样 / NEWS NIGHT</title>
@@ -21580,7 +21568,7 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<desc>Gourmet celebrities team up to explore the world of convenience stores and share their secret recipes!</desc>
 	</programme>
 	<programme channel="5038" start="20241213113500 +0000" stop="20241213121000 +0000">
-		<title>My Merry Marriage Episode 45</title>
+		<title>My Merry Marriage Episode 44</title>
 		<desc>A family drama that questions the true meaning of ‘happiness' by showing various aspects of marriage such as divorce, remarriage, and late marriage.</desc>
 	</programme>
 	<programme channel="5038" start="20241213121000 +0000" stop="20241213125000 +0000">
@@ -21620,7 +21608,7 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<desc>The true classic of the century is born again! The legendary classic is reinterpreted by the best idol groups in Korea. Don't miss out on the heart-moving moments that transcend generations.</desc>
 	</programme>
 	<programme channel="5038" start="20241213183000 +0000" stop="20241213190500 +0000">
-		<title>My Merry Marriage Episode 45</title>
+		<title>My Merry Marriage Episode 44</title>
 		<desc>A family drama that questions the true meaning of ‘happiness' by showing various aspects of marriage such as divorce, remarriage, and late marriage.</desc>
 	</programme>
 	<programme channel="5038" start="20241213190500 +0000" stop="20241213194500 +0000">
@@ -21648,7 +21636,7 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<desc>WORLD-CLASS K-DOL</desc>
 	</programme>
 	<programme channel="5038" start="20241214002500 +0000" stop="20241214010000 +0000">
-		<title>My Merry Marriage Episode 45</title>
+		<title>My Merry Marriage Episode 44</title>
 		<desc>A family drama that questions the true meaning of ‘happiness' by showing various aspects of marriage such as divorce, remarriage, and late marriage.</desc>
 	</programme>
 	<programme channel="5038" start="20241214010000 +0000" stop="20241214014000 +0000">
@@ -23608,11 +23596,11 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<desc>鳳凰氣象站</desc>
 	</programme>
 	<programme channel="5555" start="20241212155000 +0000" stop="20241212163500 +0000">
-		<title>电视剧：我哥我嫂 / Classical Theater</title>
+		<title>电视剧：丁宝桢 / Classical Theater</title>
 		<desc>Classical Theater</desc>
 	</programme>
 	<programme channel="5555" start="20241212163500 +0000" stop="20241212172000 +0000">
-		<title>电视剧：我哥我嫂 / Classical Theater</title>
+		<title>电视剧：丁宝桢 / Classical Theater</title>
 		<desc>Classical Theater</desc>
 	</programme>
 	<programme channel="5555" start="20241212172000 +0000" stop="20241212172500 +0000">
@@ -23724,7 +23712,7 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<desc>Advertisements</desc>
 	</programme>
 	<programme channel="5555" start="20241213050500 +0000" stop="20241213054700 +0000">
-		<title>电视剧：我哥我嫂 / Classical Theater</title>
+		<title>电视剧：丁宝桢 / Classical Theater</title>
 		<desc>Classical Theater</desc>
 	</programme>
 	<programme channel="5555" start="20241213054700 +0000" stop="20241213055200 +0000">
@@ -23732,15 +23720,15 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<desc>Advertisements</desc>
 	</programme>
 	<programme channel="5555" start="20241213055200 +0000" stop="20241213063400 +0000">
-		<title>电视剧：我哥我嫂 / Classical Theater</title>
+		<title>电视剧：丁宝桢 / Classical Theater</title>
 		<desc>Classical Theater</desc>
 	</programme>
 	<programme channel="5555" start="20241213063400 +0000" stop="20241213071600 +0000">
-		<title>电视剧：我哥我嫂 / Classical Theater</title>
+		<title>电视剧：丁宝桢 / Classical Theater</title>
 		<desc>Classical Theater</desc>
 	</programme>
 	<programme channel="5555" start="20241213071600 +0000" stop="20241213075800 +0000">
-		<title>电视剧：我哥我嫂 / Classical Theater</title>
+		<title>电视剧：丁宝桢 / Classical Theater</title>
 		<desc>Classical Theater</desc>
 	</programme>
 	<programme channel="5555" start="20241213075800 +0000" stop="20241213080300 +0000">
@@ -23748,7 +23736,7 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<desc>Advertisements</desc>
 	</programme>
 	<programme channel="5555" start="20241213080300 +0000" stop="20241213084500 +0000">
-		<title>电视剧：我哥我嫂 / Classical Theater</title>
+		<title>电视剧：丁宝桢 / Classical Theater</title>
 		<desc>Classical Theater</desc>
 	</programme>
 	<programme channel="5555" start="20241213084500 +0000" stop="20241213091500 +0000">
@@ -23804,19 +23792,19 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<desc>Advertisements</desc>
 	</programme>
 	<programme channel="5555" start="20241213150500 +0000" stop="20241213155000 +0000">
-		<title>电视剧：我哥我嫂 / Classical Theater</title>
+		<title>电视剧：丁宝桢 / Classical Theater</title>
 		<desc>Classical Theater</desc>
 	</programme>
 	<programme channel="5555" start="20241213155000 +0000" stop="20241213155000 +0000">
-		<title>电视剧：我哥我嫂 / Classical Theater</title>
+		<title>电视剧：丁宝桢 / Classical Theater</title>
 		<desc>Classical Theater</desc>
 	</programme>
 	<programme channel="5555" start="20241213155000 +0000" stop="20241213163500 +0000">
-		<title>电视剧：我哥我嫂 / Classical Theater</title>
+		<title>电视剧：丁宝桢 / Classical Theater</title>
 		<desc>Classical Theater</desc>
 	</programme>
 	<programme channel="5555" start="20241213163500 +0000" stop="20241213172000 +0000">
-		<title>电视剧：我哥我嫂 / Classical Theater</title>
+		<title>电视剧：丁宝桢 / Classical Theater</title>
 		<desc>Classical Theater</desc>
 	</programme>
 	<programme channel="5555" start="20241213172000 +0000" stop="20241213172500 +0000">
@@ -23908,23 +23896,23 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<desc>《华人故事》是一档宣传海外华侨华人的人物专题节目，时长30分钟，节目记录杰出华侨华人的奋斗历程，讲述他们精彩的人生故事。</desc>
 	</programme>
 	<programme channel="5555" start="20241214053000 +0000" stop="20241214061500 +0000">
-		<title>电视剧：我哥我嫂 / Classical Theater</title>
+		<title>电视剧：丁宝桢 / Classical Theater</title>
 		<desc>Classical Theater</desc>
 	</programme>
 	<programme channel="5555" start="20241214061500 +0000" stop="20241214070000 +0000">
-		<title>电视剧：我哥我嫂 / Classical Theater</title>
+		<title>电视剧：丁宝桢 / Classical Theater</title>
 		<desc>Classical Theater</desc>
 	</programme>
 	<programme channel="5555" start="20241214070000 +0000" stop="20241214074500 +0000">
-		<title>电视剧：我哥我嫂 / Classical Theater</title>
+		<title>电视剧：丁宝桢 / Classical Theater</title>
 		<desc>Classical Theater</desc>
 	</programme>
 	<programme channel="5555" start="20241214074500 +0000" stop="20241214083000 +0000">
-		<title>电视剧：我哥我嫂 / Classical Theater</title>
+		<title>电视剧：丁宝桢 / Classical Theater</title>
 		<desc>Classical Theater</desc>
 	</programme>
 	<programme channel="5555" start="20241214083000 +0000" stop="20241214091500 +0000">
-		<title>电视剧：我哥我嫂 / Classical Theater</title>
+		<title>电视剧：丁宝桢 / Classical Theater</title>
 		<desc>Classical Theater</desc>
 	</programme>
 	<programme channel="5555" start="20241214091500 +0000" stop="20241214094500 +0000">
@@ -26252,16 +26240,16 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<desc>Unfortunate events force an ambitious Eashwari and a school dropout Azhagar to tie the knot. Can this odd couple turn their marriage into a happily ever after? Will Eashwari realize her IPS dream amidst life's many hardships?</desc>
 	</programme>
 	<programme channel="5622" start="20241214073000 +0000" stop="20241214080000 +0000">
-		<title>Movie -</title>
-		<desc>Watch your favourite movies with all the drama and emotion on Sun TV.</desc>
+		<title>Movie - NIMIRNTHU NILL</title>
+		<desc>Aravindan Sivasamy, an orphan, is raised with high moral values but faces difficulty in the real world. He decides to lead a crusade against corruption but attracts the ire of powerful people.</desc>
 	</programme>
 	<programme channel="5622" start="20241214080000 +0000" stop="20241214083000 +0000">
 		<title>News</title>
 		<desc>This news programme chronicles the latest events, developments, inventions, discoveries and happenings around the world.</desc>
 	</programme>
 	<programme channel="5622" start="20241214083000 +0000" stop="20241214103000 +0000">
-		<title>Movie Contd -</title>
-		<desc>Watch your favourite movies with all the drama and emotion on Sun TV.</desc>
+		<title>Movie Contd - NIMIRNTHU NILL</title>
+		<desc>Aravindan Sivasamy, an orphan, is raised with high moral values but faces difficulty in the real world. He decides to lead a crusade against corruption but attracts the ire of powerful people.</desc>
 	</programme>
 	<programme channel="5622" start="20241214103000 +0000" stop="20241214110000 +0000">
 		<title>RAMAYANAM</title>
@@ -29545,43 +29533,43 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 	</programme>
 	<programme channel="5652" start="20241212160000 +0000" stop="20241212163000 +0000">
 		<title>Appollena - Sapno Ki Unchi Udann Episode 9</title>
-		<desc>Apollena, who hails from Lucknow, aspires to become India's first female astronaut even as societal barriers, her academic setbacks and her father's imprisonment threaten to crush her dreams.</desc>
+		<desc>Apollena's birthday celebration is interrupted by a team of police officers, who later forcibly arrests Giridhar from the house.</desc>
 	</programme>
 	<programme channel="5652" start="20241212163000 +0000" stop="20241212170000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 87</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Panibai prepares and serves sherbat to everyone at the puja, which leads to arguments. Meanwhile, Durga faces criticism about her work.</desc>
 	</programme>
 	<programme channel="5652" start="20241212170000 +0000" stop="20241212173000 +0000">
 		<title>Mera Balam Thanedaar Episode 247</title>
-		<desc>An amiable girl who believes in supporting the lie if someone benefits for good marries a police officer under unfortunate circumstances.</desc>
+		<desc>Sulakshana starts having second thoughts about financing her son's business venture. Meanwhile, Dhruv gets into a fight with Ratan.</desc>
 	</programme>
 	<programme channel="5652" start="20241212173000 +0000" stop="20241212180000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 535</title>
-		<desc>Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity.</desc>
+		<desc>Bhum along with the support of his mother's blessings goes on a tumultuous journey to finish Andhakasura's reign of terror.</desc>
 	</programme>
 	<programme channel="5652" start="20241212180000 +0000" stop="20241212183000 +0000">
 		<title>Suman Indori Episode 100</title>
-		<desc>Forced by fate to marry a rich, shrewd politician, Suman embraces obstacles adjusting to her new life while dealing with her sister-in-law who seeks to become the head of the household.</desc>
+		<desc>Teerth's father becomes furious as he charges at Suman for disrespecting Devika and later tells her to apologise to Devika for her actions.</desc>
 	</programme>
 	<programme channel="5652" start="20241212183000 +0000" stop="20241212190000 +0000">
 		<title>Appollena - Sapno Ki Unchi Udann Episode 9</title>
-		<desc>Apollena, who hails from Lucknow, aspires to become India's first female astronaut even as societal barriers, her academic setbacks and her father's imprisonment threaten to crush her dreams.</desc>
+		<desc>Apollena's birthday celebration is interrupted by a team of police officers, who later forcibly arrests Giridhar from the house.</desc>
 	</programme>
 	<programme channel="5652" start="20241212190000 +0000" stop="20241212193000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 535</title>
-		<desc>Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity.</desc>
+		<desc>Bhum along with the support of his mother's blessings goes on a tumultuous journey to finish Andhakasura's reign of terror.</desc>
 	</programme>
 	<programme channel="5652" start="20241212193000 +0000" stop="20241212200000 +0000">
 		<title>Mangal Lakshmi Episode 288</title>
-		<desc>Mangal searches for a perfect husband for her sister, Lakshmi, revealing the enduring strength of sisterhood and the power of destiny over this journey.</desc>
+		<desc>Adit's parents become concerned as they plead him not to cut ties with Mangal. Meanwhile, Kusum gets a mysterious phone call from a nurse.</desc>
 	</programme>
 	<programme channel="5652" start="20241212200000 +0000" stop="20241212203000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 87</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Panibai prepares and serves sherbat to everyone at the puja, which leads to arguments. Meanwhile, Durga faces criticism about her work.</desc>
 	</programme>
 	<programme channel="5652" start="20241212203000 +0000" stop="20241212210000 +0000">
 		<title>Mera Balam Thanedaar Episode 247</title>
-		<desc>An amiable girl who believes in supporting the lie if someone benefits for good marries a police officer under unfortunate circumstances.</desc>
+		<desc>Sulakshana starts having second thoughts about financing her son's business venture. Meanwhile, Dhruv gets into a fight with Ratan.</desc>
 	</programme>
 	<programme channel="5652" start="20241212210000 +0000" stop="20241212220000 +0000">
 		<title>Mahasangam Parineetii / Megha Bars</title>
@@ -29589,7 +29577,7 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 	</programme>
 	<programme channel="5652" start="20241212220000 +0000" stop="20241212223000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 535</title>
-		<desc>Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity.</desc>
+		<desc>Bhum along with the support of his mother's blessings goes on a tumultuous journey to finish Andhakasura's reign of terror.</desc>
 	</programme>
 	<programme channel="5652" start="20241212223000 +0000" stop="20241212233000 +0000">
 		<title>Mahasangam Parineetii / Megha Bars</title>
@@ -29597,23 +29585,23 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 	</programme>
 	<programme channel="5652" start="20241212233000 +0000" stop="20241213000000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 87</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Panibai prepares and serves sherbat to everyone at the puja, which leads to arguments. Meanwhile, Durga faces criticism about her work.</desc>
 	</programme>
 	<programme channel="5652" start="20241213000000 +0000" stop="20241213003000 +0000">
 		<title>Mera Balam Thanedaar Episode 247</title>
-		<desc>An amiable girl who believes in supporting the lie if someone benefits for good marries a police officer under unfortunate circumstances.</desc>
+		<desc>Sulakshana starts having second thoughts about financing her son's business venture. Meanwhile, Dhruv gets into a fight with Ratan.</desc>
 	</programme>
 	<programme channel="5652" start="20241213003000 +0000" stop="20241213010000 +0000">
 		<title>Mangal Lakshmi Episode 288</title>
-		<desc>Mangal searches for a perfect husband for her sister, Lakshmi, revealing the enduring strength of sisterhood and the power of destiny over this journey.</desc>
+		<desc>Adit's parents become concerned as they plead him not to cut ties with Mangal. Meanwhile, Kusum gets a mysterious phone call from a nurse.</desc>
 	</programme>
 	<programme channel="5652" start="20241213010000 +0000" stop="20241213013000 +0000">
 		<title>Suman Indori Episode 100</title>
-		<desc>Forced by fate to marry a rich, shrewd politician, Suman embraces obstacles adjusting to her new life while dealing with her sister-in-law who seeks to become the head of the household.</desc>
+		<desc>Teerth's father becomes furious as he charges at Suman for disrespecting Devika and later tells her to apologise to Devika for her actions.</desc>
 	</programme>
 	<programme channel="5652" start="20241213013000 +0000" stop="20241213020000 +0000">
 		<title>Appollena - Sapno Ki Unchi Udann Episode 9</title>
-		<desc>Apollena, who hails from Lucknow, aspires to become India's first female astronaut even as societal barriers, her academic setbacks and her father's imprisonment threaten to crush her dreams.</desc>
+		<desc>Apollena's birthday celebration is interrupted by a team of police officers, who later forcibly arrests Giridhar from the house.</desc>
 	</programme>
 	<programme channel="5652" start="20241213020000 +0000" stop="20241213030000 +0000">
 		<title>Mahasangam Parineetii / Megha Bars</title>
@@ -29621,139 +29609,139 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 	</programme>
 	<programme channel="5652" start="20241213030000 +0000" stop="20241213033000 +0000">
 		<title>Suman Indori Episode 100</title>
-		<desc>Forced by fate to marry a rich, shrewd politician, Suman embraces obstacles adjusting to her new life while dealing with her sister-in-law who seeks to become the head of the household.</desc>
+		<desc>Teerth's father becomes furious as he charges at Suman for disrespecting Devika and later tells her to apologise to Devika for her actions.</desc>
 	</programme>
 	<programme channel="5652" start="20241213033000 +0000" stop="20241213040000 +0000">
 		<title>Appollena - Sapno Ki Unchi Udann Episode 10</title>
-		<desc>Apollena, who hails from Lucknow, aspires to become India's first female astronaut even as societal barriers, her academic setbacks and her father's imprisonment threaten to crush her dreams.</desc>
+		<desc>Apollena finds herself in a state of shock after seeing Girdar talk to her principal. Later, Girdar lies to her when she questions him about the incident.</desc>
 	</programme>
 	<programme channel="5652" start="20241213040000 +0000" stop="20241213043000 +0000">
 		<title>Mera Balam Thanedaar Episode 248</title>
-		<desc>An amiable girl who believes in supporting the lie if someone benefits for good marries a police officer under unfortunate circumstances.</desc>
+		<desc>Bulbul helps Vansh clear his name after Veer suspects him of stealing a gold idol. Later, Veer becomes suspicious of Bulbul's actions.</desc>
 	</programme>
 	<programme channel="5652" start="20241213043000 +0000" stop="20241213050000 +0000">
 		<title>Suman Indori Episode 101</title>
-		<desc>Forced by fate to marry a rich, shrewd politician, Suman embraces obstacles adjusting to her new life while dealing with her sister-in-law who seeks to become the head of the household.</desc>
+		<desc>Suman becomes suspicious of Teerth after he lies to her and leaves the house urgently. Later Devika asks Suman about her suspicions.</desc>
 	</programme>
 	<programme channel="5652" start="20241213050000 +0000" stop="20241213053000 +0000">
 		<title>Megha Barsenge Episode 129</title>
-		<desc>After a groom absconds from his wedding, his bride is left at the mercy of her sentiments of abandonment and to endure a judgemental societal structure.</desc>
+		<desc>Megha tries to cover up the announcement of her pregnancy after being worried about the reaction from Arjun. Later, upon hearing the news Arjun supports her.</desc>
 	</programme>
 	<programme channel="5652" start="20241213053000 +0000" stop="20241213060000 +0000">
 		<title>Parineetii Episode 962</title>
-		<desc>Two best friends who support each other through thick and thin face a problem when circumstance causes both of them to get married to the same man.</desc>
+		<desc>Pari puts her life in danger after she goes to save Rajeev from the fire. Later, Rajeev tells Pari about living their life separately from each other.</desc>
 	</programme>
 	<programme channel="5652" start="20241213060000 +0000" stop="20241213063000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 536</title>
-		<desc>Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity.</desc>
+		<desc>Andhakasura plans to attack on Kailasha and terrorize the people through his reign after the belief in his immortality grows stronger.</desc>
 	</programme>
 	<programme channel="5652" start="20241213063000 +0000" stop="20241213070000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 88</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Durga contemplates about telling Anurag about her feelings for him after she hears about his wedding announcement to the health minister's daughter.</desc>
 	</programme>
 	<programme channel="5652" start="20241213070000 +0000" stop="20241213073000 +0000">
 		<title>Mangal Lakshmi Episode 289</title>
-		<desc>Mangal searches for a perfect husband for her sister, Lakshmi, revealing the enduring strength of sisterhood and the power of destiny over this journey.</desc>
+		<desc>Adit tries to stop Mangal after she tells him that she has decided to leave the house. Meanwhile, Lipika comes across Somya's fake pregnancy report.</desc>
 	</programme>
 	<programme channel="5652" start="20241213073000 +0000" stop="20241213090000 +0000">
 		<title>Bigg Boss Episode 66</title>
-		<desc>As Bigg Boss delves into the future of the contestants with the cataclysm of technology, the housemates try to conquer 'Time Ka Tandav', and emerge victorious in a locked house in BB's surveillance.</desc>
+		<desc>Housemates get deep into planning session for their next task as they compete to win the most number of BB currency and become Time-God of the house.</desc>
 	</programme>
 	<programme channel="5652" start="20241213090000 +0000" stop="20241213093000 +0000">
 		<title>Mangal Lakshmi Episode 288</title>
-		<desc>Mangal searches for a perfect husband for her sister, Lakshmi, revealing the enduring strength of sisterhood and the power of destiny over this journey.</desc>
+		<desc>Adit's parents become concerned as they plead him not to cut ties with Mangal. Meanwhile, Kusum gets a mysterious phone call from a nurse.</desc>
 	</programme>
 	<programme channel="5652" start="20241213093000 +0000" stop="20241213100000 +0000">
 		<title>Appollena - Sapno Ki Unchi Udann Episode 10</title>
-		<desc>Apollena, who hails from Lucknow, aspires to become India's first female astronaut even as societal barriers, her academic setbacks and her father's imprisonment threaten to crush her dreams.</desc>
+		<desc>Apollena finds herself in a state of shock after seeing Girdar talk to her principal. Later, Girdar lies to her when she questions him about the incident.</desc>
 	</programme>
 	<programme channel="5652" start="20241213100000 +0000" stop="20241213103000 +0000">
 		<title>Mera Balam Thanedaar Episode 248</title>
-		<desc>An amiable girl who believes in supporting the lie if someone benefits for good marries a police officer under unfortunate circumstances.</desc>
+		<desc>Bulbul helps Vansh clear his name after Veer suspects him of stealing a gold idol. Later, Veer becomes suspicious of Bulbul's actions.</desc>
 	</programme>
 	<programme channel="5652" start="20241213103000 +0000" stop="20241213110000 +0000">
 		<title>Suman Indori Episode 101</title>
-		<desc>Forced by fate to marry a rich, shrewd politician, Suman embraces obstacles adjusting to her new life while dealing with her sister-in-law who seeks to become the head of the household.</desc>
+		<desc>Suman becomes suspicious of Teerth after he lies to her and leaves the house urgently. Later Devika asks Suman about her suspicions.</desc>
 	</programme>
 	<programme channel="5652" start="20241213110000 +0000" stop="20241213113000 +0000">
 		<title>Megha Barsenge Episode 129</title>
-		<desc>After a groom absconds from his wedding, his bride is left at the mercy of her sentiments of abandonment and to endure a judgemental societal structure.</desc>
+		<desc>Megha tries to cover up the announcement of her pregnancy after being worried about the reaction from Arjun. Later, upon hearing the news Arjun supports her.</desc>
 	</programme>
 	<programme channel="5652" start="20241213113000 +0000" stop="20241213120000 +0000">
 		<title>Parineetii Episode 962</title>
-		<desc>Two best friends who support each other through thick and thin face a problem when circumstance causes both of them to get married to the same man.</desc>
+		<desc>Pari puts her life in danger after she goes to save Rajeev from the fire. Later, Rajeev tells Pari about living their life separately from each other.</desc>
 	</programme>
 	<programme channel="5652" start="20241213120000 +0000" stop="20241213123000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 536</title>
-		<desc>Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity.</desc>
+		<desc>Andhakasura plans to attack on Kailasha and terrorize the people through his reign after the belief in his immortality grows stronger.</desc>
 	</programme>
 	<programme channel="5652" start="20241213123000 +0000" stop="20241213130000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 88</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Durga contemplates about telling Anurag about her feelings for him after she hears about his wedding announcement to the health minister's daughter.</desc>
 	</programme>
 	<programme channel="5652" start="20241213130000 +0000" stop="20241213133000 +0000">
 		<title>Mangal Lakshmi Episode 289</title>
-		<desc>Mangal searches for a perfect husband for her sister, Lakshmi, revealing the enduring strength of sisterhood and the power of destiny over this journey.</desc>
+		<desc>Adit tries to stop Mangal after she tells him that she has decided to leave the house. Meanwhile, Lipika comes across Somya's fake pregnancy report.</desc>
 	</programme>
 	<programme channel="5652" start="20241213133000 +0000" stop="20241213150000 +0000">
 		<title>Bigg Boss Episode 67</title>
-		<desc>As Bigg Boss delves into the future of the contestants with the cataclysm of technology, the housemates try to conquer 'Time Ka Tandav', and emerge victorious in a locked house in BB's surveillance.</desc>
+		<desc>Four contestants compete against each other in a challenge filled with heavy tasks, as they set out to become the next Time God.</desc>
 	</programme>
 	<programme channel="5652" start="20241213150000 +0000" stop="20241213153000 +0000">
 		<title>Mera Balam Thanedaar Episode 248</title>
-		<desc>An amiable girl who believes in supporting the lie if someone benefits for good marries a police officer under unfortunate circumstances.</desc>
+		<desc>Bulbul helps Vansh clear his name after Veer suspects him of stealing a gold idol. Later, Veer becomes suspicious of Bulbul's actions.</desc>
 	</programme>
 	<programme channel="5652" start="20241213153000 +0000" stop="20241213160000 +0000">
 		<title>Suman Indori Episode 101</title>
-		<desc>Forced by fate to marry a rich, shrewd politician, Suman embraces obstacles adjusting to her new life while dealing with her sister-in-law who seeks to become the head of the household.</desc>
+		<desc>Suman becomes suspicious of Teerth after he lies to her and leaves the house urgently. Later Devika asks Suman about her suspicions.</desc>
 	</programme>
 	<programme channel="5652" start="20241213160000 +0000" stop="20241213163000 +0000">
 		<title>Appollena - Sapno Ki Unchi Udann Episode 10</title>
-		<desc>Apollena, who hails from Lucknow, aspires to become India's first female astronaut even as societal barriers, her academic setbacks and her father's imprisonment threaten to crush her dreams.</desc>
+		<desc>Apollena finds herself in a state of shock after seeing Girdar talk to her principal. Later, Girdar lies to her when she questions him about the incident.</desc>
 	</programme>
 	<programme channel="5652" start="20241213163000 +0000" stop="20241213170000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 88</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Durga contemplates about telling Anurag about her feelings for him after she hears about his wedding announcement to the health minister's daughter.</desc>
 	</programme>
 	<programme channel="5652" start="20241213170000 +0000" stop="20241213173000 +0000">
 		<title>Mera Balam Thanedaar Episode 248</title>
-		<desc>An amiable girl who believes in supporting the lie if someone benefits for good marries a police officer under unfortunate circumstances.</desc>
+		<desc>Bulbul helps Vansh clear his name after Veer suspects him of stealing a gold idol. Later, Veer becomes suspicious of Bulbul's actions.</desc>
 	</programme>
 	<programme channel="5652" start="20241213173000 +0000" stop="20241213180000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 536</title>
-		<desc>Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity.</desc>
+		<desc>Andhakasura plans to attack on Kailasha and terrorize the people through his reign after the belief in his immortality grows stronger.</desc>
 	</programme>
 	<programme channel="5652" start="20241213180000 +0000" stop="20241213183000 +0000">
 		<title>Suman Indori Episode 101</title>
-		<desc>Forced by fate to marry a rich, shrewd politician, Suman embraces obstacles adjusting to her new life while dealing with her sister-in-law who seeks to become the head of the household.</desc>
+		<desc>Suman becomes suspicious of Teerth after he lies to her and leaves the house urgently. Later Devika asks Suman about her suspicions.</desc>
 	</programme>
 	<programme channel="5652" start="20241213183000 +0000" stop="20241213190000 +0000">
 		<title>Appollena - Sapno Ki Unchi Udann Episode 10</title>
-		<desc>Apollena, who hails from Lucknow, aspires to become India's first female astronaut even as societal barriers, her academic setbacks and her father's imprisonment threaten to crush her dreams.</desc>
+		<desc>Apollena finds herself in a state of shock after seeing Girdar talk to her principal. Later, Girdar lies to her when she questions him about the incident.</desc>
 	</programme>
 	<programme channel="5652" start="20241213190000 +0000" stop="20241213193000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 536</title>
-		<desc>Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity.</desc>
+		<desc>Andhakasura plans to attack on Kailasha and terrorize the people through his reign after the belief in his immortality grows stronger.</desc>
 	</programme>
 	<programme channel="5652" start="20241213193000 +0000" stop="20241213200000 +0000">
 		<title>Mangal Lakshmi Episode 289</title>
-		<desc>Mangal searches for a perfect husband for her sister, Lakshmi, revealing the enduring strength of sisterhood and the power of destiny over this journey.</desc>
+		<desc>Adit tries to stop Mangal after she tells him that she has decided to leave the house. Meanwhile, Lipika comes across Somya's fake pregnancy report.</desc>
 	</programme>
 	<programme channel="5652" start="20241213200000 +0000" stop="20241213203000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 88</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Durga contemplates about telling Anurag about her feelings for him after she hears about his wedding announcement to the health minister's daughter.</desc>
 	</programme>
 	<programme channel="5652" start="20241213203000 +0000" stop="20241213210000 +0000">
 		<title>Mera Balam Thanedaar Episode 248</title>
-		<desc>An amiable girl who believes in supporting the lie if someone benefits for good marries a police officer under unfortunate circumstances.</desc>
+		<desc>Bulbul helps Vansh clear his name after Veer suspects him of stealing a gold idol. Later, Veer becomes suspicious of Bulbul's actions.</desc>
 	</programme>
 	<programme channel="5652" start="20241213210000 +0000" stop="20241213213000 +0000">
 		<title>Parineetii Episode 962</title>
-		<desc>Two best friends who support each other through thick and thin face a problem when circumstance causes both of them to get married to the same man.</desc>
+		<desc>Pari puts her life in danger after she goes to save Rajeev from the fire. Later, Rajeev tells Pari about living their life separately from each other.</desc>
 	</programme>
 	<programme channel="5652" start="20241213213000 +0000" stop="20241213220000 +0000">
 		<title>Megha Barsenge Episode 129</title>
-		<desc>After a groom absconds from his wedding, his bride is left at the mercy of her sentiments of abandonment and to endure a judgemental societal structure.</desc>
+		<desc>Megha tries to cover up the announcement of her pregnancy after being worried about the reaction from Arjun. Later, upon hearing the news Arjun supports her.</desc>
 	</programme>
 	<programme channel="5652" start="20241213220000 +0000" stop="20241213223000 +0000">
 		<title>Parineetii Episode 960</title>
@@ -29765,7 +29753,7 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 	</programme>
 	<programme channel="5652" start="20241213230000 +0000" stop="20241213233000 +0000">
 		<title>Parineetii Episode 962</title>
-		<desc>Two best friends who support each other through thick and thin face a problem when circumstance causes both of them to get married to the same man.</desc>
+		<desc>Pari puts her life in danger after she goes to save Rajeev from the fire. Later, Rajeev tells Pari about living their life separately from each other.</desc>
 	</programme>
 	<programme channel="5652" start="20241213233000 +0000" stop="20241214000000 +0000">
 		<title>Megha Barsenge Episode 128</title>
@@ -29773,31 +29761,31 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 	</programme>
 	<programme channel="5652" start="20241214000000 +0000" stop="20241214003000 +0000">
 		<title>Megha Barsenge Episode 129</title>
-		<desc>After a groom absconds from his wedding, his bride is left at the mercy of her sentiments of abandonment and to endure a judgemental societal structure.</desc>
+		<desc>Megha tries to cover up the announcement of her pregnancy after being worried about the reaction from Arjun. Later, upon hearing the news Arjun supports her.</desc>
 	</programme>
 	<programme channel="5652" start="20241214003000 +0000" stop="20241214010000 +0000">
 		<title>Suman Indori Episode 99</title>
-		<desc>Forced by fate to marry a rich, shrewd politician, Suman embraces obstacles adjusting to her new life while dealing with her sister-in-law who seeks to become the head of the household.</desc>
+		<desc>Suman administers an excruciating pedicure to Akhil, warning him apologise to Bhumi's family or she will fracture his ankle. Devika watches in fury as Suman presents them with an ultimatum.</desc>
 	</programme>
 	<programme channel="5652" start="20241214010000 +0000" stop="20241214013000 +0000">
 		<title>Suman Indori Episode 100</title>
-		<desc>Forced by fate to marry a rich, shrewd politician, Suman embraces obstacles adjusting to her new life while dealing with her sister-in-law who seeks to become the head of the household.</desc>
+		<desc>Teerth's father becomes furious as he charges at Suman for disrespecting Devika and later tells her to apologise to Devika for her actions.</desc>
 	</programme>
 	<programme channel="5652" start="20241214013000 +0000" stop="20241214020000 +0000">
 		<title>Suman Indori Episode 101</title>
-		<desc>Forced by fate to marry a rich, shrewd politician, Suman embraces obstacles adjusting to her new life while dealing with her sister-in-law who seeks to become the head of the household.</desc>
+		<desc>Suman becomes suspicious of Teerth after he lies to her and leaves the house urgently. Later Devika asks Suman about her suspicions.</desc>
 	</programme>
 	<programme channel="5652" start="20241214020000 +0000" stop="20241214023000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 86</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Tara interrogates as she holds Vikram responsible for her daughter's abduction. Meanwhile, Anurag suggests Durga to take care of herself.</desc>
 	</programme>
 	<programme channel="5652" start="20241214023000 +0000" stop="20241214030000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 87</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Panibai prepares and serves sherbat to everyone at the puja, which leads to arguments. Meanwhile, Durga faces criticism about her work.</desc>
 	</programme>
 	<programme channel="5652" start="20241214030000 +0000" stop="20241214033000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 88</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Durga contemplates about telling Anurag about her feelings for him after she hears about his wedding announcement to the health minister's daughter.</desc>
 	</programme>
 	<programme channel="5652" start="20241214033000 +0000" stop="20241214040000 +0000">
 		<title>Appollena - Sapno Ki Unchi Udann Episode 11</title>
@@ -29833,11 +29821,11 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 	</programme>
 	<programme channel="5652" start="20241214073000 +0000" stop="20241214090000 +0000">
 		<title>Bigg Boss Episode 67</title>
-		<desc>As Bigg Boss delves into the future of the contestants with the cataclysm of technology, the housemates try to conquer 'Time Ka Tandav', and emerge victorious in a locked house in BB's surveillance.</desc>
+		<desc>Four contestants compete against each other in a challenge filled with heavy tasks, as they set out to become the next Time God.</desc>
 	</programme>
 	<programme channel="5652" start="20241214090000 +0000" stop="20241214093000 +0000">
 		<title>Mangal Lakshmi Episode 289</title>
-		<desc>Mangal searches for a perfect husband for her sister, Lakshmi, revealing the enduring strength of sisterhood and the power of destiny over this journey.</desc>
+		<desc>Adit tries to stop Mangal after she tells him that she has decided to leave the house. Meanwhile, Lipika comes across Somya's fake pregnancy report.</desc>
 	</programme>
 	<programme channel="5652" start="20241214093000 +0000" stop="20241214100000 +0000">
 		<title>Appollena - Sapno Ki Unchi Udann Episode 11</title>
@@ -30948,11 +30936,11 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<desc>Entertainement</desc>
 	</programme>
 	<programme channel="5670" start="20241213183000 +0000" stop="20241213213000 +0000">
-		<title>Movie</title>
+		<title>ATHADE</title>
 		<desc>Entertainement</desc>
 	</programme>
 	<programme channel="5670" start="20241213213000 +0000" stop="20241214003000 +0000">
-		<title>Movie</title>
+		<title>DAGGARAGA DOORAMGA</title>
 		<desc>Entertainement</desc>
 	</programme>
 	<programme channel="5670" start="20241214003000 +0000" stop="20241214013000 +0000">
@@ -30960,23 +30948,23 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<desc>Entertainement</desc>
 	</programme>
 	<programme channel="5670" start="20241214013000 +0000" stop="20241214033000 +0000">
-		<title>Movie</title>
+		<title>NAA PERU SESHU</title>
 		<desc>Entertainement</desc>
 	</programme>
 	<programme channel="5670" start="20241214033000 +0000" stop="20241214063000 +0000">
-		<title>Movie</title>
+		<title>SUBRAHMANYAM FOR SALE</title>
 		<desc>Entertainement</desc>
 	</programme>
 	<programme channel="5670" start="20241214063000 +0000" stop="20241214093000 +0000">
-		<title>Movie</title>
+		<title>MANMADHUDU</title>
 		<desc>Entertainement</desc>
 	</programme>
 	<programme channel="5670" start="20241214093000 +0000" stop="20241214123000 +0000">
-		<title>Movie</title>
+		<title>KHILADI</title>
 		<desc>Entertainement</desc>
 	</programme>
-	<programme channel="5670" start="20241214123000 +0000" stop="20241214150000 +0000">
-		<title>Movie</title>
+	<programme channel="5670" start="20241214123000 +0000" stop="20241214153000 +0000">
+		<title>VEERA SIMHA REDDY</title>
 		<desc>Entertainement</desc>
 	</programme>
 	<programme channel="5671" start="20241212160000 +0000" stop="20241212163000 +0000">
@@ -31099,89 +31087,93 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<title>BIGG BOSS 8 - UNSEEN EXTRA CUTS</title>
 		<desc>BIGG BOSS 8 - UNSEEN EXTRA CUTS</desc>
 	</programme>
-	<programme channel="5671" start="20241213180000 +0000" stop="20241213203000 +0000">
+	<programme channel="5671" start="20241213180000 +0000" stop="20241213183000 +0000">
 		<title>Movie_BHEEMA</title>
 		<desc>Movie_BHEEMA</desc>
 	</programme>
+	<programme channel="5671" start="20241213183000 +0000" stop="20241213203000 +0000">
+		<title>Movie_POLICEODU</title>
+		<desc>Movie_POLICEODU</desc>
+	</programme>
 	<programme channel="5671" start="20241213203000 +0000" stop="20241213230000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie_INKOKKADU</title>
+		<desc>Movie_INKOKKADU</desc>
 	</programme>
 	<programme channel="5671" start="20241213230000 +0000" stop="20241214010000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>FUN TIME</title>
+		<desc>Entertainment</desc>
 	</programme>
 	<programme channel="5671" start="20241214010000 +0000" stop="20241214013000 +0000">
-		<title>Fun Time</title>
-		<desc>Tune into a compilation of comedy clips from the recently released Tollywood movies.</desc>
+		<title>Movie_RAIL</title>
+		<desc>Movie_RAIL</desc>
 	</programme>
 	<programme channel="5671" start="20241214013000 +0000" stop="20241214033000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>AADIVARAM STAR MAA PARIVARAM ® - STAR WARS</title>
+		<desc>AADIVARAM STAR MAA PARIVARAM ® - STAR WARS</desc>
 	</programme>
 	<programme channel="5671" start="20241214033000 +0000" stop="20241214063000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie_BAAHUBALI THE CONCLUSION (PART 2)</title>
+		<desc>Entertainment</desc>
 	</programme>
 	<programme channel="5671" start="20241214063000 +0000" stop="20241214070000 +0000">
-		<title>Paape Maa Jeevana Jyothi</title>
-		<desc>Jyothi seeks acceptance but faces turmoil as daughter Jeevana is kidnapped, jeopardizing their newfound peace.</desc>
+		<title>Paape Naa Jeevana Jyothi</title>
+		<desc>Story revolves around mother and missed daughter</desc>
 	</programme>
 	<programme channel="5671" start="20241214070000 +0000" stop="20241214073000 +0000">
-		<title>Ninnu Kori</title>
-		<desc>Pallavi invites her ex-boyfriend to stay with her and her husband to prove she is happy. Uma tries to break them up.</desc>
+		<title>NINNU KORI</title>
+		<desc>NINNU KORI</desc>
 	</programme>
 	<programme channel="5671" start="20241214073000 +0000" stop="20241214080000 +0000">
-		<title>Nuvvu Nenu Prema</title>
-		<desc>Padmavathi, a family-loving girl, meets Vikramaditya, an arrogant businessman grappling with the loss of his parents.</desc>
+		<title>BRAHMA MUDI</title>
+		<desc>BRAHMA MUDI</desc>
 	</programme>
 	<programme channel="5671" start="20241214080000 +0000" stop="20241214083000 +0000">
-		<title>Paluke Bangaramayena</title>
-		<desc>Speech-impaired Swaragini, deemed unlucky by her father. Can Officer Abhishek alter her fate?</desc>
+		<title>PALUKE BANGARAMAYENA</title>
+		<desc>PALUKE BANGARAMAYENA</desc>
 	</programme>
 	<programme channel="5671" start="20241214083000 +0000" stop="20241214090000 +0000">
-		<title>Mama Garu</title>
-		<desc>Ganga confronts chauvinistic father-in-law, challenging norms. Can she carve her path to victory and claim her rights?</desc>
+		<title>MAMA GARU</title>
+		<desc>Serial</desc>
 	</programme>
 	<programme channel="5671" start="20241214090000 +0000" stop="20241214093000 +0000">
 		<title>Vantalakka</title>
-		<desc>Kind-hearted Murali loves a wealthy girl. Their romance encounters numerous obstacles.</desc>
+		<desc>Serial</desc>
 	</programme>
 	<programme channel="5671" start="20241214093000 +0000" stop="20241214100000 +0000">
 		<title>Malli</title>
-		<desc>Malli promises Meera after hearing her past. Arvind's family frets over his new project.</desc>
+		<desc>Story of village girl</desc>
 	</programme>
 	<programme channel="5671" start="20241214100000 +0000" stop="20241214103000 +0000">
-		<title>Yeto Vellipoindi Manasu</title>
-		<desc>Varun and Nithya's lifelong journey is marked by ups and downs, leading to multiple separations.</desc>
+		<title>YETO VELLIPOINDI MANASU</title>
+		<desc>YETO VELLIPOINDI MANASU</desc>
 	</programme>
-	<programme channel="5671" start="20241214103000 +0000" stop="20241214123000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="5671" start="20241214103000 +0000" stop="20241214110000 +0000">
+		<title>ILLU ILLALU PILLALU ® -</title>
+		<desc>Entertainment</desc>
 	</programme>
-	<programme channel="5671" start="20241214123000 +0000" stop="20241214130000 +0000">
-		<title>Sathyabhama</title>
-		<desc>Krish falls for Satya, a principled girl. What unfolds for this extraordinary couple in their love story?</desc>
+	<programme channel="5671" start="20241214110000 +0000" stop="20241214120000 +0000">
+		<title>BIGG BOSS 8 ® -</title>
+		<desc>BIGG BOSS 8 ® -</desc>
 	</programme>
-	<programme channel="5671" start="20241214130000 +0000" stop="20241214133000 +0000">
-		<title>Maguva O Maguva</title>
-		<desc>Wealthy Akhila and single mom Anjali bond during pregnancy, navigating diverse backgrounds in a tale of motherhood.</desc>
+	<programme channel="5671" start="20241214120000 +0000" stop="20241214123000 +0000">
+		<title>GUPPEDANTHA MANASU ®</title>
+		<desc>GUPPEDANTHA MANASU ®</desc>
+	</programme>
+	<programme channel="5671" start="20241214123000 +0000" stop="20241214133000 +0000">
+		<title>MAGUVA O MAGUVA</title>
+		<desc>MAGUVA O MAGUVA</desc>
 	</programme>
 	<programme channel="5671" start="20241214133000 +0000" stop="20241214140000 +0000">
-		<title>Chinni</title>
-		<desc>A heartwarming tale of a Mother and Daughter navigating through unexpected challenges, strengthening their bond and understanding each other in new ways.</desc>
+		<title>CHINNI</title>
+		<desc>Serial</desc>
 	</programme>
 	<programme channel="5671" start="20241214140000 +0000" stop="20241214143000 +0000">
-		<title>Brahma Mudi</title>
-		<desc>Mother arranges weddings for talented daughters. Affairs take an unexpected turn with an affluent family.</desc>
+		<title>ILLU ILLALU PILLALU</title>
+		<desc>ILLU ILLALU PILLALU</desc>
 	</programme>
-	<programme channel="5671" start="20241214143000 +0000" stop="20241214150000 +0000">
-		<title>Karthika Deepam-Nava Vasantham</title>
-		<desc>Deepa, dark-skinned, toils against social pressures after marrying Dr. Karthik.</desc>
-	</programme>
-	<programme channel="5671" start="20241214150000 +0000" stop="20241214153000 +0000">
-		<title>Intinti Ramayanam</title>
-		<desc>Members of a close-knit family begin to doubt one another when they suddenly face a problem.</desc>
+	<programme channel="5671" start="20241214143000 +0000" stop="20241214153000 +0000">
+		<title>INTINTI RAMAYANAM</title>
+		<desc>INTINTI RAMAYANAM</desc>
 	</programme>
 	<programme channel="5676" start="20241212160000 +0000" stop="20241212180000 +0000">
 		<title>THE NEWSHOUR FIRST</title>
@@ -31975,21 +31967,25 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<title>Drama Serial "Omusubi" Eps. 55</title>
 		<desc>A Heisei youth graffiti drama, in which the heroine Yoneda Yui (Hashimoto Kanna), born in the first year of the Heisei era, connects people's hearts to the future as a nutritionist. Always cherishing her individuality, she sometimes struggles, but powerfully and joyfully pushes through the turbulent Heisei and Reiwa eras.</desc>
 	</programme>
-	<programme channel="5682" start="20241212231500 +0000" stop="20241213005400 +0000">
+	<programme channel="5682" start="20241212231500 +0000" stop="20241212235500 +0000">
 		<title>asaichi</title>
 		<desc>Looking into topical information ranging from social issues to entertainment news through the eyes of the general public.</desc>
 	</programme>
-	<programme channel="5682" start="20241213005400 +0000" stop="20241213005500 +0000">
-		<title>World Weather</title>
-		<desc>Weather information of the different areas around the world.</desc>
-	</programme>
-	<programme channel="5682" start="20241213005500 +0000" stop="20241213010000 +0000">
-		<title>Exercise for Everyone</title>
-		<desc>An easy-to-do exercise program for everyone from children to the elderly.</desc>
-	</programme>
-	<programme channel="5682" start="20241213010000 +0000" stop="20241213010500 +0000">
+	<programme channel="5682" start="20241212235500 +0000" stop="20241213000000 +0000">
 		<title>News &amp; Weather</title>
 		<desc>The latest up-to-date news and nationwide weather information.</desc>
+	</programme>
+	<programme channel="5682" start="20241213000000 +0000" stop="20241213004500 +0000">
+		<title>Your Health Guide Through the Maze of Information: Addressing the Problem of Cold Sensitivity and High Blood Pressure (R)</title>
+		<desc>Featuring distinguished programs ranging from entertainment shows to documentaries.</desc>
+	</programme>
+	<programme channel="5682" start="20241213004500 +0000" stop="20241213005500 +0000">
+		<title>Cruising from the Sky Mini</title>
+		<desc>Cruising from the Sky Mini</desc>
+	</programme>
+	<programme channel="5682" start="20241213005500 +0000" stop="20241213010500 +0000">
+		<title>Trails to Oishii Tokyo Mini (B)</title>
+		<desc>Trails to Oishii Tokyo Mini (B)</desc>
 	</programme>
 	<programme channel="5682" start="20241213010500 +0000" stop="20241213015500 +0000">
 		<title>NHK Special "500 Days of Close Coverage on the 'Border Island': Capturing the Frontline of Defense" (R)</title>
@@ -32031,13 +32027,21 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<title>Drama Serial "Omusubi" Eps. 55 (R)</title>
 		<desc>A Heisei youth graffiti drama, in which the heroine Yoneda Yui (Hashimoto Kanna), born in the first year of the Heisei era, connects people's hearts to the future as a nutritionist. Always cherishing her individuality, she sometimes struggles, but powerfully and joyfully pushes through the turbulent Heisei and Reiwa eras.</desc>
 	</programme>
-	<programme channel="5682" start="20241213040000 +0000" stop="20241213040500 +0000">
-		<title>News</title>
-		<desc>The latest up-to-date news from Tokyo.</desc>
+	<programme channel="5682" start="20241213040000 +0000" stop="20241213050000 +0000">
+		<title>Somewhere Street "Angra do Heroismo in Terceira Island, Portugal (R)</title>
+		<desc>A close-up look at cities worldwide, as seen by a walking tourist. Viewers visit places off the beaten path, meet ordinary people, and enjoy a travel experience that only possible on foot.</desc>
 	</programme>
-	<programme channel="5682" start="20241213040500 +0000" stop="20241213055000 +0000">
-		<title>News Around Japan</title>
-		<desc>Program introduces the latest news from all over Japan.</desc>
+	<programme channel="5682" start="20241213050000 +0000" stop="20241213053000 +0000">
+		<title>The Great Nature</title>
+		<desc>Featuring distinguished programs ranging from entertainment shows to documentaries.</desc>
+	</programme>
+	<programme channel="5682" start="20241213053000 +0000" stop="20241213054500 +0000">
+		<title>Fishing Crazy</title>
+		<desc>Fishing Crazy</desc>
+	</programme>
+	<programme channel="5682" start="20241213054500 +0000" stop="20241213055000 +0000">
+		<title>Disaster Management Tips</title>
+		<desc>Disaster Management Tips</desc>
 	</programme>
 	<programme channel="5682" start="20241213055000 +0000" stop="20241213055500 +0000">
 		<title>World Weather</title>
@@ -32048,8 +32052,8 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<desc>A 5-minute music program introducing classical music.</desc>
 	</programme>
 	<programme channel="5682" start="20241213060000 +0000" stop="20241213061000 +0000">
-		<title>News &amp; Weather</title>
-		<desc>The latest up-to-date news and nationwide weather information.</desc>
+		<title>Rural Japan "Satoyama"</title>
+		<desc>Rural Japan "Satoyama"</desc>
 	</programme>
 	<programme channel="5682" start="20241213061000 +0000" stop="20241213063000 +0000">
 		<title>Chinese Navi</title>
@@ -32264,7 +32268,7 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<desc>The latest up-to-date news and nationwide weather information.</desc>
 	</programme>
 	<programme channel="5682" start="20241214010500 +0000" stop="20241214013800 +0000">
-		<title>The Visualization Entertainment: Go! Kaneo-kun (R)</title>
+		<title>The Visualization Entertainment: Go! Kaneo-kun Encore</title>
 		<desc>The show is MC-ed by comedian Ariyoshi Hiroiki, who hosts an NHK program on a regular basis for the first time. The mascot character "Kaneo-kun" (voice of Nobu, of comedy duo Chidori), who loves money, visits various places, including popular visiting locations, and looks into different phenomena to learn how money plays a role. The undertaking help unravel unexpected trends in society. The program, which can be enjoyed by every member of the family, offers much food for thought.</desc>
 	</programme>
 	<programme channel="5682" start="20241214013800 +0000" stop="20241214014000 +0000">
@@ -32331,9 +32335,13 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<title>SCIENCE ZERO (R)</title>
 		<desc>A scientific information program which explains the latest research, disasters and accidents from scientific aspects with a virtual set in the studio.</desc>
 	</programme>
-	<programme channel="5682" start="20241214080000 +0000" stop="20241214083000 +0000">
+	<programme channel="5682" start="20241214080000 +0000" stop="20241214082700 +0000">
 		<title>Tele-Domo!</title>
 		<desc>The public recording program remotely connects venues across Japan and a Tokyo studio. NHK's popular characters "Domo-kun Family" appears on stage to enjoy songs, games, quizzes, and other interactive activities with parents and children at the venue.</desc>
+	</programme>
+	<programme channel="5682" start="20241214082700 +0000" stop="20241214083000 +0000">
+		<title>Mini Program</title>
+		<desc>Mini Program</desc>
 	</programme>
 	<programme channel="5682" start="20241214083000 +0000" stop="20241214083500 +0000">
 		<title>Songs for Everyone (R)</title>
@@ -32372,7 +32380,7 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<desc>NHK's core news program wrapping up the day's events in an easy to understand way.</desc>
 	</programme>
 	<programme channel="5682" start="20241214103000 +0000" stop="20241214111500 +0000">
-		<title>Project X: The Challengers-New Beginnings</title>
+		<title>Project X: The Challengers-New Beginnings Healthcare Workers' Struggles Amid Covid-19 Crisis in Tokyo</title>
 		<desc>Project X returns for the first time in 18 years. The former series featured people involved in project related to the Japanese industry and contemporary history. The new series focuses on people in the “Lost Era” following the collapse of the bubble economy. In every era, there are always those take on challenges. Even without receiving praise or being in the spotlight, some dedicate themselves to their work. The documentary delivers passion and courage right to you.</desc>
 	</programme>
 	<programme channel="5682" start="20241214111500 +0000" stop="20241214115300 +0000">
@@ -32392,7 +32400,7 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<desc>A Saturday night show presents the latest news on domestic and foreign affairs with reliable coverage and innovative presentation.</desc>
 	</programme>
 	<programme channel="5682" start="20241214130000 +0000" stop="20241214135000 +0000">
-		<title>NHK Special</title>
+		<title>NHK Special "Discharged at Death: The Dark Record of Psychiatric Care"</title>
 		<desc>A documentary based on timely subjects famous for its dignity and in-depth reporting.</desc>
 	</programme>
 	<programme channel="5682" start="20241214135000 +0000" stop="20241214135500 +0000">
@@ -32405,7 +32413,7 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 	</programme>
 	<programme channel="5682" start="20241214140000 +0000" stop="20241214143000 +0000">
 		<title>Venue101</title>
-		<desc>Venue101</desc>
+		<desc>This live entertainment show delivers the latest music performances and information, and also connects with the audience making full use of social media.</desc>
 	</programme>
 	<programme channel="5682" start="20241214143000 +0000" stop="20241214152000 +0000">
 		<title>The Last Lecture: Hosaka Masayasu Encore</title>
