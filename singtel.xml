@@ -3691,19 +3691,19 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<title>HSBC BWF World Tour Finals 2024 HANGZHOU</title>
 		<desc>The HSBC BWF World Tour attracts the world's elite badminton players in competing for prize money and world ranking points in 30 four-tiered tournaments, culminating in the World Tour Finals in December.</desc>
 	</programme>
-	<programme channel="6114" start="20241217030000 +0000" stop="20241217080000 +0000">
+	<programme channel="6114" start="20241217030000 +0000" stop="20241217091500 +0000">
 		<title>HSBC BWF World Tour Finals 2024 HANGZHOU</title>
 		<desc>The HSBC BWF World Tour attracts the world's elite badminton players in competing for prize money and world ranking points in 30 four-tiered tournaments, culminating in the World Tour Finals in December.</desc>
 	</programme>
-	<programme channel="6114" start="20241217080000 +0000" stop="20241217090000 +0000">
-		<title>PSA World Tour 2024/25: Milwaukee Hong Kong Squash Open 2024</title>
-		<desc>The 2024 Milwaukee Hong Kong Squash Open, part of the PSA World Tour Platinum series, showcased high-caliber squash, intense competition, and remarkable sportsmanship.</desc>
-	</programme>
-	<programme channel="6114" start="20241217090000 +0000" stop="20241217140000 +0000">
+	<programme channel="6114" start="20241217091500 +0000" stop="20241217145500 +0000">
 		<title>HSBC BWF World Tour Finals 2024 HANGZHOU Episode 2</title>
 		<desc>The HSBC BWF World Tour attracts the world's elite badminton players in competing for prize money and world ranking points in 30 four-tiered tournaments, culminating in the World Tour Finals in December.</desc>
 	</programme>
-	<programme channel="6114" start="20241217140000 +0000" stop="20241217160000 +0000">
+	<programme channel="6114" start="20241217145500 +0000" stop="20241217155500 +0000">
+		<title>PSA World Tour 2024/25: Milwaukee Hong Kong Squash Open 2024</title>
+		<desc>The 2024 Milwaukee Hong Kong Squash Open, part of the PSA World Tour Platinum series, showcased high-caliber squash, intense competition, and remarkable sportsmanship.</desc>
+	</programme>
+	<programme channel="6114" start="20241217155500 +0000" stop="20241217160000 +0000">
 		<title>ROSHN Saudi League 2024/25 Matchday 13 Episode 4</title>
 		<desc>Bringing together prominent professional players from the Kingdom and all around the world, the ROSHN Saudi League delivers weekly thrilling matches to spectators nationally and internationally.</desc>
 	</programme>
@@ -25935,7 +25935,7 @@ This series tells the story of the wealthy Qiu family who is left rudderless whe
 		<desc>Rama, Arsy's future spouse, is a compassionate man. They've both planned a wedding reception. Sadly, Arsy and Rama were involved in an accident prior to their wedding day when their vehicle lost control and collided with a tree. Fortunately, Arsy made it out of the automobile alive. Rama, meanwhile, was pronounced deceased. Arsy was asked to carry on the marriage following Rama's passing. However, King was with his younger brother Rama. It is well known that the King wed Arsy purely out of ob...</desc>
 	</programme>
 	<programme channel="5618" start="20241216183000 +0000" stop="20241216200000 +0000">
-		<title>CINTA BERAKHIR BAHAGIA EPS 285</title>
+		<title>CINTA BERAKHIR BAHAGIA EPS 286</title>
 		<desc>Adisty, the beautiful girl who became the backbone of the family, almost became a commercial sex worker (PSK) to pay off her family's debt. But fate brings him together with Pasha, a respectable man from a wealthy family. Without them knowing that both of them were children who were exchanged as babies. They fall in love but are opposed by the Pasha family.</desc>
 	</programme>
 	<programme channel="5618" start="20241216200000 +0000" stop="20241216213000 +0000">
@@ -25963,7 +25963,7 @@ This series tells the story of the wealthy Qiu family who is left rudderless whe
 		<desc>Rama, Arsy's future spouse, is a compassionate man. They've both planned a wedding reception. Sadly, Arsy and Rama were involved in an accident prior to their wedding day when their vehicle lost control and collided with a tree. Fortunately, Arsy made it out of the automobile alive. Rama, meanwhile, was pronounced deceased. Arsy was asked to carry on the marriage following Rama's passing. However, King was with his younger brother Rama. It is well known that the King wed Arsy purely out of ob...</desc>
 	</programme>
 	<programme channel="5618" start="20241217023000 +0000" stop="20241217040000 +0000">
-		<title>CINTA BERAKHIR BAHAGIA EPS 285</title>
+		<title>CINTA BERAKHIR BAHAGIA EPS 286</title>
 		<desc>Adisty, the beautiful girl who became the backbone of the family, almost became a commercial sex worker (PSK) to pay off her family's debt. But fate brings him together with Pasha, a respectable man from a wealthy family. Without them knowing that both of them were children who were exchanged as babies. They fall in love but are opposed by the Pasha family.</desc>
 	</programme>
 	<programme channel="5618" start="20241217040000 +0000" stop="20241217053000 +0000">
@@ -25991,7 +25991,7 @@ This series tells the story of the wealthy Qiu family who is left rudderless whe
 		<desc>Rama, Arsy's future spouse, is a compassionate man. They've both planned a wedding reception. Sadly, Arsy and Rama were involved in an accident prior to their wedding day when their vehicle lost control and collided with a tree. Fortunately, Arsy made it out of the automobile alive. Rama, meanwhile, was pronounced deceased. Arsy was asked to carry on the marriage following Rama's passing. However, King was with his younger brother Rama. It is well known that the King wed Arsy purely out of ob...</desc>
 	</programme>
 	<programme channel="5618" start="20241217103000 +0000" stop="20241217120000 +0000">
-		<title>CINTA BERAKHIR BAHAGIA EPS 286</title>
+		<title>CINTA BERAKHIR BAHAGIA EPS 287-288</title>
 		<desc>Adisty, the beautiful girl who became the backbone of the family, almost became a commercial sex worker (PSK) to pay off her family's debt. But fate brings him together with Pasha, a respectable man from a wealthy family. Without them knowing that both of them were children who were exchanged as babies. They fall in love but are opposed by the Pasha family.</desc>
 	</programme>
 	<programme channel="5618" start="20241217120000 +0000" stop="20241217133000 +0000">
@@ -26762,49 +26762,53 @@ This series tells the story of the wealthy Qiu family who is left rudderless whe
 		<title>Vetri Vinayakar Episode 305</title>
 		<desc>When Lord Shiva beheads Ganesha, unaware that he is his son, Goddess Parvati asks Shiva to resurrect him. Later, Ganesha emerges as one of the most worshipped deities in the Hindu pantheon.</desc>
 	</programme>
-	<programme channel="5624" start="20241216160000 +0000" stop="20241216183000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="5624" start="20241216133000 +0000" stop="20241216163000 +0000">
+		<title>MOVIES - THALAIVI</title>
+		<desc>Thalaivi is a Indian historical drama, which is loosely based on the life of the late Tamil Nadu Chief Minister Jayalalithaa, Starring,'Kangana Ranaut, Arvind Swami</desc>
 	</programme>
-	<programme channel="5624" start="20241216183000 +0000" stop="20241216210000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="5624" start="20241216163000 +0000" stop="20241216190000 +0000">
+		<title>MOVIES - ANANTHAM VILAIYADUM VEEDU</title>
+		<desc>Tamil Action Drama Film, starring Cheran, Saravanan, Gautham Karthik, Daniel Balaji &amp; Others</desc>
 	</programme>
-	<programme channel="5624" start="20241216210000 +0000" stop="20241216213000 +0000">
-		<title>FREE TICKET</title>
-		<desc>FILM SONGS</desc>
+	<programme channel="5624" start="20241216190000 +0000" stop="20241216213000 +0000">
+		<title>MOVIES - THIRUNAAL</title>
+		<desc>Tamil Action Romantic Movie, Starring, Jiiva, Nayanatara, Gopinath, Meenakshi,Sharath</desc>
 	</programme>
 	<programme channel="5624" start="20241216213000 +0000" stop="20241216220000 +0000">
 		<title>FREE TICKET</title>
 		<desc>FILM SONGS</desc>
 	</programme>
-	<programme channel="5624" start="20241216220000 +0000" stop="20241217003000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="5624" start="20241216220000 +0000" stop="20241216223000 +0000">
+		<title>FREE TICKET</title>
+		<desc>FILM SONGS</desc>
 	</programme>
-	<programme channel="5624" start="20241217003000 +0000" stop="20241217040000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="5624" start="20241216223000 +0000" stop="20241217010000 +0000">
+		<title>MOVIES - MISS INDIA</title>
+		<desc>Tamil Drama Film, Starring, Keerthy Suresh, Jagapathi Babu, and Rajendra Prasad</desc>
+	</programme>
+	<programme channel="5624" start="20241217010000 +0000" stop="20241217040000 +0000">
+		<title>MOVIES - KAYAL</title>
+		<desc>Tamil Film, Starring, Chandran , Anandhi &amp; others</desc>
 	</programme>
 	<programme channel="5624" start="20241217040000 +0000" stop="20241217070000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>MOVIES - AUGUST 16TH 1947</title>
+		<desc>Tamil Period Action drama film, Starring - Gautham Karthik, Jason Shah, Pugazh, Richard Ashton &amp; Revothy Sharma</desc>
 	</programme>
 	<programme channel="5624" start="20241217070000 +0000" stop="20241217100000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>MOVIES - VAAYAI MOODI PESAVUM</title>
+		<desc>Tamil Romantic Comedy Film, Starring, Dulquer Salmaan, Nazriya Nazim, &amp; Others</desc>
 	</programme>
 	<programme channel="5624" start="20241217100000 +0000" stop="20241217130000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>MOVIES - KOLAMAVU KOKILA</title>
+		<desc>Tamil Comedy Film, Starring, Nayantara, Yogi Babu, Saranya Ponvannan, Hareesh Peradi, Rajendran &amp; Others</desc>
 	</programme>
 	<programme channel="5624" start="20241217130000 +0000" stop="20241217153000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>MOVIES - YAMIRUKA BAYAME</title>
+		<desc>Tamil Horror Comedy Film, Starring, Krishna, Oviya, Rupa, Anaswara Kumar, Karunakaran &amp; Others</desc>
 	</programme>
 	<programme channel="5624" start="20241217153000 +0000" stop="20241217153000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>MOVIES - IDHU ENNODA JILLA</title>
+		<desc>Tamil action drama movie starring Jr. NTR and Pooja Hegde. The story revolves around Veera Raghava, who loses his father to a fight with the opposition faction in the village before he can reach his hometown. Upset, Veera Raghava decides to put an end to the violence</desc>
 	</programme>
 	<programme channel="5624" start="20241217153000 +0000" stop="20241217180000 +0000">
 		<title>Movie</title>
@@ -28874,11 +28878,15 @@ This series tells the story of the wealthy Qiu family who is left rudderless whe
 		<title>Kammatipaadam</title>
 		<desc>Krishnan's childhood friend Ganga calls him in Mumbai asking for help. He realises that there are sinister things going on. Release Year: 2016 Director: Rajeev Ravi Awards: Kerala State Film Award for Best Actor, Kerala State Film Award for Best Art Director, Asianet Critics Award for Best Actor, Kerala State Film Award for Best Editor</desc>
 	</programme>
-	<programme channel="5639" start="20241217003000 +0000" stop="20241217013000 +0000">
+	<programme channel="5639" start="20241217003000 +0000" stop="20241217012000 +0000">
 		<title>Chirikkum Thalika</title>
 		<desc>A compilation of some of the best comedy scenes from Malayalam movies.</desc>
 	</programme>
-	<programme channel="5639" start="20241217013000 +0000" stop="20241217043000 +0000">
+	<programme channel="5639" start="20241217012000 +0000" stop="20241217014500 +0000">
+		<title>Filler:Chirikkum Thalika</title>
+		<desc>Filler Segment</desc>
+	</programme>
+	<programme channel="5639" start="20241217014500 +0000" stop="20241217043000 +0000">
 		<title>Kadha Parayumbol</title>
 		<desc>Balan struggles in life but it changes when his old friend comes to his village. Release Year: 2007 Director: M. Mohanan Awards: 2008 Nominee V Shantaram Annual Film Award - Best Film</desc>
 	</programme>
@@ -28886,17 +28894,17 @@ This series tells the story of the wealthy Qiu family who is left rudderless whe
 		<title>Ponmuttayidunna Tharavu</title>
 		<desc>Bhaskaran is madly in love with Snehalatha. Her father is not happy with this. Release Year: 1988 Director: Sathyan Anthikad</desc>
 	</programme>
-	<programme channel="5639" start="20241217073000 +0000" stop="20241217103000 +0000">
+	<programme channel="5639" start="20241217073000 +0000" stop="20241217104000 +0000">
 		<title>Bharatham</title>
-		<desc>The story of brothers who have a musical heritage. Release Year: 1991</desc>
+		<desc>The story of brothers who have a musical heritage. Release Year: 1991 Director: Sibi Malayil Awards: National Film Award for Best Actor in a Leading Role, National Film Award for Best Male Playback Singer, Kerala State Film Award for Best ActreSS, Kerala State Film Award for Second Best Film, National Film Award - Special Jury Award, Kerala State Film Award for Best Music Director, Kerala State Film Award - Special Jury Award Film Category</desc>
 	</programme>
-	<programme channel="5639" start="20241217103000 +0000" stop="20241217133000 +0000">
+	<programme channel="5639" start="20241217104000 +0000" stop="20241217133000 +0000">
 		<title>Varathan</title>
 		<desc>When Abin and his wife shift base from Dubai to Kerala, they face various problems Release Year: 2018 Director: Amal Neerad Awards: 2019 Winner Asianet Film Award - Best Editor Vivek Harshan</desc>
 	</programme>
 	<programme channel="5639" start="20241217133000 +0000" stop="20241217133000 +0000">
 		<title>Malikappuram</title>
-		<desc>An intense desire of Kallu an 8 year old girl from Panchalimedu village to visit Sabarimala. Release Year: 2022 Director: Vishnu Sasi Shankar</desc>
+		<desc>An intense desire of Kallu an 8 year old girl from Panchalimedu village to visit Sabarimala. Release Year: 2022 Director: Vishnu Sasi Shankar Awards: National Film Award for Best Child Artist</desc>
 	</programme>
 	<programme channel="5639" start="20241217133000 +0000" stop="20241217163000 +0000">
 		<title>Malikappuram</title>
@@ -29071,12 +29079,12 @@ This series tells the story of the wealthy Qiu family who is left rudderless whe
 		<desc>Join India's police force in action as they deal with criminal activities around the country in this dramatisation of real life crime stories, narrated by Anup Soni.</desc>
 	</programme>
 	<programme channel="5644" start="20241217151500 +0000" stop="20241217154400 +0000">
-		<title>Highlights - Sl V Ban U19 Asia Cup 2024</title>
-		<desc>Highlights of Inaugural edition of the prestigious ACC Women's Under-19 Asia Cup featuring the best 6 teams battling across 14 matches</desc>
+		<title>Hlts-sl V Ban U19 Asia Cup 2024-women's</title>
+		<desc>Highlights of Inaugural edition of the prestigious ACC Women's Under-19 Asia Cup featuring the best 6 teams battling across 14 matches.</desc>
 	</programme>
 	<programme channel="5644" start="20241217154400 +0000" stop="20241217154400 +0000">
-		<title>Highlights - Pak V Nep U19 Asia Cup 2024</title>
-		<desc>Highlights of Inaugural edition of the prestigious ACC Women's Under-19 Asia Cup featuring the best 6 teams battling across 14 matches</desc>
+		<title>Hlts-pak V Nep U19 Asia Cup 2024-women's</title>
+		<desc>Highlights of Inaugural edition of the prestigious ACC Women's Under-19 Asia Cup featuring the best 6 teams battling across 14 matches.</desc>
 	</programme>
 	<programme channel="5644" start="20241217154400 +0000" stop="20241217160600 +0000">
 		<title>Highlights - Pak V Nep U19 Asia Cup 2024</title>
