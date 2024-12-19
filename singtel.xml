@@ -4056,7 +4056,7 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241220103000 +0000" stop="20241220124500 +0000">
-		<title>Val Gardena | Men's Super-G (Live)</title>
+		<title>Val Gardena | Men's Super-G</title>
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241220124500 +0000" stop="20241220130500 +0000">
@@ -4064,7 +4064,7 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241220130500 +0000" stop="20241220143500 +0000">
-		<title>Le Grand Bornand | Women's Sprint (Live)</title>
+		<title>Le Grand Bornand | Women's Sprint</title>
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241220143500 +0000" stop="20241220153000 +0000">
@@ -4263,17 +4263,17 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<title>Australia Tour of England 2024 Highlights: Eng v Aus 2nd ODI Episode 943444</title>
 		<desc>Australia Tour of England 2024 Highlights: Eng v Aus 2nd ODI</desc>
 	</programme>
-	<programme channel="5123" start="20241219230000 +0000" stop="20241219232800 +0000">
+	<programme channel="5123" start="20241219230000 +0000" stop="20241219233000 +0000">
 		<title>Australia Tour of England 2024 Highlights: Eng v Aus 1st T20 Episode 943440</title>
 		<desc>Australia Tour of England 2024 Highlights: Eng v Aus 1st T20</desc>
 	</programme>
-	<programme channel="5123" start="20241219232800 +0000" stop="20241219235500 +0000">
+	<programme channel="5123" start="20241219233000 +0000" stop="20241220000000 +0000">
 		<title>Australia Tour of England 2024 Highlights: Eng v Aus 2nd T20 Episode 943441</title>
 		<desc>Australia Tour of England 2024 Highlights: Eng v Aus 2nd T20</desc>
 	</programme>
-	<programme channel="5123" start="20241219235500 +0000" stop="20241220040000 +0000">
-		<title>Bangladesh Tour of West Indies 2024: 3rd T20 (Live) Episode 953313</title>
-		<desc>Bangladesh Tour of West Indies 2024: 3rd T20 (Live)</desc>
+	<programme channel="5123" start="20241220000000 +0000" stop="20241220040000 +0000">
+		<title>Bangladesh Tour of West Indies 2024: 2nd T20 Episode 953312</title>
+		<desc>Bangladesh Tour of West Indies 2024: 2nd T20</desc>
 	</programme>
 	<programme channel="5124" start="20241218100000 +0000" stop="20241218220000 +0000">
 		<title>Closed Episode 101231</title>
@@ -5925,7 +5925,7 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 	</programme>
 	<programme channel="5157" start="20241219193000 +0000" stop="20241219200000 +0000">
 		<title>Japanology Plus</title>
-		<desc>Deep dives into cultural phenomena with Peter Barakan, a bilingual British broadcaster based in Japan since 1974. Each time, Peter himself discovers something new about Japan.</desc>
+		<desc>A feudal lord admired by John F. Kennedy, Uesugi Yozan prioritized the well-being of his people. This time, in part two, we look at how his policies guided his domain along the path to sustainability.</desc>
 	</programme>
 	<programme channel="5157" start="20241219200000 +0000" stop="20241219201800 +0000">
 		<title>NHK NEWSLINE&lt; NY &gt;</title>
@@ -6185,7 +6185,7 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 	</programme>
 	<programme channel="5157" start="20241220143000 +0000" stop="20241220150000 +0000">
 		<title>Today's Close-Up</title>
-		<desc>Dig deeper into current affairs. Cutting-edge information and critical analysis on important issues confronting Japanese lives.</desc>
+		<desc>A new treatment program offers hope of combating the progression of dementia. We look at four steps we can take to maintain our cognitive abilities and curb the onset of symptoms.</desc>
 	</programme>
 	<programme channel="5157" start="20241220150000 +0000" stop="20241220151500 +0000">
 		<title>NHK NEWSLINE</title>
@@ -21585,29 +21585,29 @@ Chinese Restaurants, acclaimed as the pinnacle of Chinese cuisine, are considere
 		<title>2024 Quiz on Korea - After Story</title>
 		<desc>2024 Quiz on Korea - After Story</desc>
 	</programme>
-	<programme channel="5038" start="20241220101000 +0000" stop="20241220102000 +0000">
-		<title>The Seasons W</title>
-		<desc>On Saturday night, when the end of one week meets the start of another, this show will bring you music and stories that will soothe your worries and concerns.</desc>
-	</programme>
-	<programme channel="5038" start="20241220102000 +0000" stop="20241220105500 +0000">
+	<programme channel="5038" start="20241220101000 +0000" stop="20241220104500 +0000">
 		<title>My Merry Marriage Episode 47</title>
 		<desc>A family drama that questions the true meaning of ‘happiness' by showing various aspects of marriage such as divorce, remarriage, and late marriage.</desc>
 	</programme>
-	<programme channel="5038" start="20241220105500 +0000" stop="20241220113500 +0000">
+	<programme channel="5038" start="20241220104500 +0000" stop="20241220112500 +0000">
 		<title>Cinderella Game Episode 10</title>
 		<desc>A story of a woman who realizes the meaning of true revenge while she has been used as a fake daughter by her enemy.</desc>
 	</programme>
-	<programme channel="5038" start="20241220113500 +0000" stop="20241220123500 +0000">
+	<programme channel="5038" start="20241220112500 +0000" stop="20241220122500 +0000">
 		<title>2024 KBS Song Festival</title>
-		<desc>2024 KBS Song Festival</desc>
+		<desc>K-POP musicians come together with their music to perform at the best K-pop festival for all generations!</desc>
 	</programme>
-	<programme channel="5038" start="20241220123500 +0000" stop="20241220133500 +0000">
+	<programme channel="5038" start="20241220122500 +0000" stop="20241220132500 +0000">
 		<title>2024 KBS Song Festival</title>
-		<desc>2024 KBS Song Festival</desc>
+		<desc>K-POP musicians come together with their music to perform at the best K-pop festival for all generations!</desc>
 	</programme>
-	<programme channel="5038" start="20241220133500 +0000" stop="20241220143500 +0000">
+	<programme channel="5038" start="20241220132500 +0000" stop="20241220142500 +0000">
 		<title>2024 KBS Song Festival</title>
-		<desc>2024 KBS Song Festival</desc>
+		<desc>K-POP musicians come together with their music to perform at the best K-pop festival for all generations!</desc>
+	</programme>
+	<programme channel="5038" start="20241220142500 +0000" stop="20241220143500 +0000">
+		<title>The Seasons W</title>
+		<desc>On Saturday night, when the end of one week meets the start of another, this show will bring you music and stories that will soothe your worries and concerns.</desc>
 	</programme>
 	<programme channel="5528" start="20241218160000 +0000" stop="20241218175500 +0000">
 		<title>MARRIAGE BLUE</title>
@@ -28002,8 +28002,8 @@ Chinese Restaurants, acclaimed as the pinnacle of Chinese cuisine, are considere
 		<desc>Story of Goutham, an overweight businessman, who marries Mathumitha, an educated woman from a middle-class background. Though older, will their arranged marriage lead to love?</desc>
 	</programme>
 	<programme channel="5632" start="20241220030000 +0000" stop="20241220060000 +0000">
-		<title>Kodi Veeran</title>
-		<desc>Tamil Action Film, Starring, M. Sasikumar, Shamna Kasim, Mahima Nambiar, Sanusha, Inder Kumar and Others</desc>
+		<title>Kodiveeran</title>
+		<desc>Tamil Action Film, Starring, M. Sasikumar, Shamna Kasim, Mahima Nambiar, Sanusha, Inder Kumar and Others Release Year: 2017 Director: M. Muthaiah</desc>
 	</programme>
 	<programme channel="5632" start="20241220060000 +0000" stop="20241220063000 +0000">
 		<title>KCKC - Jill Jill Episode 139</title>
@@ -28665,41 +28665,41 @@ Chinese Restaurants, acclaimed as the pinnacle of Chinese cuisine, are considere
 		<title>Karyasthan</title>
 		<desc>While settling a dispute between 2 families, Krishna falls in love with Sribala. Release Year: 2010 Director: Thomson K. Thomas</desc>
 	</programme>
-	<programme channel="5639" start="20241219133000 +0000" stop="20241219163000 +0000">
+	<programme channel="5639" start="20241219133000 +0000" stop="20241219173000 +0000">
 		<title>Karyasthan</title>
 		<desc>While settling a dispute between 2 families, Krishna falls in love with Sribala. Release Year: 2010 Director: Thomson K. Thomas</desc>
 	</programme>
-	<programme channel="5639" start="20241219163000 +0000" stop="20241219193000 +0000">
+	<programme channel="5639" start="20241219173000 +0000" stop="20241219204000 +0000">
 		<title>Chandralekha</title>
 		<desc>A boy saves a girl and takes her to hospital. Her kin mistake him as her husband. Release Year: 1997 Director: Priyadarshan</desc>
 	</programme>
-	<programme channel="5639" start="20241219193000 +0000" stop="20241219220000 +0000">
+	<programme channel="5639" start="20241219204000 +0000" stop="20241219224000 +0000">
 		<title>Kathodu Kathoram</title>
 		<desc>A semi-autistic young man is taken care of by a woman who herself is the victim of a bad marriage. Release Year: 1985 Director: Bharathan</desc>
 	</programme>
-	<programme channel="5639" start="20241219220000 +0000" stop="20241220003000 +0000">
+	<programme channel="5639" start="20241219224000 +0000" stop="20241220003000 +0000">
 		<title>7th Day</title>
 		<desc>5 friend's lives take a strange turn. Shan and Vinu meet a cop who is serving a suspension term and tell him about what has happened in their lives.</desc>
 	</programme>
-	<programme channel="5639" start="20241220003000 +0000" stop="20241220033000 +0000">
-		<title>Movie</title>
-		<desc>Movies name is yet to be announced by this channel.</desc>
+	<programme channel="5639" start="20241220003000 +0000" stop="20241220013000 +0000">
+		<title>Chirikkum Thalika</title>
+		<desc>A compilation of some of the best comedy scenes from Malayalam movies.</desc>
 	</programme>
-	<programme channel="5639" start="20241220033000 +0000" stop="20241220063000 +0000">
-		<title>Movie</title>
-		<desc>Movies name is yet to be announced by this channel.</desc>
+	<programme channel="5639" start="20241220013000 +0000" stop="20241220043000 +0000">
+		<title>Srungaravelan</title>
+		<desc>Kannan is the son of a weaver, but he is not interested in the family business. Release Year: 2013 Director: Jose Thomas</desc>
 	</programme>
-	<programme channel="5639" start="20241220063000 +0000" stop="20241220093000 +0000">
-		<title>Movie</title>
-		<desc>Movies name is yet to be announced by this channel.</desc>
+	<programme channel="5639" start="20241220043000 +0000" stop="20241220073000 +0000">
+		<title>Chithram</title>
+		<desc>Vishnu agrees to act as Kalyani's husband for a fee, to keep her father happy. Release Year: 1988 Director: Priyadarshan Awards: 1989 Winner Kerala State Film Award - Special Jury Award - Mohanlal</desc>
 	</programme>
-	<programme channel="5639" start="20241220093000 +0000" stop="20241220123000 +0000">
-		<title>Movie</title>
-		<desc>Movies name is yet to be announced by this channel.</desc>
+	<programme channel="5639" start="20241220073000 +0000" stop="20241220103000 +0000">
+		<title>Thrissur Pooram</title>
+		<desc>Pullu Giri wants a peaceful life but gets dragged back into the web of crime. Release Year: 2019 Director: Rajesh Mohan</desc>
 	</programme>
-	<programme channel="5639" start="20241220123000 +0000" stop="20241220153000 +0000">
-		<title>Movie</title>
-		<desc>Movies name is yet to be announced by this channel.</desc>
+	<programme channel="5639" start="20241220103000 +0000" stop="20241220133000 +0000">
+		<title>Aaram Thampuran</title>
+		<desc>Jagannathan faces several challenges when he promises the villagers that he will help in the preparations for the annual festival.</desc>
 	</programme>
 	<programme channel="5644" start="20241218154500 +0000" stop="20241218160700 +0000">
 		<title>Hlts-ind V Nep U19 Asia Cup 2024-women's</title>
@@ -29526,7 +29526,7 @@ Chinese Restaurants, acclaimed as the pinnacle of Chinese cuisine, are considere
 		<desc>The king of stand-up comedy, Kapil Sharma, is joined with special celebrity guests each week to entertain viewers in this Indian Hindi talk show.</desc>
 	</programme>
 	<programme channel="5648" start="20241220011500 +0000" stop="20241220031000 +0000">
-		<title>Women's U19 Asia Cup24 -Â super Four-live</title>
+		<title>Women's U19 Asia Cup'24 - ban V Nep Live</title>
 		<desc>Inaugural edition of the prestigious ACC Women's Under-19 Asia Cup, from 14th to 21st Dec featuring the best 6 teams battling across 14 matches.</desc>
 	</programme>
 	<programme channel="5648" start="20241220031000 +0000" stop="20241220032500 +0000">
@@ -29534,7 +29534,7 @@ Chinese Restaurants, acclaimed as the pinnacle of Chinese cuisine, are considere
 		<desc>The king of stand-up comedy, Kapil Sharma, is joined with special celebrity guests each week to entertain viewers in this Indian Hindi talk show.</desc>
 	</programme>
 	<programme channel="5648" start="20241220032500 +0000" stop="20241220050500 +0000">
-		<title>Women's U19 Asia Cup24 -Â super Four-live</title>
+		<title>Women's U19 Asia Cup'24 - ban V Nep Live</title>
 		<desc>Inaugural edition of the prestigious ACC Women's Under-19 Asia Cup, from 14th to 21st Dec featuring the best 6 teams battling across 14 matches.</desc>
 	</programme>
 	<programme channel="5648" start="20241220050500 +0000" stop="20241220054500 +0000">
@@ -29542,7 +29542,7 @@ Chinese Restaurants, acclaimed as the pinnacle of Chinese cuisine, are considere
 		<desc>The king of stand-up comedy, Kapil Sharma, is joined with special celebrity guests each week to entertain viewers in this Indian Hindi talk show.</desc>
 	</programme>
 	<programme channel="5648" start="20241220054500 +0000" stop="20241220074000 +0000">
-		<title>Women's U19 Asia Cup24 -Â super Four-live</title>
+		<title>Women's U19 Asia Cup'24 - ind V Sl Live</title>
 		<desc>Inaugural edition of the prestigious ACC Women's Under-19 Asia Cup, from 14th to 21st Dec featuring the best 6 teams battling across 14 matches.</desc>
 	</programme>
 	<programme channel="5648" start="20241220074000 +0000" stop="20241220075500 +0000">
@@ -29550,7 +29550,7 @@ Chinese Restaurants, acclaimed as the pinnacle of Chinese cuisine, are considere
 		<desc>The king of stand-up comedy, Kapil Sharma, is joined with special celebrity guests each week to entertain viewers in this Indian Hindi talk show.</desc>
 	</programme>
 	<programme channel="5648" start="20241220075500 +0000" stop="20241220093500 +0000">
-		<title>Women's U19 Asia Cup24 -Â super Four-live</title>
+		<title>Women's U19 Asia Cup'24 - ind V Sl Live</title>
 		<desc>Inaugural edition of the prestigious ACC Women's Under-19 Asia Cup, from 14th to 21st Dec featuring the best 6 teams battling across 14 matches.</desc>
 	</programme>
 	<programme channel="5648" start="20241220093500 +0000" stop="20241220103000 +0000">
