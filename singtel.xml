@@ -720,27 +720,31 @@
 		<title>FBI S6 Episode 3</title>
 		<desc>When a local club owner is found dead, the team works quickly to find the motive behind the murder of a seemingly innocent man. Meanwhile, OA is smitten with a new love interest but is concerned that she's mixed up with the wrong crowd.</desc>
 	</programme>
-	<programme channel="5002" start="20241219150000 +0000" stop="20241219160000 +0000">
+	<programme channel="5002" start="20241219150000 +0000" stop="20241219155000 +0000">
 		<title>FBI: International S3 Episode 5</title>
 		<desc>The FBI's International Fly Team tracks and neutralizes threats against American citizens.</desc>
 	</programme>
-	<programme channel="5002" start="20241219160000 +0000" stop="20241219165000 +0000">
+	<programme channel="5002" start="20241219155000 +0000" stop="20241219155000 +0000">
 		<title>Singapore Films: To The World And Back</title>
 		<desc>The documentary offers insights into the rich tapestry of Singaporean storytelling featuring exclusive interviews with Singapore's best known industry veterans such as Jack Neo, Anthony Chen, Eric Khoo, Nicole Midori Woodford, Teh Su Ching, Raihan Halim, Janice Chua, Tan Si En and more. It delves into the remarkable journey of Singaporean cinema over the past 25 years, showcasing its profound impact on Asian cinema and beyond.</desc>
 	</programme>
-	<programme channel="5002" start="20241219165000 +0000" stop="20241219172000 +0000">
+	<programme channel="5002" start="20241219155000 +0000" stop="20241219164000 +0000">
+		<title>Singapore Films: To The World And Back</title>
+		<desc>The documentary offers insights into the rich tapestry of Singaporean storytelling featuring exclusive interviews with Singapore's best known industry veterans such as Jack Neo, Anthony Chen, Eric Khoo, Nicole Midori Woodford, Teh Su Ching, Raihan Halim, Janice Chua, Tan Si En and more. It delves into the remarkable journey of Singaporean cinema over the past 25 years, showcasing its profound impact on Asian cinema and beyond.</desc>
+	</programme>
+	<programme channel="5002" start="20241219164000 +0000" stop="20241219171000 +0000">
 		<title>On The Red Dot</title>
 		<desc>33-year-old former fine-dining chef serves up elevated Malay cuisine in his hawker stall. How will he compete with the traditional Malay hawker fare?</desc>
 	</programme>
-	<programme channel="5002" start="20241219172000 +0000" stop="20241219175000 +0000">
+	<programme channel="5002" start="20241219171000 +0000" stop="20241219174000 +0000">
 		<title>Open Homes S5 Episode 2</title>
 		<desc>We kick off the show in Brisbane checking out a trendy new hotspot and home, We get kitchen and recipe tips from Adam, and at the climax we see a coastal home on the sunshine coast.</desc>
 	</programme>
-	<programme channel="5002" start="20241219175000 +0000" stop="20241219184000 +0000">
+	<programme channel="5002" start="20241219174000 +0000" stop="20241219183000 +0000">
 		<title>Beat Shazam USA S5 Episode 12</title>
 		<desc>Beat Shazam is an interactive musical game show based on the Shazam app, in which teams compete against each other attempting to identify songs.</desc>
 	</programme>
-	<programme channel="5002" start="20241219184000 +0000" stop="20241219195200 +0000">
+	<programme channel="5002" start="20241219183000 +0000" stop="20241219195200 +0000">
 		<title>MasterChef Australia S12 Episode 15</title>
 		<desc>Top Australian chefs judge passionate home cooks who participate in competitive culinary challenges to develop their cooking skills and win the title of the best chef. This series involves former high-achieving contestants from the past eleven series of MasterChef Australia, returning for another chance at the title of 'MasterChef' and a prize of A$250,000</desc>
 	</programme>
@@ -1014,7 +1018,7 @@
 	</programme>
 	<programme channel="5003" start="20241219143000 +0000" stop="20241219150000 +0000">
 		<title>焦点 Episode 34</title>
-		<desc>《焦点》追踪国际时事，实地报道区域课题，以新加坡的视角分析时局发展的前因后果和潜在影响。</desc>
+		<desc>韩国宪法法院开始审理总统尹锡悦的弹劾案，他能渡过这次的政治难关吗？本地的鼎艺团怎么为传统华乐注入新意？</desc>
 	</programme>
 	<programme channel="5003" start="20241219150000 +0000" stop="20241219160000 +0000">
 		<title>长风渡 Episode 40</title>
@@ -1154,7 +1158,7 @@
 	</programme>
 	<programme channel="5003" start="20241220120000 +0000" stop="20241220123000 +0000">
 		<title>医聊大小事 S2</title>
-		<desc>《医聊大小事》是一档倡导健康生活、关注全民健康的保健节目。医生、中医师、营养师将呈现与示范最实用的健康贴士、筛查、食疗等。主持人李国煌、李腾和鐘琴的妙语如珠，将让资讯变得浅而易懂。千万别错过这一档可以一起长知识的节目！</desc>
+		<desc>(PG)《医聊大小事》是一档倡导健康生活、关注全民健康的保健节目。医生、中医师、营养师将呈现与示范最实用的健康贴士、筛查、食疗等。主持人李国煌、李腾和鐘琴的妙语如珠，将让资讯变得浅而易懂。千万别错过这一档可以一起长知识的节目！</desc>
 	</programme>
 	<programme channel="5003" start="20241220123000 +0000" stop="20241220130000 +0000">
 		<title>新村之后</title>
@@ -4056,7 +4060,7 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241220103000 +0000" stop="20241220124500 +0000">
-		<title>Val Gardena | Men's Super-G</title>
+		<title>Val Gardena | Men's Super-G (Live)</title>
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241220124500 +0000" stop="20241220130500 +0000">
@@ -4064,7 +4068,7 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241220130500 +0000" stop="20241220143500 +0000">
-		<title>Le Grand Bornand | Women's Sprint</title>
+		<title>Le Grand Bornand | Women's Sprint (Live)</title>
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241220143500 +0000" stop="20241220153000 +0000">
@@ -4412,7 +4416,7 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>UEFA Conference League 2024/25</desc>
 	</programme>
 	<programme channel="6126" start="20241219220000 +0000" stop="20241219223000 +0000">
-		<title>Mini Match - Bundesliga 2024/25: Hoffenheim vs Monchengladbach Episode 132</title>
+		<title>Mini Match - Bundesliga 2024/25: Augsburg vs Leverkusen Episode 120</title>
 		<desc>Mini Match - Bundesliga 2024/25</desc>
 	</programme>
 	<programme channel="6126" start="20241219223000 +0000" stop="20241219230000 +0000">
@@ -19988,7 +19992,7 @@ Chinese Restaurants, acclaimed as the pinnacle of Chinese cuisine, are considere
 		<desc>绝对精彩的美食节目。看后保证让您垂涎三尺！</desc>
 	</programme>
 	<programme channel="6507" start="20241219040000 +0000" stop="20241219060000 +0000">
-		<title>FOCUS世界新闻 / Focus World News</title>
+		<title>FOCUS 世界新闻 / Focus World News</title>
 		<desc>聚焦国际与台湾重点新闻，提供观众最新最深入的国际与台湾新闻。</desc>
 	</programme>
 	<programme channel="6507" start="20241219060000 +0000" stop="20241219070000 +0000">
@@ -20076,7 +20080,7 @@ Chinese Restaurants, acclaimed as the pinnacle of Chinese cuisine, are considere
 		<desc>绝对精彩的美食节目。看后保证让您垂涎三尺！</desc>
 	</programme>
 	<programme channel="6507" start="20241220040000 +0000" stop="20241220060000 +0000">
-		<title>FOCUS世界新闻 / Focus World News</title>
+		<title>FOCUS 世界新闻 / Focus World News</title>
 		<desc>聚焦国际与台湾重点新闻，提供观众最新最深入的国际与台湾新闻。</desc>
 	</programme>
 	<programme channel="6507" start="20241220060000 +0000" stop="20241220070000 +0000">
@@ -23526,11 +23530,11 @@ Chinese Restaurants, acclaimed as the pinnacle of Chinese cuisine, are considere
 		<desc>鳳凰氣象站</desc>
 	</programme>
 	<programme channel="5555" start="20241218155000 +0000" stop="20241218163500 +0000">
-		<title>电视剧：丁宝桢 / Classical Theater</title>
+		<title>电视剧：一代匠师 / Classical Theater</title>
 		<desc>Classical Theater</desc>
 	</programme>
 	<programme channel="5555" start="20241218163500 +0000" stop="20241218172000 +0000">
-		<title>电视剧：丁宝桢 / Classical Theater</title>
+		<title>电视剧：一代匠师 / Classical Theater</title>
 		<desc>Classical Theater</desc>
 	</programme>
 	<programme channel="5555" start="20241218172000 +0000" stop="20241218172500 +0000">
@@ -23642,7 +23646,7 @@ Chinese Restaurants, acclaimed as the pinnacle of Chinese cuisine, are considere
 		<desc>Advertisements</desc>
 	</programme>
 	<programme channel="5555" start="20241219050500 +0000" stop="20241219054700 +0000">
-		<title>电视剧：丁宝桢 / Classical Theater</title>
+		<title>电视剧：一代匠师 / Classical Theater</title>
 		<desc>Classical Theater</desc>
 	</programme>
 	<programme channel="5555" start="20241219054700 +0000" stop="20241219055200 +0000">
@@ -23650,15 +23654,15 @@ Chinese Restaurants, acclaimed as the pinnacle of Chinese cuisine, are considere
 		<desc>Advertisements</desc>
 	</programme>
 	<programme channel="5555" start="20241219055200 +0000" stop="20241219063400 +0000">
-		<title>电视剧：丁宝桢 / Classical Theater</title>
+		<title>电视剧：一代匠师 / Classical Theater</title>
 		<desc>Classical Theater</desc>
 	</programme>
 	<programme channel="5555" start="20241219063400 +0000" stop="20241219071600 +0000">
-		<title>电视剧：丁宝桢 / Classical Theater</title>
+		<title>电视剧：一代匠师 / Classical Theater</title>
 		<desc>Classical Theater</desc>
 	</programme>
 	<programme channel="5555" start="20241219071600 +0000" stop="20241219075800 +0000">
-		<title>电视剧：丁宝桢 / Classical Theater</title>
+		<title>电视剧：一代匠师 / Classical Theater</title>
 		<desc>Classical Theater</desc>
 	</programme>
 	<programme channel="5555" start="20241219075800 +0000" stop="20241219080300 +0000">
@@ -23666,7 +23670,7 @@ Chinese Restaurants, acclaimed as the pinnacle of Chinese cuisine, are considere
 		<desc>Advertisements</desc>
 	</programme>
 	<programme channel="5555" start="20241219080300 +0000" stop="20241219084500 +0000">
-		<title>电视剧：丁宝桢 / Classical Theater</title>
+		<title>电视剧：一代匠师 / Classical Theater</title>
 		<desc>Classical Theater</desc>
 	</programme>
 	<programme channel="5555" start="20241219084500 +0000" stop="20241219091500 +0000">
@@ -23722,19 +23726,19 @@ Chinese Restaurants, acclaimed as the pinnacle of Chinese cuisine, are considere
 		<desc>Advertisements</desc>
 	</programme>
 	<programme channel="5555" start="20241219150500 +0000" stop="20241219155000 +0000">
-		<title>电视剧：丁宝桢 / Classical Theater</title>
+		<title>电视剧：一代匠师 / Classical Theater</title>
 		<desc>Classical Theater</desc>
 	</programme>
 	<programme channel="5555" start="20241219155000 +0000" stop="20241219155000 +0000">
-		<title>电视剧：丁宝桢 / Classical Theater</title>
+		<title>电视剧：一代匠师 / Classical Theater</title>
 		<desc>Classical Theater</desc>
 	</programme>
 	<programme channel="5555" start="20241219155000 +0000" stop="20241219163500 +0000">
-		<title>电视剧：丁宝桢 / Classical Theater</title>
+		<title>电视剧：一代匠师 / Classical Theater</title>
 		<desc>Classical Theater</desc>
 	</programme>
 	<programme channel="5555" start="20241219163500 +0000" stop="20241219172000 +0000">
-		<title>电视剧：丁宝桢 / Classical Theater</title>
+		<title>电视剧：一代匠师 / Classical Theater</title>
 		<desc>Classical Theater</desc>
 	</programme>
 	<programme channel="5555" start="20241219172000 +0000" stop="20241219172500 +0000">
@@ -23846,7 +23850,7 @@ Chinese Restaurants, acclaimed as the pinnacle of Chinese cuisine, are considere
 		<desc>Advertisements</desc>
 	</programme>
 	<programme channel="5555" start="20241220050500 +0000" stop="20241220054700 +0000">
-		<title>电视剧：丁宝桢 / Classical Theater</title>
+		<title>电视剧：一代匠师 / Classical Theater</title>
 		<desc>Classical Theater</desc>
 	</programme>
 	<programme channel="5555" start="20241220054700 +0000" stop="20241220055200 +0000">
@@ -23854,15 +23858,15 @@ Chinese Restaurants, acclaimed as the pinnacle of Chinese cuisine, are considere
 		<desc>Advertisements</desc>
 	</programme>
 	<programme channel="5555" start="20241220055200 +0000" stop="20241220063400 +0000">
-		<title>电视剧：丁宝桢 / Classical Theater</title>
+		<title>电视剧：一代匠师 / Classical Theater</title>
 		<desc>Classical Theater</desc>
 	</programme>
 	<programme channel="5555" start="20241220063400 +0000" stop="20241220071600 +0000">
-		<title>电视剧：丁宝桢 / Classical Theater</title>
+		<title>电视剧：一代匠师 / Classical Theater</title>
 		<desc>Classical Theater</desc>
 	</programme>
 	<programme channel="5555" start="20241220071600 +0000" stop="20241220075800 +0000">
-		<title>电视剧：丁宝桢 / Classical Theater</title>
+		<title>电视剧：一代匠师 / Classical Theater</title>
 		<desc>Classical Theater</desc>
 	</programme>
 	<programme channel="5555" start="20241220075800 +0000" stop="20241220080300 +0000">
@@ -23870,7 +23874,7 @@ Chinese Restaurants, acclaimed as the pinnacle of Chinese cuisine, are considere
 		<desc>Advertisements</desc>
 	</programme>
 	<programme channel="5555" start="20241220080300 +0000" stop="20241220084500 +0000">
-		<title>电视剧：丁宝桢 / Classical Theater</title>
+		<title>电视剧：一代匠师 / Classical Theater</title>
 		<desc>Classical Theater</desc>
 	</programme>
 	<programme channel="5555" start="20241220084500 +0000" stop="20241220091500 +0000">
@@ -23926,7 +23930,7 @@ Chinese Restaurants, acclaimed as the pinnacle of Chinese cuisine, are considere
 		<desc>Advertisements</desc>
 	</programme>
 	<programme channel="5555" start="20241220150500 +0000" stop="20241220155000 +0000">
-		<title>电视剧：丁宝桢 / Classical Theater</title>
+		<title>电视剧：一代匠师 / Classical Theater</title>
 		<desc>Classical Theater</desc>
 	</programme>
 	<programme channel="5557" start="20241218160000 +0000" stop="20241218170000 +0000">
@@ -30219,7 +30223,7 @@ Chinese Restaurants, acclaimed as the pinnacle of Chinese cuisine, are considere
 	</programme>
 	<programme channel="5656" start="20241218170000 +0000" stop="20241218180000 +0000">
 		<title>Jhanak Episode 394</title>
-		<desc>Jhanak's dance dreams shatter after a tragedy, leading to a convenient marriage.</desc>
+		<desc>Srishti and Vinayak criticise Aniruddha for his decision to marry Jhanak. Meanwhile, the Basus fear the situation might affect their family's reputation.</desc>
 	</programme>
 	<programme channel="5656" start="20241218180000 +0000" stop="20241218183000 +0000">
 		<title>Maati Se Bandhi Dor Episode 204</title>
@@ -30243,11 +30247,11 @@ Chinese Restaurants, acclaimed as the pinnacle of Chinese cuisine, are considere
 	</programme>
 	<programme channel="5656" start="20241218203000 +0000" stop="20241218210000 +0000">
 		<title>Deewaniyat Episode 38</title>
-		<desc>Mannat's love story with Jeet takes a heartbreaking turn, pushing her into an unexpected marriage with Dev. Can she find happiness in this new chapter?</desc>
+		<desc>Dev regrets his decision to marry Mannat seeing her struggles, while Rudra vows to win her back. Later, the Chaudharys and Maliks prepare for Dev and Mannat's Pagphera ceremony.</desc>
 	</programme>
 	<programme channel="5656" start="20241218210000 +0000" stop="20241218220000 +0000">
 		<title>Jhanak Episode 394</title>
-		<desc>Jhanak's dance dreams shatter after a tragedy, leading to a convenient marriage.</desc>
+		<desc>Srishti and Vinayak criticise Aniruddha for his decision to marry Jhanak. Meanwhile, the Basus fear the situation might affect their family's reputation.</desc>
 	</programme>
 	<programme channel="5656" start="20241218220000 +0000" stop="20241218223000 +0000">
 		<title>Maati Se Bandhi Dor Episode 204</title>
@@ -30279,7 +30283,7 @@ Chinese Restaurants, acclaimed as the pinnacle of Chinese cuisine, are considere
 	</programme>
 	<programme channel="5656" start="20241219013000 +0000" stop="20241219023000 +0000">
 		<title>Jhanak Episode 394</title>
-		<desc>Jhanak's dance dreams shatter after a tragedy, leading to a convenient marriage.</desc>
+		<desc>Srishti and Vinayak criticise Aniruddha for his decision to marry Jhanak. Meanwhile, the Basus fear the situation might affect their family's reputation.</desc>
 	</programme>
 	<programme channel="5656" start="20241219023000 +0000" stop="20241219030000 +0000">
 		<title>Maati Se Bandhi Dor Episode 204</title>
@@ -30287,7 +30291,7 @@ Chinese Restaurants, acclaimed as the pinnacle of Chinese cuisine, are considere
 	</programme>
 	<programme channel="5656" start="20241219030000 +0000" stop="20241219033000 +0000">
 		<title>Deewaniyat Episode 38</title>
-		<desc>Mannat's love story with Jeet takes a heartbreaking turn, pushing her into an unexpected marriage with Dev. Can she find happiness in this new chapter?</desc>
+		<desc>Dev regrets his decision to marry Mannat seeing her struggles, while Rudra vows to win her back. Later, the Chaudharys and Maliks prepare for Dev and Mannat's Pagphera ceremony.</desc>
 	</programme>
 	<programme channel="5656" start="20241219033000 +0000" stop="20241219040000 +0000">
 		<title>Dil Ko Tumse Pyaar Hua Episode 155</title>
@@ -30311,7 +30315,7 @@ Chinese Restaurants, acclaimed as the pinnacle of Chinese cuisine, are considere
 	</programme>
 	<programme channel="5656" start="20241219060000 +0000" stop="20241219070000 +0000">
 		<title>Jhanak Episode 394</title>
-		<desc>Jhanak's dance dreams shatter after a tragedy, leading to a convenient marriage.</desc>
+		<desc>Srishti and Vinayak criticise Aniruddha for his decision to marry Jhanak. Meanwhile, the Basus fear the situation might affect their family's reputation.</desc>
 	</programme>
 	<programme channel="5656" start="20241219070000 +0000" stop="20241219073000 +0000">
 		<title>Anupamaa Episode 1502</title>
@@ -30327,7 +30331,7 @@ Chinese Restaurants, acclaimed as the pinnacle of Chinese cuisine, are considere
 	</programme>
 	<programme channel="5656" start="20241219083000 +0000" stop="20241219090000 +0000">
 		<title>Deewaniyat Episode 38</title>
-		<desc>Mannat's love story with Jeet takes a heartbreaking turn, pushing her into an unexpected marriage with Dev. Can she find happiness in this new chapter?</desc>
+		<desc>Dev regrets his decision to marry Mannat seeing her struggles, while Rudra vows to win her back. Later, the Chaudharys and Maliks prepare for Dev and Mannat's Pagphera ceremony.</desc>
 	</programme>
 	<programme channel="5656" start="20241219090000 +0000" stop="20241219093000 +0000">
 		<title>Dil Ko Tumse Pyaar Hua Episode 155</title>
@@ -30343,7 +30347,7 @@ Chinese Restaurants, acclaimed as the pinnacle of Chinese cuisine, are considere
 	</programme>
 	<programme channel="5656" start="20241219103000 +0000" stop="20241219113000 +0000">
 		<title>Jhanak Episode 394</title>
-		<desc>Jhanak's dance dreams shatter after a tragedy, leading to a convenient marriage.</desc>
+		<desc>Srishti and Vinayak criticise Aniruddha for his decision to marry Jhanak. Meanwhile, the Basus fear the situation might affect their family's reputation.</desc>
 	</programme>
 	<programme channel="5656" start="20241219113000 +0000" stop="20241219120000 +0000">
 		<title>Yeh Rishta Kya Kehlata Hai Episode 4648</title>
@@ -30363,51 +30367,51 @@ Chinese Restaurants, acclaimed as the pinnacle of Chinese cuisine, are considere
 	</programme>
 	<programme channel="5656" start="20241219133000 +0000" stop="20241219140000 +0000">
 		<title>Iss Ishq Ka... Rabb Rakha Episode 94</title>
-		<desc>Ranbir is captivated by Meghla when he spots her at a traffic stop. Later, Adrija accuses Meghla of being envious of her and refuses to consider her needs.</desc>
+		<desc>Adrija asks Ranbir to put the ring on her finger, and he obliges. Later, she offers to cook for him but secretly enlists Meghla to do it.</desc>
 	</programme>
 	<programme channel="5656" start="20241219140000 +0000" stop="20241219143000 +0000">
 		<title>Maati Se Bandhi Dor Episode 205</title>
-		<desc>Vaiju works hard for her family but faces a challenge when Rannvijay dismisses her.</desc>
+		<desc>An emotional Vaiju confides in Jaya that marrying Ranvijay feels wrong. Later, Vasundhara tells Ranvijay to fix things with Jaya, refusing ever to accept Vaiju.</desc>
 	</programme>
 	<programme channel="5656" start="20241219143000 +0000" stop="20241219150000 +0000">
 		<title>Ghum Hai Kisikey Pyaar Meiin Episode 1431</title>
-		<desc>Savi's new teaching job sparks hope and forms a bond with Saisha.</desc>
+		<desc>Rajat's thoughtful gift deeply moves Savi, and she impulsively hugs him in gratitude. Later, she rejects a wedding proposal on Anubhav's behalf.</desc>
 	</programme>
 	<programme channel="5656" start="20241219150000 +0000" stop="20241219153000 +0000">
 		<title>Advocate Anjali Awasthi Episode 133</title>
-		<desc>Underdog lawyer Anjali takes on a tough case and battles powerful opponents.</desc>
+		<desc>As Kavya prepares for her wedding, Aman helps Anjali dress up to pose as his wife. Later, the Rajputs realise Aman is missing from the house.</desc>
 	</programme>
 	<programme channel="5656" start="20241219153000 +0000" stop="20241219160000 +0000">
 		<title>Udne Ki Aasha Episode 282</title>
-		<desc>Sayali dreams of her prince charming, but fate pairs her with a thug, Sachin.</desc>
+		<desc>The Deshmukhs are surprised to see Renuka in an unusual outfit. She explains she chose it specifically to welcome Roshni's uncle.</desc>
 	</programme>
 	<programme channel="5656" start="20241219160000 +0000" stop="20241219163000 +0000">
 		<title>Yeh Rishta Kya Kehlata Hai Episode 4649</title>
-		<desc>Dr. Abhimanyu's love for Akshara faces a twist with Arohi.</desc>
+		<desc>Armaan insists Abhira won't sign the divorce, but Abhir convinces her. Later, a drunk Abhira arrives at the Poddar house and blames the family.</desc>
 	</programme>
 	<programme channel="5656" start="20241219163000 +0000" stop="20241219170000 +0000">
 		<title>Anupamaa Episode 1503</title>
-		<desc>Anupamaa seeks self-worth, reclaiming her life after unnoticed sacrifices.</desc>
+		<desc>The Shahs worry when Prem comes home injured, and Rahi realises she's the reason. Later, Prem quits his job and leaves, ignoring Anupama's efforts to stop him.</desc>
 	</programme>
 	<programme channel="5656" start="20241219170000 +0000" stop="20241219180000 +0000">
 		<title>Jhanak Episode 395</title>
-		<desc>Jhanak's dance dreams shatter after a tragedy, leading to a convenient marriage.</desc>
+		<desc>Srishti suspects Arshi is pregnant and suggests a doctor's visit. Meanwhile, Aniruddha threatens to leave the Basus if they oppose his marriage to Jhanak.</desc>
 	</programme>
 	<programme channel="5656" start="20241219180000 +0000" stop="20241219183000 +0000">
 		<title>Maati Se Bandhi Dor Episode 205</title>
-		<desc>Vaiju works hard for her family but faces a challenge when Rannvijay dismisses her.</desc>
+		<desc>An emotional Vaiju confides in Jaya that marrying Ranvijay feels wrong. Later, Vasundhara tells Ranvijay to fix things with Jaya, refusing ever to accept Vaiju.</desc>
 	</programme>
 	<programme channel="5656" start="20241219183000 +0000" stop="20241219190000 +0000">
 		<title>Udne Ki Aasha Episode 282</title>
-		<desc>Sayali dreams of her prince charming, but fate pairs her with a thug, Sachin.</desc>
+		<desc>The Deshmukhs are surprised to see Renuka in an unusual outfit. She explains she chose it specifically to welcome Roshni's uncle.</desc>
 	</programme>
 	<programme channel="5656" start="20241219190000 +0000" stop="20241219193000 +0000">
 		<title>Advocate Anjali Awasthi Episode 133</title>
-		<desc>Underdog lawyer Anjali takes on a tough case and battles powerful opponents.</desc>
+		<desc>As Kavya prepares for her wedding, Aman helps Anjali dress up to pose as his wife. Later, the Rajputs realise Aman is missing from the house.</desc>
 	</programme>
 	<programme channel="5656" start="20241219193000 +0000" stop="20241219200000 +0000">
 		<title>Ghum Hai Kisikey Pyaar Meiin Episode 1431</title>
-		<desc>Savi's new teaching job sparks hope and forms a bond with Saisha.</desc>
+		<desc>Rajat's thoughtful gift deeply moves Savi, and she impulsively hugs him in gratitude. Later, she rejects a wedding proposal on Anubhav's behalf.</desc>
 	</programme>
 	<programme channel="5656" start="20241219200000 +0000" stop="20241219203000 +0000">
 		<title>Dil Ko Tumse Pyaar Hua Episode 156</title>
@@ -30419,43 +30423,43 @@ Chinese Restaurants, acclaimed as the pinnacle of Chinese cuisine, are considere
 	</programme>
 	<programme channel="5656" start="20241219210000 +0000" stop="20241219220000 +0000">
 		<title>Jhanak Episode 395</title>
-		<desc>Jhanak's dance dreams shatter after a tragedy, leading to a convenient marriage.</desc>
+		<desc>Srishti suspects Arshi is pregnant and suggests a doctor's visit. Meanwhile, Aniruddha threatens to leave the Basus if they oppose his marriage to Jhanak.</desc>
 	</programme>
 	<programme channel="5656" start="20241219220000 +0000" stop="20241219223000 +0000">
 		<title>Maati Se Bandhi Dor Episode 205</title>
-		<desc>Vaiju works hard for her family but faces a challenge when Rannvijay dismisses her.</desc>
+		<desc>An emotional Vaiju confides in Jaya that marrying Ranvijay feels wrong. Later, Vasundhara tells Ranvijay to fix things with Jaya, refusing ever to accept Vaiju.</desc>
 	</programme>
 	<programme channel="5656" start="20241219223000 +0000" stop="20241219230000 +0000">
 		<title>Iss Ishq Ka... Rabb Rakha Episode 94</title>
-		<desc>Ranbir is captivated by Meghla when he spots her at a traffic stop. Later, Adrija accuses Meghla of being envious of her and refuses to consider her needs.</desc>
+		<desc>Adrija asks Ranbir to put the ring on her finger, and he obliges. Later, she offers to cook for him but secretly enlists Meghla to do it.</desc>
 	</programme>
 	<programme channel="5656" start="20241219230000 +0000" stop="20241219233000 +0000">
 		<title>Yeh Rishta Kya Kehlata Hai Episode 4649</title>
-		<desc>Dr. Abhimanyu's love for Akshara faces a twist with Arohi.</desc>
+		<desc>Armaan insists Abhira won't sign the divorce, but Abhir convinces her. Later, a drunk Abhira arrives at the Poddar house and blames the family.</desc>
 	</programme>
 	<programme channel="5656" start="20241219233000 +0000" stop="20241220000000 +0000">
 		<title>Udne Ki Aasha Episode 282</title>
-		<desc>Sayali dreams of her prince charming, but fate pairs her with a thug, Sachin.</desc>
+		<desc>The Deshmukhs are surprised to see Renuka in an unusual outfit. She explains she chose it specifically to welcome Roshni's uncle.</desc>
 	</programme>
 	<programme channel="5656" start="20241220000000 +0000" stop="20241220003000 +0000">
 		<title>Advocate Anjali Awasthi Episode 133</title>
-		<desc>Underdog lawyer Anjali takes on a tough case and battles powerful opponents.</desc>
+		<desc>As Kavya prepares for her wedding, Aman helps Anjali dress up to pose as his wife. Later, the Rajputs realise Aman is missing from the house.</desc>
 	</programme>
 	<programme channel="5656" start="20241220003000 +0000" stop="20241220010000 +0000">
 		<title>Ghum Hai Kisikey Pyaar Meiin Episode 1431</title>
-		<desc>Savi's new teaching job sparks hope and forms a bond with Saisha.</desc>
+		<desc>Rajat's thoughtful gift deeply moves Savi, and she impulsively hugs him in gratitude. Later, she rejects a wedding proposal on Anubhav's behalf.</desc>
 	</programme>
 	<programme channel="5656" start="20241220010000 +0000" stop="20241220013000 +0000">
 		<title>Anupamaa Episode 1503</title>
-		<desc>Anupamaa seeks self-worth, reclaiming her life after unnoticed sacrifices.</desc>
+		<desc>The Shahs worry when Prem comes home injured, and Rahi realises she's the reason. Later, Prem quits his job and leaves, ignoring Anupama's efforts to stop him.</desc>
 	</programme>
 	<programme channel="5656" start="20241220013000 +0000" stop="20241220023000 +0000">
 		<title>Jhanak Episode 395</title>
-		<desc>Jhanak's dance dreams shatter after a tragedy, leading to a convenient marriage.</desc>
+		<desc>Srishti suspects Arshi is pregnant and suggests a doctor's visit. Meanwhile, Aniruddha threatens to leave the Basus if they oppose his marriage to Jhanak.</desc>
 	</programme>
 	<programme channel="5656" start="20241220023000 +0000" stop="20241220030000 +0000">
 		<title>Maati Se Bandhi Dor Episode 205</title>
-		<desc>Vaiju works hard for her family but faces a challenge when Rannvijay dismisses her.</desc>
+		<desc>An emotional Vaiju confides in Jaya that marrying Ranvijay feels wrong. Later, Vasundhara tells Ranvijay to fix things with Jaya, refusing ever to accept Vaiju.</desc>
 	</programme>
 	<programme channel="5656" start="20241220030000 +0000" stop="20241220033000 +0000">
 		<title>Deewaniyat Episode 39</title>
@@ -30467,35 +30471,35 @@ Chinese Restaurants, acclaimed as the pinnacle of Chinese cuisine, are considere
 	</programme>
 	<programme channel="5656" start="20241220040000 +0000" stop="20241220043000 +0000">
 		<title>Advocate Anjali Awasthi Episode 133</title>
-		<desc>Underdog lawyer Anjali takes on a tough case and battles powerful opponents.</desc>
+		<desc>As Kavya prepares for her wedding, Aman helps Anjali dress up to pose as his wife. Later, the Rajputs realise Aman is missing from the house.</desc>
 	</programme>
 	<programme channel="5656" start="20241220043000 +0000" stop="20241220050000 +0000">
 		<title>Iss Ishq Ka... Rabb Rakha Episode 94</title>
-		<desc>Ranbir is captivated by Meghla when he spots her at a traffic stop. Later, Adrija accuses Meghla of being envious of her and refuses to consider her needs.</desc>
+		<desc>Adrija asks Ranbir to put the ring on her finger, and he obliges. Later, she offers to cook for him but secretly enlists Meghla to do it.</desc>
 	</programme>
 	<programme channel="5656" start="20241220050000 +0000" stop="20241220053000 +0000">
 		<title>Udne Ki Aasha Episode 282</title>
-		<desc>Sayali dreams of her prince charming, but fate pairs her with a thug, Sachin.</desc>
+		<desc>The Deshmukhs are surprised to see Renuka in an unusual outfit. She explains she chose it specifically to welcome Roshni's uncle.</desc>
 	</programme>
 	<programme channel="5656" start="20241220053000 +0000" stop="20241220060000 +0000">
 		<title>Yeh Rishta Kya Kehlata Hai Episode 4649</title>
-		<desc>Dr. Abhimanyu's love for Akshara faces a twist with Arohi.</desc>
+		<desc>Armaan insists Abhira won't sign the divorce, but Abhir convinces her. Later, a drunk Abhira arrives at the Poddar house and blames the family.</desc>
 	</programme>
 	<programme channel="5656" start="20241220060000 +0000" stop="20241220070000 +0000">
 		<title>Jhanak Episode 395</title>
-		<desc>Jhanak's dance dreams shatter after a tragedy, leading to a convenient marriage.</desc>
+		<desc>Srishti suspects Arshi is pregnant and suggests a doctor's visit. Meanwhile, Aniruddha threatens to leave the Basus if they oppose his marriage to Jhanak.</desc>
 	</programme>
 	<programme channel="5656" start="20241220070000 +0000" stop="20241220073000 +0000">
 		<title>Anupamaa Episode 1503</title>
-		<desc>Anupamaa seeks self-worth, reclaiming her life after unnoticed sacrifices.</desc>
+		<desc>The Shahs worry when Prem comes home injured, and Rahi realises she's the reason. Later, Prem quits his job and leaves, ignoring Anupama's efforts to stop him.</desc>
 	</programme>
 	<programme channel="5656" start="20241220073000 +0000" stop="20241220080000 +0000">
 		<title>Ghum Hai Kisikey Pyaar Meiin Episode 1431</title>
-		<desc>Savi's new teaching job sparks hope and forms a bond with Saisha.</desc>
+		<desc>Rajat's thoughtful gift deeply moves Savi, and she impulsively hugs him in gratitude. Later, she rejects a wedding proposal on Anubhav's behalf.</desc>
 	</programme>
 	<programme channel="5656" start="20241220080000 +0000" stop="20241220083000 +0000">
 		<title>Iss Ishq Ka... Rabb Rakha Episode 94</title>
-		<desc>Ranbir is captivated by Meghla when he spots her at a traffic stop. Later, Adrija accuses Meghla of being envious of her and refuses to consider her needs.</desc>
+		<desc>Adrija asks Ranbir to put the ring on her finger, and he obliges. Later, she offers to cook for him but secretly enlists Meghla to do it.</desc>
 	</programme>
 	<programme channel="5656" start="20241220083000 +0000" stop="20241220090000 +0000">
 		<title>Deewaniyat Episode 39</title>
@@ -30507,23 +30511,23 @@ Chinese Restaurants, acclaimed as the pinnacle of Chinese cuisine, are considere
 	</programme>
 	<programme channel="5656" start="20241220093000 +0000" stop="20241220100000 +0000">
 		<title>Advocate Anjali Awasthi Episode 133</title>
-		<desc>Underdog lawyer Anjali takes on a tough case and battles powerful opponents.</desc>
+		<desc>As Kavya prepares for her wedding, Aman helps Anjali dress up to pose as his wife. Later, the Rajputs realise Aman is missing from the house.</desc>
 	</programme>
 	<programme channel="5656" start="20241220100000 +0000" stop="20241220103000 +0000">
 		<title>Udne Ki Aasha Episode 282</title>
-		<desc>Sayali dreams of her prince charming, but fate pairs her with a thug, Sachin.</desc>
+		<desc>The Deshmukhs are surprised to see Renuka in an unusual outfit. She explains she chose it specifically to welcome Roshni's uncle.</desc>
 	</programme>
 	<programme channel="5656" start="20241220103000 +0000" stop="20241220113000 +0000">
 		<title>Jhanak Episode 395</title>
-		<desc>Jhanak's dance dreams shatter after a tragedy, leading to a convenient marriage.</desc>
+		<desc>Srishti suspects Arshi is pregnant and suggests a doctor's visit. Meanwhile, Aniruddha threatens to leave the Basus if they oppose his marriage to Jhanak.</desc>
 	</programme>
 	<programme channel="5656" start="20241220113000 +0000" stop="20241220120000 +0000">
 		<title>Yeh Rishta Kya Kehlata Hai Episode 4649</title>
-		<desc>Dr. Abhimanyu's love for Akshara faces a twist with Arohi.</desc>
+		<desc>Armaan insists Abhira won't sign the divorce, but Abhir convinces her. Later, a drunk Abhira arrives at the Poddar house and blames the family.</desc>
 	</programme>
 	<programme channel="5656" start="20241220120000 +0000" stop="20241220123000 +0000">
 		<title>Anupamaa Episode 1503</title>
-		<desc>Anupamaa seeks self-worth, reclaiming her life after unnoticed sacrifices.</desc>
+		<desc>The Shahs worry when Prem comes home injured, and Rahi realises she's the reason. Later, Prem quits his job and leaves, ignoring Anupama's efforts to stop him.</desc>
 	</programme>
 	<programme channel="5656" start="20241220123000 +0000" stop="20241220130000 +0000">
 		<title>Deewaniyat Episode 40</title>
