@@ -4017,11 +4017,11 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241220153000 +0000" stop="20241220162500 +0000">
-		<title>Val Gardena | Men's Super-G (Live)</title>
+		<title>Val Gardena | Men's Super-G</title>
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241220162500 +0000" stop="20241220172000 +0000">
-		<title>Engelberg | Men's HS 140</title>
+		<title>Engelberg | Men's HS 140 (Live)</title>
 		<desc>World Cup | Qualifying</desc>
 	</programme>
 	<programme channel="6116" start="20241220172000 +0000" stop="20241220175000 +0000">
@@ -4033,7 +4033,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241220200000 +0000" stop="20241220210000 +0000">
-		<title>Val Gardena | Men's Super-G (Live)</title>
+		<title>Val Gardena | Men's Super-G</title>
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241220210000 +0000" stop="20241220220000 +0000">
@@ -4049,11 +4049,11 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241221000000 +0000" stop="20241221010000 +0000">
-		<title>Val Gardena | Men's Super-G (Live)</title>
+		<title>Val Gardena | Men's Super-G</title>
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241221010000 +0000" stop="20241221013000 +0000">
-		<title>Engelberg | Men's HS 140</title>
+		<title>Engelberg | Men's HS 140 (Live)</title>
 		<desc>World Cup | Qualifying</desc>
 	</programme>
 	<programme channel="6116" start="20241221013000 +0000" stop="20241221023000 +0000">
@@ -4073,11 +4073,11 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241221050000 +0000" stop="20241221060000 +0000">
-		<title>Val Gardena | Men's Super-G (Live)</title>
+		<title>Val Gardena | Men's Super-G</title>
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241221060000 +0000" stop="20241221063000 +0000">
-		<title>Engelberg | Men's HS 140</title>
+		<title>Engelberg | Men's HS 140 (Live)</title>
 		<desc>World Cup | Qualifying</desc>
 	</programme>
 	<programme channel="6116" start="20241221063000 +0000" stop="20241221070000 +0000">
@@ -4093,11 +4093,11 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241221093000 +0000" stop="20241221103000 +0000">
-		<title>Saint Moritz | Women's Super-G</title>
+		<title>Saint Moritz | Women's Super-G (Live)</title>
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241221103000 +0000" stop="20241221121500 +0000">
-		<title>Val Gardena | Men's Downhill</title>
+		<title>Val Gardena | Men's Downhill (Live)</title>
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241221121500 +0000" stop="20241221132500 +0000">
@@ -5985,8 +5985,8 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<desc>NHK WORLD-JAPAN's flagship hourly news program delivers the latest world news, business and weather, with a focus on Japan and the rest of Asia.</desc>
 	</programme>
 	<programme channel="5157" start="20241221011000 +0000" stop="20241221020000 +0000">
-		<title>NHK WORLD-JAPAN Special program</title>
-		<desc>NHK WORLD-JAPAN presents a wide range of programs from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+		<title>NHK Symphony Orchestra X</title>
+		<desc>Tchaikovsky, Symphony No. 5 in E Minor, Op. 64 by NHK Symphony Orchestra, OTAKA Tadaaki (Conductor)</desc>
 	</programme>
 	<programme channel="5157" start="20241221020000 +0000" stop="20241221021000 +0000">
 		<title>NHK NEWSLINE</title>
@@ -6057,8 +6057,8 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<desc>NHK WORLD-JAPAN's flagship hourly news program delivers the latest world news, business and weather, with a focus on Japan and the rest of Asia.</desc>
 	</programme>
 	<programme channel="5157" start="20241221071000 +0000" stop="20241221080000 +0000">
-		<title>NHK WORLD-JAPAN Special program</title>
-		<desc>NHK WORLD-JAPAN presents a wide range of programs from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+		<title>NHK Symphony Orchestra X</title>
+		<desc>Tchaikovsky, Symphony No. 5 in E Minor, Op. 64 by NHK Symphony Orchestra, OTAKA Tadaaki (Conductor)</desc>
 	</programme>
 	<programme channel="5157" start="20241221080000 +0000" stop="20241221081000 +0000">
 		<title>NHK NEWSLINE</title>
@@ -6129,8 +6129,8 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<desc>NHK WORLD-JAPAN's flagship hourly news program delivers the latest world news, business and weather, with a focus on Japan and the rest of Asia.</desc>
 	</programme>
 	<programme channel="5157" start="20241221131000 +0000" stop="20241221140000 +0000">
-		<title>NHK WORLD-JAPAN Special program</title>
-		<desc>NHK WORLD-JAPAN presents a wide range of programs from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+		<title>NHK Symphony Orchestra X</title>
+		<desc>Tchaikovsky, Symphony No. 5 in E Minor, Op. 64 by NHK Symphony Orchestra, OTAKA Tadaaki (Conductor)</desc>
 	</programme>
 	<programme channel="5157" start="20241221140000 +0000" stop="20241221141000 +0000">
 		<title>NHK NEWSLINE</title>
@@ -18934,7 +18934,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 	</programme>
 	<programme channel="6420" start="20241221130000 +0000" stop="20241221143000 +0000">
 		<title>CASH OUT</title>
-		<desc>Mason Goddard is a suave, debonair world class master-thief at the top of his game. Believing he has pulled off the perfect multi-million-dollar car heist and can finally retire and spend his days fishing on a tropical island, his plan is foiled and now he must match wits with a sexy FBI investigator Amelia Decker who he fell for, only to be double-crossed.</desc>
+		<desc>Mason Goddard is a world class master-thief. Believing he has pulled off the perfect heist, his plan is foiled and now he must match wits with a sexy FBI investigator.</desc>
 	</programme>
 	<programme channel="6421" start="20241219160000 +0000" stop="20241219180000 +0000">
 		<title>MARY, QUEEN OF SCOTS</title>
@@ -18996,17 +18996,17 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<title>TROY</title>
 		<desc>A spectacular retelling of The Iliad, Troy is an epic tale of passion, heroism, betrayal and war.</desc>
 	</programme>
-	<programme channel="6421" start="20241220140000 +0000" stop="20241220164000 +0000">
+	<programme channel="6421" start="20241220140000 +0000" stop="20241220164500 +0000">
 		<title>TROY</title>
 		<desc>A spectacular retelling of The Iliad, Troy is an epic tale of passion, heroism, betrayal and war.</desc>
 	</programme>
-	<programme channel="6421" start="20241220164000 +0000" stop="20241220174000 +0000">
+	<programme channel="6421" start="20241220164500 +0000" stop="20241220173500 +0000">
 		<title>GET MILLIE BLACK S1 Episode 4</title>
-		<desc>After returning home to Jamaica, ex-Scotland Yard detective Millie Black works a missing persons case that threatens to blow up her world.</desc>
+		<desc>Not knowing whom to trust, Millie takes extreme measures to find Romeo.</desc>
 	</programme>
-	<programme channel="6421" start="20241220174000 +0000" stop="20241220184000 +0000">
+	<programme channel="6421" start="20241220173500 +0000" stop="20241220184000 +0000">
 		<title>DUNE: PROPHECY S1 Episode 5</title>
-		<desc>Before they would become known as the fabled Bene Gesserit, a powerful Sisterhood works in the shadows to guide the universe.</desc>
+		<desc>While Tula tries to keep her secret project from being discovered by the other Sisters, Desmond goes on a warpath to root out insurgents.</desc>
 	</programme>
 	<programme channel="6421" start="20241220184000 +0000" stop="20241220192500 +0000">
 		<title>THE SOPRANOS S1 Episode 6</title>
@@ -19058,11 +19058,11 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 	</programme>
 	<programme channel="6421" start="20241221070000 +0000" stop="20241221073000 +0000">
 		<title>SOMEBODY SOMEWHERE S3 Episode 6</title>
-		<desc>As her sister and friends all enter new phases of life, Sam (Bridget Everett) takes her own steps toward finally investing in herself.</desc>
+		<desc>An unfortunate fender bender finds Sam and Joel grappling with wanting more out of life.</desc>
 	</programme>
 	<programme channel="6421" start="20241221073000 +0000" stop="20241221080500 +0000">
 		<title>SOMEBODY SOMEWHERE S3 Episode 7</title>
-		<desc>As her sister and friends all enter new phases of life, Sam (Bridget Everett) takes her own steps toward finally investing in herself.</desc>
+		<desc>While Joel returns to church, Sam and Tricia honor Holly's birthday with a surprising understanding.</desc>
 	</programme>
 	<programme channel="6421" start="20241221080500 +0000" stop="20241221093500 +0000">
 		<title>CHRISTMAS CLASS REUNION</title>
@@ -30698,11 +30698,11 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<desc>Entertainement</desc>
 	</programme>
 	<programme channel="5670" start="20241220183000 +0000" stop="20241220213000 +0000">
-		<title>Movie</title>
+		<title>SATYAM</title>
 		<desc>Entertainement</desc>
 	</programme>
 	<programme channel="5670" start="20241220213000 +0000" stop="20241221003000 +0000">
-		<title>Movie</title>
+		<title>MASK</title>
 		<desc>Entertainement</desc>
 	</programme>
 	<programme channel="5670" start="20241221003000 +0000" stop="20241221013000 +0000">
@@ -30710,23 +30710,23 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<desc>Entertainement</desc>
 	</programme>
 	<programme channel="5670" start="20241221013000 +0000" stop="20241221033000 +0000">
-		<title>Movie</title>
+		<title>BEDURULANKA</title>
 		<desc>Entertainement</desc>
 	</programme>
 	<programme channel="5670" start="20241221033000 +0000" stop="20241221063000 +0000">
-		<title>Movie</title>
+		<title>TUCK JAGADISH</title>
 		<desc>Entertainement</desc>
 	</programme>
 	<programme channel="5670" start="20241221063000 +0000" stop="20241221093000 +0000">
-		<title>Movie</title>
+		<title>BRAHMASTRA</title>
 		<desc>Entertainement</desc>
 	</programme>
 	<programme channel="5670" start="20241221093000 +0000" stop="20241221123000 +0000">
-		<title>Movie</title>
+		<title>SARKARU VAARI PAATA</title>
 		<desc>Entertainement</desc>
 	</programme>
 	<programme channel="5670" start="20241221123000 +0000" stop="20241221150000 +0000">
-		<title>Movie</title>
+		<title>MANJUMMEL BOYS</title>
 		<desc>Entertainement</desc>
 	</programme>
 	<programme channel="5671" start="20241219160000 +0000" stop="20241219163000 +0000">
@@ -30845,97 +30845,89 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<title>Bigg Boss S08 - Unseen Extra Cuts</title>
 		<desc>Exclusive behind-the-scenes footage and unseen moments from Bigg Boss Season 8.</desc>
 	</programme>
-	<programme channel="5671" start="20241220180000 +0000" stop="20241220203000 +0000">
+	<programme channel="5671" start="20241220180000 +0000" stop="20241220183000 +0000">
 		<title>Movie</title>
 		<desc>Movie</desc>
+	</programme>
+	<programme channel="5671" start="20241220183000 +0000" stop="20241220203000 +0000">
+		<title>Movie_SWATHI MUTHYAM</title>
+		<desc>Movie_SWATHI MUTHYAM</desc>
 	</programme>
 	<programme channel="5671" start="20241220203000 +0000" stop="20241220230000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>MovieCHANDRAMUKHI</title>
+		<desc>MovieCHANDRAMUKHI</desc>
 	</programme>
-	<programme channel="5671" start="20241220230000 +0000" stop="20241220233000 +0000">
-		<title>Fun Time</title>
-		<desc>Tune into a compilation of comedy clips from the recently released Tollywood movies.</desc>
+	<programme channel="5671" start="20241220230000 +0000" stop="20241221010000 +0000">
+		<title>FUN TIME</title>
+		<desc>Entertainment</desc>
 	</programme>
-	<programme channel="5671" start="20241220233000 +0000" stop="20241221013000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="5671" start="20241221010000 +0000" stop="20241221013000 +0000">
+		<title>Movie_OKA LAILA KOSAM</title>
+		<desc>Movie_OKA LAILA KOSAM</desc>
 	</programme>
 	<programme channel="5671" start="20241221013000 +0000" stop="20241221033000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>AADIVARAM STAR MAA PARIVARAM ® - STAR WARS</title>
+		<desc>AADIVARAM STAR MAA PARIVARAM ® - STAR WARS</desc>
 	</programme>
 	<programme channel="5671" start="20241221033000 +0000" stop="20241221063000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>MOVIE_NAA SAAMI RANGA</title>
+		<desc>Entertainment</desc>
 	</programme>
 	<programme channel="5671" start="20241221063000 +0000" stop="20241221070000 +0000">
-		<title>Paape Maa Jeevana Jyothi</title>
-		<desc>Jyothi seeks acceptance but faces turmoil as daughter Jeevana is kidnapped, jeopardizing their newfound peace.</desc>
+		<title>Paape Naa Jeevana Jyothi</title>
+		<desc>Story revolves around mother and missed daughter</desc>
 	</programme>
 	<programme channel="5671" start="20241221070000 +0000" stop="20241221073000 +0000">
-		<title>Ninnu Kori</title>
-		<desc>Pallavi invites her ex-boyfriend to stay with her and her husband to prove she is happy. Uma tries to break them up.</desc>
+		<title>NINNU KORI</title>
+		<desc>NINNU KORI</desc>
 	</programme>
 	<programme channel="5671" start="20241221073000 +0000" stop="20241221080000 +0000">
-		<title>Brahma Mudi</title>
-		<desc>Mother arranges weddings for talented daughters. Affairs take an unexpected turn with an affluent family.</desc>
+		<title>BRAHMA MUDI</title>
+		<desc>BRAHMA MUDI</desc>
 	</programme>
 	<programme channel="5671" start="20241221080000 +0000" stop="20241221083000 +0000">
-		<title>Paluke Bangaramayena</title>
-		<desc>Speech-impaired Swaragini, deemed unlucky by her father. Can Officer Abhishek alter her fate?</desc>
+		<title>PALUKE BANGARAMAYENA</title>
+		<desc>PALUKE BANGARAMAYENA</desc>
 	</programme>
 	<programme channel="5671" start="20241221083000 +0000" stop="20241221090000 +0000">
-		<title>Mama Garu</title>
-		<desc>Ganga confronts chauvinistic father-in-law, challenging norms. Can she carve her path to victory and claim her rights?</desc>
+		<title>MAMA GARU</title>
+		<desc>Serial</desc>
 	</programme>
 	<programme channel="5671" start="20241221090000 +0000" stop="20241221093000 +0000">
 		<title>Vantalakka</title>
-		<desc>Kind-hearted Murali loves a wealthy girl. Their romance encounters numerous obstacles.</desc>
+		<desc>Serial</desc>
 	</programme>
 	<programme channel="5671" start="20241221093000 +0000" stop="20241221100000 +0000">
 		<title>Malli</title>
-		<desc>Malli promises Meera after hearing her past. Arvind's family frets over his new project.</desc>
+		<desc>Story of village girl</desc>
 	</programme>
 	<programme channel="5671" start="20241221100000 +0000" stop="20241221103000 +0000">
-		<title>Yeto Vellipoindi Manasu</title>
-		<desc>Varun and Nithya's lifelong journey is marked by ups and downs, leading to multiple separations.</desc>
+		<title>YETO VELLIPOINDI MANASU</title>
+		<desc>YETO VELLIPOINDI MANASU</desc>
 	</programme>
-	<programme channel="5671" start="20241221103000 +0000" stop="20241221110000 +0000">
-		<title>Illu Illalu Pillalu</title>
-		<desc>Narmada faces marriage pressure from Prasad Rao and Sujatha, while Prema worries about Dheeraj and Sagar's odd behavior. Tension and uncertainty fill the air!</desc>
-	</programme>
-	<programme channel="5671" start="20241221110000 +0000" stop="20241221120000 +0000">
-		<title>Bigg Boss S08</title>
-		<desc>Celebrities live in an isolated house cut off from the rest of the world. They have to compete in challenging tasks to avoid elimination and win.</desc>
-	</programme>
-	<programme channel="5671" start="20241221120000 +0000" stop="20241221123000 +0000">
-		<title>Guppedantha Manasu</title>
-		<desc>Anupama urges Mahindra to report Rishi's disappearance. Next day, Vasudhara sets out on a mission to locate him.</desc>
+	<programme channel="5671" start="20241221103000 +0000" stop="20241221123000 +0000">
+		<title>AADIVARAM STAR MAA PARIVARAM - STAR WARS 3</title>
+		<desc>Entertainment</desc>
 	</programme>
 	<programme channel="5671" start="20241221123000 +0000" stop="20241221130000 +0000">
-		<title>Sathyabhama</title>
-		<desc>Krish falls for Satya, a principled girl. What unfolds for this extraordinary couple in their love story?</desc>
+		<title>SATYABHAMA</title>
+		<desc>SATYABHAMA</desc>
 	</programme>
 	<programme channel="5671" start="20241221130000 +0000" stop="20241221133000 +0000">
-		<title>Maguva O Maguva</title>
-		<desc>Wealthy Akhila and single mom Anjali bond during pregnancy, navigating diverse backgrounds in a tale of motherhood.</desc>
+		<title>MAGUVA O MAGUVA</title>
+		<desc>MAGUVA O MAGUVA</desc>
 	</programme>
 	<programme channel="5671" start="20241221133000 +0000" stop="20241221140000 +0000">
-		<title>Chinni</title>
-		<desc>A heartwarming tale of a Mother and Daughter navigating through unexpected challenges, strengthening their bond and understanding each other in new ways.</desc>
+		<title>CHINNI</title>
+		<desc>Serial</desc>
 	</programme>
 	<programme channel="5671" start="20241221140000 +0000" stop="20241221143000 +0000">
-		<title>Illu Illalu Pillalu</title>
-		<desc>Illu Illalu Pillalu</desc>
+		<title>ILLU ILLALU PILLALU</title>
+		<desc>ILLU ILLALU PILLALU</desc>
 	</programme>
-	<programme channel="5671" start="20241221143000 +0000" stop="20241221150000 +0000">
-		<title>Karthika Deepam</title>
-		<desc>Deepa, overcoming discrimination and family expectations, fights for happiness in her marriage to Dr. Karthik.</desc>
-	</programme>
-	<programme channel="5671" start="20241221150000 +0000" stop="20241221153000 +0000">
-		<title>Intinti Ramayanam</title>
-		<desc>Members of a close-knit family begin to doubt one another when they suddenly face a problem.</desc>
+	<programme channel="5671" start="20241221143000 +0000" stop="20241221153000 +0000">
+		<title>INTINTI RAMAYANAM</title>
+		<desc>INTINTI RAMAYANAM</desc>
 	</programme>
 	<programme channel="5676" start="20241219160000 +0000" stop="20241219180000 +0000">
 		<title>THE NEWSHOUR FIRST</title>
