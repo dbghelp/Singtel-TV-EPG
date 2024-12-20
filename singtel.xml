@@ -697,8 +697,8 @@
 		<desc>The daily evening-news programme featuring highlights and coverage of both local and international news with a local perspective.</desc>
 	</programme>
 	<programme channel="5002" start="20241220130000 +0000" stop="20241220150000 +0000">
-		<title>ASEAN Mitsubishi Electric Cup 2024 Episode 20</title>
-		<desc>(Live) The ASEAN Mitsubishi Electric Cup 2024 is the 15th edition of the ASEAN Championship, is scheduled to run from 23 November to 21 December. Thailand are the defending champions.</desc>
+		<title>ASEAN Mitsubishi Electric Cup 2024 Group Stage (Malaysia vs Singapore) Episode 20</title>
+		<desc>(Live) The ASEAN Mitsubishi Electric Cup, the region's top football event, returns for its 15th edition with Thailand chasing a record-extending eighth title as the War Elephants attempt to successfully defend Southeast Asia's most coveted crown won in 2022.</desc>
 	</programme>
 	<programme channel="5002" start="20241220150000 +0000" stop="20241220150000 +0000">
 		<title>Grudge Match</title>
@@ -3913,7 +3913,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241219170000 +0000" stop="20241219180000 +0000">
-		<title>Le Grand Bornand | Men's Sprint (Live)</title>
+		<title>Le Grand Bornand | Men's Sprint</title>
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241219180000 +0000" stop="20241219190000 +0000">
@@ -3929,7 +3929,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241219200000 +0000" stop="20241219210000 +0000">
-		<title>Le Grand Bornand | Men's Sprint (Live)</title>
+		<title>Le Grand Bornand | Men's Sprint</title>
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241219210000 +0000" stop="20241219220000 +0000">
@@ -3941,7 +3941,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<desc>World Cup | Day 2</desc>
 	</programme>
 	<programme channel="6116" start="20241219230000 +0000" stop="20241220000000 +0000">
-		<title>Le Grand Bornand | Men's Sprint (Live)</title>
+		<title>Le Grand Bornand | Men's Sprint</title>
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241220000000 +0000" stop="20241220003000 +0000">
@@ -3973,7 +3973,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241220040000 +0000" stop="20241220050000 +0000">
-		<title>Le Grand Bornand | Men's Sprint (Live)</title>
+		<title>Le Grand Bornand | Men's Sprint</title>
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241220050000 +0000" stop="20241220060000 +0000">
@@ -4001,11 +4001,11 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241220124500 +0000" stop="20241220130500 +0000">
-		<title>Le Grand Bornand | Men's Sprint (Live)</title>
+		<title>Le Grand Bornand | Men's Sprint</title>
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241220130500 +0000" stop="20241220143500 +0000">
-		<title>Le Grand Bornand | Women's Sprint (Live)</title>
+		<title>Le Grand Bornand | Women's Sprint</title>
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241220143500 +0000" stop="20241220153000 +0000">
@@ -4021,11 +4021,11 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241220162500 +0000" stop="20241220172000 +0000">
-		<title>Engelberg | Men's HS 140 (Live)</title>
+		<title>Engelberg | Men's HS 140</title>
 		<desc>World Cup | Qualifying</desc>
 	</programme>
 	<programme channel="6116" start="20241220172000 +0000" stop="20241220175000 +0000">
-		<title>Le Grand Bornand | Women's Sprint (Live)</title>
+		<title>Le Grand Bornand | Women's Sprint</title>
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241220175000 +0000" stop="20241220200000 +0000">
@@ -4045,7 +4045,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241220230000 +0000" stop="20241221000000 +0000">
-		<title>Le Grand Bornand | Women's Sprint (Live)</title>
+		<title>Le Grand Bornand | Women's Sprint</title>
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241221000000 +0000" stop="20241221010000 +0000">
@@ -4053,7 +4053,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241221010000 +0000" stop="20241221013000 +0000">
-		<title>Engelberg | Men's HS 140 (Live)</title>
+		<title>Engelberg | Men's HS 140</title>
 		<desc>World Cup | Qualifying</desc>
 	</programme>
 	<programme channel="6116" start="20241221013000 +0000" stop="20241221023000 +0000">
@@ -4069,7 +4069,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241221040000 +0000" stop="20241221050000 +0000">
-		<title>Le Grand Bornand | Women's Sprint (Live)</title>
+		<title>Le Grand Bornand | Women's Sprint</title>
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241221050000 +0000" stop="20241221060000 +0000">
@@ -4077,7 +4077,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241221060000 +0000" stop="20241221063000 +0000">
-		<title>Engelberg | Men's HS 140 (Live)</title>
+		<title>Engelberg | Men's HS 140</title>
 		<desc>World Cup | Qualifying</desc>
 	</programme>
 	<programme channel="6116" start="20241221063000 +0000" stop="20241221070000 +0000">
@@ -4093,11 +4093,11 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241221093000 +0000" stop="20241221103000 +0000">
-		<title>Saint Moritz | Women's Super-G (Live)</title>
+		<title>Saint Moritz | Women's Super-G</title>
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241221103000 +0000" stop="20241221121500 +0000">
-		<title>Val Gardena | Men's Downhill (Live)</title>
+		<title>Val Gardena | Men's Downhill</title>
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241221121500 +0000" stop="20241221132500 +0000">
@@ -4105,7 +4105,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241221132500 +0000" stop="20241221143000 +0000">
-		<title>Le Grand Bornand | Women's Pursuit (Live)</title>
+		<title>Le Grand Bornand | Women's Pursuit</title>
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241221143000 +0000" stop="20241221150000 +0000">
@@ -8078,7 +8078,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 	</programme>
 	<programme channel="6166" start="20241221033000 +0000" stop="20241221040000 +0000">
 		<title>The Media Show</title>
-		<desc>A global, topical weekly show that lifts the hood on the entertainment and news business. The Media Show explores the companies and personalities who command our attention.</desc>
+		<desc>CNN faces scrutiny for misidentifying a Syrian prisoner in a viral report. Trump secures $15m in a defamation settlement with ABC News. The Map Men discuss their TikTok success and creative process.</desc>
 	</programme>
 	<programme channel="6166" start="20241221040000 +0000" stop="20241221043000 +0000">
 		<title>BBC News</title>
@@ -8134,7 +8134,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 	</programme>
 	<programme channel="6166" start="20241221103000 +0000" stop="20241221110000 +0000">
 		<title>Talking Business (r)</title>
-		<desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
+		<desc>What's in store for the global economy in 2025? Will the spending of US consumers continue to be the bright spot that keeps the rest of the world going?</desc>
 	</programme>
 	<programme channel="6166" start="20241221110000 +0000" stop="20241221113000 +0000">
 		<title>BBC News</title>
@@ -8157,8 +8157,8 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<desc>The latest news from the BBC including sport.</desc>
 	</programme>
 	<programme channel="6166" start="20241221133000 +0000" stop="20241221140000 +0000">
-		<title>Americast</title>
-		<desc>The latest analysis on American politics.</desc>
+		<title>The Big Cases</title>
+		<desc>It's a story that's shocked the world. Gisele Pelicot, a French wife and mother who was drugged and raped by strangers. All were invited to do so by her husband at their home in Avignon, France.</desc>
 	</programme>
 	<programme channel="6166" start="20241221140000 +0000" stop="20241221143000 +0000">
 		<title>BBC News</title>
@@ -8166,7 +8166,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 	</programme>
 	<programme channel="6166" start="20241221143000 +0000" stop="20241221150000 +0000">
 		<title>The Media Show (r)</title>
-		<desc>A global, topical weekly show that lifts the hood on the entertainment and news business. The Media Show explores the companies and personalities who command our attention.</desc>
+		<desc>CNN faces scrutiny for misidentifying a Syrian prisoner in a viral report. Trump secures $15m in a defamation settlement with ABC News. The Map Men discuss their TikTok success and creative process.</desc>
 	</programme>
 	<programme channel="6166" start="20241221150000 +0000" stop="20241221153000 +0000">
 		<title>BBC News</title>
@@ -29038,7 +29038,7 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<desc>The king of stand-up comedy, Kapil Sharma, is joined with special celebrity guests each week to entertain viewers in this Indian Hindi talk show.</desc>
 	</programme>
 	<programme channel="5648" start="20241220011500 +0000" stop="20241220031000 +0000">
-		<title>Women's U19 Asia Cup'24 - ban V Nep Live</title>
+		<title>Women's U19 Asia Cup'24 - ind V Sl Live</title>
 		<desc>Inaugural edition of the prestigious ACC Women's Under-19 Asia Cup, from 14th to 21st Dec featuring the best 6 teams battling across 14 matches.</desc>
 	</programme>
 	<programme channel="5648" start="20241220031000 +0000" stop="20241220032500 +0000">
@@ -29046,7 +29046,7 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<desc>The king of stand-up comedy, Kapil Sharma, is joined with special celebrity guests each week to entertain viewers in this Indian Hindi talk show.</desc>
 	</programme>
 	<programme channel="5648" start="20241220032500 +0000" stop="20241220050500 +0000">
-		<title>Women's U19 Asia Cup'24 - ban V Nep Live</title>
+		<title>Women's U19 Asia Cup'24 - ind V Sl Live</title>
 		<desc>Inaugural edition of the prestigious ACC Women's Under-19 Asia Cup, from 14th to 21st Dec featuring the best 6 teams battling across 14 matches.</desc>
 	</programme>
 	<programme channel="5648" start="20241220050500 +0000" stop="20241220054500 +0000">
@@ -29054,7 +29054,7 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<desc>The king of stand-up comedy, Kapil Sharma, is joined with special celebrity guests each week to entertain viewers in this Indian Hindi talk show.</desc>
 	</programme>
 	<programme channel="5648" start="20241220054500 +0000" stop="20241220074000 +0000">
-		<title>Women's U19 Asia Cup'24 - ind V Sl Live</title>
+		<title>Women's U19 Asia Cup'24 - ban V Nep Live</title>
 		<desc>Inaugural edition of the prestigious ACC Women's Under-19 Asia Cup, from 14th to 21st Dec featuring the best 6 teams battling across 14 matches.</desc>
 	</programme>
 	<programme channel="5648" start="20241220074000 +0000" stop="20241220075500 +0000">
@@ -29062,7 +29062,7 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<desc>The king of stand-up comedy, Kapil Sharma, is joined with special celebrity guests each week to entertain viewers in this Indian Hindi talk show.</desc>
 	</programme>
 	<programme channel="5648" start="20241220075500 +0000" stop="20241220093500 +0000">
-		<title>Women's U19 Asia Cup'24 - ind V Sl Live</title>
+		<title>Women's U19 Asia Cup'24 - ban V Nep Live</title>
 		<desc>Inaugural edition of the prestigious ACC Women's Under-19 Asia Cup, from 14th to 21st Dec featuring the best 6 teams battling across 14 matches.</desc>
 	</programme>
 	<programme channel="5648" start="20241220093500 +0000" stop="20241220103000 +0000">
@@ -31889,9 +31889,13 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<title>Document 72 Hours</title>
 		<desc>This is an unusual program series that explores human dramas through chance encounters with ordinary people at selected locations.</desc>
 	</programme>
-	<programme channel="5682" start="20241220133000 +0000" stop="20241220143000 +0000">
+	<programme channel="5682" start="20241220133000 +0000" stop="20241220142600 +0000">
 		<title>Somewhere Street "Coimbra, Portugal"</title>
 		<desc>A close-up look at cities worldwide, as seen by a walking tourist. Viewers visit places off the beaten path, meet ordinary people, and enjoy a travel experience that only possible on foot.</desc>
+	</programme>
+	<programme channel="5682" start="20241220142600 +0000" stop="20241220143000 +0000">
+		<title>Mini Program</title>
+		<desc>Mini Program</desc>
 	</programme>
 	<programme channel="5682" start="20241220143000 +0000" stop="20241220144000 +0000">
 		<title>News Commentary</title>
@@ -32122,7 +32126,7 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<desc>NHK's core news program wrapping up the day's events in an easy to understand way.</desc>
 	</programme>
 	<programme channel="5682" start="20241221103000 +0000" stop="20241221111500 +0000">
-		<title>Project X: The Challengers-New Beginnings</title>
+		<title>Project X: The Challengers-New Beginnings "Serving 100,000 Meals After the Disaster in Wajima, Noto"</title>
 		<desc>Project X returns for the first time in 18 years. The former series featured people involved in project related to the Japanese industry and contemporary history. The new series focuses on people in the “Lost Era” following the collapse of the bubble economy. In every era, there are always those take on challenges. Even without receiving praise or being in the spotlight, some dedicate themselves to their work. The documentary delivers passion and courage right to you.</desc>
 	</programme>
 	<programme channel="5682" start="20241221111500 +0000" stop="20241221115300 +0000">
@@ -32141,21 +32145,13 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<title>Saturday Watch 9 (B)</title>
 		<desc>A Saturday night show presents the latest news on domestic and foreign affairs with reliable coverage and innovative presentation.</desc>
 	</programme>
-	<programme channel="5682" start="20241221130000 +0000" stop="20241221135000 +0000">
-		<title>NHK Special</title>
+	<programme channel="5682" start="20241221130000 +0000" stop="20241221135500 +0000">
+		<title>NHK Special "Soaring from the Darkness―The National Ballet of Ukraine"</title>
 		<desc>A documentary based on timely subjects famous for its dignity and in-depth reporting.</desc>
-	</programme>
-	<programme channel="5682" start="20241221135000 +0000" stop="20241221135500 +0000">
-		<title>Cruising from the Sky Mini</title>
-		<desc>Cruising from the Sky Mini</desc>
 	</programme>
 	<programme channel="5682" start="20241221135500 +0000" stop="20241221140000 +0000">
 		<title>News &amp; Weather</title>
 		<desc>The latest up-to-date news and nationwide weather information.</desc>
-	</programme>
-	<programme channel="5682" start="20241221140000 +0000" stop="20241221143000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
 	</programme>
 	<programme channel="5040" start="20241219160000 +0000" stop="20241219161400 +0000">
 		<title>Le journal</title>
