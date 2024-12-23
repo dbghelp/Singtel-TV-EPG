@@ -3975,11 +3975,11 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>World Cup | Run 2</desc>
 	</programme>
 	<programme channel="6116" start="20241224000000 +0000" stop="20241224003000 +0000">
-		<title>Alta Badia | Men Slalom (Live)</title>
+		<title>Alta Badia | Men Slalom</title>
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241224003000 +0000" stop="20241224010000 +0000">
-		<title>Alta Badia | Men Slalom (Live)</title>
+		<title>Alta Badia | Men Slalom</title>
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241224010000 +0000" stop="20241224013000 +0000">
@@ -4015,7 +4015,7 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>World Cup | Day 2</desc>
 	</programme>
 	<programme channel="6116" start="20241224070000 +0000" stop="20241224080000 +0000">
-		<title>Saint Moritz | Women's Super-G (Live)</title>
+		<title>Saint Moritz | Women's Super-G</title>
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241224080000 +0000" stop="20241224090000 +0000">
@@ -8463,7 +8463,7 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>Wolf Blitzer is in the command center for breaking news, politics and extraordinary reports from around the world.</desc>
 	</programme>
 	<programme channel="5167" start="20241223223000 +0000" stop="20241223230000 +0000">
-		<title>World Sport: Monday, December 23, 2024 830am ET</title>
+		<title>World Sport: Monday, December 23, 2024 830am ET replay</title>
 		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
 	</programme>
 	<programme channel="5167" start="20241223230000 +0000" stop="20241224000000 +0000">
@@ -8523,8 +8523,8 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>Live context and clarity to the day's top stories from around the world.</desc>
 	</programme>
 	<programme channel="5167" start="20241224093000 +0000" stop="20241224100000 +0000">
-		<title>Quest's World of Wonder: Melbourne</title>
-		<desc>Richard travels to the Great Southern Land to rediscover Melbourne, where he lands a guest appearance in a long-running soap opera, and a penguin parade leaves him in awe.</desc>
+		<title>Quest's World of Wonder: Miami</title>
+		<desc>The colors of Miami's architecture and clothing hit you in the face upon arrival. The hit 80s TV show "Miami Vice" may have put this city on the map, but 40 years on, there is more magic to discover.</desc>
 	</programme>
 	<programme channel="5167" start="20241224100000 +0000" stop="20241224110000 +0000">
 		<title>CNN This Morning: Tuesday, December 24, 2024 5AM</title>
@@ -28166,19 +28166,19 @@ This series tells the story of the wealthy Qiu family who is left rudderless whe
 		<title>Varshangalkku Shesham</title>
 		<desc>Two boys from Kerala, Murali and Venu, become friends across time periods. Release Year: 2024 Director: Vineeth Sreenivasan</desc>
 	</programme>
-	<programme channel="5639" start="20241223133000 +0000" stop="20241223163000 +0000">
+	<programme channel="5639" start="20241223133000 +0000" stop="20241223171500 +0000">
 		<title>Varshangalkku Shesham</title>
 		<desc>Two boys from Kerala, Murali and Venu, become friends across time periods. Release Year: 2024 Director: Vineeth Sreenivasan</desc>
 	</programme>
-	<programme channel="5639" start="20241223163000 +0000" stop="20241223193000 +0000">
+	<programme channel="5639" start="20241223171500 +0000" stop="20241223202000 +0000">
 		<title>One</title>
 		<desc>A politician's ideologies are tested when allegations are levelled against him. Release Year: 2021 Director: Santhosh Viswanath</desc>
 	</programme>
-	<programme channel="5639" start="20241223193000 +0000" stop="20241223220000 +0000">
+	<programme channel="5639" start="20241223202000 +0000" stop="20241223221000 +0000">
 		<title>Marubhoomiyile Aana</title>
 		<desc>Sughu decides to head to Qatar for a task which promises some quick bucks. Release Year: 2016 Director: V. K. Prakash</desc>
 	</programme>
-	<programme channel="5639" start="20241223220000 +0000" stop="20241224003000 +0000">
+	<programme channel="5639" start="20241223221000 +0000" stop="20241224003000 +0000">
 		<title>Parthan Kanda Paralokam</title>
 		<desc>The movie shows how Parthan gets cleared of all the problems of his life. Release Year: 2008</desc>
 	</programme>
