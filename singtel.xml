@@ -3879,7 +3879,7 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241223040000 +0000" stop="20241223043000 +0000">
-		<title>Le Grand Bornand | Women's Pursuit (Live)</title>
+		<title>Le Grand Bornand | Women's Pursuit</title>
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241223043000 +0000" stop="20241223050000 +0000">
@@ -3887,7 +3887,7 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241223050000 +0000" stop="20241223060000 +0000">
-		<title>Saint Moritz | Women's Super-G (Live)</title>
+		<title>Saint Moritz | Women's Super-G</title>
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241223060000 +0000" stop="20241223070000 +0000">
@@ -3907,11 +3907,11 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>World Cup | Run 2</desc>
 	</programme>
 	<programme channel="6116" start="20241223084500 +0000" stop="20241223103000 +0000">
-		<title>Alta Badia | Men Slalom (Live)</title>
+		<title>Alta Badia | Men Slalom</title>
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241223103000 +0000" stop="20241223111500 +0000">
-		<title>Saint Moritz | Women's Super-G (Live)</title>
+		<title>Saint Moritz | Women's Super-G</title>
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241223111500 +0000" stop="20241223121500 +0000">
@@ -8338,13 +8338,21 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<title>CNN Newsroom (CNN/US): Sunday, December 22, 2024 7PM</title>
 		<desc>Updates of the latest news from around the world.</desc>
 	</programme>
-	<programme channel="5167" start="20241223010000 +0000" stop="20241223020000 +0000">
-		<title>The Whole Story with Anderson Cooper: Superyachts and the Super Rich</title>
-		<desc>CNN's Alisyn Camerota journeys to Monaco, the world's richest country per capita, during the annual Yacht Show. She delves into the luxurious world of superyachts, examining their appeal, environmental impact, and geopolitical significance.</desc>
+	<programme channel="5167" start="20241223010000 +0000" stop="20241223013000 +0000">
+		<title>African Voices Changemakers: Kofi Kinaata; Alikiba</title>
+		<desc>Ghana's Kofi Kinaata's socially conscious lyrics address issues like migration and sustainability; Tanzania's Alikiba hopes to use to empower the next generation of creatives.?</desc>
 	</programme>
-	<programme channel="5167" start="20241223020000 +0000" stop="20241223030000 +0000">
-		<title>Fareed Zakaria GPS: Sunday, December 22, 2024 10AM</title>
-		<desc>Fareed Zakaria brings viewers his insights and analysis, and interviews world leaders, artists, scientists, business leaders, global affairs analysts and other cultural observers for the 'Global Public Square.'</desc>
+	<programme channel="5167" start="20241223013000 +0000" stop="20241223020000 +0000">
+		<title>Culinary Journeys: South Korea</title>
+		<desc>Culinary researcher Jungyoon Choi invites Chef Oriol Castro and Chef Virgilio Martinez on a journey across South Korea to better understand a technique many call the cornerstone of Korean cuisine: fermentation.</desc>
+	</programme>
+	<programme channel="5167" start="20241223020000 +0000" stop="20241223023000 +0000">
+		<title>Living Golf: Australia's Melbourne Sandbelt</title>
+		<desc>We head to Australia as Melbourne hosts its most prestigious golfing competition, meet the people who are integral to the event, and visit some of the areas other courses.</desc>
+	</programme>
+	<programme channel="5167" start="20241223023000 +0000" stop="20241223030000 +0000">
+		<title>Vital Signs with Dr. Sanjay Gupta: The Science of Sweat</title>
+		<desc>We all sweat, and by and large, we all understand the basics of how sweat works to cool us down. But what if sweat could tell us more about our health? Researchers look to learn more about this valuable fluid.</desc>
 	</programme>
 	<programme channel="5167" start="20241223030000 +0000" stop="20241223033000 +0000">
 		<title>African Voices Changemakers: Yemi Alade</title>
@@ -24942,19 +24950,19 @@ This series tells the story of the wealthy Qiu family who is left rudderless whe
 		<title>Tayangan Perdana Curang Tanpa Niat</title>
 		<desc>MegaDrama terbaru di Astro Ria, Curang Tanpa Niat lakonan hebat Shukri Yahaya, Mira Filzah, Sharifah Sakinah mulai 23 Disember setiap Isnin hingga Khamis jam 10 malam.</desc>
 	</programme>
-	<programme channel="5608" start="20241223053000 +0000" stop="20241223080000 +0000">
+	<programme channel="5608" start="20241223053000 +0000" stop="20241223081600 +0000">
 		<title>Konsert Gegar Vaganza S11 Episode 5</title>
 		<desc>14 bintang yang pernah menyengat kembali ke pentas hebat Gegar Vaganza musim ke-11 yang dikendalikan oleh Nabil Ahmad dan Jihan Muse, turut menampilkan juri tetap Datuk Ramli MS dan Hetty Koes Endang.</desc>
 	</programme>
-	<programme channel="5608" start="20241223080000 +0000" stop="20241223083000 +0000">
+	<programme channel="5608" start="20241223081600 +0000" stop="20241223084300 +0000">
 		<title>Vazz Vaganza Episode 5</title>
 		<desc>Meminjam elemen sidang akhbar, VAZZ VAGANZA menjawab apa saja insiden yang berlaku ketika konsert Gegar Vaganza atau apa jua isu tentang #GV11 di atas talian, secara langsung di kaca tv.</desc>
 	</programme>
-	<programme channel="5608" start="20241223083000 +0000" stop="20241223090000 +0000">
+	<programme channel="5608" start="20241223084300 +0000" stop="20241223090700 +0000">
 		<title>Tolonglah, Cik B! Episode 2</title>
 		<desc>Pasti ramai yang tertanya-tanya bagaimana agaknya kehidupan anak seorang jutawan termasyhur Malaysia? Saksikan telatah comel Cik B, satu-satunya anak perempuan Dato' Seri Vida.</desc>
 	</programme>
-	<programme channel="5608" start="20241223090000 +0000" stop="20241223100000 +0000">
+	<programme channel="5608" start="20241223090700 +0000" stop="20241223100000 +0000">
 		<title>Indah Pada Waktunya Episode 7</title>
 		<desc>Keberuntungan berada di pihak Salma saat produser film &amp; sutradara menyukai karakter Salma. Dan Salma ternyata memiliki bakat yang cukup besar dalam menghayati peran.</desc>
 	</programme>
@@ -28126,21 +28134,21 @@ This series tells the story of the wealthy Qiu family who is left rudderless whe
 		<title>Santhwanam-2</title>
 		<desc>Two rival families face challenges and strengthen their bonds in 'Santhwanam 2.' Balan's adopted son marries into one family, balancing his loyalties and navigating familial dynamics.</desc>
 	</programme>
-	<programme channel="5639" start="20241222133000 +0000" stop="20241222163000 +0000">
+	<programme channel="5639" start="20241222133000 +0000" stop="20241222171500 +0000">
 		<title>Two Countries</title>
 		<desc>Ullas's life changes when he plans to marry an Indian who is settled in Canada. Release Year: 2015 Awards: 2016 Winner Asianet Comedy Award - Best Film - M. Renjith producer</desc>
 	</programme>
-	<programme channel="5639" start="20241222163000 +0000" stop="20241222193000 +0000">
+	<programme channel="5639" start="20241222171500 +0000" stop="20241222195500 +0000">
 		<title>Run Baby Run</title>
 		<desc>Venu, a cameraman working for Reuters, together with Renuka, his ex-girlfriend, investigates a murder planned by Bharatan Pillai. Release Year: 2012 Director: Joshiy</desc>
 	</programme>
-	<programme channel="5639" start="20241222193000 +0000" stop="20241222220000 +0000">
+	<programme channel="5639" start="20241222195500 +0000" stop="20241222223000 +0000">
 		<title>Rakshadhikari Baiju Oppu</title>
 		<desc>Baiju, a government worker, spends his time coaching the local boys in cricket. Release Year: 2017 Director: Ranjan Pramod Awards: 2018 Winner Kerala State Film Award - Best Film with Popular Appeal and Aesthetic Value - Ranjan Pramod director</desc>
 	</programme>
-	<programme channel="5639" start="20241222220000 +0000" stop="20241223003000 +0000">
+	<programme channel="5639" start="20241222223000 +0000" stop="20241223003000 +0000">
 		<title>Kabadi Kabadi</title>
-		<desc>Two stepbrothers compete, and their rivalry on the Kabaddi field intensifies when they fall in love with a girl.</desc>
+		<desc>Two stepbrothers compete, and their rivalry on the Kabaddi field intensifies when they fall in love with a girl. Release Year: 2008 Director: Sudheer Manu</desc>
 	</programme>
 	<programme channel="5639" start="20241223003000 +0000" stop="20241223013000 +0000">
 		<title>Chirikkum Thalika</title>
@@ -28148,7 +28156,7 @@ This series tells the story of the wealthy Qiu family who is left rudderless whe
 	</programme>
 	<programme channel="5639" start="20241223013000 +0000" stop="20241223043000 +0000">
 		<title>ABCD</title>
-		<desc>NRIs John and Korah are tricked into going to Kerala. They get into trouble there.</desc>
+		<desc>NRIs John and Korah are tricked into going to Kerala. They get into trouble there. Release Year: 2013 Director: Martin Prakkat</desc>
 	</programme>
 	<programme channel="5639" start="20241223043000 +0000" stop="20241223073000 +0000">
 		<title>Aattam</title>
@@ -28160,7 +28168,7 @@ This series tells the story of the wealthy Qiu family who is left rudderless whe
 	</programme>
 	<programme channel="5639" start="20241223103000 +0000" stop="20241223133000 +0000">
 		<title>Street Lights</title>
-		<desc>Here's an unmissable cops vs robbers story, with some unexpected twists and turns.</desc>
+		<desc>Here's an unmissable cops vs robbers story, with some unexpected twists and turns. Release Year: 2018 Director: Shamdat Sainudeen</desc>
 	</programme>
 	<programme channel="5639" start="20241223133000 +0000" stop="20241223133000 +0000">
 		<title>Varshangalkku Shesham</title>
