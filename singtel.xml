@@ -3942,7 +3942,7 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>World Cup | Day 1</desc>
 	</programme>
 	<programme channel="6116" start="20241225020000 +0000" stop="20241225030000 +0000">
-		<title>Engelberg | Men's HS 140</title>
+		<title>Engelberg | Men's HS 140 (Live)</title>
 		<desc>World Cup | Day 2</desc>
 	</programme>
 	<programme channel="6116" start="20241225030000 +0000" stop="20241225040000 +0000">
@@ -3986,7 +3986,7 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>World Cup | Day 1</desc>
 	</programme>
 	<programme channel="6116" start="20241225120000 +0000" stop="20241225130000 +0000">
-		<title>Engelberg | Men's HS 140</title>
+		<title>Engelberg | Men's HS 140 (Live)</title>
 		<desc>World Cup | Day 2</desc>
 	</programme>
 	<programme channel="6116" start="20241225130000 +0000" stop="20241225140000 +0000">
@@ -4566,11 +4566,11 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>ATP Tour 250 2024</desc>
 	</programme>
 	<programme channel="6127" start="20241224220000 +0000" stop="20241224233000 +0000">
-		<title>Next Gen ATP Finals 2024: Jeddah Day 1 Match 3 Episode 3</title>
+		<title>Next Gen ATP Finals 2024: Jeddah Day 1 Mensik v Tien Episode 3</title>
 		<desc>Next Gen ATP Finals 2024</desc>
 	</programme>
 	<programme channel="6127" start="20241224233000 +0000" stop="20241225010000 +0000">
-		<title>Next Gen ATP Finals 2024: Jeddah Day 1 Match 4 Episode 4</title>
+		<title>Next Gen ATP Finals 2024: Jeddah Day 1 Fils v Fonseca Episode 4</title>
 		<desc>Next Gen ATP Finals 2024</desc>
 	</programme>
 	<programme channel="6127" start="20241225010000 +0000" stop="20241225033000 +0000">
@@ -7403,23 +7403,23 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 	</programme>
 	<programme channel="5161" start="20241224161500 +0000" stop="20241224164500 +0000">
 		<title>Close up</title>
-		<desc>The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+		<desc>Cheap fashion jewelry is a booming business, but its shine hides a dark side. Workers endure starvation wages, and toxic materials in the jewelry endanger customers' health. This film uncovers the origins and production of these items.</desc>
 	</programme>
 	<programme channel="5161" start="20241224164500 +0000" stop="20241224170000 +0000">
 		<title>Reporter</title>
-		<desc>Reporter</desc>
+		<desc>Many Syrians are euphoric after the fall of the Assad regime, with some already returning from exile. What awaits those choosing to return home?</desc>
 	</programme>
 	<programme channel="5161" start="20241224170000 +0000" stop="20241224171500 +0000">
 		<title>DW News</title>
 		<desc>DW News</desc>
 	</programme>
 	<programme channel="5161" start="20241224171500 +0000" stop="20241224173000 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Best of DW-online Content</desc>
+		<title>Musica Maestra</title>
+		<desc>What's special about Dvořák‘s Symphony No. 8? The 8th Symphony is considered the most formally free of Antonín Dvořák's mature symphonies. Mexican conductor Alondra de la Parra is rehearsing Symphony No. 8 with the Münchner Symphoniker (Munich Symphony Orchestra). She discusses the work with musicians and experts, and performs it at the 2022 Tutzing Brahmstage music festival.</desc>
 	</programme>
 	<programme channel="5161" start="20241224173000 +0000" stop="20241224180000 +0000">
-		<title>REV</title>
-		<desc>REV</desc>
+		<title>DocFilm</title>
+		<desc>The Assad regime in Syria has fallen. More than 30,000 people have been freed from its prisons, but a further 100,000 remain missing. Families are desperately searching for their loved ones - including Hind Gharz al Deen, whose son Hussam is missing.</desc>
 	</programme>
 	<programme channel="5161" start="20241224180000 +0000" stop="20241224181500 +0000">
 		<title>DW News</title>
@@ -7435,19 +7435,19 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 	</programme>
 	<programme channel="5161" start="20241224190200 +0000" stop="20241224193000 +0000">
 		<title>Eco India</title>
-		<desc>Eco India</desc>
+		<desc>Living space for lions in Gujarat, treating retired circus elephants in Mathura, and leopards versus villagers in Kashmir. How to meet the challenges of changing human-animal habitats.</desc>
 	</programme>
 	<programme channel="5161" start="20241224193000 +0000" stop="20241224200000 +0000">
 		<title>Tomorrow Today</title>
-		<desc>Tomorrow Today</desc>
+		<desc>Why geologists study moon rocks / How do we know how old the moon is? / Why there is water on the moon, and how it can be extracted from moon dust / Viewer question: How do you become an astronaut?</desc>
 	</programme>
 	<programme channel="5161" start="20241224200000 +0000" stop="20241224203000 +0000">
 		<title>DW News</title>
 		<desc>DW News</desc>
 	</programme>
 	<programme channel="5161" start="20241224203000 +0000" stop="20241224210000 +0000">
-		<title>Eco Africa</title>
-		<desc>Eco Africa</desc>
+		<title>DocFilm</title>
+		<desc>The Assad regime in Syria has fallen. More than 30,000 people have been freed from its prisons, but a further 100,000 remain missing. Families are desperately searching for their loved ones - including Hind Gharz al Deen, whose son Hussam is missing.</desc>
 	</programme>
 	<programme channel="5161" start="20241224210000 +0000" stop="20241224211500 +0000">
 		<title>DW News</title>
@@ -7455,11 +7455,11 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 	</programme>
 	<programme channel="5161" start="20241224211500 +0000" stop="20241224214500 +0000">
 		<title>Close up</title>
-		<desc>The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+		<desc>Cheap fashion jewelry is a booming business, but its shine hides a dark side. Workers endure starvation wages, and toxic materials in the jewelry endanger customers' health. This film uncovers the origins and production of these items.</desc>
 	</programme>
 	<programme channel="5161" start="20241224214500 +0000" stop="20241224220000 +0000">
 		<title>Shift</title>
-		<desc>Shift</desc>
+		<desc>The Australian government will be the first to impose a social media ban for kids. But adults are also at risk, of excessive online shopping scams! Also on the show: How will technology impact art?</desc>
 	</programme>
 	<programme channel="5161" start="20241224220000 +0000" stop="20241224221500 +0000">
 		<title>DW News</title>
@@ -7474,24 +7474,24 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>DW News</desc>
 	</programme>
 	<programme channel="5161" start="20241224231500 +0000" stop="20241224233000 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Best of DW-online Content</desc>
+		<title>Musica Maestra</title>
+		<desc>What's special about Dvořák‘s Symphony No. 8? The 8th Symphony is considered the most formally free of Antonín Dvořák's mature symphonies. Mexican conductor Alondra de la Parra is rehearsing Symphony No. 8 with the Münchner Symphoniker (Munich Symphony Orchestra). She discusses the work with musicians and experts, and performs it at the 2022 Tutzing Brahmstage music festival.</desc>
 	</programme>
 	<programme channel="5161" start="20241224233000 +0000" stop="20241225000000 +0000">
 		<title>Global Us</title>
-		<desc>Global Us</desc>
+		<desc>What if everyone had equal opportunities, regardless of gender, race, or disabilities? Inclusion is a human right. We meet a New Yorker who faces hurdles daily, trans people in India who experience rejection, and an inventor who's changing lives.</desc>
 	</programme>
 	<programme channel="5161" start="20241225000000 +0000" stop="20241225001500 +0000">
 		<title>DW News</title>
 		<desc>DW News</desc>
 	</programme>
 	<programme channel="5161" start="20241225001500 +0000" stop="20241225003000 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Best of DW-online Content</desc>
+		<title>Musica Maestra</title>
+		<desc>What's special about Dvořák‘s Symphony No. 8? The 8th Symphony is considered the most formally free of Antonín Dvořák's mature symphonies. Mexican conductor Alondra de la Parra is rehearsing Symphony No. 8 with the Münchner Symphoniker (Munich Symphony Orchestra). She discusses the work with musicians and experts, and performs it at the 2022 Tutzing Brahmstage music festival.</desc>
 	</programme>
 	<programme channel="5161" start="20241225003000 +0000" stop="20241225010000 +0000">
 		<title>Made in Germany</title>
-		<desc>Made in Germany</desc>
+		<desc>With the global race for AI intensifying, how is Europe faring? Who builds the best cognitive robots? Will AI destroy jobs, and where does all the technology's energy come from? Is AI always right? And what are the prospects for autonomous air taxis?</desc>
 	</programme>
 	<programme channel="5161" start="20241225010000 +0000" stop="20241225011500 +0000">
 		<title>DW News</title>
@@ -7506,24 +7506,24 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>DW News</desc>
 	</programme>
 	<programme channel="5161" start="20241225021500 +0000" stop="20241225023000 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Best of DW-online Content</desc>
+		<title>Musica Maestra</title>
+		<desc>Is Johannes Brahms' second symphony his most cheerful orchestral work? Mexican conductor Alondra de la Parra performs it with the Munich Symphony Orchestra at the 2022 Tutzing Brahmstage festival. During rehearsals, she discusses the famous work with musicians and experts.</desc>
 	</programme>
 	<programme channel="5161" start="20241225023000 +0000" stop="20241225030000 +0000">
 		<title>Global Us</title>
-		<desc>Global Us</desc>
+		<desc>What if everyone had equal opportunities, regardless of gender, race, or disabilities? Inclusion is a human right. We meet a New Yorker who faces hurdles daily, trans people in India who experience rejection, and an inventor who's changing lives.</desc>
 	</programme>
 	<programme channel="5161" start="20241225030000 +0000" stop="20241225031500 +0000">
 		<title>DW News</title>
 		<desc>DW News</desc>
 	</programme>
 	<programme channel="5161" start="20241225031500 +0000" stop="20241225033000 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Best of DW-online Content</desc>
+		<title>Musica Maestra</title>
+		<desc>What's special about Dvořák‘s Symphony No. 8? The 8th Symphony is considered the most formally free of Antonín Dvořák's mature symphonies. Mexican conductor Alondra de la Parra is rehearsing Symphony No. 8 with the Münchner Symphoniker (Munich Symphony Orchestra). She discusses the work with musicians and experts, and performs it at the 2022 Tutzing Brahmstage music festival.</desc>
 	</programme>
 	<programme channel="5161" start="20241225033000 +0000" stop="20241225040000 +0000">
 		<title>Eco Africa</title>
-		<desc>Eco Africa</desc>
+		<desc>Recycling scrap metal to stop pollution in Burundi; green architecture in Ivory Coast; unlocking the climate secrets of jellyfish in the South Atlantic; and a remarkable woman and her sustainable garden in Niger.</desc>
 	</programme>
 	<programme channel="5161" start="20241225040000 +0000" stop="20241225041500 +0000">
 		<title>DW News</title>
@@ -7538,24 +7538,24 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>DW News</desc>
 	</programme>
 	<programme channel="5161" start="20241225051500 +0000" stop="20241225053000 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Best of DW-online Content</desc>
+		<title>Musica Maestra</title>
+		<desc>Is Johannes Brahms' second symphony his most cheerful orchestral work? Mexican conductor Alondra de la Parra performs it with the Munich Symphony Orchestra at the 2022 Tutzing Brahmstage festival. During rehearsals, she discusses the famous work with musicians and experts.</desc>
 	</programme>
 	<programme channel="5161" start="20241225053000 +0000" stop="20241225060000 +0000">
 		<title>Made in Germany</title>
-		<desc>Made in Germany</desc>
+		<desc>With the global race for AI intensifying, how is Europe faring? Who builds the best cognitive robots? Will AI destroy jobs, and where does all the technology's energy come from? Is AI always right? And what are the prospects for autonomous air taxis?</desc>
 	</programme>
 	<programme channel="5161" start="20241225060000 +0000" stop="20241225061500 +0000">
 		<title>DW News</title>
 		<desc>DW News</desc>
 	</programme>
 	<programme channel="5161" start="20241225061500 +0000" stop="20241225063000 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Best of DW-online Content</desc>
+		<title>Musica Maestra</title>
+		<desc>What's special about Dvořák‘s Symphony No. 8? The 8th Symphony is considered the most formally free of Antonín Dvořák's mature symphonies. Mexican conductor Alondra de la Parra is rehearsing Symphony No. 8 with the Münchner Symphoniker (Munich Symphony Orchestra). She discusses the work with musicians and experts, and performs it at the 2022 Tutzing Brahmstage music festival.</desc>
 	</programme>
 	<programme channel="5161" start="20241225063000 +0000" stop="20241225070000 +0000">
 		<title>In Good Shape</title>
-		<desc>In Good Shape</desc>
+		<desc>Worldwide, one in every four people will develop cancer in the course of their lifetimes. Yet more people than ever are beating the disease or learning to live with it. New therapies and drugs are giving hope to those affected.</desc>
 	</programme>
 	<programme channel="5161" start="20241225070000 +0000" stop="20241225071500 +0000">
 		<title>DW News</title>
@@ -7570,12 +7570,12 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>DW News</desc>
 	</programme>
 	<programme channel="5161" start="20241225081500 +0000" stop="20241225083000 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Best of DW-online Content</desc>
+		<title>Musica Maestra</title>
+		<desc>Is Johannes Brahms' second symphony his most cheerful orchestral work? Mexican conductor Alondra de la Parra performs it with the Munich Symphony Orchestra at the 2022 Tutzing Brahmstage festival. During rehearsals, she discusses the famous work with musicians and experts.</desc>
 	</programme>
 	<programme channel="5161" start="20241225083000 +0000" stop="20241225090000 +0000">
 		<title>Eco India</title>
-		<desc>Eco India</desc>
+		<desc>Living space for lions in Gujarat, treating retired circus elephants in Mathura, and leopards versus villagers in Kashmir. How to meet the challenges of changing human-animal habitats.</desc>
 	</programme>
 	<programme channel="5161" start="20241225090000 +0000" stop="20241225091500 +0000">
 		<title>DW News</title>
@@ -7590,24 +7590,24 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>DW News</desc>
 	</programme>
 	<programme channel="5161" start="20241225101500 +0000" stop="20241225103000 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Best of DW-online Content</desc>
+		<title>Musica Maestra</title>
+		<desc>Is Johannes Brahms' second symphony his most cheerful orchestral work? Mexican conductor Alondra de la Parra performs it with the Munich Symphony Orchestra at the 2022 Tutzing Brahmstage festival. During rehearsals, she discusses the famous work with musicians and experts.</desc>
 	</programme>
 	<programme channel="5161" start="20241225103000 +0000" stop="20241225110000 +0000">
 		<title>Close up</title>
-		<desc>The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+		<desc>Cheap fashion jewelry is a booming business, but its shine hides a dark side. Workers endure starvation wages, and toxic materials in the jewelry endanger customers' health. This film uncovers the origins and production of these items.</desc>
 	</programme>
 	<programme channel="5161" start="20241225110000 +0000" stop="20241225111500 +0000">
 		<title>DW News</title>
 		<desc>DW News</desc>
 	</programme>
 	<programme channel="5161" start="20241225111500 +0000" stop="20241225113000 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Best of DW-online Content</desc>
+		<title>Musica Maestra</title>
+		<desc>Antonín Dvořák's 9th Symphony "From the New World” is his most famous. But why? Mexican conductor Alondra de la Parra performs it with the Münchner Symphoniker (Munich Symphony Orchestra) at the 2022 Tutzing Brahmstage festival. During rehearsals, she discusses the famous work with musicians and experts.</desc>
 	</programme>
 	<programme channel="5161" start="20241225113000 +0000" stop="20241225120000 +0000">
 		<title>Made in Germany</title>
-		<desc>Made in Germany</desc>
+		<desc>With the global race for AI intensifying, how is Europe faring? Who builds the best cognitive robots? Will AI destroy jobs, and where does all the technology's energy come from? Is AI always right? And what are the prospects for autonomous air taxis?</desc>
 	</programme>
 	<programme channel="5161" start="20241225120000 +0000" stop="20241225121500 +0000">
 		<title>DW News</title>
@@ -7622,32 +7622,32 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>DW News</desc>
 	</programme>
 	<programme channel="5161" start="20241225131500 +0000" stop="20241225133000 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Best of DW-online Content</desc>
+		<title>Musica Maestra</title>
+		<desc>Is Johannes Brahms' second symphony his most cheerful orchestral work? Mexican conductor Alondra de la Parra performs it with the Munich Symphony Orchestra at the 2022 Tutzing Brahmstage festival. During rehearsals, she discusses the famous work with musicians and experts.</desc>
 	</programme>
 	<programme channel="5161" start="20241225133000 +0000" stop="20241225140000 +0000">
 		<title>Eco Africa</title>
-		<desc>Eco Africa</desc>
+		<desc>Recycling scrap metal to stop pollution in Burundi; green architecture in Ivory Coast; unlocking the climate secrets of jellyfish in the South Atlantic; and a remarkable woman and her sustainable garden in Niger.</desc>
 	</programme>
 	<programme channel="5161" start="20241225140000 +0000" stop="20241225141500 +0000">
 		<title>DW News</title>
 		<desc>DW News</desc>
 	</programme>
 	<programme channel="5161" start="20241225141500 +0000" stop="20241225143000 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Best of DW-online Content</desc>
+		<title>Musica Maestra</title>
+		<desc>Antonín Dvořák's 9th Symphony "From the New World” is his most famous. But why? Mexican conductor Alondra de la Parra performs it with the Münchner Symphoniker (Munich Symphony Orchestra) at the 2022 Tutzing Brahmstage festival. During rehearsals, she discusses the famous work with musicians and experts.</desc>
 	</programme>
 	<programme channel="5161" start="20241225143000 +0000" stop="20241225150000 +0000">
 		<title>Made in Germany</title>
-		<desc>Made in Germany</desc>
+		<desc>With the global race for AI intensifying, how is Europe faring? Who builds the best cognitive robots? Will AI destroy jobs, and where does all the technology's energy come from? Is AI always right? And what are the prospects for autonomous air taxis?</desc>
 	</programme>
 	<programme channel="5161" start="20241225150000 +0000" stop="20241225151500 +0000">
 		<title>DW News</title>
 		<desc>DW News</desc>
 	</programme>
 	<programme channel="5161" start="20241225151500 +0000" stop="20241225153000 +0000">
-		<title>Best of DW-online Content</title>
-		<desc>Best of DW-online Content</desc>
+		<title>Musica Maestra</title>
+		<desc>Is Johannes Brahms' second symphony his most cheerful orchestral work? Mexican conductor Alondra de la Parra performs it with the Munich Symphony Orchestra at the 2022 Tutzing Brahmstage festival. During rehearsals, she discusses the famous work with musicians and experts.</desc>
 	</programme>
 	<programme channel="5165" start="20241223160000 +0000" stop="20241223170000 +0000">
 		<title>The Faulkner Focus Fox News Live</title>
@@ -29209,91 +29209,95 @@ Ken主理的飯食將蟹粉融入煎飯，配上海膽與蟶子，每一口滲�
 	</programme>
 	<programme channel="5652" start="20241224160000 +0000" stop="20241224163000 +0000">
 		<title>Appollena - Sapno Ki Unchi Udann Episode 21</title>
-		<desc>Apollena, who hails from Lucknow, aspires to become India's first female astronaut even as societal barriers, her academic setbacks and her father's imprisonment threaten to crush her dreams.</desc>
+		<desc>Apollena claims to her aunt that she can do Sangita's makeup better than anyone. Later, Apollena becomes anxious after receiving a text from a renowned space research organisation.</desc>
 	</programme>
 	<programme channel="5652" start="20241224163000 +0000" stop="20241224170000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 99</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Durga makes a vow to herself to take strict actions against Suhani and her friends. Meanwhile, Vikram tells Durga to leave her house.</desc>
 	</programme>
 	<programme channel="5652" start="20241224170000 +0000" stop="20241224173000 +0000">
 		<title>Parineetii Episode 973</title>
-		<desc>Two best friends who support each other through thick and thin face a problem when circumstance causes both of them to get married to the same man.</desc>
+		<desc>Parineet realizes Rakesh is posing as Rajeev during the wedding rituals. Meanwhile, Neeti and Rajeev gain consciousness after the incident.</desc>
 	</programme>
 	<programme channel="5652" start="20241224173000 +0000" stop="20241224180000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 547</title>
-		<desc>Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity.</desc>
+		<desc>Kartikeya sets Indradev on fire after he insults Lord Shiva in front of him. Later, Andhakasura sees a cunning opportunity to attack Lord Shiva.</desc>
 	</programme>
 	<programme channel="5652" start="20241224180000 +0000" stop="20241224183000 +0000">
 		<title>Suman Indori Episode 112</title>
-		<desc>Forced by fate to marry a rich, shrewd politician, Suman embraces obstacles adjusting to her new life while dealing with her sister-in-law who seeks to become the head of the household.</desc>
+		<desc>Suman suspects Teerth and his family is hiding something from her. Meanwhile, Chandrakant hides the divorce case away from Suman.</desc>
 	</programme>
 	<programme channel="5652" start="20241224183000 +0000" stop="20241224190000 +0000">
 		<title>Appollena - Sapno Ki Unchi Udann Episode 21</title>
-		<desc>Apollena, who hails from Lucknow, aspires to become India's first female astronaut even as societal barriers, her academic setbacks and her father's imprisonment threaten to crush her dreams.</desc>
+		<desc>Apollena claims to her aunt that she can do Sangita's makeup better than anyone. Later, Apollena becomes anxious after receiving a text from a renowned space research organisation.</desc>
 	</programme>
 	<programme channel="5652" start="20241224190000 +0000" stop="20241224193000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 547</title>
-		<desc>Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity.</desc>
+		<desc>Kartikeya sets Indradev on fire after he insults Lord Shiva in front of him. Later, Andhakasura sees a cunning opportunity to attack Lord Shiva.</desc>
 	</programme>
 	<programme channel="5652" start="20241224193000 +0000" stop="20241224203000 +0000">
 		<title>Mangal Lakshmi Episode 300</title>
-		<desc>Mangal searches for a perfect husband for her sister, Lakshmi, revealing the enduring strength of sisterhood and the power of destiny over this journey.</desc>
+		<desc>After realizing no lawyer would be ready to defend Kartik's case, Lakshmi, finds out about Raghuveer. Later, Raghuveer refuses to take her case.</desc>
 	</programme>
 	<programme channel="5652" start="20241224203000 +0000" stop="20241224210000 +0000">
 		<title>Suman Indori Episode 112</title>
-		<desc>Forced by fate to marry a rich, shrewd politician, Suman embraces obstacles adjusting to her new life while dealing with her sister-in-law who seeks to become the head of the household.</desc>
+		<desc>Suman suspects Teerth and his family is hiding something from her. Meanwhile, Chandrakant hides the divorce case away from Suman.</desc>
 	</programme>
 	<programme channel="5652" start="20241224210000 +0000" stop="20241224213000 +0000">
 		<title>Parineetii Episode 973</title>
-		<desc>Two best friends who support each other through thick and thin face a problem when circumstance causes both of them to get married to the same man.</desc>
+		<desc>Parineet realizes Rakesh is posing as Rajeev during the wedding rituals. Meanwhile, Neeti and Rajeev gain consciousness after the incident.</desc>
 	</programme>
 	<programme channel="5652" start="20241224213000 +0000" stop="20241224220000 +0000">
 		<title>Megha Barsenge Episode 140</title>
-		<desc>After a groom absconds from his wedding, his bride is left at the mercy of her sentiments of abandonment and to endure a judgemental societal structure.</desc>
+		<desc>The Navjots complains to Megha's family about hiding her pregnancy before marriage. Later, Shagun inquires Megha about her decision to hide the truth.</desc>
 	</programme>
-	<programme channel="5652" start="20241224220000 +0000" stop="20241224223000 +0000">
-		<title>Shiv Shakti: Tap Tyaag Taandav Episode 547</title>
-		<desc>Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity.</desc>
-	</programme>
-	<programme channel="5652" start="20241224223000 +0000" stop="20241224230000 +0000">
-		<title>Suman Indori Episode 112</title>
-		<desc>Forced by fate to marry a rich, shrewd politician, Suman embraces obstacles adjusting to her new life while dealing with her sister-in-law who seeks to become the head of the household.</desc>
-	</programme>
-	<programme channel="5652" start="20241224230000 +0000" stop="20241224233000 +0000">
-		<title>Parineetii Episode 973</title>
-		<desc>Two best friends who support each other through thick and thin face a problem when circumstance causes both of them to get married to the same man.</desc>
-	</programme>
-	<programme channel="5652" start="20241224233000 +0000" stop="20241225000000 +0000">
+	<programme channel="5652" start="20241224220000 +0000" stop="20241224222000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 99</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Durga makes a vow to herself to take strict actions against Suhani and her friends. Meanwhile, Vikram tells Durga to leave her house.</desc>
 	</programme>
-	<programme channel="5652" start="20241225000000 +0000" stop="20241225010000 +0000">
-		<title>Mangal Lakshmi Episode 300</title>
-		<desc>Mangal searches for a perfect husband for her sister, Lakshmi, revealing the enduring strength of sisterhood and the power of destiny over this journey.</desc>
+	<programme channel="5652" start="20241224222000 +0000" stop="20241224225000 +0000">
+		<title>Shiv Shakti: Tap Tyaag Taandav Episode 547</title>
+		<desc>Kartikeya sets Indradev on fire after he insults Lord Shiva in front of him. Later, Andhakasura sees a cunning opportunity to attack Lord Shiva.</desc>
 	</programme>
-	<programme channel="5652" start="20241225010000 +0000" stop="20241225013000 +0000">
+	<programme channel="5652" start="20241224225000 +0000" stop="20241224231500 +0000">
 		<title>Suman Indori Episode 112</title>
-		<desc>Forced by fate to marry a rich, shrewd politician, Suman embraces obstacles adjusting to her new life while dealing with her sister-in-law who seeks to become the head of the household.</desc>
+		<desc>Suman suspects Teerth and his family is hiding something from her. Meanwhile, Chandrakant hides the divorce case away from Suman.</desc>
+	</programme>
+	<programme channel="5652" start="20241224231500 +0000" stop="20241224234500 +0000">
+		<title>Parineetii Episode 973</title>
+		<desc>Parineet realizes Rakesh is posing as Rajeev during the wedding rituals. Meanwhile, Neeti and Rajeev gain consciousness after the incident.</desc>
+	</programme>
+	<programme channel="5652" start="20241224234500 +0000" stop="20241225001500 +0000">
+		<title>Durga - Atut Prem Kahani Episode 99</title>
+		<desc>Durga makes a vow to herself to take strict actions against Suhani and her friends. Meanwhile, Vikram tells Durga to leave her house.</desc>
+	</programme>
+	<programme channel="5652" start="20241225001500 +0000" stop="20241225010500 +0000">
+		<title>Mangal Lakshmi Episode 300</title>
+		<desc>After realizing no lawyer would be ready to defend Kartik's case, Lakshmi, finds out about Raghuveer. Later, Raghuveer refuses to take her case.</desc>
+	</programme>
+	<programme channel="5652" start="20241225010500 +0000" stop="20241225013000 +0000">
+		<title>Suman Indori Episode 112</title>
+		<desc>Suman suspects Teerth and his family is hiding something from her. Meanwhile, Chandrakant hides the divorce case away from Suman.</desc>
 	</programme>
 	<programme channel="5652" start="20241225013000 +0000" stop="20241225020000 +0000">
 		<title>Appollena - Sapno Ki Unchi Udann Episode 21</title>
-		<desc>Apollena, who hails from Lucknow, aspires to become India's first female astronaut even as societal barriers, her academic setbacks and her father's imprisonment threaten to crush her dreams.</desc>
+		<desc>Apollena claims to her aunt that she can do Sangita's makeup better than anyone. Later, Apollena becomes anxious after receiving a text from a renowned space research organisation.</desc>
 	</programme>
 	<programme channel="5652" start="20241225020000 +0000" stop="20241225023000 +0000">
 		<title>Megha Barsenge Episode 140</title>
-		<desc>After a groom absconds from his wedding, his bride is left at the mercy of her sentiments of abandonment and to endure a judgemental societal structure.</desc>
+		<desc>The Navjots complains to Megha's family about hiding her pregnancy before marriage. Later, Shagun inquires Megha about her decision to hide the truth.</desc>
 	</programme>
 	<programme channel="5652" start="20241225023000 +0000" stop="20241225030000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 547</title>
-		<desc>Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity.</desc>
+		<desc>Kartikeya sets Indradev on fire after he insults Lord Shiva in front of him. Later, Andhakasura sees a cunning opportunity to attack Lord Shiva.</desc>
 	</programme>
 	<programme channel="5652" start="20241225030000 +0000" stop="20241225033000 +0000">
 		<title>Suman Indori Episode 112</title>
-		<desc>Forced by fate to marry a rich, shrewd politician, Suman embraces obstacles adjusting to her new life while dealing with her sister-in-law who seeks to become the head of the household.</desc>
+		<desc>Suman suspects Teerth and his family is hiding something from her. Meanwhile, Chandrakant hides the divorce case away from Suman.</desc>
 	</programme>
 	<programme channel="5652" start="20241225033000 +0000" stop="20241225040000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 99</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Durga makes a vow to herself to take strict actions against Suhani and her friends. Meanwhile, Vikram tells Durga to leave her house.</desc>
 	</programme>
 	<programme channel="5652" start="20241225040000 +0000" stop="20241225043000 +0000">
 		<title>Appollena - Sapno Ki Unchi Udann Episode 22</title>
@@ -29325,11 +29329,11 @@ Ken主理的飯食將蟹粉融入煎飯，配上海膽與蟶子，每一口滲�
 	</programme>
 	<programme channel="5652" start="20241225080000 +0000" stop="20241225093000 +0000">
 		<title>Bigg Boss Episode 78</title>
-		<desc>As Bigg Boss delves into the future of the contestants with the cataclysm of technology, the housemates try to conquer 'Time Ka Tandav', and emerge victorious in a locked house in BB's surveillance.</desc>
+		<desc>After Digvijay's elimination, things get heated up as Vivian accuses Shilpa of being fake, while Shilpa calls Vivian out for playing the victim card.</desc>
 	</programme>
 	<programme channel="5652" start="20241225093000 +0000" stop="20241225100000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 99</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Durga makes a vow to herself to take strict actions against Suhani and her friends. Meanwhile, Vikram tells Durga to leave her house.</desc>
 	</programme>
 	<programme channel="5652" start="20241225100000 +0000" stop="20241225103000 +0000">
 		<title>Appollena - Sapno Ki Unchi Udann Episode 22</title>
