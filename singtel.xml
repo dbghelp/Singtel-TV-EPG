@@ -3922,11 +3922,11 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<title>PSA World Tour 2023/24: British Open Squash 2024 Episode 2</title>
 		<desc>The 2024 British Open, one of the most prestigious events on the PSA World Tour, showcased high-caliber squash, intense competition, and remarkable sportsmanship.</desc>
 	</programme>
-	<programme channel="6114" start="20241226180000 +0000" stop="20241226233000 +0000">
+	<programme channel="6114" start="20241226180000 +0000" stop="20241226232500 +0000">
 		<title>HSBC BWF WTS 500 TOYOTA Thailand Open 2024 Episode 3</title>
 		<desc>The HSBC BWF World Tour attracts the world's elite badminton players in competing for prize money and world ranking points in 30 four-tiered tournaments, culminating in the World Tour Finals in December.</desc>
 	</programme>
-	<programme channel="6114" start="20241226233000 +0000" stop="20241227040000 +0000">
+	<programme channel="6114" start="20241226232500 +0000" stop="20241227040000 +0000">
 		<title>2024 MGM Macau Tennis Masters</title>
 		<desc>The 2024 MGM Macau Tennis Masters is Asia's first mixed-gender team-format tennis tournament, showcasing top ATP and WTA players.</desc>
 	</programme>
@@ -3962,11 +3962,15 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<title>2024 BWF Badminton Unlimited</title>
 		<desc>Catch up on all the latest news and information from the world of badminton.</desc>
 	</programme>
-	<programme channel="6114" start="20241227180000 +0000" stop="20241228003000 +0000">
+	<programme channel="6114" start="20241227180000 +0000" stop="20241228000000 +0000">
 		<title>HSBC BWF WTS 1000 Indonesia Open 2024</title>
 		<desc>The HSBC BWF World Tour attracts the world's elite badminton players in competing for prize money and world ranking points in 30 four-tiered tournaments, culminating in the World Tour Finals in December.</desc>
 	</programme>
-	<programme channel="6114" start="20241228003000 +0000" stop="20241228063000 +0000">
+	<programme channel="6114" start="20241228000000 +0000" stop="20241228002500 +0000">
+		<title>HSBC BWF World Tour Finals 2024 HANGZHOU Episode 3</title>
+		<desc>The HSBC BWF World Tour attracts the world's elite badminton players in competing for prize money and world ranking points in 30 four-tiered tournaments, culminating in the World Tour Finals in December.</desc>
+	</programme>
+	<programme channel="6114" start="20241228002500 +0000" stop="20241228063000 +0000">
 		<title>HSBC BWF WTS 750 DAIHATSU Japan Open 2024 Episode 3</title>
 		<desc>The HSBC BWF World Tour attracts the world's elite badminton players in competing for prize money and world ranking points in 30 four-tiered tournaments, culminating in the World Tour Finals in December.</desc>
 	</programme>
@@ -19962,7 +19966,7 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<desc>绝对精彩的美食节目。看后保证让您垂涎三尺！</desc>
 	</programme>
 	<programme channel="6507" start="20241227040000 +0000" stop="20241227060000 +0000">
-		<title>FOCUS 世界新闻 / Focus World News</title>
+		<title>FOCUS世界新闻 / Focus World News</title>
 		<desc>聚焦国际与台湾重点新闻，提供观众最新最深入的国际与台湾新闻。</desc>
 	</programme>
 	<programme channel="6507" start="20241227060000 +0000" stop="20241227070000 +0000">
@@ -20082,7 +20086,7 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<desc>寓教于乐的大型综艺节目「天才冲冲冲」，由徐乃麟、曾国城连袂主持。</desc>
 	</programme>
 	<programme channel="6507" start="20241228130000 +0000" stop="20241228140000 +0000">
-		<title>TVBS文茜的世界周报-亚洲版 / TVBS Sisy's World News Asia</title>
+		<title>TVBS文茜的世界周报 / TVBS Sisy's World News</title>
 		<desc>无论是财经议题、国际政治局势，还是世界脉动，主持人陈文茜将提供更多元的角度与新观点。</desc>
 	</programme>
 	<programme channel="6507" start="20241228140000 +0000" stop="20241228150000 +0000">
@@ -20921,8 +20925,8 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<desc>瞭解本日最重要新聞</desc>
 	</programme>
 	<programme channel="6516" start="20241228130000 +0000" stop="20241228140000 +0000">
-		<title>九点热话题 / 2100 HOT TOPICS</title>
-		<desc>帶您關注台灣與全球的新聞焦點</desc>
+		<title>2024 大事记 全球国际 / 2024 GLOBAL YEAR IN REVIEW</title>
+		<desc>2024 GLOBAL YEAR IN REVIEW</desc>
 	</programme>
 	<programme channel="6516" start="20241228140000 +0000" stop="20241228150000 +0000">
 		<title>十点不一样 / NEWS NIGHT</title>
@@ -27521,7 +27525,7 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<desc>Lallan-a stray dog who lives around a house with 4 other Pets &amp; sneaks into the house for food, water &amp; shelter.The 4 pets' sole mission is to keep this stray dog away from them and the family</desc>
 	</programme>
 	<programme channel="5632" start="20241226160000 +0000" stop="20241226163000 +0000">
-		<title>Zee Flix Episode 673</title>
+		<title>Zee Flix Episode 674</title>
 		<desc>Tune in for best movie scenes.</desc>
 	</programme>
 	<programme channel="5632" start="20241226163000 +0000" stop="20241226170000 +0000">
@@ -27529,7 +27533,7 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<desc>Shakti's unwavering love aims to heal Shiv's broken soul, while Shiv strives to transform Shakti into a great doctor. Their journey is filled with hope and dedication.</desc>
 	</programme>
 	<programme channel="5632" start="20241226170000 +0000" stop="20241226173000 +0000">
-		<title>Ninaithale Inikkum Episode 1130</title>
+		<title>Ninaithale Inikkum Episode 1129</title>
 		<desc>Meet a determined girl with big dreams of becoming a successful businesswoman. Follow her journey as she navigates challenges, pursues her passions, and learns what it takes to succeed.</desc>
 	</programme>
 	<programme channel="5632" start="20241226173000 +0000" stop="20241226180000 +0000">
@@ -27541,11 +27545,11 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<desc>It is the story of Valli, who is rejected by her father Rathinavel because of her mother's deceit. Determined to prove her mother's innocence, she seeks help from Kadhirvelan to win his love.</desc>
 	</programme>
 	<programme channel="5632" start="20241226183000 +0000" stop="20241226190000 +0000">
-		<title>Karthigai Deepam Episode 702</title>
+		<title>Karthigai Deepam Episode 698</title>
 		<desc>A gifted dark-skinned woman, a remarkable singer, marries a supportive man, defies beauty norms, and achieves music stardom with her talent.</desc>
 	</programme>
 	<programme channel="5632" start="20241226190000 +0000" stop="20241226193000 +0000">
-		<title>Nenjathai Killadhe Episode 136</title>
+		<title>Nenjathai Killadhe Episode 132</title>
 		<desc>Story of Goutham, an overweight businessman, who marries Mathumitha, an educated woman from a middle-class background. Though older, will their arranged marriage lead to love?</desc>
 	</programme>
 	<programme channel="5632" start="20241226193000 +0000" stop="20241226200000 +0000">
@@ -27561,7 +27565,7 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<desc>Thulasi, married to the thug Sethu, meets Siva, who loses his memory.Mistaken for his wife, she pretends to be, but as Sethu searches for her, she falls in love with Siva.</desc>
 	</programme>
 	<programme channel="5632" start="20241226210000 +0000" stop="20241226213000 +0000">
-		<title>Ninaithale Inikkum Episode 1130</title>
+		<title>Ninaithale Inikkum Episode 1129</title>
 		<desc>Meet a determined girl with big dreams of becoming a successful businesswoman. Follow her journey as she navigates challenges, pursues her passions, and learns what it takes to succeed.</desc>
 	</programme>
 	<programme channel="5632" start="20241226213000 +0000" stop="20241226220000 +0000">
@@ -27569,7 +27573,7 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<desc>Aadhya, after losing her mother, is cared for by her aunt Janaki, who must balance Aadhya's urban lifestyle with her family's disapproval. Can Janaki provide the life Aadhya deserves?</desc>
 	</programme>
 	<programme channel="5632" start="20241226220000 +0000" stop="20241226223000 +0000">
-		<title>Karthigai Deepam Episode 702</title>
+		<title>Karthigai Deepam Episode 698</title>
 		<desc>A gifted dark-skinned woman, a remarkable singer, marries a supportive man, defies beauty norms, and achieves music stardom with her talent.</desc>
 	</programme>
 	<programme channel="5632" start="20241226223000 +0000" stop="20241226230000 +0000">
@@ -27585,23 +27589,23 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<desc>Tells the story of Rasathi, a spunky, overweight girl who faces body shaming. She is married to a celebrated Kabbadi player, leading to a journey of self-acceptance and love.</desc>
 	</programme>
 	<programme channel="5632" start="20241227000000 +0000" stop="20241227003000 +0000">
-		<title>Sembaruthi Episode 206</title>
-		<desc>The show will explore mindset and class conflict of two different personalities 'Akhilandeshwari ' and 'Parvathi'. Office Karthik and DJD Kathir are playing the lead roles in this Fiction</desc>
-	</programme>
-	<programme channel="5632" start="20241227003000 +0000" stop="20241227010000 +0000">
 		<title>Sembaruthi Episode 207</title>
 		<desc>The show will explore mindset and class conflict of two different personalities 'Akhilandeshwari ' and 'Parvathi'. Office Karthik and DJD Kathir are playing the lead roles in this Fiction</desc>
 	</programme>
+	<programme channel="5632" start="20241227003000 +0000" stop="20241227010000 +0000">
+		<title>Sembaruthi Episode 208</title>
+		<desc>The show will explore mindset and class conflict of two different personalities 'Akhilandeshwari ' and 'Parvathi'. Office Karthik and DJD Kathir are playing the lead roles in this Fiction</desc>
+	</programme>
 	<programme channel="5632" start="20241227010000 +0000" stop="20241227013000 +0000">
-		<title>Thirumathi Hitler Episode 153</title>
+		<title>Thirumathi Hitler Episode 169</title>
 		<desc>It's a drama-comedy series about AJ, a perfectionist, and Hasini, a challenge-loving woman. The plot revolves around their marriage, with the help of AJ's three daughters-in-law.</desc>
 	</programme>
 	<programme channel="5632" start="20241227013000 +0000" stop="20241227023000 +0000">
-		<title>Genes S02 Episode 31</title>
+		<title>Genes S02 Episode 47</title>
 		<desc>'Genes' is a fun show where celebrities dive into their genetic roots, connecting with real families by uncovering their surprising genetic similarities. It's all about discovering your hidden connections!</desc>
 	</programme>
 	<programme channel="5632" start="20241227023000 +0000" stop="20241227030000 +0000">
-		<title>Nenjathai Killadhe Episode 135</title>
+		<title>Nenjathai Killadhe Episode 132</title>
 		<desc>Story of Goutham, an overweight businessman, who marries Mathumitha, an educated woman from a middle-class background. Though older, will their arranged marriage lead to love?</desc>
 	</programme>
 	<programme channel="5632" start="20241227030000 +0000" stop="20241227060000 +0000">
@@ -27629,7 +27633,7 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<desc>It is the story of Valli, who is rejected by her father Rathinavel because of her mother's deceit. Determined to prove her mother's innocence, she seeks help from Kadhirvelan to win his love.</desc>
 	</programme>
 	<programme channel="5632" start="20241227083000 +0000" stop="20241227090000 +0000">
-		<title>Ninaithale Inikkum Episode 1131</title>
+		<title>Ninaithale Inikkum Episode 1130</title>
 		<desc>Meet a determined girl with big dreams of becoming a successful businesswoman. Follow her journey as she navigates challenges, pursues her passions, and learns what it takes to succeed.</desc>
 	</programme>
 	<programme channel="5632" start="20241227090000 +0000" stop="20241227093000 +0000">
@@ -27649,7 +27653,7 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<desc>Devastated by his wife Indhumathi's death, Ezhil finds solace when Sudarvizhi, a simple village girl, steps in to care for his children.</desc>
 	</programme>
 	<programme channel="5632" start="20241227110000 +0000" stop="20241227113000 +0000">
-		<title>Nenjathai Killadhe Episode 137</title>
+		<title>Nenjathai Killadhe Episode 133</title>
 		<desc>Story of Goutham, an overweight businessman, who marries Mathumitha, an educated woman from a middle-class background. Though older, will their arranged marriage lead to love?</desc>
 	</programme>
 	<programme channel="5632" start="20241227113000 +0000" stop="20241227120000 +0000">
@@ -27657,7 +27661,7 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<desc>When a caring brother discovers the evil guy tormenting his estranged sister, he springs into action to confront the villain and help turn her life around for the better.</desc>
 	</programme>
 	<programme channel="5632" start="20241227120000 +0000" stop="20241227123000 +0000">
-		<title>Karthigai Deepam Episode 703</title>
+		<title>Karthigai Deepam Episode 699</title>
 		<desc>A gifted dark-skinned woman, a remarkable singer, marries a supportive man, defies beauty norms, and achieves music stardom with her talent.</desc>
 	</programme>
 	<programme channel="5632" start="20241227123000 +0000" stop="20241227130000 +0000">
@@ -27681,8 +27685,8 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<desc>Konjam Coffee Konjam Cinema - Comedy and action scenes from your favourite stars' movies.</desc>
 	</programme>
 	<programme channel="5632" start="20241227150000 +0000" stop="20241227153000 +0000">
-		<title>Idhayam Episode 523</title>
-		<desc>Shankar's discovery of his friend being a womanizer comes to light when his wife is accused of murdering him, revealing another suspect.</desc>
+		<title>Mounam Pesiyathey Episode 46</title>
+		<desc>Thulasi, married to the thug Sethu, meets Siva, who loses his memory.Mistaken for his wife, she pretends to be, but as Sethu searches for her, she falls in love with Siva.</desc>
 	</programme>
 	<programme channel="5632" start="20241227153000 +0000" stop="20241227160000 +0000">
 		<title>Naane Varuvean Episode 210</title>
@@ -27697,7 +27701,7 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<desc>Shakti's unwavering love aims to heal Shiv's broken soul, while Shiv strives to transform Shakti into a great doctor. Their journey is filled with hope and dedication.</desc>
 	</programme>
 	<programme channel="5632" start="20241227170000 +0000" stop="20241227173000 +0000">
-		<title>Ninaithale Inikkum Episode 1131</title>
+		<title>Ninaithale Inikkum Episode 1130</title>
 		<desc>Meet a determined girl with big dreams of becoming a successful businesswoman. Follow her journey as she navigates challenges, pursues her passions, and learns what it takes to succeed.</desc>
 	</programme>
 	<programme channel="5632" start="20241227173000 +0000" stop="20241227180000 +0000">
@@ -27709,11 +27713,11 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<desc>It is the story of Valli, who is rejected by her father Rathinavel because of her mother's deceit. Determined to prove her mother's innocence, she seeks help from Kadhirvelan to win his love.</desc>
 	</programme>
 	<programme channel="5632" start="20241227183000 +0000" stop="20241227190000 +0000">
-		<title>Karthigai Deepam Episode 703</title>
+		<title>Karthigai Deepam Episode 699</title>
 		<desc>A gifted dark-skinned woman, a remarkable singer, marries a supportive man, defies beauty norms, and achieves music stardom with her talent.</desc>
 	</programme>
 	<programme channel="5632" start="20241227190000 +0000" stop="20241227193000 +0000">
-		<title>Nenjathai Killadhe Episode 137</title>
+		<title>Nenjathai Killadhe Episode 133</title>
 		<desc>Story of Goutham, an overweight businessman, who marries Mathumitha, an educated woman from a middle-class background. Though older, will their arranged marriage lead to love?</desc>
 	</programme>
 	<programme channel="5632" start="20241227193000 +0000" stop="20241227200000 +0000">
@@ -27729,7 +27733,7 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<desc>Thulasi, married to the thug Sethu, meets Siva, who loses his memory.Mistaken for his wife, she pretends to be, but as Sethu searches for her, she falls in love with Siva.</desc>
 	</programme>
 	<programme channel="5632" start="20241227210000 +0000" stop="20241227213000 +0000">
-		<title>Ninaithale Inikkum Episode 1131</title>
+		<title>Ninaithale Inikkum Episode 1130</title>
 		<desc>Meet a determined girl with big dreams of becoming a successful businesswoman. Follow her journey as she navigates challenges, pursues her passions, and learns what it takes to succeed.</desc>
 	</programme>
 	<programme channel="5632" start="20241227213000 +0000" stop="20241227220000 +0000">
@@ -27737,7 +27741,7 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<desc>Aadhya, after losing her mother, is cared for by her aunt Janaki, who must balance Aadhya's urban lifestyle with her family's disapproval. Can Janaki provide the life Aadhya deserves?</desc>
 	</programme>
 	<programme channel="5632" start="20241227220000 +0000" stop="20241227223000 +0000">
-		<title>Karthigai Deepam Episode 703</title>
+		<title>Karthigai Deepam Episode 699</title>
 		<desc>A gifted dark-skinned woman, a remarkable singer, marries a supportive man, defies beauty norms, and achieves music stardom with her talent.</desc>
 	</programme>
 	<programme channel="5632" start="20241227223000 +0000" stop="20241227230000 +0000">
@@ -27753,23 +27757,23 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<desc>Tells the story of Rasathi, a spunky, overweight girl who faces body shaming. She is married to a celebrated Kabbadi player, leading to a journey of self-acceptance and love.</desc>
 	</programme>
 	<programme channel="5632" start="20241228000000 +0000" stop="20241228003000 +0000">
-		<title>Sembaruthi Episode 208</title>
-		<desc>The show will explore mindset and class conflict of two different personalities 'Akhilandeshwari ' and 'Parvathi'. Office Karthik and DJD Kathir are playing the lead roles in this Fiction</desc>
-	</programme>
-	<programme channel="5632" start="20241228003000 +0000" stop="20241228010000 +0000">
 		<title>Sembaruthi Episode 209</title>
 		<desc>The show will explore mindset and class conflict of two different personalities 'Akhilandeshwari ' and 'Parvathi'. Office Karthik and DJD Kathir are playing the lead roles in this Fiction</desc>
 	</programme>
+	<programme channel="5632" start="20241228003000 +0000" stop="20241228010000 +0000">
+		<title>Sembaruthi Episode 210</title>
+		<desc>The show will explore mindset and class conflict of two different personalities 'Akhilandeshwari ' and 'Parvathi'. Office Karthik and DJD Kathir are playing the lead roles in this Fiction</desc>
+	</programme>
 	<programme channel="5632" start="20241228010000 +0000" stop="20241228013000 +0000">
-		<title>Thirumathi Hitler Episode 154</title>
+		<title>Thirumathi Hitler Episode 170</title>
 		<desc>It's a drama-comedy series about AJ, a perfectionist, and Hasini, a challenge-loving woman. The plot revolves around their marriage, with the help of AJ's three daughters-in-law.</desc>
 	</programme>
 	<programme channel="5632" start="20241228013000 +0000" stop="20241228023000 +0000">
-		<title>Genes S02 Episode 32</title>
+		<title>Genes S02 Episode 48</title>
 		<desc>'Genes' is a fun show where celebrities dive into their genetic roots, connecting with real families by uncovering their surprising genetic similarities. It's all about discovering your hidden connections!</desc>
 	</programme>
 	<programme channel="5632" start="20241228023000 +0000" stop="20241228030000 +0000">
-		<title>Nenjathai Killadhe Episode 136</title>
+		<title>Nenjathai Killadhe Episode 133</title>
 		<desc>Story of Goutham, an overweight businessman, who marries Mathumitha, an educated woman from a middle-class background. Though older, will their arranged marriage lead to love?</desc>
 	</programme>
 	<programme channel="5632" start="20241228030000 +0000" stop="20241228053000 +0000">
@@ -27801,7 +27805,7 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<desc>Konjam Coffee Konjam Cinema - Comedy and action scenes from your favourite stars' movies.</desc>
 	</programme>
 	<programme channel="5632" start="20241228083000 +0000" stop="20241228090000 +0000">
-		<title>Ninaithale Inikkum Episode 1132</title>
+		<title>Ninaithale Inikkum Episode 1131</title>
 		<desc>Meet a determined girl with big dreams of becoming a successful businesswoman. Follow her journey as she navigates challenges, pursues her passions, and learns what it takes to succeed.</desc>
 	</programme>
 	<programme channel="5632" start="20241228090000 +0000" stop="20241228093000 +0000">
@@ -27821,7 +27825,7 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<desc>When a caring brother discovers the evil guy tormenting his estranged sister, he springs into action to confront the villain and help turn her life around for the better.</desc>
 	</programme>
 	<programme channel="5632" start="20241228120000 +0000" stop="20241228123000 +0000">
-		<title>Karthigai Deepam Episode 704</title>
+		<title>Karthigai Deepam Episode 700</title>
 		<desc>A gifted dark-skinned woman, a remarkable singer, marries a supportive man, defies beauty norms, and achieves music stardom with her talent.</desc>
 	</programme>
 	<programme channel="5632" start="20241228123000 +0000" stop="20241228130000 +0000">
@@ -28281,52 +28285,112 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<desc>Janakiyudeyum Abhiyudeyum Veedu centers on the love of Abhiram and Janaki in the midst of their extended family in Alakapuri household.</desc>
 	</programme>
 	<programme channel="5638" start="20241227190000 +0000" stop="20241227193000 +0000">
-		<title>Engile Ennodu Para S01</title>
-		<desc>Yes or Miss! Watch Sabu Mon and Shwetha lead celebrities through wild challenges. Who'll triumph and claim the prize? Tune in for the excitement!</desc>
+		<title>Star Talk with Vinay - South Meets North S02</title>
+		<desc>Join Vinay for Season 2 of 'Star Talk,' where South meets North! Dive into fascinating conversations that showcase diverse talents and stories. Don't miss out on the fun!</desc>
 	</programme>
 	<programme channel="5638" start="20241227193000 +0000" stop="20241227223000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>My Boss</title>
+		<desc>Manu's boss at office, Priya Nair, is a very short tempered lady. He finds it almost impossible to cope with his boss.</desc>
 	</programme>
 	<programme channel="5638" start="20241227223000 +0000" stop="20241227233000 +0000">
 		<title>Chirikkum Thalika</title>
 		<desc>A comprehensive compilation of some of the best rib-tickling comedy scenes from various Malayalam movies featuring renowned actors and actresses.</desc>
 	</programme>
-	<programme channel="5638" start="20241227233000 +0000" stop="20241228003000 +0000">
-		<title>Pokkiriraja</title>
-		<desc>Raja's father refuses to accept him when he returns from prison. Years later, his father seeks his help when his younger son lands in prison.</desc>
+	<programme channel="5638" start="20241227233000 +0000" stop="20241228020000 +0000">
+		<title>Lava Kusha</title>
+		<desc>Two jobless men with a desire to become cops, meet in Chennai and end up becoming friends. They get involved in a police encounter and a series of cat and mouse game ensues with criminals and real cops.</desc>
 	</programme>
-	<programme channel="5638" start="20241228003000 +0000" stop="20241228033000 +0000">
-		<title>TBA</title>
-		<desc>The name of the program is yet to be announced by the channel.</desc>
+	<programme channel="5638" start="20241228020000 +0000" stop="20241228023000 +0000">
+		<title>Geetha Govindam</title>
+		<desc>Young lecturer Vijay falls for cautious Geetha, but a mistake jeopardizes their budding romance, leading to family drama and uncertain consequences. Relationships are put to the test.</desc>
 	</programme>
-	<programme channel="5638" start="20241228033000 +0000" stop="20241228063000 +0000">
-		<title>TBA</title>
-		<desc>The name of the program is yet to be announced by the channel.</desc>
+	<programme channel="5638" start="20241228023000 +0000" stop="20241228030000 +0000">
+		<title>Pavithram</title>
+		<desc>Unni's personal and professional life is at stake when his mother gives birth to a child while his marriage is fixed with Meera, a beautiful woman. However, he steps up to raise his new-born sister.</desc>
 	</programme>
-	<programme channel="5638" start="20241228063000 +0000" stop="20241228093000 +0000">
-		<title>TBA</title>
-		<desc>The name of the program is yet to be announced by the channel.</desc>
+	<programme channel="5638" start="20241228030000 +0000" stop="20241228033000 +0000">
+		<title>Snehakkoottu</title>
+		<desc>Sethumadhavan becomes the unexpected guardian for his distant stepsisters. Facing challenges and resistance, he must discover if his love can truly unite and heal their fractured bond.</desc>
 	</programme>
-	<programme channel="5638" start="20241228093000 +0000" stop="20241228123000 +0000">
-		<title>TBA</title>
-		<desc>The name of the program is yet to be announced by the channel.</desc>
+	<programme channel="5638" start="20241228033000 +0000" stop="20241228040000 +0000">
+		<title>Patharamattu</title>
+		<desc>Nayana, a talented artist, crosses paths with Adarsh, the responsible eldest Moorthy brother, sparking a connection that faces obstacles from envy and familial expectations</desc>
 	</programme>
-	<programme channel="5638" start="20241228123000 +0000" stop="20241228153000 +0000">
-		<title>TBA</title>
-		<desc>The name of the program is yet to be announced by the channel.</desc>
+	<programme channel="5638" start="20241228040000 +0000" stop="20241228043000 +0000">
+		<title>Ishttam Mathram</title>
+		<desc>Mahesh struggles to express his love for his daughter Chippy, while Ishitha's affection for her deepens, sparking envy in him. A tale of love and longing.</desc>
+	</programme>
+	<programme channel="5638" start="20241228043000 +0000" stop="20241228050000 +0000">
+		<title>Chempaneerpoovu</title>
+		<desc>A show follows Revathy, a lower-class daughter, marrying Sachi, a quirky taxi driver battling alcoholism. Expect drama, humor, and unexpected twists in their unconventional love story.</desc>
+	</programme>
+	<programme channel="5638" start="20241228050000 +0000" stop="20241228070000 +0000">
+		<title>Oru Cherupunchiri</title>
+		<desc>Oru Cherupunchiri</desc>
+	</programme>
+	<programme channel="5638" start="20241228070000 +0000" stop="20241228073000 +0000">
+		<title>Filler:Engile Ennodu Para S01</title>
+		<desc>Filler Segment</desc>
+	</programme>
+	<programme channel="5638" start="20241228073000 +0000" stop="20241228080000 +0000">
+		<title>Mounaragam</title>
+		<desc>A woman named Deepa faces cruelty from her husband Prakashan and his mother for giving birth to a mute girl. They mistreat her but Deepa's family supports her.</desc>
+	</programme>
+	<programme channel="5638" start="20241228080000 +0000" stop="20241228083000 +0000">
+		<title>Santhwanam-2</title>
+		<desc>Two rival families face challenges and strengthen their bonds in 'Santhwanam 2.' Balan's adopted son marries into one family, balancing his loyalties and navigating familial dynamics.</desc>
+	</programme>
+	<programme channel="5638" start="20241228083000 +0000" stop="20241228090000 +0000">
+		<title>Jaanakiyudeyum Abhiyudeyum Veedu</title>
+		<desc>Janakiyudeyum Abhiyudeyum Veedu centers on the love of Abhiram and Janaki in the midst of their extended family in Alakapuri household.</desc>
+	</programme>
+	<programme channel="5638" start="20241228090000 +0000" stop="20241228093000 +0000">
+		<title>Engile Ennodu Para S01</title>
+		<desc>Yes or Miss! Watch Sabu Mon and Shwetha lead celebrities through wild challenges. Who'll triumph and claim the prize? Tune in for the excitement!</desc>
+	</programme>
+	<programme channel="5638" start="20241228093000 +0000" stop="20241228100000 +0000">
+		<title>Etho Janma Kalpanayil</title>
+		<desc>Optimistic Sruthy clashes with arrogant Ashwin, sparking misunderstandings and confrontations, but leading to unexpected love amidst societal pressures, family conflicts, and personal growth.</desc>
+	</programme>
+	<programme channel="5638" start="20241228100000 +0000" stop="20241228130000 +0000">
+		<title>Sukrutham</title>
+		<desc>A journalist, Ravishankar is suffering from blood cancer and has lost all hopes. That is when he meets a Vedic doctor. But his death is more awaited than his recovery. Release Year: 1994 Director: Hari Kumar Awards: National Film Award for Best Malayalam Feature Film,Kerala State Film Award for Best Story</desc>
+	</programme>
+	<programme channel="5638" start="20241228130000 +0000" stop="20241228133000 +0000">
+		<title>Star Talk with Vinay -South Meets North S02</title>
+		<desc>Star Talk with Vinay -South Meets North S02</desc>
+	</programme>
+	<programme channel="5638" start="20241228133000 +0000" stop="20241228140000 +0000">
+		<title>Engile Ennodu Para S01</title>
+		<desc>Yes or Miss! Watch Sabu Mon and Shwetha lead celebrities through wild challenges. Who'll triumph and claim the prize? Tune in for the excitement!</desc>
+	</programme>
+	<programme channel="5638" start="20241228140000 +0000" stop="20241228143000 +0000">
+		<title>Maalikapuram</title>
+		<desc>8-year-old Kallu from Panchalimedu village has a strong urge to visit Sabarimala. Join her on a heartwarming journey as she sets out to fulfill her dream against all odds.</desc>
+	</programme>
+	<programme channel="5638" start="20241228143000 +0000" stop="20241228150000 +0000">
+		<title>Snehakkoottu</title>
+		<desc>Sethumadhavan becomes the unexpected guardian for his distant stepsisters. Facing challenges and resistance, he must discover if his love can truly unite and heal their fractured bond.</desc>
+	</programme>
+	<programme channel="5638" start="20241228150000 +0000" stop="20241228153000 +0000">
+		<title>Santhwanam-2</title>
+		<desc>Two rival families face challenges and strengthen their bonds in 'Santhwanam 2.' Balan's adopted son marries into one family, balancing his loyalties and navigating familial dynamics.</desc>
 	</programme>
 	<programme channel="5639" start="20241226133000 +0000" stop="20241226171000 +0000">
 		<title>Minnal Murali</title>
 		<desc>Young tailor gains superpowers, fights unexpected enemy, becomes superhero. Release Year: 2021 Director: Basil Joseph Awards: 2022 Winner Jury Award - Best Digital Film in Regional Language excl. Hindi, 2022 Winner SIIMA -Malayalam - Best Film</desc>
 	</programme>
-	<programme channel="5639" start="20241226171000 +0000" stop="20241226200500 +0000">
+	<programme channel="5639" start="20241226171000 +0000" stop="20241226172500 +0000">
 		<title>Koode</title>
 		<desc>Back home from Dubai, Joshua's life is about to take a 360 degree turn. How do Jenny, his sunshine of a sister and Sophie, his childhood sweetheart, who is now a divorcee figure in the scheme of things? Release Year: 2018 Director: Anjali Menon</desc>
 	</programme>
-	<programme channel="5639" start="20241226200500 +0000" stop="20241226222000 +0000">
-		<title>Vellanakalude Naadu</title>
-		<desc>The movie is based on a political satire against the municipal mafia. Release Year: 1988 Director: Priyadarshan Awards: Kerala State Film Award - Special Jury Award Film Category</desc>
+	<programme channel="5639" start="20241226172500 +0000" stop="20241226194500 +0000">
+		<title>Perumthachan</title>
+		<desc>The movie relates the story of the legendary Perumthachan, a skilled carpenter.</desc>
+	</programme>
+	<programme channel="5639" start="20241226194500 +0000" stop="20241226222000 +0000">
+		<title>College Kumaran</title>
+		<desc>A canteen supervisor is deceived to be guilty in a massacre during college tour.</desc>
 	</programme>
 	<programme channel="5639" start="20241226222000 +0000" stop="20241227003000 +0000">
 		<title>Peranbu</title>
@@ -28336,19 +28400,19 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<title>Chirikkum Thalika</title>
 		<desc>A compilation of some of the best comedy scenes from Malayalam movies.</desc>
 	</programme>
-	<programme channel="5639" start="20241227013000 +0000" stop="20241227043000 +0000">
+	<programme channel="5639" start="20241227013000 +0000" stop="20241227042500 +0000">
 		<title>Kochi Rajavu</title>
 		<desc>Suraya is a member of the royal family of Kochi. He falls in love with Aswathy. Release Year: 2005 Director: Johny Antony</desc>
 	</programme>
-	<programme channel="5639" start="20241227043000 +0000" stop="20241227073000 +0000">
+	<programme channel="5639" start="20241227042500 +0000" stop="20241227073000 +0000">
 		<title>Albhutha Dweep</title>
 		<desc>A tale of travellers who get stranded on an island inhabited by male dwarfs. Release Year: 2005 Director: Vinayan Awards: Kerala State Film Award for Best Costume Designer, Kerala State Film Award for Special Jury Mention Film category, Kerala State Film Award for Best Sound Recordist, Kerala State Film Award - Special Jury Award Film Category</desc>
 	</programme>
-	<programme channel="5639" start="20241227073000 +0000" stop="20241227103000 +0000">
+	<programme channel="5639" start="20241227073000 +0000" stop="20241227104000 +0000">
 		<title>Oru Marubhoomikkadha</title>
 		<desc>Madhavan's life is turned upside down when a girl stages her own kidnapping. Release Year: 2011 Director: Priyadarshan</desc>
 	</programme>
-	<programme channel="5639" start="20241227103000 +0000" stop="20241227133000 +0000">
+	<programme channel="5639" start="20241227104000 +0000" stop="20241227133000 +0000">
 		<title>Yuva</title>
 		<desc>In an engineering college, a gang war erupts, pitting foes against Yuva, a brave student who defends his hostel friends. Can he protect them and emerge victorious?</desc>
 	</programme>
@@ -28356,21 +28420,25 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<title>Malikappuram</title>
 		<desc>An intense desire of Kallu an 8 year old girl from Panchalimedu village to visit Sabarimala. Release Year: 2022 Director: Vishnu Sasi Shankar Awards: National Film Award for Best Child Artist</desc>
 	</programme>
-	<programme channel="5639" start="20241227133000 +0000" stop="20241227163000 +0000">
+	<programme channel="5639" start="20241227133000 +0000" stop="20241227162000 +0000">
 		<title>Malikappuram</title>
 		<desc>An intense desire of Kallu an 8 year old girl from Panchalimedu village to visit Sabarimala. Release Year: 2022 Director: Vishnu Sasi Shankar Awards: National Film Award for Best Child Artist</desc>
 	</programme>
-	<programme channel="5639" start="20241227163000 +0000" stop="20241227193000 +0000">
+	<programme channel="5639" start="20241227162000 +0000" stop="20241227190000 +0000">
 		<title>Varikkuzhiyile Kolapathakam</title>
 		<desc>The story revolves around the life of a Parish priest and the families. Release Year: 2019 Director: Rejishh Midhila</desc>
 	</programme>
-	<programme channel="5639" start="20241227193000 +0000" stop="20241227220000 +0000">
+	<programme channel="5639" start="20241227190000 +0000" stop="20241227210500 +0000">
 		<title>Jananam 1947 Pranayam Thudarunnu</title>
 		<desc>Gowri an elderly woman in a home, starts a love journey with caretaker Shivan. Release Year: 2024 Director: Abijith Asokan</desc>
 	</programme>
-	<programme channel="5639" start="20241227220000 +0000" stop="20241228003000 +0000">
+	<programme channel="5639" start="20241227210500 +0000" stop="20241228001000 +0000">
 		<title>Jagame Thandhiram</title>
 		<desc>Suruli gets embroiled in criminal activities and he falls in love with a singer.</desc>
+	</programme>
+	<programme channel="5639" start="20241228001000 +0000" stop="20241228003000 +0000">
+		<title>Filler:Chirikkum Thalika</title>
+		<desc>Filler Segment</desc>
 	</programme>
 	<programme channel="5639" start="20241228003000 +0000" stop="20241228013000 +0000">
 		<title>Chirikkum Thalika</title>
