@@ -6028,7 +6028,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 	</programme>
 	<programme channel="5157" start="20241227163000 +0000" stop="20241227170000 +0000">
 		<title>GRAND SUMO Review</title>
-		<desc>NHK WORLD-JAPAN will air its Grand Sumo Preview for the tourney starting ( ). Our reporter visits the city to meet wrestlers and find out their secret of winning.</desc>
+		<desc>NHK World JAPAN will broadcast Sumo review. We will look back on the year 2024, a year in which many records were broken. We will also look ahead the Grand Sumo of 2025.</desc>
 	</programme>
 	<programme channel="5157" start="20241227170000 +0000" stop="20241227171000 +0000">
 		<title>NHK NEWSLINE</title>
@@ -6144,7 +6144,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 	</programme>
 	<programme channel="5157" start="20241227233000 +0000" stop="20241228000000 +0000">
 		<title>GRAND SUMO Review</title>
-		<desc>NHK WORLD-JAPAN will air its Grand Sumo Preview for the tourney starting ( ). Our reporter visits the city to meet wrestlers and find out their secret of winning.</desc>
+		<desc>NHK World JAPAN will broadcast Sumo review. We will look back on the year 2024, a year in which many records were broken. We will also look ahead the Grand Sumo of 2025.</desc>
 	</programme>
 	<programme channel="5157" start="20241228000000 +0000" stop="20241228001000 +0000">
 		<title>NHK NEWSLINE</title>
@@ -6191,7 +6191,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<desc>NHK WORLD-JAPAN's flagship hourly news program delivers the latest world news, business and weather, with a focus on Japan and the rest of Asia.</desc>
 	</programme>
 	<programme channel="5157" start="20241228041000 +0000" stop="20241228044000 +0000">
-		<title>Time and Tide</title>
+		<title>KIMONO TRUTH</title>
 		<desc>The kimono is admired worldwide yet remains a mystery to many. In this episode, we unravel truths about the traditional garment and its styles.</desc>
 	</programme>
 	<programme channel="5157" start="20241228044000 +0000" stop="20241228045500 +0000">
@@ -6279,7 +6279,7 @@ Reality dating show “Heart Signal” returns with a seventh season this year. 
 		<desc>NHK WORLD-JAPAN's flagship hourly news program delivers the latest world news, business and weather, with a focus on Japan and the rest of Asia.</desc>
 	</programme>
 	<programme channel="5157" start="20241228111000 +0000" stop="20241228114000 +0000">
-		<title>Time and Tide</title>
+		<title>KIMONO TRUTH</title>
 		<desc>The kimono is admired worldwide yet remains a mystery to many. In this episode, we unravel truths about the traditional garment and its styles.</desc>
 	</programme>
 	<programme channel="5157" start="20241228114000 +0000" stop="20241228115500 +0000">
@@ -26077,16 +26077,16 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<desc>Unfortunate events force an ambitious Eashwari and a school dropout Azhagar to tie the knot. Can this odd couple turn their marriage into a happily ever after? Will Eashwari realize her IPS dream amidst life's many hardships?</desc>
 	</programme>
 	<programme channel="5622" start="20241228073000 +0000" stop="20241228080000 +0000">
-		<title>Movie -</title>
-		<desc>Watch your favourite movies with all the drama and emotion on Sun TV.</desc>
+		<title>Movie - SOORARAI POTRU</title>
+		<desc>Maara, a young man from a remote village, dreams of launching his own airline service. However, he must overcome several obstacles and challenges in order to be successful in his quest.</desc>
 	</programme>
 	<programme channel="5622" start="20241228080000 +0000" stop="20241228083000 +0000">
 		<title>News</title>
 		<desc>This news programme chronicles the latest events, developments, inventions, discoveries and happenings around the world.</desc>
 	</programme>
 	<programme channel="5622" start="20241228083000 +0000" stop="20241228103000 +0000">
-		<title>Movie Contd -</title>
-		<desc>Watch your favourite movies with all the drama and emotion on Sun TV.</desc>
+		<title>Movie Contd - SOORARAI POTRU</title>
+		<desc>Maara, a young man from a remote village, dreams of launching his own airline service. However, he must overcome several obstacles and challenges in order to be successful in his quest.</desc>
 	</programme>
 	<programme channel="5622" start="20241228103000 +0000" stop="20241228110000 +0000">
 		<title>RAMAYANAM</title>
@@ -30725,11 +30725,11 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<desc>Entertainement</desc>
 	</programme>
 	<programme channel="5670" start="20241227183000 +0000" stop="20241227213000 +0000">
-		<title>Movie</title>
+		<title>ATHADE</title>
 		<desc>Entertainement</desc>
 	</programme>
 	<programme channel="5670" start="20241227213000 +0000" stop="20241228003000 +0000">
-		<title>Movie</title>
+		<title>DAGGARAGA DOORAMGA</title>
 		<desc>Entertainement</desc>
 	</programme>
 	<programme channel="5670" start="20241228003000 +0000" stop="20241228013000 +0000">
@@ -30737,23 +30737,23 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<desc>Entertainement</desc>
 	</programme>
 	<programme channel="5670" start="20241228013000 +0000" stop="20241228033000 +0000">
-		<title>Movie</title>
+		<title>GURUDEV HOYSALA</title>
 		<desc>Entertainement</desc>
 	</programme>
-	<programme channel="5670" start="20241228033000 +0000" stop="20241228063000 +0000">
-		<title>Movie</title>
+	<programme channel="5670" start="20241228033000 +0000" stop="20241228060000 +0000">
+		<title>KHAKI SATHA</title>
 		<desc>Entertainement</desc>
 	</programme>
-	<programme channel="5670" start="20241228063000 +0000" stop="20241228093000 +0000">
-		<title>Movie</title>
+	<programme channel="5670" start="20241228060000 +0000" stop="20241228093000 +0000">
+		<title>BAAHUBALI (THE BEGINNING)</title>
 		<desc>Entertainement</desc>
 	</programme>
 	<programme channel="5670" start="20241228093000 +0000" stop="20241228123000 +0000">
-		<title>Movie</title>
+		<title>BHARAT ANE NENU</title>
 		<desc>Entertainement</desc>
 	</programme>
 	<programme channel="5670" start="20241228123000 +0000" stop="20241228150000 +0000">
-		<title>Movie</title>
+		<title>BALAGAM</title>
 		<desc>Entertainement</desc>
 	</programme>
 	<programme channel="5671" start="20241226160000 +0000" stop="20241226163000 +0000">
@@ -30892,97 +30892,85 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<title>IDI KATHA KADU ®</title>
 		<desc>IDI KATHA KADU ®</desc>
 	</programme>
-	<programme channel="5671" start="20241227180000 +0000" stop="20241227203000 +0000">
+	<programme channel="5671" start="20241227180000 +0000" stop="20241227183000 +0000">
 		<title>Movie</title>
 		<desc>Movie</desc>
+	</programme>
+	<programme channel="5671" start="20241227183000 +0000" stop="20241227203000 +0000">
+		<title>Movie_REMO</title>
+		<desc>Movie_REMO</desc>
 	</programme>
 	<programme channel="5671" start="20241227203000 +0000" stop="20241227230000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Movie_NENE RAJU NENE MANTRI</title>
+		<desc>Movie_NENE RAJU NENE MANTRI</desc>
 	</programme>
-	<programme channel="5671" start="20241227230000 +0000" stop="20241227233000 +0000">
-		<title>Fun Time</title>
-		<desc>Tune into a compilation of comedy clips from the recently released Tollywood movies.</desc>
+	<programme channel="5671" start="20241227230000 +0000" stop="20241228010000 +0000">
+		<title>FUN TIME</title>
+		<desc>Entertainment</desc>
 	</programme>
-	<programme channel="5671" start="20241227233000 +0000" stop="20241228013000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="5671" start="20241228010000 +0000" stop="20241228013000 +0000">
+		<title>Movie_KRISHNA ARJUNA YUDHAM</title>
+		<desc>Movie_KRISHNA ARJUNA YUDHAM</desc>
 	</programme>
 	<programme channel="5671" start="20241228013000 +0000" stop="20241228033000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>AADIVARAM STAR MAA PARIVARAM ® - STAR WARS</title>
+		<desc>AADIVARAM STAR MAA PARIVARAM ® - STAR WARS</desc>
 	</programme>
 	<programme channel="5671" start="20241228033000 +0000" stop="20241228063000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>MOVIE_DHAMAKA</title>
+		<desc>Entertainment</desc>
 	</programme>
 	<programme channel="5671" start="20241228063000 +0000" stop="20241228070000 +0000">
-		<title>Paape Maa Jeevana Jyothi</title>
-		<desc>Jyothi seeks acceptance but faces turmoil as daughter Jeevana is kidnapped, jeopardizing their newfound peace.</desc>
+		<title>Paape Naa Jeevana Jyothi</title>
+		<desc>Story revolves around mother and missed daughter</desc>
 	</programme>
 	<programme channel="5671" start="20241228070000 +0000" stop="20241228073000 +0000">
-		<title>Ninnu Kori</title>
-		<desc>Pallavi invites her ex-boyfriend to stay with her and her husband to prove she is happy. Uma tries to break them up.</desc>
+		<title>NINNU KORI</title>
+		<desc>NINNU KORI</desc>
 	</programme>
 	<programme channel="5671" start="20241228073000 +0000" stop="20241228080000 +0000">
-		<title>Brahma Mudi</title>
-		<desc>Mother arranges weddings for talented daughters. Affairs take an unexpected turn with an affluent family.</desc>
+		<title>BRAHMA MUDI</title>
+		<desc>BRAHMA MUDI</desc>
 	</programme>
 	<programme channel="5671" start="20241228080000 +0000" stop="20241228083000 +0000">
-		<title>Paluke Bangaramayena</title>
-		<desc>Speech-impaired Swaragini, deemed unlucky by her father. Can Officer Abhishek alter her fate?</desc>
+		<title>PALUKE BANGARAMAYENA</title>
+		<desc>PALUKE BANGARAMAYENA</desc>
 	</programme>
 	<programme channel="5671" start="20241228083000 +0000" stop="20241228090000 +0000">
-		<title>Mama Garu</title>
-		<desc>Ganga confronts chauvinistic father-in-law, challenging norms. Can she carve her path to victory and claim her rights?</desc>
+		<title>MAMA GARU</title>
+		<desc>Serial</desc>
 	</programme>
 	<programme channel="5671" start="20241228090000 +0000" stop="20241228093000 +0000">
 		<title>Vantalakka</title>
-		<desc>Kind-hearted Murali loves a wealthy girl. Their romance encounters numerous obstacles.</desc>
+		<desc>Serial</desc>
 	</programme>
 	<programme channel="5671" start="20241228093000 +0000" stop="20241228100000 +0000">
 		<title>Malli</title>
-		<desc>Malli promises Meera after hearing her past. Arvind's family frets over his new project.</desc>
+		<desc>Story of village girl</desc>
 	</programme>
 	<programme channel="5671" start="20241228100000 +0000" stop="20241228103000 +0000">
-		<title>Yeto Vellipoindi Manasu</title>
-		<desc>Varun and Nithya's lifelong journey is marked by ups and downs, leading to multiple separations.</desc>
+		<title>YETO VELLIPOINDI MANASU</title>
+		<desc>YETO VELLIPOINDI MANASU</desc>
 	</programme>
-	<programme channel="5671" start="20241228103000 +0000" stop="20241228110000 +0000">
-		<title>Illu Illalu Pillalu</title>
-		<desc>Narmada faces marriage pressure from Prasad Rao and Sujatha, while Prema worries about Dheeraj and Sagar's odd behavior. Tension and uncertainty fill the air!</desc>
+	<programme channel="5671" start="20241228103000 +0000" stop="20241228123000 +0000">
+		<title>AADIVARAM STAR MAA PARIVARAM - STAR WARS 3</title>
+		<desc>Entertainment</desc>
 	</programme>
-	<programme channel="5671" start="20241228110000 +0000" stop="20241228120000 +0000">
-		<title>Bigg Boss S08</title>
-		<desc>Celebrities live in an isolated house cut off from the rest of the world. They have to compete in challenging tasks to avoid elimination and win.</desc>
-	</programme>
-	<programme channel="5671" start="20241228120000 +0000" stop="20241228123000 +0000">
-		<title>Guppedantha Manasu</title>
-		<desc>Anupama urges Mahindra to report Rishi's disappearance. Next day, Vasudhara sets out on a mission to locate him.</desc>
-	</programme>
-	<programme channel="5671" start="20241228123000 +0000" stop="20241228130000 +0000">
-		<title>Sathyabhama</title>
-		<desc>Krish falls for Satya, a principled girl. What unfolds for this extraordinary couple in their love story?</desc>
-	</programme>
-	<programme channel="5671" start="20241228130000 +0000" stop="20241228133000 +0000">
-		<title>Maguva O Maguva</title>
-		<desc>Wealthy Akhila and single mom Anjali bond during pregnancy, navigating diverse backgrounds in a tale of motherhood.</desc>
+	<programme channel="5671" start="20241228123000 +0000" stop="20241228133000 +0000">
+		<title>MAGUVA O MAGUVA</title>
+		<desc>MAGUVA O MAGUVA</desc>
 	</programme>
 	<programme channel="5671" start="20241228133000 +0000" stop="20241228140000 +0000">
-		<title>Chinni</title>
-		<desc>A heartwarming tale of a Mother and Daughter navigating through unexpected challenges, strengthening their bond and understanding each other in new ways.</desc>
+		<title>CHINNI</title>
+		<desc>Serial</desc>
 	</programme>
 	<programme channel="5671" start="20241228140000 +0000" stop="20241228143000 +0000">
-		<title>Illu Illalu Pillalu</title>
-		<desc>Illu Illalu Pillalu</desc>
+		<title>ILLU ILLALU PILLALU</title>
+		<desc>ILLU ILLALU PILLALU</desc>
 	</programme>
-	<programme channel="5671" start="20241228143000 +0000" stop="20241228150000 +0000">
-		<title>Karthika Deepam</title>
-		<desc>Deepa, overcoming discrimination and family expectations, fights for happiness in her marriage to Dr. Karthik.</desc>
-	</programme>
-	<programme channel="5671" start="20241228150000 +0000" stop="20241228153000 +0000">
-		<title>Intinti Ramayanam</title>
-		<desc>Members of a close-knit family begin to doubt one another when they suddenly face a problem.</desc>
+	<programme channel="5671" start="20241228143000 +0000" stop="20241228153000 +0000">
+		<title>INTINTI RAMAYANAM</title>
+		<desc>INTINTI RAMAYANAM</desc>
 	</programme>
 	<programme channel="5676" start="20241226160000 +0000" stop="20241226180000 +0000">
 		<title>THE NEWSHOUR FIRST</title>
@@ -32141,8 +32129,8 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<desc>An informational program that reveals Japan as it is by following incidents posted on local media such as local newspapers and business presses.</desc>
 	</programme>
 	<programme channel="5682" start="20241228094000 +0000" stop="20241228094500 +0000">
-		<title>Mini Program</title>
-		<desc>Mini Program</desc>
+		<title>Bijutune!</title>
+		<desc>Bijutune!</desc>
 	</programme>
 	<programme channel="5682" start="20241228094500 +0000" stop="20241228095600 +0000">
 		<title>Let's Enjoy English and Meets the World (R)</title>
@@ -32181,12 +32169,20 @@ This is the first Taiwanese drama series set against the background of Taiwan in
 		<desc>A Saturday night show presents the latest news on domestic and foreign affairs with reliable coverage and innovative presentation.</desc>
 	</programme>
 	<programme channel="5682" start="20241228130000 +0000" stop="20241228141300 +0000">
-		<title>NHK Special</title>
+		<title>NHK Special "Quantum Entanglement: The Final Mystery Even Einstein Couldn't Solve"</title>
 		<desc>A documentary based on timely subjects famous for its dignity and in-depth reporting.</desc>
 	</programme>
-	<programme channel="5682" start="20241228141300 +0000" stop="20241228143000 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+	<programme channel="5682" start="20241228141300 +0000" stop="20241228141500 +0000">
+		<title>Mini Program</title>
+		<desc>Mini Program</desc>
+	</programme>
+	<programme channel="5682" start="20241228141500 +0000" stop="20241228142000 +0000">
+		<title>News &amp; Weather</title>
+		<desc>The latest up-to-date news and nationwide weather information.</desc>
+	</programme>
+	<programme channel="5682" start="20241228142000 +0000" stop="20241228143000 +0000">
+		<title>Rural Japan "Satoyama"</title>
+		<desc>Rural Japan "Satoyama"</desc>
 	</programme>
 	<programme channel="5040" start="20241226160000 +0000" stop="20241226161500 +0000">
 		<title>Le journal</title>
