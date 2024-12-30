@@ -3317,7 +3317,7 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 	</programme>
 	<programme channel="4102" start="20241229220000 +0000" stop="20241229230000 +0000">
 		<title>1-TO-11 Episode 10</title>
-		<desc>Former Premier League stars select their dream teams from the best they played with or against, guiding us through their picks with stories from on and off the pitch.</desc>
+		<desc>Arsenal legend Tony Adams picks his best eleven from the players that he shared the field with in the Premier League.</desc>
 	</programme>
 	<programme channel="4102" start="20241229230000 +0000" stop="20241229233000 +0000">
 		<title>MATCH HIGHLIGHTS 24/25 MW19 Leicester City v Manchester City</title>
@@ -3553,19 +3553,19 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 	</programme>
 	<programme channel="4103" start="20241229170000 +0000" stop="20241229180000 +0000">
 		<title>1-to-11 2024/25 Episode 10</title>
-		<desc>Former Premier League stars select their dream teams from the best they played with or against, guiding us through their picks with stories from on and off the pitch.</desc>
+		<desc>Arsenal legend Tony Adams picks his best eleven from the players that he shared the field with in the Premier League.</desc>
 	</programme>
 	<programme channel="4103" start="20241229180000 +0000" stop="20241229183000 +0000">
 		<title>PL Stories 2024/25 Episode 30</title>
-		<desc>We explore the remarkable impact of the Basque region on the Premier League, focusing on the careers of the four current Basque managers who are leaving their mark in England's topflight. From tactical brilliance to relentless passion, this program delve</desc>
+		<desc>We explore the remarkable impact of the Basque region on the Premier League, focusing on the careers of the four current Basque managers who are leaving their mark in England's topflight. From tactical brilliance to relentless passion, this program delves into why the Basque Country has produced such a high number of successful managers and how their unique style has left a lasting legacy in the Premier League.</desc>
 	</programme>
 	<programme channel="4103" start="20241229183000 +0000" stop="20241229190000 +0000">
 		<title>The Big Interview 2024/25 Episode 20</title>
-		<desc>Extended sit-downs and more informal ‘out and about' interviews with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
+		<desc>This week's Big Interview sees two of Chelsea's biggest stars from different generations come together for a football masterclass. Considered one of the most technically gifted players the Premier League has ever seen, Gianfranco Zola visits the Chelsea training ground to talk to the man currently lighting up the Premier League, Cole Palmer, about various aspects of his game.</desc>
 	</programme>
 	<programme channel="4103" start="20241229190000 +0000" stop="20241229210000 +0000">
 		<title>Arsenal vs Ipswich Town (MW18) Episode 180</title>
-		<desc>The 33rd season of the Premier League sees Manchester City defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Arsenal are unbeaten in their last 13 league games against Ipswich (W10 D3), since a 2-1 away loss in September 1984.</desc>
 	</programme>
 	<programme channel="4103" start="20241229210000 +0000" stop="20241229230000 +0000">
 		<title>Crystal Palace vs Southampton (MW19) Episode 182</title>
@@ -3597,11 +3597,11 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 	</programme>
 	<programme channel="4103" start="20241230110000 +0000" stop="20241230113000 +0000">
 		<title>PL Rewind 2024/25 Episode 10</title>
-		<desc>Michael Owen burst onto the scene for Liverpool at just seventeen years of age, and in two consecutive seasons the teenage sensation won the Premier League Golden Boot. Owen recalls those campaigns for the Reds, reliving the key moments that helped him de</desc>
+		<desc>Michael Owen burst onto the scene for Liverpool at just seventeen years of age, and in two consecutive seasons the teenage sensation won the Premier League Golden Boot. Owen recalls those campaigns for the Reds, reliving the key moments that helped him develop into one of the greatest players of his generation.</desc>
 	</programme>
 	<programme channel="4103" start="20241230113000 +0000" stop="20241230120000 +0000">
 		<title>PL Stories 2024/25 Episode 30</title>
-		<desc>We explore the remarkable impact of the Basque region on the Premier League, focusing on the careers of the four current Basque managers who are leaving their mark in England's topflight. From tactical brilliance to relentless passion, this program delve</desc>
+		<desc>We explore the remarkable impact of the Basque region on the Premier League, focusing on the careers of the four current Basque managers who are leaving their mark in England's topflight. From tactical brilliance to relentless passion, this program delves into why the Basque Country has produced such a high number of successful managers and how their unique style has left a lasting legacy in the Premier League.</desc>
 	</programme>
 	<programme channel="4103" start="20241230120000 +0000" stop="20241230140000 +0000">
 		<title>West Ham United vs Liverpool (MW19) Episode 186</title>
@@ -4024,7 +4024,7 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>The 2024 season review provides a comprehensive look at the latest MotoGP World Championship campaign.</desc>
 	</programme>
 	<programme channel="6116" start="20241229150000 +0000" stop="20241229174500 +0000">
-		<title>Oberstdorf | Men's HS 137</title>
+		<title>Oberstdorf | Men's HS 137 (Live)</title>
 		<desc>Four Hills | Event 1</desc>
 	</programme>
 	<programme channel="6116" start="20241229174500 +0000" stop="20241229183000 +0000">
@@ -4040,7 +4040,7 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241229200000 +0000" stop="20241229213000 +0000">
-		<title>Oberstdorf | Men's HS 137</title>
+		<title>Oberstdorf | Men's HS 137 (Live)</title>
 		<desc>Four Hills | Event 1</desc>
 	</programme>
 	<programme channel="6116" start="20241229213000 +0000" stop="20241229230000 +0000">
@@ -4060,15 +4060,15 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241230010000 +0000" stop="20241230013000 +0000">
-		<title>Oberstdorf | Men's HS 137</title>
+		<title>Oberstdorf | Men's HS 137 (Live)</title>
 		<desc>Four Hills | Event 1 | Qualifying</desc>
 	</programme>
 	<programme channel="6116" start="20241230013000 +0000" stop="20241230030000 +0000">
-		<title>Oberstdorf | Men's HS 137</title>
+		<title>Oberstdorf | Men's HS 137 (Live)</title>
 		<desc>Four Hills | Event 1</desc>
 	</programme>
 	<programme channel="6116" start="20241230030000 +0000" stop="20241230040000 +0000">
-		<title>Bormio | Men's Downhill (Live)</title>
+		<title>Bormio | Men's Downhill</title>
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241230040000 +0000" stop="20241230050000 +0000">
@@ -4088,15 +4088,15 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241230070000 +0000" stop="20241230073000 +0000">
-		<title>Oberstdorf | Men's HS 137</title>
+		<title>Oberstdorf | Men's HS 137 (Live)</title>
 		<desc>Four Hills | Event 1 | Qualifying</desc>
 	</programme>
 	<programme channel="6116" start="20241230073000 +0000" stop="20241230090000 +0000">
-		<title>Oberstdorf | Men's HS 137</title>
+		<title>Oberstdorf | Men's HS 137 (Live)</title>
 		<desc>Four Hills | Event 1</desc>
 	</programme>
 	<programme channel="6116" start="20241230090000 +0000" stop="20241230100000 +0000">
-		<title>Bormio | Men's Downhill (Live)</title>
+		<title>Bormio | Men's Downhill</title>
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241230100000 +0000" stop="20241230110000 +0000">
@@ -4116,15 +4116,15 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241230130000 +0000" stop="20241230133000 +0000">
-		<title>Oberstdorf | Men's HS 137</title>
+		<title>Oberstdorf | Men's HS 137 (Live)</title>
 		<desc>Four Hills | Event 1 | Qualifying</desc>
 	</programme>
 	<programme channel="6116" start="20241230133000 +0000" stop="20241230150000 +0000">
-		<title>Oberstdorf | Men's HS 137</title>
+		<title>Oberstdorf | Men's HS 137 (Live)</title>
 		<desc>Four Hills | Event 1</desc>
 	</programme>
 	<programme channel="6116" start="20241230150000 +0000" stop="20241230160000 +0000">
-		<title>Bormio | Men's Downhill (Live)</title>
+		<title>Bormio | Men's Downhill</title>
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241230160000 +0000" stop="20241230170000 +0000">
@@ -28394,19 +28394,19 @@ This series tells the story of the wealthy Qiu family who is left rudderless whe
 		<title>Santhwanam-2</title>
 		<desc>Two rival families face challenges and strengthen their bonds in 'Santhwanam 2.' Balan's adopted son marries into one family, balancing his loyalties and navigating familial dynamics.</desc>
 	</programme>
-	<programme channel="5639" start="20241229133000 +0000" stop="20241229163000 +0000">
+	<programme channel="5639" start="20241229133000 +0000" stop="20241229164500 +0000">
 		<title>Vellanakalude Naadu</title>
 		<desc>The movie is based on a political satire against the municipal mafia. Release Year: 1988 Director: Priyadarshan Awards: Kerala State Film Award - Special Jury Award Film Category</desc>
 	</programme>
-	<programme channel="5639" start="20241229163000 +0000" stop="20241229193000 +0000">
+	<programme channel="5639" start="20241229164500 +0000" stop="20241229193000 +0000">
 		<title>Garudan</title>
 		<desc>Harish Madhav, a straightforward cop, and Nishanth, a college professor, get entangled in a crime and one has to fight for his integrity and other has to fight for justice. Release Year: 2023 Director: Arun Varma</desc>
 	</programme>
-	<programme channel="5639" start="20241229193000 +0000" stop="20241229220000 +0000">
+	<programme channel="5639" start="20241229193000 +0000" stop="20241229215500 +0000">
 		<title>Nanmaniranjavan Srenivasan</title>
 		<desc>Sreenivasan is passionate for theatre his life changes as he applies for police. Release Year: 1990 Director: Viji Thampi</desc>
 	</programme>
-	<programme channel="5639" start="20241229220000 +0000" stop="20241230003000 +0000">
+	<programme channel="5639" start="20241229215500 +0000" stop="20241230003000 +0000">
 		<title>Minnaminnikkoottam</title>
 		<desc>Seven friends work for an IT company and lead a seemingly fun-filled life. Each one of them is dealing with personal issues related to love and family. Release Year: 2008 Awards: Samvrutha Sunil won the Best Supporting ActreSS at Asianet Film Awards for this film in 2008.</desc>
 	</programme>
