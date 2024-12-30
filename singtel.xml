@@ -3453,7 +3453,7 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 	</programme>
 	<programme channel="4102" start="20241230233000 +0000" stop="20241231000000 +0000">
 		<title>THE BIG INTERVIEW Episode 20</title>
-		<desc>Extended sit-downs and more informal 'out and about' interviews with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
+		<desc>This week's Big Interview sees two of Chelsea's biggest stars from different generations come together for a football masterclass. Considered one of the most technically gifted players the Premier League has ever seen, Gianfranco Zola visits the Chelsea training ground to talk to the man currently lighting up the Premier League, Cole Palmer, about various aspects of his game.</desc>
 	</programme>
 	<programme channel="4102" start="20241231000000 +0000" stop="20241231003000 +0000">
 		<title>PL STORIES Episode 30</title>
@@ -3528,8 +3528,8 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>Special guest Phil Jones joins Steve Bower and Michael Owen to reflect on the weekend's action and take a look back at his illustrious career.</desc>
 	</programme>
 	<programme channel="4102" start="20241231123000 +0000" stop="20241231130000 +0000">
-		<title>PL STORIES Episode 23</title>
-		<desc>We explore the cutting-edge world of sports science and its transformative impact on Premier League football. From player fitness and injury prevention to nutrition and recovery, the show uncovers how technology and data-driven insights are revolutionizing the game and discover how these innovations are shaping the future of football and giving teams the edge in the world's most competitive league.</desc>
+		<title>PL STORIES</title>
+		<desc>We join ex-Manchester United defender Phil Jones to reflect on his time in the Premier League and the highs and lows he experienced in his time at Old Trafford. We also go behind the scenes at Carrington as he begins his new venture into coaching.</desc>
 	</programme>
 	<programme channel="4102" start="20241231130000 +0000" stop="20241231140000 +0000">
 		<title>GENERATION xG - MON 30 DEC</title>
@@ -3629,15 +3629,15 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 	</programme>
 	<programme channel="4103" start="20241231000000 +0000" stop="20241231010000 +0000">
 		<title>1-to-11 2024/25 Episode 10</title>
-		<desc>Former Premier League stars select their dream teams from the best they played with or against, guiding us through their picks with stories from on and off the pitch.</desc>
+		<desc>Arsenal legend Tony Adams picks his best eleven from the players that he shared the field with in the Premier League.</desc>
 	</programme>
 	<programme channel="4103" start="20241231010000 +0000" stop="20241231013000 +0000">
 		<title>PL Stories 2024/25 Episode 30</title>
-		<desc>We explore the remarkable impact of the Basque region on the Premier League, focusing on the careers of the four current Basque managers who are leaving their mark in England's topflight. From tactical brilliance to relentless passion, this program delve</desc>
+		<desc>We explore the remarkable impact of the Basque region on the Premier League, focusing on the careers of the four current Basque managers who are leaving their mark in England's topflight. From tactical brilliance to relentless passion, this program delves into why the Basque Country has produced such a high number of successful managers and how their unique style has left a lasting legacy in the Premier League.</desc>
 	</programme>
 	<programme channel="4103" start="20241231013000 +0000" stop="20241231020000 +0000">
 		<title>The Big Interview 2024/25 Episode 20</title>
-		<desc>Extended sit-downs and more informal ‘out and about' interviews with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
+		<desc>This week's Big Interview sees two of Chelsea's biggest stars from different generations come together for a football masterclass. Considered one of the most technically gifted players the Premier League has ever seen, Gianfranco Zola visits the Chelsea training ground to talk to the man currently lighting up the Premier League, Cole Palmer, about various aspects of his game.</desc>
 	</programme>
 	<programme channel="4103" start="20241231020000 +0000" stop="20241231040000 +0000">
 		<title>Manchester United vs Newcastle United (MW19) Episode 189</title>
@@ -4144,15 +4144,15 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241230190000 +0000" stop="20241230193000 +0000">
-		<title>Oberstdorf | Men's HS 137</title>
+		<title>Oberstdorf | Men's HS 137 (Live)</title>
 		<desc>Four Hills | Event 1 | Qualifying</desc>
 	</programme>
 	<programme channel="6116" start="20241230193000 +0000" stop="20241230210000 +0000">
-		<title>Oberstdorf | Men's HS 137</title>
+		<title>Oberstdorf | Men's HS 137 (Live)</title>
 		<desc>Four Hills | Event 1</desc>
 	</programme>
 	<programme channel="6116" start="20241230210000 +0000" stop="20241230220000 +0000">
-		<title>Bormio | Men's Downhill (Live)</title>
+		<title>Bormio | Men's Downhill</title>
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241230220000 +0000" stop="20241230230000 +0000">
@@ -4160,15 +4160,15 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241230230000 +0000" stop="20241230233000 +0000">
-		<title>Oberstdorf | Men's HS 137</title>
+		<title>Oberstdorf | Men's HS 137 (Live)</title>
 		<desc>Four Hills | Event 1 | Qualifying</desc>
 	</programme>
 	<programme channel="6116" start="20241230233000 +0000" stop="20241231010000 +0000">
-		<title>Oberstdorf | Men's HS 137</title>
+		<title>Oberstdorf | Men's HS 137 (Live)</title>
 		<desc>Four Hills | Event 1</desc>
 	</programme>
 	<programme channel="6116" start="20241231010000 +0000" stop="20241231020000 +0000">
-		<title>Bormio | Men's Downhill (Live)</title>
+		<title>Bormio | Men's Downhill</title>
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241231020000 +0000" stop="20241231030000 +0000">
@@ -4188,11 +4188,11 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241231050000 +0000" stop="20241231053000 +0000">
-		<title>Oberstdorf | Men's HS 137</title>
+		<title>Oberstdorf | Men's HS 137 (Live)</title>
 		<desc>Four Hills | Event 1 | Qualifying</desc>
 	</programme>
 	<programme channel="6116" start="20241231053000 +0000" stop="20241231070000 +0000">
-		<title>Oberstdorf | Men's HS 137</title>
+		<title>Oberstdorf | Men's HS 137 (Live)</title>
 		<desc>Four Hills | Event 1</desc>
 	</programme>
 	<programme channel="6116" start="20241231070000 +0000" stop="20241231073000 +0000">
@@ -4216,15 +4216,15 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241231101500 +0000" stop="20241231120000 +0000">
-		<title>Toblach | Men's 20km Freestyle</title>
+		<title>Toblach | Men's 20km Freestyle (Live)</title>
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241231120000 +0000" stop="20241231134500 +0000">
-		<title>Garmisch-Partenkirchen | Men's HS 142</title>
+		<title>Garmisch-Partenkirchen | Men's HS 142 (Live)</title>
 		<desc>Four Hills | Event 2 | Qualifying</desc>
 	</programme>
 	<programme channel="6116" start="20241231134500 +0000" stop="20241231151500 +0000">
-		<title>Toblach | Women's 20km Freestyle</title>
+		<title>Toblach | Women's 20km Freestyle (Live)</title>
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="5118" start="20241229145500 +0000" stop="20241229170000 +0000">
@@ -17947,9 +17947,13 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<title>I Dream Of Jeannie S4 Episode 23</title>
 		<desc>Jeannie kisses Tony goodbye before he goes into lunar orbit. Realizing Tony has caught a col from Jeannie, she decides to bring him back with a blink but ended up bringing the wrong person back.</desc>
 	</programme>
-	<programme channel="5326" start="20241231130000 +0000" stop="20241231150000 +0000">
-		<title>A New Year's Resolution</title>
-		<desc>When a morning show producer makes a New Year's resolution to say yes more, she crosses paths with a confirmed Yes man who just might hold the key to her biggest story and to her heart</desc>
+	<programme channel="5326" start="20241231130000 +0000" stop="20241231140000 +0000">
+		<title>The Incredible Hulk S3 Episode 17</title>
+		<desc>Banner's in a muddle when thieves ask him for help and the police need information.</desc>
+	</programme>
+	<programme channel="5326" start="20241231140000 +0000" stop="20241231150000 +0000">
+		<title>Law &amp; Order Special Victims Unit S10 Episode 10</title>
+		<desc>Kelly is found wandering Riverside Park, beaten and raped, and has no memory of what happened.Olivia discovers Sun was on her way to Korea, but never boarded her flight and instead is found leaving the airport with mystery man.</desc>
 	</programme>
 	<programme channel="5326" start="20241231150000 +0000" stop="20241231153000 +0000">
 		<title>Bewitched S4 Episode 24</title>
