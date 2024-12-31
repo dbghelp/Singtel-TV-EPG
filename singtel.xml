@@ -3941,7 +3941,7 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241230190000 +0000" stop="20241230193000 +0000">
-		<title>Oberstdorf | Men's HS 137 (Live)</title>
+		<title>Oberstdorf | Men's HS 137</title>
 		<desc>Four Hills | Event 1 | Qualifying</desc>
 	</programme>
 	<programme channel="6116" start="20241230193000 +0000" stop="20241230210000 +0000">
@@ -3957,7 +3957,7 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241230230000 +0000" stop="20241230233000 +0000">
-		<title>Oberstdorf | Men's HS 137 (Live)</title>
+		<title>Oberstdorf | Men's HS 137</title>
 		<desc>Four Hills | Event 1 | Qualifying</desc>
 	</programme>
 	<programme channel="6116" start="20241230233000 +0000" stop="20241231010000 +0000">
@@ -3985,7 +3985,7 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241231050000 +0000" stop="20241231053000 +0000">
-		<title>Oberstdorf | Men's HS 137 (Live)</title>
+		<title>Oberstdorf | Men's HS 137</title>
 		<desc>Four Hills | Event 1 | Qualifying</desc>
 	</programme>
 	<programme channel="6116" start="20241231053000 +0000" stop="20241231070000 +0000">
@@ -4021,7 +4021,7 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>Four Hills | Event 2 | Qualifying</desc>
 	</programme>
 	<programme channel="6116" start="20241231134500 +0000" stop="20241231151500 +0000">
-		<title>Toblach | Women's 20km Freestyle</title>
+		<title>Toblach | Women's 20km Freestyle (Live)</title>
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241231151500 +0000" stop="20241231151500 +0000">
@@ -4037,7 +4037,7 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241231180000 +0000" stop="20241231190000 +0000">
-		<title>Toblach | Women's 20km Freestyle</title>
+		<title>Toblach | Women's 20km Freestyle (Live)</title>
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241231190000 +0000" stop="20241231200000 +0000">
@@ -4053,7 +4053,7 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241231220000 +0000" stop="20241231230000 +0000">
-		<title>Toblach | Women's 20km Freestyle</title>
+		<title>Toblach | Women's 20km Freestyle (Live)</title>
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20241231230000 +0000" stop="20250101000000 +0000">
@@ -4073,7 +4073,7 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20250101030000 +0000" stop="20250101040000 +0000">
-		<title>Toblach | Women's 20km Freestyle</title>
+		<title>Toblach | Women's 20km Freestyle (Live)</title>
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20250101040000 +0000" stop="20250101043000 +0000">
@@ -4093,7 +4093,7 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20250101070000 +0000" stop="20250101080000 +0000">
-		<title>Toblach | Women's 20km Freestyle</title>
+		<title>Toblach | Women's 20km Freestyle (Live)</title>
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20250101080000 +0000" stop="20250101083000 +0000">
@@ -4105,19 +4105,19 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20250101091500 +0000" stop="20250101103000 +0000">
-		<title>Toblach | Men's 15km Pursuit (Live)</title>
+		<title>Toblach | Men's 15km Pursuit</title>
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20250101103000 +0000" stop="20250101111500 +0000">
-		<title>Toblach | Women's 20km Freestyle</title>
+		<title>Toblach | Women's 20km Freestyle (Live)</title>
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20250101111500 +0000" stop="20250101123000 +0000">
-		<title>Toblach | Women's 15km Pursuit (Live)</title>
+		<title>Toblach | Women's 15km Pursuit</title>
 		<desc>World Cup</desc>
 	</programme>
 	<programme channel="6116" start="20250101123000 +0000" stop="20250101151000 +0000">
-		<title>Garmisch-Partenkirchen | Men's HS 142 (Live)</title>
+		<title>Garmisch-Partenkirchen | Men's HS 142</title>
 		<desc>Four Hills | Event 2</desc>
 	</programme>
 	<programme channel="5118" start="20241230145000 +0000" stop="20241230164000 +0000">
@@ -4529,52 +4529,64 @@ During a robbery in 2019, jewellery heist criminal Yao’s cold-blooded gunshot 
 		<desc>ATP Tour 250 2024</desc>
 	</programme>
 	<programme channel="6127" start="20241230220000 +0000" stop="20241230233000 +0000">
-		<title>ATP Tour 250 2025: Hong Kong Day 1 Match 3 Episode 25</title>
+		<title>ATP Tour 250 2025: Hong Kong Day 1 Norrie v Tien Episode 25</title>
 		<desc>ATP Tour 250 2025</desc>
 	</programme>
 	<programme channel="6127" start="20241230233000 +0000" stop="20241231010000 +0000">
-		<title>ATP Tour 250 2025: Brisbane Day 2 Match 1 Episode 3</title>
+		<title>ATP Tour 250 2025: Brisbane Day 2 O'Connell v Michelsen Episode 3</title>
 		<desc>ATP Tour 250 2025</desc>
 	</programme>
 	<programme channel="6127" start="20241231010000 +0000" stop="20241231030000 +0000">
-		<title>ATP Tour 250 2025: Brisbane Day 3 Match 1 (Live) Episode 8</title>
+		<title>ATP Tour 250 2025: Brisbane Day 3 Popyrin v Arnaldi (Live) Episode 8</title>
 		<desc>ATP Tour 250 2025</desc>
 	</programme>
 	<programme channel="6127" start="20241231030000 +0000" stop="20241231043000 +0000">
-		<title>ATP Tour 250 2025: Brisbane Day 3 Match 2 (Live) Episode 9</title>
+		<title>ATP Tour 250 2025: Brisbane Day 3 Tiafoe v Walton (Live) Episode 9</title>
 		<desc>ATP Tour 250 2025</desc>
 	</programme>
 	<programme channel="6127" start="20241231043000 +0000" stop="20241231063000 +0000">
-		<title>ATP Tour 250 2025: Brisbane Day 3 Match 3 (Live) Episode 10</title>
+		<title>ATP Tour 250 2025: Brisbane Day 3 Kyrgios v Mpetshi Perricard (Live) Episode 10</title>
 		<desc>ATP Tour 250 2025</desc>
 	</programme>
-	<programme channel="6127" start="20241231063000 +0000" stop="20241231083000 +0000">
-		<title>ATP Tour 250 2025: Brisbane Day 3 Match 4 (Live) Episode 11</title>
-		<desc>ATP Tour 250 2025</desc>
+	<programme channel="6127" start="20241231063000 +0000" stop="20241231064000 +0000">
+		<title>ATP Tour 500 Highlights 2024: Basel Final Shelton v Mpetshi Perricard Episode 7</title>
+		<desc>ATP Tour 500 Highlights 2024</desc>
 	</programme>
-	<programme channel="6127" start="20241231083000 +0000" stop="20241231090000 +0000">
+	<programme channel="6127" start="20241231064000 +0000" stop="20241231065500 +0000">
+		<title>ATP Tour 1000 Highlights 2024: Paris SFs Episode 13</title>
+		<desc>ATP Tour 1000 Highlights 2024</desc>
+	</programme>
+	<programme channel="6127" start="20241231065500 +0000" stop="20241231070500 +0000">
+		<title>ATP Tour 1000 Highlights 2024: Paris Final Zverev v Humbert Episode 14</title>
+		<desc>ATP Tour 1000 Highlights 2024</desc>
+	</programme>
+	<programme channel="6127" start="20241231070500 +0000" stop="20241231073000 +0000">
 		<title>ATP Tour 1000 Highlights 2024: Shanghai SFs and Final Episode 12</title>
 		<desc>ATP Tour 1000 Highlights 2024</desc>
 	</programme>
-	<programme channel="6127" start="20241231090000 +0000" stop="20241231110000 +0000">
-		<title>ATP Tour 250 2025: Hong Kong Day 2 Match 3 (Live) Episode 28</title>
+	<programme channel="6127" start="20241231073000 +0000" stop="20241231093000 +0000">
+		<title>ATP Tour 250 2025: Brisbane Day 3 Djokovic v Hijikata Episode 11</title>
 		<desc>ATP Tour 250 2025</desc>
+	</programme>
+	<programme channel="6127" start="20241231093000 +0000" stop="20241231110000 +0000">
+		<title>ATP Tour 250 2025 [Join in Progress]: Hong Kong Day 2 Shang v Wong (Live) Episode 28</title>
+		<desc>ATP Tour 250 2025 [Join in Progress]</desc>
 	</programme>
 	<programme channel="6127" start="20241231110000 +0000" stop="20241231113000 +0000">
 		<title>ATP Doco Shorts (CC): Nadal Number 1 Story Episode 39</title>
 		<desc>ATP Doco Shorts (CC)</desc>
 	</programme>
-	<programme channel="6127" start="20241231113000 +0000" stop="20241231130000 +0000">
-		<title>ATP Tour 250 2025: Brisbane Day 3 Match 1 Episode 8</title>
-		<desc>ATP Tour 250 2025</desc>
-	</programme>
-	<programme channel="6127" start="20241231130000 +0000" stop="20241231140000 +0000">
+	<programme channel="6127" start="20241231113000 +0000" stop="20241231123000 +0000">
 		<title>ATP Tour Review Show 2024: Turin - Nitto ATP Finals Episode 23</title>
 		<desc>ATP Tour Review Show 2024</desc>
 	</programme>
-	<programme channel="6127" start="20241231140000 +0000" stop="20241231150000 +0000">
+	<programme channel="6127" start="20241231123000 +0000" stop="20241231133000 +0000">
 		<title>ATP Tour Review Show 2024: Season in Review 2024 Episode 25</title>
 		<desc>ATP Tour Review Show 2024</desc>
+	</programme>
+	<programme channel="6127" start="20241231133000 +0000" stop="20241231150000 +0000">
+		<title>ATP Tour 250 2025: Brisbane Day 3 Djokovic v Hijikata Episode 11</title>
+		<desc>ATP Tour 250 2025</desc>
 	</programme>
 	<programme channel="6127" start="20241231150000 +0000" stop="20241231153000 +0000">
 		<title>AO Originals 2025: Forza Jannik</title>
@@ -20691,8 +20703,8 @@ Amanda S.带来法国传统的圣多诺黑蛋糕，另一试味嘉宾曹众大�
 		<desc>收看TVBS News，掌握即時新聞動態</desc>
 	</programme>
 	<programme channel="6516" start="20241231170000 +0000" stop="20241231180000 +0000">
-		<title>十点不一样 / NEWS NIGHT</title>
-		<desc>TVBS News带您全面了解国际新知，与全球接轨</desc>
+		<title>新闻夜视界 / LATE NIGHT VISION</title>
+		<desc>收看TVBS News，掌握即時新聞動態</desc>
 	</programme>
 	<programme channel="6516" start="20241231180000 +0000" stop="20241231190000 +0000">
 		<title>新闻夜视界 / LATE NIGHT VISION</title>
@@ -20703,8 +20715,8 @@ Amanda S.带来法国传统的圣多诺黑蛋糕，另一试味嘉宾曹众大�
 		<desc>收看TVBS News，掌握即時新聞動態</desc>
 	</programme>
 	<programme channel="6516" start="20241231200000 +0000" stop="20241231210000 +0000">
-		<title>九点热话题 / 2100 HOT TOPICS</title>
-		<desc>帶您關注台灣與全球的新聞焦點</desc>
+		<title>新闻夜视界 / LATE NIGHT VISION</title>
+		<desc>收看TVBS News，掌握即時新聞動態</desc>
 	</programme>
 	<programme channel="6516" start="20241231210000 +0000" stop="20241231220000 +0000">
 		<title>十点不一样 / NEWS NIGHT</title>
@@ -21118,52 +21130,64 @@ Amanda S.带来法国传统的圣多诺黑蛋糕，另一试味嘉宾曹众大�
 		<title>閃亮的西瓜 / Twinkling Watermelon Episode 16</title>
 		<desc>CODA少年意外穿越時空回到1995年，遇上當時18歲的父親並一起組成Watermelon Sugar樂團，就此展開一段奇幻成長之旅。</desc>
 	</programme>
-	<programme channel="5038" start="20241230153500 +0000" stop="20241230165000 +0000">
-		<title>Korea-Khitan War</title>
+	<programme channel="5038" start="20241230153500 +0000" stop="20241230163500 +0000">
+		<title>Korea-Khitan War Episode 7</title>
 		<desc>"Korea-Khitan War" is about numerous heroes, including King Hyeonjong and General Gang Gamchan, who led the 26-year-long war against the Khitans, the strongest power of the time, to victory.</desc>
 	</programme>
+	<programme channel="5038" start="20241230163500 +0000" stop="20241230165000 +0000">
+		<title>My Day Trip</title>
+		<desc>A special day as a gift to me! A one-day local trip project that creates a travel plan anyone can see, feel, taste, and experience the charm of the region.</desc>
+	</programme>
 	<programme channel="5038" start="20241230165000 +0000" stop="20241230183000 +0000">
-		<title>Two Days and One Night 4</title>
+		<title>Two Days and One Night 4 Episode 254</title>
 		<desc>Two-day road trip to the beautiful spots in all the corners of Korea! Instead of fancy studio, this on-the-road reality show takes place in the rural sides. While over 10 million Koreans travel abroad each year, the "2 Days and 1 Night" casts travel around Korea - to the mountains, farms, fishing villages, islands - where you can meet the welcoming smiles of our neighbors and the beautiful nature that cleanse our eyes.</desc>
 	</programme>
 	<programme channel="5038" start="20241230183000 +0000" stop="20241230190500 +0000">
-		<title>My Merry Marriage</title>
+		<title>My Merry Marriage Episode 53</title>
 		<desc>A family drama that questions the true meaning of ‘happiness' by showing various aspects of marriage such as divorce, remarriage, and late marriage.</desc>
 	</programme>
 	<programme channel="5038" start="20241230190500 +0000" stop="20241230194500 +0000">
-		<title>Cinderella Game</title>
+		<title>Cinderella Game Episode 16</title>
 		<desc>A story of a woman who realizes the meaning of true revenge while she has been used as a fake daughter by her enemy.</desc>
 	</programme>
-	<programme channel="5038" start="20241230194500 +0000" stop="20241230210000 +0000">
-		<title>Zombie Detective</title>
+	<programme channel="5038" start="20241230194500 +0000" stop="20241230202500 +0000">
+		<title>Zombie Detective Episode 9</title>
+		<desc>There are zombies living in our town? A comic story of a resurrected zombie becoming a detective to find his own past.</desc>
+	</programme>
+	<programme channel="5038" start="20241230202500 +0000" stop="20241230210000 +0000">
+		<title>Zombie Detective Episode 9</title>
 		<desc>There are zombies living in our town? A comic story of a resurrected zombie becoming a detective to find his own past.</desc>
 	</programme>
 	<programme channel="5038" start="20241230210000 +0000" stop="20241230223000 +0000">
-		<title>Stars' Top Recipe at Fun-Staurant</title>
+		<title>Stars' Top Recipe at Fun-Staurant Episode 252</title>
 		<desc>Gourmet celebrities team up to explore the world of convenience stores and share their secret recipes!</desc>
 	</programme>
 	<programme channel="5038" start="20241230223000 +0000" stop="20241230231000 +0000">
-		<title>The Two Sisters</title>
+		<title>The Two Sisters Episode 66</title>
 		<desc>"The Two Sisters" is a tragic story of two sisters separated during childhood because of their parents' divorce. By a twist of fate, they meet each other again as mother-in-law and daughter-in-law.</desc>
 	</programme>
-	<programme channel="5038" start="20241230231000 +0000" stop="20241231002500 +0000">
-		<title>KBS WORLD News Today</title>
-		<desc>KBS World Daily English News Anchor : Choi Kyu-yeon</desc>
+	<programme channel="5038" start="20241230231000 +0000" stop="20241231001000 +0000">
+		<title>Korea-Khitan War Episode 7</title>
+		<desc>"Korea-Khitan War" is about numerous heroes, including King Hyeonjong and General Gang Gamchan, who led the 26-year-long war against the Khitans, the strongest power of the time, to victory.</desc>
+	</programme>
+	<programme channel="5038" start="20241231001000 +0000" stop="20241231002500 +0000">
+		<title>My Day Trip</title>
+		<desc>A special day as a gift to me! A one-day local trip project that creates a travel plan anyone can see, feel, taste, and experience the charm of the region.</desc>
 	</programme>
 	<programme channel="5038" start="20241231002500 +0000" stop="20241231010000 +0000">
-		<title>My Merry Marriage</title>
+		<title>My Merry Marriage Episode 53</title>
 		<desc>A family drama that questions the true meaning of ‘happiness' by showing various aspects of marriage such as divorce, remarriage, and late marriage.</desc>
 	</programme>
 	<programme channel="5038" start="20241231010000 +0000" stop="20241231014000 +0000">
-		<title>Cinderella Game</title>
+		<title>Cinderella Game Episode 16</title>
 		<desc>A story of a woman who realizes the meaning of true revenge while she has been used as a fake daughter by her enemy.</desc>
 	</programme>
 	<programme channel="5038" start="20241231014000 +0000" stop="20241231022000 +0000">
-		<title>The Two Sisters</title>
+		<title>The Two Sisters Episode 66</title>
 		<desc>"The Two Sisters" is a tragic story of two sisters separated during childhood because of their parents' divorce. By a twist of fate, they meet each other again as mother-in-law and daughter-in-law.</desc>
 	</programme>
 	<programme channel="5038" start="20241231022000 +0000" stop="20241231033500 +0000">
-		<title>Iron Family</title>
+		<title>Iron Family Episode 20</title>
 		<desc>A romantic black comedy takes place at "Darim family's laundry" where they dry-clean money instead of clothes.</desc>
 	</programme>
 	<programme channel="5038" start="20241231033500 +0000" stop="20241231034000 +0000">
@@ -21171,143 +21195,179 @@ Amanda S.带来法国传统的圣多诺黑蛋糕，另一试味嘉宾曹众大�
 		<desc>The true classic of the century is born again! The legendary classic is reinterpreted by the best idol groups in Korea. Don't miss out on the heart-moving moments that transcend generations.</desc>
 	</programme>
 	<programme channel="5038" start="20241231034000 +0000" stop="20241231051000 +0000">
-		<title>Stars' Top Recipe at Fun-Staurant</title>
+		<title>Stars' Top Recipe at Fun-Staurant Episode 252</title>
 		<desc>Gourmet celebrities team up to explore the world of convenience stores and share their secret recipes!</desc>
 	</programme>
-	<programme channel="5038" start="20241231051000 +0000" stop="20241231062500 +0000">
-		<title>Zombie Detective</title>
+	<programme channel="5038" start="20241231051000 +0000" stop="20241231055000 +0000">
+		<title>Zombie Detective Episode 9</title>
 		<desc>There are zombies living in our town? A comic story of a resurrected zombie becoming a detective to find his own past.</desc>
 	</programme>
-	<programme channel="5038" start="20241231062500 +0000" stop="20241231074000 +0000">
-		<title>Korea-Khitan War</title>
+	<programme channel="5038" start="20241231055000 +0000" stop="20241231062500 +0000">
+		<title>Zombie Detective Episode 9</title>
+		<desc>There are zombies living in our town? A comic story of a resurrected zombie becoming a detective to find his own past.</desc>
+	</programme>
+	<programme channel="5038" start="20241231062500 +0000" stop="20241231072500 +0000">
+		<title>Korea-Khitan War Episode 7</title>
 		<desc>"Korea-Khitan War" is about numerous heroes, including King Hyeonjong and General Gang Gamchan, who led the 26-year-long war against the Khitans, the strongest power of the time, to victory.</desc>
+	</programme>
+	<programme channel="5038" start="20241231072500 +0000" stop="20241231074000 +0000">
+		<title>My Day Trip</title>
+		<desc>A special day as a gift to me! A one-day local trip project that creates a travel plan anyone can see, feel, taste, and experience the charm of the region.</desc>
 	</programme>
 	<programme channel="5038" start="20241231074000 +0000" stop="20241231080000 +0000">
 		<title>KBS WORLD News Today</title>
 		<desc>KBS World Daily English News Anchor : Choi Kyu-yeon</desc>
 	</programme>
 	<programme channel="5038" start="20241231080000 +0000" stop="20241231090000 +0000">
-		<title>TBC</title>
-		<desc>TBC</desc>
+		<title>Talchum, Dance with Tal</title>
+		<desc>Talchum, Dance with Tal</desc>
 	</programme>
 	<programme channel="5038" start="20241231090000 +0000" stop="20241231102500 +0000">
-		<title>The Seasons</title>
+		<title>The Seasons Episode 12</title>
 		<desc>On a Friday night when a week starts and end, a talk show brings you music and stories that will "get rid of all your worries and all your concerns."</desc>
 	</programme>
 	<programme channel="5038" start="20241231102500 +0000" stop="20241231113500 +0000">
-		<title>Cheer Up!</title>
+		<title>Cheer Up! Episode 10</title>
 		<desc>This drama features 18-year-old characters growth and their anecdotes happening at a prestige boarding high school with a high college entrance rate. One day, cheering club Baekho with honor students and dancing club Real King with problem students unified as a cheerleading club. What will happen when they are gathered for a cheerleading?</desc>
 	</programme>
 	<programme channel="5038" start="20241231113500 +0000" stop="20241231121000 +0000">
-		<title>My Merry Marriage</title>
+		<title>My Merry Marriage Episode 54</title>
 		<desc>A family drama that questions the true meaning of ‘happiness' by showing various aspects of marriage such as divorce, remarriage, and late marriage.</desc>
 	</programme>
 	<programme channel="5038" start="20241231121000 +0000" stop="20241231125000 +0000">
-		<title>Cinderella Game</title>
+		<title>Cinderella Game Episode 17</title>
 		<desc>A story of a woman who realizes the meaning of true revenge while she has been used as a fake daughter by her enemy.</desc>
 	</programme>
-	<programme channel="5038" start="20241231125000 +0000" stop="20241231140500 +0000">
-		<title>Zombie Detective</title>
+	<programme channel="5038" start="20241231125000 +0000" stop="20241231133000 +0000">
+		<title>Zombie Detective Episode 10</title>
+		<desc>There are zombies living in our town? A comic story of a resurrected zombie becoming a detective to find his own past.</desc>
+	</programme>
+	<programme channel="5038" start="20241231133000 +0000" stop="20241231140500 +0000">
+		<title>Zombie Detective Episode 10</title>
 		<desc>There are zombies living in our town? A comic story of a resurrected zombie becoming a detective to find his own past.</desc>
 	</programme>
 	<programme channel="5038" start="20241231140500 +0000" stop="20241231153500 +0000">
-		<title>TBC</title>
-		<desc>TBC</desc>
+		<title>Moving Voices</title>
+		<desc>A global music trip to experience the music and the culture of various countries.</desc>
 	</programme>
 	<programme channel="5038" start="20241231153500 +0000" stop="20241231153500 +0000">
-		<title>Korea-Khitan War</title>
+		<title>Korea-Khitan War Episode 8</title>
 		<desc>"Korea-Khitan War" is about numerous heroes, including King Hyeonjong and General Gang Gamchan, who led the 26-year-long war against the Khitans, the strongest power of the time, to victory.</desc>
 	</programme>
-	<programme channel="5038" start="20241231153500 +0000" stop="20241231165000 +0000">
-		<title>Korea-Khitan War</title>
+	<programme channel="5038" start="20241231153500 +0000" stop="20241231163500 +0000">
+		<title>Korea-Khitan War Episode 8</title>
 		<desc>"Korea-Khitan War" is about numerous heroes, including King Hyeonjong and General Gang Gamchan, who led the 26-year-long war against the Khitans, the strongest power of the time, to victory.</desc>
+	</programme>
+	<programme channel="5038" start="20241231163500 +0000" stop="20241231165000 +0000">
+		<title>My Day Trip</title>
+		<desc>A special day as a gift to me! A one-day local trip project that creates a travel plan anyone can see, feel, taste, and experience the charm of the region.</desc>
 	</programme>
 	<programme channel="5038" start="20241231165000 +0000" stop="20241231183000 +0000">
-		<title>Immortal Songs</title>
+		<title>Immortal Songs Episode 685</title>
 		<desc>The true classic of the century is born again! The legendary classic is reinterpreted by the best idol groups in Korea. Don't miss out on the heart-moving moments that transcend generations.</desc>
 	</programme>
 	<programme channel="5038" start="20241231183000 +0000" stop="20241231190500 +0000">
-		<title>My Merry Marriage</title>
+		<title>My Merry Marriage Episode 54</title>
 		<desc>A family drama that questions the true meaning of ‘happiness' by showing various aspects of marriage such as divorce, remarriage, and late marriage.</desc>
 	</programme>
 	<programme channel="5038" start="20241231190500 +0000" stop="20241231194500 +0000">
-		<title>Cinderella Game</title>
+		<title>Cinderella Game Episode 17</title>
 		<desc>A story of a woman who realizes the meaning of true revenge while she has been used as a fake daughter by her enemy.</desc>
 	</programme>
-	<programme channel="5038" start="20241231194500 +0000" stop="20241231210000 +0000">
-		<title>Zombie Detective</title>
+	<programme channel="5038" start="20241231194500 +0000" stop="20241231202500 +0000">
+		<title>Zombie Detective Episode 10</title>
+		<desc>There are zombies living in our town? A comic story of a resurrected zombie becoming a detective to find his own past.</desc>
+	</programme>
+	<programme channel="5038" start="20241231202500 +0000" stop="20241231210000 +0000">
+		<title>Zombie Detective Episode 10</title>
 		<desc>There are zombies living in our town? A comic story of a resurrected zombie becoming a detective to find his own past.</desc>
 	</programme>
 	<programme channel="5038" start="20241231210000 +0000" stop="20241231223000 +0000">
-		<title>TBC</title>
-		<desc>TBC</desc>
+		<title>Moving Voices</title>
+		<desc>A global music trip to experience the music and the culture of various countries.</desc>
 	</programme>
 	<programme channel="5038" start="20241231223000 +0000" stop="20241231231000 +0000">
-		<title>The Two Sisters</title>
+		<title>The Two Sisters Episode 67</title>
 		<desc>"The Two Sisters" is a tragic story of two sisters separated during childhood because of their parents' divorce. By a twist of fate, they meet each other again as mother-in-law and daughter-in-law.</desc>
 	</programme>
-	<programme channel="5038" start="20241231231000 +0000" stop="20250101002500 +0000">
-		<title>KBS WORLD News Today</title>
-		<desc>KBS World Daily English News Anchor : Choi Kyu-yeon</desc>
+	<programme channel="5038" start="20241231231000 +0000" stop="20250101001000 +0000">
+		<title>Korea-Khitan War Episode 8</title>
+		<desc>"Korea-Khitan War" is about numerous heroes, including King Hyeonjong and General Gang Gamchan, who led the 26-year-long war against the Khitans, the strongest power of the time, to victory.</desc>
+	</programme>
+	<programme channel="5038" start="20250101001000 +0000" stop="20250101002500 +0000">
+		<title>My Day Trip</title>
+		<desc>A special day as a gift to me! A one-day local trip project that creates a travel plan anyone can see, feel, taste, and experience the charm of the region.</desc>
 	</programme>
 	<programme channel="5038" start="20250101002500 +0000" stop="20250101010000 +0000">
-		<title>My Merry Marriage</title>
+		<title>My Merry Marriage Episode 54</title>
 		<desc>A family drama that questions the true meaning of ‘happiness' by showing various aspects of marriage such as divorce, remarriage, and late marriage.</desc>
 	</programme>
 	<programme channel="5038" start="20250101010000 +0000" stop="20250101014000 +0000">
-		<title>Cinderella Game</title>
+		<title>Cinderella Game Episode 17</title>
 		<desc>A story of a woman who realizes the meaning of true revenge while she has been used as a fake daughter by her enemy.</desc>
 	</programme>
 	<programme channel="5038" start="20250101014000 +0000" stop="20250101022000 +0000">
-		<title>The Two Sisters</title>
+		<title>The Two Sisters Episode 67</title>
 		<desc>"The Two Sisters" is a tragic story of two sisters separated during childhood because of their parents' divorce. By a twist of fate, they meet each other again as mother-in-law and daughter-in-law.</desc>
 	</programme>
 	<programme channel="5038" start="20250101022000 +0000" stop="20250101033500 +0000">
-		<title>Iron Family</title>
+		<title>Iron Family Episode 21</title>
 		<desc>A romantic black comedy takes place at "Darim family's laundry" where they dry-clean money instead of clothes.</desc>
 	</programme>
 	<programme channel="5038" start="20250101033500 +0000" stop="20250101034000 +0000">
-		<title>Music Bank K-Chart</title>
-		<desc>Follow the latest trend in the Korean music scene through the K-chart, a summary of the week's hottest songs.</desc>
+		<title>The Best of Immortal Songs</title>
+		<desc>The true classic of the century is born again! The legendary classic is reinterpreted by the best idol groups in Korea. Don't miss out on the heart-moving moments that transcend generations.</desc>
 	</programme>
 	<programme channel="5038" start="20250101034000 +0000" stop="20250101051000 +0000">
-		<title>TBC</title>
-		<desc>TBC</desc>
+		<title>Moving Voices</title>
+		<desc>A global music trip to experience the music and the culture of various countries.</desc>
 	</programme>
-	<programme channel="5038" start="20250101051000 +0000" stop="20250101062500 +0000">
-		<title>Zombie Detective</title>
+	<programme channel="5038" start="20250101051000 +0000" stop="20250101055000 +0000">
+		<title>Zombie Detective Episode 10</title>
 		<desc>There are zombies living in our town? A comic story of a resurrected zombie becoming a detective to find his own past.</desc>
 	</programme>
-	<programme channel="5038" start="20250101062500 +0000" stop="20250101074000 +0000">
-		<title>Korea-Khitan War</title>
+	<programme channel="5038" start="20250101055000 +0000" stop="20250101062500 +0000">
+		<title>Zombie Detective Episode 10</title>
+		<desc>There are zombies living in our town? A comic story of a resurrected zombie becoming a detective to find his own past.</desc>
+	</programme>
+	<programme channel="5038" start="20250101062500 +0000" stop="20250101072500 +0000">
+		<title>Korea-Khitan War Episode 8</title>
 		<desc>"Korea-Khitan War" is about numerous heroes, including King Hyeonjong and General Gang Gamchan, who led the 26-year-long war against the Khitans, the strongest power of the time, to victory.</desc>
 	</programme>
-	<programme channel="5038" start="20250101074000 +0000" stop="20250101080000 +0000">
-		<title>KBS WORLD News Today</title>
-		<desc>KBS World Daily English News Anchor : Choi Kyu-yeon</desc>
+	<programme channel="5038" start="20250101072500 +0000" stop="20250101074000 +0000">
+		<title>My Day Trip</title>
+		<desc>A special day as a gift to me! A one-day local trip project that creates a travel plan anyone can see, feel, taste, and experience the charm of the region.</desc>
+	</programme>
+	<programme channel="5038" start="20250101074000 +0000" stop="20250101075500 +0000">
+		<title>The Seasons W</title>
+		<desc>On Saturday night, when the end of one week meets the start of another, this show will bring you music and stories that will soothe your worries and concerns.</desc>
+	</programme>
+	<programme channel="5038" start="20250101075500 +0000" stop="20250101080000 +0000">
+		<title>The Best of Immortal Songs</title>
+		<desc>The true classic of the century is born again! The legendary classic is reinterpreted by the best idol groups in Korea. Don't miss out on the heart-moving moments that transcend generations.</desc>
 	</programme>
 	<programme channel="5038" start="20250101080000 +0000" stop="20250101091500 +0000">
-		<title>The Real has come!</title>
+		<title>The Real has come! Episode 34</title>
 		<desc>Yeondu, a single mom, and Gyeongtae, a bachelor who declares non-marriage, agree to start a fake relationship. When Yeondu's baby "Real" is born, the entire family becomes "Childcare Avengers."</desc>
 	</programme>
 	<programme channel="5038" start="20250101091500 +0000" stop="20250101102500 +0000">
-		<title>The Real has come!</title>
+		<title>The Real has come! Episode 35</title>
 		<desc>Yeondu, a single mom, and Gyeongtae, a bachelor who declares non-marriage, agree to start a fake relationship. When Yeondu's baby "Real" is born, the entire family becomes "Childcare Avengers."</desc>
 	</programme>
 	<programme channel="5038" start="20250101102500 +0000" stop="20250101113500 +0000">
-		<title>The Return of Superman</title>
+		<title>The Return of Superman Episode 553</title>
 		<desc>Parenting challenges of "Superman,” the first hero that children encounter when they are born.</desc>
 	</programme>
 	<programme channel="5038" start="20250101113500 +0000" stop="20250101121000 +0000">
-		<title>My Merry Marriage</title>
+		<title>My Merry Marriage Episode 55</title>
 		<desc>A family drama that questions the true meaning of ‘happiness' by showing various aspects of marriage such as divorce, remarriage, and late marriage.</desc>
 	</programme>
 	<programme channel="5038" start="20250101121000 +0000" stop="20250101125000 +0000">
-		<title>Cinderella Game</title>
+		<title>Cinderella Game Episode 18</title>
 		<desc>A story of a woman who realizes the meaning of true revenge while she has been used as a fake daughter by her enemy.</desc>
 	</programme>
 	<programme channel="5038" start="20250101125000 +0000" stop="20250101142000 +0000">
-		<title>THE DDANDDARA</title>
+		<title>THE DDANDDARA Episode 8</title>
 		<desc>A new variety audition program with KBS and artist J.Y. Park.</desc>
 	</programme>
 	<programme channel="5038" start="20250101142000 +0000" stop="20250101153500 +0000">
@@ -25786,15 +25846,23 @@ Amanda S.带来法国传统的圣多诺黑蛋糕，另一试味嘉宾曹众大�
 		<title>Malli</title>
 		<desc>Things take a momentous shift when a bold &amp; loving village girl, Malli, crosses paths with a doting father and his 6-year-old daughter who yearns for a mother's love. Join the family's journey through the nuances of love, affection &amp; parenthood.</desc>
 	</programme>
-	<programme channel="5622" start="20241231153000 +0000" stop="20241231160000 +0000">
-		<title>Malar - Serial</title>
-		<desc>Though not siblings by birth, Parvathi means the world to her warm-hearted sister Malar. While Malar's ultimate wish is to find the perfect life partner &amp; a happily-ever-after life for Paravathi, what is destiny's plan for them?</desc>
+	<programme channel="5622" start="20241231153000 +0000" stop="20241231155900 +0000">
+		<title>Movie - Kalakalappu</title>
+		<desc>While Seenu struggles to save his family's restaurant, he falls for Madhavi, a health inspector keen on shutting down the place. Things get more complicated when his brother gets released from prison.</desc>
 	</programme>
-	<programme channel="5622" start="20241231160000 +0000" stop="20241231163000 +0000">
-		<title>PUTHU VASANTHAM</title>
-		<desc>Raised as a single child, Selvi longs for the loving embrace &amp; heart-warming bond of a joint family. And when her dream comes true, watch her battle all odds &amp; win over her husband's large family.</desc>
+	<programme channel="5622" start="20241231155900 +0000" stop="20241231155900 +0000">
+		<title>NEW YEAR TIME CHECK WITH GREETINGS</title>
+		<desc>NEW YEAR TIME CHECK WITH GREETINGS</desc>
 	</programme>
-	<programme channel="5622" start="20241231163000 +0000" stop="20241231230000 +0000">
+	<programme channel="5622" start="20241231155900 +0000" stop="20241231160200 +0000">
+		<title>NEW YEAR TIME CHECK WITH GREETINGS</title>
+		<desc>NEW YEAR TIME CHECK WITH GREETINGS</desc>
+	</programme>
+	<programme channel="5622" start="20241231160200 +0000" stop="20241231180000 +0000">
+		<title>Movie Contd -Kalakalappu</title>
+		<desc>While Seenu struggles to save his family's restaurant, he falls for Madhavi, a health inspector keen on shutting down the place. Things get more complicated when his brother gets released from prison.</desc>
+	</programme>
+	<programme channel="5622" start="20241231180000 +0000" stop="20241231230000 +0000">
 		<title>SONGS</title>
 		<desc>Enjoy an extensive collection of soul-stirring melodies.</desc>
 	</programme>
@@ -25803,80 +25871,40 @@ Amanda S.带来法国传统的圣多诺黑蛋糕，另一试味嘉宾曹众大�
 		<desc>This news programme chronicles the latest events, developments, inventions, discoveries and happenings around the world.</desc>
 	</programme>
 	<programme channel="5622" start="20241231233000 +0000" stop="20250101000000 +0000">
-		<title>Vanakkam Thamizha</title>
-		<desc>It's a morning talk show which hosts celebrities &amp; professionals from all walks of life who share their valuable expertise on varied topics. Enjoy a delightful start to your day with a healthy dose of information and entertainment.</desc>
+		<title>THIRAI MINNALGAL</title>
+		<desc>Enjoy an extensive collection of soul-stirring melodies.</desc>
 	</programme>
-	<programme channel="5622" start="20250101000000 +0000" stop="20250101003000 +0000">
-		<title>Ninathale Inikkum</title>
+	<programme channel="5622" start="20250101000000 +0000" stop="20250101010000 +0000">
+		<title>PUTHANDE VARUGA</title>
 		<desc>Sweet Memories of Sun TV Events</desc>
 	</programme>
-	<programme channel="5622" start="20250101003000 +0000" stop="20250101010000 +0000">
-		<title>Sun Autograph</title>
-		<desc>Best Moments of Sun TV shows</desc>
-	</programme>
-	<programme channel="5622" start="20250101010000 +0000" stop="20250101013000 +0000">
-		<title>RAMAYANAM</title>
-		<desc>When Sita, the wife of Prince Rama of Ayodhya, is abducted by Ravana, the Asura king of Lanka, Rama sets out to liberate her with the help of various allies.</desc>
-	</programme>
-	<programme channel="5622" start="20250101013000 +0000" stop="20250101020000 +0000">
-		<title>Singapenne</title>
-		<desc>Born into a humble &amp; rustic background troubled by familial &amp; financial concerns, Anandhi takes it upon herself to leave home &amp; fearlessly pursue a better life for her family. Watch her bravely face the odds of life with unwavering spirit.</desc>
+	<programme channel="5622" start="20250101010000 +0000" stop="20250101020000 +0000">
+		<title>PUTHANDU GALATTA</title>
+		<desc>A funfilled Game show with Singapenne and Rajini Serial Stars.</desc>
 	</programme>
 	<programme channel="5622" start="20250101020000 +0000" stop="20250101023000 +0000">
 		<title>News</title>
 		<desc>This news programme chronicles the latest events, developments, inventions, discoveries and happenings around the world.</desc>
 	</programme>
 	<programme channel="5622" start="20250101023000 +0000" stop="20250101030000 +0000">
-		<title>Anamika - Thriller Serial</title>
-		<desc>Bound for over 200 years, and in a quest for indomitable power, an evil entity that Anamika releases by ill fate threatens her lover Nanda's life and her boss Rishi's unrequited love for her. Setting off an age-old battle between good and evil.</desc>
+		<title>NATCHATHIRA PUTHANDU</title>
+		<desc>A show with Celebrities</desc>
 	</programme>
-	<programme channel="5622" start="20250101030000 +0000" stop="20250101033000 +0000">
-		<title>MALAR</title>
-		<desc>Though not siblings by birth, Parvathi means the world to her warm-hearted sister Malar. While Malar's ultimate wish is to find the perfect life partner &amp; a happily-ever-after life for Paravathi, what is destiny's plan for them?</desc>
+	<programme channel="5622" start="20250101030000 +0000" stop="20250101063000 +0000">
+		<title>Movie -SARKAR</title>
+		<desc>An NRI businessman returns home and learns about the practice of illegal voting. When he decides to investigate the matter, he finds himself pitted against two corrupt politicians.</desc>
 	</programme>
-	<programme channel="5622" start="20250101033000 +0000" stop="20250101040000 +0000">
-		<title>Sevvanthi</title>
-		<desc>Destiny plays a cruel role in Sevanthi's naive and sheltered life with her dream-come-true husband Mano and his extended family. Watch Sevanthi traverse the nuances of family, despite the challenges life throws at her.</desc>
-	</programme>
-	<programme channel="5622" start="20250101040000 +0000" stop="20250101043000 +0000">
-		<title>Punitha</title>
-		<desc>Maragatham holds her step-daughter Punitha dear, to the point of being overbearing. However, their bond turns twisted &amp; burdened when Punitha finds her soulmate, Kabilan. Amidst family betrayals, can Punitha show her mother the true meaning of love?</desc>
-	</programme>
-	<programme channel="5622" start="20250101043000 +0000" stop="20250101050000 +0000">
-		<title>MANAMAGALE VAA</title>
-		<desc>Narmada's mission to her ancestral village to reunite her father &amp; his estranged family entwines with Kathir's task of finding suitable grooms for his three sisters. What unfolds when they fall in love, striving for a cause against the same enemy?</desc>
-	</programme>
-	<programme channel="5622" start="20250101050000 +0000" stop="20250101053000 +0000">
-		<title>Punnagai Poove</title>
-		<desc>Ever since destiny united Kalaivani with Chezhiyan during childhood, she has been thinking of him as her prince charming. Will her hopes of a fairy tale life prevail against the odds and hurdles she is about to encounter?</desc>
-	</programme>
-	<programme channel="5622" start="20250101053000 +0000" stop="20250101060000 +0000">
-		<title>PUTHU VASANTHAM</title>
-		<desc>Raised as a single child, Selvi longs for the loving embrace &amp; heart-warming bond of a joint family. And when her dream comes true, watch her battle all odds &amp; win over her husband's large family.</desc>
-	</programme>
-	<programme channel="5622" start="20250101060000 +0000" stop="20250101063000 +0000">
-		<title>Ilakkiya</title>
-		<desc>Bold and beautiful Ilakkiya finds happiness in making others happy. Circumstance leads to her tying the knot with her friend Gautham. Can Ilakkiya create her destiny, despite Gautham's controlling aunt Bairavi &amp; her conniving cousin Anjali?</desc>
-	</programme>
-	<programme channel="5622" start="20250101063000 +0000" stop="20250101070000 +0000">
-		<title>LAKSHMI</title>
-		<desc>Maha, her family's financial backbone, marries Selvam, on condition that she will continue to support her family financially even after marriage. Post which they confront challenges that put the family's peace and happiness to test.</desc>
-	</programme>
-	<programme channel="5622" start="20250101070000 +0000" stop="20250101073000 +0000">
-		<title>ANANDA RAGAM</title>
-		<desc>Unfortunate events force an ambitious Eashwari and a school dropout Azhagar to tie the knot. Can this odd couple turn their marriage into a happily ever after? Will Eashwari realize her IPS dream amidst life's many hardships?</desc>
-	</programme>
-	<programme channel="5622" start="20250101073000 +0000" stop="20250101080000 +0000">
-		<title>NEW YEAR SPECIALS</title>
-		<desc>Watch your favourite movies with all the drama and emotion on Sun TV.</desc>
+	<programme channel="5622" start="20250101063000 +0000" stop="20250101080000 +0000">
+		<title>Movie -PETTA</title>
+		<desc>In a bid to save his best friend's son Anwar, hostel warden Kaali goes against local goons. However, everything goes haywire when he is forced to face his past.</desc>
 	</programme>
 	<programme channel="5622" start="20250101080000 +0000" stop="20250101083000 +0000">
 		<title>News</title>
 		<desc>This news programme chronicles the latest events, developments, inventions, discoveries and happenings around the world.</desc>
 	</programme>
 	<programme channel="5622" start="20250101083000 +0000" stop="20250101103000 +0000">
-		<title>NEW YEAR SPECIALS</title>
-		<desc>Watch your favourite movies with all the drama and emotion on Sun TV.</desc>
+		<title>Movie Contd -PETTA</title>
+		<desc>In a bid to save his best friend's son Anwar, hostel warden Kaali goes against local goons. However, everything goes haywire when he is forced to face his past.</desc>
 	</programme>
 	<programme channel="5622" start="20250101103000 +0000" stop="20250101110000 +0000">
 		<title>RAMAYANAM</title>
@@ -28082,23 +28110,27 @@ Amanda S.带来法国传统的圣多诺黑蛋糕，另一试味嘉宾曹众大�
 		<title>Jaya Jaya Jaya Jaya Hey</title>
 		<desc>Woman fights back against abusive husband, facing consequences. Release Year: 2022 Director: Vipin Das Awards: 2023 Nominee Bollywood Life - South Movies Award - Best Film</desc>
 	</programme>
-	<programme channel="5639" start="20241230163000 +0000" stop="20241230193000 +0000">
+	<programme channel="5639" start="20241230163000 +0000" stop="20241230164000 +0000">
 		<title>Boeing Boeing</title>
 		<desc>A man seeks the help of his friend and dates numerous air hostesses at the same time. It works in the beginning, but soon begins to crumble. Release Year: 1985 Director: Priyadarshan</desc>
 	</programme>
-	<programme channel="5639" start="20241230193000 +0000" stop="20241230220000 +0000">
+	<programme channel="5639" start="20241230164000 +0000" stop="20241230195000 +0000">
+		<title>Boeing Boeing</title>
+		<desc>A man seeks the help of his friend and dates numerous air hostesses at the same time. It works in the beginning, but soon begins to crumble. Release Year: 1985 Director: Priyadarshan</desc>
+	</programme>
+	<programme channel="5639" start="20241230195000 +0000" stop="20241230221500 +0000">
 		<title>Kadha Thudarunnu</title>
 		<desc>Shanavas faces severe opposition after marrying a girl from another religion. Release Year: 2010 Director: Sathyan Anthikad Awards: 13th Asianet Film Awards - Best Screenplay - Sathyan Anthikad</desc>
 	</programme>
-	<programme channel="5639" start="20241230220000 +0000" stop="20241231003000 +0000">
+	<programme channel="5639" start="20241230221500 +0000" stop="20241231003000 +0000">
 		<title>Koottu</title>
 		<desc>Hari and Balu are best buddies, they come from different backgrounds. Suddenly Balu is found missing and Hari takes the initiative to find him. Release Year: 2004 Director: Jayaprakash</desc>
 	</programme>
-	<programme channel="5639" start="20241231003000 +0000" stop="20241231013000 +0000">
+	<programme channel="5639" start="20241231003000 +0000" stop="20241231020000 +0000">
 		<title>Chirikkum Thalika</title>
 		<desc>A compilation of some of the best comedy scenes from Malayalam movies.</desc>
 	</programme>
-	<programme channel="5639" start="20241231013000 +0000" stop="20241231043000 +0000">
+	<programme channel="5639" start="20241231020000 +0000" stop="20241231043000 +0000">
 		<title>Aravindhante Athidhikal</title>
 		<desc>A 5-year-old boy named Aravindan is left at a temple by his mother. He grows up with a hotelier but longs to find his mother. Release Year: 2018 Director: M. Mohanan</desc>
 	</programme>
@@ -28118,19 +28150,19 @@ Amanda S.带来法国传统的圣多诺黑蛋糕，另一试味嘉宾曹众大�
 		<title>Vaazha</title>
 		<desc>Four friends labeled as 'losers' tackle societal and parental pressures in adulthood, embarking on a heartfelt journey of self-discovery and acceptance, proving that love conquers all. Release Year: 2024 Director: Anand Menen</desc>
 	</programme>
-	<programme channel="5639" start="20241231133000 +0000" stop="20241231163000 +0000">
+	<programme channel="5639" start="20241231133000 +0000" stop="20241231162000 +0000">
 		<title>Vaazha</title>
 		<desc>Four friends labeled as 'losers' tackle societal and parental pressures in adulthood, embarking on a heartfelt journey of self-discovery and acceptance, proving that love conquers all. Release Year: 2024 Director: Anand Menen</desc>
 	</programme>
-	<programme channel="5639" start="20241231163000 +0000" stop="20241231193000 +0000">
+	<programme channel="5639" start="20241231162000 +0000" stop="20241231190000 +0000">
 		<title>Grrr</title>
 		<desc>Inspired by true events, story of thrill-seekers who stumble into a wild cat sanctuary. Release Year: 2024</desc>
 	</programme>
-	<programme channel="5639" start="20241231193000 +0000" stop="20241231220000 +0000">
+	<programme channel="5639" start="20241231190000 +0000" stop="20241231213000 +0000">
 		<title>Marubhoomiyile Aana</title>
 		<desc>Sughu decides to head to Qatar for a task which promises some quick bucks. Release Year: 2016 Director: V. K. Prakash</desc>
 	</programme>
-	<programme channel="5639" start="20241231220000 +0000" stop="20250101003000 +0000">
+	<programme channel="5639" start="20241231213000 +0000" stop="20250101003000 +0000">
 		<title>Maalik</title>
 		<desc>Freddy, a young criminal, faces a tough choice: eliminate his uncle Sulaiman in 14 days while grappling with dark family secrets and painful pasts. Release Year: 2021 Director: Mahesh Narayanan</desc>
 	</programme>
@@ -28442,20 +28474,16 @@ Amanda S.带来法国传统的圣多诺黑蛋糕，另一试味嘉宾曹众大�
 		<title>Pashminna - Dhaage Mohabbat Ke Episode 102</title>
 		<desc>Pashmina and Raghav have the love story that Pashmina had always hoped. But Raghav proves Pashmina wrong, walking away without intimation. Pashmina feels betrayed by Raghav.</desc>
 	</programme>
-	<programme channel="5644" start="20250101130000 +0000" stop="20250101142900 +0000">
+	<programme channel="5644" start="20250101130000 +0000" stop="20250101145500 +0000">
 		<title>Kaun Banega Crorepati - 2024 Episode 102</title>
 		<desc>Amitabh Bachchan returns as the megastar host of the worlds' iconic quiz show and gives contestants the chance to take the "Hot Seat" and win a life changing 75 million Rupees.</desc>
 	</programme>
-	<programme channel="5644" start="20250101142900 +0000" stop="20250101151000 +0000">
-		<title>Crime Patrol Episode 612</title>
-		<desc>Join India's police force in action as they deal with criminal activities around the country in this dramatisation of real life crime stories, narrated by Anup Soni.</desc>
+	<programme channel="5644" start="20250101145500 +0000" stop="20250101152500 +0000">
+		<title>Best Of Kaun Banega Crorepati - 2024 Episode 2</title>
+		<desc>Amitabh Bachchan returns as the megastar host of the worlds' iconic quiz show and gives contestants the chance to take the "Hot Seat" and win a life changing 75 million Rupees.</desc>
 	</programme>
-	<programme channel="5644" start="20250101151000 +0000" stop="20250101153400 +0000">
+	<programme channel="5644" start="20250101152500 +0000" stop="20250101154900 +0000">
 		<title>Pashminna - Dhaage Mohabbat Ke Episode 101</title>
-		<desc>Pashmina and Raghav have the love story that Pashmina had always hoped. But Raghav proves Pashmina wrong, walking away without intimation. Pashmina feels betrayed by Raghav.</desc>
-	</programme>
-	<programme channel="5644" start="20250101153400 +0000" stop="20250101155900 +0000">
-		<title>Pashminna - Dhaage Mohabbat Ke Episode 102</title>
 		<desc>Pashmina and Raghav have the love story that Pashmina had always hoped. But Raghav proves Pashmina wrong, walking away without intimation. Pashmina feels betrayed by Raghav.</desc>
 	</programme>
 	<programme channel="5646" start="20241230160000 +0000" stop="20241230163000 +0000">
@@ -29360,71 +29388,75 @@ Amanda S.带来法国传统的圣多诺黑蛋糕，另一试味嘉宾曹众大�
 	</programme>
 	<programme channel="5652" start="20241231183000 +0000" stop="20241231190000 +0000">
 		<title>Appollena - Sapno Ki Unchi Udann Episode 28</title>
-		<desc>Apollena, who hails from Lucknow, aspires to become India's first female astronaut even as societal barriers, her academic setbacks and her father's imprisonment threaten to crush her dreams.</desc>
+		<desc>Apollena finds herself responsible and blames herself for Sangeetha's cancelled wedding. Later, she finds it difficult to prepare for her exams.</desc>
 	</programme>
 	<programme channel="5652" start="20241231190000 +0000" stop="20241231193000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 554</title>
-		<desc>Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity.</desc>
+		<desc>Shiva and Parvati warn Shukracharya and Diti against manipulating Gajasura. Later, Gajasura faces grave challenges as he aspires to be Lord Shiva's devotee.</desc>
 	</programme>
 	<programme channel="5652" start="20241231193000 +0000" stop="20241231203000 +0000">
 		<title>Mangal Lakshmi Episode 307</title>
-		<desc>Mangal searches for a perfect husband for her sister, Lakshmi, revealing the enduring strength of sisterhood and the power of destiny over this journey.</desc>
+		<desc>Sowmya gets paranoid after she receives a baby heart monitor as a gift. Later, the whole family requests her to test it out.</desc>
 	</programme>
 	<programme channel="5652" start="20241231203000 +0000" stop="20241231210000 +0000">
 		<title>Suman Indori Episode 119</title>
-		<desc>Forced by fate to marry a rich, shrewd politician, Suman embraces obstacles adjusting to her new life while dealing with her sister-in-law who seeks to become the head of the household.</desc>
+		<desc>Suman makes her way to the Mittal's house to answer CM's questions about their behaviour. Later, she threatens the family if any harm comes to her.</desc>
 	</programme>
 	<programme channel="5652" start="20241231210000 +0000" stop="20241231213000 +0000">
 		<title>Parineetii Episode 980</title>
-		<desc>Two best friends who support each other through thick and thin face a problem when circumstance causes both of them to get married to the same man.</desc>
+		<desc>Ambika accuses Gurinder of planning Rajeev's marriage to Parineet. Later, The Bajwas, confront Gurinder and question her for her actions.</desc>
 	</programme>
 	<programme channel="5652" start="20241231213000 +0000" stop="20241231220000 +0000">
 		<title>Megha Barsenge Episode 147</title>
-		<desc>After a groom absconds from his wedding, his bride is left at the mercy of her sentiments of abandonment and to endure a judgemental societal structure.</desc>
+		<desc>Megha reacts furiously after The Kohlis try to claim over the baby, which she is carrying. Later, she attacks them by wielding a sickle.</desc>
 	</programme>
-	<programme channel="5652" start="20241231220000 +0000" stop="20241231223000 +0000">
-		<title>Shiv Shakti: Tap Tyaag Taandav Episode 554</title>
-		<desc>Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity.</desc>
-	</programme>
-	<programme channel="5652" start="20241231223000 +0000" stop="20241231230000 +0000">
-		<title>Suman Indori Episode 119</title>
-		<desc>Forced by fate to marry a rich, shrewd politician, Suman embraces obstacles adjusting to her new life while dealing with her sister-in-law who seeks to become the head of the household.</desc>
-	</programme>
-	<programme channel="5652" start="20241231230000 +0000" stop="20241231233000 +0000">
-		<title>Parineetii Episode 980</title>
-		<desc>Two best friends who support each other through thick and thin face a problem when circumstance causes both of them to get married to the same man.</desc>
-	</programme>
-	<programme channel="5652" start="20241231233000 +0000" stop="20250101000000 +0000">
+	<programme channel="5652" start="20241231220000 +0000" stop="20241231222000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 106</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Anurag comes to Durga's aid after Vikram accuses her of stealing jewellery. Later, after returning home, Durga claims she is innocent.</desc>
 	</programme>
-	<programme channel="5652" start="20250101000000 +0000" stop="20250101010000 +0000">
-		<title>Mangal Lakshmi Episode 307</title>
-		<desc>Mangal searches for a perfect husband for her sister, Lakshmi, revealing the enduring strength of sisterhood and the power of destiny over this journey.</desc>
-	</programme>
-	<programme channel="5652" start="20250101010000 +0000" stop="20250101013000 +0000">
-		<title>Suman Indori Episode 119</title>
-		<desc>Forced by fate to marry a rich, shrewd politician, Suman embraces obstacles adjusting to her new life while dealing with her sister-in-law who seeks to become the head of the household.</desc>
-	</programme>
-	<programme channel="5652" start="20250101013000 +0000" stop="20250101020000 +0000">
-		<title>Appollena - Sapno Ki Unchi Udann Episode 28</title>
-		<desc>Apollena, who hails from Lucknow, aspires to become India's first female astronaut even as societal barriers, her academic setbacks and her father's imprisonment threaten to crush her dreams.</desc>
-	</programme>
-	<programme channel="5652" start="20250101020000 +0000" stop="20250101023000 +0000">
-		<title>Megha Barsenge Episode 147</title>
-		<desc>After a groom absconds from his wedding, his bride is left at the mercy of her sentiments of abandonment and to endure a judgemental societal structure.</desc>
-	</programme>
-	<programme channel="5652" start="20250101023000 +0000" stop="20250101030000 +0000">
+	<programme channel="5652" start="20241231222000 +0000" stop="20241231225000 +0000">
 		<title>Shiv Shakti: Tap Tyaag Taandav Episode 554</title>
-		<desc>Lord Shiva and his wife, Goddess Parvati, navigate their relationship and duties and offer sacrifices and brave separation to selflessly care for humanity.</desc>
+		<desc>Shiva and Parvati warn Shukracharya and Diti against manipulating Gajasura. Later, Gajasura faces grave challenges as he aspires to be Lord Shiva's devotee.</desc>
+	</programme>
+	<programme channel="5652" start="20241231225000 +0000" stop="20241231231500 +0000">
+		<title>Suman Indori Episode 119</title>
+		<desc>Suman makes her way to the Mittal's house to answer CM's questions about their behaviour. Later, she threatens the family if any harm comes to her.</desc>
+	</programme>
+	<programme channel="5652" start="20241231231500 +0000" stop="20241231234500 +0000">
+		<title>Parineetii Episode 980</title>
+		<desc>Ambika accuses Gurinder of planning Rajeev's marriage to Parineet. Later, The Bajwas, confront Gurinder and question her for her actions.</desc>
+	</programme>
+	<programme channel="5652" start="20241231234500 +0000" stop="20250101001000 +0000">
+		<title>Durga - Atut Prem Kahani Episode 106</title>
+		<desc>Anurag comes to Durga's aid after Vikram accuses her of stealing jewellery. Later, after returning home, Durga claims she is innocent.</desc>
+	</programme>
+	<programme channel="5652" start="20250101001000 +0000" stop="20250101011000 +0000">
+		<title>Mangal Lakshmi Episode 307</title>
+		<desc>Sowmya gets paranoid after she receives a baby heart monitor as a gift. Later, the whole family requests her to test it out.</desc>
+	</programme>
+	<programme channel="5652" start="20250101011000 +0000" stop="20250101014000 +0000">
+		<title>Suman Indori Episode 119</title>
+		<desc>Suman makes her way to the Mittal's house to answer CM's questions about their behaviour. Later, she threatens the family if any harm comes to her.</desc>
+	</programme>
+	<programme channel="5652" start="20250101014000 +0000" stop="20250101020500 +0000">
+		<title>Appollena - Sapno Ki Unchi Udann Episode 28</title>
+		<desc>Apollena finds herself responsible and blames herself for Sangeetha's cancelled wedding. Later, she finds it difficult to prepare for her exams.</desc>
+	</programme>
+	<programme channel="5652" start="20250101020500 +0000" stop="20250101023500 +0000">
+		<title>Megha Barsenge Episode 147</title>
+		<desc>Megha reacts furiously after The Kohlis try to claim over the baby, which she is carrying. Later, she attacks them by wielding a sickle.</desc>
+	</programme>
+	<programme channel="5652" start="20250101023500 +0000" stop="20250101030000 +0000">
+		<title>Shiv Shakti: Tap Tyaag Taandav Episode 554</title>
+		<desc>Shiva and Parvati warn Shukracharya and Diti against manipulating Gajasura. Later, Gajasura faces grave challenges as he aspires to be Lord Shiva's devotee.</desc>
 	</programme>
 	<programme channel="5652" start="20250101030000 +0000" stop="20250101033000 +0000">
 		<title>Suman Indori Episode 119</title>
-		<desc>Forced by fate to marry a rich, shrewd politician, Suman embraces obstacles adjusting to her new life while dealing with her sister-in-law who seeks to become the head of the household.</desc>
+		<desc>Suman makes her way to the Mittal's house to answer CM's questions about their behaviour. Later, she threatens the family if any harm comes to her.</desc>
 	</programme>
 	<programme channel="5652" start="20250101033000 +0000" stop="20250101040000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 106</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Anurag comes to Durga's aid after Vikram accuses her of stealing jewellery. Later, after returning home, Durga claims she is innocent.</desc>
 	</programme>
 	<programme channel="5652" start="20250101040000 +0000" stop="20250101043000 +0000">
 		<title>Appollena - Sapno Ki Unchi Udann Episode 29</title>
@@ -29456,11 +29488,11 @@ Amanda S.带来法国传统的圣多诺黑蛋糕，另一试味嘉宾曹众大�
 	</programme>
 	<programme channel="5652" start="20250101080000 +0000" stop="20250101093000 +0000">
 		<title>Bigg Boss Episode 85</title>
-		<desc>As Bigg Boss delves into the future of the contestants with the cataclysm of technology, the housemates try to conquer 'Time Ka Tandav', and emerge victorious in a locked house in BB's surveillance.</desc>
+		<desc>Vivian and Karanveer get into a heated exchange after the former calls the latter fake. Later, the housemates find themselves in the midst of intense rivalry.</desc>
 	</programme>
 	<programme channel="5652" start="20250101093000 +0000" stop="20250101100000 +0000">
 		<title>Durga - Atut Prem Kahani Episode 106</title>
-		<desc>Durga and Anurag find that their childhood friendship is blossoming into a deep kind of love. However, as their bond deepens, they face opposition from Paani Bai.</desc>
+		<desc>Anurag comes to Durga's aid after Vikram accuses her of stealing jewellery. Later, after returning home, Durga claims she is innocent.</desc>
 	</programme>
 	<programme channel="5652" start="20250101100000 +0000" stop="20250101103000 +0000">
 		<title>Appollena - Sapno Ki Unchi Udann Episode 29</title>
@@ -33931,8 +33963,8 @@ Amanda S.带来法国传统的圣多诺黑蛋糕，另一试味嘉宾曹众大�
 		<desc>THE WORLD TONIGHT</desc>
 	</programme>
 	<programme channel="6694" start="20241231163000 +0000" stop="20241231170000 +0000">
-		<title>BANKE AFTER DARK</title>
-		<desc>BANKE AFTER DARK</desc>
+		<title>DWELLINGS</title>
+		<desc>DWELLINGS</desc>
 	</programme>
 	<programme channel="6694" start="20241231170000 +0000" stop="20241231180000 +0000">
 		<title>HEADSTART</title>
@@ -33943,12 +33975,12 @@ Amanda S.带来法国传统的圣多诺黑蛋糕，另一试味嘉宾曹众大�
 		<desc>EXECUTIVE CLASS</desc>
 	</programme>
 	<programme channel="6694" start="20241231183000 +0000" stop="20241231190000 +0000">
-		<title>REV</title>
-		<desc>REV</desc>
+		<title>REV+</title>
+		<desc>REV+</desc>
 	</programme>
 	<programme channel="6694" start="20241231190000 +0000" stop="20241231193000 +0000">
-		<title>ENTREP LAB</title>
-		<desc>ENTREP LAB</desc>
+		<title>BEYOND THE EXCHANGE</title>
+		<desc>BEYOND THE EXCHANGE</desc>
 	</programme>
 	<programme channel="6694" start="20241231193000 +0000" stop="20241231200000 +0000">
 		<title>DAYAW</title>
@@ -33979,8 +34011,8 @@ Amanda S.带来法国传统的圣多诺黑蛋糕，另一试味嘉宾曹众大�
 		<desc>ARTS.21</desc>
 	</programme>
 	<programme channel="6694" start="20241231233000 +0000" stop="20250101000000 +0000">
-		<title>BANKE AFTER DARK</title>
-		<desc>BANKE AFTER DARK</desc>
+		<title>BANKER AFTER DARK</title>
+		<desc>BANKER AFTER DARK</desc>
 	</programme>
 	<programme channel="6694" start="20250101000000 +0000" stop="20250101010000 +0000">
 		<title>HEADSTART</title>
@@ -33991,14 +34023,10 @@ Amanda S.带来法国传统的圣多诺黑蛋糕，另一试味嘉宾曹众大�
 		<desc>THE BUSINESS OUTLOOK</desc>
 	</programme>
 	<programme channel="6694" start="20250101013000 +0000" stop="20250101020000 +0000">
-		<title>DWELLINGS</title>
-		<desc>DWELLINGS</desc>
+		<title>MARKET EDGE</title>
+		<desc>MARKET EDGE</desc>
 	</programme>
-	<programme channel="6694" start="20250101020000 +0000" stop="20250101020500 +0000">
-		<title>ANC HEADLINES</title>
-		<desc>ANC HEADLINES</desc>
-	</programme>
-	<programme channel="6694" start="20250101020500 +0000" stop="20250101023000 +0000">
+	<programme channel="6694" start="20250101020000 +0000" stop="20250101023000 +0000">
 		<title>HOTCOPY ON HEADSTART</title>
 		<desc>HOTCOPY ON HEADSTART</desc>
 	</programme>
@@ -34006,11 +34034,7 @@ Amanda S.带来法国传统的圣多诺黑蛋糕，另一试味嘉宾曹众大�
 		<title>MY ITALY WITH MARGARITA</title>
 		<desc>MY ITALY WITH MARGARITA</desc>
 	</programme>
-	<programme channel="6694" start="20250101030000 +0000" stop="20250101030500 +0000">
-		<title>ANC HEADLINES</title>
-		<desc>ANC HEADLINES</desc>
-	</programme>
-	<programme channel="6694" start="20250101030500 +0000" stop="20250101033000 +0000">
+	<programme channel="6694" start="20250101030000 +0000" stop="20250101033000 +0000">
 		<title>MADE IN GERMANY</title>
 		<desc>MADE IN GERMANY</desc>
 	</programme>
@@ -34018,23 +34042,19 @@ Amanda S.带来法国传统的圣多诺黑蛋糕，另一试味嘉宾曹众大�
 		<title>ON CUE</title>
 		<desc>ON CUE</desc>
 	</programme>
-	<programme channel="6694" start="20250101040000 +0000" stop="20250101050000 +0000">
+	<programme channel="6694" start="20250101040000 +0000" stop="20250101043000 +0000">
 		<title>DATELINE PHILIPPINES</title>
 		<desc>DATELINE PHILIPPINES</desc>
 	</programme>
-	<programme channel="6694" start="20250101050000 +0000" stop="20250101050500 +0000">
-		<title>ANC HEADLINES</title>
-		<desc>ANC HEADLINES</desc>
+	<programme channel="6694" start="20250101043000 +0000" stop="20250101050000 +0000">
+		<title>ABS-CBN CHRISTMAS STATION ID</title>
+		<desc>ABS-CBN CHRISTMAS STATION ID</desc>
 	</programme>
-	<programme channel="6694" start="20250101050500 +0000" stop="20250101060000 +0000">
-		<title>CHASING FLAVORS</title>
-		<desc>CHASING FLAVORS</desc>
+	<programme channel="6694" start="20250101050000 +0000" stop="20250101060000 +0000">
+		<title>SOLEMN MASS OF</title>
+		<desc>SOLEMN MASS OF</desc>
 	</programme>
-	<programme channel="6694" start="20250101060000 +0000" stop="20250101060500 +0000">
-		<title>ANC HEADLINES</title>
-		<desc>ANC HEADLINES</desc>
-	</programme>
-	<programme channel="6694" start="20250101060500 +0000" stop="20250101063000 +0000">
+	<programme channel="6694" start="20250101060000 +0000" stop="20250101063000 +0000">
 		<title>TOMORROW TODAY</title>
 		<desc>TOMORROW TODAY</desc>
 	</programme>
@@ -34046,25 +34066,17 @@ Amanda S.带来法国传统的圣多诺黑蛋糕，另一试味嘉宾曹众大�
 		<title>MARKET EDGE</title>
 		<desc>MARKET EDGE</desc>
 	</programme>
-	<programme channel="6694" start="20250101080000 +0000" stop="20250101080500 +0000">
-		<title>ANC HEADLINES</title>
-		<desc>ANC HEADLINES</desc>
+	<programme channel="6694" start="20250101080000 +0000" stop="20250101083000 +0000">
+		<title>BANKER AFTER DARK</title>
+		<desc>BANKER AFTER DARK</desc>
 	</programme>
-	<programme channel="6694" start="20250101080500 +0000" stop="20250101083000 +0000">
-		<title>BANKE AFTER DARK</title>
-		<desc>BANKE AFTER DARK</desc>
-	</programme>
-	<programme channel="6694" start="20250101083000 +0000" stop="20250101093000 +0000">
+	<programme channel="6694" start="20250101083000 +0000" stop="20250101090000 +0000">
 		<title>TOP STORY</title>
 		<desc>TOP STORY</desc>
 	</programme>
-	<programme channel="6694" start="20250101093000 +0000" stop="20250101100000 +0000">
-		<title>CASA DAZA</title>
-		<desc>CASA DAZA</desc>
-	</programme>
-	<programme channel="6694" start="20250101100000 +0000" stop="20250101103000 +0000">
-		<title>AT THE MOMENT</title>
-		<desc>AT THE MOMENT</desc>
+	<programme channel="6694" start="20250101090000 +0000" stop="20250101103000 +0000">
+		<title>SOLEMNITY OF MARY, MOTHER OF GOD</title>
+		<desc>SOLEMNITY OF MARY, MOTHER OF GOD</desc>
 	</programme>
 	<programme channel="6694" start="20250101103000 +0000" stop="20250101110000 +0000">
 		<title>MY ITALY WITH MARGARITA</title>
@@ -34098,8 +34110,8 @@ Amanda S.带来法国传统的圣多诺黑蛋糕，另一试味嘉宾曹众大�
 		<title>IN GOOD SHAPE</title>
 		<desc>IN GOOD SHAPE</desc>
 	</programme>
-	<programme channel="6694" start="20250101143000 +0000" stop="20250101153000 +0000">
-		<title>TOP STORY</title>
-		<desc>TOP STORY</desc>
+	<programme channel="6694" start="20250101143000 +0000" stop="20250101150000 +0000">
+		<title>LOCAL LEGENDS</title>
+		<desc>LOCAL LEGENDS</desc>
 	</programme>
 </tv>
