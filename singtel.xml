@@ -1958,7 +1958,7 @@
 	</programme>
 	<programme channel="5003" start="20260724123000 +0000" stop="20260724130000 +0000">
 		<title>前线追踪 Episode 17</title>
-		<desc>民情民生民意前线追踪紧跟社会民生步伐追踪调查时事动态探讨新加坡人关心的课题针对问题的核心追根究底</desc>
+		<desc>警方持续扫黄后社区真的恢复平静了吗如何防止非法按摩院卷土重来透过正规按摩业者中医师和前行内人的视角揭开新加坡色情按摩院背后的利益链</desc>
 	</programme>
 	<programme channel="5003" start="20260724130000 +0000" stop="20260724140000 +0000">
 		<title>至死不渝 Episode 20</title>
@@ -11260,15 +11260,11 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<title>LIVE Super League LIVE Hull FC v Hull KR</title>
 		<desc>Coverage of the 30th season of the Betfred Super League, the Northern Hemisphere's top rugby league competition.</desc>
 	</programme>
-	<programme channel="5118" start="20260723211500 +0000" stop="20260723213000 +0000">
-		<title>Premier Sports Extra Premier Sports Extra</title>
-		<desc>A look back at some of the big games on Premier Sports.</desc>
-	</programme>
-	<programme channel="5118" start="20260723213000 +0000" stop="20260723232000 +0000">
+	<programme channel="5118" start="20260723211500 +0000" stop="20260723230000 +0000">
 		<title>International Rugby South Africa v Wales</title>
 		<desc>Coverage of the International Rugby season for 2026.</desc>
 	</programme>
-	<programme channel="5118" start="20260723232000 +0000" stop="20260724011000 +0000">
+	<programme channel="5118" start="20260723230000 +0000" stop="20260724011000 +0000">
 		<title>International Rugby Argentina v England</title>
 		<desc>Coverage of the International Rugby season for 2026.</desc>
 	</programme>
@@ -11284,19 +11280,15 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<title>NRL Panthers v Broncos</title>
 		<desc>Coverage of the 2026 NRL season featuring the brightest stars in Rugby League universe.</desc>
 	</programme>
-	<programme channel="5118" start="20260724055000 +0000" stop="20260724061000 +0000">
-		<title>AFL Highlights Gold Coast v Bulldogs</title>
-		<desc>Catch all the standout moments from the latest matches of the 2026 Toyota AFL Premiership Season.</desc>
-	</programme>
-	<programme channel="5118" start="20260724061000 +0000" stop="20260724064000 +0000">
+	<programme channel="5118" start="20260724055000 +0000" stop="20260724062000 +0000">
 		<title>5 and 6 Nations Classics 2010 - France v Italy</title>
 		<desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
 	</programme>
-	<programme channel="5118" start="20260724064000 +0000" stop="20260724071000 +0000">
+	<programme channel="5118" start="20260724062000 +0000" stop="20260724065000 +0000">
 		<title>5 and 6 Nations Classics 2012 - France v England</title>
 		<desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
 	</programme>
-	<programme channel="5118" start="20260724071000 +0000" stop="20260724090000 +0000">
+	<programme channel="5118" start="20260724065000 +0000" stop="20260724090000 +0000">
 		<title>International Rugby Argentina v England</title>
 		<desc>Coverage of the International Rugby season for 2026.</desc>
 	</programme>
@@ -26392,9 +26384,13 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<title>Connect the World Episode 408</title>
 		<desc>Becky Anderson explores diverse perspectives and explains global issues of the day.</desc>
 	</programme>
-	<programme channel="5167" start="20260724150000 +0000" stop="20260724160000 +0000">
-		<title>One World Episode 147</title>
+	<programme channel="5167" start="20260724150000 +0000" stop="20260724153000 +0000">
+		<title>One World Episode 30</title>
 		<desc>Zain Asher and Bianna Golodryga cover the top global and national issues of the day.</desc>
+	</programme>
+	<programme channel="5167" start="20260724153000 +0000" stop="20260724160000 +0000">
+		<title>CNN Creators Episode 29</title>
+		<desc>The Creators explore the multi-billion dollar industry of sneaker technology and ask if any running record is safe from "super shoes".</desc>
 	</programme>
 	<programme channel="5167" start="20260724160000 +0000" stop="20260724170000 +0000">
 		<title>One World Episode 408</title>
@@ -75310,11 +75306,11 @@ Memorable Classic Songs is a new music programs hosted by Chen Guo</desc>
 		<desc>鳳凰氣象站</desc>
 	</programme>
 	<programme channel="5555" start="20260722154300 +0000" stop="20260722162600 +0000">
-		<title>电视剧：青山是故乡 / Classical Theater</title>
+		<title>电视剧：枫桥警事 / Classical Theater</title>
 		<desc>Classical Theater</desc>
 	</programme>
 	<programme channel="5555" start="20260722162600 +0000" stop="20260722170900 +0000">
-		<title>电视剧：青山是故乡 / Classical Theater</title>
+		<title>电视剧：枫桥警事 / Classical Theater</title>
 		<desc>Classical Theater</desc>
 	</programme>
 	<programme channel="5555" start="20260722170900 +0000" stop="20260722173900 +0000">
@@ -75422,23 +75418,23 @@ Memorable Classic Songs is a new music programs hosted by Chen Guo</desc>
 		<desc>《中国新闻》是以海外华人华侨、港澳台同胞、留学生、驻外使领馆及中资机构人员为目标受众的综合性新闻栏目。栏目由国内外要闻、中国内地经济和社会新闻、对国内外重要新闻事件的分析和评论组成。</desc>
 	</programme>
 	<programme channel="5555" start="20260723050000 +0000" stop="20260723054500 +0000">
-		<title>电视剧：青山是故乡 / Classical Theater</title>
+		<title>电视剧：枫桥警事 / Classical Theater</title>
 		<desc>Classical Theater</desc>
 	</programme>
 	<programme channel="5555" start="20260723054500 +0000" stop="20260723063000 +0000">
-		<title>电视剧：青山是故乡 / Classical Theater</title>
+		<title>电视剧：枫桥警事 / Classical Theater</title>
 		<desc>Classical Theater</desc>
 	</programme>
 	<programme channel="5555" start="20260723063000 +0000" stop="20260723071500 +0000">
-		<title>电视剧：青山是故乡 / Classical Theater</title>
+		<title>电视剧：枫桥警事 / Classical Theater</title>
 		<desc>Classical Theater</desc>
 	</programme>
 	<programme channel="5555" start="20260723071500 +0000" stop="20260723080000 +0000">
-		<title>电视剧：青山是故乡 / Classical Theater</title>
+		<title>电视剧：枫桥警事 / Classical Theater</title>
 		<desc>Classical Theater</desc>
 	</programme>
 	<programme channel="5555" start="20260723080000 +0000" stop="20260723084500 +0000">
-		<title>电视剧：青山是故乡 / Classical Theater</title>
+		<title>电视剧：枫桥警事 / Classical Theater</title>
 		<desc>Classical Theater</desc>
 	</programme>
 	<programme channel="5555" start="20260723084500 +0000" stop="20260723085000 +0000">
@@ -75498,15 +75494,15 @@ Memorable Classic Songs is a new music programs hosted by Chen Guo</desc>
 		<desc>《新闻联播》是中国中央电视台于1978年1月1日创办的综合性新闻节目。该栏目由中央电视台牵头主办、全国各省级电视台合办。旨在“囊括国内外要闻，宣传党和政府的路线、方针、政策，反映群众呼声，提供各种重要信息”。它的收视率雄居中央电视台各档节目的首位，是国内外观众群最庞大、影响最广泛的电视新闻栏目。</desc>
 	</programme>
 	<programme channel="5555" start="20260723150000 +0000" stop="20260723154300 +0000">
-		<title>电视剧：青山是故乡 / Classical Theater</title>
+		<title>电视剧：枫桥警事 / Classical Theater</title>
 		<desc>Classical Theater</desc>
 	</programme>
 	<programme channel="5555" start="20260723154300 +0000" stop="20260723162600 +0000">
-		<title>电视剧：青山是故乡 / Classical Theater</title>
+		<title>电视剧：枫桥警事 / Classical Theater</title>
 		<desc>Classical Theater</desc>
 	</programme>
 	<programme channel="5555" start="20260723162600 +0000" stop="20260723170900 +0000">
-		<title>电视剧：青山是故乡 / Classical Theater</title>
+		<title>电视剧：枫桥警事 / Classical Theater</title>
 		<desc>Classical Theater</desc>
 	</programme>
 	<programme channel="5555" start="20260723170900 +0000" stop="20260723173900 +0000">
@@ -75614,23 +75610,23 @@ Memorable Classic Songs is a new music programs hosted by Chen Guo</desc>
 		<desc>《中国新闻》是以海外华人华侨、港澳台同胞、留学生、驻外使领馆及中资机构人员为目标受众的综合性新闻栏目。栏目由国内外要闻、中国内地经济和社会新闻、对国内外重要新闻事件的分析和评论组成。</desc>
 	</programme>
 	<programme channel="5555" start="20260724050000 +0000" stop="20260724054500 +0000">
-		<title>电视剧：青山是故乡 / Classical Theater</title>
+		<title>电视剧：枫桥警事 / Classical Theater</title>
 		<desc>Classical Theater</desc>
 	</programme>
 	<programme channel="5555" start="20260724054500 +0000" stop="20260724063000 +0000">
-		<title>电视剧：青山是故乡 / Classical Theater</title>
+		<title>电视剧：枫桥警事 / Classical Theater</title>
 		<desc>Classical Theater</desc>
 	</programme>
 	<programme channel="5555" start="20260724063000 +0000" stop="20260724071500 +0000">
-		<title>电视剧：青山是故乡 / Classical Theater</title>
+		<title>电视剧：枫桥警事 / Classical Theater</title>
 		<desc>Classical Theater</desc>
 	</programme>
 	<programme channel="5555" start="20260724071500 +0000" stop="20260724080000 +0000">
-		<title>电视剧：青山是故乡 / Classical Theater</title>
+		<title>电视剧：枫桥警事 / Classical Theater</title>
 		<desc>Classical Theater</desc>
 	</programme>
 	<programme channel="5555" start="20260724080000 +0000" stop="20260724084500 +0000">
-		<title>电视剧：青山是故乡 / Classical Theater</title>
+		<title>电视剧：枫桥警事 / Classical Theater</title>
 		<desc>Classical Theater</desc>
 	</programme>
 	<programme channel="5555" start="20260724084500 +0000" stop="20260724085000 +0000">
@@ -75690,11 +75686,11 @@ Memorable Classic Songs is a new music programs hosted by Chen Guo</desc>
 		<desc>《新闻联播》是中国中央电视台于1978年1月1日创办的综合性新闻节目。该栏目由中央电视台牵头主办、全国各省级电视台合办。旨在“囊括国内外要闻，宣传党和政府的路线、方针、政策，反映群众呼声，提供各种重要信息”。它的收视率雄居中央电视台各档节目的首位，是国内外观众群最庞大、影响最广泛的电视新闻栏目。</desc>
 	</programme>
 	<programme channel="5555" start="20260724150000 +0000" stop="20260724154300 +0000">
-		<title>电视剧：青山是故乡 / Classical Theater</title>
+		<title>电视剧：枫桥警事 / Classical Theater</title>
 		<desc>Classical Theater</desc>
 	</programme>
 	<programme channel="5555" start="20260724154300 +0000" stop="20260724162600 +0000">
-		<title>电视剧：青山是故乡 / Classical Theater</title>
+		<title>电视剧：枫桥警事 / Classical Theater</title>
 		<desc>Classical Theater</desc>
 	</programme>
 	<programme channel="5555" start="20260724162600 +0000" stop="20260724170900 +0000">
@@ -101770,8 +101766,8 @@ Memorable Classic Songs is a new music programs hosted by Chen Guo</desc>
 		<desc>World's Magnificent Sight Journey</desc>
 	</programme>
 	<programme channel="5682" start="20260722183000 +0000" stop="20260722184500 +0000">
-		<title>Drama Serial "The Scent of the Wind" (R)</title>
-		<desc>Drama Serial "The Scent of the Wind" (R)</desc>
+		<title>Drama Serial "The Scent of the Wind" Ep. 83 (R)</title>
+		<desc>The 114th drama serial follows two women, Rin (Mikami Ai) and Naomi (Kosaka Juri), who paved the way for nursing in the Meiji era. Each carries her own struggles, yet together they support one another as they race to protect the wounded and vulnerable, often standing up against powerful forces. Through conflicts and hardships, the two gradually grow. No matter which way the wind blows, this unconventional duo continues their journey in search of happiness.</desc>
 	</programme>
 	<programme channel="5682" start="20260722184500 +0000" stop="20260722191200 +0000">
 		<title>Today's Close-up (R)</title>
@@ -101806,8 +101802,8 @@ Memorable Classic Songs is a new music programs hosted by Chen Guo</desc>
 		<desc>Fresh news and information to start off the morning. Specialized reporters and anchors will wake up the viewers with this live news program.</desc>
 	</programme>
 	<programme channel="5682" start="20260722230000 +0000" stop="20260722231500 +0000">
-		<title>Drama Serial "The Scent of the Wind"</title>
-		<desc>Drama Serial "The Scent of the Wind"</desc>
+		<title>Drama Serial "The Scent of the Wind" Ep. 84</title>
+		<desc>The 114th drama serial follows two women, Rin (Mikami Ai) and Naomi (Kosaka Juri), who paved the way for nursing in the Meiji era. Each carries her own struggles, yet together they support one another as they race to protect the wounded and vulnerable, often standing up against powerful forces. Through conflicts and hardships, the two gradually grow. No matter which way the wind blows, this unconventional duo continues their journey in search of happiness.</desc>
 	</programme>
 	<programme channel="5682" start="20260722231500 +0000" stop="20260723005400 +0000">
 		<title>asaichi</title>
@@ -101866,8 +101862,8 @@ Memorable Classic Songs is a new music programs hosted by Chen Guo</desc>
 		<desc>Masaharu (Tamayama Tetsuji), who travels alone to Scotland to learn the art of whisky making, meets Ellie (Charlotte Kate Fox) and falls in love. Masaharu dreams of creating Japan's first domestically produced whisky, while Ellie, who has left her homeland and come to Japan for the first time, faces a series of challenges. This is the story of love and adventure as Massan and Ellie, united by the strength of their bond, through a turbulent era with unwavering resolve.</desc>
 	</programme>
 	<programme channel="5682" start="20260723034500 +0000" stop="20260723040000 +0000">
-		<title>Drama Serial "The Scent of the Wind" (R)</title>
-		<desc>Drama Serial "The Scent of the Wind" (R)</desc>
+		<title>Drama Serial "The Scent of the Wind" Ep. 84 (R)</title>
+		<desc>The 114th drama serial follows two women, Rin (Mikami Ai) and Naomi (Kosaka Juri), who paved the way for nursing in the Meiji era. Each carries her own struggles, yet together they support one another as they race to protect the wounded and vulnerable, often standing up against powerful forces. Through conflicts and hardships, the two gradually grow. No matter which way the wind blows, this unconventional duo continues their journey in search of happiness.</desc>
 	</programme>
 	<programme channel="5682" start="20260723040000 +0000" stop="20260723040500 +0000">
 		<title>News</title>
@@ -101958,8 +101954,8 @@ Memorable Classic Songs is a new music programs hosted by Chen Guo</desc>
 		<desc>There are various interesting laws and rules and philosophies hidden in our daily lives. This program introduces children to them and how to think.</desc>
 	</programme>
 	<programme channel="5682" start="20260723133000 +0000" stop="20260723134500 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+		<title>RAMEN JAPAN 15min.</title>
+		<desc>RAMEN JAPAN 15min.</desc>
 	</programme>
 	<programme channel="5682" start="20260723134500 +0000" stop="20260723140000 +0000">
 		<title>Night Drama Serial "Midnight Taxi" Ep. 32（Final）</title>
@@ -102030,8 +102026,8 @@ Memorable Classic Songs is a new music programs hosted by Chen Guo</desc>
 		<desc>Showcasing various programs and activities of NHK WORLD-JAPAN which provides the latest information on Japan and Asia to the global audience.</desc>
 	</programme>
 	<programme channel="5682" start="20260723183000 +0000" stop="20260723184500 +0000">
-		<title>Drama Serial "The Scent of the Wind" (R)</title>
-		<desc>Drama Serial "The Scent of the Wind" (R)</desc>
+		<title>Drama Serial "The Scent of the Wind" Ep. 84 (R)</title>
+		<desc>The 114th drama serial follows two women, Rin (Mikami Ai) and Naomi (Kosaka Juri), who paved the way for nursing in the Meiji era. Each carries her own struggles, yet together they support one another as they race to protect the wounded and vulnerable, often standing up against powerful forces. Through conflicts and hardships, the two gradually grow. No matter which way the wind blows, this unconventional duo continues their journey in search of happiness.</desc>
 	</programme>
 	<programme channel="5682" start="20260723184500 +0000" stop="20260723193000 +0000">
 		<title>Eat Up! The Ultimate Homemade Cooking Battle "Tomatoes for Summer Fatigue" (R)</title>
@@ -102066,8 +102062,8 @@ Memorable Classic Songs is a new music programs hosted by Chen Guo</desc>
 		<desc>Fresh news and information to start off the morning. Specialized reporters and anchors will wake up the viewers with this live news program.</desc>
 	</programme>
 	<programme channel="5682" start="20260723230000 +0000" stop="20260723231500 +0000">
-		<title>Drama Serial "The Scent of the Wind"</title>
-		<desc>Drama Serial "The Scent of the Wind"</desc>
+		<title>Drama Serial "The Scent of the Wind" Ep. 85</title>
+		<desc>The 114th drama serial follows two women, Rin (Mikami Ai) and Naomi (Kosaka Juri), who paved the way for nursing in the Meiji era. Each carries her own struggles, yet together they support one another as they race to protect the wounded and vulnerable, often standing up against powerful forces. Through conflicts and hardships, the two gradually grow. No matter which way the wind blows, this unconventional duo continues their journey in search of happiness.</desc>
 	</programme>
 	<programme channel="5682" start="20260723231500 +0000" stop="20260724005400 +0000">
 		<title>asaichi</title>
@@ -102126,8 +102122,8 @@ Memorable Classic Songs is a new music programs hosted by Chen Guo</desc>
 		<desc>Masaharu (Tamayama Tetsuji), who travels alone to Scotland to learn the art of whisky making, meets Ellie (Charlotte Kate Fox) and falls in love. Masaharu dreams of creating Japan's first domestically produced whisky, while Ellie, who has left her homeland and come to Japan for the first time, faces a series of challenges. This is the story of love and adventure as Massan and Ellie, united by the strength of their bond, through a turbulent era with unwavering resolve.</desc>
 	</programme>
 	<programme channel="5682" start="20260724034500 +0000" stop="20260724040000 +0000">
-		<title>Drama Serial "The Scent of the Wind" (R)</title>
-		<desc>Drama Serial "The Scent of the Wind" (R)</desc>
+		<title>Drama Serial "The Scent of the Wind" Ep. 85 (R)</title>
+		<desc>The 114th drama serial follows two women, Rin (Mikami Ai) and Naomi (Kosaka Juri), who paved the way for nursing in the Meiji era. Each carries her own struggles, yet together they support one another as they race to protect the wounded and vulnerable, often standing up against powerful forces. Through conflicts and hardships, the two gradually grow. No matter which way the wind blows, this unconventional duo continues their journey in search of happiness.</desc>
 	</programme>
 	<programme channel="5682" start="20260724040000 +0000" stop="20260724040500 +0000">
 		<title>News</title>
@@ -102215,7 +102211,7 @@ Memorable Classic Songs is a new music programs hosted by Chen Guo</desc>
 	</programme>
 	<programme channel="5682" start="20260724130000 +0000" stop="20260724133000 +0000">
 		<title>Document 72 Hours</title>
-		<desc>Document 72 Hours</desc>
+		<desc>This is an unusual program series that explores human dramas through chance encounters with ordinary people at selected locations.</desc>
 	</programme>
 	<programme channel="5682" start="20260724133000 +0000" stop="20260724143000 +0000">
 		<title>Somewhere Street</title>
