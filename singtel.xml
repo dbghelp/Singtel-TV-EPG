@@ -1354,7 +1354,7 @@
 	</programme>
 	<programme channel="5002" start="20260809133000 +0000" stop="20260809143000 +0000">
 		<title>On The Red Dot Episode 13</title>
-		<desc>On The Red Dot offers weekly in-depth analysis and discussion on key issues and events that matter to Singaporeans.</desc>
+		<desc>Minister Ong Ye Kung and actor-host Noah Yap each search for someone who left a lasting mark on them during their military years.</desc>
 	</programme>
 	<programme channel="5002" start="20260809143000 +0000" stop="20260809173000 +0000">
 		<title>Eternals</title>
@@ -1474,7 +1474,7 @@
 	</programme>
 	<programme channel="5002" start="20260810070000 +0000" stop="20260810080000 +0000">
 		<title>On The Red Dot Episode 13</title>
-		<desc>On The Red Dot offers weekly in-depth analysis and discussion on key issues and events that matter to Singaporeans.</desc>
+		<desc>Minister Ong Ye Kung and actor-host Noah Yap each search for someone who left a lasting mark on them during their military years.</desc>
 	</programme>
 	<programme channel="5002" start="20260810080000 +0000" stop="20260810083000 +0000">
 		<title>Yes Captain!</title>
@@ -2429,7 +2429,7 @@
 		<desc>(Live) 国庆庆典2026将在国家体育场欢庆新加坡61岁生日 今年的庆典除了展现我国体坛的成就也将向来自各行各业的新加坡人致敬</desc>
 	</programme>
 	<programme channel="5003" start="20260809123500 +0000" stop="20260809130000 +0000">
-		<title>刷一刷 Episode 534</title>
+		<title>刷一刷2026 国庆特辑 Episode 534</title>
 		<desc>从国庆庆典到电视剧拍摄现场精彩内容一次看跟着刷一刷主持人林茜茜以今年国庆庆典主持人之一的身份带你直击她主持国庆庆典的幕后点滴与此同时郑六月也走访备受期待的新剧青春老鸟拍摄现场与演员们近距离交流揭秘拍摄期间发生的精彩趣事</desc>
 	</programme>
 	<programme channel="5003" start="20260809130000 +0000" stop="20260809140000 +0000">
@@ -2734,7 +2734,7 @@
 	</programme>
 	<programme channel="5003" start="20260811123000 +0000" stop="20260811130000 +0000">
 		<title>星期二特写 : 仍在盛年</title>
-		<desc>星期二特写 : 仍在盛年</desc>
+		<desc>79岁的蓝庆福80岁的黄佩玲和72岁的Philip Fernandez都是变脸演员每次转身都是一个新的角色和转折蓝庆福年迈得女必须继续工作扛起家计黄佩玲的丈夫和儿子相继去世变脸让她走出悲伤Philip 把西方艺术融入东方变脸用创意继续留在舞台</desc>
 	</programme>
 	<programme channel="5003" start="20260811130000 +0000" stop="20260811140000 +0000">
 		<title>青春老鸟 Episode 12</title>
@@ -3012,9 +3012,13 @@
 		<title>Chiron Episode 7</title>
 		<desc>A deadly sabotage on Pestana's goods and his men begins the war between JD and Pestana. But Pestana is unperturbed, even cold which worries Ryo greatly. Aiman gets to work in treating the sole survivor from the sabotage only to discover he's an undercover cop. With so much on the line, Hera is beginning to suspect Dione is stealing drug vials from The Ward.</desc>
 	</programme>
-	<programme channel="5004" start="20260807230000 +0000" stop="20260808010000 +0000">
+	<programme channel="5004" start="20260807230000 +0000" stop="20260808003000 +0000">
 		<title>Karipap Haiz</title>
 		<desc>When Haiz Salihin comes up with the perfect heist right after his release from prison, all he needs now is a perfect team to bring it all together. Putting together a team --- both old and new --- the plan is set in motion. But luck runs out even before they can get to the good part. Will the con man be able to con his way out of this?</desc>
+	</programme>
+	<programme channel="5004" start="20260808003000 +0000" stop="20260808010000 +0000">
+		<title>Projek L.I.T. S1 Episode 6</title>
+		<desc>Projek L.I.T. is an edutainment series where our 10-14 year olds will discover about science, mathematics, cooking and Malay proverbs. Get ready to widen your knowledge and be entertained by our fun hosts - Zhin, Sabrina and Farah.</desc>
 	</programme>
 	<programme channel="5004" start="20260808010000 +0000" stop="20260808013000 +0000">
 		<title>Arc Gentar</title>
@@ -3044,9 +3048,13 @@
 		<title>MUA Star Episode 9</title>
 		<desc>12 aspiring make-up artistes (MUA) battle with passion and creativity to be Singapore's next best make-up artist.</desc>
 	</programme>
-	<programme channel="5004" start="20260808080000 +0000" stop="20260808100000 +0000">
+	<programme channel="5004" start="20260808080000 +0000" stop="20260808093000 +0000">
 		<title>Kabus</title>
 		<desc>A psychological thriller centered on a couple's conflicting testimonies in an interrogation, blurring the lines between reality and deception .</desc>
+	</programme>
+	<programme channel="5004" start="20260808093000 +0000" stop="20260808100000 +0000">
+		<title>You Know Nothing About Cooking Episode 13</title>
+		<desc>Sherry Al Hadad is on a mission to entertain her celebrity friends, but she has zero cooking skills! She turns to foster mum, Datin Marlia Musa for help.</desc>
 	</programme>
 	<programme channel="5004" start="20260808100000 +0000" stop="20260808103000 +0000">
 		<title>Arc Gentar</title>
@@ -4358,7 +4366,7 @@
 	</programme>
 	<programme channel="5006" start="20260808110200 +0000" stop="20260808120000 +0000">
 		<title>Japan Hour Episode 32</title>
-		<desc>A lifestyle program featuring delicious food, culture, hot springs and places of interest in Japan!</desc>
+		<desc>Ehime is one of the top destinations to cycle in spring. You'll enjoy riding along beautiful coastline facing the Bungo Channel. We also take you to the hometown of traditional bull fighting.</desc>
 	</programme>
 	<programme channel="5006" start="20260808120000 +0000" stop="20260808123000 +0000">
 		<title>Asia Tonight Episode 130</title>
@@ -4690,7 +4698,7 @@
 	</programme>
 	<programme channel="5006" start="20260810130000 +0000" stop="20260810140000 +0000">
 		<title>Breakthroughs</title>
-		<desc>From a lab shaping the future of maritime energy to a cutting edge automated megaport, scientists and engineers race to create cleaner, smarter ways to move the goods the world depends on.</desc>
+		<desc>With exclusive access to next-generation maritime infrastructure from Rotterdam to Singapore, Race for Green Seas reveals the science and engineering steering global shipping towards a cleaner future.</desc>
 	</programme>
 	<programme channel="5006" start="20260810140000 +0000" stop="20260810143000 +0000">
 		<title>Singapore Tonight Episode 132</title>
@@ -4734,7 +4742,7 @@
 	</programme>
 	<programme channel="5006" start="20260810210000 +0000" stop="20260810220000 +0000">
 		<title>Breakthroughs</title>
-		<desc>From a lab shaping the future of maritime energy to a cutting edge automated megaport, scientists and engineers race to create cleaner, smarter ways to move the goods the world depends on.</desc>
+		<desc>With exclusive access to next-generation maritime infrastructure from Rotterdam to Singapore, Race for Green Seas reveals the science and engineering steering global shipping towards a cleaner future.</desc>
 	</programme>
 	<programme channel="5006" start="20260810220000 +0000" stop="20260810223000 +0000">
 		<title>Singapore Tonight Episode 132</title>
@@ -4750,7 +4758,7 @@
 	</programme>
 	<programme channel="5006" start="20260811020000 +0000" stop="20260811030000 +0000">
 		<title>Breakthroughs</title>
-		<desc>From a lab shaping the future of maritime energy to a cutting edge automated megaport, scientists and engineers race to create cleaner, smarter ways to move the goods the world depends on.</desc>
+		<desc>With exclusive access to next-generation maritime infrastructure from Rotterdam to Singapore, Race for Green Seas reveals the science and engineering steering global shipping towards a cleaner future.</desc>
 	</programme>
 	<programme channel="5006" start="20260811030000 +0000" stop="20260811050000 +0000">
 		<title>Asia Now Episode 95</title>
@@ -6317,11 +6325,11 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<title>美女与纯情男 / Beauty and Mr Romantic</title>
 		<desc>著名女演员朴道萝个性独特，她之所以成为演员，是因为母亲告诉她，这是脱离贫穷的唯一方法。透过成名而得到人气和金钱，道萝心底却希望可以休息，可是母亲却一直闯祸、挥霍生活，还贪图更多。母亲的欲望令道萝开始承受不了繁忙的工作，打算放弃参与新剧。就在这时，她遇上了初恋高必胜，也就是新剧的副导演。必胜对于工作充满热情，但因为道萝而决定放弃新剧。一次意外让道萝掉进必胜怀里，两人的人生从此再次连上。Top actress Park Do Ra rose to fame at her mother Baek Mi Ja's urge to escape poverty. Now wealthy, Do Ra longs to rest but Mi Ja’s relentless ambition keeps her working. Mi Ja pushes Do Ra into more roles. Do Ra on the other hand, thinks of quitting until she reunites with her first love, assistant dir...</desc>
 	</programme>
-	<programme channel="5501" start="20260809013000 +0000" stop="20260809020000 +0000">
+	<programme channel="5501" start="20260809013000 +0000" stop="20260809021000 +0000">
 		<title>美女与纯情男 / Beauty and Mr Romantic Episode 2</title>
 		<desc>著名女演员朴道萝个性独特，她之所以成为演员，是因为母亲告诉她，这是脱离贫穷的唯一方法。透过成名而得到人气和金钱，道萝心底却希望可以休息，可是母亲却一直闯祸、挥霍生活，还贪图更多。母亲的欲望令道萝开始承受不了繁忙的工作，打算放弃参与新剧。就在这时，她遇上了初恋高必胜，也就是新剧的副导演。必胜对于工作充满热情，但因为道萝而决定放弃新剧。一次意外让道萝掉进必胜怀里，两人的人生从此再次连上。Top actress Park Do Ra rose to fame at her mother Baek Mi Ja's urge to escape poverty. Now wealthy, Do Ra longs to rest but Mi Ja’s relentless ambition keeps her working. Mi Ja pushes Do Ra into more roles. Do Ra on the other hand, thinks of quitting until she reunites with her first love, assistant dir...</desc>
 	</programme>
-	<programme channel="5501" start="20260809020000 +0000" stop="20260809023500 +0000">
+	<programme channel="5501" start="20260809021000 +0000" stop="20260809023500 +0000">
 		<title>焦急的恋爱 / My Military Valentine Episode 9</title>
 		<desc>南北韩停战宣言后的未来，为实现南北统一而在DMZ建设的试点智慧城市和平市。作为韩国顶流偶像的劳埃德在和平市结束庆祝汇演后，在进行罕见军械装备交易时，遇到当时执行炸弹搜索任务的朝鲜特种兵英玉，被她误认为是恐怖分子。更糟糕的是，在那一瞬间有记者们还拍下了照片，劳埃德陷入了丑闻之中，对英玉的第一印象可谓强烈。为了躲避丑闻而入伍的劳埃德，在部队与教官英玉再次见面。某天，完成反恐训练从训练场返回生活馆的途中，劳埃德从行军队伍中掉队，迷路彷徨之时遇到被反统一极右派团体 “紫罗兰” 追赶的自己的超级粉丝韩松伊。</desc>
 	</programme>
@@ -6333,15 +6341,15 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<title>焦急的恋爱 / My Military Valentine Episode 11</title>
 		<desc>南北韩停战宣言后的未来，为实现南北统一而在DMZ建设的试点智慧城市和平市。作为韩国顶流偶像的劳埃德在和平市结束庆祝汇演后，在进行罕见军械装备交易时，遇到当时执行炸弹搜索任务的朝鲜特种兵英玉，被她误认为是恐怖分子。更糟糕的是，在那一瞬间有记者们还拍下了照片，劳埃德陷入了丑闻之中，对英玉的第一印象可谓强烈。为了躲避丑闻而入伍的劳埃德，在部队与教官英玉再次见面。某天，完成反恐训练从训练场返回生活馆的途中，劳埃德从行军队伍中掉队，迷路彷徨之时遇到被反统一极右派团体 “紫罗兰” 追赶的自己的超级粉丝韩松伊。</desc>
 	</programme>
-	<programme channel="5501" start="20260809034500 +0000" stop="20260809043000 +0000">
+	<programme channel="5501" start="20260809034500 +0000" stop="20260809043500 +0000">
 		<title>焦急的恋爱 / My Military Valentine Episode 12</title>
 		<desc>南北韩停战宣言后的未来，为实现南北统一而在DMZ建设的试点智慧城市和平市。作为韩国顶流偶像的劳埃德在和平市结束庆祝汇演后，在进行罕见军械装备交易时，遇到当时执行炸弹搜索任务的朝鲜特种兵英玉，被她误认为是恐怖分子。更糟糕的是，在那一瞬间有记者们还拍下了照片，劳埃德陷入了丑闻之中，对英玉的第一印象可谓强烈。为了躲避丑闻而入伍的劳埃德，在部队与教官英玉再次见面。某天，完成反恐训练从训练场返回生活馆的途中，劳埃德从行军队伍中掉队，迷路彷徨之时遇到被反统一极右派团体 “紫罗兰” 追赶的自己的超级粉丝韩松伊。</desc>
 	</programme>
-	<programme channel="5501" start="20260809043000 +0000" stop="20260809050000 +0000">
+	<programme channel="5501" start="20260809043500 +0000" stop="20260809050500 +0000">
 		<title>一城一味 长安有滋味 / One City One Taste Xi An Episode 3</title>
 		<desc>《一城一味·长安有滋味》将以西安为核心，辐射咸阳、宝鸡、榆林、汉中等地，从地域美食、风土人情等方面切入，通过一个个鲜活生动的故事，以小见大，多方位记录和展现一座城的多维之味，让观众品尝到陕西人的热度与温度。</desc>
 	</programme>
-	<programme channel="5501" start="20260809050000 +0000" stop="20260809060500 +0000">
+	<programme channel="5501" start="20260809050500 +0000" stop="20260809060500 +0000">
 		<title>因为没有下辈子 / Don't Call Me Ma'am</title>
 		<desc>《因为没有下辈子》聚焦三位年过四十的女性 – 重返职场实习主播岗位的娜静、直面生活裂痕的周英与追寻浪漫结局的伊莉，通过多线叙事展现她们在人生转折点中突破现实困境，携手追求更好第二人生的成长历程。剧中交织人物关系与命运抉择，以诙谐方式呈现现代都市情感纠葛。“Don’t Call Me Ma’am” follows the story of three 41-year-old women who are facing turning points in their lives and worn down by the repetitive cycle of daily life, the struggles of parenting, and the fatigue that comes from endless office work. Jo Na-jeong, once a top home shopping host, is now a stay-at-home mother hoping to revive her career. Ku Ju-young, an art ce...</desc>
 	</programme>
@@ -6373,11 +6381,11 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<title>因为没有下辈子 / Don't Call Me Ma'am Episode 3</title>
 		<desc>《因为没有下辈子》聚焦三位年过四十的女性 – 重返职场实习主播岗位的娜静、直面生活裂痕的周英与追寻浪漫结局的伊莉，通过多线叙事展现她们在人生转折点中突破现实困境，携手追求更好第二人生的成长历程。剧中交织人物关系与命运抉择，以诙谐方式呈现现代都市情感纠葛。“Don’t Call Me Ma’am” follows the story of three 41-year-old women who are facing turning points in their lives and worn down by the repetitive cycle of daily life, the struggles of parenting, and the fatigue that comes from endless office work. Jo Na-jeong, once a top home shopping host, is now a stay-at-home mother hoping to revive her career. Ku Ju-young, an art ce...</desc>
 	</programme>
-	<programme channel="5501" start="20260809150500 +0000" stop="20260809161500 +0000">
+	<programme channel="5501" start="20260809150500 +0000" stop="20260809161000 +0000">
 		<title>因为没有下辈子 / Don't Call Me Ma'am Episode 4</title>
 		<desc>《因为没有下辈子》聚焦三位年过四十的女性 – 重返职场实习主播岗位的娜静、直面生活裂痕的周英与追寻浪漫结局的伊莉，通过多线叙事展现她们在人生转折点中突破现实困境，携手追求更好第二人生的成长历程。剧中交织人物关系与命运抉择，以诙谐方式呈现现代都市情感纠葛。“Don’t Call Me Ma’am” follows the story of three 41-year-old women who are facing turning points in their lives and worn down by the repetitive cycle of daily life, the struggles of parenting, and the fatigue that comes from endless office work. Jo Na-jeong, once a top home shopping host, is now a stay-at-home mother hoping to revive her career. Ku Ju-young, an art ce...</desc>
 	</programme>
-	<programme channel="5501" start="20260809161500 +0000" stop="20260809170000 +0000">
+	<programme channel="5501" start="20260809161000 +0000" stop="20260809170000 +0000">
 		<title>他从火光中走来 / Bright Eyes in the Dark Episode 22</title>
 		<desc>林陆骁拥有过人的消防技巧和丰富的消防经验，是北浔市特勤一站站长。因缘际会下，他被选中成了一档旨在科普消防知识的真人节目的教官。在节目中林陆骁偶遇自己多年前从火场中救下的舞蹈演员南初。南初对林陆骁充满好感，但林陆骁却因深知自己职业的危险而不愿靠近。年轻而勇敢的新一代消防员如邵一九、秦十全等崭露头角，从国外带回先进装备技术的楼明冶也回到了消防队。老中青三代消防员们在火灾、地震、空中救援等灾情救援中通力合作，将北浔市的消防安全水平提升了一个台阶。南初与林陆骁也在逐渐深入了解中确定了自己的心意，面临最危险的森林火灾，林陆骁与他的队友们依然选择逆火前进。</desc>
 	</programme>
@@ -6389,19 +6397,19 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<title>他从火光中走来 / Bright Eyes in the Dark Episode 24</title>
 		<desc>林陆骁拥有过人的消防技巧和丰富的消防经验，是北浔市特勤一站站长。因缘际会下，他被选中成了一档旨在科普消防知识的真人节目的教官。在节目中林陆骁偶遇自己多年前从火场中救下的舞蹈演员南初。南初对林陆骁充满好感，但林陆骁却因深知自己职业的危险而不愿靠近。年轻而勇敢的新一代消防员如邵一九、秦十全等崭露头角，从国外带回先进装备技术的楼明冶也回到了消防队。老中青三代消防员们在火灾、地震、空中救援等灾情救援中通力合作，将北浔市的消防安全水平提升了一个台阶。南初与林陆骁也在逐渐深入了解中确定了自己的心意，面临最危险的森林火灾，林陆骁与他的队友们依然选择逆火前进。</desc>
 	</programme>
-	<programme channel="5501" start="20260809183000 +0000" stop="20260809191500 +0000">
+	<programme channel="5501" start="20260809183000 +0000" stop="20260809190500 +0000">
 		<title>他从火光中走来 / Bright Eyes in the Dark Episode 25</title>
 		<desc>林陆骁拥有过人的消防技巧和丰富的消防经验，是北浔市特勤一站站长。因缘际会下，他被选中成了一档旨在科普消防知识的真人节目的教官。在节目中林陆骁偶遇自己多年前从火场中救下的舞蹈演员南初。南初对林陆骁充满好感，但林陆骁却因深知自己职业的危险而不愿靠近。年轻而勇敢的新一代消防员如邵一九、秦十全等崭露头角，从国外带回先进装备技术的楼明冶也回到了消防队。老中青三代消防员们在火灾、地震、空中救援等灾情救援中通力合作，将北浔市的消防安全水平提升了一个台阶。南初与林陆骁也在逐渐深入了解中确定了自己的心意，面临最危险的森林火灾，林陆骁与他的队友们依然选择逆火前进。</desc>
 	</programme>
-	<programme channel="5501" start="20260809191500 +0000" stop="20260809213000 +0000">
+	<programme channel="5501" start="20260809190500 +0000" stop="20260809213500 +0000">
 		<title>奔跑吧第14季 / Keep Running S14 Episode 8</title>
 		<desc>《奔跑吧第14季》强势回归，超人气大咖艺人继续担纲主持，依据每一期节目主题到设定的各个任务地点进行游戏和追逐战，争取在竞赛中取得更多提示，以有利于进行最后的游戏环节，完成最终“撕名牌”环节。每一期胜出的队伍或成员将获得该期胜利奖品，每一季的完结将有一组总冠军队伍诞生。“Keep Running” is a spin-off from the hugely popular Korean variety “Running Man”. The reality game show sees the MCs and guest artistes compete to complete missions at various landmarks to win the race for each episode. The series has gained explosive popularity over the years, with many popular artistes returning season after season to make up the regular MC ...</desc>
 	</programme>
-	<programme channel="5501" start="20260809213000 +0000" stop="20260809220000 +0000">
+	<programme channel="5501" start="20260809213500 +0000" stop="20260809220500 +0000">
 		<title>早餐中国第五季 / Breakfast In China S5</title>
 		<desc>《早餐中国》第5季，30种热气腾腾的早餐，30种人生况味。我们依然在拍摄那些微不足道的民间食物，依然在见证那些触手可及的人间奇迹。</desc>
 	</programme>
-	<programme channel="5501" start="20260809220000 +0000" stop="20260809230000 +0000">
+	<programme channel="5501" start="20260809220500 +0000" stop="20260809230000 +0000">
 		<title>大泼猴 / The Legends Of Monkey King Episode 17</title>
 		<desc>天道变数，石妖提前三百年破石而出，生存堪忧的石妖踏上了寻仙之路。他在求仙路上九死一生，幸得金丝雀舍命相救，石妖因此许下了复活金丝雀的诺言。为了实现诺言，石妖一路拜师修行，其间与天真烂漫的风铃和孤傲高冷的杨岚分别暗生情愫，还卷入了众妖与天庭的对抗之中。
 
@@ -6584,11 +6592,11 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<title>美女与纯情男 / Beauty and Mr Romantic Episode 4</title>
 		<desc>著名女演员朴道萝个性独特，她之所以成为演员，是因为母亲告诉她，这是脱离贫穷的唯一方法。透过成名而得到人气和金钱，道萝心底却希望可以休息，可是母亲却一直闯祸、挥霍生活，还贪图更多。母亲的欲望令道萝开始承受不了繁忙的工作，打算放弃参与新剧。就在这时，她遇上了初恋高必胜，也就是新剧的副导演。必胜对于工作充满热情，但因为道萝而决定放弃新剧。一次意外让道萝掉进必胜怀里，两人的人生从此再次连上。Top actress Park Do Ra rose to fame at her mother Baek Mi Ja's urge to escape poverty. Now wealthy, Do Ra longs to rest but Mi Ja’s relentless ambition keeps her working. Mi Ja pushes Do Ra into more roles. Do Ra on the other hand, thinks of quitting until she reunites with her first love, assistant dir...</desc>
 	</programme>
-	<programme channel="5501" start="20260811092000 +0000" stop="20260811100000 +0000">
+	<programme channel="5501" start="20260811092000 +0000" stop="20260811094500 +0000">
 		<title>美女与纯情男 / Beauty and Mr Romantic Episode 5</title>
 		<desc>著名女演员朴道萝个性独特，她之所以成为演员，是因为母亲告诉她，这是脱离贫穷的唯一方法。透过成名而得到人气和金钱，道萝心底却希望可以休息，可是母亲却一直闯祸、挥霍生活，还贪图更多。母亲的欲望令道萝开始承受不了繁忙的工作，打算放弃参与新剧。就在这时，她遇上了初恋高必胜，也就是新剧的副导演。必胜对于工作充满热情，但因为道萝而决定放弃新剧。一次意外让道萝掉进必胜怀里，两人的人生从此再次连上。Top actress Park Do Ra rose to fame at her mother Baek Mi Ja's urge to escape poverty. Now wealthy, Do Ra longs to rest but Mi Ja’s relentless ambition keeps her working. Mi Ja pushes Do Ra into more roles. Do Ra on the other hand, thinks of quitting until she reunites with her first love, assistant dir...</desc>
 	</programme>
-	<programme channel="5501" start="20260811100000 +0000" stop="20260811103000 +0000">
+	<programme channel="5501" start="20260811094500 +0000" stop="20260811103000 +0000">
 		<title>西出玉门 / Parallel World</title>
 		<desc>该剧根据尾鱼的同名小说改编。讲述了“沙漠玫瑰”叶流西与“智勇沙獠”昌东，一个为了解开身世之谜，一个为破解过往真相，两人联手深入奇幻世界探险的故事。</desc>
 	</programme>
@@ -16516,6 +16524,346 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<title>The World Today</title>
 		<desc>The core rolling news service of CGTN, with regular updates from Beijing, Washington, Nairobi and London, keep viewers up-to-date with all the world's top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.</desc>
 	</programme>
+	<programme channel="5155" start="20260809193000 +0000" stop="20260809200000 +0000">
+		<title>Inheritors</title>
+		<desc>Inheritors is a multi-media product from CGTN that shines a light on China's rich Intangible Cultural Heritage. Each 30-minute TV edition is hosted by a long-term expatriate in China who has a unique understanding of the country's culture. He or she will introduce viewers to people who are dedicating their lives to its protection, inheritance, innovation, development and promotion.</desc>
+	</programme>
+	<programme channel="5155" start="20260809200000 +0000" stop="20260809203000 +0000">
+		<title>The World Today</title>
+		<desc>The core rolling news service of CGTN, with regular updates from Beijing, Washington, Nairobi and London, keep viewers up-to-date with all the world's top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.</desc>
+	</programme>
+	<programme channel="5155" start="20260809203000 +0000" stop="20260809210000 +0000">
+		<title>Travelogue</title>
+		<desc>Travelogue is a 30-minute travel program. Through the journeys of our intrepid hosts, we experience the beauty, culture and mystery of China, discovering how people live in this vast country and showcasing China's transformation to the world.</desc>
+	</programme>
+	<programme channel="5155" start="20260809210000 +0000" stop="20260809213000 +0000">
+		<title>The World Today</title>
+		<desc>The core rolling news service of CGTN, with regular updates from Beijing, Washington, Nairobi and London, keep viewers up-to-date with all the world's top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.</desc>
+	</programme>
+	<programme channel="5155" start="20260809213000 +0000" stop="20260809220000 +0000">
+		<title>Assignment Asia</title>
+		<desc>Assignment Asia is a current affairs program that takes an in-depth look at stories from all over Asia. The show focuses on people. It puts the spotlight on issues affecting the region through interviews with and first-person accounts of ordinary people with extraordinary stories.</desc>
+	</programme>
+	<programme channel="5155" start="20260809220000 +0000" stop="20260809230000 +0000">
+		<title>Americas Now</title>
+		<desc>Americas Now profiles the development, diversity and challenges facing the Americas, particularly Latin America. The strength of the program is its storytelling. Correspondents across the region present insightful, well-researched and engaging narratives. Americas Now is a compelling, authoritative and balanced voice from the region, giving CGTN a competitive edge in the North American media market.</desc>
+	</programme>
+	<programme channel="5155" start="20260809230000 +0000" stop="20260809233000 +0000">
+		<title>The World Today</title>
+		<desc>The core rolling news service of CGTN, with regular updates from Beijing, Washington, Nairobi and London, keep viewers up-to-date with all the world's top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.</desc>
+	</programme>
+	<programme channel="5155" start="20260809233000 +0000" stop="20260810000000 +0000">
+		<title>Faces of Africa</title>
+		<desc>Faces of Africa is a topical magazine that showcases the diversity of the continent. Faces of Africa is about people. From intimate portraits of ordinary citizens to discussions with political, economic and civic leaders, Faces of Africa features compelling stories from an up close perspective.</desc>
+	</programme>
+	<programme channel="5155" start="20260810000000 +0000" stop="20260810003000 +0000">
+		<title>The World Today</title>
+		<desc>The core rolling news service of CGTN, with regular updates from Beijing, Washington, Nairobi and London, keep viewers up-to-date with all the world's top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.</desc>
+	</programme>
+	<programme channel="5155" start="20260810003000 +0000" stop="20260810010000 +0000">
+		<title>Inheritors</title>
+		<desc>Inheritors is a multi-media product from CGTN that shines a light on China's rich Intangible Cultural Heritage. Each 30-minute TV edition is hosted by a long-term expatriate in China who has a unique understanding of the country's culture. He or she will introduce viewers to people who are dedicating their lives to its protection, inheritance, innovation, development and promotion.</desc>
+	</programme>
+	<programme channel="5155" start="20260810010000 +0000" stop="20260810013000 +0000">
+		<title>The World Today</title>
+		<desc>The core rolling news service of CGTN, with regular updates from Beijing, Washington, Nairobi and London, keep viewers up-to-date with all the world's top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.</desc>
+	</programme>
+	<programme channel="5155" start="20260810013000 +0000" stop="20260810020000 +0000">
+		<title>Razor</title>
+		<desc>CGTN's brand new science and technology show, covering cutting edge developments from all over the world. RAZOR will show you the world's most powerful laser and the world's smallest anti-cancer treatment. It will take you from the weird world of quantum computing to the boundaries of the cosmos. An international team of reporters will follow the guidance of Occam's Razor - the principle that the simplest explanation is the best one. RAZOR will show that we are already ""living in the future"!</desc>
+	</programme>
+	<programme channel="5155" start="20260810020000 +0000" stop="20260810023000 +0000">
+		<title>The World Today</title>
+		<desc>The core rolling news service of CGTN, with regular updates from Beijing, Washington, Nairobi and London, keep viewers up-to-date with all the world's top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.</desc>
+	</programme>
+	<programme channel="5155" start="20260810023000 +0000" stop="20260810030000 +0000">
+		<title>Travelogue</title>
+		<desc>Travelogue is a 30-minute travel program. Through the journeys of our intrepid hosts, we experience the beauty, culture and mystery of China, discovering how people live in this vast country and showcasing China's transformation to the world.</desc>
+	</programme>
+	<programme channel="5155" start="20260810030000 +0000" stop="20260810031500 +0000">
+		<title>The World Today</title>
+		<desc>The core rolling news service of CGTN, with regular updates from Beijing, Washington, Nairobi and London, keep viewers up-to-date with all the world's top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.</desc>
+	</programme>
+	<programme channel="5155" start="20260810031500 +0000" stop="20260810033000 +0000">
+		<title>Sports Scene</title>
+		<desc>Sports Scene brings you closer to all the action from all corners of the world, with highlights from across Europe, North America and China's top sports leagues. We examine the changes and growth in China's domestic leagues, as the country undergoes an incredible economic transformation. Our exclusive features, "Tackling China", "CBA Stories", and "Beyond the Baseline", take you behind the scenes and closer to the top athletes in China, by providing a unique perspective on the top sports stor...</desc>
+	</programme>
+	<programme channel="5155" start="20260810033000 +0000" stop="20260810040000 +0000">
+		<title>The Point with Liu Xin</title>
+		<desc>The Point with LIU Xin is a current affairs program on CGTN. The program comments on global news through LIU Xin's very own unique perspective. With two decades of experience as a news anchor and overseas correspondent, LIU Xin has an engaging and personal style. The Point with LIU Xin connects world audience through social media, enhancing their participation as well as offering a comprehensive perspective on world events.</desc>
+	</programme>
+	<programme channel="5155" start="20260810040000 +0000" stop="20260810050000 +0000">
+		<title>Global Watch</title>
+		<desc>GLOBAL WATCH is a 60 minute-long news program. The show stresses Chinese elements, emphasizing China's perspective, policies and stories. The program, relying on global reporting resources, presents in-depth analysis and coverage of major global issues, from a Chinese perspective on international affairs. The program presents to-the-point interpretation of Chinese policies and stories that are of interest to foreign audiences, in a style they are familiar with.</desc>
+	</programme>
+	<programme channel="5155" start="20260810050000 +0000" stop="20260810051500 +0000">
+		<title>The World Today</title>
+		<desc>The core rolling news service of CGTN, with regular updates from Beijing, Washington, Nairobi and London, keep viewers up-to-date with all the world's top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.</desc>
+	</programme>
+	<programme channel="5155" start="20260810051500 +0000" stop="20260810053000 +0000">
+		<title>Sports Scene</title>
+		<desc>Sports Scene brings you closer to all the action from all corners of the world, with highlights from across Europe, North America and China's top sports leagues. We examine the changes and growth in China's domestic leagues, as the country undergoes an incredible economic transformation. Our exclusive features, "Tackling China", "CBA Stories", and "Beyond the Baseline", take you behind the scenes and closer to the top athletes in China, by providing a unique perspective on the top sports stor...</desc>
+	</programme>
+	<programme channel="5155" start="20260810053000 +0000" stop="20260810060000 +0000">
+		<title>Rediscovering China</title>
+		<desc>Rediscovering China is a half-hour documentary program on CGTN. Each edition offers unique insight into various aspects of life in China today. With unrivalled access to the country's people and places, the program aims to show the global audience an inclusive and vigorous China.</desc>
+	</programme>
+	<programme channel="5155" start="20260810060000 +0000" stop="20260810063000 +0000">
+		<title>The World Today</title>
+		<desc>The core rolling news service of CGTN, with regular updates from Beijing, Washington, Nairobi and London, keep viewers up-to-date with all the world's top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.</desc>
+	</programme>
+	<programme channel="5155" start="20260810063000 +0000" stop="20260810070000 +0000">
+		<title>Razor</title>
+		<desc>CGTN's brand new science and technology show, covering cutting edge developments from all over the world. RAZOR will show you the world's most powerful laser and the world's smallest anti-cancer treatment. It will take you from the weird world of quantum computing to the boundaries of the cosmos. An international team of reporters will follow the guidance of Occam's Razor - the principle that the simplest explanation is the best one. RAZOR will show that we are already ""living in the future"!</desc>
+	</programme>
+	<programme channel="5155" start="20260810070000 +0000" stop="20260810073000 +0000">
+		<title>The World Today</title>
+		<desc>The core rolling news service of CGTN, with regular updates from Beijing, Washington, Nairobi and London, keep viewers up-to-date with all the world's top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.</desc>
+	</programme>
+	<programme channel="5155" start="20260810073000 +0000" stop="20260810080000 +0000">
+		<title>Sports Scene</title>
+		<desc>Sports Scene brings you closer to all the action from all corners of the world, with highlights from across Europe, North America and China's top sports leagues. We examine the changes and growth in China's domestic leagues, as the country undergoes an incredible economic transformation. Our exclusive features, "Tackling China", "CBA Stories", and "Beyond the Baseline", take you behind the scenes and closer to the top athletes in China, by providing a unique perspective on the top sports stor...</desc>
+	</programme>
+	<programme channel="5155" start="20260810080000 +0000" stop="20260810081500 +0000">
+		<title>The World Today</title>
+		<desc>The core rolling news service of CGTN, with regular updates from Beijing, Washington, Nairobi and London, keep viewers up-to-date with all the world's top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.</desc>
+	</programme>
+	<programme channel="5155" start="20260810081500 +0000" stop="20260810090000 +0000">
+		<title>Global Business</title>
+		<desc>The flagship business program of CGTN's English language service. The program offers in-depth analysis of the latest economic data, business trends and market moving policies, zooming in on how all this affects ordinary people. With separate editions out of Asia, Europe, Africa and the Americas, Global Business features analysts and news-makers supported through a global network of correspondents. Global Business shows you what's moving markets in both developed and emerging economies. The bi...</desc>
+	</programme>
+	<programme channel="5155" start="20260810090000 +0000" stop="20260810093000 +0000">
+		<title>The World Today</title>
+		<desc>The core rolling news service of CGTN, with regular updates from Beijing, Washington, Nairobi and London, keep viewers up-to-date with all the world's top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.</desc>
+	</programme>
+	<programme channel="5155" start="20260810093000 +0000" stop="20260810100000 +0000">
+		<title>The Vibe</title>
+		<desc>The Vibe is a 30-minute TV show that runs daily on weekdays on CGTN. The content focuses on exciting new trends, fashion, and cultural topics across a range of disciplines both in China and abroad. The host presents various culture-related topics in a fun way while also doing some in-depth analysis to give viewers a fuller picture as to what is happening, and why it matters.</desc>
+	</programme>
+	<programme channel="5155" start="20260810100000 +0000" stop="20260810101500 +0000">
+		<title>The World Today</title>
+		<desc>The core rolling news service of CGTN, with regular updates from Beijing, Washington, Nairobi and London, keep viewers up-to-date with all the world's top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.</desc>
+	</programme>
+	<programme channel="5155" start="20260810101500 +0000" stop="20260810110000 +0000">
+		<title>Africa Live</title>
+		<desc>Africa Live is a news program that focuses on African issues and issues related to this diverse continent. CGTN's Nairobi-based broadcast center produces Africa Live. Local correspondents and local production teams provide authoritative and in-depth stories from across the region. Africa Live is an objective and comprehensive look at every facet of African life.</desc>
+	</programme>
+	<programme channel="5155" start="20260810110000 +0000" stop="20260810113000 +0000">
+		<title>Asia Today</title>
+		<desc>Asia Today highlights the latest news and social developments across Asia. Correspondents in over a dozen countries report on the region's top stories as they happen. Analysts bring Asian perspective to topical and developing issues. Asia Today also emphasizes the diverse cultures and lifestyles of the world's most populous continent.</desc>
+	</programme>
+	<programme channel="5155" start="20260810113000 +0000" stop="20260810120000 +0000">
+		<title>Dialogue</title>
+		<desc>Dialogue is a prime time daily English talk show on CGTN. The 30-minute talk show covers a wide range of domestic and international topics, providing a balanced and critical perspective on current affairs and analysis within the framework of cross-cultural and multi-disciplinary comparisons. Inviting decision makers in government, business and academia onto the show, the host encourages guests to speak their minds frankly. Hundreds of state heads, diplomats, business leaders and culture icons...</desc>
+	</programme>
+	<programme channel="5155" start="20260810120000 +0000" stop="20260810121500 +0000">
+		<title>The World Today</title>
+		<desc>The core rolling news service of CGTN, with regular updates from Beijing, Washington, Nairobi and London, keep viewers up-to-date with all the world's top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.</desc>
+	</programme>
+	<programme channel="5155" start="20260810121500 +0000" stop="20260810130000 +0000">
+		<title>China 24</title>
+		<desc>China 24 is a prime time news program featuring in-depth reports and analysis of the stories in the headlines in China. Produced by CGTN's studios in Beijing and Washington D.C., the show takes a compelling and comprehensive look at China. It explores the country's business, politics, technology, culture, entertainment and more. China 24 tackles head-on the issues that matter most to the nation and its people, with topical reports highlighting challenges facing this fast-changing country.</desc>
+	</programme>
+	<programme channel="5155" start="20260810130000 +0000" stop="20260810133000 +0000">
+		<title>Global Business</title>
+		<desc>The flagship business program of CGTN's English language service. The program offers in-depth analysis of the latest economic data, business trends and market moving policies, zooming in on how all this affects ordinary people. With separate editions out of Asia, Europe, Africa and the Americas, Global Business features analysts and news-makers supported through a global network of correspondents. Global Business shows you what's moving markets in both developed and emerging economies. The bi...</desc>
+	</programme>
+	<programme channel="5155" start="20260810133000 +0000" stop="20260810140000 +0000">
+		<title>The Point with Liu Xin</title>
+		<desc>The Point with LIU Xin is a current affairs program on CGTN. The program comments on global news through LIU Xin's very own unique perspective. With two decades of experience as a news anchor and overseas correspondent, LIU Xin has an engaging and personal style. The Point with LIU Xin connects world audience through social media, enhancing their participation as well as offering a comprehensive perspective on world events.</desc>
+	</programme>
+	<programme channel="5155" start="20260810140000 +0000" stop="20260810143000 +0000">
+		<title>The World Today</title>
+		<desc>The core rolling news service of CGTN, with regular updates from Beijing, Washington, Nairobi and London, keep viewers up-to-date with all the world's top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.</desc>
+	</programme>
+	<programme channel="5155" start="20260810143000 +0000" stop="20260810150000 +0000">
+		<title>World Insight with Tian Wei</title>
+		<desc>World Insight with Tian Wei is a long-running international platform for debate and intelligent discussion. It is the meeting point of both the highly influential and rising voices, facilitated by host, Tian Wei. Every Monday to Friday, it provides nutrition to form your own thoughts and ideas through live debate and interviews. Live debates linking movers and shakers take place in the signature segment “Global Debate”. It features a diversity of perspectives and insights on the most importan...</desc>
+	</programme>
+	<programme channel="5155" start="20260810150000 +0000" stop="20260810153000 +0000">
+		<title>The World Today</title>
+		<desc>The core rolling news service of CGTN, with regular updates from Beijing, Washington, Nairobi and London, keep viewers up-to-date with all the world's top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.</desc>
+	</programme>
+	<programme channel="5155" start="20260810153000 +0000" stop="20260810160000 +0000">
+		<title>The Vibe</title>
+		<desc>The Vibe is a 30-minute TV show that runs daily on weekdays on CGTN. The content focuses on exciting new trends, fashion, and cultural topics across a range of disciplines both in China and abroad. The host presents various culture-related topics in a fun way while also doing some in-depth analysis to give viewers a fuller picture as to what is happening, and why it matters.</desc>
+	</programme>
+	<programme channel="5155" start="20260810160000 +0000" stop="20260810170000 +0000">
+		<title>Global Business</title>
+		<desc>The flagship business program of CGTN's English language service. The program offers in-depth analysis of the latest economic data, business trends and market moving policies, zooming in on how all this affects ordinary people. With separate editions out of Asia, Europe, Africa and the Americas, Global Business features analysts and news-makers supported through a global network of correspondents. Global Business shows you what's moving markets in both developed and emerging economies. The bi...</desc>
+	</programme>
+	<programme channel="5155" start="20260810170000 +0000" stop="20260810180000 +0000">
+		<title>Africa Live</title>
+		<desc>Africa Live is a news program that focuses on African issues and issues related to this diverse continent. CGTN's Nairobi-based broadcast center produces Africa Live. Local correspondents and local production teams provide authoritative and in-depth stories from across the region. Africa Live is an objective and comprehensive look at every facet of African life.</desc>
+	</programme>
+	<programme channel="5155" start="20260810180000 +0000" stop="20260810190000 +0000">
+		<title>Global Business</title>
+		<desc>The flagship business program of CGTN's English language service. The program offers in-depth analysis of the latest economic data, business trends and market moving policies, zooming in on how all this affects ordinary people. With separate editions out of Asia, Europe, Africa and the Americas, Global Business features analysts and news-makers supported through a global network of correspondents. Global Business shows you what's moving markets in both developed and emerging economies. The bi...</desc>
+	</programme>
+	<programme channel="5155" start="20260810190000 +0000" stop="20260810193000 +0000">
+		<title>The World Today</title>
+		<desc>The core rolling news service of CGTN, with regular updates from Beijing, Washington, Nairobi and London, keep viewers up-to-date with all the world's top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.</desc>
+	</programme>
+	<programme channel="5155" start="20260810193000 +0000" stop="20260810200000 +0000">
+		<title>World Insight with Tian Wei</title>
+		<desc>World Insight with Tian Wei is a long-running international platform for debate and intelligent discussion. It is the meeting point of both the highly influential and rising voices, facilitated by host, Tian Wei. Every Monday to Friday, it provides nutrition to form your own thoughts and ideas through live debate and interviews. Live debates linking movers and shakers take place in the signature segment “Global Debate”. It features a diversity of perspectives and insights on the most importan...</desc>
+	</programme>
+	<programme channel="5155" start="20260810200000 +0000" stop="20260810203000 +0000">
+		<title>The World Today</title>
+		<desc>The core rolling news service of CGTN, with regular updates from Beijing, Washington, Nairobi and London, keep viewers up-to-date with all the world's top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.</desc>
+	</programme>
+	<programme channel="5155" start="20260810203000 +0000" stop="20260810210000 +0000">
+		<title>Dialogue</title>
+		<desc>Dialogue is a prime time daily English talk show on CGTN. The 30-minute talk show covers a wide range of domestic and international topics, providing a balanced and critical perspective on current affairs and analysis within the framework of cross-cultural and multi-disciplinary comparisons. Inviting decision makers in government, business and academia onto the show, the host encourages guests to speak their minds frankly. Hundreds of state heads, diplomats, business leaders and culture icons...</desc>
+	</programme>
+	<programme channel="5155" start="20260810210000 +0000" stop="20260810213000 +0000">
+		<title>Global Business</title>
+		<desc>The flagship business program of CGTN's English language service. The program offers in-depth analysis of the latest economic data, business trends and market moving policies, zooming in on how all this affects ordinary people. With separate editions out of Asia, Europe, Africa and the Americas, Global Business features analysts and news-makers supported through a global network of correspondents. Global Business shows you what's moving markets in both developed and emerging economies. The bi...</desc>
+	</programme>
+	<programme channel="5155" start="20260810213000 +0000" stop="20260810220000 +0000">
+		<title>The Point with Liu Xin</title>
+		<desc>The Point with LIU Xin is a current affairs program on CGTN. The program comments on global news through LIU Xin's very own unique perspective. With two decades of experience as a news anchor and overseas correspondent, LIU Xin has an engaging and personal style. The Point with LIU Xin connects world audience through social media, enhancing their participation as well as offering a comprehensive perspective on world events.</desc>
+	</programme>
+	<programme channel="5155" start="20260810220000 +0000" stop="20260810223000 +0000">
+		<title>The World Today</title>
+		<desc>The core rolling news service of CGTN, with regular updates from Beijing, Washington, Nairobi and London, keep viewers up-to-date with all the world's top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.</desc>
+	</programme>
+	<programme channel="5155" start="20260810223000 +0000" stop="20260810230000 +0000">
+		<title>Rediscovering China</title>
+		<desc>Rediscovering China is a half-hour documentary program on CGTN. Each edition offers unique insight into various aspects of life in China today. With unrivalled access to the country's people and places, the program aims to show the global audience an inclusive and vigorous China.</desc>
+	</programme>
+	<programme channel="5155" start="20260810230000 +0000" stop="20260810233000 +0000">
+		<title>The Heat</title>
+		<desc>The Heat is a daily talk show anchored from Washington, D.C. It focuses on top stories making news globally. The Heat presents tough issues from a comprehensive, balanced and international and Chinese perspective. Guests from on the spot and around the world ensure lively debate and a range of voices. Wherever the story is happening, The Heat is there.</desc>
+	</programme>
+	<programme channel="5155" start="20260810233000 +0000" stop="20260811000000 +0000">
+		<title>The World Today</title>
+		<desc>The core rolling news service of CGTN, with regular updates from Beijing, Washington, Nairobi and London, keep viewers up-to-date with all the world's top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.</desc>
+	</programme>
+	<programme channel="5155" start="20260811000000 +0000" stop="20260811010000 +0000">
+		<title>Global Business</title>
+		<desc>The flagship business program of CGTN's English language service. The program offers in-depth analysis of the latest economic data, business trends and market moving policies, zooming in on how all this affects ordinary people. With separate editions out of Asia, Europe, Africa and the Americas, Global Business features analysts and news-makers supported through a global network of correspondents. Global Business shows you what's moving markets in both developed and emerging economies. The bi...</desc>
+	</programme>
+	<programme channel="5155" start="20260811010000 +0000" stop="20260811013000 +0000">
+		<title>The World Today</title>
+		<desc>The core rolling news service of CGTN, with regular updates from Beijing, Washington, Nairobi and London, keep viewers up-to-date with all the world's top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.</desc>
+	</programme>
+	<programme channel="5155" start="20260811013000 +0000" stop="20260811020000 +0000">
+		<title>China 24</title>
+		<desc>China 24 is a prime time news program featuring in-depth reports and analysis of the stories in the headlines in China. Produced by CGTN's studios in Beijing and Washington D.C., the show takes a compelling and comprehensive look at China. It explores the country's business, politics, technology, culture, entertainment and more. China 24 tackles head-on the issues that matter most to the nation and its people, with topical reports highlighting challenges facing this fast-changing country.</desc>
+	</programme>
+	<programme channel="5155" start="20260811020000 +0000" stop="20260811023000 +0000">
+		<title>The World Today</title>
+		<desc>The core rolling news service of CGTN, with regular updates from Beijing, Washington, Nairobi and London, keep viewers up-to-date with all the world's top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.</desc>
+	</programme>
+	<programme channel="5155" start="20260811023000 +0000" stop="20260811030000 +0000">
+		<title>World Insight with Tian Wei</title>
+		<desc>World Insight with Tian Wei is a long-running international platform for debate and intelligent discussion. It is the meeting point of both the highly influential and rising voices, facilitated by host, Tian Wei. Every Monday to Friday, it provides nutrition to form your own thoughts and ideas through live debate and interviews. Live debates linking movers and shakers take place in the signature segment “Global Debate”. It features a diversity of perspectives and insights on the most importan...</desc>
+	</programme>
+	<programme channel="5155" start="20260811030000 +0000" stop="20260811031500 +0000">
+		<title>The World Today</title>
+		<desc>The core rolling news service of CGTN, with regular updates from Beijing, Washington, Nairobi and London, keep viewers up-to-date with all the world's top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.</desc>
+	</programme>
+	<programme channel="5155" start="20260811031500 +0000" stop="20260811033000 +0000">
+		<title>Sports Scene</title>
+		<desc>Sports Scene brings you closer to all the action from all corners of the world, with highlights from across Europe, North America and China's top sports leagues. We examine the changes and growth in China's domestic leagues, as the country undergoes an incredible economic transformation. Our exclusive features, "Tackling China", "CBA Stories", and "Beyond the Baseline", take you behind the scenes and closer to the top athletes in China, by providing a unique perspective on the top sports stor...</desc>
+	</programme>
+	<programme channel="5155" start="20260811033000 +0000" stop="20260811040000 +0000">
+		<title>The Hub With Wang Guan</title>
+		<desc>The Hub with Wang Guan covers hot-button geopolitical and economic issues, as well as interesting stories and trends in culture, education, technology and lifestyle. It aims to connect people, cultures and societies across the East and the West. The program features dynamic designs, fast pace and rich visuals to keep viewers engaged. It also makes use of trending topics online, while focusing on what's relevant in China and the world.</desc>
+	</programme>
+	<programme channel="5155" start="20260811040000 +0000" stop="20260811050000 +0000">
+		<title>Global Watch</title>
+		<desc>GLOBAL WATCH is a 60 minute-long news program. The show stresses Chinese elements, emphasizing China's perspective, policies and stories. The program, relying on global reporting resources, presents in-depth analysis and coverage of major global issues, from a Chinese perspective on international affairs. The program presents to-the-point interpretation of Chinese policies and stories that are of interest to foreign audiences, in a style they are familiar with.</desc>
+	</programme>
+	<programme channel="5155" start="20260811050000 +0000" stop="20260811051500 +0000">
+		<title>The World Today</title>
+		<desc>The core rolling news service of CGTN, with regular updates from Beijing, Washington, Nairobi and London, keep viewers up-to-date with all the world's top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.</desc>
+	</programme>
+	<programme channel="5155" start="20260811051500 +0000" stop="20260811053000 +0000">
+		<title>Sports Scene</title>
+		<desc>Sports Scene brings you closer to all the action from all corners of the world, with highlights from across Europe, North America and China's top sports leagues. We examine the changes and growth in China's domestic leagues, as the country undergoes an incredible economic transformation. Our exclusive features, "Tackling China", "CBA Stories", and "Beyond the Baseline", take you behind the scenes and closer to the top athletes in China, by providing a unique perspective on the top sports stor...</desc>
+	</programme>
+	<programme channel="5155" start="20260811053000 +0000" stop="20260811060000 +0000">
+		<title>Rediscovering China</title>
+		<desc>Rediscovering China is a half-hour documentary program on CGTN. Each edition offers unique insight into various aspects of life in China today. With unrivalled access to the country's people and places, the program aims to show the global audience an inclusive and vigorous China.</desc>
+	</programme>
+	<programme channel="5155" start="20260811060000 +0000" stop="20260811063000 +0000">
+		<title>The World Today</title>
+		<desc>The core rolling news service of CGTN, with regular updates from Beijing, Washington, Nairobi and London, keep viewers up-to-date with all the world's top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.</desc>
+	</programme>
+	<programme channel="5155" start="20260811063000 +0000" stop="20260811070000 +0000">
+		<title>The Heat</title>
+		<desc>The Heat is a daily talk show anchored from Washington, D.C. It focuses on top stories making news globally. The Heat presents tough issues from a comprehensive, balanced and international and Chinese perspective. Guests from on the spot and around the world ensure lively debate and a range of voices. Wherever the story is happening, The Heat is there.</desc>
+	</programme>
+	<programme channel="5155" start="20260811070000 +0000" stop="20260811073000 +0000">
+		<title>The World Today</title>
+		<desc>The core rolling news service of CGTN, with regular updates from Beijing, Washington, Nairobi and London, keep viewers up-to-date with all the world's top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.</desc>
+	</programme>
+	<programme channel="5155" start="20260811073000 +0000" stop="20260811080000 +0000">
+		<title>Sports Scene</title>
+		<desc>Sports Scene brings you closer to all the action from all corners of the world, with highlights from across Europe, North America and China's top sports leagues. We examine the changes and growth in China's domestic leagues, as the country undergoes an incredible economic transformation. Our exclusive features, "Tackling China", "CBA Stories", and "Beyond the Baseline", take you behind the scenes and closer to the top athletes in China, by providing a unique perspective on the top sports stor...</desc>
+	</programme>
+	<programme channel="5155" start="20260811080000 +0000" stop="20260811081500 +0000">
+		<title>The World Today</title>
+		<desc>The core rolling news service of CGTN, with regular updates from Beijing, Washington, Nairobi and London, keep viewers up-to-date with all the world's top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.</desc>
+	</programme>
+	<programme channel="5155" start="20260811081500 +0000" stop="20260811090000 +0000">
+		<title>Global Business</title>
+		<desc>The flagship business program of CGTN's English language service. The program offers in-depth analysis of the latest economic data, business trends and market moving policies, zooming in on how all this affects ordinary people. With separate editions out of Asia, Europe, Africa and the Americas, Global Business features analysts and news-makers supported through a global network of correspondents. Global Business shows you what's moving markets in both developed and emerging economies. The bi...</desc>
+	</programme>
+	<programme channel="5155" start="20260811090000 +0000" stop="20260811093000 +0000">
+		<title>The World Today</title>
+		<desc>The core rolling news service of CGTN, with regular updates from Beijing, Washington, Nairobi and London, keep viewers up-to-date with all the world's top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.</desc>
+	</programme>
+	<programme channel="5155" start="20260811093000 +0000" stop="20260811100000 +0000">
+		<title>The Vibe</title>
+		<desc>The Vibe is a 30-minute TV show that runs daily on weekdays on CGTN. The content focuses on exciting new trends, fashion, and cultural topics across a range of disciplines both in China and abroad. The host presents various culture-related topics in a fun way while also doing some in-depth analysis to give viewers a fuller picture as to what is happening, and why it matters.</desc>
+	</programme>
+	<programme channel="5155" start="20260811100000 +0000" stop="20260811101500 +0000">
+		<title>The World Today</title>
+		<desc>The core rolling news service of CGTN, with regular updates from Beijing, Washington, Nairobi and London, keep viewers up-to-date with all the world's top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.</desc>
+	</programme>
+	<programme channel="5155" start="20260811101500 +0000" stop="20260811110000 +0000">
+		<title>Africa Live</title>
+		<desc>Africa Live is a news program that focuses on African issues and issues related to this diverse continent. CGTN's Nairobi-based broadcast center produces Africa Live. Local correspondents and local production teams provide authoritative and in-depth stories from across the region. Africa Live is an objective and comprehensive look at every facet of African life.</desc>
+	</programme>
+	<programme channel="5155" start="20260811110000 +0000" stop="20260811113000 +0000">
+		<title>Asia Today</title>
+		<desc>Asia Today highlights the latest news and social developments across Asia. Correspondents in over a dozen countries report on the region's top stories as they happen. Analysts bring Asian perspective to topical and developing issues. Asia Today also emphasizes the diverse cultures and lifestyles of the world's most populous continent.</desc>
+	</programme>
+	<programme channel="5155" start="20260811113000 +0000" stop="20260811120000 +0000">
+		<title>Dialogue</title>
+		<desc>Dialogue is a prime time daily English talk show on CGTN. The 30-minute talk show covers a wide range of domestic and international topics, providing a balanced and critical perspective on current affairs and analysis within the framework of cross-cultural and multi-disciplinary comparisons. Inviting decision makers in government, business and academia onto the show, the host encourages guests to speak their minds frankly. Hundreds of state heads, diplomats, business leaders and culture icons...</desc>
+	</programme>
+	<programme channel="5155" start="20260811120000 +0000" stop="20260811121500 +0000">
+		<title>The World Today</title>
+		<desc>The core rolling news service of CGTN, with regular updates from Beijing, Washington, Nairobi and London, keep viewers up-to-date with all the world's top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.</desc>
+	</programme>
+	<programme channel="5155" start="20260811121500 +0000" stop="20260811130000 +0000">
+		<title>China 24</title>
+		<desc>China 24 is a prime time news program featuring in-depth reports and analysis of the stories in the headlines in China. Produced by CGTN's studios in Beijing and Washington D.C., the show takes a compelling and comprehensive look at China. It explores the country's business, politics, technology, culture, entertainment and more. China 24 tackles head-on the issues that matter most to the nation and its people, with topical reports highlighting challenges facing this fast-changing country.</desc>
+	</programme>
+	<programme channel="5155" start="20260811130000 +0000" stop="20260811133000 +0000">
+		<title>Global Business</title>
+		<desc>The flagship business program of CGTN's English language service. The program offers in-depth analysis of the latest economic data, business trends and market moving policies, zooming in on how all this affects ordinary people. With separate editions out of Asia, Europe, Africa and the Americas, Global Business features analysts and news-makers supported through a global network of correspondents. Global Business shows you what's moving markets in both developed and emerging economies. The bi...</desc>
+	</programme>
+	<programme channel="5155" start="20260811133000 +0000" stop="20260811140000 +0000">
+		<title>The Hub With Wang Guan</title>
+		<desc>The Hub with Wang Guan covers hot-button geopolitical and economic issues, as well as interesting stories and trends in culture, education, technology and lifestyle. It aims to connect people, cultures and societies across the East and the West. The program features dynamic designs, fast pace and rich visuals to keep viewers engaged. It also makes use of trending topics online, while focusing on what's relevant in China and the world.</desc>
+	</programme>
+	<programme channel="5155" start="20260811140000 +0000" stop="20260811143000 +0000">
+		<title>The World Today</title>
+		<desc>The core rolling news service of CGTN, with regular updates from Beijing, Washington, Nairobi and London, keep viewers up-to-date with all the world's top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.</desc>
+	</programme>
+	<programme channel="5155" start="20260811143000 +0000" stop="20260811150000 +0000">
+		<title>World Insight with Tian Wei</title>
+		<desc>World Insight with Tian Wei is a long-running international platform for debate and intelligent discussion. It is the meeting point of both the highly influential and rising voices, facilitated by host, Tian Wei. Every Monday to Friday, it provides nutrition to form your own thoughts and ideas through live debate and interviews. Live debates linking movers and shakers take place in the signature segment “Global Debate”. It features a diversity of perspectives and insights on the most importan...</desc>
+	</programme>
+	<programme channel="5155" start="20260811150000 +0000" stop="20260811153000 +0000">
+		<title>The World Today</title>
+		<desc>The core rolling news service of CGTN, with regular updates from Beijing, Washington, Nairobi and London, keep viewers up-to-date with all the world's top stories as they happen. The World Today delivers breaking news, live events, in-depth reporting, expert analysis and sustained coverage.</desc>
+	</programme>
 	<programme channel="5157" start="20260804160000 +0000" stop="20260804163000 +0000">
 		<title>NHK NEWSLINE</title>
 		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
@@ -17490,7 +17838,7 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5157" start="20260808141000 +0000" stop="20260808144000 +0000">
 		<title>BIZ STREAM</title>
-		<desc>This upbeat program combines business and economic news with in-depth feature stories that give you a closer look at the latest trends within Japan and around the world.</desc>
+		<desc>Art on Demand: This episode features companies using creative ways to get fine art by undiscovered artists into people's homes and public spaces.</desc>
 	</programme>
 	<programme channel="5157" start="20260808144000 +0000" stop="20260808145000 +0000">
 		<title>u&amp;i</title>
@@ -17570,7 +17918,7 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5157" start="20260808201000 +0000" stop="20260808204000 +0000">
 		<title>BIZ STREAM</title>
-		<desc>This upbeat program combines business and economic news with in-depth feature stories that give you a closer look at the latest trends within Japan and around the world.</desc>
+		<desc>Art on Demand: This episode features companies using creative ways to get fine art by undiscovered artists into people's homes and public spaces.</desc>
 	</programme>
 	<programme channel="5157" start="20260808204000 +0000" stop="20260808205000 +0000">
 		<title>u&amp;i</title>
@@ -17625,8 +17973,8 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<desc>Explore the fascinating conventions and traditions of kabuki. Actor Kataoka Ainosuke explains the origins and meanings of kabuki's unique make-up, its onnagata techniques, and stage machinery.</desc>
 	</programme>
 	<programme channel="5157" start="20260809000000 +0000" stop="20260809005000 +0000">
-		<title>NHK WORLD TV Special program</title>
-		<desc>A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+		<title>Documentary 360</title>
+		<desc>A group of atomic bomb survivors travel to the United States in pursuit of a path to nuclear abolition. Through dialogue, they share their stories and gain insight into public perception in the US.</desc>
 	</programme>
 	<programme channel="5157" start="20260809005000 +0000" stop="20260809010000 +0000">
 		<title>Century Signboards</title>
@@ -17640,7 +17988,11 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<title>The Three Crows of Nagasaki:Honoring the Memories of Friends</title>
 		<desc>Keiho Junior High School in Nagasaki lost 400 lives to an atomic bomb. Three old core members of the alumni association explore the future of the memorial service, held annually for the past 50 years.</desc>
 	</programme>
-	<programme channel="5157" start="20260809013600 +0000" stop="20260809020000 +0000">
+	<programme channel="5157" start="20260809013600 +0000" stop="20260809015600 +0000">
+		<title>My Street Piano</title>
+		<desc>Shibuya is one of Tokyo's largest cities. A piano is placed near a ticket gate at the station, and people stop to play from their heart.</desc>
+	</programme>
+	<programme channel="5157" start="20260809015600 +0000" stop="20260809020000 +0000">
 		<title>Time-lapse Japan</title>
 		<desc>Izumo, known as the "home of the gods," fascinated Lafcadio Hearn, a writer from Ireland. With beautiful time-lapse footage, we introduce his life in Japan and the region that captured his heart.</desc>
 	</programme>
@@ -17705,16 +18057,24 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
 	</programme>
 	<programme channel="5157" start="20260809061000 +0000" stop="20260809070000 +0000">
-		<title>NHK WORLD TV Special program</title>
-		<desc>A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+		<title>Documentary 360</title>
+		<desc>A group of atomic bomb survivors travel to the United States in pursuit of a path to nuclear abolition. Through dialogue, they share their stories and gain insight into public perception in the US.</desc>
 	</programme>
 	<programme channel="5157" start="20260809070000 +0000" stop="20260809071000 +0000">
 		<title>NHK NEWSLINE</title>
 		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
 	</programme>
-	<programme channel="5157" start="20260809071000 +0000" stop="20260809080000 +0000">
+	<programme channel="5157" start="20260809071000 +0000" stop="20260809073600 +0000">
 		<title>The Three Crows of Nagasaki:Honoring the Memories of Friends</title>
 		<desc>Keiho Junior High School in Nagasaki lost 400 lives to an atomic bomb. Three old core members of the alumni association explore the future of the memorial service, held annually for the past 50 years.</desc>
+	</programme>
+	<programme channel="5157" start="20260809073600 +0000" stop="20260809075600 +0000">
+		<title>My Street Piano</title>
+		<desc>Shibuya is one of Tokyo's largest cities. A piano is placed near a ticket gate at the station, and people stop to play from their heart.</desc>
+	</programme>
+	<programme channel="5157" start="20260809075600 +0000" stop="20260809080000 +0000">
+		<title>Time-lapse Japan</title>
+		<desc>Izumo, known as the "home of the gods," fascinated Lafcadio Hearn, a writer from Ireland. With beautiful time-lapse footage, we introduce his life in Japan and the region that captured his heart.</desc>
 	</programme>
 	<programme channel="5157" start="20260809080000 +0000" stop="20260809081000 +0000">
 		<title>NHK NEWSLINE</title>
@@ -17793,16 +18153,24 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
 	</programme>
 	<programme channel="5157" start="20260809121000 +0000" stop="20260809130000 +0000">
-		<title>NHK WORLD TV Special program</title>
-		<desc>A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+		<title>Documentary 360</title>
+		<desc>A group of atomic bomb survivors travel to the United States in pursuit of a path to nuclear abolition. Through dialogue, they share their stories and gain insight into public perception in the US.</desc>
 	</programme>
 	<programme channel="5157" start="20260809130000 +0000" stop="20260809131000 +0000">
 		<title>NHK NEWSLINE</title>
 		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
 	</programme>
-	<programme channel="5157" start="20260809131000 +0000" stop="20260809140000 +0000">
+	<programme channel="5157" start="20260809131000 +0000" stop="20260809133600 +0000">
 		<title>The Three Crows of Nagasaki:Honoring the Memories of Friends</title>
 		<desc>Keiho Junior High School in Nagasaki lost 400 lives to an atomic bomb. Three old core members of the alumni association explore the future of the memorial service, held annually for the past 50 years.</desc>
+	</programme>
+	<programme channel="5157" start="20260809133600 +0000" stop="20260809135600 +0000">
+		<title>My Street Piano</title>
+		<desc>Shibuya is one of Tokyo's largest cities. A piano is placed near a ticket gate at the station, and people stop to play from their heart.</desc>
+	</programme>
+	<programme channel="5157" start="20260809135600 +0000" stop="20260809140000 +0000">
+		<title>Time-lapse Japan</title>
+		<desc>Izumo, known as the "home of the gods," fascinated Lafcadio Hearn, a writer from Ireland. With beautiful time-lapse footage, we introduce his life in Japan and the region that captured his heart.</desc>
 	</programme>
 	<programme channel="5157" start="20260809140000 +0000" stop="20260809141000 +0000">
 		<title>NHK NEWSLINE</title>
@@ -17877,8 +18245,8 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<desc>Uda Etsuko turns fiber from hard-to-process waste pineapple leaves into yarn and fabric for textiles in Okinawa. Expanding her operation to Indonesia, she hopes to take this untapped resource global.</desc>
 	</programme>
 	<programme channel="5157" start="20260809180000 +0000" stop="20260809185000 +0000">
-		<title>NHK WORLD TV Special program</title>
-		<desc>A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+		<title>Documentary 360</title>
+		<desc>A group of atomic bomb survivors travel to the United States in pursuit of a path to nuclear abolition. Through dialogue, they share their stories and gain insight into public perception in the US.</desc>
 	</programme>
 	<programme channel="5157" start="20260809185000 +0000" stop="20260809190000 +0000">
 		<title>Century Signboards</title>
@@ -17888,9 +18256,17 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<title>NHK NEWSLINE</title>
 		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
 	</programme>
-	<programme channel="5157" start="20260809191000 +0000" stop="20260809200000 +0000">
+	<programme channel="5157" start="20260809191000 +0000" stop="20260809193600 +0000">
 		<title>The Three Crows of Nagasaki:Honoring the Memories of Friends</title>
 		<desc>Keiho Junior High School in Nagasaki lost 400 lives to an atomic bomb. Three old core members of the alumni association explore the future of the memorial service, held annually for the past 50 years.</desc>
+	</programme>
+	<programme channel="5157" start="20260809193600 +0000" stop="20260809195600 +0000">
+		<title>My Street Piano</title>
+		<desc>Shibuya is one of Tokyo's largest cities. A piano is placed near a ticket gate at the station, and people stop to play from their heart.</desc>
+	</programme>
+	<programme channel="5157" start="20260809195600 +0000" stop="20260809200000 +0000">
+		<title>Time-lapse Japan</title>
+		<desc>Izumo, known as the "home of the gods," fascinated Lafcadio Hearn, a writer from Ireland. With beautiful time-lapse footage, we introduce his life in Japan and the region that captured his heart.</desc>
 	</programme>
 	<programme channel="5157" start="20260809200000 +0000" stop="20260809201000 +0000">
 		<title>NHK NEWSLINE</title>
@@ -18046,7 +18422,7 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5157" start="20260810033000 +0000" stop="20260810040000 +0000">
 		<title>BIZ STREAM</title>
-		<desc>This upbeat program combines business and economic news with in-depth feature stories that give you a closer look at the latest trends within Japan and around the world.</desc>
+		<desc>Art on Demand: This episode features companies using creative ways to get fine art by undiscovered artists into people's homes and public spaces.</desc>
 	</programme>
 	<programme channel="5157" start="20260810040000 +0000" stop="20260810041000 +0000">
 		<title>NHK NEWSLINE</title>
@@ -18093,8 +18469,8 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
 	</programme>
 	<programme channel="5157" start="20260810061000 +0000" stop="20260810062300 +0000">
-		<title>NHK WORLD-JAPAN Special program</title>
-		<desc>NHK WORLD-JAPAN presents a wide range of programs from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+		<title>BIZ STREAM SPECIAL EDITION</title>
+		<desc>Giving a Spark to the Power Grid: To maintain Japan's power grid, one company is trying to attract climbers, and another has turned checking on power poles into a mobile game.</desc>
 	</programme>
 	<programme channel="5157" start="20260810062300 +0000" stop="20260810063000 +0000">
 		<title>One in Every Japanese</title>
@@ -18185,8 +18561,8 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
 	</programme>
 	<programme channel="5157" start="20260810111500 +0000" stop="20260810112800 +0000">
-		<title>NHK WORLD-JAPAN Special program</title>
-		<desc>NHK WORLD-JAPAN presents a wide range of programs from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+		<title>BIZ STREAM SPECIAL EDITION</title>
+		<desc>Giving a Spark to the Power Grid: To maintain Japan's power grid, one company is trying to attract climbers, and another has turned checking on power poles into a mobile game.</desc>
 	</programme>
 	<programme channel="5157" start="20260810112800 +0000" stop="20260810114300 +0000">
 		<title>Direct Talk #246</title>
@@ -18313,8 +18689,8 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
 	</programme>
 	<programme channel="5157" start="20260810181000 +0000" stop="20260810182300 +0000">
-		<title>NHK WORLD-JAPAN Special program</title>
-		<desc>NHK WORLD-JAPAN presents a wide range of programs from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+		<title>BIZ STREAM SPECIAL EDITION</title>
+		<desc>Giving a Spark to the Power Grid: To maintain Japan's power grid, one company is trying to attract climbers, and another has turned checking on power poles into a mobile game.</desc>
 	</programme>
 	<programme channel="5157" start="20260810182300 +0000" stop="20260810182800 +0000">
 		<title>JAPAN FROM ABOVE: UP CLOSE</title>
@@ -18365,8 +18741,8 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
 	</programme>
 	<programme channel="5157" start="20260810211000 +0000" stop="20260810212300 +0000">
-		<title>NHK WORLD-JAPAN Special program</title>
-		<desc>NHK WORLD-JAPAN presents a wide range of programs from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+		<title>BIZ STREAM SPECIAL EDITION</title>
+		<desc>Giving a Spark to the Power Grid: To maintain Japan's power grid, one company is trying to attract climbers, and another has turned checking on power poles into a mobile game.</desc>
 	</programme>
 	<programme channel="5157" start="20260810212300 +0000" stop="20260810213000 +0000">
 		<title>One in Every Japanese</title>
@@ -18433,8 +18809,8 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
 	</programme>
 	<programme channel="5157" start="20260811001000 +0000" stop="20260811002300 +0000">
-		<title>NHK WORLD-JAPAN Special program</title>
-		<desc>NHK WORLD-JAPAN presents a wide range of programs from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+		<title>BIZ STREAM SPECIAL EDITION</title>
+		<desc>Giving a Spark to the Power Grid: To maintain Japan's power grid, one company is trying to attract climbers, and another has turned checking on power poles into a mobile game.</desc>
 	</programme>
 	<programme channel="5157" start="20260811002300 +0000" stop="20260811003000 +0000">
 		<title>JAPAN FROM ABOVE: UP CLOSE</title>
@@ -18461,8 +18837,8 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
 	</programme>
 	<programme channel="5157" start="20260811021000 +0000" stop="20260811022300 +0000">
-		<title>NHK WORLD-JAPAN Special program</title>
-		<desc>NHK WORLD-JAPAN presents a wide range of programs from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+		<title>BIZ STREAM SPECIAL EDITION</title>
+		<desc>Giving a Spark to the Power Grid: To maintain Japan's power grid, one company is trying to attract climbers, and another has turned checking on power poles into a mobile game.</desc>
 	</programme>
 	<programme channel="5157" start="20260811022300 +0000" stop="20260811023000 +0000">
 		<title>One in Every Japanese</title>
@@ -18493,8 +18869,8 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
 	</programme>
 	<programme channel="5157" start="20260811041000 +0000" stop="20260811042300 +0000">
-		<title>NHK WORLD-JAPAN Special program</title>
-		<desc>NHK WORLD-JAPAN presents a wide range of programs from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+		<title>BIZ STREAM SPECIAL EDITION</title>
+		<desc>Giving a Spark to the Power Grid: To maintain Japan's power grid, one company is trying to attract climbers, and another has turned checking on power poles into a mobile game.</desc>
 	</programme>
 	<programme channel="5157" start="20260811042300 +0000" stop="20260811043000 +0000">
 		<title>JAPAN FROM ABOVE: UP CLOSE</title>
@@ -18533,8 +18909,8 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
 	</programme>
 	<programme channel="5157" start="20260811061000 +0000" stop="20260811062300 +0000">
-		<title>NHK WORLD-JAPAN Special program</title>
-		<desc>NHK WORLD-JAPAN presents a wide range of programs from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+		<title>BIZ STREAM SPECIAL EDITION</title>
+		<desc>Sweltering Summers Inspire New Products: This episode features new products that were developed in response to Japan's intense summer heat.</desc>
 	</programme>
 	<programme channel="5157" start="20260811062300 +0000" stop="20260811063000 +0000">
 		<title>One in Every Japanese</title>
@@ -18602,15 +18978,15 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5157" start="20260811103000 +0000" stop="20260811110000 +0000">
 		<title>BIZ STREAM</title>
-		<desc>This upbeat program combines business and economic news with in-depth feature stories that give you a closer look at the latest trends within Japan and around the world.</desc>
+		<desc>Art on Demand: This episode features companies using creative ways to get fine art by undiscovered artists into people's homes and public spaces.</desc>
 	</programme>
 	<programme channel="5157" start="20260811110000 +0000" stop="20260811111500 +0000">
 		<title>NHK NEWSLINE</title>
 		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
 	</programme>
 	<programme channel="5157" start="20260811111500 +0000" stop="20260811112800 +0000">
-		<title>NHK WORLD-JAPAN Special program</title>
-		<desc>NHK WORLD-JAPAN presents a wide range of programs from news, current affairs, documentaries, etc. focusing on Japan and Asia.</desc>
+		<title>BIZ STREAM SPECIAL EDITION</title>
+		<desc>Sweltering Summers Inspire New Products: This episode features new products that were developed in response to Japan's intense summer heat.</desc>
 	</programme>
 	<programme channel="5157" start="20260811112800 +0000" stop="20260811114300 +0000">
 		<title>Direct Talk #247</title>
@@ -24458,7 +24834,7 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="6166" start="20260806003000 +0000" stop="20260806010000 +0000">
 		<title>AI Decoded (r)</title>
-		<desc>Join our AI Decoded team as we unpack and take a deep dive into the world of artificial intelligence.</desc>
+		<desc>AI Decoded asks whether the AI revolution is delivering on its promises. Is AI failing to live up to expectations? Or are companies simply approaching adoption the wrong way.</desc>
 	</programme>
 	<programme channel="6166" start="20260806010000 +0000" stop="20260806013000 +0000">
 		<title>Newsday</title>
@@ -25001,8 +25377,8 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<desc>The latest news from the BBC.</desc>
 	</programme>
 	<programme channel="6166" start="20260808153000 +0000" stop="20260808160000 +0000">
-		<title>The Big Cases (r)</title>
-		<desc>Following the discovery of 35 bodies and half a tonne of human ashes, we uncover how Robert Bush, a debt-ridden undertaker, betrayed grieving families.</desc>
+		<title>Talking Business (r)</title>
+		<desc>Examining the business stories and economic trends that are re-shaping our world.</desc>
 	</programme>
 	<programme channel="6166" start="20260808160000 +0000" stop="20260808170000 +0000">
 		<title>BBC News</title>
@@ -25069,8 +25445,8 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<desc>The latest news from the BBC.</desc>
 	</programme>
 	<programme channel="6166" start="20260809013000 +0000" stop="20260809020000 +0000">
-		<title>The Big Cases (r)</title>
-		<desc>Following the discovery of 35 bodies and half a tonne of human ashes, we uncover how Robert Bush, a debt-ridden undertaker, betrayed grieving families.</desc>
+		<title>Tech Now (r)</title>
+		<desc>Adrienne Murray has rare access to Microsoft's Quantum Lab in Denmark. Ammie Sekhon checks out the action and innovation at this year's Red Bull Soapbox Race.</desc>
 	</programme>
 	<programme channel="6166" start="20260809020000 +0000" stop="20260809023000 +0000">
 		<title>BBC News</title>
@@ -25129,8 +25505,8 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<desc>The latest news from the BBC.</desc>
 	</programme>
 	<programme channel="6166" start="20260809093000 +0000" stop="20260809100000 +0000">
-		<title>The Big Cases (r)</title>
-		<desc>Following the discovery of 35 bodies and half a tonne of human ashes, we uncover how Robert Bush, a debt-ridden undertaker, betrayed grieving families.</desc>
+		<title>AI Decoded (r)</title>
+		<desc>AI Decoded explores how artificial intelligence is reshaping the future of work - asking whether jobs will disappear or be redesigned around powerful new technologies.</desc>
 	</programme>
 	<programme channel="6166" start="20260809100000 +0000" stop="20260809103000 +0000">
 		<title>BBC News</title>
@@ -25201,8 +25577,8 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<desc>The latest news from the BBC.</desc>
 	</programme>
 	<programme channel="6166" start="20260809183000 +0000" stop="20260809190000 +0000">
-		<title>The Big Cases (r)</title>
-		<desc>Following the discovery of 35 bodies and half a tonne of human ashes, we uncover how Robert Bush, a debt-ridden undertaker, betrayed grieving families.</desc>
+		<title>Focus on Africa: The Conversation (r)</title>
+		<desc>This week, Focus on Africa: The Conversation hears from Takid Master, and his two wives, Cecilia and Mariam about how their polygamous marriage works.</desc>
 	</programme>
 	<programme channel="6166" start="20260809190000 +0000" stop="20260809193000 +0000">
 		<title>BBC News</title>
@@ -25241,8 +25617,8 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<desc>The latest news from the BBC.</desc>
 	</programme>
 	<programme channel="6166" start="20260810003000 +0000" stop="20260810010000 +0000">
-		<title>The Big Cases (r)</title>
-		<desc>Following the discovery of 35 bodies and half a tonne of human ashes, we uncover how Robert Bush, a debt-ridden undertaker, betrayed grieving families.</desc>
+		<title>Tech Now (r)</title>
+		<desc>Adrienne Murray has rare access to Microsoft's Quantum Lab in Denmark. Ammie Sekhon checks out the action and innovation at this year's Red Bull Soapbox Race.</desc>
 	</programme>
 	<programme channel="6166" start="20260810010000 +0000" stop="20260810013000 +0000">
 		<title>Newsday</title>
@@ -76163,6 +76539,326 @@ Memorable Classic Songs is a new music programs hosted by Chen Guo</desc>
 		<title>记住乡愁-片段展播 / Nostalgia</title>
 		<desc>以弘扬中华优秀传统文化为宗旨，以传统村落为载体，以生活化的故事为依托，以乡愁为情感基础，以优秀的传统文化为核心，展现传统村落的自然环境、人文景观、民风民俗、乡土之物、文化积淀等，梳理传统村落的历史发展脉络，聚焦海内外华人记忆中的乡愁，深入挖掘和阐述中华优秀传统文化的时代价值。</desc>
 	</programme>
+	<programme channel="5555" start="20260809195500 +0000" stop="20260809200000 +0000">
+		<title>收视指南 / TV Guide</title>
+		<desc>TV Guide</desc>
+	</programme>
+	<programme channel="5555" start="20260809200000 +0000" stop="20260809203000 +0000">
+		<title>中国新闻 / China News</title>
+		<desc>《中国新闻》是以海外华人华侨、港澳台同胞、留学生、驻外使领馆及中资机构人员为目标受众的综合性新闻栏目。栏目由国内外要闻、中国内地经济和社会新闻、对国内外重要新闻事件的分析和评论组成。</desc>
+	</programme>
+	<programme channel="5555" start="20260809203000 +0000" stop="20260809210000 +0000">
+		<title>今日关注 / Focus Today</title>
+		<desc>《今日关注》紧密跟踪国内外重大新闻事件、新闻话题，邀请国内外一流的专家和高级官员，梳理新闻来龙去脉，分析新闻背后的新闻，评论新闻事件的影响和发展趋势。</desc>
+	</programme>
+	<programme channel="5555" start="20260809210000 +0000" stop="20260809220000 +0000">
+		<title>环球综艺秀 / Universal Show</title>
+		<desc>《环球综艺秀》系中央广播电视总台华语环球节目中心（CCTV-4）为配合高质量发展全新推出的一档大型综艺节目模式，着力搭建一个世界文化文艺互鉴的综艺舞台，立足国际平台，用综艺联结“人类命运共同体”，用文艺“向世界贡献中国智慧”，打造一个放眼全球、放眼世界的“文艺文明互鉴”平台。 邀请世界各国的优秀艺术家和文艺作品，包含音乐、舞蹈、杂技、魔术、达人创新等各种艺术形式，和中国的优秀艺术作品共同演绎，让一个又一个美轮美奂、令人惊叹的表演进行同台互鉴、交流、展演、互动，同时利用网络融媒体手段，进行短视频传播，打造一个“文化共融”平台。</desc>
+	</programme>
+	<programme channel="5555" start="20260809220000 +0000" stop="20260809223000 +0000">
+		<title>海峡两岸 / Across the Strait</title>
+		<desc>中央电视台唯一的涉台时事新闻评论栏目。节目宗旨是“跟踪海峡热点，反映两岸民意”，节目分为两个版块：第一个是“热点扫描”，主要报道当日的近期台湾岛内的热点新闻；第二个是“热点透视”，当日或近期涉台热点深度报道及两岸专家对此事的评论，并对两岸各个层面的交流交往进行跟踪报道。</desc>
+	</programme>
+	<programme channel="5555" start="20260809223000 +0000" stop="20260809230000 +0000">
+		<title>深度国际 / International Depth</title>
+		<desc>每周发生的国际新闻</desc>
+	</programme>
+	<programme channel="5555" start="20260809230000 +0000" stop="20260809233000 +0000">
+		<title>中国新闻 / China News</title>
+		<desc>《中国新闻》是以海外华人华侨、港澳台同胞、留学生、驻外使领馆及中资机构人员为目标受众的综合性新闻栏目。栏目由国内外要闻、中国内地经济和社会新闻、对国内外重要新闻事件的分析和评论组成。</desc>
+	</programme>
+	<programme channel="5555" start="20260809233000 +0000" stop="20260810000000 +0000">
+		<title>今日关注 / Focus Today</title>
+		<desc>《今日关注》紧密跟踪国内外重大新闻事件、新闻话题，邀请国内外一流的专家和高级官员，梳理新闻来龙去脉，分析新闻背后的新闻，评论新闻事件的影响和发展趋势。</desc>
+	</programme>
+	<programme channel="5555" start="20260810000000 +0000" stop="20260810010000 +0000">
+		<title>今日环球 / Global News</title>
+		<desc>《今日环球》是一档信息量大、观点鲜明、全球视野的一小时早间新闻节目，利用新技术、新手段推出全新包装，进一步提升新闻信息量、强化评论、突出外宣特色。</desc>
+	</programme>
+	<programme channel="5555" start="20260810010000 +0000" stop="20260810020000 +0000">
+		<title>中国舆论场 / China's Public Opinion Field</title>
+		<desc>《中国舆论场》将通过大数据分析全媒体平台的舆论热点，并通过融媒体模式带动全民参与话题讨论。每期节目将请来相关专家现场进行专业分析、理性解读。嘉宾包括资深媒体人、时事评论员、网络舆论意见领袖等；同时节目还将就不同话题，对政府部门管理者、相关领域专家等进行采访，及时对事件疑点、难点、争议点进行解答和回应，试图倡导有效沟通，传递真实声音，反映社情民意。</desc>
+	</programme>
+	<programme channel="5555" start="20260810020000 +0000" stop="20260810023000 +0000">
+		<title>国家记忆 / Memory of China</title>
+		<desc>中国第一档国史节目，以“为国家留史，为民族留记，为人物立传”为宗旨，展现党史、国史、军史中的重大历史事件、各领域重大工程建设、揭秘重大决策背后的故事、讲述各阶层各时代代表性人物，记录讲述党的奋斗史、创业史、中国特色社会主义探索史、改革开放进程史。</desc>
+	</programme>
+	<programme channel="5555" start="20260810023000 +0000" stop="20260810030000 +0000">
+		<title>国家记忆 / Memory of China</title>
+		<desc>中国第一档国史节目，以“为国家留史，为民族留记，为人物立传”为宗旨，展现党史、国史、军史中的重大历史事件、各领域重大工程建设、揭秘重大决策背后的故事、讲述各阶层各时代代表性人物，记录讲述党的奋斗史、创业史、中国特色社会主义探索史、改革开放进程史。</desc>
+	</programme>
+	<programme channel="5555" start="20260810030000 +0000" stop="20260810033000 +0000">
+		<title>国家记忆 / Memory of China</title>
+		<desc>中国第一档国史节目，以“为国家留史，为民族留记，为人物立传”为宗旨，展现党史、国史、军史中的重大历史事件、各领域重大工程建设、揭秘重大决策背后的故事、讲述各阶层各时代代表性人物，记录讲述党的奋斗史、创业史、中国特色社会主义探索史、改革开放进程史。</desc>
+	</programme>
+	<programme channel="5555" start="20260810033000 +0000" stop="20260810040000 +0000">
+		<title>海峡两岸 / Across the Strait</title>
+		<desc>中央电视台唯一的涉台时事新闻评论栏目。节目宗旨是“跟踪海峡热点，反映两岸民意”，节目分为两个版块：第一个是“热点扫描”，主要报道当日的近期台湾岛内的热点新闻；第二个是“热点透视”，当日或近期涉台热点深度报道及两岸专家对此事的评论，并对两岸各个层面的交流交往进行跟踪报道。</desc>
+	</programme>
+	<programme channel="5555" start="20260810040000 +0000" stop="20260810050000 +0000">
+		<title>中国新闻 / China News</title>
+		<desc>《中国新闻》是以海外华人华侨、港澳台同胞、留学生、驻外使领馆及中资机构人员为目标受众的综合性新闻栏目。栏目由国内外要闻、中国内地经济和社会新闻、对国内外重要新闻事件的分析和评论组成。</desc>
+	</programme>
+	<programme channel="5555" start="20260810050000 +0000" stop="20260810054500 +0000">
+		<title>电视剧：高兴的酸甜苦辣 / Classical Theater</title>
+		<desc>Classical Theater</desc>
+	</programme>
+	<programme channel="5555" start="20260810054500 +0000" stop="20260810063000 +0000">
+		<title>电视剧：高兴的酸甜苦辣 / Classical Theater</title>
+		<desc>Classical Theater</desc>
+	</programme>
+	<programme channel="5555" start="20260810063000 +0000" stop="20260810071500 +0000">
+		<title>电视剧：高兴的酸甜苦辣 / Classical Theater</title>
+		<desc>Classical Theater</desc>
+	</programme>
+	<programme channel="5555" start="20260810071500 +0000" stop="20260810080000 +0000">
+		<title>电视剧：高兴的酸甜苦辣 / Classical Theater</title>
+		<desc>Classical Theater</desc>
+	</programme>
+	<programme channel="5555" start="20260810080000 +0000" stop="20260810084500 +0000">
+		<title>电视剧：高兴的酸甜苦辣 / Classical Theater</title>
+		<desc>Classical Theater</desc>
+	</programme>
+	<programme channel="5555" start="20260810084500 +0000" stop="20260810085000 +0000">
+		<title>收视指南 / TV Guide</title>
+		<desc>TV Guide</desc>
+	</programme>
+	<programme channel="5555" start="20260810085000 +0000" stop="20260810090000 +0000">
+		<title>记住乡愁-片段展播 / Nostalgia</title>
+		<desc>以弘扬中华优秀传统文化为宗旨，以传统村落为载体，以生活化的故事为依托，以乡愁为情感基础，以优秀的传统文化为核心，展现传统村落的自然环境、人文景观、民风民俗、乡土之物、文化积淀等，梳理传统村落的历史发展脉络，聚焦海内外华人记忆中的乡愁，深入挖掘和阐述中华优秀传统文化的时代价值。</desc>
+	</programme>
+	<programme channel="5555" start="20260810090000 +0000" stop="20260810091500 +0000">
+		<title>平凡匠心 / Dreamchaser</title>
+		<desc>《平凡匠心》是一部系列人物纪录片。它以“平凡人，非凡梦”为主题，讲述精彩而极致的人生故事。节目里的主人公遍及当代中国社会各个阶层，每个人在生活方式、事业选择上都拥有独特的梦想和追求，或开风气之先，领时代之新，或执着本色，坚守初心，在各自的职业生涯中创新与坚守。</desc>
+	</programme>
+	<programme channel="5555" start="20260810091500 +0000" stop="20260810100000 +0000">
+		<title>远方的家 / On the Way</title>
+		<desc>节目通过旅行者“深度游来表现中国的自然和人文之美及中国人眼中的世界之美，反映当代中国人旅行态度和生活观念的变化</desc>
+	</programme>
+	<programme channel="5555" start="20260810100000 +0000" stop="20260810103000 +0000">
+		<title>中国新闻 / China News</title>
+		<desc>《中国新闻》是以海外华人华侨、港澳台同胞、留学生、驻外使领馆及中资机构人员为目标受众的综合性新闻栏目。能够覆盖全球各大时区的对外名牌电视栏目。栏目由国内外要闻、中国内地经济和社会新闻、对国内外重要新闻事件的分析和评论组成。</desc>
+	</programme>
+	<programme channel="5555" start="20260810103000 +0000" stop="20260810110000 +0000">
+		<title>中国文艺 / China Showbiz</title>
+		<desc>为综合性专题文艺栏目。以弘扬中华民族传统文化、播撒五千年古老文明、关注中国与世界重大的文艺活动、用精彩的电视文艺作品为海内外华人观众打开一扇精神视窗为目标。</desc>
+	</programme>
+	<programme channel="5555" start="20260810110000 +0000" stop="20260810113000 +0000">
+		<title>中国新闻 / China News （Live）</title>
+		<desc>节目形态为滚动、直播，内容为要闻荟萃。它以迅速报道、滚动播出新近发生的重要国内整点新闻为宗旨，强化时效性，突出快节奏，体现对新闻事件的连续追踪。</desc>
+	</programme>
+	<programme channel="5555" start="20260810113000 +0000" stop="20260810120000 +0000">
+		<title>今日亚洲 / Asia Today</title>
+		<desc>以亚洲人的视角报道亚洲、传达亚洲人的声音、展现亚洲的进步和发展、反映亚洲与世界其他地区的互动</desc>
+	</programme>
+	<programme channel="5555" start="20260810120000 +0000" stop="20260810123000 +0000">
+		<title>国家记忆 / Memory of China</title>
+		<desc>中国第一档国史节目，以“为国家留史，为民族留记，为人物立传”为宗旨，展现党史、国史、军史中的重大历史事件、各领域重大工程建设、揭秘重大决策背后的故事、讲述各阶层各时代代表性人物，记录讲述党的奋斗史、创业史、中国特色社会主义探索史、改革开放进程史。</desc>
+	</programme>
+	<programme channel="5555" start="20260810123000 +0000" stop="20260810130000 +0000">
+		<title>海峡两岸 / Across the Strait</title>
+		<desc>中央电视台唯一的涉台时事新闻评论栏目。节目宗旨是“跟踪海峡热点，反映两岸民意”，节目分为两个版块：第一个是“热点扫描”，主要报道当日的近期台湾岛内的热点新闻；第二个是“热点透视”，当日或近期涉台热点深度报道及两岸专家对此事的评论，并对两岸各个层面的交流交往进行跟踪报道。</desc>
+	</programme>
+	<programme channel="5555" start="20260810130000 +0000" stop="20260810133000 +0000">
+		<title>中国新闻 / China News</title>
+		<desc>《中国新闻》是以海外华人华侨、港澳台同胞、留学生、驻外使领馆及中资机构人员为目标受众的综合性新闻栏目。能够覆盖全球各大时区的对外名牌电视栏目。栏目由国内外要闻、中国内地经济和社会新闻、对国内外重要新闻事件的分析和评论组成。</desc>
+	</programme>
+	<programme channel="5555" start="20260810133000 +0000" stop="20260810140000 +0000">
+		<title>今日关注 / Focus Today</title>
+		<desc>《今日关注》紧密跟踪国内外重大新闻事件、新闻话题，邀请国内外一流的专家和高级官员，梳理新闻来龙去脉，分析新闻背后的新闻，评论新闻事件的影响和发展趋势。</desc>
+	</programme>
+	<programme channel="5555" start="20260810140000 +0000" stop="20260810143000 +0000">
+		<title>走遍中国 / Around China</title>
+		<desc>主要以中国的某一城市（或地域、或主题）为选题范围，选取其最具的历史传承、风土人情、杰出人物、自然风光和发展变化以连续一周每天30分钟播出的大容量，向世界全景式地展现新世纪的中国城市（或地域）形象。</desc>
+	</programme>
+	<programme channel="5555" start="20260810143000 +0000" stop="20260810150000 +0000">
+		<title>新闻联播 / Network News</title>
+		<desc>《新闻联播》是中国中央电视台于1978年1月1日创办的综合性新闻节目。该栏目由中央电视台牵头主办、全国各省级电视台合办。旨在“囊括国内外要闻，宣传党和政府的路线、方针、政策，反映群众呼声，提供各种重要信息”。它的收视率雄居中央电视台各档节目的首位，是国内外观众群最庞大、影响最广泛的电视新闻栏目。</desc>
+	</programme>
+	<programme channel="5555" start="20260810150000 +0000" stop="20260810154300 +0000">
+		<title>电视剧：高兴的酸甜苦辣 / Classical Theater</title>
+		<desc>Classical Theater</desc>
+	</programme>
+	<programme channel="5555" start="20260810154300 +0000" stop="20260810162600 +0000">
+		<title>电视剧：高兴的酸甜苦辣 / Classical Theater</title>
+		<desc>Classical Theater</desc>
+	</programme>
+	<programme channel="5555" start="20260810162600 +0000" stop="20260810170900 +0000">
+		<title>电视剧：高兴的酸甜苦辣 / Classical Theater</title>
+		<desc>Classical Theater</desc>
+	</programme>
+	<programme channel="5555" start="20260810170900 +0000" stop="20260810173900 +0000">
+		<title>中国文艺 / China Showbiz</title>
+		<desc>为综合性专题文艺栏目。以弘扬中华民族传统文化、播撒五千年古老文明、关注中国与世界重大的文艺活动、用精彩的电视文艺作品为海内外华人观众打开一扇精神视窗为目标。</desc>
+	</programme>
+	<programme channel="5555" start="20260810173900 +0000" stop="20260810175400 +0000">
+		<title>国家公园片段展播 / Special Program</title>
+		<desc>国家公园片段展播</desc>
+	</programme>
+	<programme channel="5555" start="20260810175400 +0000" stop="20260810180000 +0000">
+		<title>记住乡愁-片段展播 / Nostalgia</title>
+		<desc>以弘扬中华优秀传统文化为宗旨，以传统村落为载体，以生活化的故事为依托，以乡愁为情感基础，以优秀的传统文化为核心，展现传统村落的自然环境、人文景观、民风民俗、乡土之物、文化积淀等，梳理传统村落的历史发展脉络，聚焦海内外华人记忆中的乡愁，深入挖掘和阐述中华优秀传统文化的时代价值。</desc>
+	</programme>
+	<programme channel="5555" start="20260810180000 +0000" stop="20260810183000 +0000">
+		<title>新闻联播 / Network News</title>
+		<desc>《新闻联播》是中国中央电视台于1978年1月1日创办的综合性新闻节目。该栏目由中央电视台牵头主办、全国各省级电视台合办。旨在“囊括国内外要闻，宣传党和政府的路线、方针、政策，反映群众呼声，提供各种重要信息”。它的收视率雄居中央电视台各档节目的首位，是国内外观众群最庞大、影响最广泛的电视新闻栏目。</desc>
+	</programme>
+	<programme channel="5555" start="20260810183000 +0000" stop="20260810190000 +0000">
+		<title>走遍中国 / Around China</title>
+		<desc>主要以中国的某一城市（或地域、或主题）为选题范围，选取其最具的历史传承、风土人情、杰出人物、自然风光和发展变化以连续一周每天30分钟播出的大容量，向世界全景式地展现新世纪的中国城市（或地域）形象。</desc>
+	</programme>
+	<programme channel="5555" start="20260810190000 +0000" stop="20260810191000 +0000">
+		<title>国家公园片段展播 / Special Program</title>
+		<desc>国家公园片段展播</desc>
+	</programme>
+	<programme channel="5555" start="20260810191000 +0000" stop="20260810195500 +0000">
+		<title>远方的家 / On the Way</title>
+		<desc>节目通过旅行者“深度游来表现中国的自然和人文之美及中国人眼中的世界之美，反映当代中国人旅行态度和生活观念的变化</desc>
+	</programme>
+	<programme channel="5555" start="20260810195500 +0000" stop="20260810200000 +0000">
+		<title>收视指南 / TV Guide</title>
+		<desc>TV Guide</desc>
+	</programme>
+	<programme channel="5555" start="20260810200000 +0000" stop="20260810203000 +0000">
+		<title>中国新闻 / China News</title>
+		<desc>《中国新闻》是以海外华人华侨、港澳台同胞、留学生、驻外使领馆及中资机构人员为目标受众的综合性新闻栏目。栏目由国内外要闻、中国内地经济和社会新闻、对国内外重要新闻事件的分析和评论组成。</desc>
+	</programme>
+	<programme channel="5555" start="20260810203000 +0000" stop="20260810210000 +0000">
+		<title>今日关注 / Focus Today</title>
+		<desc>《今日关注》紧密跟踪国内外重大新闻事件、新闻话题，邀请国内外一流的专家和高级官员，梳理新闻来龙去脉，分析新闻背后的新闻，评论新闻事件的影响和发展趋势。</desc>
+	</programme>
+	<programme channel="5555" start="20260810210000 +0000" stop="20260810213000 +0000">
+		<title>国家记忆 / Memory of China</title>
+		<desc>中国第一档国史节目，以“为国家留史，为民族留记，为人物立传”为宗旨，展现党史、国史、军史中的重大历史事件、各领域重大工程建设、揭秘重大决策背后的故事、讲述各阶层各时代代表性人物，记录讲述党的奋斗史、创业史、中国特色社会主义探索史、改革开放进程史。</desc>
+	</programme>
+	<programme channel="5555" start="20260810213000 +0000" stop="20260810220000 +0000">
+		<title>走遍中国 / Around China</title>
+		<desc>主要以中国的某一城市（或地域、或主题）为选题范围，选取其最具的历史传承、风土人情、杰出人物、自然风光和发展变化以连续一周每天30分钟播出的大容量，向世界全景式地展现新世纪的中国城市（或地域）形象。</desc>
+	</programme>
+	<programme channel="5555" start="20260810220000 +0000" stop="20260810223000 +0000">
+		<title>海峡两岸 / Across the Strait</title>
+		<desc>中央电视台唯一的涉台时事新闻评论栏目。节目宗旨是“跟踪海峡热点，反映两岸民意”，节目分为两个版块：第一个是“热点扫描”，主要报道当日的近期台湾岛内的热点新闻；第二个是“热点透视”，当日或近期涉台热点深度报道及两岸专家对此事的评论，并对两岸各个层面的交流交往进行跟踪报道。</desc>
+	</programme>
+	<programme channel="5555" start="20260810223000 +0000" stop="20260810230000 +0000">
+		<title>今日亚洲 / Asia Today</title>
+		<desc>以亚洲人的视角报道亚洲、传达亚洲人的声音、展现亚洲的进步和发展、反映亚洲与世界其他地区的互动</desc>
+	</programme>
+	<programme channel="5555" start="20260810230000 +0000" stop="20260810233000 +0000">
+		<title>中国新闻 / China News</title>
+		<desc>《中国新闻》是以海外华人华侨、港澳台同胞、留学生、驻外使领馆及中资机构人员为目标受众的综合性新闻栏目。栏目由国内外要闻、中国内地经济和社会新闻、对国内外重要新闻事件的分析和评论组成。</desc>
+	</programme>
+	<programme channel="5555" start="20260810233000 +0000" stop="20260811000000 +0000">
+		<title>今日关注 / Focus Today</title>
+		<desc>《今日关注》紧密跟踪国内外重大新闻事件、新闻话题，邀请国内外一流的专家和高级官员，梳理新闻来龙去脉，分析新闻背后的新闻，评论新闻事件的影响和发展趋势。</desc>
+	</programme>
+	<programme channel="5555" start="20260811000000 +0000" stop="20260811010000 +0000">
+		<title>今日环球 / Global News</title>
+		<desc>《今日环球》是一档信息量大、观点鲜明、全球视野的一小时早间新闻节目，利用新技术、新手段推出全新包装，进一步提升新闻信息量、强化评论、突出外宣特色。</desc>
+	</programme>
+	<programme channel="5555" start="20260811010000 +0000" stop="20260811013000 +0000">
+		<title>今日亚洲 / Asia Today</title>
+		<desc>以亚洲人的视角报道亚洲、传达亚洲人的声音、展现亚洲的进步和发展、反映亚洲与世界其他地区的互动</desc>
+	</programme>
+	<programme channel="5555" start="20260811013000 +0000" stop="20260811023000 +0000">
+		<title>健康中国 / Health China</title>
+		<desc>健康中国</desc>
+	</programme>
+	<programme channel="5555" start="20260811023000 +0000" stop="20260811030000 +0000">
+		<title>国宝发现 / Treasures Found</title>
+		<desc>《国宝·发现》栏目是全国首档以国宝文物和文博考古为线索的行走发现类纪录片节目。节目兼具纪实性和档案感，以主持人在实景现场行走的方式，辅以计算机3D虚拟还原，对考古现场、遗迹遗址和国宝文物进行深入探索，展现最新考古研究成果，探源中华文明，破译历史密码，弘扬中华文化。</desc>
+	</programme>
+	<programme channel="5555" start="20260811030000 +0000" stop="20260811033000 +0000">
+		<title>走遍中国 / Around China</title>
+		<desc>主要以中国的某一城市（或地域、或主题）为选题范围，选取其最具的历史传承、风土人情、杰出人物、自然风光和发展变化以连续一周每天30分钟播出的大容量，向世界全景式地展现新世纪的中国城市（或地域）形象。</desc>
+	</programme>
+	<programme channel="5555" start="20260811033000 +0000" stop="20260811040000 +0000">
+		<title>海峡两岸 / Across the Strait</title>
+		<desc>中央电视台唯一的涉台时事新闻评论栏目。节目宗旨是“跟踪海峡热点，反映两岸民意”，节目分为两个版块：第一个是“热点扫描”，主要报道当日的近期台湾岛内的热点新闻；第二个是“热点透视”，当日或近期涉台热点深度报道及两岸专家对此事的评论，并对两岸各个层面的交流交往进行跟踪报道。</desc>
+	</programme>
+	<programme channel="5555" start="20260811040000 +0000" stop="20260811050000 +0000">
+		<title>中国新闻 / China News</title>
+		<desc>《中国新闻》是以海外华人华侨、港澳台同胞、留学生、驻外使领馆及中资机构人员为目标受众的综合性新闻栏目。栏目由国内外要闻、中国内地经济和社会新闻、对国内外重要新闻事件的分析和评论组成。</desc>
+	</programme>
+	<programme channel="5555" start="20260811050000 +0000" stop="20260811054500 +0000">
+		<title>电视剧：高兴的酸甜苦辣 / Classical Theater</title>
+		<desc>Classical Theater</desc>
+	</programme>
+	<programme channel="5555" start="20260811054500 +0000" stop="20260811063000 +0000">
+		<title>电视剧：高兴的酸甜苦辣 / Classical Theater</title>
+		<desc>Classical Theater</desc>
+	</programme>
+	<programme channel="5555" start="20260811063000 +0000" stop="20260811071500 +0000">
+		<title>电视剧：高兴的酸甜苦辣 / Classical Theater</title>
+		<desc>Classical Theater</desc>
+	</programme>
+	<programme channel="5555" start="20260811071500 +0000" stop="20260811080000 +0000">
+		<title>电视剧：高兴的酸甜苦辣 / Classical Theater</title>
+		<desc>Classical Theater</desc>
+	</programme>
+	<programme channel="5555" start="20260811080000 +0000" stop="20260811084500 +0000">
+		<title>电视剧：高兴的酸甜苦辣 / Classical Theater</title>
+		<desc>Classical Theater</desc>
+	</programme>
+	<programme channel="5555" start="20260811084500 +0000" stop="20260811085000 +0000">
+		<title>收视指南 / TV Guide</title>
+		<desc>TV Guide</desc>
+	</programme>
+	<programme channel="5555" start="20260811085000 +0000" stop="20260811090000 +0000">
+		<title>记住乡愁-片段展播 / Nostalgia</title>
+		<desc>以弘扬中华优秀传统文化为宗旨，以传统村落为载体，以生活化的故事为依托，以乡愁为情感基础，以优秀的传统文化为核心，展现传统村落的自然环境、人文景观、民风民俗、乡土之物、文化积淀等，梳理传统村落的历史发展脉络，聚焦海内外华人记忆中的乡愁，深入挖掘和阐述中华优秀传统文化的时代价值。</desc>
+	</programme>
+	<programme channel="5555" start="20260811090000 +0000" stop="20260811091500 +0000">
+		<title>平凡匠心 / Dreamchaser</title>
+		<desc>《平凡匠心》是一部系列人物纪录片。它以“平凡人，非凡梦”为主题，讲述精彩而极致的人生故事。节目里的主人公遍及当代中国社会各个阶层，每个人在生活方式、事业选择上都拥有独特的梦想和追求，或开风气之先，领时代之新，或执着本色，坚守初心，在各自的职业生涯中创新与坚守。</desc>
+	</programme>
+	<programme channel="5555" start="20260811091500 +0000" stop="20260811100000 +0000">
+		<title>远方的家 / On the Way</title>
+		<desc>节目通过旅行者“深度游来表现中国的自然和人文之美及中国人眼中的世界之美，反映当代中国人旅行态度和生活观念的变化</desc>
+	</programme>
+	<programme channel="5555" start="20260811100000 +0000" stop="20260811103000 +0000">
+		<title>中国新闻 / China News</title>
+		<desc>《中国新闻》是以海外华人华侨、港澳台同胞、留学生、驻外使领馆及中资机构人员为目标受众的综合性新闻栏目。能够覆盖全球各大时区的对外名牌电视栏目。栏目由国内外要闻、中国内地经济和社会新闻、对国内外重要新闻事件的分析和评论组成。</desc>
+	</programme>
+	<programme channel="5555" start="20260811103000 +0000" stop="20260811110000 +0000">
+		<title>中国文艺 / China Showbiz</title>
+		<desc>为综合性专题文艺栏目。以弘扬中华民族传统文化、播撒五千年古老文明、关注中国与世界重大的文艺活动、用精彩的电视文艺作品为海内外华人观众打开一扇精神视窗为目标。</desc>
+	</programme>
+	<programme channel="5555" start="20260811110000 +0000" stop="20260811113000 +0000">
+		<title>中国新闻 / China News （Live）</title>
+		<desc>节目形态为滚动、直播，内容为要闻荟萃。它以迅速报道、滚动播出新近发生的重要国内整点新闻为宗旨，强化时效性，突出快节奏，体现对新闻事件的连续追踪。</desc>
+	</programme>
+	<programme channel="5555" start="20260811113000 +0000" stop="20260811120000 +0000">
+		<title>今日亚洲 / Asia Today</title>
+		<desc>以亚洲人的视角报道亚洲、传达亚洲人的声音、展现亚洲的进步和发展、反映亚洲与世界其他地区的互动</desc>
+	</programme>
+	<programme channel="5555" start="20260811120000 +0000" stop="20260811123000 +0000">
+		<title>国家记忆 / Memory of China</title>
+		<desc>中国第一档国史节目，以“为国家留史，为民族留记，为人物立传”为宗旨，展现党史、国史、军史中的重大历史事件、各领域重大工程建设、揭秘重大决策背后的故事、讲述各阶层各时代代表性人物，记录讲述党的奋斗史、创业史、中国特色社会主义探索史、改革开放进程史。</desc>
+	</programme>
+	<programme channel="5555" start="20260811123000 +0000" stop="20260811130000 +0000">
+		<title>海峡两岸 / Across the Strait</title>
+		<desc>中央电视台唯一的涉台时事新闻评论栏目。节目宗旨是“跟踪海峡热点，反映两岸民意”，节目分为两个版块：第一个是“热点扫描”，主要报道当日的近期台湾岛内的热点新闻；第二个是“热点透视”，当日或近期涉台热点深度报道及两岸专家对此事的评论，并对两岸各个层面的交流交往进行跟踪报道。</desc>
+	</programme>
+	<programme channel="5555" start="20260811130000 +0000" stop="20260811133000 +0000">
+		<title>中国新闻 / China News</title>
+		<desc>《中国新闻》是以海外华人华侨、港澳台同胞、留学生、驻外使领馆及中资机构人员为目标受众的综合性新闻栏目。能够覆盖全球各大时区的对外名牌电视栏目。栏目由国内外要闻、中国内地经济和社会新闻、对国内外重要新闻事件的分析和评论组成。</desc>
+	</programme>
+	<programme channel="5555" start="20260811133000 +0000" stop="20260811140000 +0000">
+		<title>今日关注 / Focus Today</title>
+		<desc>《今日关注》紧密跟踪国内外重大新闻事件、新闻话题，邀请国内外一流的专家和高级官员，梳理新闻来龙去脉，分析新闻背后的新闻，评论新闻事件的影响和发展趋势。</desc>
+	</programme>
+	<programme channel="5555" start="20260811140000 +0000" stop="20260811143000 +0000">
+		<title>走遍中国 / Around China</title>
+		<desc>主要以中国的某一城市（或地域、或主题）为选题范围，选取其最具的历史传承、风土人情、杰出人物、自然风光和发展变化以连续一周每天30分钟播出的大容量，向世界全景式地展现新世纪的中国城市（或地域）形象。</desc>
+	</programme>
+	<programme channel="5555" start="20260811143000 +0000" stop="20260811150000 +0000">
+		<title>新闻联播 / Network News</title>
+		<desc>《新闻联播》是中国中央电视台于1978年1月1日创办的综合性新闻节目。该栏目由中央电视台牵头主办、全国各省级电视台合办。旨在“囊括国内外要闻，宣传党和政府的路线、方针、政策，反映群众呼声，提供各种重要信息”。它的收视率雄居中央电视台各档节目的首位，是国内外观众群最庞大、影响最广泛的电视新闻栏目。</desc>
+	</programme>
+	<programme channel="5555" start="20260811150000 +0000" stop="20260811154300 +0000">
+		<title>电视剧：高兴的酸甜苦辣 / Classical Theater</title>
+		<desc>Classical Theater</desc>
+	</programme>
 	<programme channel="5557" start="20260804160000 +0000" stop="20260804170000 +0000">
 		<title>MIT台灣誌(首)</title>
 		<desc>MIT台灣誌(首)</desc>
@@ -84656,8 +85352,8 @@ Memorable Classic Songs is a new music programs hosted by Chen Guo</desc>
 		<desc>Soup Songs</desc>
 	</programme>
 	<programme channel="5627" start="20260808160000 +0000" stop="20260808163000 +0000">
-		<title>Hits Of Bharathwaj</title>
-		<desc>Hits Of Bharathwaj</desc>
+		<title>Hits Of Hansika</title>
+		<desc>Hits Of Hansika</desc>
 	</programme>
 	<programme channel="5627" start="20260808163000 +0000" stop="20260808173000 +0000">
 		<title>Marana Kuthu</title>
@@ -84740,8 +85436,8 @@ Memorable Classic Songs is a new music programs hosted by Chen Guo</desc>
 		<desc>Soup Songs</desc>
 	</programme>
 	<programme channel="5627" start="20260809160000 +0000" stop="20260809163000 +0000">
-		<title>Hits Of Bharathwaj</title>
-		<desc>Hits Of Bharathwaj</desc>
+		<title>Hits Of Hansika</title>
+		<desc>Hits Of Hansika</desc>
 	</programme>
 	<programme channel="5627" start="20260809163000 +0000" stop="20260809173000 +0000">
 		<title>Marana Kuthu</title>
@@ -109771,17 +110467,17 @@ Memorable Classic Songs is a new music programs hosted by Chen Guo</desc>
 		<title>Wrizzards: Underground Uprising</title>
 		<desc>Wrizzards: Underground Uprising</desc>
 	</programme>
-	<programme channel="5693" start="20260809141500 +0000" stop="20260809151500 +0000">
+	<programme channel="5693" start="20260809141500 +0000" stop="20260809144500 +0000">
+		<title>Hanggang Sa Huling Milya</title>
+		<desc>Hanggang Sa Huling Milya</desc>
+	</programme>
+	<programme channel="5693" start="20260809144500 +0000" stop="20260809154500 +0000">
 		<title>RATED KORINA</title>
 		<desc>RATED KORINA</desc>
 	</programme>
-	<programme channel="5693" start="20260809151500 +0000" stop="20260809161500 +0000">
+	<programme channel="5693" start="20260809154500 +0000" stop="20260809164500 +0000">
 		<title>Y Speak 2.0 ®</title>
 		<desc>Y Speak 2.0 ®</desc>
-	</programme>
-	<programme channel="5693" start="20260809161500 +0000" stop="20260809164500 +0000">
-		<title>Kuan On One®</title>
-		<desc>Kuan On One®</desc>
 	</programme>
 	<programme channel="5693" start="20260809164500 +0000" stop="20260809173000 +0000">
 		<title>TV Patrol Linggo ®</title>
