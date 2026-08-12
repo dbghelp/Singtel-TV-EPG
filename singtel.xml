@@ -1492,9 +1492,13 @@
 		<title>Wheel Of Fortune S42 Episode 94</title>
 		<desc>Ryan Seacrest takes over as the new host for the well-loved gameshow.</desc>
 	</programme>
-	<programme channel="5002" start="20260815195000 +0000" stop="20260815204000 +0000">
+	<programme channel="5002" start="20260815195000 +0000" stop="20260815201500 +0000">
 		<title>Wheel Of Fortune S42 Episode 95</title>
 		<desc>Ryan Seacrest takes over as the new host for the well-loved gameshow.</desc>
+	</programme>
+	<programme channel="5002" start="20260815201500 +0000" stop="20260815204000 +0000">
+		<title>Just For Laughs S25</title>
+		<desc>Just For Laughswill tickle everyone's funny bone with its hilarious practical jokes, hidden camera pranks, and other creative hijinks.</desc>
 	</programme>
 	<programme channel="5002" start="20260815204000 +0000" stop="20260815213000 +0000">
 		<title>Don't Forget the Lyrics S7 Episode 4</title>
@@ -2197,8 +2201,8 @@
 		<desc>一款无线高扭矩清洁器为轻松深层清洁而设计它可伸缩手柄与6种可替换刷头轻松清洁地板瓷砖浴缸及狭小角落简约奢华设计适合每个人使用</desc>
 	</programme>
 	<programme channel="5003" start="20260813021600 +0000" stop="20260813023000 +0000">
-		<title>The Wonder Shop Episode 295</title>
-		<desc>由忆思源医药顾问团队专为维护呼吸系统健康增强免疫力与日常保养而调配的独家配方采用虎乳芝冬虫夏草石斛三种珍贵药材帮您先调理后保健有助于补肺气维持肺部健康适合咳嗽鼻子过敏反复感冒长期曝露在空污环境的朋友服用</desc>
+		<title>The Wonder Shop Episode 263</title>
+		<desc>Thomson ProbioGut 是一款优质的益生菌补充剂专为支持消化健康增强免疫力和促进整体健康而设计采用两种临床研究认证的日本益生菌菌株— 有助于改善肠道菌群调节排便并维持健康的体重</desc>
 	</programme>
 	<programme channel="5003" start="20260813023000 +0000" stop="20260813033000 +0000">
 		<title>金家好媳妇 Episode 100</title>
@@ -2286,7 +2290,7 @@
 	</programme>
 	<programme channel="5003" start="20260813143000 +0000" stop="20260813150000 +0000">
 		<title>焦点 Episode 20</title>
-		<desc>焦点追踪国际时事实地报道区域课题以新加坡的视角分析时局发展的前因后果和潜在影响</desc>
+		<desc>百年造车经验不再是优势欧洲车厂面对迅速崛起的中国电动车只能奋起直追这场电动车大战比的究竟是什么卡塔尔送给特朗普的豪华专机却面对重重安全考验——免费的原来一点也不便宜一个拥有80年历史的香港老品牌如何靠转型重获新生赢得新一代消费者的喜爱</desc>
 	</programme>
 	<programme channel="5003" start="20260813150000 +0000" stop="20260813160000 +0000">
 		<title>无忧渡 Episode 29</title>
@@ -2526,7 +2530,7 @@
 	</programme>
 	<programme channel="5003" start="20260815033000 +0000" stop="20260815040000 +0000">
 		<title>焦点 Episode 20</title>
-		<desc>焦点追踪国际时事实地报道区域课题以新加坡的视角分析时局发展的前因后果和潜在影响</desc>
+		<desc>百年造车经验不再是优势欧洲车厂面对迅速崛起的中国电动车只能奋起直追这场电动车大战比的究竟是什么卡塔尔送给特朗普的豪华专机却面对重重安全考验——免费的原来一点也不便宜一个拥有80年历史的香港老品牌如何靠转型重获新生赢得新一代消费者的喜爱</desc>
 	</programme>
 	<programme channel="5003" start="20260815040000 +0000" stop="20260815050000 +0000">
 		<title>开着餐车趴趴走 2 Episode 13</title>
@@ -2814,15 +2818,27 @@
 	</programme>
 	<programme channel="5003" start="20260817020000 +0000" stop="20260817023000 +0000">
 		<title>焦点 Episode 20</title>
-		<desc>焦点追踪国际时事实地报道区域课题以新加坡的视角分析时局发展的前因后果和潜在影响</desc>
+		<desc>百年造车经验不再是优势欧洲车厂面对迅速崛起的中国电动车只能奋起直追这场电动车大战比的究竟是什么卡塔尔送给特朗普的豪华专机却面对重重安全考验——免费的原来一点也不便宜一个拥有80年历史的香港老品牌如何靠转型重获新生赢得新一代消费者的喜爱</desc>
 	</programme>
 	<programme channel="5003" start="20260817023000 +0000" stop="20260817033000 +0000">
 		<title>金家好媳婦 Episode 102</title>
 		<desc>冠廷拒绝接欣蓉打的电话欣蓉闻到冠廷身上的香水味逼问冠廷的外遇是谁</desc>
 	</programme>
-	<programme channel="5003" start="20260817033000 +0000" stop="20260817050000 +0000">
+	<programme channel="5003" start="20260817033000 +0000" stop="20260817043000 +0000">
 		<title>金家好媳婦 Episode 103</title>
 		<desc>欣茹抗议拆除古迹有财为保护欣茹 头部受伤昏迷</desc>
+	</programme>
+	<programme channel="5003" start="20260817043000 +0000" stop="20260817044400 +0000">
+		<title>The Wonder Shop Episode 326</title>
+		<desc>O'CERA 滋润套组采用皮肤医学级的配方使用柚子神经酰胺Aquaxyl 复合物和保湿因子有助于修复滋养并补充干燥敏感肌肤所需的水分这款可持续24 小时肌肤保湿方案有助于修复并维护肌肤保护层减少水分流失有效缓解皮肤干燥肌肤紧绷刺激和脱皮等问题</desc>
+	</programme>
+	<programme channel="5003" start="20260817044400 +0000" stop="20260817044600 +0000">
+		<title>The Wonder Shop Episode 305</title>
+		<desc>为操作与暗角清洁而设计Acerpure Cordless Vacuum Cleaner 提供卓越操作手感与轻松控制让您更顺畅地左右移动滑行或转向轻巧却强劲有力是您最佳的清洁伙伴</desc>
+	</programme>
+	<programme channel="5003" start="20260817044600 +0000" stop="20260817050000 +0000">
+		<title>The Wonder Shop Episode 317</title>
+		<desc>一款优质的关节养护配方每份含有 4克高剂量胶原蛋白肽并融合了玻尿酸与软骨素旨在为关节提供润滑与缓冲保护含更先进的 N-乙酰葡萄糖胺NAGNAG 能帮助软骨锁住水分并具有缓解关节炎症的作用 同时服用 Q'SAI 这组护膝黄金搭档能够产生强效的协同作用全方位加速关节的修复与保养</desc>
 	</programme>
 	<programme channel="5003" start="20260817050000 +0000" stop="20260817053000 +0000">
 		<title>一点新闻 Episode 99</title>
@@ -2836,9 +2852,21 @@
 		<title>愛回家之开心速递 (Ep1,868 - 2,242) Episode 2143</title>
 		<desc>故事围绕着洪氏和龙氏家族他们的工作生活和朋友展开在之前的剧集中龙景峰的幽灵与洪氏家族成员结下了深厚的友谊</desc>
 	</programme>
-	<programme channel="5003" start="20260817063000 +0000" stop="20260817073000 +0000">
+	<programme channel="5003" start="20260817063000 +0000" stop="20260817070000 +0000">
 		<title>愛回家之开心速递 (Ep1,868 - 2,242) Episode 2144</title>
 		<desc>故事围绕着洪氏和龙氏家族他们的工作生活和朋友展开在之前的剧集中龙景峰的幽灵与洪氏家族成员结下了深厚的友谊</desc>
+	</programme>
+	<programme channel="5003" start="20260817070000 +0000" stop="20260817071400 +0000">
+		<title>The Wonder Shop Episode 315</title>
+		<desc>无需药物的贴布结合远红外线和穴位疗法自然缓解感冒症状感冒缓解贴舒缓鼻塞流鼻涕鼻窦压力和寒冷不适止咳贴有成人装和儿童装帮助缓解咳嗽喉咙不适同时促进血液循环让呼吸更顺畅睡眠更安心温和贴肤每天可用长达6小时舒适守护全家都适用</desc>
+	</programme>
+	<programme channel="5003" start="20260817071400 +0000" stop="20260817071600 +0000">
+		<title>The Wonder Shop Episode 260</title>
+		<desc>韩国电视购物频台爆款这万能布能有效地清理顽固的污渍 油脂和气味</desc>
+	</programme>
+	<programme channel="5003" start="20260817071600 +0000" stop="20260817073000 +0000">
+		<title>The Wonder Shop Episode 320</title>
+		<desc>AIBI V Sofa 可将时尚沙发轻松转换为全身垂直震动平台让日常坐着也能进行低冲击微运动有助于激活肌肉促进血液循环提升身体平衡感并温和支持热量消耗 AIBI Vibro Zen 是一款小巧的冥想震动器通过规律震动帮助舒缓身心紧绷放松思绪并恢复内在平衡与状态</desc>
 	</programme>
 	<programme channel="5003" start="20260817073000 +0000" stop="20260817080000 +0000">
 		<title>但愿人长久 Episode 37</title>
@@ -3620,11 +3648,11 @@
 		<title>Mellisai Hits S3 Episode 21</title>
 		<desc>Collection of hit melody songs from 1990s - 2000s</desc>
 	</programme>
-	<programme channel="5005" start="20260812153000 +0000" stop="20260812160000 +0000">
+	<programme channel="5005" start="20260812153000 +0000" stop="20260812153900 +0000">
 		<title>Seithi Episode 134</title>
 		<desc>Tamil Seithi focuses primarily on local and international news, information and current affairs. Catch the online news portal at http://seithi.mediacorp.sg/</desc>
 	</programme>
-	<programme channel="5005" start="20260812160000 +0000" stop="20260813010000 +0000">
+	<programme channel="5005" start="20260812153900 +0000" stop="20260813010000 +0000">
 		<title>End of Transmission</title>
 		<desc>End of Transmission</desc>
 	</programme>
@@ -4306,7 +4334,7 @@
 	</programme>
 	<programme channel="5006" start="20260813130000 +0000" stop="20260813140000 +0000">
 		<title>Insight Episode 13</title>
-		<desc>Insight investigates and analyses topical issues that impact Asia and the rest of the world.</desc>
+		<desc>In the Philippines, having one job is increasingly not enough. As side-hustle culture becomes a defining feature of life for Gen Z and millennials, what toll does it take on workers?</desc>
 	</programme>
 	<programme channel="5006" start="20260813140000 +0000" stop="20260813150000 +0000">
 		<title>Singapore Tonight Episode 135</title>
@@ -4346,7 +4374,7 @@
 	</programme>
 	<programme channel="5006" start="20260813210000 +0000" stop="20260813220000 +0000">
 		<title>Insight Episode 13</title>
-		<desc>Insight investigates and analyses topical issues that impact Asia and the rest of the world.</desc>
+		<desc>In the Philippines, having one job is increasingly not enough. As side-hustle culture becomes a defining feature of life for Gen Z and millennials, what toll does it take on workers?</desc>
 	</programme>
 	<programme channel="5006" start="20260813220000 +0000" stop="20260813230000 +0000">
 		<title>Singapore Tonight Episode 135</title>
@@ -4358,7 +4386,7 @@
 	</programme>
 	<programme channel="5006" start="20260814020000 +0000" stop="20260814030000 +0000">
 		<title>Insight Episode 13</title>
-		<desc>Insight investigates and analyses topical issues that impact Asia and the rest of the world.</desc>
+		<desc>In the Philippines, having one job is increasingly not enough. As side-hustle culture becomes a defining feature of life for Gen Z and millennials, what toll does it take on workers?</desc>
 	</programme>
 	<programme channel="5006" start="20260814030000 +0000" stop="20260814050000 +0000">
 		<title>Asia Now Episode 98</title>
@@ -4386,7 +4414,7 @@
 	</programme>
 	<programme channel="5006" start="20260814090200 +0000" stop="20260814100000 +0000">
 		<title>Insight Episode 13</title>
-		<desc>Insight investigates and analyses topical issues that impact Asia and the rest of the world.</desc>
+		<desc>In the Philippines, having one job is increasingly not enough. As side-hustle culture becomes a defining feature of life for Gen Z and millennials, what toll does it take on workers?</desc>
 	</programme>
 	<programme channel="5006" start="20260814100000 +0000" stop="20260814110000 +0000">
 		<title>East Asia Tonight Episode 98</title>
@@ -4778,7 +4806,7 @@
 	</programme>
 	<programme channel="5006" start="20260816170000 +0000" stop="20260816180000 +0000">
 		<title>Insight Episode 13</title>
-		<desc>Insight investigates and analyses topical issues that impact Asia and the rest of the world.</desc>
+		<desc>In the Philippines, having one job is increasingly not enough. As side-hustle culture becomes a defining feature of life for Gen Z and millennials, what toll does it take on workers?</desc>
 	</programme>
 	<programme channel="5006" start="20260816180000 +0000" stop="20260816183000 +0000">
 		<title>Singapore Tonight Episode 138</title>
@@ -4842,7 +4870,7 @@
 	</programme>
 	<programme channel="5006" start="20260817090200 +0000" stop="20260817100000 +0000">
 		<title>Insight Episode 13</title>
-		<desc>Insight investigates and analyses topical issues that impact Asia and the rest of the world.</desc>
+		<desc>In the Philippines, having one job is increasingly not enough. As side-hustle culture becomes a defining feature of life for Gen Z and millennials, what toll does it take on workers?</desc>
 	</programme>
 	<programme channel="5006" start="20260817100000 +0000" stop="20260817110000 +0000">
 		<title>East Asia Tonight Episode 99</title>
@@ -5069,8 +5097,8 @@
 		<desc>Tupperware 冷冻保鲜 5 件套让备餐和长期储存变得便捷有效锁住食物的新鲜度作为 Tupperware 畅销第一的冷冻容器它采用快速冷冻设计与柔韧材质冷冻后轻松脱模多种尺寸组合能轻松满足各种冷冻储存的需求</desc>
 	</programme>
 	<programme channel="5007" start="20260812041600 +0000" stop="20260812043000 +0000">
-		<title>The Wonder Shop Episode 295</title>
-		<desc>由忆思源医药顾问团队专为维护呼吸系统健康增强免疫力与日常保养而调配的独家配方采用虎乳芝冬虫夏草石斛三种珍贵药材帮您先调理后保健有助于补肺气维持肺部健康适合咳嗽鼻子过敏反复感冒长期曝露在空污环境的朋友服用</desc>
+		<title>The Wonder Shop Episode 285</title>
+		<desc>厨房必备组合Acerpure Aqua WP5 滤净水器搭配2合1翻转气炸锅理想组合健康又方便随时享用 99C 热水 / 5C 冷水水质纯净安全5合1 RO+双重UV杀菌翻转气炸锅可轻松实现 空气炸烤肉煮汤操作简单安全高效干净饮水与轻松烹饪一台搞定厨房大小事</desc>
 	</programme>
 	<programme channel="5007" start="20260812043000 +0000" stop="20260812044400 +0000">
 		<title>The Wonder Shop Episode 235</title>
@@ -5401,8 +5429,8 @@
 		<desc>厨房刀片如同专业大厨一般娴熟</desc>
 	</programme>
 	<programme channel="5007" start="20260814051600 +0000" stop="20260814053000 +0000">
-		<title>The Wonder Shop Episode 295</title>
-		<desc>由忆思源医药顾问团队专为维护呼吸系统健康增强免疫力与日常保养而调配的独家配方采用虎乳芝冬虫夏草石斛三种珍贵药材帮您先调理后保健有助于补肺气维持肺部健康适合咳嗽鼻子过敏反复感冒长期曝露在空污环境的朋友服用</desc>
+		<title>The Wonder Shop Episode 235</title>
+		<desc>强力轻便的尘螨吸尘器配有智能指示灯方便监控尘螨去除率高达98%</desc>
 	</programme>
 	<programme channel="5007" start="20260814053000 +0000" stop="20260814054400 +0000">
 		<title>The Wonder Shop Episode 268</title>
@@ -5720,9 +5748,105 @@
 		<title>收场</title>
 		<desc>收场</desc>
 	</programme>
-	<programme channel="5007" start="20260816220000 +0000" stop="20260817070000 +0000">
+	<programme channel="5007" start="20260816220000 +0000" stop="20260817025700 +0000">
 		<title>收场</title>
 		<desc>收场</desc>
+	</programme>
+	<programme channel="5007" start="20260817025700 +0000" stop="20260817031400 +0000">
+		<title>The Wonder Shop Episode 252</title>
+		<desc>Nature's Farm来自南极的磷虾油富含优质Omega-3脂肪酸和虾红素, 有助于维持胆固醇水平维护心 脏大脑和关节健康 人体对磷虾油的吸收率更高没有难闻的鱼腥味软胶囊更容易吞服一天2颗有助于维护整体健康</desc>
+	</programme>
+	<programme channel="5007" start="20260817031400 +0000" stop="20260817031600 +0000">
+		<title>The Wonder Shop Episode 304</title>
+		<desc>一款无线高扭矩清洁器为轻松深层清洁而设计它可伸缩手柄与6种可替换刷头轻松清洁地板瓷砖浴缸及狭小角落简约奢华设计适合每个人使用</desc>
+	</programme>
+	<programme channel="5007" start="20260817031600 +0000" stop="20260817033000 +0000">
+		<title>The Wonder Shop Episode 250</title>
+		<desc>Epitex Brace Contour Pillow由皮肤科级弹性硅胶制成提供卓越支撑有效吸收头颈压力独特网格设计带来强支撑力和回弹性同时减少对面部皮肤的挤压</desc>
+	</programme>
+	<programme channel="5007" start="20260817033000 +0000" stop="20260817034400 +0000">
+		<title>The Wonder Shop Episode 259</title>
+		<desc>Kinohimitsu燕窝采用纯手工挑毛与古法炖煮营养丰富助美容养颜增强体质恢复活力长白山人参燕窝饮补气强身缓解疲劳红枣枸杞燕窝饮促进气血循环令肌肤红润透亮.</desc>
+	</programme>
+	<programme channel="5007" start="20260817034400 +0000" stop="20260817034600 +0000">
+		<title>The Wonder Shop Episode 303</title>
+		<desc>OMRON BP Monitor Atrial Fibrillation可同时测量血压并筛查心房攒动帮助提早测试到中风的迹象它方便家人或情侣共用能记录两个用户经过临床验证它能确保测量准确度让用户安心使用</desc>
+	</programme>
+	<programme channel="5007" start="20260817034600 +0000" stop="20260817040000 +0000">
+		<title>The Wonder Shop Episode 291</title>
+		<desc>仅重 4.5 公斤轻巧便携椅子沙发或车里都能用一靠即可全背按摩双滚轮从颈肩到腰臀舒缓肌肉促进循环靠垫柔软贴合支撑力佳透气舒适随时轻松放松</desc>
+	</programme>
+	<programme channel="5007" start="20260817040000 +0000" stop="20260817041400 +0000">
+		<title>The Wonder Shop Episode 319</title>
+		<desc>AvoMilk 是一款植物营养饮品含牛油果植物蛋白和膳食纤维帮助补充营养并增加饱足感采用冻干牛油果技术约等于一颗牛油果的营养再加红枣非转基因黄豆藜麦小麦草和虎乳芝无添加糖无奶无麸质一冲即饮顺滑方便还有可可口味加入可可粉虾青素和奇亚籽像健康巧克力饮品</desc>
+	</programme>
+	<programme channel="5007" start="20260817041400 +0000" stop="20260817041600 +0000">
+		<title>The Wonder Shop Episode 308</title>
+		<desc>Naturalle 糖适宁茶采用 100% 天然叶材精制而成包括匙羹藤桑叶与绿茶口感清淡低热量糖适宁茶是适合餐后饮用有助于抑制对甜食的渴望和维持血糖健康水平非常适合经常摄取高碳水或含糖食物的人士饮用</desc>
+	</programme>
+	<programme channel="5007" start="20260817041600 +0000" stop="20260817043000 +0000">
+		<title>The Wonder Shop Episode 322</title>
+		<desc>口味更佳感觉更好这系列优质鸡精有助于提升精力体力和免疫力它选用180日龄无激素散养鸡采用高压隔水炖煮工艺确保营养成分最大程度地被吸收100%纯天然不含脂肪胆固醇或添加添加焦糖和防腐剂</desc>
+	</programme>
+	<programme channel="5007" start="20260817043000 +0000" stop="20260817044400 +0000">
+		<title>The Wonder Shop Episode 300</title>
+		<desc>支撑足弓稳固筋膜有效缓解疼痛和肿胀袜子轻轻包覆脚部肌肉和筋腱加上日本生化能技术促进血气循环让脚更舒适更快恢复防滑柔软透气全天穿都舒服不管是运动还是穿袜子都合适</desc>
+	</programme>
+	<programme channel="5007" start="20260817044400 +0000" stop="20260817044600 +0000">
+		<title>The Wonder Shop Episode 222</title>
+		<desc>厨房刀片如同专业大厨一般娴熟</desc>
+	</programme>
+	<programme channel="5007" start="20260817044600 +0000" stop="20260817050000 +0000">
+		<title>The Wonder Shop Episode 316</title>
+		<desc>一款天然有机的植物萃取养护头皮头发系统有助于恢复头皮健康抑制双氢睾酮DHT并激活休眠毛囊让秀发显著加密更显丰盈安全温和4岁以上人群均可放心使用助您在短短一周内有效减少过度掉发</desc>
+	</programme>
+	<programme channel="5007" start="20260817050000 +0000" stop="20260817051400 +0000">
+		<title>The Wonder Shop Episode 311</title>
+		<desc>采用100%纯正西藏沙棘制成富含190多种营养成分外用黄金修复液有助于抚平细纹缓解皮肤问题加速伤口愈合口服焕活软胶囊则有助于抗衰老溃疡愈合并滋养黏膜两者结合使用由内而外焕活身心提供免疫力支持和女性更年期舒缓温和安全呵护健康令肌肤焕发青春光彩</desc>
+	</programme>
+	<programme channel="5007" start="20260817051400 +0000" stop="20260817051600 +0000">
+		<title>The Wonder Shop Episode 260</title>
+		<desc>韩国电视购物频台爆款这万能布能有效地清理顽固的污渍 油脂和气味</desc>
+	</programme>
+	<programme channel="5007" start="20260817051600 +0000" stop="20260817053000 +0000">
+		<title>The Wonder Shop Episode 313</title>
+		<desc>Nature's Farm Mirtogenol Plus+ 为眼科医生及英意科研团队研发的临床护眼配方结合两大强效抗氧化成分 Pycnogenol 法国松树皮与 Mirtoselect 欧洲蓝莓并添加柑橘类黄酮有助改善眼部微循环支持健康眼压对抗用眼压力与氧化损伤缓解眼睛干涩疲劳与模糊感让视力更清晰更舒适</desc>
+	</programme>
+	<programme channel="5007" start="20260817053000 +0000" stop="20260817054400 +0000">
+		<title>The Wonder Shop Episode 285</title>
+		<desc>厨房必备组合Acerpure Aqua WP5 滤净水器搭配2合1翻转气炸锅理想组合健康又方便随时享用 99C 热水 / 5C 冷水水质纯净安全5合1 RO+双重UV杀菌翻转气炸锅可轻松实现 空气炸烤肉煮汤操作简单安全高效干净饮水与轻松烹饪一台搞定厨房大小事</desc>
+	</programme>
+	<programme channel="5007" start="20260817054400 +0000" stop="20260817054600 +0000">
+		<title>The Wonder Shop Episode 238</title>
+		<desc>全套组合菜刀剪刀砧板让你下厨更轻松菜刀和剪刀附专业磨刀套</desc>
+	</programme>
+	<programme channel="5007" start="20260817054600 +0000" stop="20260817060000 +0000">
+		<title>The Wonder Shop Episode 290</title>
+		<desc>一按遥控器即可折叠或展开,轻巧便携折叠后像行李箱一样拖行配备安全认证电池, 可带上飞机获iF设计大奖 2024让日常出行和旅行轻松自在</desc>
+	</programme>
+	<programme channel="5007" start="20260817060000 +0000" stop="20260817061400 +0000">
+		<title>The Wonder Shop Episode 325</title>
+		<desc>6合1可堆叠式锅具系统可同时蒸煮炖及料理多道菜色采用不含PFAS及PTFE的陶瓷不沾涂层搭配SUS304不锈钢配件让烹饪更健康清洗更轻松同时节省厨房收纳空间集烧烤蒸煮及火锅功能于一体的多功能料理锅配备4L大容量不沾烤盘及不锈钢蒸煮配件适合日常用餐家庭聚会及共享美食时使用让下厨更轻松方便</desc>
+	</programme>
+	<programme channel="5007" start="20260817061400 +0000" stop="20260817061600 +0000">
+		<title>The Wonder Shop Episode 306</title>
+		<desc>Morries鸳鸯锅让你实现火锅自由创新G型双环加热管设计让热能分布均匀鸳鸯锅设计可同时享用两种不同汤底也可以一边烤肉一边煮汤2200W高功率确保快速沸腾左右独立温控系统让您精准调节加热温度套组附带可调节的无线桌面风扇</desc>
+	</programme>
+	<programme channel="5007" start="20260817061600 +0000" stop="20260817063000 +0000">
+		<title>The Wonder Shop Episode 268</title>
+		<desc>Karihome Gold 成人羊奶粉口感顺滑富含易吸收的羊奶蛋白采用先进脱膻技术保留营养与纯净口感连肠胃敏感者都能安心饮用 还特别添加叶黄素胶原蛋白和 Omega-3支持眼睛关节及心脑血管健康每天两杯补钙增强免疫力适合全家饮用特别适合年长人士助力骨骼健康与活力</desc>
+	</programme>
+	<programme channel="5007" start="20260817063000 +0000" stop="20260817064400 +0000">
+		<title>The Wonder Shop Episode 318</title>
+		<desc>来自日本井藤汉方的日常控糖配方结合4大天然草本成分帮助减缓糖分吸收稳定餐后血糖让血糖不再忽高忽低减少饭后疲倦同时有助体重管理和心血管健康让你在享受美食的同时也能更安心地管理血糖</desc>
+	</programme>
+	<programme channel="5007" start="20260817064400 +0000" stop="20260817064600 +0000">
+		<title>The Wonder Shop Episode 261</title>
+		<desc>这款La Gourmet 火焰电饭锅将火锅和烧烤炉结合一体为您提供两全其美的享受无论您是煮汤还是烧烤肉类和蔬菜都能享受多功能的膳食准备</desc>
+	</programme>
+	<programme channel="5007" start="20260817064600 +0000" stop="20260817070000 +0000">
+		<title>The Wonder Shop Episode 321</title>
+		<desc>来自德国的Vileda让地板清洁变得轻松无比脚踏式挤水器用最少力气实现最大清洁力超细纤维提高20%灰尘抓取力人性化的设计更确保了更快捷更清洁更符合人体工学的居家清洁体验这套系统确保清水与废水分离每次拖地都是清水让您始终获得100%纯净的清洁效果</desc>
 	</programme>
 	<programme channel="5007" start="20260817070000 +0000" stop="20260817080000 +0000">
 		<title>智富食代 Episode 7</title>
@@ -6263,15 +6387,15 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<title>致我的解离 / Dear Hyeri Episode 5</title>
 		<desc>朱恩浩是一位从业14 年的无名播音，努力争取让公众认识自己的机会。由于内心深处的伤痛，她拥有双重性格，另一个身份是朱惠利，一个非常积极的女孩，也是一名停车场服务员。郑贤吾是朱恩浩的前男友，他们约会了很长时间但最后分手。他一加入广播电台就成为了明星播音员，但郑贤吾的心里也隐藏着一个从未向任何人展示过的伤口。朱恩浩和郑贤吾的重聚是否能帮助治愈彼此的伤口呢？Ju Eun Ho is a fourteen-year veteran news announcer who struggles to make an impact at work due to her reserved personality, especially compared to her ex-boyfriend Hyun Oh, who became a star announcer shortly after joining the station. However, Eun Ho has a secret double life – after her sister's mysterious disappeara...</desc>
 	</programme>
-	<programme channel="5501" start="20260814150000 +0000" stop="20260814160000 +0000">
+	<programme channel="5501" start="20260814150000 +0000" stop="20260814161500 +0000">
 		<title>致我的解离 / Dear Hyeri Episode 6</title>
 		<desc>朱恩浩是一位从业14 年的无名播音，努力争取让公众认识自己的机会。由于内心深处的伤痛，她拥有双重性格，另一个身份是朱惠利，一个非常积极的女孩，也是一名停车场服务员。郑贤吾是朱恩浩的前男友，他们约会了很长时间但最后分手。他一加入广播电台就成为了明星播音员，但郑贤吾的心里也隐藏着一个从未向任何人展示过的伤口。朱恩浩和郑贤吾的重聚是否能帮助治愈彼此的伤口呢？Ju Eun Ho is a fourteen-year veteran news announcer who struggles to make an impact at work due to her reserved personality, especially compared to her ex-boyfriend Hyun Oh, who became a star announcer shortly after joining the station. However, Eun Ho has a secret double life – after her sister's mysterious disappeara...</desc>
 	</programme>
-	<programme channel="5501" start="20260814160000 +0000" stop="20260814170000 +0000">
+	<programme channel="5501" start="20260814161500 +0000" stop="20260814170500 +0000">
 		<title>天地剑心 / Sword and Beloved Episode 4</title>
 		<desc>王权富贵是王权弘业和东方淮竹的儿子，是王权世家实力最强者。被家族作为道门兵人培养的王权富贵，生活没有自由，而清瞳本来是毒娘子安排到王权家打听情报的间谍，和王权富贵结识后，在富贵的帮助下恢复了自由。同时王权富贵内心渴望自由、憧憬天下大同的信念亦被逐渐点燃，经历万剑穿心，王权富贵带着清瞳离开王权山庄，走上了自己所悟之道。Wang Quan Fu Gui is the son of Wang Quan Hong Ye and Dongfang Huai Zhu, and the most powerful member of the Wang Quan family. Trained as a Daoist soldier, Fu Gui lived a life without freedom. Qing Tong, initially a spy planted by Poison Lady to gather intelligence on the Wang Quan family, regains her freedom with Fu Gui’s help. As their...</desc>
 	</programme>
-	<programme channel="5501" start="20260814170000 +0000" stop="20260814180000 +0000">
+	<programme channel="5501" start="20260814170500 +0000" stop="20260814180000 +0000">
 		<title>型男大主厨 / Stylish Man Episode 868</title>
 		<desc>台湾广受欢迎的常青美食料理节目，由2006年始播至今，2011年还获选金钟奖的最佳综合节目主持人奖。每一期将有不同的主题：“大明星來下廚”由兩位明星或两个明星档分組對抗，拿出自己的拿手菜對抗比拼；“五分钟出好菜”由两位厨师根据指定食材，在五分钟内烹煮出易学美味的一道菜等。这是一个富有娱乐效果的轻松美食节目，能够持续制作这么多年不是没有理由的。</desc>
 	</programme>
@@ -6295,13 +6419,9 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<title>致我的解离 / Dear Hyeri Episode 5</title>
 		<desc>朱恩浩是一位从业14 年的无名播音，努力争取让公众认识自己的机会。由于内心深处的伤痛，她拥有双重性格，另一个身份是朱惠利，一个非常积极的女孩，也是一名停车场服务员。郑贤吾是朱恩浩的前男友，他们约会了很长时间但最后分手。他一加入广播电台就成为了明星播音员，但郑贤吾的心里也隐藏着一个从未向任何人展示过的伤口。朱恩浩和郑贤吾的重聚是否能帮助治愈彼此的伤口呢？Ju Eun Ho is a fourteen-year veteran news announcer who struggles to make an impact at work due to her reserved personality, especially compared to her ex-boyfriend Hyun Oh, who became a star announcer shortly after joining the station. However, Eun Ho has a secret double life – after her sister's mysterious disappeara...</desc>
 	</programme>
-	<programme channel="5501" start="20260814210000 +0000" stop="20260814220000 +0000">
+	<programme channel="5501" start="20260814210000 +0000" stop="20260814223000 +0000">
 		<title>致我的解离 / Dear Hyeri Episode 6</title>
 		<desc>朱恩浩是一位从业14 年的无名播音，努力争取让公众认识自己的机会。由于内心深处的伤痛，她拥有双重性格，另一个身份是朱惠利，一个非常积极的女孩，也是一名停车场服务员。郑贤吾是朱恩浩的前男友，他们约会了很长时间但最后分手。他一加入广播电台就成为了明星播音员，但郑贤吾的心里也隐藏着一个从未向任何人展示过的伤口。朱恩浩和郑贤吾的重聚是否能帮助治愈彼此的伤口呢？Ju Eun Ho is a fourteen-year veteran news announcer who struggles to make an impact at work due to her reserved personality, especially compared to her ex-boyfriend Hyun Oh, who became a star announcer shortly after joining the station. However, Eun Ho has a secret double life – after her sister's mysterious disappeara...</desc>
-	</programme>
-	<programme channel="5501" start="20260814220000 +0000" stop="20260814223000 +0000">
-		<title>早餐中国第五季 / Breakfast In China S5</title>
-		<desc>《早餐中国》第5季，30种热气腾腾的早餐，30种人生况味。我们依然在拍摄那些微不足道的民间食物，依然在见证那些触手可及的人间奇迹。</desc>
 	</programme>
 	<programme channel="5501" start="20260814223000 +0000" stop="20260814230000 +0000">
 		<title>两岸一味第一季&amp;第二季 / The Flavourful Link Across the Strait S1 &amp; S2 Episode 10</title>
@@ -6339,11 +6459,11 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<title>美女与纯情男 / Beauty and Mr Romantic Episode 10</title>
 		<desc>著名女演员朴道萝个性独特，她之所以成为演员，是因为母亲告诉她，这是脱离贫穷的唯一方法。透过成名而得到人气和金钱，道萝心底却希望可以休息，可是母亲却一直闯祸、挥霍生活，还贪图更多。母亲的欲望令道萝开始承受不了繁忙的工作，打算放弃参与新剧。就在这时，她遇上了初恋高必胜，也就是新剧的副导演。必胜对于工作充满热情，但因为道萝而决定放弃新剧。一次意外让道萝掉进必胜怀里，两人的人生从此再次连上。Top actress Park Do Ra rose to fame at her mother Baek Mi Ja's urge to escape poverty. Now wealthy, Do Ra longs to rest but Mi Ja’s relentless ambition keeps her working. Mi Ja pushes Do Ra into more roles. Do Ra on the other hand, thinks of quitting until she reunites with her first love, assistant dir...</desc>
 	</programme>
-	<programme channel="5501" start="20260815033000 +0000" stop="20260815040000 +0000">
+	<programme channel="5501" start="20260815033000 +0000" stop="20260815041000 +0000">
 		<title>美女与纯情男 / Beauty and Mr Romantic Episode 11</title>
 		<desc>著名女演员朴道萝个性独特，她之所以成为演员，是因为母亲告诉她，这是脱离贫穷的唯一方法。透过成名而得到人气和金钱，道萝心底却希望可以休息，可是母亲却一直闯祸、挥霍生活，还贪图更多。母亲的欲望令道萝开始承受不了繁忙的工作，打算放弃参与新剧。就在这时，她遇上了初恋高必胜，也就是新剧的副导演。必胜对于工作充满热情，但因为道萝而决定放弃新剧。一次意外让道萝掉进必胜怀里，两人的人生从此再次连上。Top actress Park Do Ra rose to fame at her mother Baek Mi Ja's urge to escape poverty. Now wealthy, Do Ra longs to rest but Mi Ja’s relentless ambition keeps her working. Mi Ja pushes Do Ra into more roles. Do Ra on the other hand, thinks of quitting until she reunites with her first love, assistant dir...</desc>
 	</programme>
-	<programme channel="5501" start="20260815040000 +0000" stop="20260815045000 +0000">
+	<programme channel="5501" start="20260815041000 +0000" stop="20260815045000 +0000">
 		<title>无忧渡 / The Demon Hunter’s Romance</title>
 		<desc>《无忧渡》讲述了一个有着神秘背景的猎魔人宣夜和一个聪明可爱的女孩半夏，一起保护自己家园的奇幻故事。自从半夏与宣夜认识之后，两人在人妖共存的世界共历奇情悬案，共同调查着一件件诡异的案件，两个人的感情也越来越好，可是因为宣夜身上的秘密，两个人却一次又一次的远离，最终发现半夏是揭开他身上秘密的钥匙。</desc>
 	</programme>
@@ -6443,11 +6563,11 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<title>美女与纯情男 / Beauty and Mr Romantic Episode 16</title>
 		<desc>著名女演员朴道萝个性独特，她之所以成为演员，是因为母亲告诉她，这是脱离贫穷的唯一方法。透过成名而得到人气和金钱，道萝心底却希望可以休息，可是母亲却一直闯祸、挥霍生活，还贪图更多。母亲的欲望令道萝开始承受不了繁忙的工作，打算放弃参与新剧。就在这时，她遇上了初恋高必胜，也就是新剧的副导演。必胜对于工作充满热情，但因为道萝而决定放弃新剧。一次意外让道萝掉进必胜怀里，两人的人生从此再次连上。Top actress Park Do Ra rose to fame at her mother Baek Mi Ja's urge to escape poverty. Now wealthy, Do Ra longs to rest but Mi Ja’s relentless ambition keeps her working. Mi Ja pushes Do Ra into more roles. Do Ra on the other hand, thinks of quitting until she reunites with her first love, assistant dir...</desc>
 	</programme>
-	<programme channel="5501" start="20260816013000 +0000" stop="20260816020000 +0000">
+	<programme channel="5501" start="20260816013000 +0000" stop="20260816021500 +0000">
 		<title>美女与纯情男 / Beauty and Mr Romantic Episode 17</title>
 		<desc>著名女演员朴道萝个性独特，她之所以成为演员，是因为母亲告诉她，这是脱离贫穷的唯一方法。透过成名而得到人气和金钱，道萝心底却希望可以休息，可是母亲却一直闯祸、挥霍生活，还贪图更多。母亲的欲望令道萝开始承受不了繁忙的工作，打算放弃参与新剧。就在这时，她遇上了初恋高必胜，也就是新剧的副导演。必胜对于工作充满热情，但因为道萝而决定放弃新剧。一次意外让道萝掉进必胜怀里，两人的人生从此再次连上。Top actress Park Do Ra rose to fame at her mother Baek Mi Ja's urge to escape poverty. Now wealthy, Do Ra longs to rest but Mi Ja’s relentless ambition keeps her working. Mi Ja pushes Do Ra into more roles. Do Ra on the other hand, thinks of quitting until she reunites with her first love, assistant dir...</desc>
 	</programme>
-	<programme channel="5501" start="20260816020000 +0000" stop="20260816031500 +0000">
+	<programme channel="5501" start="20260816021500 +0000" stop="20260816031500 +0000">
 		<title>榴莲小姐 / Durian's Affair</title>
 		<desc>朝鲜时代的榴莲，虽然嫁给朴氏，但她所爱的，却是为了救她而身亡的仆人石头。榴莲和石头的儿子朴温，和金素苧成婚后爱上彼此，但朴温却骤然离世。悲痛的两名女子，在月食之夜穿越时空，来到她们心爱的人所投胎转世的丹家家族。</desc>
 	</programme>
@@ -10508,27 +10628,27 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<title>2026 LIV Golf League, New York</title>
 		<desc>The world's top golfers compete in a bold, fast-paced league format, delivering big drives, dramatic finishes, and non-stop action across iconic global venues.</desc>
 	</programme>
-	<programme channel="6114" start="20260811180000 +0000" stop="20260811220000 +0000">
+	<programme channel="6114" start="20260811180000 +0000" stop="20260811221000 +0000">
 		<title>2026 LET: PIF London Championship</title>
 		<desc>The stars of the Ladies European Tour gather in England to compete for the PIF London Championship title, delivering elite golf and championship drama.</desc>
 	</programme>
-	<programme channel="6114" start="20260811220000 +0000" stop="20260812013000 +0000">
+	<programme channel="6114" start="20260811221000 +0000" stop="20260812012000 +0000">
 		<title>2026 WTCS, London</title>
 		<desc>Elite triathletes push the limits of endurance across swim, bike, and run, battling for supremacy in a demanding global championship series.</desc>
 	</programme>
-	<programme channel="6114" start="20260812013000 +0000" stop="20260812023000 +0000">
+	<programme channel="6114" start="20260812012000 +0000" stop="20260812022000 +0000">
 		<title>World Supercross 2026: Rd 1 Canadian GP</title>
 		<desc>World Supercross brings the sport's top riders together to battle across a global championship, delivering high-speed racing, spectacular jumps, and intense stadium competition.</desc>
 	</programme>
-	<programme channel="6114" start="20260812023000 +0000" stop="20260812053000 +0000">
+	<programme channel="6114" start="20260812022000 +0000" stop="20260812052500 +0000">
 		<title>2026 U.S. Women's Amateur Championship</title>
 		<desc>The nation's top female amateur golfers compete for one of the most prestigious titles in amateur golf, showcasing exceptional talent, determination, and the future stars of the game.</desc>
 	</programme>
-	<programme channel="6114" start="20260812053000 +0000" stop="20260812083000 +0000">
+	<programme channel="6114" start="20260812052500 +0000" stop="20260812083500 +0000">
 		<title>2026 U.S. Women's Amateur Championship</title>
 		<desc>The nation's top female amateur golfers compete for one of the most prestigious titles in amateur golf, showcasing exceptional talent, determination, and the future stars of the game.</desc>
 	</programme>
-	<programme channel="6114" start="20260812083000 +0000" stop="20260812130000 +0000">
+	<programme channel="6114" start="20260812083500 +0000" stop="20260812130000 +0000">
 		<title>2026 FIM ARRC Round 4: Mandalika, Indonesia Episode 2</title>
 		<desc>Asia's top riders battle across premier circuits in the FIM Asia Road Racing Championship, delivering high-speed action, fierce rivalries, and thrilling two-wheel competition.</desc>
 	</programme>
@@ -10731,6 +10851,42 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	<programme channel="6114" start="20260816130000 +0000" stop="20260816160000 +0000">
 		<title>Formula E S12: Rd 17 Hankook London E-Prix (Live)</title>
 		<desc>The electric racing revolution continues in Formula E Season 12, as top drivers battle across iconic cities for the world championship crown.</desc>
+	</programme>
+	<programme channel="6114" start="20260816160000 +0000" stop="20260816180000 +0000">
+		<title>Roshn Saudi League 26/27</title>
+		<desc>The Roshn Saudi League features Saudi Arabia's top clubs competing for the league title in an exciting season of elite football action.</desc>
+	</programme>
+	<programme channel="6114" start="20260816180000 +0000" stop="20260816190000 +0000">
+		<title>2026 World Surf League Replay</title>
+		<desc>Be sure to catch the inspirational power of surfing through the 2026 WSL Championship Tour &amp; Challenger Series.</desc>
+	</programme>
+	<programme channel="6114" start="20260816190000 +0000" stop="20260816220000 +0000">
+		<title>2026 U.S. Amateur Championship (Live)</title>
+		<desc>America's leading amateur golfers compete for one of the sport's most prestigious titles, showcasing exceptional talent, determination, and the future stars of the game.</desc>
+	</programme>
+	<programme channel="6114" start="20260816220000 +0000" stop="20260817000000 +0000">
+		<title>Roshn Saudi League 26/27</title>
+		<desc>The Roshn Saudi League features Saudi Arabia's top clubs competing for the league title in an exciting season of elite football action.</desc>
+	</programme>
+	<programme channel="6114" start="20260817000000 +0000" stop="20260817020000 +0000">
+		<title>Roshn Saudi League 26/27</title>
+		<desc>The Roshn Saudi League features Saudi Arabia's top clubs competing for the league title in an exciting season of elite football action.</desc>
+	</programme>
+	<programme channel="6114" start="20260817020000 +0000" stop="20260817050000 +0000">
+		<title>2026 U.S. Amateur Championship</title>
+		<desc>America's leading amateur golfers compete for one of the sport's most prestigious titles, showcasing exceptional talent, determination, and the future stars of the game.</desc>
+	</programme>
+	<programme channel="6114" start="20260817050000 +0000" stop="20260817070000 +0000">
+		<title>Roshn Saudi League 26/27</title>
+		<desc>The Roshn Saudi League features Saudi Arabia's top clubs competing for the league title in an exciting season of elite football action.</desc>
+	</programme>
+	<programme channel="6114" start="20260817070000 +0000" stop="20260817100000 +0000">
+		<title>2026 LET: VP Bank Swiss Ladies Open</title>
+		<desc>The stars of the Ladies European Tour gather in Switzerland to compete for the VP Bank Swiss Ladies Open title, delivering elite golf and championship drama.</desc>
+	</programme>
+	<programme channel="6114" start="20260817100000 +0000" stop="20260817140000 +0000">
+		<title>2026 Vancouver T100</title>
+		<desc>40 of the world's best female and male professional triathletes battle over 8 breakneck 100km races in iconic locations around the globe in a bid to be crowned the T100 World Champions.</desc>
 	</programme>
 	<programme channel="6115" start="20260810160000 +0000" stop="20260810190000 +0000">
 		<title>WTT Europe Smash 2026 (Live)</title>
@@ -10996,6 +11152,62 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<title>2026 Longines Global Champions Tour, London</title>
 		<desc>The world's top show jumping riders compete across prestigious international venues, showcasing elite skill, speed, and championship drama throughout the season.</desc>
 	</programme>
+	<programme channel="6115" start="20260816160000 +0000" stop="20260816183000 +0000">
+		<title>WTT Europe Smash 2026 (Live)</title>
+		<desc>The world's top table tennis players compete for one of the sport's most prestigious titles, delivering world-class action, fierce rivalries, and championship drama.</desc>
+	</programme>
+	<programme channel="6115" start="20260816183000 +0000" stop="20260816191500 +0000">
+		<title>2026 Moto4 British Cup Rd 4 Brands Hatch</title>
+		<desc>Young riders compete in this exciting Moto4 series, showcasing emerging talent, close racing, and the next generation of motorcycle racing stars.</desc>
+	</programme>
+	<programme channel="6115" start="20260816191500 +0000" stop="20260816201000 +0000">
+		<title>2026 Moto4 British Cup Rd 4 Brands Hatch</title>
+		<desc>Young riders compete in this exciting Moto4 series, showcasing emerging talent, close racing, and the next generation of motorcycle racing stars.</desc>
+	</programme>
+	<programme channel="6115" start="20260816201000 +0000" stop="20260816230000 +0000">
+		<title>17/8 2026 MLB Regular Season (Live)</title>
+		<desc>Major League Baseball is the most historic professional sports league consists of 30 member clubs in the U.S. and Canada, representing the highest level of professional baseball.</desc>
+	</programme>
+	<programme channel="6115" start="20260816230000 +0000" stop="20260817003000 +0000">
+		<title>2025/26 The Asian Tournament, Leg 2 Laizhou</title>
+		<desc>Top Asian teams face off in The Asian Tournament, delivering fast-paced basketball action and a battle for regional supremacy.</desc>
+	</programme>
+	<programme channel="6115" start="20260817003000 +0000" stop="20260817010000 +0000">
+		<title>2026 Global Champions League, London</title>
+		<desc>The world's top show jumping riders compete across prestigious international venues, showcasing elite skill, speed, and championship drama throughout the season.</desc>
+	</programme>
+	<programme channel="6115" start="20260817010000 +0000" stop="20260817020000 +0000">
+		<title>Unbridled: The Spruce Meadows Story</title>
+		<desc>A captivating documentary celebrating the 50-year legacy of Spruce Meadows, exploring the people, horses, and unforgettable moments behind one of show jumping's most iconic venues.</desc>
+	</programme>
+	<programme channel="6115" start="20260817020000 +0000" stop="20260817050000 +0000">
+		<title>WTT Europe Smash 2026</title>
+		<desc>The world's top table tennis players compete for one of the sport's most prestigious titles, delivering world-class action, fierce rivalries, and championship drama.</desc>
+	</programme>
+	<programme channel="6115" start="20260817050000 +0000" stop="20260817070000 +0000">
+		<title>2026 The Asian Tournament, Leg 3 Chengdu (Live)</title>
+		<desc>Top Asian teams face off in The Asian Tournament, delivering fast-paced basketball action and a battle for regional supremacy.</desc>
+	</programme>
+	<programme channel="6115" start="20260817070000 +0000" stop="20260817073000 +0000">
+		<title>SailGP: Racing on the Edge S6</title>
+		<desc>Expect sheer emotion, state-of-the-art technology and incredible drama as elite athletes fly cutting-edge wingsailed catamarans in thrilling close-to-shore races in iconic venues across the globe.</desc>
+	</programme>
+	<programme channel="6115" start="20260817073000 +0000" stop="20260817093000 +0000">
+		<title>2026 The Asian Tournament, Leg 3 Chengdu (Live)</title>
+		<desc>Top Asian teams face off in The Asian Tournament, delivering fast-paced basketball action and a battle for regional supremacy.</desc>
+	</programme>
+	<programme channel="6115" start="20260817093000 +0000" stop="20260817113000 +0000">
+		<title>2026 The Asian Tournament, Leg 3 Chengdu (Live)</title>
+		<desc>Top Asian teams face off in The Asian Tournament, delivering fast-paced basketball action and a battle for regional supremacy.</desc>
+	</programme>
+	<programme channel="6115" start="20260817113000 +0000" stop="20260817120000 +0000">
+		<title>52 SUPER SERIES GP Sailing show</title>
+		<desc>The 2026 52 SUPER SERIES delivers elite grand prix sailing. 14 international teams battle on identical, high-speed TP52 yachts across 5 European venues, where world-class victories are decided by inches</desc>
+	</programme>
+	<programme channel="6115" start="20260817120000 +0000" stop="20260817140000 +0000">
+		<title>2026 The Asian Tournament, Leg 3 Chengdu (Live)</title>
+		<desc>Top Asian teams face off in The Asian Tournament, delivering fast-paced basketball action and a battle for regional supremacy.</desc>
+	</programme>
 	<programme channel="5118" start="20260810145000 +0000" stop="20260810164000 +0000">
 		<title>NRL Dragons v Sharks</title>
 		<desc>Coverage of the 2026 NRL season featuring the brightest stars in Rugby League universe.</desc>
@@ -11164,21 +11376,25 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<title>AFL Highlights Adelaide v Richmond</title>
 		<desc>Catch all the standout moments from the latest matches of the 2026 Toyota AFL Premiership Season.</desc>
 	</programme>
-	<programme channel="5118" start="20260811230000 +0000" stop="20260811232000 +0000">
+	<programme channel="5118" start="20260811230000 +0000" stop="20260811231000 +0000">
 		<title>AFL Highlights GWS Giants v Gold Coast</title>
 		<desc>Catch all the standout moments from the latest matches of the 2026 Toyota AFL Premiership Season.</desc>
 	</programme>
-	<programme channel="5118" start="20260811232000 +0000" stop="20260812011000 +0000">
+	<programme channel="5118" start="20260811231000 +0000" stop="20260811233000 +0000">
+		<title>AFL Highlights GWS Giants v Gold Coast</title>
+		<desc>Catch all the standout moments from the latest matches of the 2026 Toyota AFL Premiership Season.</desc>
+	</programme>
+	<programme channel="5118" start="20260811233000 +0000" stop="20260812011500 +0000">
 		<title>Nations Championship 2026 Japan v France</title>
 		<desc>Coverage of the International Rugby season for 2026.</desc>
 	</programme>
-	<programme channel="5118" start="20260812011000 +0000" stop="20260812021000 +0000">
+	<programme channel="5118" start="20260812011500 +0000" stop="20260812021000 +0000">
 		<title>NRL Try Time NRL Try Time</title>
 		<desc>A round-up of all the tries and key moments from the latest round of fixtures in the 2026 NRL Premiership.</desc>
 	</programme>
 	<programme channel="5118" start="20260812021000 +0000" stop="20260812040000 +0000">
 		<title>Rugby's Greatest Rivalry Sharks v New Zealand</title>
-		<desc>Rugby's Greatest Rivalry Sharks v New Zealand</desc>
+		<desc>The All Blacks are in Durban to face the Sharks in the second test of their 2026 tour of South Africa.</desc>
 	</programme>
 	<programme channel="5118" start="20260812040000 +0000" stop="20260812050000 +0000">
 		<title>5 &amp; 6 Nations Classic Tries</title>
@@ -11222,15 +11438,15 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5118" start="20260812080000 +0000" stop="20260812095000 +0000">
 		<title>Rugby's Greatest Rivalry Sharks v New Zealand</title>
-		<desc>Rugby's Greatest Rivalry Sharks v New Zealand</desc>
+		<desc>The All Blacks are in Durban to face the Sharks in the second test of their 2026 tour of South Africa.</desc>
 	</programme>
 	<programme channel="5118" start="20260812095000 +0000" stop="20260812105000 +0000">
 		<title>NRL Try Time NRL Try Time</title>
 		<desc>A round-up of all the tries and key moments from the latest round of fixtures in the 2026 NRL Premiership.</desc>
 	</programme>
 	<programme channel="5118" start="20260812105000 +0000" stop="20260812124000 +0000">
-		<title>SANZAAR International Tour Serie Argentina v South Africa</title>
-		<desc>Top class international rugby from the southern hemisphere featuring Australia, Argentina and South Africa.</desc>
+		<title>Nations Championship 2026 South Africa v Scotland</title>
+		<desc>Coverage of the International Rugby season for 2026.</desc>
 	</programme>
 	<programme channel="5118" start="20260812124000 +0000" stop="20260812143000 +0000">
 		<title>Nations Championship 2026 Australia v Italy</title>
@@ -11258,11 +11474,11 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5118" start="20260812213000 +0000" stop="20260812232000 +0000">
 		<title>Rugby's Greatest Rivalry Stormers v New Zealand</title>
-		<desc>Rugby's Greatest Rivalry Stormers v New Zealand</desc>
+		<desc>The All Blacks kick off their tour of South Africa against the Stormers in Cape Town.</desc>
 	</programme>
 	<programme channel="5118" start="20260812232000 +0000" stop="20260813011000 +0000">
 		<title>Rugby's Greatest Rivalry Sharks v New Zealand</title>
-		<desc>Rugby's Greatest Rivalry Sharks v New Zealand</desc>
+		<desc>The All Blacks are in Durban to face the Sharks in the second test of their 2026 tour of South Africa.</desc>
 	</programme>
 	<programme channel="5118" start="20260813011000 +0000" stop="20260813030000 +0000">
 		<title>Super League St Helens v Hull FC</title>
@@ -11306,11 +11522,11 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5118" start="20260813122000 +0000" stop="20260813141000 +0000">
 		<title>Rugby's Greatest Rivalry Stormers v New Zealand</title>
-		<desc>Rugby's Greatest Rivalry Stormers v New Zealand</desc>
+		<desc>The All Blacks kick off their tour of South Africa against the Stormers in Cape Town.</desc>
 	</programme>
 	<programme channel="5118" start="20260813141000 +0000" stop="20260813160000 +0000">
 		<title>Rugby's Greatest Rivalry Sharks v New Zealand</title>
-		<desc>Rugby's Greatest Rivalry Sharks v New Zealand</desc>
+		<desc>The All Blacks are in Durban to face the Sharks in the second test of their 2026 tour of South Africa.</desc>
 	</programme>
 	<programme channel="5118" start="20260813160000 +0000" stop="20260813162000 +0000">
 		<title>AFL Highlights Bulldogs v North Melbourne</title>
@@ -11321,8 +11537,8 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<desc>Catch all the standout moments from the latest matches of the 2026 Toyota AFL Premiership Season.</desc>
 	</programme>
 	<programme channel="5118" start="20260813164000 +0000" stop="20260813183000 +0000">
-		<title>SANZAAR International Tour Serie Argentina v South Africa</title>
-		<desc>Top class international rugby from the southern hemisphere featuring Australia, Argentina and South Africa.</desc>
+		<title>Nations Championship 2026 South Africa v England</title>
+		<desc>Coverage of the International Rugby season for 2026.</desc>
 	</programme>
 	<programme channel="5118" start="20260813183000 +0000" stop="20260813211500 +0000">
 		<title>LIVE Super League LIVE Leeds v Leigh</title>
@@ -11370,7 +11586,7 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5118" start="20260814094000 +0000" stop="20260814113000 +0000">
 		<title>Rugby's Greatest Rivalry Stormers v New Zealand</title>
-		<desc>Rugby's Greatest Rivalry Stormers v New Zealand</desc>
+		<desc>The All Blacks kick off their tour of South Africa against the Stormers in Cape Town.</desc>
 	</programme>
 	<programme channel="5118" start="20260814113000 +0000" stop="20260814123000 +0000">
 		<title>NRL Try Time NRL Try Time</title>
@@ -11378,7 +11594,7 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5118" start="20260814123000 +0000" stop="20260814142000 +0000">
 		<title>Rugby's Greatest Rivalry Sharks v New Zealand</title>
-		<desc>Rugby's Greatest Rivalry Sharks v New Zealand</desc>
+		<desc>The All Blacks are in Durban to face the Sharks in the second test of their 2026 tour of South Africa.</desc>
 	</programme>
 	<programme channel="5118" start="20260814142000 +0000" stop="20260814161000 +0000">
 		<title>Nations Championship 2026 Fiji v Scotland</title>
@@ -11428,13 +11644,13 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<title>AFL Highlights Adelaide v Richmond</title>
 		<desc>Catch all the standout moments from the latest matches of the 2026 Toyota AFL Premiership Season.</desc>
 	</programme>
-	<programme channel="5118" start="20260815031500 +0000" stop="20260815050500 +0000">
-		<title>SANZAAR International Tour Serie Argentina v South Africa</title>
-		<desc>Top class international rugby from the southern hemisphere featuring Australia, Argentina and South Africa.</desc>
+	<programme channel="5118" start="20260815031500 +0000" stop="20260815050000 +0000">
+		<title>Nations Championship 2026 Australia v France</title>
+		<desc>Coverage of the International Rugby season for 2026.</desc>
 	</programme>
-	<programme channel="5118" start="20260815050500 +0000" stop="20260815071000 +0000">
+	<programme channel="5118" start="20260815050000 +0000" stop="20260815071000 +0000">
 		<title>LIVE SANZAAR International Tour Serie LIVE Australia v Japan</title>
-		<desc>Top class international rugby from the southern hemisphere featuring Australia, Argentina and South Africa.</desc>
+		<desc>The Wallabies welcome Japan to Queensland.</desc>
 	</programme>
 	<programme channel="5118" start="20260815071000 +0000" stop="20260815074000 +0000">
 		<title>5 and 6 Nations Classics 2014 - Wales v Scotland</title>
@@ -11474,15 +11690,15 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5118" start="20260815131000 +0000" stop="20260815150000 +0000">
 		<title>SANZAAR International Tour Serie Australia v Japan</title>
-		<desc>Top class international rugby from the southern hemisphere featuring Australia, Argentina and South Africa.</desc>
+		<desc>The Wallabies welcome Japan to Queensland.</desc>
 	</programme>
 	<programme channel="5118" start="20260815150000 +0000" stop="20260815165000 +0000">
 		<title>Rugby's Greatest Rivalry Sharks v New Zealand</title>
-		<desc>Rugby's Greatest Rivalry Sharks v New Zealand</desc>
+		<desc>The All Blacks are in Durban to face the Sharks in the second test of their 2026 tour of South Africa.</desc>
 	</programme>
 	<programme channel="5118" start="20260815165000 +0000" stop="20260815190000 +0000">
 		<title>LIVE Rugby's Greatest Rivalry LIVE Bulls v New Zealand</title>
-		<desc>LIVE Rugby's Greatest Rivalry LIVE Bulls v New Zealand</desc>
+		<desc>The All Blacks are in Pretoria to face the Bulls in the third test of their 2026 tour of South Africa.</desc>
 	</programme>
 	<programme channel="5118" start="20260815190000 +0000" stop="20260815193000 +0000">
 		<title>5 and 6 Nations Classics 2004 - Scotland v France</title>
@@ -11490,22 +11706,22 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5118" start="20260815193000 +0000" stop="20260815212000 +0000">
 		<title>SANZAAR International Tour Serie Australia v Japan</title>
-		<desc>Top class international rugby from the southern hemisphere featuring Australia, Argentina and South Africa.</desc>
+		<desc>The Wallabies welcome Japan to Queensland.</desc>
 	</programme>
 	<programme channel="5118" start="20260815212000 +0000" stop="20260815235000 +0000">
-		<title>AFL Round 23</title>
+		<title>AFL Port Adelaide v Melbourne</title>
 		<desc>All the action from the 2026 season of the Toyota Australian Football League.</desc>
 	</programme>
 	<programme channel="5118" start="20260815235000 +0000" stop="20260816014000 +0000">
 		<title>Rugby's Greatest Rivalry Bulls v New Zealand</title>
-		<desc>Rugby's Greatest Rivalry Bulls v New Zealand</desc>
+		<desc>The All Blacks are in Pretoria to face the Bulls in the third test of their 2026 tour of South Africa.</desc>
 	</programme>
 	<programme channel="5118" start="20260816014000 +0000" stop="20260816021000 +0000">
 		<title>5 and 6 Nations Classics 2014 - France v Italy</title>
 		<desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
 	</programme>
 	<programme channel="5118" start="20260816021000 +0000" stop="20260816041000 +0000">
-		<title>AFLW Round 1</title>
+		<title>AFLW Richmond v Collingwood</title>
 		<desc>All the pulsating action from the 2026 AFLW season.</desc>
 	</programme>
 	<programme channel="5118" start="20260816041000 +0000" stop="20260816060000 +0000">
@@ -11522,18 +11738,18 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5118" start="20260816083000 +0000" stop="20260816102000 +0000">
 		<title>Rugby's Greatest Rivalry Bulls v New Zealand</title>
-		<desc>Rugby's Greatest Rivalry Bulls v New Zealand</desc>
+		<desc>The All Blacks are in Pretoria to face the Bulls in the third test of their 2026 tour of South Africa.</desc>
 	</programme>
 	<programme channel="5118" start="20260816102000 +0000" stop="20260816121000 +0000">
 		<title>SANZAAR International Tour Serie Australia v Japan</title>
-		<desc>Top class international rugby from the southern hemisphere featuring Australia, Argentina and South Africa.</desc>
+		<desc>The Wallabies welcome Japan to Queensland.</desc>
 	</programme>
 	<programme channel="5118" start="20260816121000 +0000" stop="20260816140000 +0000">
 		<title>NRL Tigers v Dragons</title>
 		<desc>Coverage of the 2026 NRL season featuring the brightest stars in Rugby League universe.</desc>
 	</programme>
 	<programme channel="5118" start="20260816140000 +0000" stop="20260816163000 +0000">
-		<title>AFL Round 23</title>
+		<title>AFL Bulldogs v Carlton</title>
 		<desc>All the action from the 2026 season of the Toyota Australian Football League.</desc>
 	</programme>
 	<programme channel="5118" start="20260816163000 +0000" stop="20260816170000 +0000">
@@ -11561,11 +11777,11 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<desc>Coverage of the 2026 NRL season featuring the brightest stars in Rugby League universe.</desc>
 	</programme>
 	<programme channel="5118" start="20260817000000 +0000" stop="20260817023000 +0000">
-		<title>AFL Round 23</title>
+		<title>AFL Port Adelaide v Melbourne</title>
 		<desc>All the action from the 2026 season of the Toyota Australian Football League.</desc>
 	</programme>
 	<programme channel="5118" start="20260817023000 +0000" stop="20260817050000 +0000">
-		<title>AFL Round 23</title>
+		<title>AFL Bulldogs v Carlton</title>
 		<desc>All the action from the 2026 season of the Toyota Australian Football League.</desc>
 	</programme>
 	<programme channel="5118" start="20260817050000 +0000" stop="20260817060000 +0000">
@@ -11574,11 +11790,11 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5118" start="20260817060000 +0000" stop="20260817075000 +0000">
 		<title>SANZAAR International Tour Serie Australia v Japan</title>
-		<desc>Top class international rugby from the southern hemisphere featuring Australia, Argentina and South Africa.</desc>
+		<desc>The Wallabies welcome Japan to Queensland.</desc>
 	</programme>
 	<programme channel="5118" start="20260817075000 +0000" stop="20260817094000 +0000">
 		<title>Rugby's Greatest Rivalry Bulls v New Zealand</title>
-		<desc>Rugby's Greatest Rivalry Bulls v New Zealand</desc>
+		<desc>The All Blacks are in Pretoria to face the Bulls in the third test of their 2026 tour of South Africa.</desc>
 	</programme>
 	<programme channel="5118" start="20260817094000 +0000" stop="20260817113000 +0000">
 		<title>NRL Tigers v Dragons</title>
@@ -14029,7 +14245,7 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<desc>Premier Padel 2026</desc>
 	</programme>
 	<programme channel="6127" start="20260816182500 +0000" stop="20260816203000 +0000">
-		<title>Super Lig 2026/27: Besiktas vs Eyupspor (Live) Episode 4</title>
+		<title>Super Lig 2026/27: Besiktas vs Eyupspor Episode 4</title>
 		<desc>Super Lig 2026/27</desc>
 	</programme>
 	<programme channel="6127" start="20260816203000 +0000" stop="20260816213000 +0000">
@@ -14473,7 +14689,7 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<desc>UCL Specials</desc>
 	</programme>
 	<programme channel="6110" start="20260815182500 +0000" stop="20260815203000 +0000">
-		<title>Super Lig 2026/27: Genclerbirligi vs Fenerbahce (Live) Episode 3</title>
+		<title>Super Lig 2026/27: Genclerbirligi vs Fenerbahce Episode 3</title>
 		<desc>Super Lig 2026/27</desc>
 	</programme>
 	<programme channel="6110" start="20260815203000 +0000" stop="20260815220000 +0000">
@@ -22586,7 +22802,7 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5160" start="20260811173000 +0000" stop="20260811180000 +0000">
 		<title>FLAVOURS &amp; BEYOND</title>
-		<desc>A Taste of Hues Vegetarian Cuisine</desc>
+		<desc>Where the Mountain Smoke Rises</desc>
 	</programme>
 	<programme channel="5160" start="20260811180000 +0000" stop="20260811181500 +0000">
 		<title>DAILY BIZ</title>
@@ -22594,11 +22810,11 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5160" start="20260811181500 +0000" stop="20260811184500 +0000">
 		<title>THE LENS</title>
-		<desc>Young at Heart</desc>
+		<desc>In the Footsteps of Forest Guardians</desc>
 	</programme>
 	<programme channel="5160" start="20260811184500 +0000" stop="20260811190000 +0000">
 		<title>VIBES OF VIETNAM</title>
-		<desc>Lacquer Painting: A Refined Vietnamese Art</desc>
+		<desc>The Colours of Cham Pottery</desc>
 	</programme>
 	<programme channel="5160" start="20260811190000 +0000" stop="20260811191500 +0000">
 		<title>THE POINT No1</title>
@@ -22606,11 +22822,11 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5160" start="20260811191500 +0000" stop="20260811193000 +0000">
 		<title>VIBES OF VIETNAM</title>
-		<desc>Igniting Creativity</desc>
+		<desc>Vietnam Eyes Medicinal Plant Growth</desc>
 	</programme>
 	<programme channel="5160" start="20260811193000 +0000" stop="20260811200000 +0000">
-		<title>CHINA LINK</title>
-		<desc>CHINA LINK</desc>
+		<title>RUSSIA LINK</title>
+		<desc>RUSSIA LINK</desc>
 	</programme>
 	<programme channel="5160" start="20260811200000 +0000" stop="20260811203000 +0000">
 		<title>NEWSLINE</title>
@@ -22618,7 +22834,7 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5160" start="20260811203000 +0000" stop="20260811210000 +0000">
 		<title>VIETNAM 360</title>
-		<desc>Music Industry - Culture &amp; Economy</desc>
+		<desc>IFC - Việt Nam's Financial Future</desc>
 	</programme>
 	<programme channel="5160" start="20260811210000 +0000" stop="20260811211200 +0000">
 		<title>CULTURE SCENE</title>
@@ -22630,7 +22846,7 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5160" start="20260811211500 +0000" stop="20260811213000 +0000">
 		<title>S: FOR PEACE</title>
-		<desc>Training for Natural Disaster Response</desc>
+		<desc>Guardians of the Sea</desc>
 	</programme>
 	<programme channel="5160" start="20260811213000 +0000" stop="20260811220000 +0000">
 		<title>INSIDE ASIA</title>
@@ -22638,31 +22854,27 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5160" start="20260811220000 +0000" stop="20260811221500 +0000">
 		<title>THE MARTIAL LAND</title>
-		<desc>The Art of Close Combat</desc>
+		<desc>The Journey of Self-Cultivation</desc>
 	</programme>
 	<programme channel="5160" start="20260811221500 +0000" stop="20260811224500 +0000">
 		<title>EYES ON V</title>
-		<desc>Home, Roots and Routes</desc>
+		<desc>Vietnamese IT Girls</desc>
 	</programme>
 	<programme channel="5160" start="20260811224500 +0000" stop="20260811230000 +0000">
 		<title>VIBES OF VIETNAM</title>
-		<desc>Tiên Phước's agarwood journey</desc>
+		<desc>Life on the Rivers</desc>
 	</programme>
 	<programme channel="5160" start="20260811230000 +0000" stop="20260811231500 +0000">
 		<title>THE POINT No1</title>
 		<desc>THE POINT No1</desc>
 	</programme>
 	<programme channel="5160" start="20260811231500 +0000" stop="20260811234500 +0000">
-		<title>CHINA LINK</title>
-		<desc>CHINA LINK</desc>
+		<title>RUSSIA LINK</title>
+		<desc>RUSSIA LINK</desc>
 	</programme>
-	<programme channel="5160" start="20260811234500 +0000" stop="20260811235500 +0000">
+	<programme channel="5160" start="20260811234500 +0000" stop="20260812000000 +0000">
 		<title>VIBES OF VIETNAM</title>
 		<desc>Jazz Journey</desc>
-	</programme>
-	<programme channel="5160" start="20260811235500 +0000" stop="20260812000000 +0000">
-		<title>THE RHYTHMS OF VIETNAM</title>
-		<desc>Unique Art of Dried flowers</desc>
 	</programme>
 	<programme channel="5160" start="20260812000000 +0000" stop="20260812003000 +0000">
 		<title>NEWSLINE</title>
@@ -22670,7 +22882,7 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5160" start="20260812003000 +0000" stop="20260812010000 +0000">
 		<title>VIETNAM 360</title>
-		<desc>Music Industry - Culture &amp; Economy</desc>
+		<desc>IFC - Việt Nam's Financial Future</desc>
 	</programme>
 	<programme channel="5160" start="20260812010000 +0000" stop="20260812011300 +0000">
 		<title>DAILY BIZ</title>
@@ -22682,11 +22894,11 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5160" start="20260812011500 +0000" stop="20260812013000 +0000">
 		<title>VIBES OF VIETNAM</title>
-		<desc>Life in the Borderlands of Lung Cu</desc>
+		<desc>The Colours of Cham Pottery</desc>
 	</programme>
 	<programme channel="5160" start="20260812013000 +0000" stop="20260812020000 +0000">
 		<title>FLAVOURS &amp; BEYOND</title>
-		<desc>A Taste of Hues Vegetarian Cuisine</desc>
+		<desc>Where the Mountain Smoke Rises</desc>
 	</programme>
 	<programme channel="5160" start="20260812020000 +0000" stop="20260812021500 +0000">
 		<title>NEWSLINE</title>
@@ -22698,7 +22910,7 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5160" start="20260812023000 +0000" stop="20260812030000 +0000">
 		<title>VIETNAM AT A GLANCE</title>
-		<desc>Tiny Vietnamese Tales</desc>
+		<desc>Patterns of Heritage</desc>
 	</programme>
 	<programme channel="5160" start="20260812030000 +0000" stop="20260812031400 +0000">
 		<title>CULTURE SCENE</title>
@@ -22726,15 +22938,11 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5160" start="20260812041500 +0000" stop="20260812044500 +0000">
 		<title>EYES ON V</title>
-		<desc>Home, Roots and Routes</desc>
+		<desc>Vietnamese IT Girls</desc>
 	</programme>
-	<programme channel="5160" start="20260812044500 +0000" stop="20260812045500 +0000">
+	<programme channel="5160" start="20260812044500 +0000" stop="20260812050000 +0000">
 		<title>VIBES OF VIETNAM</title>
-		<desc>The Colours of Cham Pottery</desc>
-	</programme>
-	<programme channel="5160" start="20260812045500 +0000" stop="20260812050000 +0000">
-		<title>THE RHYTHMS OF VIETNAM</title>
-		<desc>The Beauty of Ba Mun Island</desc>
+		<desc>The Mông People in Tèn Village</desc>
 	</programme>
 	<programme channel="5160" start="20260812050000 +0000" stop="20260812052500 +0000">
 		<title>NEWSLINE</title>
@@ -22744,13 +22952,9 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<title>WEATHER FORECAST</title>
 		<desc>WEATHER FORECAST</desc>
 	</programme>
-	<programme channel="5160" start="20260812053000 +0000" stop="20260812055500 +0000">
+	<programme channel="5160" start="20260812053000 +0000" stop="20260812060000 +0000">
 		<title>VIBES OF VIETNAM</title>
-		<desc>Life on Co To Island - Episode 1</desc>
-	</programme>
-	<programme channel="5160" start="20260812055500 +0000" stop="20260812060000 +0000">
-		<title>THE RHYTHMS OF VIETNAM</title>
-		<desc>Life in Gành Dầu</desc>
+		<desc>Conserving the Huế Monuments Complex</desc>
 	</programme>
 	<programme channel="5160" start="20260812060000 +0000" stop="20260812061500 +0000">
 		<title>CULTURE SCENE</title>
@@ -22762,11 +22966,11 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5160" start="20260812063000 +0000" stop="20260812064500 +0000">
 		<title>SPEAK LIKE A LOCAL</title>
-		<desc>Mekong Delta Food Tasting 101</desc>
+		<desc>A Trip to the Seafood Market</desc>
 	</programme>
 	<programme channel="5160" start="20260812064500 +0000" stop="20260812070000 +0000">
 		<title>VIBES OF VIETNAM</title>
-		<desc>The Journey to Master Core Technologies</desc>
+		<desc>Peaceful Melodies by the Sea</desc>
 	</programme>
 	<programme channel="5160" start="20260812070000 +0000" stop="20260812071300 +0000">
 		<title>NEWSLINE</title>
@@ -22778,19 +22982,19 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5160" start="20260812071500 +0000" stop="20260812074500 +0000">
 		<title>THE LENS</title>
-		<desc>Young at Heart</desc>
+		<desc>In the Footsteps of Forest Guardians</desc>
 	</programme>
 	<programme channel="5160" start="20260812074500 +0000" stop="20260812080000 +0000">
 		<title>STREET FOOD</title>
-		<desc>Fried Rice - The Flavour of Nightlife</desc>
+		<desc>Da Nang Street Food Adventure</desc>
 	</programme>
 	<programme channel="5160" start="20260812080000 +0000" stop="20260812083000 +0000">
 		<title>VIETNAM 360</title>
-		<desc>Music Industry - Culture &amp; Economy</desc>
+		<desc>IFC - Việt Nam's Financial Future</desc>
 	</programme>
 	<programme channel="5160" start="20260812083000 +0000" stop="20260812090000 +0000">
 		<title>FLAVOURS &amp; BEYOND</title>
-		<desc>A Taste of Hues Vegetarian Cuisine</desc>
+		<desc>Where the Mountain Smoke Rises</desc>
 	</programme>
 	<programme channel="5160" start="20260812090000 +0000" stop="20260812091300 +0000">
 		<title>NEWSLINE</title>
@@ -22805,8 +23009,8 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<desc>THE POINT No1</desc>
 	</programme>
 	<programme channel="5160" start="20260812093000 +0000" stop="20260812100000 +0000">
-		<title>VIBES OF VIETNAM</title>
-		<desc>Cát Bà Pastimes</desc>
+		<title>INSIGHTS</title>
+		<desc>Vietnamese - Tracing Our Roots</desc>
 	</programme>
 	<programme channel="5160" start="20260812100000 +0000" stop="20260812101500 +0000">
 		<title>CULTURE SCENE</title>
@@ -22814,11 +23018,11 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5160" start="20260812101500 +0000" stop="20260812103000 +0000">
 		<title>S: FOR PEACE</title>
-		<desc>Training for Natural Disaster Response</desc>
+		<desc>Guardians of the Sea</desc>
 	</programme>
 	<programme channel="5160" start="20260812103000 +0000" stop="20260812110000 +0000">
-		<title>CHINA LINK</title>
-		<desc>CHINA LINK</desc>
+		<title>RUSSIA LINK</title>
+		<desc>RUSSIA LINK</desc>
 	</programme>
 	<programme channel="5160" start="20260812110000 +0000" stop="20260812111000 +0000">
 		<title>NEWSLINE</title>
@@ -22830,7 +23034,7 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5160" start="20260812111500 +0000" stop="20260812113000 +0000">
 		<title>VIBES OF VIETNAM</title>
-		<desc>Life on the Rivers</desc>
+		<desc>Đà Nẵng - The New Era of Experiential Tourism</desc>
 	</programme>
 	<programme channel="5160" start="20260812113000 +0000" stop="20260812120000 +0000">
 		<title>INSIDE ASIA</title>
@@ -22838,11 +23042,11 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5160" start="20260812120000 +0000" stop="20260812123000 +0000">
 		<title>VIETNAM AT A GLANCE</title>
-		<desc>Tiny Vietnamese Tales</desc>
+		<desc>Patterns of Heritage</desc>
 	</programme>
 	<programme channel="5160" start="20260812123000 +0000" stop="20260812124500 +0000">
 		<title>VIBES OF VIETNAM</title>
-		<desc>Vietnam Eyes Medicinal Plant Growth</desc>
+		<desc>Lifting Dreams into Space</desc>
 	</programme>
 	<programme channel="5160" start="20260812124500 +0000" stop="20260812130000 +0000">
 		<title>THE POINT No1</title>
@@ -22854,15 +23058,15 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5160" start="20260812131500 +0000" stop="20260812134500 +0000">
 		<title>THE LENS</title>
-		<desc>In the Footsteps of Forest Guardians</desc>
+		<desc>Barren Land in Bloom</desc>
 	</programme>
 	<programme channel="5160" start="20260812134500 +0000" stop="20260812135000 +0000">
-		<title>VIETNAM DESTINATION</title>
-		<desc>Cúc Phương National Park</desc>
+		<title>THE RHYTHMS OF VIETNAM</title>
+		<desc>Bamboo gong of the Ede</desc>
 	</programme>
 	<programme channel="5160" start="20260812135000 +0000" stop="20260812140000 +0000">
 		<title>VIBES OF VIETNAM</title>
-		<desc>Life in the Borderlands of Lung Cu</desc>
+		<desc>The Cultural Colours of Khmer Life</desc>
 	</programme>
 	<programme channel="5160" start="20260812140000 +0000" stop="20260812143000 +0000">
 		<title>NEWSLINE</title>
@@ -22870,7 +23074,7 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5160" start="20260812143000 +0000" stop="20260812150000 +0000">
 		<title>FLAVOURS &amp; BEYOND</title>
-		<desc>Where the Mountain Smoke Rises</desc>
+		<desc>Banh bot loc - From Hue to haute</desc>
 	</programme>
 	<programme channel="5160" start="20260812150000 +0000" stop="20260812151500 +0000">
 		<title>CULTURE SCENE</title>
@@ -22882,19 +23086,19 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5160" start="20260812153000 +0000" stop="20260812160000 +0000">
 		<title>EYES ON V</title>
-		<desc>Home, Roots and Routes</desc>
+		<desc>Vietnamese IT Girls</desc>
 	</programme>
 	<programme channel="5160" start="20260812160000 +0000" stop="20260812161500 +0000">
 		<title>DAILY BIZ</title>
 		<desc>DAILY BIZ</desc>
 	</programme>
 	<programme channel="5160" start="20260812161500 +0000" stop="20260812164500 +0000">
-		<title>CHINA LINK</title>
-		<desc>CHINA LINK</desc>
+		<title>RUSSIA LINK</title>
+		<desc>RUSSIA LINK</desc>
 	</programme>
 	<programme channel="5160" start="20260812164500 +0000" stop="20260812170000 +0000">
 		<title>VIBES OF VIETNAM</title>
-		<desc>The Colours of Cham Pottery</desc>
+		<desc>The Bahnar of the Đắk Bla</desc>
 	</programme>
 	<programme channel="5160" start="20260812170000 +0000" stop="20260812173000 +0000">
 		<title>NEWSLINE</title>
@@ -28940,9 +29144,13 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<title>World Sport Episode 161</title>
 		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
 	</programme>
-	<programme channel="5167" start="20260813140000 +0000" stop="20260813150000 +0000">
-		<title>Connect the World Episode 420</title>
+	<programme channel="5167" start="20260813140000 +0000" stop="20260813144500 +0000">
+		<title>Connect the World Episode 422</title>
 		<desc>Becky Anderson explores diverse perspectives and explains global issues of the day.</desc>
+	</programme>
+	<programme channel="5167" start="20260813144500 +0000" stop="20260813150000 +0000">
+		<title>Marketplace Middle East Episode 55</title>
+		<desc>The UAE's ambitions in space are no longer symbolic; they're strategic. We sit down with Dr. Mohib of Orbitworks to discuss space sovereignty.</desc>
 	</programme>
 	<programme channel="5167" start="20260813150000 +0000" stop="20260813153000 +0000">
 		<title>One World Episode 33</title>
@@ -28950,11 +29158,15 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5167" start="20260813153000 +0000" stop="20260813160000 +0000">
 		<title>CNN Creators Episode 32</title>
-		<desc>Live from Doha, Qatar, CNN Creators follows a team of digital-native storytellers as they navigate the stories that matter most, with a focus on tech, art, culture, sport, and social trends.</desc>
+		<desc>The Creators look into the world of protein maxxing and discuss why it's sending prices sky high.</desc>
 	</programme>
-	<programme channel="5167" start="20260813160000 +0000" stop="20260813170000 +0000">
-		<title>One World Episode 422</title>
+	<programme channel="5167" start="20260813160000 +0000" stop="20260813164500 +0000">
+		<title>One World Episode 161</title>
 		<desc>Zain Asher and Bianna Golodryga cover the top global and national issues of the day.</desc>
+	</programme>
+	<programme channel="5167" start="20260813164500 +0000" stop="20260813170000 +0000">
+		<title>African Voices Playmakers Episode 6</title>
+		<desc>More Africans are appearing on bodybuilding's most prestigious stages, including Mr. Olympia and the Arnold Classic.</desc>
 	</programme>
 	<programme channel="5167" start="20260813170000 +0000" stop="20260813180000 +0000">
 		<title>Amanpour Episode 128</title>
@@ -29141,8 +29353,8 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<desc>Live context and clarity to the day's top stories from around the world.</desc>
 	</programme>
 	<programme channel="5167" start="20260815073000 +0000" stop="20260815080000 +0000">
-		<title>CNNI Placeholder Episode 2</title>
-		<desc>CNNI Placeholder</desc>
+		<title>The Link</title>
+		<desc>Whether it's art, tourism or transport, technology is disrupting sectors by bringing more people into the mix across Africa.</desc>
 	</programme>
 	<programme channel="5167" start="20260815080000 +0000" stop="20260815083000 +0000">
 		<title>CNN Newsroom Episode 481</title>
@@ -29150,7 +29362,7 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5167" start="20260815083000 +0000" stop="20260815090000 +0000">
 		<title>CNN Creators Episode 32</title>
-		<desc>Live from Doha, Qatar, CNN Creators follows a team of digital-native storytellers as they navigate the stories that matter most, with a focus on tech, art, culture, sport, and social trends.</desc>
+		<desc>The Creators look into the world of protein maxxing and discuss why it's sending prices sky high.</desc>
 	</programme>
 	<programme channel="5167" start="20260815090000 +0000" stop="20260815100000 +0000">
 		<title>CNN Newsroom Episode 169</title>
@@ -29166,7 +29378,7 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5167" start="20260815113000 +0000" stop="20260815120000 +0000">
 		<title>Quest's World of Wonder Episode 7</title>
-		<desc>Quest's World of Wonder</desc>
+		<desc>The 250th birthday of the U.S. is the perfect reason for a summer holiday and a great American road trip!</desc>
 	</programme>
 	<programme channel="5167" start="20260815120000 +0000" stop="20260815130000 +0000">
 		<title>CNN This Morning Weekend Episode 130</title>
@@ -29178,11 +29390,11 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5167" start="20260815140000 +0000" stop="20260815143000 +0000">
 		<title>CNN Creators Episode 32</title>
-		<desc>Live from Doha, Qatar, CNN Creators follows a team of digital-native storytellers as they navigate the stories that matter most, with a focus on tech, art, culture, sport, and social trends.</desc>
+		<desc>The Creators look into the world of protein maxxing and discuss why it's sending prices sky high.</desc>
 	</programme>
 	<programme channel="5167" start="20260815143000 +0000" stop="20260815150000 +0000">
 		<title>Inside Africa Episode 732</title>
-		<desc>Inside Africa takes its viewers on a journey across Africa, exploring the true diversity and depth of different cultures, countries and regions.</desc>
+		<desc>Namibia's architecture tells a story far beyond the buildings themselves.</desc>
 	</programme>
 	<programme channel="5167" start="20260815150000 +0000" stop="20260815160000 +0000">
 		<title>The Amanpour Hour Episode 33</title>
@@ -29193,8 +29405,8 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
 	</programme>
 	<programme channel="5167" start="20260815163000 +0000" stop="20260815170000 +0000">
-		<title>CNNI Placeholder Episode 2</title>
-		<desc>CNNI Placeholder</desc>
+		<title>The Link Episode 2</title>
+		<desc>A continent-wide educational ecosystem creates a pipeline to tech talent; emerging technology revolutionizes access for the hearing-impaired in Kenya.</desc>
 	</programme>
 	<programme channel="5167" start="20260815170000 +0000" stop="20260815180000 +0000">
 		<title>CNN Newsroom Saturday Episode 258</title>
@@ -29204,21 +29416,21 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<title>CNN Newsroom Saturday Episode 259</title>
 		<desc>Updates of the latest news from around the world.</desc>
 	</programme>
-	<programme channel="5167" start="20260815190000 +0000" stop="20260815191500 +0000">
-		<title>Marketplace Europe Episode 60</title>
-		<desc>Every month, we delve into how innovation and technology are driving Europe's great recovery, speaking to top CEOs and exploring new trends.</desc>
+	<programme channel="5167" start="20260815190000 +0000" stop="20260815200000 +0000">
+		<title>CNN Newsroom Saturday Episode 260</title>
+		<desc>Updates of the latest news from around the world.</desc>
 	</programme>
-	<programme channel="5167" start="20260815191500 +0000" stop="20260815193000 +0000">
+	<programme channel="5167" start="20260815200000 +0000" stop="20260815201500 +0000">
+		<title>Marketplace Europe Episode 60</title>
+		<desc>We trace gummy bear company Haribo's journey from a small family business in the picturesque German city of Bonn to its position as a world leader.</desc>
+	</programme>
+	<programme channel="5167" start="20260815201500 +0000" stop="20260815203000 +0000">
 		<title>Marketplace Asia Episode 58</title>
 		<desc>We go inside South Korea's tech and AI boom, where innovation, investment and ambition are reshaping one of the region's hottest markets.</desc>
 	</programme>
-	<programme channel="5167" start="20260815193000 +0000" stop="20260815200000 +0000">
+	<programme channel="5167" start="20260815203000 +0000" stop="20260815210000 +0000">
 		<title>Quest's World of Wonder Episode 7</title>
-		<desc>Quest's World of Wonder</desc>
-	</programme>
-	<programme channel="5167" start="20260815200000 +0000" stop="20260815210000 +0000">
-		<title>CNN Newsroom Saturday Episode 261</title>
-		<desc>Updates of the latest news from around the world.</desc>
+		<desc>The 250th birthday of the U.S. is the perfect reason for a summer holiday and a great American road trip!</desc>
 	</programme>
 	<programme channel="5167" start="20260815210000 +0000" stop="20260815213000 +0000">
 		<title>World Sport Episode 587</title>
@@ -29226,7 +29438,7 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5167" start="20260815213000 +0000" stop="20260815220000 +0000">
 		<title>CNN Creators Episode 32</title>
-		<desc>Live from Doha, Qatar, CNN Creators follows a team of digital-native storytellers as they navigate the stories that matter most, with a focus on tech, art, culture, sport, and social trends.</desc>
+		<desc>The Creators look into the world of protein maxxing and discuss why it's sending prices sky high.</desc>
 	</programme>
 	<programme channel="5167" start="20260815220000 +0000" stop="20260815230000 +0000">
 		<title>CNN Newsroom Saturday Episode 263</title>
@@ -29246,23 +29458,23 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5167" start="20260816013000 +0000" stop="20260816020000 +0000">
 		<title>Quest's World of Wonder Episode 7</title>
-		<desc>Quest's World of Wonder</desc>
+		<desc>The 250th birthday of the U.S. is the perfect reason for a summer holiday and a great American road trip!</desc>
 	</programme>
 	<programme channel="5167" start="20260816020000 +0000" stop="20260816023000 +0000">
 		<title>Inside Africa Episode 732</title>
-		<desc>Inside Africa takes its viewers on a journey across Africa, exploring the true diversity and depth of different cultures, countries and regions.</desc>
+		<desc>Namibia's architecture tells a story far beyond the buildings themselves.</desc>
 	</programme>
 	<programme channel="5167" start="20260816023000 +0000" stop="20260816030000 +0000">
 		<title>African Voices Playmakers Episode 3</title>
 		<desc>More Africans are appearing on bodybuilding's most prestigious stages, including Mr. Olympia and the Arnold Classic.</desc>
 	</programme>
 	<programme channel="5167" start="20260816030000 +0000" stop="20260816033000 +0000">
-		<title>CNNI Placeholder Episode 2</title>
-		<desc>CNNI Placeholder</desc>
+		<title>The Link Episode 2</title>
+		<desc>A continent-wide educational ecosystem creates a pipeline to tech talent; emerging technology revolutionizes access for the hearing-impaired in Kenya.</desc>
 	</programme>
 	<programme channel="5167" start="20260816033000 +0000" stop="20260816034500 +0000">
 		<title>Marketplace Europe Episode 60</title>
-		<desc>Every month, we delve into how innovation and technology are driving Europe's great recovery, speaking to top CEOs and exploring new trends.</desc>
+		<desc>We trace gummy bear company Haribo's journey from a small family business in the picturesque German city of Bonn to its position as a world leader.</desc>
 	</programme>
 	<programme channel="5167" start="20260816034500 +0000" stop="20260816040000 +0000">
 		<title>Marketplace Asia Episode 58</title>
@@ -29282,7 +29494,7 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5167" start="20260816053000 +0000" stop="20260816060000 +0000">
 		<title>Inside Africa Episode 732</title>
-		<desc>Inside Africa takes its viewers on a journey across Africa, exploring the true diversity and depth of different cultures, countries and regions.</desc>
+		<desc>Namibia's architecture tells a story far beyond the buildings themselves.</desc>
 	</programme>
 	<programme channel="5167" start="20260816060000 +0000" stop="20260816063000 +0000">
 		<title>CNN Newsroom Episode 274</title>
@@ -29290,7 +29502,7 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5167" start="20260816063000 +0000" stop="20260816064500 +0000">
 		<title>Marketplace Europe Episode 60</title>
-		<desc>Every month, we delve into how innovation and technology are driving Europe's great recovery, speaking to top CEOs and exploring new trends.</desc>
+		<desc>We trace gummy bear company Haribo's journey from a small family business in the picturesque German city of Bonn to its position as a world leader.</desc>
 	</programme>
 	<programme channel="5167" start="20260816064500 +0000" stop="20260816070000 +0000">
 		<title>Marketplace Asia Episode 58</title>
@@ -29302,7 +29514,7 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5167" start="20260816073000 +0000" stop="20260816080000 +0000">
 		<title>Quest's World of Wonder Episode 7</title>
-		<desc>Quest's World of Wonder</desc>
+		<desc>The 250th birthday of the U.S. is the perfect reason for a summer holiday and a great American road trip!</desc>
 	</programme>
 	<programme channel="5167" start="20260816080000 +0000" stop="20260816090000 +0000">
 		<title>CNN Newsroom Episode 66</title>
@@ -29318,7 +29530,7 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5167" start="20260816103000 +0000" stop="20260816110000 +0000">
 		<title>Inside Africa Episode 732</title>
-		<desc>Inside Africa takes its viewers on a journey across Africa, exploring the true diversity and depth of different cultures, countries and regions.</desc>
+		<desc>Namibia's architecture tells a story far beyond the buildings themselves.</desc>
 	</programme>
 	<programme channel="5167" start="20260816110000 +0000" stop="20260816120000 +0000">
 		<title>CNN This Morning Weekend Episode 132</title>
@@ -29346,15 +29558,15 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5167" start="20260816163000 +0000" stop="20260816170000 +0000">
 		<title>Inside Africa Episode 732</title>
-		<desc>Inside Africa takes its viewers on a journey across Africa, exploring the true diversity and depth of different cultures, countries and regions.</desc>
+		<desc>Namibia's architecture tells a story far beyond the buildings themselves.</desc>
 	</programme>
 	<programme channel="5167" start="20260816170000 +0000" stop="20260816173000 +0000">
 		<title>African Voices Playmakers Episode 3</title>
 		<desc>More Africans are appearing on bodybuilding's most prestigious stages, including Mr. Olympia and the Arnold Classic.</desc>
 	</programme>
 	<programme channel="5167" start="20260816173000 +0000" stop="20260816180000 +0000">
-		<title>CNNI Placeholder Episode 2</title>
-		<desc>CNNI Placeholder</desc>
+		<title>The Link</title>
+		<desc>Whether it's art, tourism or transport, technology is disrupting sectors by bringing more people into the mix across Africa.</desc>
 	</programme>
 	<programme channel="5167" start="20260816180000 +0000" stop="20260816190000 +0000">
 		<title>CNN Newsroom Sunday Episode 225</title>
@@ -29373,8 +29585,8 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
 	</programme>
 	<programme channel="5167" start="20260816213000 +0000" stop="20260816220000 +0000">
-		<title>CNNI Placeholder Episode 2</title>
-		<desc>CNNI Placeholder</desc>
+		<title>The Link Episode 2</title>
+		<desc>A continent-wide educational ecosystem creates a pipeline to tech talent; emerging technology revolutionizes access for the hearing-impaired in Kenya.</desc>
 	</programme>
 	<programme channel="5167" start="20260816220000 +0000" stop="20260816230000 +0000">
 		<title>CNN Newsroom Sunday Episode 229</title>
@@ -29386,7 +29598,7 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5167" start="20260817000000 +0000" stop="20260817010000 +0000">
 		<title>The Whole Story With Anderson Cooper Episode 11</title>
-		<desc>Anderson Cooper hosts a deeply reported series that goes behind the headlines and into the heart of the most important stories of our time.</desc>
+		<desc>Isobel Yeung digs into the once taboo world of performance enhancing drugs and how they are becoming increasingly popular not only among athletes.</desc>
 	</programme>
 	<programme channel="5167" start="20260817010000 +0000" stop="20260817020000 +0000">
 		<title>Fareed Zakaria GPS Episode 33</title>
@@ -29398,19 +29610,19 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5167" start="20260817023000 +0000" stop="20260817024500 +0000">
 		<title>Marketplace Europe Episode 60</title>
-		<desc>Every month, we delve into how innovation and technology are driving Europe's great recovery, speaking to top CEOs and exploring new trends.</desc>
+		<desc>We trace gummy bear company Haribo's journey from a small family business in the picturesque German city of Bonn to its position as a world leader.</desc>
 	</programme>
 	<programme channel="5167" start="20260817024500 +0000" stop="20260817030000 +0000">
 		<title>Marketplace Asia Episode 58</title>
 		<desc>We go inside South Korea's tech and AI boom, where innovation, investment and ambition are reshaping one of the region's hottest markets.</desc>
 	</programme>
 	<programme channel="5167" start="20260817030000 +0000" stop="20260817033000 +0000">
-		<title>CNNI Placeholder Episode 2</title>
-		<desc>CNNI Placeholder</desc>
+		<title>The Link</title>
+		<desc>Whether it's art, tourism or transport, technology is disrupting sectors by bringing more people into the mix across Africa.</desc>
 	</programme>
 	<programme channel="5167" start="20260817033000 +0000" stop="20260817040000 +0000">
 		<title>Inside Africa Episode 732</title>
-		<desc>Inside Africa takes its viewers on a journey across Africa, exploring the true diversity and depth of different cultures, countries and regions.</desc>
+		<desc>Namibia's architecture tells a story far beyond the buildings themselves.</desc>
 	</programme>
 	<programme channel="5167" start="20260817040000 +0000" stop="20260817050000 +0000">
 		<title>CNN Newsroom Episode 66</title>
@@ -31024,6 +31236,74 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<title>Bloomberg Primer Episode 5</title>
 		<desc>Flying cars have largely remained science fiction, until now. A new generation of electrified aircraft is attracting the attention of investors and venture capitalists around the world.</desc>
 	</programme>
+	<programme channel="5172" start="20260817033000 +0000" stop="20260817040000 +0000">
+		<title>Bloomberg Primer Episode 6</title>
+		<desc>Governments and entrepreneurs are racing to commercialize the moon. These efforts could unlock a new, deep-space economy. But to return and stay will require the highest levels of innovation.</desc>
+	</programme>
+	<programme channel="5172" start="20260817040000 +0000" stop="20260817042000 +0000">
+		<title>Tesla's Dangerous Doors</title>
+		<desc>A number of fatal car crashes involving Tesla vehicles has prompted increased scrutiny of its electric doors, triggering lawsuits over whether the design can leave passengers trapped.</desc>
+	</programme>
+	<programme channel="5172" start="20260817042000 +0000" stop="20260817043500 +0000">
+		<title>Inside Trump's Deal to Reshape Alaska</title>
+		<desc>A mining deal by the Trump administration and a 211-mile road have pitted Wall Street against Alaska residents fearful of the environmental impact. But not everyone is against the Ambler Road project.</desc>
+	</programme>
+	<programme channel="5172" start="20260817043500 +0000" stop="20260817045000 +0000">
+		<title>Why Space Companies Are Betting Big on Texas</title>
+		<desc>Already home to SpaceX, Blue Origin and recent moon-landers Firefly Aerospace and Intuitive Machines, Texas is quickly becoming the center of the commercial space universe.</desc>
+	</programme>
+	<programme channel="5172" start="20260817045000 +0000" stop="20260817053500 +0000">
+		<title>Bloomberg Investigates</title>
+		<desc>A police raid in a small town in the Philippines revealed a young mayor's alleged connections to a $2 billion Singapore money laundering scandal and Chinese espionage.</desc>
+	</programme>
+	<programme channel="5172" start="20260817053500 +0000" stop="20260817062000 +0000">
+		<title>Bloomberg Investigates Episode 5</title>
+		<desc>A police raid in a small town in the Philippines revealed a young mayor's alleged connections to a $2 billion Singapore money laundering scandal and Chinese espionage.</desc>
+	</programme>
+	<programme channel="5172" start="20260817062000 +0000" stop="20260817064000 +0000">
+		<title>Bloomberg Investigates</title>
+		<desc>The award-winning series that sets out to uncover the truth behind some of the most powerful stories from around the world.</desc>
+	</programme>
+	<programme channel="5172" start="20260817064000 +0000" stop="20260817070000 +0000">
+		<title>Bloomberg Investigates</title>
+		<desc>Bloomberg Investigates travels to Kenya to reveal the human cost of USAID cuts, where abandoned water and sanitation projects have left vulnerable communities at greater risk.</desc>
+	</programme>
+	<programme channel="5172" start="20260817070000 +0000" stop="20260817073000 +0000">
+		<title>Bloomberg Investigates Episode 4</title>
+		<desc>A year following a group of lawyers as they sue the Department of Homeland Security and scramble to help free those arrested under Donald Trump's immigration policies.</desc>
+	</programme>
+	<programme channel="5172" start="20260817073000 +0000" stop="20260817080000 +0000">
+		<title>Bloomberg Investigates</title>
+		<desc>Last year alone, an estimated $1 trillion was lost globally to fraud. With law enforcement struggling to cope, scambaiter vigilantes are filling the gaps.</desc>
+	</programme>
+	<programme channel="5172" start="20260817080000 +0000" stop="20260817083000 +0000">
+		<title>Bloomberg Investigates</title>
+		<desc>Fake permits, undercover informants and millions of dollars. How a US government agency set out to prove suppliers to research labs were importing wild monkeys from Cambodia with false paperwork.</desc>
+	</programme>
+	<programme channel="5172" start="20260817083000 +0000" stop="20260817090000 +0000">
+		<title>Bloomberg Investigates</title>
+		<desc>Ji Chaoqun was a promising young engineer from Beijing heading to the US to study. Then China's spy agency came calling with bags of cash, the promise of glory and an offer that would change his life forever.</desc>
+	</programme>
+	<programme channel="5172" start="20260817090000 +0000" stop="20260817093000 +0000">
+		<title>Bloomberg Investigates</title>
+		<desc>The Malaysian Anti-Corruption Commission is supposed to root out graft. Instead, some of its members have been accused of perpetuating the very wrongdoing they were meant to stop.</desc>
+	</programme>
+	<programme channel="5172" start="20260817093000 +0000" stop="20260817101000 +0000">
+		<title>Bloomberg Investigates</title>
+		<desc>Bloomberg Investigates takes viewers on an immersive journey to the heart of our most powerful reporting. Each investigation is recounted by award-winning journalists.</desc>
+	</programme>
+	<programme channel="5172" start="20260817101000 +0000" stop="20260817103000 +0000">
+		<title>Inside Jeffrey Epstein's Network of Power</title>
+		<desc>Jeffrey Epstein built a network of elites across finance, politics and academia. By analyzing thousands of documents, Bloomberg mapped its reach and how it widened even as allegations against him accumulated.</desc>
+	</programme>
+	<programme channel="5172" start="20260817103000 +0000" stop="20260817110000 +0000">
+		<title>A Dangerous Corner of the Global Shipping Industry</title>
+		<desc>The sinking of the Gulf Livestock 1 was the worst disaster in the history of the live-export trade, an industry made up of about 150 ships with a market value totaling $20 billion to $30 billion.</desc>
+	</programme>
+	<programme channel="5172" start="20260817110000 +0000" stop="20260817140000 +0000">
+		<title>Bloomberg Surveillance Radio</title>
+		<desc>The economy and the markets are "under surveillance" as we cover the latest in finance, economics and investment. Join Tom Keene, Paul Sweeney, Lisa Mateo, Michael Barr and other guests.</desc>
+	</programme>
 	<programme channel="5173" start="20260810160000 +0000" stop="20260810163000 +0000">
 		<title>Halftime Report</title>
 		<desc>"Halftime Report" is on the front lines of CNBC's market coverage. Host CNBC's Scott Wapner and the Street's top investors get to the heart of the action as it's happening and help set the agenda for the rest of the day</desc>
@@ -32061,12 +32341,12 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<desc>Emmy Award-nominated “Late Night with Seth Meyers,” hosted by award-winning writer and performer Seth Meyers, is home to incisive humor, topical jokes and A-list celebrity guests. The series' signature “A Closer Look” segment has garnered millions of views and is widely lauded for its tightly written and thoughtful approach to analyzing and satirizing news of the day.</desc>
 	</programme>
 	<programme channel="5173" start="20260816180000 +0000" stop="20260816183000 +0000">
-		<title>CNBC Originals</title>
-		<desc>CNBC Originals</desc>
+		<title>Founder Effect</title>
+		<desc>Managing Middle East is CNBC's new flagship interview series that takes you inside the minds of the business leaders shaping one of the world's most dynamic regions. Fronted by CNBC's Dan Murphy, the series uncovers how the region's most influential leaders are navigating transformation, global expansion, capital markets, technology, energy transition, geopolitics and long-term growth.</desc>
 	</programme>
 	<programme channel="5173" start="20260816183000 +0000" stop="20260816190000 +0000">
-		<title>CNBC Originals</title>
-		<desc>CNBC Originals</desc>
+		<title>The CNBC Conversation</title>
+		<desc>A show that lets the person talk for themselves and gives audiences a glimpse at the personality behind the public persona. Heads of State, titans of business and celebrated stars sit down for the CNBC Conversation.</desc>
 	</programme>
 	<programme channel="5173" start="20260816190000 +0000" stop="20260816200000 +0000">
 		<title>The Tonight Show Starring Jimmy Fallon</title>
@@ -32081,12 +32361,12 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<desc>“American Greed” goes inside the dark side of the American Dream - where money seduces, power corrupts, and smooth criminals will stop at nothing to get rich.</desc>
 	</programme>
 	<programme channel="5173" start="20260816220000 +0000" stop="20260816223000 +0000">
-		<title>CNBC Originals</title>
-		<desc>CNBC Originals</desc>
+		<title>The Tech Download</title>
+		<desc>Hosted by Arjun Kharpal, CNBC's “Tech Download” podcast cuts through the noise to unpack the technology stories that matter most.</desc>
 	</programme>
 	<programme channel="5173" start="20260816223000 +0000" stop="20260816230000 +0000">
-		<title>CNBC Originals</title>
-		<desc>CNBC Originals</desc>
+		<title>CNBC Sport: On The Record</title>
+		<desc>CNBC Sport: On The Record explores the convergence of sports, business, and investing. Each week, we sit down with the biggest names in sports - from league commissioners, team owners, influential media executives and top athletes - to give you an insider's perspective on the strategies, deals, and stories shaping sports and business.</desc>
 	</programme>
 	<programme channel="5173" start="20260816230000 +0000" stop="20260816233000 +0000">
 		<title>Squawk Box Asia</title>
@@ -71745,11 +72025,11 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 		<title>燦盛這料理 / Chansung's Cooking Episode 8</title>
 		<desc>2PM燦盛將帶你探索不同餐廳、嚐遍人氣料理，並以創意方式把食譜重新演繹！</desc>
 	</programme>
-	<programme channel="5518" start="20260812220000 +0000" stop="20260812223000 +0000">
-		<title>燦盛這料理 / Chansung's Cooking Episode 9</title>
-		<desc>2PM燦盛將帶你探索不同餐廳、嚐遍人氣料理，並以創意方式把食譜重新演繹！</desc>
+	<programme channel="5518" start="20260812220000 +0000" stop="20260812222000 +0000">
+		<title>Sam Kim名廚煮意 / You Can Cook With Sam Kim Episode 16</title>
+		<desc>從意大利面到西班牙料理，從主菜到甜品，大廚Sam Kim都會一一教你做！快跟著Sam Kim一起製作簡單易做的料理，享受下廚的樂趣！</desc>
 	</programme>
-	<programme channel="5518" start="20260812223000 +0000" stop="20260813003000 +0000">
+	<programme channel="5518" start="20260812222000 +0000" stop="20260813003000 +0000">
 		<title>姐姐們的產地直送3 / Fresh Off the Sea 3 Episode 2</title>
 		<desc>成員們前往新的地點體驗漁村生活，透過海邊工作、烹飪當季食材料理，記錄大家一同勞動與日常互動的溫暖過程。</desc>
 	</programme>
@@ -71777,11 +72057,11 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 		<title>KILL IT：衣決高下 / KILL IT: Style Creator Showdown Episode 9</title>
 		<desc>100位女性參與激烈的時尚生存戰，爭奪成為全球K-fashion新一代的領頭羊。</desc>
 	</programme>
-	<programme channel="5518" start="20260813091500 +0000" stop="20260813111000 +0000">
-		<title>姐姐們的產地直送3 / Fresh Off the Sea 3</title>
-		<desc>成員們前往新的地點體驗漁村生活，透過海邊工作、烹飪當季食材料理，記錄大家一同勞動與日常互動的溫暖過程。</desc>
+	<programme channel="5518" start="20260813091500 +0000" stop="20260813110000 +0000">
+		<title>街舞女王 - 國際戰 / World of Street Woman Fighter Episode 7</title>
+		<desc>韓國大熱街舞系列載譽歸來！全新賽制將決定6隊來自世界各地的女子舞團中，冠軍寶座花落誰家！</desc>
 	</programme>
-	<programme channel="5518" start="20260813111000 +0000" stop="20260813131000 +0000">
+	<programme channel="5518" start="20260813110000 +0000" stop="20260813131000 +0000">
 		<title>姐姐們的產地直送3 / Fresh Off the Sea 3 Episode 2</title>
 		<desc>成員們前往新的地點體驗漁村生活，透過海邊工作、烹飪當季食材料理，記錄大家一同勞動與日常互動的溫暖過程。</desc>
 	</programme>
@@ -71789,27 +72069,27 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 		<title>秘戀稽核中 / Filing for Love Episode 11</title>
 		<desc>原本毫無交集的兩人，在調查職場不當行為的過程中，從敵對到互信，最終意外墜入愛河。</desc>
 	</programme>
-	<programme channel="5518" start="20260813143000 +0000" stop="20260813160000 +0000">
+	<programme channel="5518" start="20260813143000 +0000" stop="20260813162000 +0000">
 		<title>宇宙年糕店 / Space Rice Cake Episode 2</title>
 		<desc>《蹦蹦地球娛樂室》的衍生節目，以全新的背景－年糕店為舞台，成員們將再次集結，展現不一樣的化學反應和綜藝魅力。</desc>
 	</programme>
-	<programme channel="5518" start="20260813160000 +0000" stop="20260813171000 +0000">
+	<programme channel="5518" start="20260813162000 +0000" stop="20260813173000 +0000">
 		<title>菜鳥伙房兵 / The Legend of Kitchen Soldier Episode 7</title>
 		<desc>拋下步槍、拿起菜刀！二等兵姜聖宰利用神祕的遊戲任務系統，在軍中蛻變成傳奇的伙房兵。</desc>
 	</programme>
-	<programme channel="5518" start="20260813171000 +0000" stop="20260813182000 +0000">
+	<programme channel="5518" start="20260813173000 +0000" stop="20260813184000 +0000">
 		<title>菜鳥伙房兵 / The Legend of Kitchen Soldier Episode 8</title>
 		<desc>拋下步槍、拿起菜刀！二等兵姜聖宰利用神祕的遊戲任務系統，在軍中蛻變成傳奇的伙房兵。</desc>
 	</programme>
-	<programme channel="5518" start="20260813182000 +0000" stop="20260813191500 +0000">
-		<title>慢遊韓國鄉村 / Walking Through The Village Episode 10</title>
-		<desc>演員具本承帶大家慢遊江畔的韓國鄉村，感受當地的溫暖和純淨，並展示沿江村莊的歷史與風土人情 。</desc>
+	<programme channel="5518" start="20260813184000 +0000" stop="20260813185500 +0000">
+		<title>Sam Kim名廚煮意 / You Can Cook With Sam Kim Episode 9</title>
+		<desc>從意大利面到西班牙料理，從主菜到甜品，大廚Sam Kim都會一一教你做！快跟著Sam Kim一起製作簡單易做的料理，享受下廚的樂趣！</desc>
 	</programme>
-	<programme channel="5518" start="20260813191500 +0000" stop="20260813203000 +0000">
+	<programme channel="5518" start="20260813185500 +0000" stop="20260813201000 +0000">
 		<title>秘戀稽核中 / Filing for Love Episode 11</title>
 		<desc>原本毫無交集的兩人，在調查職場不當行為的過程中，從敵對到互信，最終意外墜入愛河。</desc>
 	</programme>
-	<programme channel="5518" start="20260813203000 +0000" stop="20260813220000 +0000">
+	<programme channel="5518" start="20260813201000 +0000" stop="20260813220000 +0000">
 		<title>宇宙年糕店 / Space Rice Cake Episode 2</title>
 		<desc>《蹦蹦地球娛樂室》的衍生節目，以全新的背景－年糕店為舞台，成員們將再次集結，展現不一樣的化學反應和綜藝魅力。</desc>
 	</programme>
@@ -71833,23 +72113,19 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 		<title>菜鳥伙房兵 / The Legend of Kitchen Soldier Episode 7</title>
 		<desc>拋下步槍、拿起菜刀！二等兵姜聖宰利用神祕的遊戲任務系統，在軍中蛻變成傳奇的伙房兵。</desc>
 	</programme>
-	<programme channel="5518" start="20260814052500 +0000" stop="20260814064000 +0000">
+	<programme channel="5518" start="20260814052500 +0000" stop="20260814063500 +0000">
 		<title>菜鳥伙房兵 / The Legend of Kitchen Soldier Episode 8</title>
 		<desc>拋下步槍、拿起菜刀！二等兵姜聖宰利用神祕的遊戲任務系統，在軍中蛻變成傳奇的伙房兵。</desc>
 	</programme>
-	<programme channel="5518" start="20260814064000 +0000" stop="20260814084000 +0000">
+	<programme channel="5518" start="20260814063500 +0000" stop="20260814084500 +0000">
 		<title>姐姐們的產地直送3 / Fresh Off the Sea 3 Episode 2</title>
 		<desc>成員們前往新的地點體驗漁村生活，透過海邊工作、烹飪當季食材料理，記錄大家一同勞動與日常互動的溫暖過程。</desc>
 	</programme>
-	<programme channel="5518" start="20260814084000 +0000" stop="20260814085500 +0000">
-		<title>Sam Kim名廚煮意 / You Can Cook With Sam Kim Episode 9</title>
-		<desc>從意大利面到西班牙料理，從主菜到甜品，大廚Sam Kim都會一一教你做！快跟著Sam Kim一起製作簡單易做的料理，享受下廚的樂趣！</desc>
-	</programme>
-	<programme channel="5518" start="20260814085500 +0000" stop="20260814102500 +0000">
+	<programme channel="5518" start="20260814084500 +0000" stop="20260814101500 +0000">
 		<title>宇宙年糕店 / Space Rice Cake</title>
 		<desc>《蹦蹦地球娛樂室》的衍生節目，以全新的背景－年糕店為舞台，成員們將再次集結，展現不一樣的化學反應和綜藝魅力。</desc>
 	</programme>
-	<programme channel="5518" start="20260814102500 +0000" stop="20260814115500 +0000">
+	<programme channel="5518" start="20260814101500 +0000" stop="20260814115500 +0000">
 		<title>宇宙年糕店 / Space Rice Cake Episode 2</title>
 		<desc>《蹦蹦地球娛樂室》的衍生節目，以全新的背景－年糕店為舞台，成員們將再次集結，展現不一樣的化學反應和綜藝魅力。</desc>
 	</programme>
@@ -71905,17 +72181,21 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 		<title>秘戀稽核中 / Filing for Love Episode 12</title>
 		<desc>原本毫無交集的兩人，在調查職場不當行為的過程中，從敵對到互信，最終意外墜入愛河。</desc>
 	</programme>
-	<programme channel="5518" start="20260815042000 +0000" stop="20260815055000 +0000">
+	<programme channel="5518" start="20260815042000 +0000" stop="20260815061000 +0000">
 		<title>宇宙年糕店 / Space Rice Cake Episode 2</title>
 		<desc>《蹦蹦地球娛樂室》的衍生節目，以全新的背景－年糕店為舞台，成員們將再次集結，展現不一樣的化學反應和綜藝魅力。</desc>
 	</programme>
-	<programme channel="5518" start="20260815055000 +0000" stop="20260815071000 +0000">
+	<programme channel="5518" start="20260815061000 +0000" stop="20260815073000 +0000">
 		<title>柳先生的美食遊學團 / Mr. Eo's Food World Tour Episode 7</title>
 		<desc>柳秀榮、尹敬浩與基賢走遍世界各地品嚐在地美食、並挑戰完美重現獨特風味</desc>
 	</programme>
-	<programme channel="5518" start="20260815071000 +0000" stop="20260815080500 +0000">
-		<title>慢遊韓國鄉村 / Walking Through The Village Episode 10</title>
-		<desc>演員具本承帶大家慢遊江畔的韓國鄉村，感受當地的溫暖和純淨，並展示沿江村莊的歷史與風土人情 。</desc>
+	<programme channel="5518" start="20260815073000 +0000" stop="20260815074500 +0000">
+		<title>Sam Kim名廚煮意 / You Can Cook With Sam Kim Episode 8</title>
+		<desc>從意大利面到西班牙料理，從主菜到甜品，大廚Sam Kim都會一一教你做！快跟著Sam Kim一起製作簡單易做的料理，享受下廚的樂趣！</desc>
+	</programme>
+	<programme channel="5518" start="20260815074500 +0000" stop="20260815080500 +0000">
+		<title>Sam Kim名廚煮意 / You Can Cook With Sam Kim Episode 9</title>
+		<desc>從意大利面到西班牙料理，從主菜到甜品，大廚Sam Kim都會一一教你做！快跟著Sam Kim一起製作簡單易做的料理，享受下廚的樂趣！</desc>
 	</programme>
 	<programme channel="5518" start="20260815080500 +0000" stop="20260815095500 +0000">
 		<title>KILL IT：衣決高下 / KILL IT: Style Creator Showdown Episode 10</title>
@@ -71929,47 +72209,43 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 		<title>秘戀稽核中 / Filing for Love Episode 12</title>
 		<desc>原本毫無交集的兩人，在調查職場不當行為的過程中，從敵對到互信，最終意外墜入愛河。</desc>
 	</programme>
-	<programme channel="5518" start="20260815131500 +0000" stop="20260815151500 +0000">
+	<programme channel="5518" start="20260815131500 +0000" stop="20260815152500 +0000">
 		<title>姐姐們的產地直送3 / Fresh Off the Sea 3 Episode 2</title>
 		<desc>成員們前往新的地點體驗漁村生活，透過海邊工作、烹飪當季食材料理，記錄大家一同勞動與日常互動的溫暖過程。</desc>
 	</programme>
-	<programme channel="5518" start="20260815151500 +0000" stop="20260815164500 +0000">
+	<programme channel="5518" start="20260815152500 +0000" stop="20260815171500 +0000">
 		<title>宇宙年糕店 / Space Rice Cake Episode 2</title>
 		<desc>《蹦蹦地球娛樂室》的衍生節目，以全新的背景－年糕店為舞台，成員們將再次集結，展現不一樣的化學反應和綜藝魅力。</desc>
 	</programme>
-	<programme channel="5518" start="20260815164500 +0000" stop="20260815184000 +0000">
+	<programme channel="5518" start="20260815171500 +0000" stop="20260815191500 +0000">
 		<title>KILL IT：衣決高下 / KILL IT: Style Creator Showdown Episode 10</title>
 		<desc>100位女性參與激烈的時尚生存戰，爭奪成為全球K-fashion新一代的領頭羊。</desc>
 	</programme>
-	<programme channel="5518" start="20260815184000 +0000" stop="20260815190000 +0000">
-		<title>Sam Kim名廚煮意 / You Can Cook With Sam Kim Episode 17</title>
-		<desc>從意大利面到西班牙料理，從主菜到甜品，大廚Sam Kim都會一一教你做！快跟著Sam Kim一起製作簡單易做的料理，享受下廚的樂趣！</desc>
+	<programme channel="5518" start="20260815191500 +0000" stop="20260815201500 +0000">
+		<title>慢遊韓國鄉村 / Walking Through The Village Episode 10</title>
+		<desc>演員具本承帶大家慢遊江畔的韓國鄉村，感受當地的溫暖和純淨，並展示沿江村莊的歷史與風土人情 。</desc>
 	</programme>
-	<programme channel="5518" start="20260815190000 +0000" stop="20260815202000 +0000">
-		<title>柳先生的美食遊學團 / Mr. Eo's Food World Tour Episode 7</title>
-		<desc>柳秀榮、尹敬浩與基賢走遍世界各地品嚐在地美食、並挑戰完美重現獨特風味</desc>
-	</programme>
-	<programme channel="5518" start="20260815202000 +0000" stop="20260815220000 +0000">
+	<programme channel="5518" start="20260815201500 +0000" stop="20260815220000 +0000">
 		<title>街舞女王 - 國際戰 / World of Street Woman Fighter Episode 7</title>
 		<desc>韓國大熱街舞系列載譽歸來！全新賽制將決定6隊來自世界各地的女子舞團中，冠軍寶座花落誰家！</desc>
 	</programme>
-	<programme channel="5518" start="20260815220000 +0000" stop="20260815223000 +0000">
-		<title>燦盛這料理 / Chansung's Cooking Episode 9</title>
-		<desc>2PM燦盛將帶你探索不同餐廳、嚐遍人氣料理，並以創意方式把食譜重新演繹！</desc>
+	<programme channel="5518" start="20260815220000 +0000" stop="20260815221500 +0000">
+		<title>Sam Kim名廚煮意 / You Can Cook With Sam Kim Episode 8</title>
+		<desc>從意大利面到西班牙料理，從主菜到甜品，大廚Sam Kim都會一一教你做！快跟著Sam Kim一起製作簡單易做的料理，享受下廚的樂趣！</desc>
 	</programme>
-	<programme channel="5518" start="20260815223000 +0000" stop="20260816002500 +0000">
+	<programme channel="5518" start="20260815221500 +0000" stop="20260816001500 +0000">
 		<title>第六感：趣遊都市 / Sixth Sense: City Tour Episode 5</title>
 		<desc>保證驚喜反轉的＜第六感＞系列以新陣容強勢回歸，準備好和出演者們一起分辨真實與虛假吧！</desc>
 	</programme>
-	<programme channel="5518" start="20260816002500 +0000" stop="20260816014000 +0000">
+	<programme channel="5518" start="20260816001500 +0000" stop="20260816013000 +0000">
 		<title>秘戀稽核中 / Filing for Love Episode 11</title>
 		<desc>原本毫無交集的兩人，在調查職場不當行為的過程中，從敵對到互信，最終意外墜入愛河。</desc>
 	</programme>
-	<programme channel="5518" start="20260816014000 +0000" stop="20260816030000 +0000">
+	<programme channel="5518" start="20260816013000 +0000" stop="20260816025000 +0000">
 		<title>秘戀稽核中 / Filing for Love Episode 12</title>
 		<desc>原本毫無交集的兩人，在調查職場不當行為的過程中，從敵對到互信，最終意外墜入愛河。</desc>
 	</programme>
-	<programme channel="5518" start="20260816030000 +0000" stop="20260816050000 +0000">
+	<programme channel="5518" start="20260816025000 +0000" stop="20260816050000 +0000">
 		<title>姐姐們的產地直送3 / Fresh Off the Sea 3 Episode 2</title>
 		<desc>成員們前往新的地點體驗漁村生活，透過海邊工作、烹飪當季食材料理，記錄大家一同勞動與日常互動的溫暖過程。</desc>
 	</programme>
@@ -71981,13 +72257,9 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 		<title>宇宙年糕店 / Space Rice Cake</title>
 		<desc>《蹦蹦地球娛樂室》的衍生節目，以全新的背景－年糕店為舞台，成員們將再次集結，展現不一樣的化學反應和綜藝魅力。</desc>
 	</programme>
-	<programme channel="5518" start="20260816075000 +0000" stop="20260816092000 +0000">
+	<programme channel="5518" start="20260816075000 +0000" stop="20260816094000 +0000">
 		<title>宇宙年糕店 / Space Rice Cake Episode 2</title>
 		<desc>《蹦蹦地球娛樂室》的衍生節目，以全新的背景－年糕店為舞台，成員們將再次集結，展現不一樣的化學反應和綜藝魅力。</desc>
-	</programme>
-	<programme channel="5518" start="20260816092000 +0000" stop="20260816094000 +0000">
-		<title>Sam Kim名廚煮意 / You Can Cook With Sam Kim Episode 9</title>
-		<desc>從意大利面到西班牙料理，從主菜到甜品，大廚Sam Kim都會一一教你做！快跟著Sam Kim一起製作簡單易做的料理，享受下廚的樂趣！</desc>
 	</programme>
 	<programme channel="5518" start="20260816094000 +0000" stop="20260816113000 +0000">
 		<title>KILL IT：衣決高下 / KILL IT: Style Creator Showdown Episode 10</title>
@@ -72041,23 +72313,19 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 		<title>菜鳥伙房兵 / The Legend of Kitchen Soldier Episode 8</title>
 		<desc>拋下步槍、拿起菜刀！二等兵姜聖宰利用神祕的遊戲任務系統，在軍中蛻變成傳奇的伙房兵。</desc>
 	</programme>
-	<programme channel="5518" start="20260817052000 +0000" stop="20260817072000 +0000">
+	<programme channel="5518" start="20260817052000 +0000" stop="20260817073000 +0000">
 		<title>姐姐們的產地直送3 / Fresh Off the Sea 3 Episode 2</title>
 		<desc>成員們前往新的地點體驗漁村生活，透過海邊工作、烹飪當季食材料理，記錄大家一同勞動與日常互動的溫暖過程。</desc>
 	</programme>
-	<programme channel="5518" start="20260817072000 +0000" stop="20260817083500 +0000">
+	<programme channel="5518" start="20260817073000 +0000" stop="20260817084500 +0000">
 		<title>柳先生的美食遊學團 / Mr. Eo's Food World Tour Episode 6</title>
 		<desc>柳秀榮、尹敬浩與基賢走遍世界各地品嚐在地美食、並挑戰完美重現獨特風味</desc>
 	</programme>
-	<programme channel="5518" start="20260817083500 +0000" stop="20260817095500 +0000">
+	<programme channel="5518" start="20260817084500 +0000" stop="20260817101000 +0000">
 		<title>柳先生的美食遊學團 / Mr. Eo's Food World Tour Episode 7</title>
 		<desc>柳秀榮、尹敬浩與基賢走遍世界各地品嚐在地美食、並挑戰完美重現獨特風味</desc>
 	</programme>
-	<programme channel="5518" start="20260817095500 +0000" stop="20260817102500 +0000">
-		<title>燦盛這料理 / Chansung's Cooking Episode 10</title>
-		<desc>2PM燦盛將帶你探索不同餐廳、嚐遍人氣料理，並以創意方式把食譜重新演繹！</desc>
-	</programme>
-	<programme channel="5518" start="20260817102500 +0000" stop="20260817115500 +0000">
+	<programme channel="5518" start="20260817101000 +0000" stop="20260817115500 +0000">
 		<title>宇宙年糕店 / Space Rice Cake Episode 2</title>
 		<desc>《蹦蹦地球娛樂室》的衍生節目，以全新的背景－年糕店為舞台，成員們將再次集結，展現不一樣的化學反應和綜藝魅力。</desc>
 	</programme>
@@ -85349,11 +85617,11 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 		<title>Chansung's Cooking Episode 8</title>
 		<desc>2PM's Chansung will explore different restaurants, taste popular menus and recreate them with his own recipes!</desc>
 	</programme>
-	<programme channel="5619" start="20260812220000 +0000" stop="20260812223000 +0000">
-		<title>Chansung's Cooking Episode 9</title>
-		<desc>2PM's Chansung will explore different restaurants, taste popular menus and recreate them with his own recipes!</desc>
+	<programme channel="5619" start="20260812220000 +0000" stop="20260812222000 +0000">
+		<title>You Can Cook With Sam Kim Episode 16</title>
+		<desc>Star chef Sam Kim will teach you how to make all kinds of delicious dishes – from Italian pasta, Spanish food to desserts! Follow his easy recipes and enjoy cooking!</desc>
 	</programme>
-	<programme channel="5619" start="20260812223000 +0000" stop="20260813003000 +0000">
+	<programme channel="5619" start="20260812222000 +0000" stop="20260813003000 +0000">
 		<title>Fresh Off the Sea 3 Episode 2</title>
 		<desc>The cast travels to new locations to experience seaside life, working at local jobs and cooking authentic meals with fresh, seasonal ingredients in this heartwarming reality show.</desc>
 	</programme>
@@ -85381,11 +85649,11 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 		<title>KILL IT: Style Creator Showdown Episode 9</title>
 		<desc>100 women compete in this high-stakes survival show to become the next global K-fashion icon.</desc>
 	</programme>
-	<programme channel="5619" start="20260813091500 +0000" stop="20260813111000 +0000">
-		<title>Fresh Off the Sea 3</title>
-		<desc>The cast travels to new locations to experience seaside life, working at local jobs and cooking authentic meals with fresh, seasonal ingredients in this heartwarming reality show.</desc>
+	<programme channel="5619" start="20260813091500 +0000" stop="20260813110000 +0000">
+		<title>World of Street Woman Fighter Episode 7</title>
+		<desc>The &lt;Street Woman Fighter&gt; series make a triumphant return on a global stage! 6 dance crews from different countries set to compete in an upgraded match to win the title of International Champion!</desc>
 	</programme>
-	<programme channel="5619" start="20260813111000 +0000" stop="20260813131000 +0000">
+	<programme channel="5619" start="20260813110000 +0000" stop="20260813131000 +0000">
 		<title>Fresh Off the Sea 3 Episode 2</title>
 		<desc>The cast travels to new locations to experience seaside life, working at local jobs and cooking authentic meals with fresh, seasonal ingredients in this heartwarming reality show.</desc>
 	</programme>
@@ -85393,27 +85661,27 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 		<title>Filing for Love Episode 11</title>
 		<desc>Tasked with uncovering misconduct, audit ace Noh Ki-jun clashes with enigmatic boss Joo In-ah, but as secrets unfold, suspicion turns into fragile trust—and unexpected love.</desc>
 	</programme>
-	<programme channel="5619" start="20260813143000 +0000" stop="20260813160000 +0000">
+	<programme channel="5619" start="20260813143000 +0000" stop="20260813162000 +0000">
 		<title>Space Rice Cake Episode 2</title>
 		<desc>A spin-off of Earth Arcade where the members reunite to run a rice cake shop, showcasing their unique chemistry and variety show charm in a brand-new setting.</desc>
 	</programme>
-	<programme channel="5619" start="20260813160000 +0000" stop="20260813171000 +0000">
+	<programme channel="5619" start="20260813162000 +0000" stop="20260813173000 +0000">
 		<title>The Legend of Kitchen Soldier Episode 7</title>
 		<desc>Instead of a rifle, he grabs a kitchen knife! Private Kang Seong-jae uses a mysterious gaming quest system to transform into a legendary military cook soldier.</desc>
 	</programme>
-	<programme channel="5619" start="20260813171000 +0000" stop="20260813182000 +0000">
+	<programme channel="5619" start="20260813173000 +0000" stop="20260813184000 +0000">
 		<title>The Legend of Kitchen Soldier Episode 8</title>
 		<desc>Instead of a rifle, he grabs a kitchen knife! Private Kang Seong-jae uses a mysterious gaming quest system to transform into a legendary military cook soldier.</desc>
 	</programme>
-	<programme channel="5619" start="20260813182000 +0000" stop="20260813191500 +0000">
-		<title>Walking Through The Village Episode 10</title>
-		<desc>Actor Gu Bon-seung shows the warmth and purity of life in the village along the river, and presents how new history was made and became one's memory.</desc>
+	<programme channel="5619" start="20260813184000 +0000" stop="20260813185500 +0000">
+		<title>You Can Cook With Sam Kim Episode 9</title>
+		<desc>Star chef Sam Kim will teach you how to make all kinds of delicious dishes – from Italian pasta, Spanish food to desserts! Follow his easy recipes and enjoy cooking!</desc>
 	</programme>
-	<programme channel="5619" start="20260813191500 +0000" stop="20260813203000 +0000">
+	<programme channel="5619" start="20260813185500 +0000" stop="20260813201000 +0000">
 		<title>Filing for Love Episode 11</title>
 		<desc>Tasked with uncovering misconduct, audit ace Noh Ki-jun clashes with enigmatic boss Joo In-ah, but as secrets unfold, suspicion turns into fragile trust—and unexpected love.</desc>
 	</programme>
-	<programme channel="5619" start="20260813203000 +0000" stop="20260813220000 +0000">
+	<programme channel="5619" start="20260813201000 +0000" stop="20260813220000 +0000">
 		<title>Space Rice Cake Episode 2</title>
 		<desc>A spin-off of Earth Arcade where the members reunite to run a rice cake shop, showcasing their unique chemistry and variety show charm in a brand-new setting.</desc>
 	</programme>
@@ -85437,23 +85705,19 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 		<title>The Legend of Kitchen Soldier Episode 7</title>
 		<desc>Instead of a rifle, he grabs a kitchen knife! Private Kang Seong-jae uses a mysterious gaming quest system to transform into a legendary military cook soldier.</desc>
 	</programme>
-	<programme channel="5619" start="20260814052500 +0000" stop="20260814064000 +0000">
+	<programme channel="5619" start="20260814052500 +0000" stop="20260814063500 +0000">
 		<title>The Legend of Kitchen Soldier Episode 8</title>
 		<desc>Instead of a rifle, he grabs a kitchen knife! Private Kang Seong-jae uses a mysterious gaming quest system to transform into a legendary military cook soldier.</desc>
 	</programme>
-	<programme channel="5619" start="20260814064000 +0000" stop="20260814084000 +0000">
+	<programme channel="5619" start="20260814063500 +0000" stop="20260814084500 +0000">
 		<title>Fresh Off the Sea 3 Episode 2</title>
 		<desc>The cast travels to new locations to experience seaside life, working at local jobs and cooking authentic meals with fresh, seasonal ingredients in this heartwarming reality show.</desc>
 	</programme>
-	<programme channel="5619" start="20260814084000 +0000" stop="20260814085500 +0000">
-		<title>You Can Cook With Sam Kim Episode 9</title>
-		<desc>Star chef Sam Kim will teach you how to make all kinds of delicious dishes – from Italian pasta, Spanish food to desserts! Follow his easy recipes and enjoy cooking!</desc>
-	</programme>
-	<programme channel="5619" start="20260814085500 +0000" stop="20260814102500 +0000">
+	<programme channel="5619" start="20260814084500 +0000" stop="20260814101500 +0000">
 		<title>Space Rice Cake</title>
 		<desc>A spin-off of Earth Arcade where the members reunite to run a rice cake shop, showcasing their unique chemistry and variety show charm in a brand-new setting.</desc>
 	</programme>
-	<programme channel="5619" start="20260814102500 +0000" stop="20260814115500 +0000">
+	<programme channel="5619" start="20260814101500 +0000" stop="20260814115500 +0000">
 		<title>Space Rice Cake Episode 2</title>
 		<desc>A spin-off of Earth Arcade where the members reunite to run a rice cake shop, showcasing their unique chemistry and variety show charm in a brand-new setting.</desc>
 	</programme>
@@ -85509,17 +85773,21 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 		<title>Filing for Love Episode 12</title>
 		<desc>Tasked with uncovering misconduct, audit ace Noh Ki-jun clashes with enigmatic boss Joo In-ah, but as secrets unfold, suspicion turns into fragile trust—and unexpected love.</desc>
 	</programme>
-	<programme channel="5619" start="20260815042000 +0000" stop="20260815055000 +0000">
+	<programme channel="5619" start="20260815042000 +0000" stop="20260815061000 +0000">
 		<title>Space Rice Cake Episode 2</title>
 		<desc>A spin-off of Earth Arcade where the members reunite to run a rice cake shop, showcasing their unique chemistry and variety show charm in a brand-new setting.</desc>
 	</programme>
-	<programme channel="5619" start="20260815055000 +0000" stop="20260815071000 +0000">
+	<programme channel="5619" start="20260815061000 +0000" stop="20260815073000 +0000">
 		<title>Mr. Eo's Food World Tour Episode 7</title>
 		<desc>Ryu Soo-young, Yoon Kyung-ho and Kihyun set out into the unknown for new recipes, cooking up one-of-a-kind dishes along the way.</desc>
 	</programme>
-	<programme channel="5619" start="20260815071000 +0000" stop="20260815080500 +0000">
-		<title>Walking Through The Village Episode 10</title>
-		<desc>Actor Gu Bon-seung shows the warmth and purity of life in the village along the river, and presents how new history was made and became one's memory.</desc>
+	<programme channel="5619" start="20260815073000 +0000" stop="20260815074500 +0000">
+		<title>You Can Cook With Sam Kim Episode 8</title>
+		<desc>Star chef Sam Kim will teach you how to make all kinds of delicious dishes – from Italian pasta, Spanish food to desserts! Follow his easy recipes and enjoy cooking!</desc>
+	</programme>
+	<programme channel="5619" start="20260815074500 +0000" stop="20260815080500 +0000">
+		<title>You Can Cook With Sam Kim Episode 9</title>
+		<desc>Star chef Sam Kim will teach you how to make all kinds of delicious dishes – from Italian pasta, Spanish food to desserts! Follow his easy recipes and enjoy cooking!</desc>
 	</programme>
 	<programme channel="5619" start="20260815080500 +0000" stop="20260815095500 +0000">
 		<title>KILL IT: Style Creator Showdown Episode 10</title>
@@ -85533,47 +85801,43 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 		<title>Filing for Love Episode 12</title>
 		<desc>Tasked with uncovering misconduct, audit ace Noh Ki-jun clashes with enigmatic boss Joo In-ah, but as secrets unfold, suspicion turns into fragile trust—and unexpected love.</desc>
 	</programme>
-	<programme channel="5619" start="20260815131500 +0000" stop="20260815151500 +0000">
+	<programme channel="5619" start="20260815131500 +0000" stop="20260815152500 +0000">
 		<title>Fresh Off the Sea 3 Episode 2</title>
 		<desc>The cast travels to new locations to experience seaside life, working at local jobs and cooking authentic meals with fresh, seasonal ingredients in this heartwarming reality show.</desc>
 	</programme>
-	<programme channel="5619" start="20260815151500 +0000" stop="20260815164500 +0000">
+	<programme channel="5619" start="20260815152500 +0000" stop="20260815171500 +0000">
 		<title>Space Rice Cake Episode 2</title>
 		<desc>A spin-off of Earth Arcade where the members reunite to run a rice cake shop, showcasing their unique chemistry and variety show charm in a brand-new setting.</desc>
 	</programme>
-	<programme channel="5619" start="20260815164500 +0000" stop="20260815184000 +0000">
+	<programme channel="5619" start="20260815171500 +0000" stop="20260815191500 +0000">
 		<title>KILL IT: Style Creator Showdown Episode 10</title>
 		<desc>100 women compete in this high-stakes survival show to become the next global K-fashion icon.</desc>
 	</programme>
-	<programme channel="5619" start="20260815184000 +0000" stop="20260815190000 +0000">
-		<title>You Can Cook With Sam Kim Episode 17</title>
-		<desc>Star chef Sam Kim will teach you how to make all kinds of delicious dishes – from Italian pasta, Spanish food to desserts! Follow his easy recipes and enjoy cooking!</desc>
+	<programme channel="5619" start="20260815191500 +0000" stop="20260815201500 +0000">
+		<title>Walking Through The Village Episode 10</title>
+		<desc>Actor Gu Bon-seung shows the warmth and purity of life in the village along the river, and presents how new history was made and became one's memory.</desc>
 	</programme>
-	<programme channel="5619" start="20260815190000 +0000" stop="20260815202000 +0000">
-		<title>Mr. Eo's Food World Tour Episode 7</title>
-		<desc>Ryu Soo-young, Yoon Kyung-ho and Kihyun set out into the unknown for new recipes, cooking up one-of-a-kind dishes along the way.</desc>
-	</programme>
-	<programme channel="5619" start="20260815202000 +0000" stop="20260815220000 +0000">
+	<programme channel="5619" start="20260815201500 +0000" stop="20260815220000 +0000">
 		<title>World of Street Woman Fighter Episode 7</title>
 		<desc>The &lt;Street Woman Fighter&gt; series make a triumphant return on a global stage! 6 dance crews from different countries set to compete in an upgraded match to win the title of International Champion!</desc>
 	</programme>
-	<programme channel="5619" start="20260815220000 +0000" stop="20260815223000 +0000">
-		<title>Chansung's Cooking Episode 9</title>
-		<desc>2PM's Chansung will explore different restaurants, taste popular menus and recreate them with his own recipes!</desc>
+	<programme channel="5619" start="20260815220000 +0000" stop="20260815221500 +0000">
+		<title>You Can Cook With Sam Kim Episode 8</title>
+		<desc>Star chef Sam Kim will teach you how to make all kinds of delicious dishes – from Italian pasta, Spanish food to desserts! Follow his easy recipes and enjoy cooking!</desc>
 	</programme>
-	<programme channel="5619" start="20260815223000 +0000" stop="20260816002500 +0000">
+	<programme channel="5619" start="20260815221500 +0000" stop="20260816001500 +0000">
 		<title>Sixth Sense: City Tour Episode 5</title>
 		<desc>The &lt;Sixth Sense&gt; series which promised surprising twists and fun returns with new casting! Get ready to analyse and identity what is real with them!</desc>
 	</programme>
-	<programme channel="5619" start="20260816002500 +0000" stop="20260816014000 +0000">
+	<programme channel="5619" start="20260816001500 +0000" stop="20260816013000 +0000">
 		<title>Filing for Love Episode 11</title>
 		<desc>Tasked with uncovering misconduct, audit ace Noh Ki-jun clashes with enigmatic boss Joo In-ah, but as secrets unfold, suspicion turns into fragile trust—and unexpected love.</desc>
 	</programme>
-	<programme channel="5619" start="20260816014000 +0000" stop="20260816030000 +0000">
+	<programme channel="5619" start="20260816013000 +0000" stop="20260816025000 +0000">
 		<title>Filing for Love Episode 12</title>
 		<desc>Tasked with uncovering misconduct, audit ace Noh Ki-jun clashes with enigmatic boss Joo In-ah, but as secrets unfold, suspicion turns into fragile trust—and unexpected love.</desc>
 	</programme>
-	<programme channel="5619" start="20260816030000 +0000" stop="20260816050000 +0000">
+	<programme channel="5619" start="20260816025000 +0000" stop="20260816050000 +0000">
 		<title>Fresh Off the Sea 3 Episode 2</title>
 		<desc>The cast travels to new locations to experience seaside life, working at local jobs and cooking authentic meals with fresh, seasonal ingredients in this heartwarming reality show.</desc>
 	</programme>
@@ -85585,13 +85849,9 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 		<title>Space Rice Cake</title>
 		<desc>A spin-off of Earth Arcade where the members reunite to run a rice cake shop, showcasing their unique chemistry and variety show charm in a brand-new setting.</desc>
 	</programme>
-	<programme channel="5619" start="20260816075000 +0000" stop="20260816092000 +0000">
+	<programme channel="5619" start="20260816075000 +0000" stop="20260816094000 +0000">
 		<title>Space Rice Cake Episode 2</title>
 		<desc>A spin-off of Earth Arcade where the members reunite to run a rice cake shop, showcasing their unique chemistry and variety show charm in a brand-new setting.</desc>
-	</programme>
-	<programme channel="5619" start="20260816092000 +0000" stop="20260816094000 +0000">
-		<title>You Can Cook With Sam Kim Episode 9</title>
-		<desc>Star chef Sam Kim will teach you how to make all kinds of delicious dishes – from Italian pasta, Spanish food to desserts! Follow his easy recipes and enjoy cooking!</desc>
 	</programme>
 	<programme channel="5619" start="20260816094000 +0000" stop="20260816113000 +0000">
 		<title>KILL IT: Style Creator Showdown Episode 10</title>
@@ -85645,23 +85905,19 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 		<title>The Legend of Kitchen Soldier Episode 8</title>
 		<desc>Instead of a rifle, he grabs a kitchen knife! Private Kang Seong-jae uses a mysterious gaming quest system to transform into a legendary military cook soldier.</desc>
 	</programme>
-	<programme channel="5619" start="20260817052000 +0000" stop="20260817072000 +0000">
+	<programme channel="5619" start="20260817052000 +0000" stop="20260817073000 +0000">
 		<title>Fresh Off the Sea 3 Episode 2</title>
 		<desc>The cast travels to new locations to experience seaside life, working at local jobs and cooking authentic meals with fresh, seasonal ingredients in this heartwarming reality show.</desc>
 	</programme>
-	<programme channel="5619" start="20260817072000 +0000" stop="20260817083500 +0000">
+	<programme channel="5619" start="20260817073000 +0000" stop="20260817084500 +0000">
 		<title>Mr. Eo's Food World Tour Episode 6</title>
 		<desc>Ryu Soo-young, Yoon Kyung-ho and Kihyun set out into the unknown for new recipes, cooking up one-of-a-kind dishes along the way.</desc>
 	</programme>
-	<programme channel="5619" start="20260817083500 +0000" stop="20260817095500 +0000">
+	<programme channel="5619" start="20260817084500 +0000" stop="20260817101000 +0000">
 		<title>Mr. Eo's Food World Tour Episode 7</title>
 		<desc>Ryu Soo-young, Yoon Kyung-ho and Kihyun set out into the unknown for new recipes, cooking up one-of-a-kind dishes along the way.</desc>
 	</programme>
-	<programme channel="5619" start="20260817095500 +0000" stop="20260817102500 +0000">
-		<title>Chansung's Cooking Episode 10</title>
-		<desc>2PM's Chansung will explore different restaurants, taste popular menus and recreate them with his own recipes!</desc>
-	</programme>
-	<programme channel="5619" start="20260817102500 +0000" stop="20260817115500 +0000">
+	<programme channel="5619" start="20260817101000 +0000" stop="20260817115500 +0000">
 		<title>Space Rice Cake Episode 2</title>
 		<desc>A spin-off of Earth Arcade where the members reunite to run a rice cake shop, showcasing their unique chemistry and variety show charm in a brand-new setting.</desc>
 	</programme>
@@ -97298,144 +97554,140 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 		<desc>Pushpa Patel, a small entrepreneur and an endearing mother of three faces life's challenges with resilience and courage. Her constant pursuit of living a good life serves as an inspiration to many.</desc>
 	</programme>
 	<programme channel="5648" start="20260817003000 +0000" stop="20260817005500 +0000">
-		<title>Pushpa Impossible Episode 1025</title>
+		<title>Hui Gumm Yaadein Episode 113</title>
+		<desc>Dr. Dev Mehta, a top surgeon who can't remember his own skills &amp; past 8 years of life. now, forced to restart as an intern and have to re-learn medicine and face the family he no longer knows</desc>
+	</programme>
+	<programme channel="5648" start="20260817005500 +0000" stop="20260817012100 +0000">
+		<title>Pushpa Impossible Episode 1311</title>
 		<desc>Pushpa Patel, a small entrepreneur and an endearing mother of three faces life's challenges with resilience and courage. Her constant pursuit of living a good life serves as an inspiration to many.</desc>
 	</programme>
-	<programme channel="5648" start="20260817005500 +0000" stop="20260817011900 +0000">
-		<title>Taarak Mehta Ka Ooltah Chashmah Episode 4503</title>
+	<programme channel="5648" start="20260817012100 +0000" stop="20260817014700 +0000">
+		<title>Taarak Mehta Ka Ooltah Chashmah Episode 4789</title>
 		<desc>The lively and diverse residents of Gokuldham Housing Society live together as one big family. They navigate everyday challenges, celebrate festivals and find joy in each other's company.</desc>
 	</programme>
-	<programme channel="5648" start="20260817011900 +0000" stop="20260817014700 +0000">
-		<title>Shrimad Ramayan Episode 6</title>
+	<programme channel="5648" start="20260817014700 +0000" stop="20260817021300 +0000">
+		<title>Shrimad Ramayan Episode 239</title>
 		<desc>An epic tale that explores the eternal battle between good and evil, highlighting the quest for righteousness and spiritual awakening</desc>
 	</programme>
-	<programme channel="5648" start="20260817014700 +0000" stop="20260817021100 +0000">
-		<title>Hui Gumm Yaadein Episode 85</title>
-		<desc>Dr. Dev Mehta, a top surgeon who can't remember his own skills &amp; past 8 years of life. now, forced to restart as an intern and have to re-learn medicine and face the family he no longer knows</desc>
-	</programme>
-	<programme channel="5648" start="20260817021100 +0000" stop="20260817023600 +0000">
-		<title>Pushpa Impossible Episode 1025</title>
-		<desc>Pushpa Patel, a small entrepreneur and an endearing mother of three faces life's challenges with resilience and courage. Her constant pursuit of living a good life serves as an inspiration to many.</desc>
-	</programme>
-	<programme channel="5648" start="20260817023600 +0000" stop="20260817030000 +0000">
-		<title>Hastinapur Ke Veer Episode 25</title>
-		<desc>The untold early years of the Mahabharat's two iconic families - the five righteous Pandava brothers and the ambitious hundred Kaurava brothers growing up in the kingdom of ancient Hastinapur.</desc>
-	</programme>
-	<programme channel="5648" start="20260817030000 +0000" stop="20260817031900 +0000">
-		<title>Taarak Mehta Ka Ooltah Chashmah Episode 1299</title>
-		<desc>The lively and diverse residents of Gokuldham Housing Society live together as one big family. They navigate everyday challenges, celebrate festivals and find joy in each other's company.</desc>
-	</programme>
-	<programme channel="5648" start="20260817031900 +0000" stop="20260817034100 +0000">
-		<title>Taarak Mehta Ka Ooltah Chashmah Episode 1300</title>
-		<desc>The lively and diverse residents of Gokuldham Housing Society live together as one big family. They navigate everyday challenges, celebrate festivals and find joy in each other's company.</desc>
-	</programme>
-	<programme channel="5648" start="20260817034100 +0000" stop="20260817040000 +0000">
-		<title>Taarak Mehta Ka Ooltah Chashmah Episode 1301</title>
-		<desc>The lively and diverse residents of Gokuldham Housing Society live together as one big family. They navigate everyday challenges, celebrate festivals and find joy in each other's company.</desc>
-	</programme>
-	<programme channel="5648" start="20260817040000 +0000" stop="20260817042400 +0000">
-		<title>Taarak Mehta Ka Ooltah Chashmah Episode 1302</title>
-		<desc>The lively and diverse residents of Gokuldham Housing Society live together as one big family. They navigate everyday challenges, celebrate festivals and find joy in each other's company.</desc>
-	</programme>
-	<programme channel="5648" start="20260817042400 +0000" stop="20260817044500 +0000">
-		<title>Taarak Mehta Ka Ooltah Chashmah Episode 1303</title>
-		<desc>The lively and diverse residents of Gokuldham Housing Society live together as one big family. They navigate everyday challenges, celebrate festivals and find joy in each other's company.</desc>
-	</programme>
-	<programme channel="5648" start="20260817044500 +0000" stop="20260817050600 +0000">
-		<title>Taarak Mehta Ka Ooltah Chashmah Episode 1304</title>
-		<desc>The lively and diverse residents of Gokuldham Housing Society live together as one big family. They navigate everyday challenges, celebrate festivals and find joy in each other's company.</desc>
-	</programme>
-	<programme channel="5648" start="20260817050600 +0000" stop="20260817052800 +0000">
-		<title>Taarak Mehta Ka Ooltah Chashmah Episode 1305</title>
-		<desc>The lively and diverse residents of Gokuldham Housing Society live together as one big family. They navigate everyday challenges, celebrate festivals and find joy in each other's company.</desc>
-	</programme>
-	<programme channel="5648" start="20260817052800 +0000" stop="20260817055300 +0000">
-		<title>Pushpa Impossible Episode 1025</title>
-		<desc>Pushpa Patel, a small entrepreneur and an endearing mother of three faces life's challenges with resilience and courage. Her constant pursuit of living a good life serves as an inspiration to many.</desc>
-	</programme>
-	<programme channel="5648" start="20260817055300 +0000" stop="20260817061800 +0000">
-		<title>Hui Gumm Yaadein Episode 85</title>
-		<desc>Dr. Dev Mehta, a top surgeon who can't remember his own skills &amp; past 8 years of life. now, forced to restart as an intern and have to re-learn medicine and face the family he no longer knows</desc>
-	</programme>
-	<programme channel="5648" start="20260817061800 +0000" stop="20260817064700 +0000">
-		<title>Shrimad Ramayan Episode 6</title>
+	<programme channel="5648" start="20260817021300 +0000" stop="20260817023900 +0000">
+		<title>Shrimad Ramayan Episode 240</title>
 		<desc>An epic tale that explores the eternal battle between good and evil, highlighting the quest for righteousness and spiritual awakening</desc>
 	</programme>
-	<programme channel="5648" start="20260817064700 +0000" stop="20260817071100 +0000">
-		<title>Hastinapur Ke Veer Episode 25</title>
+	<programme channel="5648" start="20260817023900 +0000" stop="20260817030000 +0000">
+		<title>Hastinapur Ke Veer Episode 64</title>
 		<desc>The untold early years of the Mahabharat's two iconic families - the five righteous Pandava brothers and the ambitious hundred Kaurava brothers growing up in the kingdom of ancient Hastinapur.</desc>
 	</programme>
-	<programme channel="5648" start="20260817071100 +0000" stop="20260817073600 +0000">
-		<title>Taarak Mehta Ka Ooltah Chashmah Episode 4503</title>
+	<programme channel="5648" start="20260817030000 +0000" stop="20260817031400 +0000">
+		<title>Taarak Mehta Ka Ooltah Chashmah Episode 3363</title>
 		<desc>The lively and diverse residents of Gokuldham Housing Society live together as one big family. They navigate everyday challenges, celebrate festivals and find joy in each other's company.</desc>
 	</programme>
-	<programme channel="5648" start="20260817073600 +0000" stop="20260817080200 +0000">
-		<title>Pushpa Impossible Episode 1025</title>
+	<programme channel="5648" start="20260817031400 +0000" stop="20260817033700 +0000">
+		<title>Taarak Mehta Ka Ooltah Chashmah Episode 3364</title>
+		<desc>The lively and diverse residents of Gokuldham Housing Society live together as one big family. They navigate everyday challenges, celebrate festivals and find joy in each other's company.</desc>
+	</programme>
+	<programme channel="5648" start="20260817033700 +0000" stop="20260817040200 +0000">
+		<title>Taarak Mehta Ka Ooltah Chashmah Episode 3365</title>
+		<desc>The lively and diverse residents of Gokuldham Housing Society live together as one big family. They navigate everyday challenges, celebrate festivals and find joy in each other's company.</desc>
+	</programme>
+	<programme channel="5648" start="20260817040200 +0000" stop="20260817043000 +0000">
+		<title>Taarak Mehta Ka Ooltah Chashmah Episode 3366</title>
+		<desc>The lively and diverse residents of Gokuldham Housing Society live together as one big family. They navigate everyday challenges, celebrate festivals and find joy in each other's company.</desc>
+	</programme>
+	<programme channel="5648" start="20260817043000 +0000" stop="20260817045900 +0000">
+		<title>Taarak Mehta Ka Ooltah Chashmah Episode 3367</title>
+		<desc>The lively and diverse residents of Gokuldham Housing Society live together as one big family. They navigate everyday challenges, celebrate festivals and find joy in each other's company.</desc>
+	</programme>
+	<programme channel="5648" start="20260817045900 +0000" stop="20260817053000 +0000">
+		<title>Taarak Mehta Ka Ooltah Chashmah Episode 3368</title>
+		<desc>The lively and diverse residents of Gokuldham Housing Society live together as one big family. They navigate everyday challenges, celebrate festivals and find joy in each other's company.</desc>
+	</programme>
+	<programme channel="5648" start="20260817053000 +0000" stop="20260817055500 +0000">
+		<title>Pushpa Impossible Episode 1311</title>
 		<desc>Pushpa Patel, a small entrepreneur and an endearing mother of three faces life's challenges with resilience and courage. Her constant pursuit of living a good life serves as an inspiration to many.</desc>
 	</programme>
-	<programme channel="5648" start="20260817080200 +0000" stop="20260817082800 +0000">
-		<title>Hui Gumm Yaadein Episode 85</title>
+	<programme channel="5648" start="20260817055500 +0000" stop="20260817062100 +0000">
+		<title>Hui Gumm Yaadein Episode 113</title>
 		<desc>Dr. Dev Mehta, a top surgeon who can't remember his own skills &amp; past 8 years of life. now, forced to restart as an intern and have to re-learn medicine and face the family he no longer knows</desc>
 	</programme>
-	<programme channel="5648" start="20260817082800 +0000" stop="20260817085500 +0000">
-		<title>Hastinapur Ke Veer Episode 25</title>
-		<desc>The untold early years of the Mahabharat's two iconic families - the five righteous Pandava brothers and the ambitious hundred Kaurava brothers growing up in the kingdom of ancient Hastinapur.</desc>
-	</programme>
-	<programme channel="5648" start="20260817085500 +0000" stop="20260817092500 +0000">
-		<title>Shrimad Ramayan Episode 6</title>
+	<programme channel="5648" start="20260817062100 +0000" stop="20260817064700 +0000">
+		<title>Shrimad Ramayan Episode 239</title>
 		<desc>An epic tale that explores the eternal battle between good and evil, highlighting the quest for righteousness and spiritual awakening</desc>
 	</programme>
-	<programme channel="5648" start="20260817092500 +0000" stop="20260817095200 +0000">
-		<title>Taarak Mehta Ka Ooltah Chashmah Episode 4503</title>
-		<desc>The lively and diverse residents of Gokuldham Housing Society live together as one big family. They navigate everyday challenges, celebrate festivals and find joy in each other's company.</desc>
+	<programme channel="5648" start="20260817064700 +0000" stop="20260817071300 +0000">
+		<title>Shrimad Ramayan Episode 240</title>
+		<desc>An epic tale that explores the eternal battle between good and evil, highlighting the quest for righteousness and spiritual awakening</desc>
 	</programme>
-	<programme channel="5648" start="20260817095200 +0000" stop="20260817101700 +0000">
-		<title>Hui Gumm Yaadein Episode 85</title>
-		<desc>Dr. Dev Mehta, a top surgeon who can't remember his own skills &amp; past 8 years of life. now, forced to restart as an intern and have to re-learn medicine and face the family he no longer knows</desc>
+	<programme channel="5648" start="20260817071300 +0000" stop="20260817073900 +0000">
+		<title>Hastinapur Ke Veer Episode 64</title>
+		<desc>The untold early years of the Mahabharat's two iconic families - the five righteous Pandava brothers and the ambitious hundred Kaurava brothers growing up in the kingdom of ancient Hastinapur.</desc>
 	</programme>
-	<programme channel="5648" start="20260817101700 +0000" stop="20260817104400 +0000">
-		<title>Pushpa Impossible Episode 1025</title>
+	<programme channel="5648" start="20260817073900 +0000" stop="20260817080500 +0000">
+		<title>Pushpa Impossible Episode 1311</title>
 		<desc>Pushpa Patel, a small entrepreneur and an endearing mother of three faces life's challenges with resilience and courage. Her constant pursuit of living a good life serves as an inspiration to many.</desc>
 	</programme>
-	<programme channel="5648" start="20260817104400 +0000" stop="20260817110400 +0000">
-		<title>Aladdin - Naam Toh Suna Hoga Episode 422</title>
-		<desc>An Indian remake of the classical tale of Aladdin, a kind-hearted thief who falls in love with Princess Yasmine. His life changes when he befriends a wish-granting Genie</desc>
+	<programme channel="5648" start="20260817080500 +0000" stop="20260817083100 +0000">
+		<title>Taarak Mehta Ka Ooltah Chashmah Episode 4789</title>
+		<desc>The lively and diverse residents of Gokuldham Housing Society live together as one big family. They navigate everyday challenges, celebrate festivals and find joy in each other's company.</desc>
 	</programme>
-	<programme channel="5648" start="20260817110400 +0000" stop="20260817113000 +0000">
-		<title>Hastinapur Ke Veer Episode 25</title>
+	<programme channel="5648" start="20260817083100 +0000" stop="20260817085700 +0000">
+		<title>Shrimad Ramayan Episode 239</title>
+		<desc>An epic tale that explores the eternal battle between good and evil, highlighting the quest for righteousness and spiritual awakening</desc>
+	</programme>
+	<programme channel="5648" start="20260817085700 +0000" stop="20260817092300 +0000">
+		<title>Shrimad Ramayan Episode 240</title>
+		<desc>An epic tale that explores the eternal battle between good and evil, highlighting the quest for righteousness and spiritual awakening</desc>
+	</programme>
+	<programme channel="5648" start="20260817092300 +0000" stop="20260817094900 +0000">
+		<title>Hastinapur Ke Veer Episode 64</title>
 		<desc>The untold early years of the Mahabharat's two iconic families - the five righteous Pandava brothers and the ambitious hundred Kaurava brothers growing up in the kingdom of ancient Hastinapur.</desc>
+	</programme>
+	<programme channel="5648" start="20260817094900 +0000" stop="20260817101500 +0000">
+		<title>Hui Gumm Yaadein Episode 113</title>
+		<desc>Dr. Dev Mehta, a top surgeon who can't remember his own skills &amp; past 8 years of life. now, forced to restart as an intern and have to re-learn medicine and face the family he no longer knows</desc>
+	</programme>
+	<programme channel="5648" start="20260817101500 +0000" stop="20260817104100 +0000">
+		<title>Taarak Mehta Ka Ooltah Chashmah Episode 4789</title>
+		<desc>The lively and diverse residents of Gokuldham Housing Society live together as one big family. They navigate everyday challenges, celebrate festivals and find joy in each other's company.</desc>
+	</programme>
+	<programme channel="5648" start="20260817104100 +0000" stop="20260817110600 +0000">
+		<title>Shrimad Ramayan Episode 239</title>
+		<desc>An epic tale that explores the eternal battle between good and evil, highlighting the quest for righteousness and spiritual awakening</desc>
+	</programme>
+	<programme channel="5648" start="20260817110600 +0000" stop="20260817113000 +0000">
+		<title>Shrimad Ramayan Episode 240</title>
+		<desc>An epic tale that explores the eternal battle between good and evil, highlighting the quest for righteousness and spiritual awakening</desc>
 	</programme>
 	<programme channel="5648" start="20260817113000 +0000" stop="20260817120000 +0000">
-		<title>Hui Gumm Yaadein Episode 86</title>
-		<desc>Dr. Dev Mehta, a top surgeon who can't remember his own skills &amp; past 8 years of life. now, forced to restart as an intern and have to re-learn medicine and face the family he no longer knows</desc>
+		<title>Hastinapur Ke Veer Episode 65</title>
+		<desc>The untold early years of the Mahabharat's two iconic families - the five righteous Pandava brothers and the ambitious hundred Kaurava brothers growing up in the kingdom of ancient Hastinapur.</desc>
 	</programme>
 	<programme channel="5648" start="20260817120000 +0000" stop="20260817123000 +0000">
-		<title>Shrimad Ramayan Episode 7</title>
-		<desc>An epic tale that explores the eternal battle between good and evil, highlighting the quest for righteousness and spiritual awakening</desc>
+		<title>Hui Gumm Yaadein Episode 114</title>
+		<desc>Dr. Dev Mehta, a top surgeon who can't remember his own skills &amp; past 8 years of life. now, forced to restart as an intern and have to re-learn medicine and face the family he no longer knows</desc>
 	</programme>
 	<programme channel="5648" start="20260817123000 +0000" stop="20260817130000 +0000">
-		<title>Taarak Mehta Ka Ooltah Chashmah Episode 4504</title>
+		<title>Taarak Mehta Ka Ooltah Chashmah Episode 4790</title>
 		<desc>The lively and diverse residents of Gokuldham Housing Society live together as one big family. They navigate everyday challenges, celebrate festivals and find joy in each other's company.</desc>
 	</programme>
 	<programme channel="5648" start="20260817130000 +0000" stop="20260817133000 +0000">
-		<title>Hastinapur Ke Veer Episode 26</title>
-		<desc>The untold early years of the Mahabharat's two iconic families - the five righteous Pandava brothers and the ambitious hundred Kaurava brothers growing up in the kingdom of ancient Hastinapur.</desc>
-	</programme>
-	<programme channel="5648" start="20260817133000 +0000" stop="20260817140000 +0000">
-		<title>Pushpa Impossible Episode 1026</title>
+		<title>Pushpa Impossible Episode 1312</title>
 		<desc>Pushpa Patel, a small entrepreneur and an endearing mother of three faces life's challenges with resilience and courage. Her constant pursuit of living a good life serves as an inspiration to many.</desc>
 	</programme>
+	<programme channel="5648" start="20260817133000 +0000" stop="20260817140000 +0000">
+		<title>Shrimad Ramayan Episode 241</title>
+		<desc>An epic tale that explores the eternal battle between good and evil, highlighting the quest for righteousness and spiritual awakening</desc>
+	</programme>
 	<programme channel="5648" start="20260817140000 +0000" stop="20260817143000 +0000">
-		<title>Shrimad Ramayan Episode 7</title>
+		<title>Shrimad Ramayan Episode 242</title>
 		<desc>An epic tale that explores the eternal battle between good and evil, highlighting the quest for righteousness and spiritual awakening</desc>
 	</programme>
 	<programme channel="5648" start="20260817143000 +0000" stop="20260817150000 +0000">
-		<title>Taarak Mehta Ka Ooltah Chashmah Episode 4504</title>
+		<title>Taarak Mehta Ka Ooltah Chashmah Episode 4790</title>
 		<desc>The lively and diverse residents of Gokuldham Housing Society live together as one big family. They navigate everyday challenges, celebrate festivals and find joy in each other's company.</desc>
 	</programme>
 	<programme channel="5648" start="20260817150000 +0000" stop="20260817153000 +0000">
-		<title>Aladdin - Naam Toh Suna Hoga Episode 423</title>
-		<desc>An Indian remake of the classical tale of Aladdin, a kind-hearted thief who falls in love with Princess Yasmine. His life changes when he befriends a wish-granting Genie</desc>
+		<title>Pushpa Impossible Episode 1312</title>
+		<desc>Pushpa Patel, a small entrepreneur and an endearing mother of three faces life's challenges with resilience and courage. Her constant pursuit of living a good life serves as an inspiration to many.</desc>
 	</programme>
 	<programme channel="5652" start="20260810160000 +0000" stop="20260810163000 +0000">
 		<title>Juhi Mui Episode 34</title>
@@ -112982,44 +113234,44 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 		<desc>It's Showtime ®</desc>
 	</programme>
 	<programme channel="5693" start="20260814161500 +0000" stop="20260814165500 +0000">
-		<title>Sigabo</title>
-		<desc>Sigabo</desc>
+		<title>Sigabo®</title>
+		<desc>Sigabo®</desc>
 	</programme>
 	<programme channel="5693" start="20260814165500 +0000" stop="20260814173500 +0000">
-		<title>Someone, Someday</title>
-		<desc>Someone, Someday</desc>
+		<title>Someone, Someday®</title>
+		<desc>Someone, Someday®</desc>
 	</programme>
 	<programme channel="5693" start="20260814173500 +0000" stop="20260814181500 +0000">
-		<title>INCOGNITO</title>
-		<desc>INCOGNITO</desc>
+		<title>Incognito®</title>
+		<desc>Incognito®</desc>
 	</programme>
 	<programme channel="5693" start="20260814181500 +0000" stop="20260814185000 +0000">
-		<title>The Iron Heart</title>
-		<desc>The Iron Heart</desc>
+		<title>Iron Heart ®</title>
+		<desc>Iron Heart ®</desc>
 	</programme>
 	<programme channel="5693" start="20260814185000 +0000" stop="20260814193000 +0000">
-		<title>LINLANG</title>
-		<desc>LINLANG</desc>
+		<title>Linlang ®</title>
+		<desc>Linlang ®</desc>
 	</programme>
 	<programme channel="5693" start="20260814193000 +0000" stop="20260814200000 +0000">
-		<title>Are You G? With MJ Felipe</title>
-		<desc>Are You G? With MJ Felipe</desc>
+		<title>Are You G? With MJ Felipe S2®</title>
+		<desc>Are You G? With MJ Felipe S2®</desc>
 	</programme>
 	<programme channel="5693" start="20260814200000 +0000" stop="20260814213000 +0000">
-		<title>TV PATROL GLOBAL EDITION</title>
-		<desc>TV PATROL GLOBAL EDITION</desc>
+		<title>TV Patrol Weekday Global Edition</title>
+		<desc>TV Patrol Weekday Global Edition</desc>
 	</programme>
 	<programme channel="5693" start="20260814213000 +0000" stop="20260814223000 +0000">
 		<title>TABING ILOG</title>
 		<desc>TABING ILOG</desc>
 	</programme>
 	<programme channel="5693" start="20260814223000 +0000" stop="20260814233000 +0000">
-		<title>MAALAALA MO KAYA</title>
-		<desc>MAALAALA MO KAYA</desc>
+		<title>Maalaala Mo Kaya ®</title>
+		<desc>Maalaala Mo Kaya ®</desc>
 	</programme>
 	<programme channel="5693" start="20260814233000 +0000" stop="20260815000000 +0000">
-		<title>MY PUHUNAN: KAYA MO!</title>
-		<desc>MY PUHUNAN: KAYA MO!</desc>
+		<title>My Puhunan: Kaya Mo! ®</title>
+		<desc>My Puhunan: Kaya Mo! ®</desc>
 	</programme>
 	<programme channel="5693" start="20260815000000 +0000" stop="20260815003000 +0000">
 		<title>WOW</title>
@@ -113034,8 +113286,8 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 		<desc>TULONG KO, PASA MO</desc>
 	</programme>
 	<programme channel="5693" start="20260815020000 +0000" stop="20260815023000 +0000">
-		<title>ANO NA, BEV S6</title>
-		<desc>ANO NA, BEV S6</desc>
+		<title>Ano Na Bev S6</title>
+		<desc>Ano Na Bev S6</desc>
 	</programme>
 	<programme channel="5693" start="20260815023000 +0000" stop="20260815030000 +0000">
 		<title>KAPAMILYA DAILY MASS</title>
@@ -113046,20 +113298,20 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 		<desc>DARNA</desc>
 	</programme>
 	<programme channel="5693" start="20260815040000 +0000" stop="20260815063000 +0000">
-		<title>IT'S SHOWTIME SATURDAY</title>
-		<desc>IT'S SHOWTIME SATURDAY</desc>
+		<title>IT'S SHOWTIME</title>
+		<desc>IT'S SHOWTIME</desc>
 	</programme>
 	<programme channel="5693" start="20260815063000 +0000" stop="20260815070500 +0000">
-		<title>Wrizzards: Underground Uprising</title>
-		<desc>Wrizzards: Underground Uprising</desc>
+		<title>Wrizzards: Underground Uprising ®</title>
+		<desc>Wrizzards: Underground Uprising ®</desc>
 	</programme>
 	<programme channel="5693" start="20260815070500 +0000" stop="20260815073500 +0000">
 		<title>Pamilya Talk With Tita Jing S7</title>
 		<desc>Pamilya Talk With Tita Jing S7</desc>
 	</programme>
 	<programme channel="5693" start="20260815073500 +0000" stop="20260815083500 +0000">
-		<title>TULONG KO, PASA MO</title>
-		<desc>TULONG KO, PASA MO</desc>
+		<title>Tulong Ko, Pasa Mo®</title>
+		<desc>Tulong Ko, Pasa Mo®</desc>
 	</programme>
 	<programme channel="5693" start="20260815083500 +0000" stop="20260815091000 +0000">
 		<title>Home Away From Home S6</title>
@@ -113070,8 +113322,8 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 		<desc>Juan Conversations with Rose Eclarinal S4</desc>
 	</programme>
 	<programme channel="5693" start="20260815094500 +0000" stop="20260815104500 +0000">
-		<title>TV PATROL SABADO</title>
-		<desc>TV PATROL SABADO</desc>
+		<title>TV Patrol Sabado Live</title>
+		<desc>TV Patrol Sabado Live</desc>
 	</programme>
 	<programme channel="5693" start="20260815104500 +0000" stop="20260815113000 +0000">
 		<title>Ibang Level 'To</title>
@@ -113082,8 +113334,8 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 		<desc>KAPAMILYA DEAL OR NO DEAL</desc>
 	</programme>
 	<programme channel="5693" start="20260815123000 +0000" stop="20260815134500 +0000">
-		<title>EVERYBODY SING!</title>
-		<desc>EVERYBODY SING!</desc>
+		<title>Everybody Sing</title>
+		<desc>Everybody Sing</desc>
 	</programme>
 	<programme channel="5693" start="20260815134500 +0000" stop="20260815145500 +0000">
 		<title>The Crossings: Finding Our Way Home Through Stories</title>
@@ -113094,36 +113346,36 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 		<desc>The B Side S2</desc>
 	</programme>
 	<programme channel="5693" start="20260815154500 +0000" stop="20260815173000 +0000">
-		<title>IT'S SHOWTIME SATURDAY</title>
-		<desc>IT'S SHOWTIME SATURDAY</desc>
+		<title>It's Showtime ®</title>
+		<desc>It's Showtime ®</desc>
 	</programme>
 	<programme channel="5693" start="20260815173000 +0000" stop="20260815180000 +0000">
-		<title>WOW</title>
-		<desc>WOW</desc>
+		<title>Wow ®</title>
+		<desc>Wow ®</desc>
 	</programme>
 	<programme channel="5693" start="20260815180000 +0000" stop="20260815190000 +0000">
-		<title>TV PATROL SABADO</title>
-		<desc>TV PATROL SABADO</desc>
+		<title>TV Patrol Sabado ®</title>
+		<desc>TV Patrol Sabado ®</desc>
 	</programme>
 	<programme channel="5693" start="20260815190000 +0000" stop="20260815200000 +0000">
-		<title>KAPAMILYA DEAL OR NO DEAL</title>
-		<desc>KAPAMILYA DEAL OR NO DEAL</desc>
+		<title>Kapamilya Deal Or No Deal®</title>
+		<desc>Kapamilya Deal Or No Deal®</desc>
 	</programme>
 	<programme channel="5693" start="20260815200000 +0000" stop="20260815210000 +0000">
-		<title>EVERYBODY SING!</title>
-		<desc>EVERYBODY SING!</desc>
+		<title>Everybody Sing</title>
+		<desc>Everybody Sing</desc>
 	</programme>
 	<programme channel="5693" start="20260815210000 +0000" stop="20260815230000 +0000">
-		<title>NIGHT FLICKS</title>
-		<desc>NIGHT FLICKS</desc>
+		<title>PINAY PIE</title>
+		<desc>PINAY PIE</desc>
 	</programme>
 	<programme channel="5693" start="20260815230000 +0000" stop="20260815233000 +0000">
-		<title>Pamilya Talk With Tita Jing S7</title>
-		<desc>Pamilya Talk With Tita Jing S7</desc>
+		<title>Pamilya Talk With Tita Jing S7®</title>
+		<desc>Pamilya Talk With Tita Jing S7®</desc>
 	</programme>
 	<programme channel="5693" start="20260815233000 +0000" stop="20260816003000 +0000">
-		<title>THE B SIDE</title>
-		<desc>THE B SIDE</desc>
+		<title>The B Side ®</title>
+		<desc>The B Side ®</desc>
 	</programme>
 	<programme channel="5693" start="20260816003000 +0000" stop="20260816010000 +0000">
 		<title>CITIZEN PINOY</title>
@@ -113138,8 +113390,8 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 		<desc>BRO. EDDIE CLASSICS</desc>
 	</programme>
 	<programme channel="5693" start="20260816023000 +0000" stop="20260816030000 +0000">
-		<title>KAPAMILYA JOURNEYS OF HOPE</title>
-		<desc>KAPAMILYA JOURNEYS OF HOPE</desc>
+		<title>Kapamilya Journeys of Hope With Fr. Tito Caluag</title>
+		<desc>Kapamilya Journeys of Hope With Fr. Tito Caluag</desc>
 	</programme>
 	<programme channel="5693" start="20260816030000 +0000" stop="20260816040000 +0000">
 		<title>THE HEALING EUCHARIST</title>
@@ -113150,12 +113402,12 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 		<desc>Y Speak 2.0</desc>
 	</programme>
 	<programme channel="5693" start="20260816050000 +0000" stop="20260816053000 +0000">
-		<title>Home Away From Home S6</title>
-		<desc>Home Away From Home S6</desc>
+		<title>Home Away From Home S6 ®</title>
+		<desc>Home Away From Home S6 ®</desc>
 	</programme>
 	<programme channel="5693" start="20260816053000 +0000" stop="20260816061500 +0000">
-		<title>Ibang Level 'To</title>
-		<desc>Ibang Level 'To</desc>
+		<title>Ibang Level 'To ®</title>
+		<desc>Ibang Level 'To ®</desc>
 	</programme>
 	<programme channel="5693" start="20260816061500 +0000" stop="20260816070000 +0000">
 		<title>Kuan On One</title>
@@ -113174,8 +113426,8 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 		<desc>Are You G? With MJ Felipe S2</desc>
 	</programme>
 	<programme channel="5693" start="20260816083000 +0000" stop="20260816093000 +0000">
-		<title>TV PATROL LINGGO</title>
-		<desc>TV PATROL LINGGO</desc>
+		<title>TV Patrol Linggo Live</title>
+		<desc>TV Patrol Linggo Live</desc>
 	</programme>
 	<programme channel="5693" start="20260816093000 +0000" stop="20260816113000 +0000">
 		<title>ASAP XP</title>
@@ -113186,48 +113438,52 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 		<desc>KAPAMILYA DEAL OR NO DEAL</desc>
 	</programme>
 	<programme channel="5693" start="20260816123000 +0000" stop="20260816134500 +0000">
-		<title>EVERYBODY SING!</title>
-		<desc>EVERYBODY SING!</desc>
+		<title>Everybody Sing</title>
+		<desc>Everybody Sing</desc>
 	</programme>
 	<programme channel="5693" start="20260816134500 +0000" stop="20260816141500 +0000">
 		<title>Wrizzards: Underground Uprising</title>
 		<desc>Wrizzards: Underground Uprising</desc>
 	</programme>
-	<programme channel="5693" start="20260816141500 +0000" stop="20260816151500 +0000">
+	<programme channel="5693" start="20260816141500 +0000" stop="20260816144500 +0000">
+		<title>Metro Behind the Cover: DonBelle</title>
+		<desc>Metro Behind the Cover: DonBelle</desc>
+	</programme>
+	<programme channel="5693" start="20260816144500 +0000" stop="20260816154500 +0000">
 		<title>RATED KORINA</title>
 		<desc>RATED KORINA</desc>
 	</programme>
-	<programme channel="5693" start="20260816151500 +0000" stop="20260816164500 +0000">
-		<title>Y Speak 2.0</title>
-		<desc>Y Speak 2.0</desc>
+	<programme channel="5693" start="20260816154500 +0000" stop="20260816164500 +0000">
+		<title>Y Speak 2.0 ®</title>
+		<desc>Y Speak 2.0 ®</desc>
 	</programme>
 	<programme channel="5693" start="20260816164500 +0000" stop="20260816173000 +0000">
-		<title>TV PATROL LINGGO</title>
-		<desc>TV PATROL LINGGO</desc>
+		<title>TV Patrol Linggo ®</title>
+		<desc>TV Patrol Linggo ®</desc>
 	</programme>
 	<programme channel="5693" start="20260816173000 +0000" stop="20260816183000 +0000">
-		<title>KAPAMILYA DEAL OR NO DEAL</title>
-		<desc>KAPAMILYA DEAL OR NO DEAL</desc>
+		<title>Kapamilya Deal Or No Deal®</title>
+		<desc>Kapamilya Deal Or No Deal®</desc>
 	</programme>
 	<programme channel="5693" start="20260816183000 +0000" stop="20260816193000 +0000">
-		<title>EVERYBODY SING!</title>
-		<desc>EVERYBODY SING!</desc>
+		<title>Everybody Sing®</title>
+		<desc>Everybody Sing®</desc>
 	</programme>
 	<programme channel="5693" start="20260816193000 +0000" stop="20260816210000 +0000">
-		<title>ASAP XP</title>
-		<desc>ASAP XP</desc>
+		<title>ASAP XP ®</title>
+		<desc>ASAP XP ®</desc>
 	</programme>
 	<programme channel="5693" start="20260816210000 +0000" stop="20260816220000 +0000">
 		<title>MAALAALA MO KAYA</title>
 		<desc>MAALAALA MO KAYA</desc>
 	</programme>
 	<programme channel="5693" start="20260816220000 +0000" stop="20260816230000 +0000">
-		<title>RATED KORINA</title>
-		<desc>RATED KORINA</desc>
+		<title>Rated Korina®</title>
+		<desc>Rated Korina®</desc>
 	</programme>
 	<programme channel="5693" start="20260816230000 +0000" stop="20260816233000 +0000">
-		<title>Chef RV's Kitchen S21</title>
-		<desc>Chef RV's Kitchen S21</desc>
+		<title>Chef RV's Kitchen S21®</title>
+		<desc>Chef RV's Kitchen S21®</desc>
 	</programme>
 	<programme channel="5693" start="20260816233000 +0000" stop="20260817000000 +0000">
 		<title>INCOGNITO</title>
@@ -113246,12 +113502,12 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 		<desc>2 GOOD 2 BE TRUE</desc>
 	</programme>
 	<programme channel="5693" start="20260817013000 +0000" stop="20260817020000 +0000">
-		<title>GOIN' BULILIT</title>
-		<desc>GOIN' BULILIT</desc>
+		<title>GOIN' BULILIT S15</title>
+		<desc>GOIN' BULILIT S15</desc>
 	</programme>
 	<programme channel="5693" start="20260817020000 +0000" stop="20260817023000 +0000">
-		<title>TFC KIDS' ZONE</title>
-		<desc>TFC KIDS' ZONE</desc>
+		<title>TFC Kids Zone</title>
+		<desc>TFC Kids Zone</desc>
 	</programme>
 	<programme channel="5693" start="20260817023000 +0000" stop="20260817030000 +0000">
 		<title>KAPAMILYA DAILY MASS</title>
@@ -113262,8 +113518,8 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 		<desc>GISING PILIPINAS</desc>
 	</programme>
 	<programme channel="5693" start="20260817040000 +0000" stop="20260817063000 +0000">
-		<title>IT'S SHOWTIME</title>
-		<desc>IT'S SHOWTIME</desc>
+		<title>It's Showtime LIVE</title>
+		<desc>It's Showtime LIVE</desc>
 	</programme>
 	<programme channel="5693" start="20260817063000 +0000" stop="20260817070000 +0000">
 		<title>Radyo Patrol Balita</title>
@@ -113278,24 +113534,24 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 		<desc>Oh My Gan!</desc>
 	</programme>
 	<programme channel="5693" start="20260817083000 +0000" stop="20260817090000 +0000">
-		<title>TFC KID'S ZONE</title>
-		<desc>TFC KID'S ZONE</desc>
+		<title>TFC Kids Zone ®</title>
+		<desc>TFC Kids Zone ®</desc>
 	</programme>
 	<programme channel="5693" start="20260817090000 +0000" stop="20260817093000 +0000">
-		<title>GOIN' BULILIT</title>
-		<desc>GOIN' BULILIT</desc>
+		<title>Goin' Bulilit S15®</title>
+		<desc>Goin' Bulilit S15®</desc>
 	</programme>
 	<programme channel="5693" start="20260817093000 +0000" stop="20260817094500 +0000">
-		<title>TV PATROL EXPRESS</title>
-		<desc>TV PATROL EXPRESS</desc>
+		<title>TV Patrol Express Live</title>
+		<desc>TV Patrol Express Live</desc>
 	</programme>
 	<programme channel="5693" start="20260817094500 +0000" stop="20260817103000 +0000">
-		<title>2 GOOD 2 BE TRUE</title>
-		<desc>2 GOOD 2 BE TRUE</desc>
+		<title>2 Good 2 Be True®</title>
+		<desc>2 Good 2 Be True®</desc>
 	</programme>
 	<programme channel="5693" start="20260817103000 +0000" stop="20260817120000 +0000">
-		<title>TV PATROL</title>
-		<desc>TV PATROL</desc>
+		<title>TV Patrol Live</title>
+		<desc>TV Patrol Live</desc>
 	</programme>
 	<programme channel="5693" start="20260817120000 +0000" stop="20260817124500 +0000">
 		<title>Sigabo</title>
@@ -113306,8 +113562,8 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 		<desc>Someone, Someday</desc>
 	</programme>
 	<programme channel="5693" start="20260817133000 +0000" stop="20260817140000 +0000">
-		<title>Oh My Gan!</title>
-		<desc>Oh My Gan!</desc>
+		<title>Oh My Gan! ®</title>
+		<desc>Oh My Gan! ®</desc>
 	</programme>
 	<programme channel="6694" start="20260810160000 +0000" stop="20260810163000 +0000">
 		<title>THE WORLD TONIGHT</title>
