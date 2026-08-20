@@ -13207,9 +13207,13 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<title>LaLiga 2026/27: Deportivo vs Elche Episode 6</title>
 		<desc>LaLiga 2026/27</desc>
 	</programme>
-	<programme channel="6126" start="20260820014500 +0000" stop="20260820022000 +0000">
+	<programme channel="6126" start="20260820014500 +0000" stop="20260820021000 +0000">
 		<title>LaLiga Highlights 2026/27: Matchday 1</title>
 		<desc>LaLiga Highlights 2026/27</desc>
+	</programme>
+	<programme channel="6126" start="20260820021000 +0000" stop="20260820022000 +0000">
+		<title>LaLiga Goals Galore 2024/25: Javi Puado Episode 9</title>
+		<desc>LaLiga Goals Galore 2024/25</desc>
 	</programme>
 	<programme channel="6126" start="20260820022000 +0000" stop="20260820025000 +0000">
 		<title>Gearing Up 2026: August Episode 7</title>
@@ -13235,9 +13239,13 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<title>FIA World Rally Championship 2026: Rally Finland SS20 Himos-Jamsa 2 - Wolf PS Episode 53</title>
 		<desc>FIA World Rally Championship 2026</desc>
 	</programme>
-	<programme channel="6126" start="20260820065000 +0000" stop="20260820072500 +0000">
+	<programme channel="6126" start="20260820065000 +0000" stop="20260820071000 +0000">
 		<title>LaLiga Highlights 2026/27: Matchday 1</title>
 		<desc>LaLiga Highlights 2026/27</desc>
+	</programme>
+	<programme channel="6126" start="20260820071000 +0000" stop="20260820072500 +0000">
+		<title>LaLiga Goals Galore 2024/25: Vini Jr Episode 10</title>
+		<desc>LaLiga Goals Galore 2024/25</desc>
 	</programme>
 	<programme channel="6126" start="20260820072500 +0000" stop="20260820092000 +0000">
 		<title>LaLiga 2 2026/27: Girona vs Leganes Episode 3</title>
@@ -13259,9 +13267,13 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<title>FIA World Rally Championship Highlights 2026: Rally Finland Episode 10</title>
 		<desc>FIA World Rally Championship Highlights 2026</desc>
 	</programme>
-	<programme channel="6126" start="20260820130000 +0000" stop="20260820133000 +0000">
+	<programme channel="6126" start="20260820130000 +0000" stop="20260820132000 +0000">
 		<title>LaLiga Highlights 2026/27: Matchday 1</title>
 		<desc>LaLiga Highlights 2026/27</desc>
+	</programme>
+	<programme channel="6126" start="20260820132000 +0000" stop="20260820133000 +0000">
+		<title>LaLiga Goals Galore 2024/25: Thierno Barry Episode 13</title>
+		<desc>LaLiga Goals Galore 2024/25</desc>
 	</programme>
 	<programme channel="6126" start="20260820133000 +0000" stop="20260820153000 +0000">
 		<title>LaLiga 2026/27: Atletico Madrid vs Malaga Episode 7</title>
@@ -14520,7 +14532,7 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<desc>UEFA Champions League Highlights 2026/27</desc>
 	</programme>
 	<programme channel="6110" start="20260820073000 +0000" stop="20260820083000 +0000">
-		<title>Bundesliga Special 2026/27: Season Preview</title>
+		<title>Bundesliga Special 2026/27: Season Preview I &amp; II</title>
 		<desc>Bundesliga Special 2026/27</desc>
 	</programme>
 	<programme channel="6110" start="20260820083000 +0000" stop="20260820093000 +0000">
@@ -22864,40 +22876,40 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<desc>NEWSLINE</desc>
 	</programme>
 	<programme channel="5160" start="20260819173000 +0000" stop="20260819180000 +0000">
-		<title>FLAVOURS &amp; BEYOND</title>
-		<desc>A Taste of Hues Vegetarian Cuisine</desc>
+		<title>DISCOVERY</title>
+		<desc>The Land of Peaceful Green</desc>
 	</programme>
 	<programme channel="5160" start="20260819180000 +0000" stop="20260819181500 +0000">
 		<title>DAILY BIZ</title>
 		<desc>DAILY BIZ</desc>
 	</programme>
 	<programme channel="5160" start="20260819181500 +0000" stop="20260819184500 +0000">
-		<title>THE LENS</title>
-		<desc>Young at Heart</desc>
+		<title>ERA OF NATIONAL ADVANCEMENT</title>
+		<desc>Investing in Basic Science</desc>
 	</programme>
 	<programme channel="5160" start="20260819184500 +0000" stop="20260819190000 +0000">
 		<title>VIBES OF VIETNAM</title>
-		<desc>Lacquer Painting: A Refined Vietnamese Art</desc>
+		<desc>The Mông People in Tèn Village</desc>
 	</programme>
 	<programme channel="5160" start="20260819190000 +0000" stop="20260819191500 +0000">
-		<title>THE POINT No1</title>
-		<desc>THE POINT No1</desc>
+		<title>S: FOR PEACE</title>
+		<desc>Guarding the River Frontier</desc>
 	</programme>
 	<programme channel="5160" start="20260819191500 +0000" stop="20260819193000 +0000">
 		<title>VIBES OF VIETNAM</title>
-		<desc>Igniting Creativity</desc>
+		<desc>The Art of Định Công Silver Inlay</desc>
 	</programme>
 	<programme channel="5160" start="20260819193000 +0000" stop="20260819200000 +0000">
-		<title>CHINA LINK</title>
-		<desc>CHINA LINK</desc>
+		<title>JAPAN LINK</title>
+		<desc>JAPAN LINK</desc>
 	</programme>
 	<programme channel="5160" start="20260819200000 +0000" stop="20260819203000 +0000">
 		<title>NEWSLINE</title>
 		<desc>NEWSLINE</desc>
 	</programme>
 	<programme channel="5160" start="20260819203000 +0000" stop="20260819210000 +0000">
-		<title>VIETNAM 360</title>
-		<desc>Music Industry - Culture &amp; Economy</desc>
+		<title>THE LENS</title>
+		<desc>In the Footsteps of Forest Guardians</desc>
 	</programme>
 	<programme channel="5160" start="20260819210000 +0000" stop="20260819211200 +0000">
 		<title>CULTURE SCENE</title>
@@ -22908,48 +22920,48 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<desc>WEATHER FORECAST</desc>
 	</programme>
 	<programme channel="5160" start="20260819211500 +0000" stop="20260819213000 +0000">
-		<title>S: FOR PEACE</title>
-		<desc>Training for Natural Disaster Response</desc>
+		<title>VIBES OF VIETNAM</title>
+		<desc>Bridging villages, building futures</desc>
 	</programme>
 	<programme channel="5160" start="20260819213000 +0000" stop="20260819220000 +0000">
-		<title>INSIDE ASIA</title>
-		<desc>INSIDE ASIA</desc>
+		<title>THE EXECUTIVE TALK</title>
+		<desc>Vietnam's premium journey</desc>
 	</programme>
 	<programme channel="5160" start="20260819220000 +0000" stop="20260819221500 +0000">
-		<title>THE MARTIAL LAND</title>
-		<desc>The Art of Close Combat</desc>
+		<title>SPEAK LIKE A LOCAL</title>
+		<desc>Mekong Delta Cuisine</desc>
 	</programme>
 	<programme channel="5160" start="20260819221500 +0000" stop="20260819224500 +0000">
-		<title>EYES ON V</title>
-		<desc>Home, Roots and Routes</desc>
+		<title>VIETNAM AT A GLANCE</title>
+		<desc>Voices Found in Art</desc>
 	</programme>
 	<programme channel="5160" start="20260819224500 +0000" stop="20260819230000 +0000">
 		<title>VIBES OF VIETNAM</title>
-		<desc>Tiên Phước's agarwood journey</desc>
+		<desc>A Miniature Europe in the Mekong Delta</desc>
 	</programme>
 	<programme channel="5160" start="20260819230000 +0000" stop="20260819231500 +0000">
-		<title>THE POINT No1</title>
-		<desc>THE POINT No1</desc>
+		<title>S: FOR PEACE</title>
+		<desc>Guarding the River Frontier</desc>
 	</programme>
 	<programme channel="5160" start="20260819231500 +0000" stop="20260819234500 +0000">
-		<title>CHINA LINK</title>
-		<desc>CHINA LINK</desc>
+		<title>JAPAN LINK</title>
+		<desc>JAPAN LINK</desc>
 	</programme>
-	<programme channel="5160" start="20260819234500 +0000" stop="20260819235500 +0000">
-		<title>VIBES OF VIETNAM</title>
-		<desc>Jazz Journey</desc>
+	<programme channel="5160" start="20260819234500 +0000" stop="20260819235000 +0000">
+		<title>WORLD IN MOTION</title>
+		<desc>Beyond Awesome - Episode 1</desc>
 	</programme>
-	<programme channel="5160" start="20260819235500 +0000" stop="20260820000000 +0000">
-		<title>THE RHYTHMS OF VIETNAM</title>
-		<desc>Unique Art of Dried flowers</desc>
+	<programme channel="5160" start="20260819235000 +0000" stop="20260820000000 +0000">
+		<title>VIETNAM DESTINATION</title>
+		<desc>Cúc Phương National Park</desc>
 	</programme>
 	<programme channel="5160" start="20260820000000 +0000" stop="20260820003000 +0000">
 		<title>NEWSLINE</title>
 		<desc>NEWSLINE</desc>
 	</programme>
 	<programme channel="5160" start="20260820003000 +0000" stop="20260820010000 +0000">
-		<title>VIETNAM 360</title>
-		<desc>Music Industry - Culture &amp; Economy</desc>
+		<title>INSIGHTS</title>
+		<desc>Vestige of Time</desc>
 	</programme>
 	<programme channel="5160" start="20260820010000 +0000" stop="20260820011300 +0000">
 		<title>DAILY BIZ</title>
@@ -22959,13 +22971,17 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<title>WEATHER FORECAST</title>
 		<desc>WEATHER FORECAST</desc>
 	</programme>
-	<programme channel="5160" start="20260820011500 +0000" stop="20260820013000 +0000">
+	<programme channel="5160" start="20260820011500 +0000" stop="20260820012500 +0000">
 		<title>VIBES OF VIETNAM</title>
-		<desc>Life in the Borderlands of Lung Cu</desc>
+		<desc>Pa Dí People Preserving Their Culture</desc>
+	</programme>
+	<programme channel="5160" start="20260820012500 +0000" stop="20260820013000 +0000">
+		<title>THE RHYTHMS OF VIETNAM</title>
+		<desc>Life in Gành Dầu</desc>
 	</programme>
 	<programme channel="5160" start="20260820013000 +0000" stop="20260820020000 +0000">
-		<title>FLAVOURS &amp; BEYOND</title>
-		<desc>A Taste of Hues Vegetarian Cuisine</desc>
+		<title>DISCOVERY</title>
+		<desc>Da Lat - Into the wild</desc>
 	</programme>
 	<programme channel="5160" start="20260820020000 +0000" stop="20260820021500 +0000">
 		<title>NEWSLINE</title>
@@ -22973,47 +22989,39 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5160" start="20260820021500 +0000" stop="20260820023000 +0000">
 		<title>VIBES OF VIETNAM</title>
-		<desc>The modern day Đăm Săn</desc>
+		<desc>Light Sculpture Art</desc>
 	</programme>
 	<programme channel="5160" start="20260820023000 +0000" stop="20260820030000 +0000">
-		<title>VIETNAM AT A GLANCE</title>
-		<desc>Tiny Vietnamese Tales</desc>
+		<title>TUNEBOX</title>
+		<desc>The many versions of V#</desc>
 	</programme>
-	<programme channel="5160" start="20260820030000 +0000" stop="20260820031400 +0000">
+	<programme channel="5160" start="20260820030000 +0000" stop="20260820031000 +0000">
 		<title>CULTURE SCENE</title>
 		<desc>CULTURE SCENE</desc>
 	</programme>
-	<programme channel="5160" start="20260820031400 +0000" stop="20260820031500 +0000">
+	<programme channel="5160" start="20260820031000 +0000" stop="20260820031500 +0000">
 		<title>WEATHER FORECAST</title>
 		<desc>WEATHER FORECAST</desc>
 	</programme>
 	<programme channel="5160" start="20260820031500 +0000" stop="20260820034500 +0000">
-		<title>INSIDE ASIA</title>
-		<desc>INSIDE ASIA</desc>
+		<title>VIETNAM INNOVATORS</title>
+		<desc>Can Vietnam achieve NET ZERO by 2050?</desc>
 	</programme>
-	<programme channel="5160" start="20260820034500 +0000" stop="20260820035000 +0000">
-		<title>VIETNAM DESTINATION</title>
-		<desc>Cúc Phương National Park</desc>
-	</programme>
-	<programme channel="5160" start="20260820035000 +0000" stop="20260820040000 +0000">
-		<title>VIBES OF VIETNAM</title>
-		<desc>Dawn at the Easternmost Point</desc>
+	<programme channel="5160" start="20260820034500 +0000" stop="20260820040000 +0000">
+		<title>S: FOR PEACE</title>
+		<desc>Guarding the River Frontier</desc>
 	</programme>
 	<programme channel="5160" start="20260820040000 +0000" stop="20260820041500 +0000">
 		<title>NEWSLINE</title>
 		<desc>NEWSLINE</desc>
 	</programme>
 	<programme channel="5160" start="20260820041500 +0000" stop="20260820044500 +0000">
-		<title>EYES ON V</title>
-		<desc>Home, Roots and Routes</desc>
+		<title>VIETNAM AT A GLANCE</title>
+		<desc>Voices Found in Art</desc>
 	</programme>
-	<programme channel="5160" start="20260820044500 +0000" stop="20260820045500 +0000">
+	<programme channel="5160" start="20260820044500 +0000" stop="20260820050000 +0000">
 		<title>VIBES OF VIETNAM</title>
-		<desc>The Colours of Cham Pottery</desc>
-	</programme>
-	<programme channel="5160" start="20260820045500 +0000" stop="20260820050000 +0000">
-		<title>THE RHYTHMS OF VIETNAM</title>
-		<desc>The Beauty of Ba Mun Island</desc>
+		<desc>Sweet Harvests on the MNong Plateau</desc>
 	</programme>
 	<programme channel="5160" start="20260820050000 +0000" stop="20260820052500 +0000">
 		<title>NEWSLINE</title>
@@ -23025,27 +23033,27 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5160" start="20260820053000 +0000" stop="20260820055500 +0000">
 		<title>VIBES OF VIETNAM</title>
-		<desc>Life on Co To Island - Episode 1</desc>
+		<desc>The Quintessence of Tonkin</desc>
 	</programme>
 	<programme channel="5160" start="20260820055500 +0000" stop="20260820060000 +0000">
 		<title>THE RHYTHMS OF VIETNAM</title>
-		<desc>Life in Gành Dầu</desc>
+		<desc>The beauty of Van Phong</desc>
 	</programme>
 	<programme channel="5160" start="20260820060000 +0000" stop="20260820061500 +0000">
 		<title>CULTURE SCENE</title>
 		<desc>CULTURE SCENE</desc>
 	</programme>
 	<programme channel="5160" start="20260820061500 +0000" stop="20260820063000 +0000">
-		<title>THE POINT No1</title>
-		<desc>THE POINT No1</desc>
+		<title>LOCAL TOWARDS GLOBAL</title>
+		<desc>The Town of Lanterns</desc>
 	</programme>
 	<programme channel="5160" start="20260820063000 +0000" stop="20260820064500 +0000">
-		<title>SPEAK LIKE A LOCAL</title>
-		<desc>Mekong Delta Food Tasting 101</desc>
+		<title>VIETNAM EXPLAINED</title>
+		<desc>Into Vietnam's Wildlife</desc>
 	</programme>
 	<programme channel="5160" start="20260820064500 +0000" stop="20260820070000 +0000">
 		<title>VIBES OF VIETNAM</title>
-		<desc>The Journey to Master Core Technologies</desc>
+		<desc>Technology Connecting Tourism</desc>
 	</programme>
 	<programme channel="5160" start="20260820070000 +0000" stop="20260820071300 +0000">
 		<title>NEWSLINE</title>
@@ -23056,20 +23064,20 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<desc>WEATHER FORECAST</desc>
 	</programme>
 	<programme channel="5160" start="20260820071500 +0000" stop="20260820074500 +0000">
-		<title>THE LENS</title>
-		<desc>Young at Heart</desc>
+		<title>WORLD IN MOTION</title>
+		<desc>Lights, Camera, Yakutia!</desc>
 	</programme>
 	<programme channel="5160" start="20260820074500 +0000" stop="20260820080000 +0000">
-		<title>STREET FOOD</title>
-		<desc>Fried Rice - The Flavour of Nightlife</desc>
+		<title>VIETNAM IMPRINTS</title>
+		<desc>Vietnam - Arrive and thrive</desc>
 	</programme>
 	<programme channel="5160" start="20260820080000 +0000" stop="20260820083000 +0000">
-		<title>VIETNAM 360</title>
-		<desc>Music Industry - Culture &amp; Economy</desc>
+		<title>THE EXECUTIVE TALK</title>
+		<desc>Vietnam's premium journey</desc>
 	</programme>
 	<programme channel="5160" start="20260820083000 +0000" stop="20260820090000 +0000">
-		<title>FLAVOURS &amp; BEYOND</title>
-		<desc>A Taste of Hues Vegetarian Cuisine</desc>
+		<title>DISCOVERY</title>
+		<desc>Da Lat - Into the wild</desc>
 	</programme>
 	<programme channel="5160" start="20260820090000 +0000" stop="20260820091300 +0000">
 		<title>NEWSLINE</title>
@@ -23080,24 +23088,24 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<desc>WEATHER FORECAST</desc>
 	</programme>
 	<programme channel="5160" start="20260820091500 +0000" stop="20260820093000 +0000">
-		<title>THE POINT No1</title>
-		<desc>THE POINT No1</desc>
+		<title>STREET FOOD</title>
+		<desc>Da Nang Street Food Adventure</desc>
 	</programme>
 	<programme channel="5160" start="20260820093000 +0000" stop="20260820100000 +0000">
 		<title>VIBES OF VIETNAM</title>
-		<desc>Cát Bà Pastimes</desc>
+		<desc>A new Ho Thau commune</desc>
 	</programme>
 	<programme channel="5160" start="20260820100000 +0000" stop="20260820101500 +0000">
 		<title>CULTURE SCENE</title>
 		<desc>CULTURE SCENE</desc>
 	</programme>
 	<programme channel="5160" start="20260820101500 +0000" stop="20260820103000 +0000">
-		<title>S: FOR PEACE</title>
-		<desc>Training for Natural Disaster Response</desc>
+		<title>VIETNAM IMPRINTS</title>
+		<desc>Vietnamese engineers master core technologies</desc>
 	</programme>
 	<programme channel="5160" start="20260820103000 +0000" stop="20260820110000 +0000">
-		<title>CHINA LINK</title>
-		<desc>CHINA LINK</desc>
+		<title>JAPAN LINK</title>
+		<desc>JAPAN LINK</desc>
 	</programme>
 	<programme channel="5160" start="20260820110000 +0000" stop="20260820111000 +0000">
 		<title>NEWSLINE</title>
@@ -23109,59 +23117,59 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5160" start="20260820111500 +0000" stop="20260820113000 +0000">
 		<title>VIBES OF VIETNAM</title>
-		<desc>Life on the Rivers</desc>
+		<desc>Lifting Dreams into Space</desc>
 	</programme>
-	<programme channel="5160" start="20260820113000 +0000" stop="20260820120000 +0000">
-		<title>INSIDE ASIA</title>
-		<desc>INSIDE ASIA</desc>
+	<programme channel="5160" start="20260820113000 +0000" stop="20260820121500 +0000">
+		<title>SHOWTIME</title>
+		<desc>Tung Monkey - The Visual Within</desc>
 	</programme>
-	<programme channel="5160" start="20260820120000 +0000" stop="20260820123000 +0000">
-		<title>VIETNAM AT A GLANCE</title>
-		<desc>Tiny Vietnamese Tales</desc>
+	<programme channel="5160" start="20260820121500 +0000" stop="20260820123000 +0000">
+		<title>i-REPORT</title>
+		<desc>Where the Birds Return</desc>
 	</programme>
 	<programme channel="5160" start="20260820123000 +0000" stop="20260820124500 +0000">
 		<title>VIBES OF VIETNAM</title>
-		<desc>Vietnam Eyes Medicinal Plant Growth</desc>
+		<desc>Livelihoods beneath the heritage</desc>
 	</programme>
 	<programme channel="5160" start="20260820124500 +0000" stop="20260820130000 +0000">
-		<title>THE POINT No1</title>
-		<desc>THE POINT No1</desc>
+		<title>S: FOR PEACE</title>
+		<desc>Guardians of the Sea</desc>
 	</programme>
 	<programme channel="5160" start="20260820130000 +0000" stop="20260820131500 +0000">
 		<title>DAILY BIZ</title>
 		<desc>DAILY BIZ</desc>
 	</programme>
 	<programme channel="5160" start="20260820131500 +0000" stop="20260820134500 +0000">
-		<title>THE LENS</title>
-		<desc>In the Footsteps of Forest Guardians</desc>
+		<title>VIETNAM 360</title>
+		<desc>Music Industry - Culture &amp; Economy</desc>
 	</programme>
 	<programme channel="5160" start="20260820134500 +0000" stop="20260820135000 +0000">
 		<title>VIETNAM DESTINATION</title>
-		<desc>Cúc Phương National Park</desc>
+		<desc>The call of the great forest</desc>
 	</programme>
 	<programme channel="5160" start="20260820135000 +0000" stop="20260820140000 +0000">
 		<title>VIBES OF VIETNAM</title>
-		<desc>Life in the Borderlands of Lung Cu</desc>
+		<desc>Under the Coconut canopy</desc>
 	</programme>
 	<programme channel="5160" start="20260820140000 +0000" stop="20260820143000 +0000">
 		<title>NEWSLINE</title>
 		<desc>NEWSLINE</desc>
 	</programme>
 	<programme channel="5160" start="20260820143000 +0000" stop="20260820150000 +0000">
-		<title>FLAVOURS &amp; BEYOND</title>
-		<desc>Where the Mountain Smoke Rises</desc>
+		<title>HERITAGE JOURNEY</title>
+		<desc>Rhapsody of Fire and Water</desc>
 	</programme>
 	<programme channel="5160" start="20260820150000 +0000" stop="20260820151500 +0000">
 		<title>CULTURE SCENE</title>
 		<desc>CULTURE SCENE</desc>
 	</programme>
 	<programme channel="5160" start="20260820151500 +0000" stop="20260820153000 +0000">
-		<title>THE POINT No1</title>
-		<desc>THE POINT No1</desc>
+		<title>i-REPORT</title>
+		<desc>Where the Birds Return</desc>
 	</programme>
 	<programme channel="5160" start="20260820153000 +0000" stop="20260820160000 +0000">
-		<title>EYES ON V</title>
-		<desc>Home, Roots and Routes</desc>
+		<title>VIETNAM AT A GLANCE</title>
+		<desc>Voices Found in Art</desc>
 	</programme>
 	<programme channel="5160" start="20260820160000 +0000" stop="20260820161500 +0000">
 		<title>DAILY BIZ</title>
@@ -24901,7 +24909,7 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5161" start="20260819163000 +0000" stop="20260819170000 +0000">
 		<title>Made in Germany</title>
-		<desc>Made in Germany</desc>
+		<desc>The Netherlands' Utrecht beat Copenhagen at its own game - becoming a biking and mobility paradise. Plus: the Vietnamese woman supporting her family as an e-hailing driver.</desc>
 	</programme>
 	<programme channel="5161" start="20260819170000 +0000" stop="20260819171500 +0000">
 		<title>DW News</title>
@@ -24913,15 +24921,15 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5161" start="20260819173000 +0000" stop="20260819180000 +0000">
 		<title>Close up</title>
-		<desc>The weekly half-hour program delivers in-depth reporting on topical political issues and newsworthy events. Revealing the story behind the stories, "Close up" is informative, gripping and visually powerful.</desc>
+		<desc>For over three years, Sudan has been caught up in a devastating civil war. Both the Sudanese Armed Forces and their opponents, the paramilitary Rapid Support Forces (RSF), have been accused of committing war crimes in their struggle for power.</desc>
 	</programme>
 	<programme channel="5161" start="20260819180000 +0000" stop="20260819183000 +0000">
 		<title>DW News</title>
 		<desc>DW News</desc>
 	</programme>
 	<programme channel="5161" start="20260819183000 +0000" stop="20260819190000 +0000">
-		<title>DocFilm</title>
-		<desc>Colors make our homes more beautiful. They make our clothes more stylish. And colors are indispensable for art. But what looks beautiful can also be toxic: Many colors contain substances like mercury, lead, or chromium.</desc>
+		<title>DW News Focus</title>
+		<desc>DW News Focus</desc>
 	</programme>
 	<programme channel="5161" start="20260819190000 +0000" stop="20260819190200 +0000">
 		<title>DW News</title>
@@ -24937,7 +24945,7 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5161" start="20260819193000 +0000" stop="20260819200000 +0000">
 		<title>The 77 Percent</title>
-		<desc>The 77 Percent</desc>
+		<desc>Too natural for school? Too bold for the office? Too "unprofessional” for a job interview? For many young South Africans, hair is still tangled up with race, class, beauty, identity and belonging. In this 77 Street Debate, young people take over the conversation.</desc>
 	</programme>
 	<programme channel="5161" start="20260819200000 +0000" stop="20260819203000 +0000">
 		<title>DW News</title>
@@ -24965,7 +24973,7 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5161" start="20260819223000 +0000" stop="20260819230000 +0000">
 		<title>Made in Germany</title>
-		<desc>Made in Germany</desc>
+		<desc>The Netherlands' Utrecht beat Copenhagen at its own game - becoming a biking and mobility paradise. Plus: the Vietnamese woman supporting her family as an e-hailing driver.</desc>
 	</programme>
 	<programme channel="5161" start="20260819230000 +0000" stop="20260819230200 +0000">
 		<title>DW News</title>
@@ -24981,7 +24989,7 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5161" start="20260819233000 +0000" stop="20260820000000 +0000">
 		<title>Focus on Europe</title>
-		<desc>Focus on Europe</desc>
+		<desc>The murder of four foreign farm workers has shocked Italy. But violence and exploitation aren't new. +++ Tens of thousands of Ukrainian soldiers have deserted the military.</desc>
 	</programme>
 	<programme channel="5161" start="20260820000000 +0000" stop="20260820000200 +0000">
 		<title>DW News</title>
@@ -24993,7 +25001,7 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5161" start="20260820003000 +0000" stop="20260820010000 +0000">
 		<title>Arts Unveiled</title>
-		<desc>Arts Unveiled</desc>
+		<desc>How the far-right party, the AfD, wants to bring German culture into line. Human trafficking and exploitation — reports by Indian photojournalist Smita Sharma. And: how activists are fighting neo-Nazi symbols online.</desc>
 	</programme>
 	<programme channel="5161" start="20260820010000 +0000" stop="20260820010200 +0000">
 		<title>DW News</title>
@@ -25017,7 +25025,7 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5161" start="20260820023000 +0000" stop="20260820030000 +0000">
 		<title>Made in Germany</title>
-		<desc>Made in Germany</desc>
+		<desc>The Netherlands' Utrecht beat Copenhagen at its own game - becoming a biking and mobility paradise. Plus: the Vietnamese woman supporting her family as an e-hailing driver.</desc>
 	</programme>
 	<programme channel="5161" start="20260820030000 +0000" stop="20260820030200 +0000">
 		<title>DW News</title>
@@ -25057,7 +25065,7 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5161" start="20260820053000 +0000" stop="20260820060000 +0000">
 		<title>Focus on Europe</title>
-		<desc>Focus on Europe</desc>
+		<desc>The murder of four foreign farm workers has shocked Italy. But violence and exploitation aren't new. +++ Tens of thousands of Ukrainian soldiers have deserted the military.</desc>
 	</programme>
 	<programme channel="5161" start="20260820060000 +0000" stop="20260820060200 +0000">
 		<title>DW News</title>
@@ -25089,11 +25097,11 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5161" start="20260820080200 +0000" stop="20260820083000 +0000">
 		<title>Made in Germany</title>
-		<desc>Made in Germany</desc>
+		<desc>The Netherlands' Utrecht beat Copenhagen at its own game - becoming a biking and mobility paradise. Plus: the Vietnamese woman supporting her family as an e-hailing driver.</desc>
 	</programme>
 	<programme channel="5161" start="20260820083000 +0000" stop="20260820090000 +0000">
 		<title>Focus on Europe</title>
-		<desc>Focus on Europe</desc>
+		<desc>The murder of four foreign farm workers has shocked Italy. But violence and exploitation aren't new. +++ Tens of thousands of Ukrainian soldiers have deserted the military.</desc>
 	</programme>
 	<programme channel="5161" start="20260820090000 +0000" stop="20260820090200 +0000">
 		<title>DW News</title>
@@ -25133,7 +25141,7 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5161" start="20260820113000 +0000" stop="20260820120000 +0000">
 		<title>Focus on Europe</title>
-		<desc>Focus on Europe</desc>
+		<desc>The murder of four foreign farm workers has shocked Italy. But violence and exploitation aren't new. +++ Tens of thousands of Ukrainian soldiers have deserted the military.</desc>
 	</programme>
 	<programme channel="5161" start="20260820120000 +0000" stop="20260820120300 +0000">
 		<title>DW News</title>
@@ -27560,216 +27568,216 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<desc>The BBC presents in-depth reports on the major international and US news of the day presented from Washington DC.</desc>
 	</programme>
 	<programme channel="6166" start="20260819160000 +0000" stop="20260819163000 +0000">
-		<title>Verified Live</title>
-		<desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
+		<title>BBC News</title>
+		<desc>The latest news from the BBC.</desc>
 	</programme>
 	<programme channel="6166" start="20260819163000 +0000" stop="20260819170000 +0000">
-		<title>Focus on Africa</title>
-		<desc>The biggest African and international stories from the BBC.</desc>
+		<title>Newscast</title>
+		<desc>Lighthearted discussion of the day's news.</desc>
 	</programme>
 	<programme channel="6166" start="20260819170000 +0000" stop="20260819173000 +0000">
-		<title>The World Today with Maryam Moshiri</title>
-		<desc>Watch the best of the BBC's journalism from around the world.</desc>
+		<title>BBC News</title>
+		<desc>The latest news from the BBC.</desc>
 	</programme>
 	<programme channel="6166" start="20260819173000 +0000" stop="20260819180000 +0000">
-		<title>The World Today with Maryam Moshiri</title>
-		<desc>Watch the best of the BBC's journalism from around the world.</desc>
+		<title>Inside China's EV Revolution (r)</title>
+		<desc>At a time of heightened geopolitical conflict and uncertainty</desc>
 	</programme>
 	<programme channel="6166" start="20260819180000 +0000" stop="20260819183000 +0000">
-		<title>The World Today with Maryam Moshiri</title>
-		<desc>Watch the best of the BBC's journalism from around the world.</desc>
+		<title>Newsday</title>
+		<desc>Live from Singapore</desc>
 	</programme>
-	<programme channel="6166" start="20260819183000 +0000" stop="20260819190000 +0000">
-		<title>The World Today with Maryam Moshiri</title>
-		<desc>Watch the best of the BBC's journalism from around the world.</desc>
+	<programme channel="6166" start="20260819183000 +0000" stop="20260819184500 +0000">
+		<title>Business Today</title>
+		<desc>Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
+	</programme>
+	<programme channel="6166" start="20260819184500 +0000" stop="20260819190000 +0000">
+		<title>BBC Sport</title>
+		<desc>A round-up of the day's sporting action</desc>
 	</programme>
 	<programme channel="6166" start="20260819190000 +0000" stop="20260819193000 +0000">
-		<title>The Context USA</title>
-		<desc>Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
+		<title>Newsday</title>
+		<desc>Live from Singapore</desc>
 	</programme>
-	<programme channel="6166" start="20260819193000 +0000" stop="20260819200000 +0000">
-		<title>The Context USA</title>
-		<desc>Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
+	<programme channel="6166" start="20260819193000 +0000" stop="20260819194500 +0000">
+		<title>Business Today</title>
+		<desc>Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
+	</programme>
+	<programme channel="6166" start="20260819194500 +0000" stop="20260819200000 +0000">
+		<title>BBC Sport (r)</title>
+		<desc>A round-up of the day's sporting action</desc>
 	</programme>
 	<programme channel="6166" start="20260819200000 +0000" stop="20260819203000 +0000">
-		<title>The Context</title>
-		<desc>A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
+		<title>Newsday</title>
+		<desc>Live from Singapore</desc>
 	</programme>
-	<programme channel="6166" start="20260819203000 +0000" stop="20260819210000 +0000">
-		<title>The Context</title>
-		<desc>A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
+	<programme channel="6166" start="20260819203000 +0000" stop="20260819204500 +0000">
+		<title>Business Today</title>
+		<desc>Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
+	</programme>
+	<programme channel="6166" start="20260819204500 +0000" stop="20260819210000 +0000">
+		<title>BBC Sport (r)</title>
+		<desc>A round-up of the day's sporting action</desc>
 	</programme>
 	<programme channel="6166" start="20260819210000 +0000" stop="20260819213000 +0000">
-		<title>BBC World News America</title>
-		<desc>The BBC presents in-depth reports on the major international and US news of the day presented from Washington DC.</desc>
+		<title>BBC News</title>
+		<desc>The latest news from the BBC.</desc>
 	</programme>
 	<programme channel="6166" start="20260819213000 +0000" stop="20260819220000 +0000">
-		<title>Newsnight</title>
-		<desc>Insights and global interviews on the crucial news stories of the day.</desc>
+		<title>Business Today</title>
+		<desc>Business Today. Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
 	</programme>
-	<programme channel="6166" start="20260819220000 +0000" stop="20260819230000 +0000">
-		<title>BBC World News America</title>
-		<desc>The BBC presents in-depth reports on the major international and US news of the day presented from Washington DC.</desc>
+	<programme channel="6166" start="20260819220000 +0000" stop="20260819223000 +0000">
+		<title>BBC News</title>
+		<desc>The latest news from the BBC.</desc>
+	</programme>
+	<programme channel="6166" start="20260819223000 +0000" stop="20260819230000 +0000">
+		<title>Business Today</title>
+		<desc>Business Today. Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
 	</programme>
 	<programme channel="6166" start="20260819230000 +0000" stop="20260819233000 +0000">
 		<title>BBC News</title>
 		<desc>The latest news from the BBC.</desc>
 	</programme>
 	<programme channel="6166" start="20260819233000 +0000" stop="20260820000000 +0000">
-		<title>Newscast</title>
-		<desc>Lighthearted discussion of the day's news.</desc>
+		<title>Business Today</title>
+		<desc>Business Today. Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
 	</programme>
 	<programme channel="6166" start="20260820000000 +0000" stop="20260820003000 +0000">
 		<title>BBC News</title>
 		<desc>The latest news from the BBC.</desc>
 	</programme>
 	<programme channel="6166" start="20260820003000 +0000" stop="20260820010000 +0000">
-		<title>The Secret Jungle Hospital (r)</title>
-		<desc>With drones flying overhead, a hidden hospital in Myanmar is battling to save lives in the midst of war. The BBC's Quentin Sommerville and team spent time with rebels close to the front line.</desc>
+		<title>BBC News</title>
+		<desc>The latest news from the BBC.</desc>
 	</programme>
 	<programme channel="6166" start="20260820010000 +0000" stop="20260820013000 +0000">
-		<title>Newsday</title>
-		<desc>Live from Singapore, the latest international news from the BBC.</desc>
+		<title>BBC News</title>
+		<desc>The latest news from the BBC.</desc>
 	</programme>
-	<programme channel="6166" start="20260820013000 +0000" stop="20260820014500 +0000">
-		<title>Business Today</title>
-		<desc>Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
-	</programme>
-	<programme channel="6166" start="20260820014500 +0000" stop="20260820020000 +0000">
-		<title>BBC Sport</title>
-		<desc>A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
+	<programme channel="6166" start="20260820013000 +0000" stop="20260820020000 +0000">
+		<title>BBC News</title>
+		<desc>The latest news from the BBC.</desc>
 	</programme>
 	<programme channel="6166" start="20260820020000 +0000" stop="20260820023000 +0000">
-		<title>Newsday</title>
-		<desc>Live from Singapore, the latest international news from the BBC.</desc>
+		<title>BBC News</title>
+		<desc>The latest news from the BBC.</desc>
 	</programme>
-	<programme channel="6166" start="20260820023000 +0000" stop="20260820024500 +0000">
-		<title>Business Today</title>
-		<desc>Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
-	</programme>
-	<programme channel="6166" start="20260820024500 +0000" stop="20260820030000 +0000">
-		<title>BBC Sport (r)</title>
-		<desc>A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
+	<programme channel="6166" start="20260820023000 +0000" stop="20260820030000 +0000">
+		<title>BBC News</title>
+		<desc>The latest news from the BBC.</desc>
 	</programme>
 	<programme channel="6166" start="20260820030000 +0000" stop="20260820033000 +0000">
-		<title>Newsday</title>
-		<desc>Live from Singapore, the latest international news from the BBC.</desc>
+		<title>BBC News</title>
+		<desc>The latest news from the BBC.</desc>
 	</programme>
 	<programme channel="6166" start="20260820033000 +0000" stop="20260820034500 +0000">
 		<title>Business Today</title>
-		<desc>Bringing the latest business news and up-to-date informed analysis from Singapore and around the world.</desc>
+		<desc>Business Today. Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
 	</programme>
 	<programme channel="6166" start="20260820034500 +0000" stop="20260820040000 +0000">
-		<title>BBC Sport (r)</title>
-		<desc>A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
+		<title>BBC News</title>
+		<desc>The latest news from the BBC.</desc>
 	</programme>
 	<programme channel="6166" start="20260820040000 +0000" stop="20260820043000 +0000">
-		<title>BBC News</title>
-		<desc>The latest news from the BBC.</desc>
+		<title>BBC News Now</title>
+		<desc>All the big stories</desc>
 	</programme>
 	<programme channel="6166" start="20260820043000 +0000" stop="20260820050000 +0000">
-		<title>Business Today</title>
-		<desc>Business Today. Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
+		<title>BBC News Now</title>
+		<desc>All the big stories</desc>
 	</programme>
 	<programme channel="6166" start="20260820050000 +0000" stop="20260820053000 +0000">
-		<title>BBC News</title>
-		<desc>The latest news from the BBC.</desc>
+		<title>BBC News Now</title>
+		<desc>All the big stories</desc>
 	</programme>
 	<programme channel="6166" start="20260820053000 +0000" stop="20260820060000 +0000">
-		<title>Business Today</title>
-		<desc>Business Today. Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
+		<title>BBC News Now</title>
+		<desc>All the big stories</desc>
 	</programme>
 	<programme channel="6166" start="20260820060000 +0000" stop="20260820063000 +0000">
-		<title>BBC News</title>
-		<desc>The latest news from the BBC.</desc>
-	</programme>
-	<programme channel="6166" start="20260820063000 +0000" stop="20260820070000 +0000">
-		<title>Business Today</title>
-		<desc>Business Today. Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
-	</programme>
-	<programme channel="6166" start="20260820070000 +0000" stop="20260820073000 +0000">
-		<title>BBC News</title>
-		<desc>The latest news from the BBC.</desc>
-	</programme>
-	<programme channel="6166" start="20260820073000 +0000" stop="20260820080000 +0000">
-		<title>BBC News</title>
-		<desc>The latest news from the BBC.</desc>
-	</programme>
-	<programme channel="6166" start="20260820080000 +0000" stop="20260820083000 +0000">
-		<title>BBC News</title>
-		<desc>The latest news from the BBC.</desc>
-	</programme>
-	<programme channel="6166" start="20260820083000 +0000" stop="20260820090000 +0000">
-		<title>BBC News</title>
-		<desc>The latest news from the BBC.</desc>
-	</programme>
-	<programme channel="6166" start="20260820090000 +0000" stop="20260820093000 +0000">
-		<title>BBC News</title>
-		<desc>The latest news from the BBC.</desc>
-	</programme>
-	<programme channel="6166" start="20260820093000 +0000" stop="20260820100000 +0000">
-		<title>BBC News</title>
-		<desc>The latest news from the BBC.</desc>
-	</programme>
-	<programme channel="6166" start="20260820100000 +0000" stop="20260820103000 +0000">
-		<title>BBC News</title>
-		<desc>The latest news from the BBC.</desc>
-	</programme>
-	<programme channel="6166" start="20260820103000 +0000" stop="20260820104500 +0000">
-		<title>Business Today</title>
-		<desc>Business Today. Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
-	</programme>
-	<programme channel="6166" start="20260820104500 +0000" stop="20260820110000 +0000">
-		<title>BBC News</title>
-		<desc>The latest news from the BBC.</desc>
-	</programme>
-	<programme channel="6166" start="20260820110000 +0000" stop="20260820113000 +0000">
 		<title>BBC News Now</title>
-		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+		<desc>All the big stories</desc>
 	</programme>
-	<programme channel="6166" start="20260820113000 +0000" stop="20260820120000 +0000">
-		<title>BBC News Now</title>
-		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-	</programme>
-	<programme channel="6166" start="20260820120000 +0000" stop="20260820123000 +0000">
-		<title>BBC News Now</title>
-		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-	</programme>
-	<programme channel="6166" start="20260820123000 +0000" stop="20260820130000 +0000">
-		<title>BBC News Now</title>
-		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-	</programme>
-	<programme channel="6166" start="20260820130000 +0000" stop="20260820133000 +0000">
-		<title>BBC News Now</title>
-		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-	</programme>
-	<programme channel="6166" start="20260820133000 +0000" stop="20260820134500 +0000">
+	<programme channel="6166" start="20260820063000 +0000" stop="20260820064500 +0000">
 		<title>Business Today - NYSE Opening Bell</title>
 		<desc>Business Today. Bringing the latest business news and up-to-date informed analysis from New York and around the world.</desc>
 	</programme>
-	<programme channel="6166" start="20260820134500 +0000" stop="20260820140000 +0000">
+	<programme channel="6166" start="20260820064500 +0000" stop="20260820070000 +0000">
 		<title>BBC News Now</title>
-		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+		<desc>All the big stories</desc>
 	</programme>
-	<programme channel="6166" start="20260820140000 +0000" stop="20260820143000 +0000">
+	<programme channel="6166" start="20260820070000 +0000" stop="20260820073000 +0000">
 		<title>Verified Live</title>
-		<desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
+		<desc>Matthew Amroliwala presents all the latest global and UK news</desc>
 	</programme>
-	<programme channel="6166" start="20260820143000 +0000" stop="20260820150000 +0000">
+	<programme channel="6166" start="20260820073000 +0000" stop="20260820080000 +0000">
 		<title>Verified Live</title>
-		<desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
+		<desc>Matthew Amroliwala presents all the latest global and UK news</desc>
 	</programme>
-	<programme channel="6166" start="20260820150000 +0000" stop="20260820153000 +0000">
+	<programme channel="6166" start="20260820080000 +0000" stop="20260820083000 +0000">
 		<title>Verified Live</title>
-		<desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
+		<desc>Matthew Amroliwala presents all the latest global and UK news</desc>
 	</programme>
-	<programme channel="6166" start="20260820153000 +0000" stop="20260820154500 +0000">
+	<programme channel="6166" start="20260820083000 +0000" stop="20260820084500 +0000">
 		<title>Business Today</title>
 		<desc>Business Today. Bringing the latest business news and up-to-date informed analysis from London and around the world.</desc>
 	</programme>
-	<programme channel="6166" start="20260820154500 +0000" stop="20260820160000 +0000">
+	<programme channel="6166" start="20260820084500 +0000" stop="20260820090000 +0000">
 		<title>Verified Live</title>
-		<desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
+		<desc>Matthew Amroliwala presents all the latest global and UK news</desc>
+	</programme>
+	<programme channel="6166" start="20260820090000 +0000" stop="20260820093000 +0000">
+		<title>Verified Live</title>
+		<desc>Matthew Amroliwala presents all the latest global and UK news</desc>
+	</programme>
+	<programme channel="6166" start="20260820093000 +0000" stop="20260820100000 +0000">
+		<title>Focus on Africa</title>
+		<desc>The biggest African and international stories from the BBC.</desc>
+	</programme>
+	<programme channel="6166" start="20260820100000 +0000" stop="20260820103000 +0000">
+		<title>The World Today with Maryam Moshiri</title>
+		<desc>Watch the best of the BBC's journalism from around the world.</desc>
+	</programme>
+	<programme channel="6166" start="20260820103000 +0000" stop="20260820110000 +0000">
+		<title>The World Today with Maryam Moshiri</title>
+		<desc>Watch the best of the BBC's journalism from around the world.</desc>
+	</programme>
+	<programme channel="6166" start="20260820110000 +0000" stop="20260820113000 +0000">
+		<title>The World Today with Maryam Moshiri</title>
+		<desc>Watch the best of the BBC's journalism from around the world.</desc>
+	</programme>
+	<programme channel="6166" start="20260820113000 +0000" stop="20260820120000 +0000">
+		<title>The World Today with Maryam Moshiri</title>
+		<desc>Watch the best of the BBC's journalism from around the world.</desc>
+	</programme>
+	<programme channel="6166" start="20260820120000 +0000" stop="20260820123000 +0000">
+		<title>The Context USA</title>
+		<desc>Special coverage from Washington DC and London</desc>
+	</programme>
+	<programme channel="6166" start="20260820123000 +0000" stop="20260820130000 +0000">
+		<title>The Context USA</title>
+		<desc>Special coverage from Washington DC and London</desc>
+	</programme>
+	<programme channel="6166" start="20260820130000 +0000" stop="20260820133000 +0000">
+		<title>The Context</title>
+		<desc>A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
+	</programme>
+	<programme channel="6166" start="20260820133000 +0000" stop="20260820140000 +0000">
+		<title>The Context</title>
+		<desc>A regular panel of guests from across the political spectrum discuss the biggest international stories of the day.</desc>
+	</programme>
+	<programme channel="6166" start="20260820140000 +0000" stop="20260820143000 +0000">
+		<title>BBC World News America</title>
+		<desc>The BBC presents in-depth reports on the major international and US news of the day presented from Washington DC.</desc>
+	</programme>
+	<programme channel="6166" start="20260820143000 +0000" stop="20260820150000 +0000">
+		<title>Newsnight</title>
+		<desc>Insights and global interviews on the crucial news stories of the day.</desc>
+	</programme>
+	<programme channel="6166" start="20260820150000 +0000" stop="20260820160000 +0000">
+		<title>BBC World News America</title>
+		<desc>The BBC presents in-depth reports on the major international and US news of the day presented from Washington DC.</desc>
 	</programme>
 	<programme channel="6166" start="20260820160000 +0000" stop="20260820163000 +0000">
 		<title>BBC News</title>
@@ -68932,22 +68940,20 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 		<desc>由资深新闻工作者负责的《世界观》，带你用世界观、观世界，更阔更广看新闻、长知识。</desc>
 	</programme>
 	<programme channel="5511" start="20260819160000 +0000" stop="20260819163000 +0000">
-		<title>兄弟帮 / Big Boys Club Episode 403</title>
+		<title>兄弟帮 / Big Boys Club Episode 2203</title>
 		<desc>《兄弟帮》是由一班「好兄弟」林盛斌、梁竞徽、王梓轩、范振锋及陈国峰主持的年青人清谈节目，每集邀请歌手、艺人或不同界别人士作嘉宾，进行轻松访谈，带来时下社会热话、流行文化、潮流玩意等多元化内容。有关爱情、两性，以致同性关系，是男男女女谈之不尽的话题，节目邀来不同界别的嘉宾「谈情说爱」，探讨两性相处之道。「异度空间」专题，请来嘉宾分享不思议事件，如见鬼、UFO、奇人奇事等刺激话题。</desc>
 	</programme>
 	<programme channel="5511" start="20260819163000 +0000" stop="20260819173000 +0000">
 		<title>再创世纪 / Another Era Episode 26</title>
-		<desc>第二十六集
-
-定垚答应投资程凯公司，承诺不会催促进度，程凯喜上眉梢。启堂怀疑大屿山项目的环评报告有蹊跷，找人调查，天生早一步解决，启堂气结。程凯迟迟未能递交智能家居进度，定垚设计刺激程凯，让他乖乖赶工。泽雨认识了来自香港的甘日朗与谢安东，二人计划建立烹饪平台，泽雨决定投资，想不到合作的网红竟然是端儿。在活动上，兆齐口不择言，戏说天生和明晞无子送终。明晞回家后哭崩，问天生信不信报应？</desc>
+		<desc>第二十六集定垚答应投资程凯公司，承诺不会催促进度，程凯喜上眉梢。启堂怀疑大屿山项目的环评报告有蹊跷，找人调查，天生早一步解决，启堂气结。程凯迟迟未能递交智能家居进度，定垚设计刺激程凯，让他乖乖赶工。泽雨认识了来自香港的甘日朗与谢安东，二人计划建立烹饪平台，泽雨决定投资，想不到合作的网红竟然是端儿。在活动上，兆齐口不择言，戏说天生和明晞无子送终。明晞回家后哭崩，问天生信不信报应？</desc>
 	</programme>
 	<programme channel="5511" start="20260819173000 +0000" stop="20260819183000 +0000">
 		<title>夫妻的博弈 &amp; 今日知多D / Mrs. RevengeWhat's On Today Episode 13</title>
-		<desc>善良的幸如(高海宁饰)，活于丈夫施继威(张颕康饰)的压榨下，罹患绝症。她撞破丈夫与唯一闺蜜潘雪文(郭柏妍饰)的奸情，争执间被推出马路惨遭车撞。然而，幸如突然醒来，发现一切似乎只是场梦。但当梦中场景接连应验，她意识到这或是预知梦。为改写命运，幸如决心扭转梦中的悲剧。幸如不仅要摆脱渣男与假闺蜜，更设法撮合二人，让雪文「接手」其原本的不幸。她又善用梦境记忆、换上亮丽外型，在职场力争上游，还和并肩作战的上司叶家谦(马国明饰)渐生情愫，最终开拓幸福人生！</desc>
+		<desc>第13集启荣欲剔除家谦的计划失败。幸如因熙妍醉言醉语，得悉家谦结婚在即；家谦独自借酒消愁。苓君高调公开家谦、晓彤婚讯，二人在人前表面恩爱，家谦在人后亦向晓彤表示会为二人关系努力。随着婚讯公开，家谦、熙妍的身分亦曝光……继威为协助其昌的私帮生意赚快钱，不惜利用雪文。雪文继续主动讨好佩贞，又登堂入室宣示主权……幸如好意协助运送继威一组遗下的道具到拍摄现场，到达后却见气氛有异，怀疑继威打算在此向她求婚。</desc>
 	</programme>
 	<programme channel="5511" start="20260819183000 +0000" stop="20260819190000 +0000">
 		<title>爱．回家之三代同糖 / Like Mother, Like Daughter Episode 8</title>
-		<desc>公关女皇唐万里(吴若希饰)独力照顾Gen Z女儿唐芯(李茵彤饰)，控制欲极强。万里的母亲唐曹嘉冰(车婉婉饰)半生相夫教子，忽然「觉醒」，由加拿大返港，决心寻回失落时光，更搬入万里家中。当年嘉冰曾因万里坚持未婚生下女儿，母女彻底闹僵，如今嘉冰却突然无预警杀入及扰乱万里的生活。万里力图维持秩序，唐芯则周旋两人之间，三代同堂火花四溅，矛盾不断。职场上，富二代老板空降「营销大神」杨帆(赵浚承饰)，与万里平起平坐正面交锋，万里事业与家庭同时迎来危机……</desc>
+		<desc>第8集 杜拜朱古力的诱惑嘉骢承继父亲的物业，每月收取丰厚租金，还改建名下一物业单位，与友人合办共享空间「开心小栈」，理应经济充裕。嘉冰着嘉骢出资打造金器送赠亲戚，嘉骢却诸多推搪。嘉冰向唐芯问及「开心小栈」的经营状况，察觉不妥，遂暗中监察嘉骢，竟有重大发现，怀疑他花天酒地、为女人大洒金钱，于是与唐芯设法「拯救」嘉骢，却揭开不为人知的真相。嘉冰欲为嘉骢出头追讨损失，却不果，幸而万里、唐芯动员人脉，合力为嘉骢解困……</desc>
 	</programme>
 	<programme channel="5511" start="20260819190000 +0000" stop="20260819193000 +0000">
 		<title>东张西望 / Scoop 2026 Episode 231</title>
@@ -68959,11 +68965,10 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 	</programme>
 	<programme channel="5511" start="20260819200000 +0000" stop="20260819210000 +0000">
 		<title>命转皇后 / Story of Kunning Palace Episode 3</title>
-		<desc>第15集
-雪宁凭观察推断出谢危乃假身分，谢危不置可否。薛定非奉平南王之命携燕牧的下半封信入京，岂料信被公仪丞部下偷走。雪宁故意把燕临送的琴变卖以便筹钱让周寅之跟逆党换信，以此引起谢危注意，并借谢危之手杜绝后患。</desc>
+		<desc>第3集雪宁列入芷衣伴读名单，孟氏气愤。薛远欲给燕家伪造罪证，周寅之成功接近燕临，雪宁猜到前世燕家惨案与寅之有关，提醒他别牵涉燕薛两家之争。雪宁在伴读考试故意乱写以求落选，不料谢危留她成为伴读，她折返找谢危…</desc>
 	</programme>
 	<programme channel="5511" start="20260819210000 +0000" stop="20260819214500 +0000">
-		<title>流行都市 / Big City Shop 2026 Episode 166</title>
+		<title>流行都市 / Big City Shop 2026 Episode 2048</title>
 		<desc>《流行都市》为观众介绍时令产品、健康养生、健体运动、护肤化妆、时尚服饰、婴幼儿护理、育儿知识、城中美食、饲养宠物等潮流信息，内容包罗万有！主持们亲身体验、示范或测试之外，还会邀请嘉宾带来相关专业知识。烹饪环节方面，多位手势了得的厨艺专家轮流登场，示范简单美味的健康美食、家常小菜，替大家解决煮食烦恼。</desc>
 	</programme>
 	<programme channel="5511" start="20260819214500 +0000" stop="20260819220000 +0000">
@@ -68984,23 +68989,15 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 	</programme>
 	<programme channel="5511" start="20260820000000 +0000" stop="20260820010000 +0000">
 		<title>再创世纪 / Another Era Episode 27</title>
-		<desc>第二十七集
-
-端儿看到众筹平台出事的新闻后，答应泽雨合作发展烹饪平台。程凯发现被定垚耍了，大兴问罪，却突然对她有了异样感觉。力晨混入季生集团调查，高哲叮嘱他小心。高哲意外收到思妤来电，思妤工作的环保公司面临倒闭，请求高哲施援手。启堂将智能家居引入傲堂旗下楼盘，取得巨大成功，定垚暗觉不安。其后启堂欲收购程凯的超级电池发展电动车，程凯因决定追求定垚而有保留。泽雨首次在内地过生日，端儿炮制港式小吃庆祝，泽雨感动落泪。</desc>
+		<desc>第二十七集端儿看到众筹平台出事的新闻后，答应泽雨合作发展烹饪平台。程凯发现被定垚耍了，大兴问罪，却突然对她有了异样感觉。力晨混入季生集团调查，高哲叮嘱他小心。高哲意外收到思妤来电，思妤工作的环保公司面临倒闭，请求高哲施援手。启堂将智能家居引入傲堂旗下楼盘，取得巨大成功，定垚暗觉不安。其后启堂欲收购程凯的超级电池发展电动车，程凯因决定追求定垚而有保留。泽雨首次在内地过生日，端儿炮制港式小吃庆祝，泽雨感动落泪。</desc>
 	</programme>
 	<programme channel="5511" start="20260820010000 +0000" stop="20260820013000 +0000">
 		<title>爱．回家之三代同糖 / Like Mother, Like Daughter Episode 8</title>
-		<desc>公关女皇唐万里(吴若希饰)独力照顾Gen Z女儿唐芯(李茵彤饰)，控制欲极强。万里的母亲唐曹嘉冰(车婉婉饰)半生相夫教子，忽然「觉醒」，由加拿大返港，决心寻回失落时光，更搬入万里家中。当年嘉冰曾因万里坚持未婚生下女儿，母女彻底闹僵，如今嘉冰却突然无预警杀入及扰乱万里的生活。万里力图维持秩序，唐芯则周旋两人之间，三代同堂火花四溅，矛盾不断。职场上，富二代老板空降「营销大神」杨帆(赵浚承饰)，与万里平起平坐正面交锋，万里事业与家庭同时迎来危机……</desc>
+		<desc>第8集 杜拜朱古力的诱惑嘉骢承继父亲的物业，每月收取丰厚租金，还改建名下一物业单位，与友人合办共享空间「开心小栈」，理应经济充裕。嘉冰着嘉骢出资打造金器送赠亲戚，嘉骢却诸多推搪。嘉冰向唐芯问及「开心小栈」的经营状况，察觉不妥，遂暗中监察嘉骢，竟有重大发现，怀疑他花天酒地、为女人大洒金钱，于是与唐芯设法「拯救」嘉骢，却揭开不为人知的真相。嘉冰欲为嘉骢出头追讨损失，却不果，幸而万里、唐芯动员人脉，合力为嘉骢解困……</desc>
 	</programme>
 	<programme channel="5511" start="20260820013000 +0000" stop="20260820020000 +0000">
-		<title>Hands Up / Hands Up 2026 Episode 219</title>
-		<desc>全新儿童节目《Hands Up》鼓励小朋友勇于发问，表达自我，向目标进发！
-
-吉祥物「酱汁家族」成员跟一众主持演出短剧，陪伴大家度过愉快时光。另会带来多首儿歌，让孩子们边唱边学习生活知识。
-
-小朋友走进录像厂，寓学习于娱乐。透过不同主题游戏，加强逻辑思维、锻练体能；玩转STEAM实验，脑力全开！
-
-节目特设表演小舞台，让小朋友展示才艺；齐集创意工作室，DIY小手工。小教「煮」环节，家长和子女共享亲子烹饪乐趣。</desc>
+		<title>Hands Up / Hands Up 2026 Episode 1773</title>
+		<desc>全新儿童节目《Hands Up》鼓励小朋友勇于发问，表达自我，向目标进发！吉祥物「酱汁家族」成员跟一众主持演出短剧，陪伴大家度过愉快时光。另会带来多首儿歌，让孩子们边唱边学习生活知识。小朋友走进录像厂，寓学习于娱乐。透过不同主题游戏，加强逻辑思维、锻练体能；玩转STEAM实验，脑力全开！节目特设表演小舞台，让小朋友展示才艺；齐集创意工作室，DIY小手工。小教「煮」环节，家长和子女共享亲子烹饪乐趣。</desc>
 	</programme>
 	<programme channel="5511" start="20260820020000 +0000" stop="20260820023000 +0000">
 		<title>南美潮什么2 &amp; 今日知多D / Severe Case Decoded &amp; What's On Today Episode 3</title>
@@ -69008,45 +69005,35 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 	</programme>
 	<programme channel="5511" start="20260820023000 +0000" stop="20260820030000 +0000">
 		<title>港女野人 / Chill. Hike. Camping</title>
-		<desc>第3集
-山艺牌 序章
-今集Honey另有任务，撇下三位队友单独行动。三人随即会合达Sir，挑战山艺牌测试。要确认登山方位，需了解MGRS坐标；学过运用地图及指南针后，便全副装备进入二战遗留的城门地堡。地堡曲折幽暗如迷宫，三人轮流导航，能否走出迷阵？Honey正觅路前来会合却不慎跌倒……三人靠呼喊找到失纵「受伤」的Honey位置，把她又背又抱走过崎岖山路，才得悉一切竟是意外应变训练！众人有何感受？这个训练为何如此重要？</desc>
+		<desc>第1集港女．野人 开动！何泳芍、陈若思、廖慧仪和胡美贻，先后透过港姐竞选入行，今次一同参与真人骚节目，全方位挑战本地不同难度系数的山野。四位活力主持，无惧上山下海、荒岛求生、攀岩觅路，但原来有人事前全无扎营经验，行山居然不带饮用水？摄制组请来山艺教练、野炊达人、环保战士等教路，仍避不过意外，情况有多惊险？四人一起体验野外露营，「驾到边、瞓到边」的车中泊；亲手炮制串烧原只嫩鸡、巨型鲑鱼等野炊美食……由港女变身「野人」！</desc>
 	</programme>
 	<programme channel="5511" start="20260820030000 +0000" stop="20260820040000 +0000">
 		<title>夫妻的博弈 / Mrs. Revenge Episode 13</title>
-		<desc>善良的幸如(高海宁饰)，活于丈夫施继威(张颕康饰)的压榨下，罹患绝症。她撞破丈夫与唯一闺蜜潘雪文(郭柏妍饰)的奸情，争执间被推出马路惨遭车撞。然而，幸如突然醒来，发现一切似乎只是场梦。但当梦中场景接连应验，她意识到这或是预知梦。为改写命运，幸如决心扭转梦中的悲剧。幸如不仅要摆脱渣男与假闺蜜，更设法撮合二人，让雪文「接手」其原本的不幸。她又善用梦境记忆、换上亮丽外型，在职场力争上游，还和并肩作战的上司叶家谦(马国明饰)渐生情愫，最终开拓幸福人生！</desc>
+		<desc>第13集启荣欲剔除家谦的计划失败。幸如因熙妍醉言醉语，得悉家谦结婚在即；家谦独自借酒消愁。苓君高调公开家谦、晓彤婚讯，二人在人前表面恩爱，家谦在人后亦向晓彤表示会为二人关系努力。随着婚讯公开，家谦、熙妍的身分亦曝光……继威为协助其昌的私帮生意赚快钱，不惜利用雪文。雪文继续主动讨好佩贞，又登堂入室宣示主权……幸如好意协助运送继威一组遗下的道具到拍摄现场，到达后却见气氛有异，怀疑继威打算在此向她求婚。</desc>
 	</programme>
 	<programme channel="5511" start="20260820040000 +0000" stop="20260820043000 +0000">
 		<title>东张西望 / Scoop 2026 Episode 231</title>
 		<desc>《东张西望》星期一至日，紧贴追踪社会大事、趣闻逸事，并报导娱乐圈最新动态、艺人消息，以及剧集宣传和花絮。「今日突发」环节为大家追踪即日热门新闻；专题环节，深入探讨大众关心的时事、社会及民生问题，并访问相关的专家。</desc>
 	</programme>
 	<programme channel="5511" start="20260820043000 +0000" stop="20260820045500 +0000">
-		<title>兄弟帮 / Big Boys Club Episode 403</title>
+		<title>兄弟帮 / Big Boys Club Episode 2203</title>
 		<desc>《兄弟帮》是由一班「好兄弟」林盛斌、梁竞徽、王梓轩、范振锋及陈国峰主持的年青人清谈节目，每集邀请歌手、艺人或不同界别人士作嘉宾，进行轻松访谈，带来时下社会热话、流行文化、潮流玩意等多元化内容。有关爱情、两性，以致同性关系，是男男女女谈之不尽的话题，节目邀来不同界别的嘉宾「谈情说爱」，探讨两性相处之道。「异度空间」专题，请来嘉宾分享不思议事件，如见鬼、UFO、奇人奇事等刺激话题。</desc>
 	</programme>
 	<programme channel="5511" start="20260820045500 +0000" stop="20260820052000 +0000">
-		<title>Hands Up / Hands Up 2026 Episode 219</title>
-		<desc>全新儿童节目《Hands Up》鼓励小朋友勇于发问，表达自我，向目标进发！
-
-吉祥物「酱汁家族」成员跟一众主持演出短剧，陪伴大家度过愉快时光。另会带来多首儿歌，让孩子们边唱边学习生活知识。
-
-小朋友走进录像厂，寓学习于娱乐。透过不同主题游戏，加强逻辑思维、锻练体能；玩转STEAM实验，脑力全开！
-
-节目特设表演小舞台，让小朋友展示才艺；齐集创意工作室，DIY小手工。小教「煮」环节，家长和子女共享亲子烹饪乐趣。</desc>
+		<title>Hands Up / Hands Up 2026 Episode 1773</title>
+		<desc>全新儿童节目《Hands Up》鼓励小朋友勇于发问，表达自我，向目标进发！吉祥物「酱汁家族」成员跟一众主持演出短剧，陪伴大家度过愉快时光。另会带来多首儿歌，让孩子们边唱边学习生活知识。小朋友走进录像厂，寓学习于娱乐。透过不同主题游戏，加强逻辑思维、锻练体能；玩转STEAM实验，脑力全开！节目特设表演小舞台，让小朋友展示才艺；齐集创意工作室，DIY小手工。小教「煮」环节，家长和子女共享亲子烹饪乐趣。</desc>
 	</programme>
 	<programme channel="5511" start="20260820052000 +0000" stop="20260820060500 +0000">
-		<title>流行都市 / Big City Shop 2026 Episode 167</title>
+		<title>流行都市 / Big City Shop 2026 Episode 2049</title>
 		<desc>《流行都市》为观众介绍时令产品、健康养生、健体运动、护肤化妆、时尚服饰、婴幼儿护理、育儿知识、城中美食、饲养宠物等潮流信息，内容包罗万有！主持们亲身体验、示范或测试之外，还会邀请嘉宾带来相关专业知识。烹饪环节方面，多位手势了得的厨艺专家轮流登场，示范简单美味的健康美食、家常小菜，替大家解决煮食烦恼。</desc>
 	</programme>
 	<programme channel="5511" start="20260820060500 +0000" stop="20260820063000 +0000">
 		<title>爱．回家之三代同糖 / Like Mother, Like Daughter Episode 8</title>
-		<desc>公关女皇唐万里(吴若希饰)独力照顾Gen Z女儿唐芯(李茵彤饰)，控制欲极强。万里的母亲唐曹嘉冰(车婉婉饰)半生相夫教子，忽然「觉醒」，由加拿大返港，决心寻回失落时光，更搬入万里家中。当年嘉冰曾因万里坚持未婚生下女儿，母女彻底闹僵，如今嘉冰却突然无预警杀入及扰乱万里的生活。万里力图维持秩序，唐芯则周旋两人之间，三代同堂火花四溅，矛盾不断。职场上，富二代老板空降「营销大神」杨帆(赵浚承饰)，与万里平起平坐正面交锋，万里事业与家庭同时迎来危机……</desc>
+		<desc>第8集 杜拜朱古力的诱惑嘉骢承继父亲的物业，每月收取丰厚租金，还改建名下一物业单位，与友人合办共享空间「开心小栈」，理应经济充裕。嘉冰着嘉骢出资打造金器送赠亲戚，嘉骢却诸多推搪。嘉冰向唐芯问及「开心小栈」的经营状况，察觉不妥，遂暗中监察嘉骢，竟有重大发现，怀疑他花天酒地、为女人大洒金钱，于是与唐芯设法「拯救」嘉骢，却揭开不为人知的真相。嘉冰欲为嘉骢出头追讨损失，却不果，幸而万里、唐芯动员人脉，合力为嘉骢解困……</desc>
 	</programme>
 	<programme channel="5511" start="20260820063000 +0000" stop="20260820073000 +0000">
 		<title>万福金安 &amp; 今日知多D / Wan Fu Jin An &amp; What's On Today Episode 12</title>
-		<desc>皇后顾清（王艺瑾 饰）遭人陷害，命丧一场精心布局的大火，却意外重生到尚衣局婢女凤卿（方瑾 饰）身上。从高高在上的皇后变成身份卑微的宫女，凤卿没有被悲痛击倒，为了保护妹妹顾婉（吴曼思 饰），亦为查出自己遇害真相、揪出幕后真凶，她决定暂时隐藏锋芒，以凤卿身份在深宫中低调蛰伏。
-凤卿深知单靠一己之力难以翻案，于是暗中联络身为太医的弟弟顾玹（储子竣 饰）。姐弟二人默契十足，连手在后宫各方势力之间周旋，一边避开重重刁难与陷阱，一边搜集线索，与宫中奸佞斗智斗力。
-在这场复仇与守护交织的博弈中，凤卿与帝王萧骆（赵华为 饰）再度产生交集。萧骆一直对顾清的「惨死」心存疑窦，更隐约觉得凤卿身上有顾清的影子，因此不断试探她。凤卿面对萧骆亦是百感交集，二人在一次又一次交锋与拉扯之间，逐步解开昔日误会，前世未了的羁绊亦悄然延续。</desc>
+		<desc>皇后顾清（王艺瑾 饰）遭人陷害，命丧一场精心布局的大火，却意外重生到尚衣局婢女凤卿（方瑾 饰）身上。从高高在上的皇后变成身份卑微的宫女，凤卿没有被悲痛击倒，为了保护妹妹顾婉（吴曼思 饰），亦为查出自己遇害真相、揪出幕后真凶，她决定暂时隐藏锋芒，以凤卿身份在深宫中低调蛰伏。凤卿深知单靠一己之力难以翻案，于是暗中联络身为太医的弟弟顾玹（储子竣 饰）。姐弟二人默契十足，连手在后宫各方势力之间周旋，一边避开重重刁难与陷阱，一边搜集线索，与宫中奸佞斗智斗力。在这场复仇与守护交织的博弈中，凤卿与帝王萧骆（赵华为 饰）再度产生交集。萧骆一直对顾清的「惨死」心存疑窦，更隐约觉得凤卿身上有顾清的影子，因此不断试探她。凤卿面对萧骆亦是百感交集，二人在一次又一次交锋与拉扯之间，逐步解开昔日误会，前世未了的羁绊亦悄然延续。</desc>
 	</programme>
 	<programme channel="5511" start="20260820073000 +0000" stop="20260820080000 +0000">
 		<title>南美潮什么2 / Hipster Tour - South America (Sr.2) Episode 3</title>
@@ -69057,17 +69044,16 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 		<desc>香港人生活多姿多采，《港生活．港享受》既呈献高贵典雅的品味生活，也会带来贴地亲民的优质享受。节目结合多元化主题，每集探索不同范畴，并请来各行各业的精英分享成功之道。</desc>
 	</programme>
 	<programme channel="5511" start="20260820083000 +0000" stop="20260820090000 +0000">
-		<title>地球大神秘 / Shock Mystery (Sr.2) Episode 6</title>
+		<title>地球大神秘 / Shock Mystery (Sr.2) Episode 102</title>
 		<desc>人类对未知的事物，与生俱来有种好奇心，甚至有人相信，在生活中的一切事物，并非全部可以单从科学物理现像解释得到，即使表面上有可以接受的答案，也未必能够圆满解释所有疑问！《地球大神秘》制作队从世界各地搜集到数以百计奇异事物内容，都是无法以一般人接受的观点加以解释，除非呢个世界有「超自然」的存在！节目将会让大家知道不可思议的神秘事物，不但在过去存在，而且目前仍然存在！</desc>
 	</programme>
 	<programme channel="5511" start="20260820090000 +0000" stop="20260820093000 +0000">
-		<title>兄弟帮 / Big Boys Club Episode 404</title>
+		<title>兄弟帮 / Big Boys Club Episode 2204</title>
 		<desc>《兄弟帮》是由一班「好兄弟」林盛斌、梁竞徽、王梓轩、范振锋及陈国峰主持的年青人清谈节目，每集邀请歌手、艺人或不同界别人士作嘉宾，进行轻松访谈，带来时下社会热话、流行文化、潮流玩意等多元化内容。有关爱情、两性，以致同性关系，是男男女女谈之不尽的话题，节目邀来不同界别的嘉宾「谈情说爱」，探讨两性相处之道。「异度空间」专题，请来嘉宾分享不思议事件，如见鬼、UFO、奇人奇事等刺激话题。</desc>
 	</programme>
 	<programme channel="5511" start="20260820093000 +0000" stop="20260820103000 +0000">
 		<title>命转皇后 / Story of Kunning Palace Episode 4</title>
-		<desc>第15集
-雪宁凭观察推断出谢危乃假身分，谢危不置可否。薛定非奉平南王之命携燕牧的下半封信入京，岂料信被公仪丞部下偷走。雪宁故意把燕临送的琴变卖以便筹钱让周寅之跟逆党换信，以此引起谢危注意，并借谢危之手杜绝后患。</desc>
+		<desc>第4集姚惜觉得张遮配不上自己，想要退亲，尤月献计，只要散播张遮命中克妻的谣言，姚家即可退亲，姜雪宁听后教训了尤月一顿。姜雪宁让尤芳吟找许文益买下生丝，静候时机。周寅之在侯府暗查时，竟发现了平南王的徽记残片…</desc>
 	</programme>
 	<programme channel="5511" start="20260820103000 +0000" stop="20260820113500 +0000">
 		<title>六点半新闻报导&amp; 世界观 &amp; 今日知多D / News At 18:30 &amp; Global View &amp; What's On Today</title>
@@ -69079,22 +69065,22 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 	</programme>
 	<programme channel="5511" start="20260820120000 +0000" stop="20260820123000 +0000">
 		<title>爱．回家之三代同糖 / Like Mother, Like Daughter Episode 9</title>
-		<desc>公关女皇唐万里(吴若希饰)独力照顾Gen Z女儿唐芯(李茵彤饰)，控制欲极强。万里的母亲唐曹嘉冰(车婉婉饰)半生相夫教子，忽然「觉醒」，由加拿大返港，决心寻回失落时光，更搬入万里家中。当年嘉冰曾因万里坚持未婚生下女儿，母女彻底闹僵，如今嘉冰却突然无预警杀入及扰乱万里的生活。万里力图维持秩序，唐芯则周旋两人之间，三代同堂火花四溅，矛盾不断。职场上，富二代老板空降「营销大神」杨帆(赵浚承饰)，与万里平起平坐正面交锋，万里事业与家庭同时迎来危机……</desc>
+		<desc>第9集 请秘书为何那样（上）万里的组员何文谦、曾碧池与巫慧慧为表忠心而抵制杨帆，惹起不少事端，文谦更不慎打破价值不菲的展品。万里前往排舞室找物主张太道歉，发现张太与公关界声誉不佳的型男范特栖练舞，表现亲昵。杨帆亦到来，自称为相同目的而来，万里觉得奇怪，藉词阻拦让张太离去。然而，杨帆终究抢先摆平此事。另一方面，万里、杨帆同时聘请秘书，碧池等人报复杨帆，为他物色一位「极品」秘书莫希灵。希灵以为终于有人赏识自己，却意外发现真相……</desc>
 	</programme>
 	<programme channel="5511" start="20260820123000 +0000" stop="20260820133000 +0000">
 		<title>夫妻的博弈 / Mrs. Revenge Episode 14</title>
-		<desc>善良的幸如(高海宁饰)，活于丈夫施继威(张颕康饰)的压榨下，罹患绝症。她撞破丈夫与唯一闺蜜潘雪文(郭柏妍饰)的奸情，争执间被推出马路惨遭车撞。然而，幸如突然醒来，发现一切似乎只是场梦。但当梦中场景接连应验，她意识到这或是预知梦。为改写命运，幸如决心扭转梦中的悲剧。幸如不仅要摆脱渣男与假闺蜜，更设法撮合二人，让雪文「接手」其原本的不幸。她又善用梦境记忆、换上亮丽外型，在职场力争上游，还和并肩作战的上司叶家谦(马国明饰)渐生情愫，最终开拓幸福人生！</desc>
+		<desc>第14集继威早已拜托佩贞骗走雪文，免被雪文坏事。熙妍受浩恩所托帮他追求幸如，意外洞悉继威的求婚大计。雪文察觉被骗，震怒赶至拍摄现场，扬言要公开继威与自己出轨之事……继威向幸如求婚，她无惧群众压力，断言拒绝，更向继威、雪文作出反击……雪文知道继威仍打算跟幸如结婚，恼恨吃醋。美淇最终没有辞职。幸如、家谦推测继威、其昌收受回佣，但苦无实证。幸如故意激怒雪文，要藉此令她供出继威，雪文却忿然道出憎恨幸如的原因。</desc>
 	</programme>
 	<programme channel="5511" start="20260820133000 +0000" stop="20260820143000 +0000">
 		<title>大唐迷雾 / The Tang Mist</title>
-		<desc>大唐迷雾 / The Tang Mist</desc>
+		<desc>The Tang Mist</desc>
 	</programme>
 	<programme channel="5511" start="20260820143000 +0000" stop="20260820150000 +0000">
 		<title>南美潮什么2 / Hipster Tour - South America (Sr.2) Episode 4</title>
 		<desc>梁芷佩重启南美洲之行，解锁更多拉丁国家，一趟旅程玩转四季！漫步阿根廷世遗冰川，一尝加入冰川冰块的威士忌。发掘Patagonia的世外桃源，享受美景与美食。转往智利复活节岛，藉单车环岛游找寻巨型石像。亚马逊森林是世界最大的热带雨林，跟随原住民开展探险之旅。位于厄瓜多尔的加拉帕戈斯群岛因进化论而闻名，登岛一探动物生态。来到哥伦比亚，爽浸泥浆浴，再于加勒比海畅泳，顺道到访海中心的悬浮小岛，见识岛民生活。</desc>
 	</programme>
 	<programme channel="5511" start="20260820150000 +0000" stop="20260820151500 +0000">
-		<title>娱乐头条 / EXTRA Episode 806</title>
+		<title>娱乐头条 / EXTRA Episode 4087</title>
 		<desc>每晚紧贴香港娱乐圈的消息，以至世界各地的影视娱乐新闻，报导艺人最新动态、剧集和电影宣传、演唱会精华、颁奖礼盛况等，甚至远赴外地采访娱乐盛事、追踪各地影星，专访观众熟悉的歌、影、视红人，让大家瞬间掌握影视娱乐圈的动态和最新消息。</desc>
 	</programme>
 	<programme channel="5511" start="20260820151500 +0000" stop="20260820155000 +0000">
@@ -72289,52 +72275,56 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 		<title>Music Bank K-Chart</title>
 		<desc>Follow the latest trend in the Korean music scene through the K-chart, a summary of the week's hottest songs.</desc>
 	</programme>
-	<programme channel="5038" start="20260819154500 +0000" stop="20260819171000 +0000">
+	<programme channel="5038" start="20260819154500 +0000" stop="20260819165500 +0000">
 		<title>Stars' Top Recipe at Fun-Staurant</title>
 		<desc>Celebrities known for their cooking skills become “chef-entertainers,” revealing signature recipes and creativemenu ideas to share with viewers.</desc>
 	</programme>
-	<programme channel="5038" start="20260819171000 +0000" stop="20260819183000 +0000">
-		<title>Music Bank</title>
+	<programme channel="5038" start="20260819165500 +0000" stop="20260819181500 +0000">
+		<title>Music Bank Episode 1303</title>
 		<desc>The best tunes in Korea! the most sensational music show on TV satisfies all your senses! Fantastic performances and Awe-inspiring harmony by the nation's top musicians! Follow the latest trend in the Korean music scene through the K-chart, a summary of the week's hottest songs.</desc>
 	</programme>
+	<programme channel="5038" start="20260819181500 +0000" stop="20260819183000 +0000">
+		<title>Idol Booth Episode 2</title>
+		<desc>&lt;Idol Booth&gt; is where fans can meet their favorite idols just as both idols and fans have always envisioned them—pretty, cute, full of member chemistry, and as vivid as photocards coming to life—right before their eyes.Set against the backdrop of photo booths—a familiar place for Gen Z and Millennials to make memories with friends and a must-visit spot for many international visitors to Korea—along with the dopamine-rushing claw machine arcades, the show captures idols at their prettiest, cut...</desc>
+	</programme>
 	<programme channel="5038" start="20260819183000 +0000" stop="20260819190500 +0000">
-		<title>Our Happy Days</title>
+		<title>Our Happy Days Episode 96</title>
 		<desc>A chaotic, high-stakes family saga where a seemingly perfect man and an endearingly flawed woman collide while every generation fights to become the main character of their own life.</desc>
 	</programme>
 	<programme channel="5038" start="20260819190500 +0000" stop="20260819194500 +0000">
-		<title>A Trap Called Desire</title>
+		<title>A Trap Called Desire Episode 3</title>
 		<desc>A woman whose life was stolen by a false murder accusation fights to reclaim her destiny in a gripping revenge drama against insatiable greed.</desc>
 	</programme>
 	<programme channel="5038" start="20260819194500 +0000" stop="20260819210000 +0000">
-		<title>Problem Child in House</title>
+		<title>Problem Child in House Episode 62</title>
 		<desc>A collection of outrageous problems that you have never heard of!A great 'knowledge talk show' where problematic children who are struggling and fighting in the emotional rooftop room gain true wisdom about life and the world.</desc>
 	</programme>
 	<programme channel="5038" start="20260819210000 +0000" stop="20260819223000 +0000">
-		<title>Noona, You Are A Woman To Me 2</title>
+		<title>Noona, You Are A Woman To Me 2 Episode 7</title>
 		<desc>Does age really matter when it comes to love?This dating reality series follows older women and younger men as they move beyond the real-world barriers of age differences in search of true love.The moment they cross the line, a new kind of older-woman–younger-man romance begins—setting a fresh standard for modern dating reality shows.</desc>
 	</programme>
 	<programme channel="5038" start="20260819223000 +0000" stop="20260819231000 +0000">
-		<title>A Graceful Liar</title>
+		<title>A Graceful Liar Episode 85</title>
 		<desc>A bold yet heartbreaking story of a mother and daughter-in-law who meet through marriage and wage a war of lies to seize the Geonhyang family, struggling for a dramatic reversal of fortune.</desc>
 	</programme>
 	<programme channel="5038" start="20260819231000 +0000" stop="20260820002500 +0000">
-		<title>Mad Dog</title>
+		<title>Mad Dog Episode 3</title>
 		<desc>The drama portrays the reality of Korea through diverse insurance crimes that are prevalent in the country. There are the 'copy cats' that imitate and improve the existing crimes, and the 'mad dogs' who catch these bad cats.</desc>
 	</programme>
 	<programme channel="5038" start="20260820002500 +0000" stop="20260820010000 +0000">
-		<title>Our Happy Days</title>
+		<title>Our Happy Days Episode 96</title>
 		<desc>A chaotic, high-stakes family saga where a seemingly perfect man and an endearingly flawed woman collide while every generation fights to become the main character of their own life.</desc>
 	</programme>
 	<programme channel="5038" start="20260820010000 +0000" stop="20260820014000 +0000">
-		<title>A Trap Called Desire</title>
+		<title>A Trap Called Desire Episode 3</title>
 		<desc>A woman whose life was stolen by a false murder accusation fights to reclaim her destiny in a gripping revenge drama against insatiable greed.</desc>
 	</programme>
 	<programme channel="5038" start="20260820014000 +0000" stop="20260820022000 +0000">
-		<title>A Graceful Liar</title>
+		<title>A Graceful Liar Episode 85</title>
 		<desc>A bold yet heartbreaking story of a mother and daughter-in-law who meet through marriage and wage a war of lies to seize the Geonhyang family, struggling for a dramatic reversal of fortune.</desc>
 	</programme>
 	<programme channel="5038" start="20260820022000 +0000" stop="20260820033500 +0000">
-		<title>Love on the Menu</title>
+		<title>Love on the Menu Episode 2</title>
 		<desc>A heartwarming family drama about a man and a woman who rebuild their broken families and discover the recipe for love, healing, and togetherness.</desc>
 	</programme>
 	<programme channel="5038" start="20260820033500 +0000" stop="20260820034000 +0000">
@@ -72342,63 +72332,59 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 		<desc>The true classic of the century is born again! The legendary classic is reinterpreted by the best vocalists in Korea. Don't miss out on the heart-moving moments that transcend generations.</desc>
 	</programme>
 	<programme channel="5038" start="20260820034000 +0000" stop="20260820051000 +0000">
-		<title>Noona, You Are A Woman To Me 2</title>
+		<title>Noona, You Are A Woman To Me 2 Episode 7</title>
 		<desc>Does age really matter when it comes to love?This dating reality series follows older women and younger men as they move beyond the real-world barriers of age differences in search of true love.The moment they cross the line, a new kind of older-woman–younger-man romance begins—setting a fresh standard for modern dating reality shows.</desc>
 	</programme>
 	<programme channel="5038" start="20260820051000 +0000" stop="20260820062500 +0000">
-		<title>Problem Child in House</title>
+		<title>Problem Child in House Episode 62</title>
 		<desc>A collection of outrageous problems that you have never heard of!A great 'knowledge talk show' where problematic children who are struggling and fighting in the emotional rooftop room gain true wisdom about life and the world.</desc>
 	</programme>
 	<programme channel="5038" start="20260820062500 +0000" stop="20260820074000 +0000">
-		<title>Mad Dog</title>
+		<title>Mad Dog Episode 3</title>
 		<desc>The drama portrays the reality of Korea through diverse insurance crimes that are prevalent in the country. There are the 'copy cats' that imitate and improve the existing crimes, and the 'mad dogs' who catch these bad cats.</desc>
 	</programme>
 	<programme channel="5038" start="20260820074000 +0000" stop="20260820080000 +0000">
 		<title>KBS WORLD News Today</title>
 		<desc>KBS World Daily English News Anchor : Choi Kyu-yeon</desc>
 	</programme>
-	<programme channel="5038" start="20260820080000 +0000" stop="20260820085500 +0000">
-		<title>Jang Youngsil: The Greatest Scientist of Joseon</title>
+	<programme channel="5038" start="20260820080000 +0000" stop="20260820090000 +0000">
+		<title>Jang Youngsil: The Greatest Scientist of Joseon Episode 23</title>
 		<desc>The drama is the first 'historic science' drama that has been produced in Korea. This drama depicts the successful life story of the scientist Jang Youngsil that contributed to the development and accomplishment of Joseon's science during the 15th century. In particular, the drama emphasizes his accomplishment through showing the restrictions and difficulties he experienced due to his social class as a slave. Moreover, the drama aims to depict Jang Youngsil as the role model of 'Korea's youth...</desc>
 	</programme>
-	<programme channel="5038" start="20260820085500 +0000" stop="20260820095000 +0000">
-		<title>Jang Youngsil: The Greatest Scientist of Joseon</title>
+	<programme channel="5038" start="20260820090000 +0000" stop="20260820095500 +0000">
+		<title>Jang Youngsil: The Greatest Scientist of Joseon Episode 24</title>
 		<desc>The drama is the first 'historic science' drama that has been produced in Korea. This drama depicts the successful life story of the scientist Jang Youngsil that contributed to the development and accomplishment of Joseon's science during the 15th century. In particular, the drama emphasizes his accomplishment through showing the restrictions and difficulties he experienced due to his social class as a slave. Moreover, the drama aims to depict Jang Youngsil as the role model of 'Korea's youth...</desc>
 	</programme>
-	<programme channel="5038" start="20260820095000 +0000" stop="20260820100500 +0000">
+	<programme channel="5038" start="20260820095500 +0000" stop="20260820101000 +0000">
 		<title>Got The Spot</title>
 		<desc>This program highlights locations that are truly exceptional, blending traditional elements with modern trends. Through the eyes of foreign influencers who thrive on social media, we aim to showcase the unique charm of different regions and generate a wealth of engaging content in this groundbreaking travel initiative!</desc>
 	</programme>
-	<programme channel="5038" start="20260820100500 +0000" stop="20260820102000 +0000">
-		<title>The Seasons W</title>
-		<desc>A talk show brings you music and stories that will "get rid of all your worries and all your concerns."</desc>
-	</programme>
-	<programme channel="5038" start="20260820102000 +0000" stop="20260820102500 +0000">
-		<title>National Heritage Pilgrimage Deo</title>
-		<desc>National Heritage Pilgrimage Deo</desc>
+	<programme channel="5038" start="20260820101000 +0000" stop="20260820102500 +0000">
+		<title>Idol Booth Episode 2</title>
+		<desc>&lt;Idol Booth&gt; is where fans can meet their favorite idols just as both idols and fans have always envisioned them—pretty, cute, full of member chemistry, and as vivid as photocards coming to life—right before their eyes.Set against the backdrop of photo booths—a familiar place for Gen Z and Millennials to make memories with friends and a must-visit spot for many international visitors to Korea—along with the dopamine-rushing claw machine arcades, the show captures idols at their prettiest, cut...</desc>
 	</programme>
 	<programme channel="5038" start="20260820102500 +0000" stop="20260820113500 +0000">
-		<title>Problem Child in House</title>
+		<title>Problem Child in House Episode 62</title>
 		<desc>A collection of outrageous problems that you have never heard of!A great 'knowledge talk show' where problematic children who are struggling and fighting in the emotional rooftop room gain true wisdom about life and the world.</desc>
 	</programme>
 	<programme channel="5038" start="20260820113500 +0000" stop="20260820121000 +0000">
-		<title>Our Happy Days</title>
+		<title>Our Happy Days Episode 97</title>
 		<desc>A chaotic, high-stakes family saga where a seemingly perfect man and an endearingly flawed woman collide while every generation fights to become the main character of their own life.</desc>
 	</programme>
 	<programme channel="5038" start="20260820121000 +0000" stop="20260820125000 +0000">
-		<title>A Trap Called Desire</title>
+		<title>A Trap Called Desire Episode 4</title>
 		<desc>A woman whose life was stolen by a false murder accusation fights to reclaim her destiny in a gripping revenge drama against insatiable greed.</desc>
 	</programme>
 	<programme channel="5038" start="20260820125000 +0000" stop="20260820140000 +0000">
-		<title>Hwarang: The Poet Warrior Youth</title>
+		<title>Hwarang: The Poet Warrior Youth Episode 15</title>
 		<desc>Not many people these days know about Hwarang in depth. How did these young men become central to unifying old Korea's Three Kingdoms? Imagine how life must have been for Silla Hwarang in the 6th century.</desc>
 	</programme>
 	<programme channel="5038" start="20260820140000 +0000" stop="20260820140500 +0000">
-		<title>National Heritage Pilgrimage Deo</title>
+		<title>National Heritage Pilgrimage Deo Episode 34</title>
 		<desc>National Heritage Pilgrimage Deo</desc>
 	</programme>
 	<programme channel="5038" start="20260820140500 +0000" stop="20260820153500 +0000">
-		<title>Boss in the Mirror</title>
+		<title>Boss in the Mirror Episode 368</title>
 		<desc>A reality talk show that offers a candid and often humorous look at the workplace through the eyes of Korea's most outspoken bosses. Each episode follows prominent CEOs, entertainers, and professionals as they go about their daily routines and interact with their employees. Through real workplace situations, the show reveals the challenges of leadership, communication, and management.</desc>
 	</programme>
 	<programme channel="5038" start="20260820153500 +0000" stop="20260820154000 +0000">
@@ -72406,7 +72392,7 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 		<desc>The true classic of the century is born again! The legendary classic is reinterpreted by the best vocalists in Korea. Don't miss out on the heart-moving moments that transcend generations.</desc>
 	</programme>
 	<programme channel="5038" start="20260820154000 +0000" stop="20260820165500 +0000">
-		<title>KICKKICKKICKKICK</title>
+		<title>KICKKICKKICKKICK Episode 9</title>
 		<desc>An office comedy drama with star actor Ji Jinhee and producer Jo Youngsik building up a content production company aiming for 3 million subscribers.</desc>
 	</programme>
 	<programme channel="5038" start="20260820165500 +0000" stop="20260820181000 +0000">
@@ -98566,123 +98552,123 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 		<desc>The host provides an in-depth analysis of some of the most shocking real-life crime stories in India and sheds light on how the victims fought back for justice.</desc>
 	</programme>
 	<programme channel="5654" start="20260819190000 +0000" stop="20260819200000 +0000">
-		<title>Savdhaan India - Naya Adhyay Episode 57</title>
+		<title>Savdhaan India - Naya Adhyay Episode 15</title>
 		<desc>The host provides an in-depth analysis of some of the most shocking real-life crime stories in India and sheds light on how the victims fought back for justice.</desc>
 	</programme>
 	<programme channel="5654" start="20260819200000 +0000" stop="20260819210000 +0000">
-		<title>Savdhaan India - India Fights Back Episode 1943</title>
+		<title>Savdhaan India - India Fights Back</title>
 		<desc>See shocking crime stories based on real life events. The show focuses on stories where justice was delivered.</desc>
 	</programme>
 	<programme channel="5654" start="20260819210000 +0000" stop="20260819220000 +0000">
-		<title>Savdhaan India - India Fights Back Episode 1854</title>
+		<title>Savdhaan India - India Fights Back</title>
 		<desc>See shocking crime stories based on real life events. The show focuses on stories where justice was delivered.</desc>
 	</programme>
 	<programme channel="5654" start="20260819220000 +0000" stop="20260819230000 +0000">
-		<title>Savdhaan India - India Fights Back Episode 1943</title>
+		<title>Savdhaan India - India Fights Back</title>
 		<desc>See shocking crime stories based on real life events. The show focuses on stories where justice was delivered.</desc>
 	</programme>
 	<programme channel="5654" start="20260819230000 +0000" stop="20260820000000 +0000">
-		<title>Savdhaan India - India Fights Back Episode 1854</title>
+		<title>Savdhaan India - India Fights Back</title>
 		<desc>See shocking crime stories based on real life events. The show focuses on stories where justice was delivered.</desc>
 	</programme>
 	<programme channel="5654" start="20260820000000 +0000" stop="20260820010000 +0000">
-		<title>Savdhaan India - India Fights Back Episode 2200</title>
+		<title>Savdhaan India - India Fights Back</title>
 		<desc>See shocking crime stories based on real life events. The show focuses on stories where justice was delivered.</desc>
 	</programme>
 	<programme channel="5654" start="20260820010000 +0000" stop="20260820013000 +0000">
-		<title>Savdhaan India - Criminal Decoded Episode 39</title>
-		<desc>Arvind, a corrupt security guard, eliminates anyone obstructing his immoral deeds. When his gaze fixes on a young boy, a sinister chapter unfolds.</desc>
+		<title>Savdhaan India - Criminal Decoded</title>
+		<desc>After serving a 720-day prison sentence, Karan returns to take revenge. Karan and his family devise a vile plan and abduct Tarun to fulfill their evil motive.</desc>
 	</programme>
 	<programme channel="5654" start="20260820013000 +0000" stop="20260820020000 +0000">
-		<title>Ye Hai Mohabbatein Episode 203</title>
+		<title>Ye Hai Mohabbatein Episode 3</title>
 		<desc>A Tamil dentist and Punjabi businessman fall in love, navigating family expectations, parenting, and emotional complexities across cultures.</desc>
 	</programme>
 	<programme channel="5654" start="20260820020000 +0000" stop="20260820023000 +0000">
-		<title>Ye Hai Mohabbatein Episode 204</title>
+		<title>Ye Hai Mohabbatein Episode 3</title>
 		<desc>A Tamil dentist and Punjabi businessman fall in love, navigating family expectations, parenting, and emotional complexities across cultures.</desc>
 	</programme>
 	<programme channel="5654" start="20260820023000 +0000" stop="20260820033000 +0000">
-		<title>Bepannah / Fannah Ho Sabhi Duriyan Episode 26</title>
+		<title>Bepannah / Fannah Ho Sabhi Duriyan</title>
 		<desc>After their spouses betray them, Aditya and Zoya struggle with heartbreak. While he is haunted by painful memories, she refuses to lose hope, setting them on an emotional journey.</desc>
 	</programme>
 	<programme channel="5654" start="20260820033000 +0000" stop="20260820040000 +0000">
-		<title>Saraswati Chandra Episode 324</title>
+		<title>Saraswati Chandra Episode 7</title>
 		<desc>Saraswati Chandra calls off his marriage with Kumud, eventually leading to her being married off to a drunkard. Years later, Kumud, now a widow, comes face-to-face with Saraswati.</desc>
 	</programme>
 	<programme channel="5654" start="20260820040000 +0000" stop="20260820043000 +0000">
-		<title>Saraswati Chandra Episode 325</title>
+		<title>Saraswati Chandra Episode 7</title>
 		<desc>Saraswati Chandra calls off his marriage with Kumud, eventually leading to her being married off to a drunkard. Years later, Kumud, now a widow, comes face-to-face with Saraswati.</desc>
 	</programme>
 	<programme channel="5654" start="20260820043000 +0000" stop="20260820053000 +0000">
-		<title>Savdhaan India - Naya Adhyay Episode 150</title>
+		<title>Savdhaan India - Naya Adhyay Episode 15</title>
 		<desc>The host provides an in-depth analysis of some of the most shocking real-life crime stories in India and sheds light on how the victims fought back for justice.</desc>
 	</programme>
 	<programme channel="5654" start="20260820053000 +0000" stop="20260820060000 +0000">
-		<title>Savdhaan India - Criminal Decoded Episode 40</title>
-		<desc>Entranced by a finance influencer, a boy's quest for wealth turns dark. He robs, commits patricide, and plots murders and gets trapped in his illusion.</desc>
+		<title>Savdhaan India - Criminal Decoded Episode 2</title>
+		<desc>Puran and his family leverage Rajni's blind faith for their personal gain. Consequently, Rajni faces serious repercussions. And a heinous crime is committed!</desc>
 	</programme>
 	<programme channel="5654" start="20260820060000 +0000" stop="20260820063000 +0000">
-		<title>Ye Hai Mohabbatein Episode 203</title>
+		<title>Ye Hai Mohabbatein Episode 3</title>
 		<desc>A Tamil dentist and Punjabi businessman fall in love, navigating family expectations, parenting, and emotional complexities across cultures.</desc>
 	</programme>
 	<programme channel="5654" start="20260820063000 +0000" stop="20260820070000 +0000">
-		<title>Ye Hai Mohabbatein Episode 204</title>
+		<title>Ye Hai Mohabbatein Episode 3</title>
 		<desc>A Tamil dentist and Punjabi businessman fall in love, navigating family expectations, parenting, and emotional complexities across cultures.</desc>
 	</programme>
 	<programme channel="5654" start="20260820070000 +0000" stop="20260820080000 +0000">
-		<title>Bepannah / Fannah Ho Sabhi Duriyan Episode 26</title>
+		<title>Bepannah / Fannah Ho Sabhi Duriyan</title>
 		<desc>After their spouses betray them, Aditya and Zoya struggle with heartbreak. While he is haunted by painful memories, she refuses to lose hope, setting them on an emotional journey.</desc>
 	</programme>
 	<programme channel="5654" start="20260820080000 +0000" stop="20260820090000 +0000">
-		<title>Savdhaan India - India Fights Back Episode 73</title>
+		<title>Savdhaan India - India Fights Back</title>
 		<desc>See shocking crime stories based on real life events. The show focuses on stories where justice was delivered.</desc>
 	</programme>
 	<programme channel="5654" start="20260820090000 +0000" stop="20260820100000 +0000">
-		<title>Savdhaan India - India Fights Back Episode 165</title>
+		<title>Savdhaan India - India Fights Back</title>
 		<desc>See shocking crime stories based on real life events. The show focuses on stories where justice was delivered.</desc>
 	</programme>
 	<programme channel="5654" start="20260820100000 +0000" stop="20260820103000 +0000">
-		<title>Na Umra Ki Seema Ho Episode 231</title>
+		<title>Na Umra Ki Seema Ho</title>
 		<desc>Vidhi, a young woman, falls in love with Devratha, a middle-aged tycoon. Together they embark on a journey of love, and acceptance beyond the barrier of age.</desc>
 	</programme>
 	<programme channel="5654" start="20260820103000 +0000" stop="20260820110000 +0000">
-		<title>Saraswati Chandra Episode 324</title>
+		<title>Saraswati Chandra Episode 7</title>
 		<desc>Saraswati Chandra calls off his marriage with Kumud, eventually leading to her being married off to a drunkard. Years later, Kumud, now a widow, comes face-to-face with Saraswati.</desc>
 	</programme>
 	<programme channel="5654" start="20260820110000 +0000" stop="20260820113000 +0000">
-		<title>Saraswati Chandra Episode 325</title>
+		<title>Saraswati Chandra Episode 7</title>
 		<desc>Saraswati Chandra calls off his marriage with Kumud, eventually leading to her being married off to a drunkard. Years later, Kumud, now a widow, comes face-to-face with Saraswati.</desc>
 	</programme>
 	<programme channel="5654" start="20260820113000 +0000" stop="20260820120000 +0000">
-		<title>Ye Hai Mohabbatein Episode 203</title>
+		<title>Ye Hai Mohabbatein Episode 3</title>
 		<desc>A Tamil dentist and Punjabi businessman fall in love, navigating family expectations, parenting, and emotional complexities across cultures.</desc>
 	</programme>
 	<programme channel="5654" start="20260820120000 +0000" stop="20260820123000 +0000">
-		<title>Ye Hai Mohabbatein Episode 204</title>
+		<title>Ye Hai Mohabbatein Episode 3</title>
 		<desc>A Tamil dentist and Punjabi businessman fall in love, navigating family expectations, parenting, and emotional complexities across cultures.</desc>
 	</programme>
 	<programme channel="5654" start="20260820123000 +0000" stop="20260820133000 +0000">
-		<title>Bepannah / Fannah Ho Sabhi Duriyan Episode 26</title>
+		<title>Bepannah / Fannah Ho Sabhi Duriyan</title>
 		<desc>After their spouses betray them, Aditya and Zoya struggle with heartbreak. While he is haunted by painful memories, she refuses to lose hope, setting them on an emotional journey.</desc>
 	</programme>
 	<programme channel="5654" start="20260820133000 +0000" stop="20260820140000 +0000">
-		<title>Saraswati Chandra Episode 326</title>
+		<title>Saraswati Chandra Episode 8</title>
 		<desc>Saraswati Chandra calls off his marriage with Kumud, eventually leading to her being married off to a drunkard. Years later, Kumud, now a widow, comes face-to-face with Saraswati.</desc>
 	</programme>
 	<programme channel="5654" start="20260820140000 +0000" stop="20260820143000 +0000">
-		<title>Saraswati Chandra Episode 327</title>
+		<title>Saraswati Chandra Episode 8</title>
 		<desc>Saraswati Chandra calls off his marriage with Kumud, eventually leading to her being married off to a drunkard. Years later, Kumud, now a widow, comes face-to-face with Saraswati.</desc>
 	</programme>
 	<programme channel="5654" start="20260820143000 +0000" stop="20260820150000 +0000">
-		<title>Na Umra Ki Seema Ho Episode 232</title>
+		<title>Na Umra Ki Seema Ho Episode 2</title>
 		<desc>Vidhi, a young woman, falls in love with Devratha, a middle-aged tycoon. Together they embark on a journey of love, and acceptance beyond the barrier of age.</desc>
 	</programme>
 	<programme channel="5654" start="20260820150000 +0000" stop="20260820153000 +0000">
-		<title>Ye Hai Mohabbatein Episode 205</title>
+		<title>Ye Hai Mohabbatein Episode 4</title>
 		<desc>A Tamil dentist and Punjabi businessman fall in love, navigating family expectations, parenting, and emotional complexities across cultures.</desc>
 	</programme>
 	<programme channel="5654" start="20260820153000 +0000" stop="20260820160000 +0000">
-		<title>Ye Hai Mohabbatein Episode 206</title>
+		<title>Ye Hai Mohabbatein Episode 4</title>
 		<desc>A Tamil dentist and Punjabi businessman fall in love, navigating family expectations, parenting, and emotional complexities across cultures.</desc>
 	</programme>
 	<programme channel="5654" start="20260820160000 +0000" stop="20260820163000 +0000">
