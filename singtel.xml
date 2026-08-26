@@ -2525,8 +2525,8 @@
 		<desc>更高含量活性银杏有助于提升您的思维和血液循环 125 毫克高含量活性银杏精华采用日本尖端活性技术提升吸收率它有助于促进血液循环提升思维清晰度有助于缓解因血液循环不良而产生的手脚冰冷等状况</desc>
 	</programme>
 	<programme channel="5003" start="20260828144500 +0000" stop="20260828150000 +0000">
-		<title>The Wonder Shop Episode 235</title>
-		<desc>强力轻便的尘螨吸尘器配有智能指示灯方便监控尘螨去除率高达98%</desc>
+		<title>The Wonder Shop Episode 277</title>
+		<desc>Biowell Vital Fish Oil 针对三高族群设计含有高达97%纯度的Omega-3并特别添加红曲有助于维护心血管健康维护胆固醇有助于稳定血压和血糖Biowell concentrated Fish Oil, 95%高纯度浓缩鱼油富含DHA并添加叶黄素有助提升专注力保护视力缓解眼睛干涩疲劳脑眼双补</desc>
 	</programme>
 	<programme channel="5003" start="20260828150000 +0000" stop="20260828160000 +0000">
 		<title>长安的荔枝 Episode 4</title>
@@ -3222,7 +3222,7 @@
 	</programme>
 	<programme channel="5004" start="20260828060000 +0000" stop="20260828070000 +0000">
 		<title>Jangan Bercerai Bunda Episode 3</title>
-		<desc>Arga falls out of love with Nabila and forms a secret relationship with Wilda. Things escalate after his children learn about his infidelity and his intention to file for divorce.</desc>
+		<desc>Family conflicts deepen with the growing strain in Nabila and Arga's marriage. With emotions running high and misunderstandings escalating, their children are caught in the middle of the turmoil. As hidden tensions continue to build, the family faces new challenges that threaten to change their relationships forever.</desc>
 	</programme>
 	<programme channel="5004" start="20260828070000 +0000" stop="20260828080000 +0000">
 		<title>Lasak</title>
@@ -4130,7 +4130,7 @@
 	</programme>
 	<programme channel="5006" start="20260825130000 +0000" stop="20260825140000 +0000">
 		<title>Talking Point Episode 15</title>
-		<desc>With a fresh approach to tackling the issues of the day, Talking Point investigates a current issue or event, offering different perspectives to local stories and reveals how it all affects you.</desc>
+		<desc>Can Singapore's new S70,000 child support package lift birth rates? Talking Point examines what families need, and whether stronger social media safeguards can better protect young people.</desc>
 	</programme>
 	<programme channel="5006" start="20260825140000 +0000" stop="20260825150000 +0000">
 		<title>Singapore Tonight Episode 147</title>
@@ -4382,7 +4382,7 @@
 	</programme>
 	<programme channel="5006" start="20260828050000 +0000" stop="20260828053000 +0000">
 		<title>Money Mind Episode 18</title>
-		<desc>Money Mind is a weekly magazine programme centering on personal finance. Every week, the programme offers tips on how to grow, save and spend your money wisely.</desc>
+		<desc>Which AI companies are worth buying? The money traps to avoid before going solar. Plus, the hidden cost of spending years chasing a government job in India.</desc>
 	</programme>
 	<programme channel="5006" start="20260828053000 +0000" stop="20260828060000 +0000">
 		<title>CNA Correspondent Episode 17</title>
@@ -4410,7 +4410,7 @@
 	</programme>
 	<programme channel="5006" start="20260828110000 +0000" stop="20260828120000 +0000">
 		<title>Talking Point Episode 15</title>
-		<desc>With a fresh approach to tackling the issues of the day, Talking Point investigates a current issue or event, offering different perspectives to local stories and reveals how it all affects you.</desc>
+		<desc>Will more support convince Singaporeans to have kids? And should teens face social media restrictions? Couples, teenagers, experts and policymakers discuss two issues shaping the next generation. Talking Point investigates.</desc>
 	</programme>
 	<programme channel="5006" start="20260828120000 +0000" stop="20260828130000 +0000">
 		<title>Asia Tonight Episode 150</title>
@@ -10405,13 +10405,9 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<title>Closed</title>
 		<desc>Closed</desc>
 	</programme>
-	<programme channel="5111" start="20260827130000 +0000" stop="20260827160000 +0000">
+	<programme channel="5111" start="20260827130000 +0000" stop="20260827182000 +0000">
 		<title>Ladies European Tour 2026: KPMG Women's Irish Open Day 1 (Live) Episode 47</title>
 		<desc>Ladies European Tour 2026: KPMG Women's Irish Open Day 1 (Live)</desc>
-	</programme>
-	<programme channel="5111" start="20260827160000 +0000" stop="20260827182000 +0000">
-		<title>Closed</title>
-		<desc>Closed</desc>
 	</programme>
 	<programme channel="5111" start="20260827182000 +0000" stop="20260827203000 +0000">
 		<title>Carabao Cup 26-27: Chelsea vs Luton Town (Live) Episode 29</title>
@@ -10541,11 +10537,11 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<title>Closed</title>
 		<desc>Closed</desc>
 	</programme>
-	<programme channel="5112" start="20260828100000 +0000" stop="20260828130000 +0000">
+	<programme channel="5112" start="20260828100000 +0000" stop="20260828140000 +0000">
 		<title>Closed</title>
 		<desc>Closed</desc>
 	</programme>
-	<programme channel="5112" start="20260828130000 +0000" stop="20260828160000 +0000">
+	<programme channel="5112" start="20260828140000 +0000" stop="20260828160000 +0000">
 		<title>Ladies European Tour 2026: KPMG Women's Irish Open Day 2 (Live) Episode 48</title>
 		<desc>Ladies European Tour 2026: KPMG Women's Irish Open Day 2 (Live)</desc>
 	</programme>
@@ -10621,7 +10617,15 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<title>Closed</title>
 		<desc>Closed</desc>
 	</programme>
-	<programme channel="5113" start="20260827100000 +0000" stop="20260827220000 +0000">
+	<programme channel="5113" start="20260827100000 +0000" stop="20260827140000 +0000">
+		<title>Closed</title>
+		<desc>Closed</desc>
+	</programme>
+	<programme channel="5113" start="20260827140000 +0000" stop="20260827170000 +0000">
+		<title>Ladies European Tour 2026: KPMG Women's Irish Open Day 1 (Live) Episode 47</title>
+		<desc>Ladies European Tour 2026: KPMG Women's Irish Open Day 1 (Live)</desc>
+	</programme>
+	<programme channel="5113" start="20260827170000 +0000" stop="20260827220000 +0000">
 		<title>Closed</title>
 		<desc>Closed</desc>
 	</programme>
@@ -10773,13 +10777,17 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<title>2026 World Surf League Replay Episode 2</title>
 		<desc>Be sure to catch the inspirational power of surfing through the 2026 WSL Championship Tour &amp; Challenger Series.</desc>
 	</programme>
-	<programme channel="6114" start="20260827130000 +0000" stop="20260827160000 +0000">
+	<programme channel="6114" start="20260827130000 +0000" stop="20260827140000 +0000">
 		<title>2026 LET: KPMG Women's Irish Open (Live)</title>
 		<desc>The stars of the Ladies European Tour gather in Ireland to compete for the KPMG Women's Irish Open title, delivering elite golf and championship drama.</desc>
 	</programme>
-	<programme channel="6114" start="20260827160000 +0000" stop="20260827180000 +0000">
-		<title>Roshn Saudi League 26/27 Episode 3</title>
-		<desc>The Roshn Saudi League features Saudi Arabia's top clubs competing for the league title in an exciting season of elite football action.</desc>
+	<programme channel="6114" start="20260827140000 +0000" stop="20260827170000 +0000">
+		<title>2026 LET: KPMG Women's Irish Open (Live)</title>
+		<desc>The stars of the Ladies European Tour gather in Ireland to compete for the KPMG Women's Irish Open title, delivering elite golf and championship drama.</desc>
+	</programme>
+	<programme channel="6114" start="20260827170000 +0000" stop="20260827180000 +0000">
+		<title>2026 World Surf League Replay</title>
+		<desc>Be sure to catch the inspirational power of surfing through the 2026 WSL Championship Tour &amp; Challenger Series.</desc>
 	</programme>
 	<programme channel="6114" start="20260827180000 +0000" stop="20260827200000 +0000">
 		<title>Wanda Diamond League 2026</title>
@@ -10802,7 +10810,7 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<desc>The world's top golfers compete in a bold, fast-paced league format, delivering big drives, dramatic finishes, and non-stop action across iconic global venues.</desc>
 	</programme>
 	<programme channel="6114" start="20260828053000 +0000" stop="20260828073000 +0000">
-		<title>Roshn Saudi League 26/27 Episode 4</title>
+		<title>Roshn Saudi League 26/27 Episode 2</title>
 		<desc>The Roshn Saudi League features Saudi Arabia's top clubs competing for the league title in an exciting season of elite football action.</desc>
 	</programme>
 	<programme channel="6114" start="20260828073000 +0000" stop="20260828103000 +0000">
@@ -10810,18 +10818,18 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<desc>US Open Fan Week brings tennis fans closer to the action with live matches, player appearances, interactive activities, and entertainment ahead of the US Open.</desc>
 	</programme>
 	<programme channel="6114" start="20260828103000 +0000" stop="20260828110000 +0000">
-		<title>Champions of the Water 2026 Episode 2</title>
+		<title>Champions of the Water 2026</title>
 		<desc>A magazine show following the fortunes of an individual team at each round, featuring the conflict and camaraderie as pilots and owners bid to become Champions of the Water.</desc>
 	</programme>
 	<programme channel="6114" start="20260828110000 +0000" stop="20260828120000 +0000">
 		<title>2026 Supercars: Century Batteries Ipswich Super 440</title>
 		<desc>Supercars delivers exhilarating and accessible motorsports-led entertainment to engaged and passionate fans.</desc>
 	</programme>
-	<programme channel="6114" start="20260828120000 +0000" stop="20260828130000 +0000">
-		<title>2026 Supercars: Century Batteries Ipswich Super 440</title>
-		<desc>Supercars delivers exhilarating and accessible motorsports-led entertainment to engaged and passionate fans.</desc>
+	<programme channel="6114" start="20260828120000 +0000" stop="20260828140000 +0000">
+		<title>Wanda Diamond League 2026</title>
+		<desc>The world's top athletes compete across premier international meets, delivering world-class performances, record-breaking moments, and elite track and field action.</desc>
 	</programme>
-	<programme channel="6114" start="20260828130000 +0000" stop="20260828160000 +0000">
+	<programme channel="6114" start="20260828140000 +0000" stop="20260828160000 +0000">
 		<title>2026 LET: KPMG Women's Irish Open (Live)</title>
 		<desc>The stars of the Ladies European Tour gather in Ireland to compete for the KPMG Women's Irish Open title, delivering elite golf and championship drama.</desc>
 	</programme>
@@ -11053,17 +11061,17 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<title>23/8 2026 MLB Regular Season</title>
 		<desc>Major League Baseball is the most historic professional sports league consists of 30 member clubs in the U.S. and Canada, representing the highest level of professional baseball.</desc>
 	</programme>
-	<programme channel="6115" start="20260827153000 +0000" stop="20260827170000 +0000">
+	<programme channel="6115" start="20260827153000 +0000" stop="20260827152000 +0000">
 		<title>SailGP S6: Rockwool Germany Sail Grand Prix Episode 2</title>
 		<desc>Adrenaline-fueled races, legendary global locations, rival national teams and record-breaking speeds. SailGP is the most exciting racing on water - Powered By Nature.</desc>
 	</programme>
-	<programme channel="6115" start="20260827170000 +0000" stop="20260827180000 +0000">
-		<title>Faultless Episode 4</title>
-		<desc>An exclusive documentary series following the world's top show jumpers and their horses, revealing the trust, sacrifice, and determination behind the pursuit of excellence at the sport's biggest events.</desc>
+	<programme channel="6115" start="20260827152000 +0000" stop="20260827170500 +0000">
+		<title>SailGP S6: Rockwool Germany Sail Grand Prix Episode 2</title>
+		<desc>Adrenaline-fueled races, legendary global locations, rival national teams and record-breaking speeds. SailGP is the most exciting racing on water - Powered By Nature.</desc>
 	</programme>
-	<programme channel="6115" start="20260827180000 +0000" stop="20260827200000 +0000">
-		<title>Juddmonte International 2026 Episode 2</title>
-		<desc>A premier horse racing event where elite thoroughbreds and top jockeys compete, delivering speed, skill, and thrilling competition on the track.</desc>
+	<programme channel="6115" start="20260827170500 +0000" stop="20260827200000 +0000">
+		<title>27/8 2026 MLB Regular Season (Live)</title>
+		<desc>Major League Baseball is the most historic professional sports league consists of 30 member clubs in the U.S. and Canada, representing the highest level of professional baseball.</desc>
 	</programme>
 	<programme channel="6115" start="20260827200000 +0000" stop="20260827220000 +0000">
 		<title>2026 Longines Global Champions Tour, London</title>
@@ -11638,8 +11646,8 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<desc>Coverage of the 2026 NRL season featuring the brightest stars in Rugby League universe.</desc>
 	</programme>
 	<programme channel="5118" start="20260828120000 +0000" stop="20260828123000 +0000">
-		<title>5 and 6 Nations Classics 2014 - France v Ireland</title>
-		<desc>A look at some of the best matches in the history of rugby's Six Nations.</desc>
+		<title>Top 14 Highlights Season Preview</title>
+		<desc>Highlights of the latest round from the Top 14.</desc>
 	</programme>
 	<programme channel="5118" start="20260828123000 +0000" stop="20260828130000 +0000">
 		<title>5 and 6 Nations Classics 2007 - Scotland v Italy</title>
@@ -14357,25 +14365,21 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<title>UEFA Champions League Highlights 2026/27: Wed Play-offs, 2nd Leg Episode 4</title>
 		<desc>UEFA Champions League Highlights 2026/27</desc>
 	</programme>
-	<programme channel="6110" start="20260827160000 +0000" stop="20260827163000 +0000">
+	<programme channel="6110" start="20260827160000 +0000" stop="20260827170000 +0000">
 		<title>UEFA Champions League Draw 2026/27: League Phase (Live) Episode 2</title>
 		<desc>UEFA Champions League Draw 2026/27</desc>
 	</programme>
-	<programme channel="6110" start="20260827163000 +0000" stop="20260827183000 +0000">
+	<programme channel="6110" start="20260827170000 +0000" stop="20260827190000 +0000">
 		<title>TotalEnergies U-17 Africa Cup of Nations, Morocco 2026: Morocco vs Cameroon - QF 2 Episode 28</title>
 		<desc>TotalEnergies U-17 Africa Cup of Nations, Morocco 2026</desc>
 	</programme>
-	<programme channel="6110" start="20260827183000 +0000" stop="20260827203000 +0000">
+	<programme channel="6110" start="20260827190000 +0000" stop="20260827210000 +0000">
 		<title>TotalEnergies CAF Confederation Cup 2025/26: Olympic Club Safi vs USM Alger Episode 11</title>
 		<desc>TotalEnergies CAF Confederation Cup 2025/26</desc>
 	</programme>
-	<programme channel="6110" start="20260827203000 +0000" stop="20260827223000 +0000">
+	<programme channel="6110" start="20260827210000 +0000" stop="20260827230000 +0000">
 		<title>TotalEnergies Women's Africa Cup of Nations, Morocco 2026: Zambia vs Egypt Episode 5</title>
 		<desc>TotalEnergies Women's Africa Cup of Nations, Morocco 2026</desc>
-	</programme>
-	<programme channel="6110" start="20260827223000 +0000" stop="20260827230000 +0000">
-		<title>Mini Match - UEFA Europa League 2025/26: Freiburg vs Salzburg - MD6 Episode 30</title>
-		<desc>Mini Match - UEFA Europa League 2025/26</desc>
 	</programme>
 	<programme channel="6110" start="20260827230000 +0000" stop="20260827233000 +0000">
 		<title>Bundesliga Weekly 2026/27: Episode Number 2 Episode 2</title>
@@ -14398,36 +14402,32 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<desc>Women's Super League 2025/26</desc>
 	</programme>
 	<programme channel="6110" start="20260828053000 +0000" stop="20260828060000 +0000">
-		<title>Mini Match - UEFA Europa League 2025/26: Aston Villa vs Maccabi Tel Aviv - MD4 Episode 18</title>
-		<desc>Mini Match - UEFA Europa League 2025/26</desc>
-	</programme>
-	<programme channel="6110" start="20260828060000 +0000" stop="20260828063000 +0000">
-		<title>Mini Match - UEFA Europa League 2025/26: Rangers vs Roma - MD4 Episode 19</title>
-		<desc>Mini Match - UEFA Europa League 2025/26</desc>
-	</programme>
-	<programme channel="6110" start="20260828063000 +0000" stop="20260828070000 +0000">
 		<title>Mini Match - UEFA Champions League 2025/26: Sporting vs Bodo/Glimt - R16, 2nd Leg Episode 102</title>
 		<desc>Mini Match - UEFA Champions League 2025/26</desc>
 	</programme>
-	<programme channel="6110" start="20260828070000 +0000" stop="20260828073000 +0000">
-		<title>Bundesliga Weekly 2026/27: Episode Number 2 Episode 2</title>
-		<desc>Bundesliga Weekly 2026/27</desc>
-	</programme>
-	<programme channel="6110" start="20260828073000 +0000" stop="20260828103000 +0000">
+	<programme channel="6110" start="20260828060000 +0000" stop="20260828090000 +0000">
 		<title>Tour de France 2026: Stage 21 - Thoiry - Paris Champs-Elysees Episode 21</title>
 		<desc>Tour de France 2026</desc>
 	</programme>
+	<programme channel="6110" start="20260828090000 +0000" stop="20260828103000 +0000">
+		<title>SailGP 2026: Sassnitz, Germany Day 2 Episode 18</title>
+		<desc>SailGP 2026</desc>
+	</programme>
 	<programme channel="6110" start="20260828103000 +0000" stop="20260828110000 +0000">
+		<title>Bundesliga Weekly 2026/27: Episode Number 2 Episode 2</title>
+		<desc>Bundesliga Weekly 2026/27</desc>
+	</programme>
+	<programme channel="6110" start="20260828110000 +0000" stop="20260828120000 +0000">
+		<title>UEFA Europa/Conference League Draw 2026/27: League Phase (Live)</title>
+		<desc>UEFA Europa/Conference League Draw 2026/27</desc>
+	</programme>
+	<programme channel="6110" start="20260828120000 +0000" stop="20260828123000 +0000">
 		<title>Mini Match - UEFA Europa League 2025/26: Aston Villa vs Maccabi Tel Aviv - MD4 Episode 18</title>
 		<desc>Mini Match - UEFA Europa League 2025/26</desc>
 	</programme>
-	<programme channel="6110" start="20260828110000 +0000" stop="20260828113000 +0000">
+	<programme channel="6110" start="20260828123000 +0000" stop="20260828130000 +0000">
 		<title>Mini Match - UEFA Europa League 2025/26: Rangers vs Roma - MD4 Episode 19</title>
 		<desc>Mini Match - UEFA Europa League 2025/26</desc>
-	</programme>
-	<programme channel="6110" start="20260828113000 +0000" stop="20260828130000 +0000">
-		<title>SailGP 2026: Sassnitz, Germany Day 2 Episode 18</title>
-		<desc>SailGP 2026</desc>
 	</programme>
 	<programme channel="6110" start="20260828130000 +0000" stop="20260828133000 +0000">
 		<title>ONE Weekly 2026: Episode Number 35 Episode 35</title>
@@ -17703,7 +17703,7 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5157" start="20260827173000 +0000" stop="20260827180000 +0000">
 		<title>Core Kyoto</title>
-		<desc>The ancient capital, Kyoto, continues to be innovative after 1,200 years. We dive deep into its core in this definitive program.</desc>
+		<desc>To Japanese, rain is rarely a nuisance but a blessing that sustains life. From this notion emerged rituals; traditions in umbrellas, kimono, and confectionary; and the wisdom to prevent flooding.</desc>
 	</programme>
 	<programme channel="5157" start="20260827180000 +0000" stop="20260827182800 +0000">
 		<title>NEWSROOM TOKYO</title>
@@ -17739,7 +17739,7 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5157" start="20260827203000 +0000" stop="20260827210000 +0000">
 		<title>Japan Railway Journal</title>
-		<desc>Go behind the scenes of Japan's amazing railways! Interesting facts, new technologies, expert tips plus where to go, how to get there and more!</desc>
+		<desc>Cycle trains (trains that allow cyclists to board with their bicycles fully assembled) are growing in popularity. See a dedicated cycle train in Chiba, as well as a local railway in Niigata.</desc>
 	</programme>
 	<programme channel="5157" start="20260827210000 +0000" stop="20260827213000 +0000">
 		<title>NHK NEWSLINE&lt; NY &gt;</title>
@@ -17759,7 +17759,7 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5157" start="20260827223000 +0000" stop="20260827230000 +0000">
 		<title>Core Kyoto</title>
-		<desc>The ancient capital, Kyoto, continues to be innovative after 1,200 years. We dive deep into its core in this definitive program.</desc>
+		<desc>To Japanese, rain is rarely a nuisance but a blessing that sustains life. From this notion emerged rituals; traditions in umbrellas, kimono, and confectionary; and the wisdom to prevent flooding.</desc>
 	</programme>
 	<programme channel="5157" start="20260827230000 +0000" stop="20260827233000 +0000">
 		<title>NHK NEWSLINE&lt; NY &gt;</title>
@@ -17783,7 +17783,7 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5157" start="20260828013000 +0000" stop="20260828020000 +0000">
 		<title>Asia Insight</title>
-		<desc>An in-depth look at the realities of Asia today -- a dynamic region which faces political, economic, cultural, and technological change.</desc>
+		<desc>The Binaliw Landfill in Cebu had taken in up to 1,000 tons of garbage daily, until a waste landslide claimed 39 lives. Now, both the government and citizens seek safe and sustainable waste processing.</desc>
 	</programme>
 	<programme channel="5157" start="20260828020000 +0000" stop="20260828023000 +0000">
 		<title>NHK NEWSLINE</title>
@@ -17799,7 +17799,7 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5157" start="20260828033000 +0000" stop="20260828040000 +0000">
 		<title>Japan Railway Journal</title>
-		<desc>Go behind the scenes of Japan's amazing railways! Interesting facts, new technologies, expert tips plus where to go, how to get there and more!</desc>
+		<desc>Cycle trains (trains that allow cyclists to board with their bicycles fully assembled) are growing in popularity. See a dedicated cycle train in Chiba, as well as a local railway in Niigata.</desc>
 	</programme>
 	<programme channel="5157" start="20260828040000 +0000" stop="20260828043000 +0000">
 		<title>NHK NEWSLINE</title>
@@ -17823,7 +17823,7 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5157" start="20260828063000 +0000" stop="20260828070000 +0000">
 		<title>Asia Insight</title>
-		<desc>An in-depth look at the realities of Asia today -- a dynamic region which faces political, economic, cultural, and technological change.</desc>
+		<desc>The Binaliw Landfill in Cebu had taken in up to 1,000 tons of garbage daily, until a waste landslide claimed 39 lives. Now, both the government and citizens seek safe and sustainable waste processing.</desc>
 	</programme>
 	<programme channel="5157" start="20260828070000 +0000" stop="20260828073000 +0000">
 		<title>NEWSLINE ASIA 24</title>
@@ -17847,15 +17847,11 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5157" start="20260828093000 +0000" stop="20260828100000 +0000">
 		<title>Japan Railway Journal</title>
-		<desc>Go behind the scenes of Japan's amazing railways! Interesting facts, new technologies, expert tips plus where to go, how to get there and more!</desc>
+		<desc>Cycle trains (trains that allow cyclists to board with their bicycles fully assembled) are growing in popularity. See a dedicated cycle train in Chiba, as well as a local railway in Niigata.</desc>
 	</programme>
-	<programme channel="5157" start="20260828100000 +0000" stop="20260828103000 +0000">
+	<programme channel="5157" start="20260828100000 +0000" stop="20260828105000 +0000">
 		<title>NHK NEWS 7</title>
 		<desc>News 7 is NHK's flagship domestic evening news program, bringing you the latest from our Tokyo studio. It's presented with English audio on NHK World for our international viewers.</desc>
-	</programme>
-	<programme channel="5157" start="20260828103000 +0000" stop="20260828105000 +0000">
-		<title>Hikikomori Growing Together Through Farming</title>
-		<desc>A region in Japan is spotlighted for its unique method to help "hikikomori," individuals withdrawn from society, by having them work in farming, creating a network of support.</desc>
 	</programme>
 	<programme channel="5157" start="20260828105000 +0000" stop="20260828105500 +0000">
 		<title>RAMEN JAPAN 5min.</title>
@@ -17887,7 +17883,7 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5157" start="20260828123000 +0000" stop="20260828130000 +0000">
 		<title>Asia Insight</title>
-		<desc>An in-depth look at the realities of Asia today -- a dynamic region which faces political, economic, cultural, and technological change.</desc>
+		<desc>The Binaliw Landfill in Cebu had taken in up to 1,000 tons of garbage daily, until a waste landslide claimed 39 lives. Now, both the government and citizens seek safe and sustainable waste processing.</desc>
 	</programme>
 	<programme channel="5157" start="20260828130000 +0000" stop="20260828133000 +0000">
 		<title>NHK NEWSLINE</title>
@@ -21638,8 +21634,8 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<desc>NEWSLINE</desc>
 	</programme>
 	<programme channel="5160" start="20260824173000 +0000" stop="20260824180000 +0000">
-		<title>VIBES OF VIETNAM</title>
-		<desc>Cao Bằng – A Land of Heritage</desc>
+		<title>VIETNAM AT A GLANCE</title>
+		<desc>Voices Found in Art</desc>
 	</programme>
 	<programme channel="5160" start="20260824180000 +0000" stop="20260824181500 +0000">
 		<title>DAILY BIZ</title>
@@ -21647,23 +21643,27 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5160" start="20260824181500 +0000" stop="20260824184500 +0000">
 		<title>WORLD IN MOTION</title>
-		<desc>Weaving Bamboo Miracles</desc>
+		<desc>The Fish-shaped Lanterns</desc>
 	</programme>
-	<programme channel="5160" start="20260824184500 +0000" stop="20260824190000 +0000">
+	<programme channel="5160" start="20260824184500 +0000" stop="20260824185500 +0000">
 		<title>VIBES OF VIETNAM</title>
-		<desc>The Nguyễn Dynasty's Documentary Heritage</desc>
+		<desc>Weed cures liver disease</desc>
+	</programme>
+	<programme channel="5160" start="20260824185500 +0000" stop="20260824190000 +0000">
+		<title>THE RHYTHMS OF VIETNAM</title>
+		<desc>Unique Art of Dried flowers</desc>
 	</programme>
 	<programme channel="5160" start="20260824190000 +0000" stop="20260824191500 +0000">
 		<title>i-REPORT</title>
-		<desc>Preserving the Rural Soul</desc>
+		<desc>Where the Birds Return</desc>
 	</programme>
 	<programme channel="5160" start="20260824191500 +0000" stop="20260824193000 +0000">
 		<title>VIBES OF VIETNAM</title>
-		<desc>Ho Chi Minh City Amid Global Tech Race</desc>
+		<desc>The Art of Định Công Silver Inlay</desc>
 	</programme>
 	<programme channel="5160" start="20260824193000 +0000" stop="20260824200000 +0000">
-		<title>ECHOES OF THE WILD</title>
-		<desc>Breath of the Emerald Forest</desc>
+		<title>RUSSIA LINK</title>
+		<desc>RUSSIA LINK</desc>
 	</programme>
 	<programme channel="5160" start="20260824200000 +0000" stop="20260824203000 +0000">
 		<title>NEWSLINE</title>
@@ -21686,32 +21686,32 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<desc>Journey to Awaken Lân Nóng</desc>
 	</programme>
 	<programme channel="5160" start="20260824213000 +0000" stop="20260824220000 +0000">
-		<title>FLAVOURS &amp; BEYOND</title>
-		<desc>When plants tell stories</desc>
+		<title>THE LENS</title>
+		<desc>In the Footsteps of Forest Guardians</desc>
 	</programme>
 	<programme channel="5160" start="20260824220000 +0000" stop="20260824221500 +0000">
 		<title>VIETNAM IMPRINTS</title>
-		<desc>Vietnamese people in Japan - Ambition to rise</desc>
+		<desc>Vietnamese engineers master core technologies</desc>
 	</programme>
 	<programme channel="5160" start="20260824221500 +0000" stop="20260824224500 +0000">
-		<title>HERITAGE JOURNEY</title>
-		<desc>A song of earth and fire</desc>
+		<title>HIDDEN CHARM</title>
+		<desc>Ho Chi Minh City - The City of Layers</desc>
 	</programme>
 	<programme channel="5160" start="20260824224500 +0000" stop="20260824230000 +0000">
 		<title>VIBES OF VIETNAM</title>
-		<desc>Where Grey Sedge Endures</desc>
+		<desc>The Hands Behind Every Bloom</desc>
 	</programme>
 	<programme channel="5160" start="20260824230000 +0000" stop="20260824231500 +0000">
 		<title>STREET FOOD</title>
-		<desc>Baby clam dishes of Huế</desc>
+		<desc>A sip of Hanoi</desc>
 	</programme>
 	<programme channel="5160" start="20260824231500 +0000" stop="20260824234500 +0000">
-		<title>HEALTH MATTERS</title>
-		<desc>Robotics in Surgery</desc>
+		<title>RUSSIA LINK</title>
+		<desc>RUSSIA LINK</desc>
 	</programme>
 	<programme channel="5160" start="20260824234500 +0000" stop="20260825000000 +0000">
 		<title>VIBES OF VIETNAM</title>
-		<desc>The Journey to Shine</desc>
+		<desc>The Vintage Camera Restorer</desc>
 	</programme>
 	<programme channel="5160" start="20260825000000 +0000" stop="20260825003000 +0000">
 		<title>NEWSLINE</title>
@@ -21731,19 +21731,19 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5160" start="20260825011500 +0000" stop="20260825013000 +0000">
 		<title>VIBES OF VIETNAM</title>
-		<desc>The Thái People of Ngọc Chiến</desc>
+		<desc>Rhythm of Life on the Grasslands</desc>
 	</programme>
 	<programme channel="5160" start="20260825013000 +0000" stop="20260825020000 +0000">
-		<title>WORLD IN MOTION</title>
-		<desc>The Art Beat - Episode 8</desc>
+		<title>VIETNAM AT A GLANCE</title>
+		<desc>Voices Found in Art</desc>
 	</programme>
 	<programme channel="5160" start="20260825020000 +0000" stop="20260825021500 +0000">
 		<title>NEWSLINE</title>
 		<desc>NEWSLINE</desc>
 	</programme>
 	<programme channel="5160" start="20260825021500 +0000" stop="20260825030000 +0000">
-		<title>VIETNAM WILD LIFE</title>
-		<desc>VIETNAM WILD LIFE</desc>
+		<title>PULSE OF ART</title>
+		<desc>Tuồng - Behind the Brush</desc>
 	</programme>
 	<programme channel="5160" start="20260825030000 +0000" stop="20260825031400 +0000">
 		<title>CULTURE SCENE</title>
@@ -21759,19 +21759,19 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5160" start="20260825034500 +0000" stop="20260825040000 +0000">
 		<title>VIETNAM IMPRINTS</title>
-		<desc>Vietnamese medical talents in the U.S.</desc>
+		<desc>Fish sauce from Norway</desc>
 	</programme>
 	<programme channel="5160" start="20260825040000 +0000" stop="20260825041500 +0000">
 		<title>NEWSLINE</title>
 		<desc>NEWSLINE</desc>
 	</programme>
 	<programme channel="5160" start="20260825041500 +0000" stop="20260825044500 +0000">
-		<title>ECHOES OF THE WILD</title>
-		<desc>Cát Bà - The Symphony of Life</desc>
+		<title>HIDDEN CHARM</title>
+		<desc>Ho Chi Minh City - The City of Layers</desc>
 	</programme>
 	<programme channel="5160" start="20260825044500 +0000" stop="20260825050000 +0000">
 		<title>VIBES OF VIETNAM</title>
-		<desc>The Nùng People of the Highlands</desc>
+		<desc>The Sweet Flavour of Chanh Trach</desc>
 	</programme>
 	<programme channel="5160" start="20260825050000 +0000" stop="20260825052500 +0000">
 		<title>NEWSLINE</title>
@@ -21783,23 +21783,23 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5160" start="20260825053000 +0000" stop="20260825060000 +0000">
 		<title>INSIGHTS</title>
-		<desc>Vietnamese - Tracing Our Roots</desc>
+		<desc>Tà Kou untamed - Episode 2</desc>
 	</programme>
 	<programme channel="5160" start="20260825060000 +0000" stop="20260825061500 +0000">
 		<title>CULTURE SCENE</title>
 		<desc>CULTURE SCENE</desc>
 	</programme>
 	<programme channel="5160" start="20260825061500 +0000" stop="20260825063000 +0000">
-		<title>FEATURE</title>
-		<desc>Tran To Nga - The Battle Continues</desc>
+		<title>i-REPORT</title>
+		<desc>Where the Birds Return</desc>
 	</programme>
 	<programme channel="5160" start="20260825063000 +0000" stop="20260825064500 +0000">
 		<title>THE MARTIAL LAND</title>
-		<desc>The Journey of Self-Cultivation</desc>
+		<desc>Vovinam - Calm Mind, Cultivated Energy</desc>
 	</programme>
 	<programme channel="5160" start="20260825064500 +0000" stop="20260825070000 +0000">
 		<title>VIBES OF VIETNAM</title>
-		<desc>Journey to the Land of Living Heritage</desc>
+		<desc>Heritage Reimagined</desc>
 	</programme>
 	<programme channel="5160" start="20260825070000 +0000" stop="20260825071300 +0000">
 		<title>NEWSLINE</title>
@@ -21810,20 +21810,20 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<desc>WEATHER FORECAST</desc>
 	</programme>
 	<programme channel="5160" start="20260825071500 +0000" stop="20260825074500 +0000">
-		<title>ERA OF NATIONAL ADVANCEMENT</title>
-		<desc>Investing in Basic Science</desc>
+		<title>HEALTH MATTERS</title>
+		<desc>AI in Diagnosis and Treatment</desc>
 	</programme>
 	<programme channel="5160" start="20260825074500 +0000" stop="20260825080000 +0000">
 		<title>VIETNAM IMPRINTS</title>
-		<desc>Coming Home to Contribute</desc>
+		<desc>Vietnamese Music in France</desc>
 	</programme>
 	<programme channel="5160" start="20260825080000 +0000" stop="20260825083000 +0000">
 		<title>INSIDE ASIA</title>
 		<desc>INSIDE ASIA</desc>
 	</programme>
 	<programme channel="5160" start="20260825083000 +0000" stop="20260825090000 +0000">
-		<title>VIBES OF VIETNAM</title>
-		<desc>Cao Bằng – A Land of Heritage</desc>
+		<title>VIETNAM AT A GLANCE</title>
+		<desc>Voices Found in Art</desc>
 	</programme>
 	<programme channel="5160" start="20260825090000 +0000" stop="20260825091300 +0000">
 		<title>NEWSLINE</title>
@@ -21834,8 +21834,8 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<desc>WEATHER FORECAST</desc>
 	</programme>
 	<programme channel="5160" start="20260825091500 +0000" stop="20260825100000 +0000">
-		<title>VIETNAM WILD LIFE</title>
-		<desc>VIETNAM WILD LIFE</desc>
+		<title>SHOWTIME</title>
+		<desc>Tung Monkey - The Visual Within</desc>
 	</programme>
 	<programme channel="5160" start="20260825100000 +0000" stop="20260825101500 +0000">
 		<title>CULTURE SCENE</title>
@@ -21843,11 +21843,11 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5160" start="20260825101500 +0000" stop="20260825103000 +0000">
 		<title>STREET FOOD</title>
-		<desc>Baby clam dishes of Huế</desc>
+		<desc>A sip of Hanoi</desc>
 	</programme>
 	<programme channel="5160" start="20260825103000 +0000" stop="20260825110000 +0000">
-		<title>INSIGHTS</title>
-		<desc>The hearts guarding the forest</desc>
+		<title>RUSSIA LINK</title>
+		<desc>RUSSIA LINK</desc>
 	</programme>
 	<programme channel="5160" start="20260825110000 +0000" stop="20260825111000 +0000">
 		<title>NEWSLINE</title>
@@ -21859,23 +21859,23 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5160" start="20260825111500 +0000" stop="20260825113000 +0000">
 		<title>VIBES OF VIETNAM</title>
-		<desc>Đông Hồ woodblock paintings</desc>
+		<desc>Green Memories amidst the City</desc>
 	</programme>
 	<programme channel="5160" start="20260825113000 +0000" stop="20260825120000 +0000">
 		<title>TECH HORIZON</title>
 		<desc>The Rice Guardian</desc>
 	</programme>
 	<programme channel="5160" start="20260825120000 +0000" stop="20260825123000 +0000">
-		<title>HEALTH MATTERS</title>
-		<desc>AI in Diagnosis and Treatment</desc>
+		<title>EYES ON V</title>
+		<desc>Between the lines</desc>
 	</programme>
 	<programme channel="5160" start="20260825123000 +0000" stop="20260825124500 +0000">
 		<title>VIBES OF VIETNAM</title>
-		<desc>Handcraft memories of Vietnam</desc>
+		<desc>Greening fashion in Vietnam</desc>
 	</programme>
 	<programme channel="5160" start="20260825124500 +0000" stop="20260825130000 +0000">
 		<title>i-REPORT</title>
-		<desc>More than just a Coffee Bean</desc>
+		<desc>Catching the Highland beat</desc>
 	</programme>
 	<programme channel="5160" start="20260825130000 +0000" stop="20260825131500 +0000">
 		<title>DAILY BIZ</title>
@@ -21886,20 +21886,20 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<desc>INSIDE ASIA</desc>
 	</programme>
 	<programme channel="5160" start="20260825134500 +0000" stop="20260825135000 +0000">
-		<title>THE RHYTHMS OF VIETNAM</title>
-		<desc>The Beauty of Ba Mun Island</desc>
+		<title>VIETNAM DESTINATION</title>
+		<desc>Phú Quốc - Where heart stays</desc>
 	</programme>
 	<programme channel="5160" start="20260825135000 +0000" stop="20260825140000 +0000">
 		<title>VIBES OF VIETNAM</title>
-		<desc>Beneath the Canopy of Cúc Phương</desc>
+		<desc>Pa Dí People Preserving Their Culture</desc>
 	</programme>
 	<programme channel="5160" start="20260825140000 +0000" stop="20260825143000 +0000">
 		<title>NEWSLINE</title>
 		<desc>NEWSLINE</desc>
 	</programme>
 	<programme channel="5160" start="20260825143000 +0000" stop="20260825150000 +0000">
-		<title>HERITAGE JOURNEY</title>
-		<desc>A song of earth and fire</desc>
+		<title>VIETNAM AT A GLANCE</title>
+		<desc>Colours Forged Through Time</desc>
 	</programme>
 	<programme channel="5160" start="20260825150000 +0000" stop="20260825151500 +0000">
 		<title>CULTURE SCENE</title>
@@ -21907,11 +21907,11 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5160" start="20260825151500 +0000" stop="20260825153000 +0000">
 		<title>LOCAL TOWARDS GLOBAL</title>
-		<desc>Gia Lai Tuna - Setting Sail Worldwide</desc>
+		<desc>The Town of Lanterns</desc>
 	</programme>
 	<programme channel="5160" start="20260825153000 +0000" stop="20260825160000 +0000">
 		<title>ECHOES OF THE WILD</title>
-		<desc>Cát Bà - The Symphony of Life</desc>
+		<desc>Life Beneath the Bidoup Canopy</desc>
 	</programme>
 	<programme channel="5160" start="20260825160000 +0000" stop="20260825161500 +0000">
 		<title>DAILY BIZ</title>
@@ -28169,9 +28169,13 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<title>CNN Creators Episode 34</title>
 		<desc>Live from Doha, Qatar, CNN Creators follows a team of digital-native storytellers as they navigate the stories that matter most, with a focus on tech, art, culture, sport, and social trends.</desc>
 	</programme>
-	<programme channel="5167" start="20260827160000 +0000" stop="20260827170000 +0000">
-		<title>One World Episode 432</title>
+	<programme channel="5167" start="20260827160000 +0000" stop="20260827164500 +0000">
+		<title>One World Episode 171</title>
 		<desc>Zain Asher and Bianna Golodryga cover the top global and national issues of the day.</desc>
+	</programme>
+	<programme channel="5167" start="20260827164500 +0000" stop="20260827170000 +0000">
+		<title>African Voices Episode 29</title>
+		<desc>Arlette Amuli and BM Matundu, the Congolese creators behind the viral dating show "Pop the Balloon or Find Love," discuss their rise to internet fame.</desc>
 	</programme>
 	<programme channel="5167" start="20260827170000 +0000" stop="20260827180000 +0000">
 		<title>Amanpour Episode 136</title>
@@ -49281,37 +49285,37 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<title>Flip Or Flop (S9) Episode 4</title>
 		<desc>Between busy schedules, Tarek and Christina find time to check out a home in La Mirada, California, when a good deal pops up.</desc>
 	</programme>
-	<programme channel="5251" start="20260824160000 +0000" stop="20260824170000 +0000">
+	<programme channel="5251" start="20260824155500 +0000" stop="20260824165500 +0000">
 		<title>Canvas Of Oceans</title>
 		<desc>Canvas of Oceans is a story about preservation and a celebration of Pacific identity. Join Johnson Raela and Alice Lolohea in Hawaii as they meet with creators and custodians of culture at the 13th Festival of Pacific Arts.</desc>
 	</programme>
-	<programme channel="5251" start="20260824170000 +0000" stop="20260824173000 +0000">
+	<programme channel="5251" start="20260824165500 +0000" stop="20260824172500 +0000">
 		<title>Foreign Correspondent Episode 16</title>
-		<desc>As world news continues to dominate our headlines, Foreign Correspondent continues to bring you an action-packed season of stories reflecting the times in which we live.</desc>
+		<desc>On the tropical Honduran island of Roatan lies Prospera, a controversial libertarian proto state where billionaires can avoid taxes and government rules and biohackers try to cheat death with experimental medical treatments.</desc>
 	</programme>
-	<programme channel="5251" start="20260824173000 +0000" stop="20260824180000 +0000">
+	<programme channel="5251" start="20260824172500 +0000" stop="20260824175500 +0000">
 		<title>Planet America Episode 24</title>
-		<desc>A deeply divided America deals with the fallout of a war nobody voted for. As the Trump family continues to profit from the presidency, voters prepare to once again head to the polls for the midterm elections in November.</desc>
+		<desc>A series of scandals dominates the midterm campaigns, while speculation over the role of Trump aide Natalie Harp intensifies. Plus America's munitions crisis grows as Epic Fury depletes weapons stocks and stretches the Navy.</desc>
 	</programme>
-	<programme channel="5251" start="20260824180000 +0000" stop="20260824183000 +0000">
+	<programme channel="5251" start="20260824175500 +0000" stop="20260824183000 +0000">
 		<title>Culture By Design</title>
 		<desc>Adaptive design reimagines heritage for modern life. Anthony Burke explores a restored UNESCO home in Sri Lanka's Galle Fort, Vietnam's lacquer storytelling, and meets dedicated artisans preserving batik legacy in Matale.</desc>
 	</programme>
-	<programme channel="5251" start="20260824183000 +0000" stop="20260824184500 +0000">
-		<title>Chopsticks Or Fork? Episode 4</title>
-		<desc>Tina and Andy, recent arrivals to Australia from Guangzhou, saw an irresistible work opportunity and took over the Pagoda Restaurant in Atherton. Andy cooks Sweet &amp; Sour Pork with fresh Queensland pineapple.</desc>
+	<programme channel="5251" start="20260824183000 +0000" stop="20260824185500 +0000">
+		<title>Audra's Eat, Roam, Relish Episode 6</title>
+		<desc>Audra Morrice journeys to the colourful island state of Sarawak, Malaysia where she indulges in a cultural feast for the senses via its rich gastronomy. Audra explores Malaysian roots through food, family and local culture.</desc>
 	</programme>
-	<programme channel="5251" start="20260824184500 +0000" stop="20260824190000 +0000">
-		<title>Chopsticks Or Fork? Episode 5</title>
-		<desc>You don't need to be Chinese to run a successful Chinese restaurant, as proven by the Chiems, a Vietnamese family at Gawler Palace Chinese Restaurant in South Australia where their honey chicken reigns supreme.</desc>
+	<programme channel="5251" start="20260824185500 +0000" stop="20260824190000 +0000">
+		<title>Common Cause Episode 5</title>
+		<desc>In his final years, Australian eye surgeon Fred Hollows trained Vietnamese doctors in modern cataract surgery. Decades on, they and their students continue his mission, restoring sight to those who might otherwise go without.</desc>
 	</programme>
 	<programme channel="5251" start="20260824190000 +0000" stop="20260824200000 +0000">
 		<title>The World Episode 133</title>
-		<desc>There's never been a more important time to stay in touch with what's happening in our world. Girish Sawlani presents the latest international news from ABC News correspondents as well as interviews with experts and guests.</desc>
+		<desc>Girish Sawlani brings you the latest news from around the globe. Tonight: dozens arrested on suspicion of starting forest fires in Indonesia, and the USA's food safety crisis deepens.</desc>
 	</programme>
 	<programme channel="5251" start="20260824200000 +0000" stop="20260824210000 +0000">
 		<title>News Breakfast Episode 169</title>
-		<desc>News Breakfast gives you the morning advantage. James Glenday and Emma Rebellato bring you the latest news, sport and weather from Australia's most trusted source. Don't just start your day informed, start your day in front.</desc>
+		<desc>News Breakfast gives you the morning advantage. James Glenday and Emma Rebellato bring you the latest news, Catherine Murphy with sport and weather with Nate Byrne. Don't just start your day informed, start your day in front.</desc>
 	</programme>
 	<programme channel="5251" start="20260824210000 +0000" stop="20260824230000 +0000">
 		<title>News Breakfast Episode 169</title>
@@ -49323,31 +49327,35 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5251" start="20260825020000 +0000" stop="20260825030000 +0000">
 		<title>ABC News At Noon Episode 169</title>
-		<desc>The leading news at lunchtime. Ros Childs brings you the day's top stories and the latest news as it unfolds, with reporters in the community across Australia and around the world reporting on the issues that matter to you.</desc>
+		<desc>The leading news at lunchtime. Melissa Mackay brings you today's top stories and the latest news as it unfolds, with reporters in the community across Australia and around the world reporting on the issues that matter.</desc>
 	</programme>
 	<programme channel="5251" start="20260825030000 +0000" stop="20260825033000 +0000">
 		<title>Australian Story Episode 25</title>
-		<desc>In 2026, Logie-award-winning documentary program Australian Story celebrates 30 years sharing compelling stories about real people that illuminate, entertain and inspire. The power of the personal. Presented by Leigh Sales.</desc>
+		<desc>When dancer Roz Hervey was diagnosed with motor neurone disease, her daughter, actor Tilda Cobham-Hervey, stepped behind the camera to record her mother's life story. With hours left to live, Roz made a dying wish.</desc>
 	</programme>
 	<programme channel="5251" start="20260825033000 +0000" stop="20260825040000 +0000">
 		<title>Back Roads Episode 13</title>
 		<desc>Lisa heads to a little-known part of Australia, the remote tropical paradise of Cocos (Keeling) Islands, where she discovers a unique local culture, meets a bloke who could've been 'King' and celebrates a spectacular wedding.</desc>
 	</programme>
-	<programme channel="5251" start="20260825040000 +0000" stop="20260825051000 +0000">
+	<programme channel="5251" start="20260825040000 +0000" stop="20260825045500 +0000">
 		<title>A Brief History of Cricket Down Und Episode 5</title>
 		<desc>Australian quick Brett Lee makes an unforgettable debut. Pakistan's superstar Shoaib Akhtar squares-off with Lee down under and Elyse Perry makes her way into the history books.</desc>
 	</programme>
-	<programme channel="5251" start="20260825051000 +0000" stop="20260825060000 +0000">
+	<programme channel="5251" start="20260825045500 +0000" stop="20260825054500 +0000">
 		<title>Gardening Australia</title>
 		<desc>Gardening Australia returns to answer the question, 'What makes a great garden?' Costa visits a destination garden, Hannah tours Cairns Botanic Garden, Josh meets a plant stylist, and Jerry explores a stunning coastal garden.</desc>
 	</programme>
+	<programme channel="5251" start="20260825054500 +0000" stop="20260825060000 +0000">
+		<title>Landline: India Episode 4</title>
+		<desc>Not just on toast: A trade deal opens up new partnerships, providing Australian avocados to a new generation in India with a taste for new foods.</desc>
+	</programme>
 	<programme channel="5251" start="20260825060000 +0000" stop="20260825062500 +0000">
 		<title>Landline Episode 27</title>
-		<desc>A tasty sampler of stories from the land - covering food, agriculture, crops, climate, business and innovation - as we meet the fascinating people who make our rural and regional communities unique. Presented by Pip Courtney.</desc>
+		<desc>Rehabilitating land after mining in the Hunter Valley; plus the collection and banking of soil samples from around the country.</desc>
 	</programme>
 	<programme channel="5251" start="20260825062500 +0000" stop="20260825070000 +0000">
 		<title>Planet America Episode 24</title>
-		<desc>A deeply divided America deals with the fallout of a war nobody voted for. As the Trump family continues to profit from the presidency, voters prepare to once again head to the polls for the midterm elections in November.</desc>
+		<desc>A series of scandals dominates the midterm campaigns, while speculation over the role of Trump aide Natalie Harp intensifies. Plus America's munitions crisis grows as Epic Fury depletes weapons stocks and stretches the Navy.</desc>
 	</programme>
 	<programme channel="5251" start="20260825070000 +0000" stop="20260825080000 +0000">
 		<title>ABC News with Joe O'Brien Episode 169</title>
@@ -49357,9 +49365,13 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<title>The Cook Up With Adam Liaw Episode 36</title>
 		<desc>Tips and tricks galore as Currie Country's Arabella Douglas and entertainer Bjorn Stewart join Adam to make food using homestyle hacks.</desc>
 	</programme>
-	<programme channel="5251" start="20260825082500 +0000" stop="20260825090000 +0000">
+	<programme channel="5251" start="20260825082500 +0000" stop="20260825085000 +0000">
 		<title>Extraordinary Animals Episode 2</title>
 		<desc>Australia is one of the most diverse countries on earth with over 80percent of its animals found nowhere else in the world. This series explores wildlife's unique traits revealing the creative, aggressive, social and curious.</desc>
+	</programme>
+	<programme channel="5251" start="20260825085000 +0000" stop="20260825090000 +0000">
+		<title>Play On Episode 13</title>
+		<desc>Migrant families and athletes of multicultural heritage are changing Australia's sporting culture. From social sport to elite athletes, Paul Kennedy examines how sport helps build community, identity and opportunity.</desc>
 	</programme>
 	<programme channel="5251" start="20260825090000 +0000" stop="20260825093000 +0000">
 		<title>ABC National News Episode 237</title>
@@ -49371,7 +49383,7 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5251" start="20260825100000 +0000" stop="20260825103000 +0000">
 		<title>Australian Story Episode 25</title>
-		<desc>In 2026, Logie-award-winning documentary program Australian Story celebrates 30 years sharing compelling stories about real people that illuminate, entertain and inspire. The power of the personal. Presented by Leigh Sales.</desc>
+		<desc>When dancer Roz Hervey was diagnosed with motor neurone disease, her daughter, actor Tilda Cobham-Hervey, stepped behind the camera to record her mother's life story. With hours left to live, Roz made a dying wish.</desc>
 	</programme>
 	<programme channel="5251" start="20260825103000 +0000" stop="20260825110000 +0000">
 		<title>Island Echoes with Nornie Bero Episode 3</title>
@@ -49379,7 +49391,7 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5251" start="20260825110000 +0000" stop="20260825120000 +0000">
 		<title>The World Episode 134</title>
-		<desc>There's never been a more important time to stay in touch with what's happening in our world. Girish Sawlani presents the latest international news from ABC News correspondents as well as interviews with experts and guests.</desc>
+		<desc>Girish Sawlani brings you the latest news from around the globe. Tonight: China's next space launch faces unexpected delays, and the push to protect whale migration highways in the Pacific Ocean.</desc>
 	</programme>
 	<programme channel="5251" start="20260825120000 +0000" stop="20260825123000 +0000">
 		<title>Back Roads Episode 13</title>
@@ -49399,7 +49411,7 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5251" start="20260825140000 +0000" stop="20260825141500 +0000">
 		<title>ABC Late News Episode 169</title>
-		<desc>End your day with the latest on the day's top stories. ABC News has reporters across Australia and around the globe to uncover what's happening and why it matters.</desc>
+		<desc>End your day with the latest on the day's top stories. ABC News has reporters across Australia and around the globe to uncover what's happening and why it matters. Presented by Craig Smart in Perth.</desc>
 	</programme>
 	<programme channel="5251" start="20260825141500 +0000" stop="20260825143000 +0000">
 		<title>The Business Episode 118</title>
@@ -49411,7 +49423,7 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5251" start="20260825150000 +0000" stop="20260825160000 +0000">
 		<title>The World Episode 134</title>
-		<desc>There's never been a more important time to stay in touch with what's happening in our world. Girish Sawlani presents the latest international news from ABC News correspondents as well as interviews with experts and guests.</desc>
+		<desc>Girish Sawlani brings you the latest news from around the globe. Tonight: China's next space launch faces unexpected delays, and the push to protect whale migration highways in the Pacific Ocean.</desc>
 	</programme>
 	<programme channel="5251" start="20260825160000 +0000" stop="20260825163000 +0000">
 		<title>Landline Episode 27</title>
@@ -49651,7 +49663,7 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5251" start="20260827165000 +0000" stop="20260827171000 +0000">
 		<title>Media Watch Episode 29</title>
-		<desc>Australia's leading forum for media analysis and comment. Walkley award-winning investigative reporter and former foreign correspondent Linton Besser brings you a fearless critique of the week's journalism.</desc>
+		<desc>Did the media drop the ball covering the unfolding Swans saga this week? The Australian asks its readers to brace for a 30% rent hike, but is that what the experts really said? Plus unroyal welcome for Harry and Meghan.</desc>
 	</programme>
 	<programme channel="5251" start="20260827171000 +0000" stop="20260827181500 +0000">
 		<title>National Press Club Address Episode 31</title>
@@ -49667,7 +49679,7 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5251" start="20260827200000 +0000" stop="20260827210000 +0000">
 		<title>News Breakfast Episode 172</title>
-		<desc>James Glenday, Emma Rebellato, Catherine Murphy and Nate Byrne are in Fremantle in WA as part of ABC Your Say, bringing you the latest news, sport and weather, and hearing from the community on the issues that matter to you.</desc>
+		<desc>James Glenday, Emma Rebellato and Nate Byrne are in Fremantle in WA as part of ABC Your Say to hear from the community on the issues that matter to you and bring you today's news and weather. Plus sport with Catherine Murphy.</desc>
 	</programme>
 	<programme channel="5251" start="20260827210000 +0000" stop="20260827230000 +0000">
 		<title>News Breakfast Episode 172</title>
@@ -49679,25 +49691,29 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5251" start="20260828020000 +0000" stop="20260828030000 +0000">
 		<title>ABC News At Noon Episode 172</title>
-		<desc>The leading news at lunchtime. Ros Childs brings you the day's top stories and the latest news as it unfolds, with reporters in the community across Australia and around the world reporting on the issues that matter to you.</desc>
+		<desc>The leading news at lunchtime. Melissa Mackay brings you today's top stories and the latest news as it unfolds, with reporters in the community across Australia and around the world reporting on the issues that matter.</desc>
 	</programme>
 	<programme channel="5251" start="20260828030000 +0000" stop="20260828034500 +0000">
 		<title>Gardening Australia Episode 2</title>
-		<desc>Costa and the crew return in a refreshed season full of inspiring stories, practical ideas and beautiful gardens. Your weekly fix of gardening goodness starts here.</desc>
+		<desc>We focus on food growing, joining gardeners on the Sydney Edible Garden Trail. Tammy visits a garden with a Sri Lankan twist, Sophie shows her orchard's progress, and we meet a chef making the most of vegetables.</desc>
 	</programme>
 	<programme channel="5251" start="20260828034500 +0000" stop="20260828045500 +0000">
 		<title>The Great Australian Bake Off Episode 10</title>
 		<desc>In the grand finale, three bakers face off to win the title of Australia's Best Amateur Baker, creating their Signature high tea, a Technical Terrine set by Maggie Beer, and for their final Showstopper, a 3D Illusion Cake.</desc>
 	</programme>
-	<programme channel="5251" start="20260828045500 +0000" stop="20260828053000 +0000">
+	<programme channel="5251" start="20260828045500 +0000" stop="20260828052000 +0000">
 		<title>Every Bite Takes You Home Episode 7</title>
-		<desc>Share in the journeys of 16 remarkable asylum seekers who have found a home in Australia. Each person's unique story, blended with the memories of their favourite recipes and traditions, reminds us that food can unite us all.</desc>
+		<desc>Helga Duband flees to Australia at the outbreak of World War II to escape the Holocaust. Her Granddaughter Kimberley invites Kylie for a Shabbat meal.</desc>
 	</programme>
-	<programme channel="5251" start="20260828053000 +0000" stop="20260828060000 +0000">
+	<programme channel="5251" start="20260828052000 +0000" stop="20260828053500 +0000">
+		<title>Play On Episode 2</title>
+		<desc>Migrant families and athletes of multicultural heritage are changing Australia's sporting culture. From social sport to elite athletes, Paul Kennedy examines how sport helps build community, identity and opportunity.</desc>
+	</programme>
+	<programme channel="5251" start="20260828053500 +0000" stop="20260828061000 +0000">
 		<title>That Pacific Sports Show Episode 29</title>
-		<desc>Join Tiana Penitani Gray and Sam Wykes for your weekly hit of Pacific joy, as they share inspiring stories and incredible sporting prowess of athletes with Pacific Island heritage, from Australia and around the world.</desc>
+		<desc>Tiana Penitani Gray and Sam Wykes chat to Vanuatu beach volleyball stars Miller Pata, Sherysyn Toko and rising basketballer Ezekiel Webb, before visiting the Maskelyne Islands to explore Vanuatu's growing Va'a movement.</desc>
 	</programme>
-	<programme channel="5251" start="20260828060000 +0000" stop="20260828070000 +0000">
+	<programme channel="5251" start="20260828061000 +0000" stop="20260828070000 +0000">
 		<title>Trial in the Outback: The Lindy Cha Episode 3</title>
 		<desc>Lindy Chamberlain recounts the extraordinary case of her baby Azaria's disappearance after being snatched by a dingo in the Australian Outback back in 1980, and the trial that sentenced her for the death of her own daughter.</desc>
 	</programme>
@@ -49705,25 +49721,29 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<title>ABC News with Joe O'Brien Episode 172</title>
 		<desc>Joe O'Brien brings you a comprehensive summary of the day's events, with the latest breaking news, in depth coverage of the top stories, live crosses, interviews and explainers to bring you up to speed on what's going on.</desc>
 	</programme>
-	<programme channel="5251" start="20260828080000 +0000" stop="20260828091500 +0000">
+	<programme channel="5251" start="20260828080000 +0000" stop="20260828085000 +0000">
 		<title>Gardening Australia Episode 2</title>
-		<desc>Costa and the crew return in a refreshed season full of inspiring stories, practical ideas and beautiful gardens. Your weekly fix of gardening goodness starts here.</desc>
+		<desc>We focus on food growing, joining gardeners on the Sydney Edible Garden Trail. Tammy visits a garden with a Sri Lankan twist, Sophie shows her orchard's progress, and we meet a chef making the most of vegetables.</desc>
 	</programme>
-	<programme channel="5251" start="20260828091500 +0000" stop="20260828121500 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+	<programme channel="5251" start="20260828085000 +0000" stop="20260828092000 +0000">
+		<title>That Pacific Sports Show Episode 29</title>
+		<desc>Tiana Penitani Gray and Sam Wykes chat to Vanuatu beach volleyball stars Miller Pata, Sherysyn Toko and rising basketballer Ezekiel Webb, before visiting the Maskelyne Islands to explore Vanuatu's growing Va'a movement.</desc>
 	</programme>
-	<programme channel="5251" start="20260828121500 +0000" stop="20260828130500 +0000">
+	<programme channel="5251" start="20260828092000 +0000" stop="20260828122000 +0000">
+		<title>AFL Premiership Season Episode 149</title>
+		<desc>ABC Australia brings you Australian Rules football live in your lounge room every week with coverage of the 2026 AFL Premiership Season.</desc>
+	</programme>
+	<programme channel="5251" start="20260828122000 +0000" stop="20260828131000 +0000">
 		<title>Trial in the Outback: The Lindy Cha Episode 3</title>
 		<desc>Lindy Chamberlain recounts the extraordinary case of her baby Azaria's disappearance after being snatched by a dingo in the Australian Outback back in 1980, and the trial that sentenced her for the death of her own daughter.</desc>
 	</programme>
-	<programme channel="5251" start="20260828130500 +0000" stop="20260828141500 +0000">
+	<programme channel="5251" start="20260828131000 +0000" stop="20260828140000 +0000">
 		<title>The Matter Of Facts Episode 3</title>
 		<desc>Almost all of us are now engaging with AI, whether we know it or not. Hamish Macdonald investigates where this march, into a largely unregulated AI future, might land us. (Final)</desc>
 	</programme>
-	<programme channel="5251" start="20260828141500 +0000" stop="20260828143000 +0000">
+	<programme channel="5251" start="20260828140000 +0000" stop="20260828143000 +0000">
 		<title>ABC Late News Episode 172</title>
-		<desc>End your day with the latest on the day's top stories. ABC News has reporters across Australia and around the globe to uncover what's happening and why it matters.</desc>
+		<desc>End your day with the latest on the day's top stories. ABC News has reporters across Australia and around the globe to uncover what's happening and why it matters. Presented by Craig Smart in Perth.</desc>
 	</programme>
 	<programme channel="5251" start="20260828143000 +0000" stop="20260828150000 +0000">
 		<title>Asia News Week Episode 32</title>
@@ -49731,11 +49751,11 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 	</programme>
 	<programme channel="5251" start="20260828150000 +0000" stop="20260828153000 +0000">
 		<title>The World Episode 34</title>
-		<desc>There's never been a more important time to stay in touch with what's happening in our world. Manny Tsigas presents the latest international news from ABC News correspondents as well as interviews with experts and guests.</desc>
+		<desc>There's never been a more important time to stay in touch with what's happening in our world. Girish Sawlani presents the latest international news from ABC News correspondents as well as interviews with experts and guests.</desc>
 	</programme>
 	<programme channel="5251" start="20260828153000 +0000" stop="20260828161500 +0000">
 		<title>Gardening Australia Episode 2</title>
-		<desc>Costa and the crew return in a refreshed season full of inspiring stories, practical ideas and beautiful gardens. Your weekly fix of gardening goodness starts here.</desc>
+		<desc>We focus on food growing, joining gardeners on the Sydney Edible Garden Trail. Tammy visits a garden with a Sri Lankan twist, Sophie shows her orchard's progress, and we meet a chef making the most of vegetables.</desc>
 	</programme>
 	<programme channel="5251" start="20260828161500 +0000" stop="20260828173000 +0000">
 		<title>The Great Australian Bake Off Episode 10</title>
@@ -66641,19 +66661,15 @@ Memorable Classic Songs is a new music programs hosted by Chen Guo</desc>
 		<title>玉茗茶骨 / Glory Episode 14</title>
 		<desc>年轻状元郎陆江来上任淳安县令后屡破奇案，却因卷入一桩杀妻旧案，从官场新星沦落至绝境。濒死之际，幸得茶王之女荣善宝搭救。两人联手整顿家族、开拓茶道，在茶园里缔结了一段爱情佳话的故事‌。After rising star magistrate Lu Jiang Lai is brought down by a past wife-murder case, he’s left injured and on the run, only to be rescued by Rong Shan Bao, the Tea King's daughter. Once rivals, she hides his identity and demotes him to a stable boy to exact revenge. As Lu Jiang Lai plays along to survive, he becomes entangled in the Rong family’s high-stakes search for a son-in-law. Amid power plays an...</desc>
 	</programme>
-	<programme channel="5503" start="20260828003000 +0000" stop="20260828011500 +0000">
+	<programme channel="5503" start="20260828003000 +0000" stop="20260828013000 +0000">
 		<title>白色橄榄树 / The White Olive Tree Episode 5</title>
 		<desc>梁城卫视女记者宋冉在动荡的东国执行采访任务时突遇危险，所幸被在东国做志愿者的华裔爆破工程师李瓒相救，李瓒的温柔和心怀大爱的赤子之心深深吸引了宋冉。李瓒在与宋冉的多次相处中，也发现这个女孩外表看似柔弱，其实勇敢坚强，内心充满了正义与善良。相同的理想和契合的灵魂，让两人擦出了爱的火花。然而，一场突发的爆炸袭击将这份刚刚萌生的感情画上了休止符。回国后的两人都陷入了人生的低谷，甚至彼此失去了联系。李瓒因为好友在爆炸袭击中为救自己而牺牲感到内疚自责，宋冉则由于在爆炸袭击中拍摄的一张照片而备受争议，两人都承受着身心的双重伤痛。机缘巧合下他们重逢，渐渐各自的生活走回了正轨，他们一起种下了白色橄榄树种子。</desc>
 	</programme>
-	<programme channel="5503" start="20260828011500 +0000" stop="20260828020000 +0000">
-		<title>白色橄榄树 / The White Olive Tree Episode 6</title>
-		<desc>梁城卫视女记者宋冉在动荡的东国执行采访任务时突遇危险，所幸被在东国做志愿者的华裔爆破工程师李瓒相救，李瓒的温柔和心怀大爱的赤子之心深深吸引了宋冉。李瓒在与宋冉的多次相处中，也发现这个女孩外表看似柔弱，其实勇敢坚强，内心充满了正义与善良。相同的理想和契合的灵魂，让两人擦出了爱的火花。然而，一场突发的爆炸袭击将这份刚刚萌生的感情画上了休止符。回国后的两人都陷入了人生的低谷，甚至彼此失去了联系。李瓒因为好友在爆炸袭击中为救自己而牺牲感到内疚自责，宋冉则由于在爆炸袭击中拍摄的一张照片而备受争议，两人都承受着身心的双重伤痛。机缘巧合下他们重逢，渐渐各自的生活走回了正轨，他们一起种下了白色橄榄树种子。</desc>
-	</programme>
-	<programme channel="5503" start="20260828020000 +0000" stop="20260828024500 +0000">
+	<programme channel="5503" start="20260828013000 +0000" stop="20260828023000 +0000">
 		<title>绝命法官 / Justice Is Mine Episode 7</title>
 		<desc>在二十世纪九十年代初的濠港，法官秦誉与高级督察唐萱二人曾联手将社团头目韩奎龙成功定罪。然而秦誉之子意外撞伤韩家长子后，他陷入法理与亲情的两难抉择，最终竟选择伪造证据，为掩盖真相不惜伪造证据嫁祸他人，从法律的守护者坠落为规则的挑战者，将罪责嫁祸给一名偷车少年。随着唐萱深入追查这起案件，官商勾结的暗流、警界内部的腐败，以及多桩陈年旧案的隐秘关联也逐渐浮出水面，勾勒出一幅复杂的年代罪案图景。Qin Yu, who used to be an upright judge, covered up the truth that his son caused an accident and injured the son of a gang leader in a traffic collision. To avenge his son, the gang leader stirred up a storm of bloodshed.</desc>
 	</programme>
-	<programme channel="5503" start="20260828024500 +0000" stop="20260828033000 +0000">
+	<programme channel="5503" start="20260828023000 +0000" stop="20260828033000 +0000">
 		<title>绝命法官 / Justice Is Mine Episode 8</title>
 		<desc>在二十世纪九十年代初的濠港，法官秦誉与高级督察唐萱二人曾联手将社团头目韩奎龙成功定罪。然而秦誉之子意外撞伤韩家长子后，他陷入法理与亲情的两难抉择，最终竟选择伪造证据，为掩盖真相不惜伪造证据嫁祸他人，从法律的守护者坠落为规则的挑战者，将罪责嫁祸给一名偷车少年。随着唐萱深入追查这起案件，官商勾结的暗流、警界内部的腐败，以及多桩陈年旧案的隐秘关联也逐渐浮出水面，勾勒出一幅复杂的年代罪案图景。Qin Yu, who used to be an upright judge, covered up the truth that his son caused an accident and injured the son of a gang leader in a traffic collision. To avenge his son, the gang leader stirred up a storm of bloodshed.</desc>
 	</programme>
@@ -66673,19 +66689,15 @@ Memorable Classic Songs is a new music programs hosted by Chen Guo</desc>
 		<title>玉茗茶骨 / Glory Episode 14</title>
 		<desc>年轻状元郎陆江来上任淳安县令后屡破奇案，却因卷入一桩杀妻旧案，从官场新星沦落至绝境。濒死之际，幸得茶王之女荣善宝搭救。两人联手整顿家族、开拓茶道，在茶园里缔结了一段爱情佳话的故事‌。After rising star magistrate Lu Jiang Lai is brought down by a past wife-murder case, he’s left injured and on the run, only to be rescued by Rong Shan Bao, the Tea King's daughter. Once rivals, she hides his identity and demotes him to a stable boy to exact revenge. As Lu Jiang Lai plays along to survive, he becomes entangled in the Rong family’s high-stakes search for a son-in-law. Amid power plays an...</desc>
 	</programme>
-	<programme channel="5503" start="20260828063000 +0000" stop="20260828071500 +0000">
+	<programme channel="5503" start="20260828063000 +0000" stop="20260828073000 +0000">
 		<title>白色橄榄树 / The White Olive Tree Episode 5</title>
 		<desc>梁城卫视女记者宋冉在动荡的东国执行采访任务时突遇危险，所幸被在东国做志愿者的华裔爆破工程师李瓒相救，李瓒的温柔和心怀大爱的赤子之心深深吸引了宋冉。李瓒在与宋冉的多次相处中，也发现这个女孩外表看似柔弱，其实勇敢坚强，内心充满了正义与善良。相同的理想和契合的灵魂，让两人擦出了爱的火花。然而，一场突发的爆炸袭击将这份刚刚萌生的感情画上了休止符。回国后的两人都陷入了人生的低谷，甚至彼此失去了联系。李瓒因为好友在爆炸袭击中为救自己而牺牲感到内疚自责，宋冉则由于在爆炸袭击中拍摄的一张照片而备受争议，两人都承受着身心的双重伤痛。机缘巧合下他们重逢，渐渐各自的生活走回了正轨，他们一起种下了白色橄榄树种子。</desc>
 	</programme>
-	<programme channel="5503" start="20260828071500 +0000" stop="20260828080000 +0000">
-		<title>白色橄榄树 / The White Olive Tree Episode 6</title>
-		<desc>梁城卫视女记者宋冉在动荡的东国执行采访任务时突遇危险，所幸被在东国做志愿者的华裔爆破工程师李瓒相救，李瓒的温柔和心怀大爱的赤子之心深深吸引了宋冉。李瓒在与宋冉的多次相处中，也发现这个女孩外表看似柔弱，其实勇敢坚强，内心充满了正义与善良。相同的理想和契合的灵魂，让两人擦出了爱的火花。然而，一场突发的爆炸袭击将这份刚刚萌生的感情画上了休止符。回国后的两人都陷入了人生的低谷，甚至彼此失去了联系。李瓒因为好友在爆炸袭击中为救自己而牺牲感到内疚自责，宋冉则由于在爆炸袭击中拍摄的一张照片而备受争议，两人都承受着身心的双重伤痛。机缘巧合下他们重逢，渐渐各自的生活走回了正轨，他们一起种下了白色橄榄树种子。</desc>
-	</programme>
-	<programme channel="5503" start="20260828080000 +0000" stop="20260828084500 +0000">
+	<programme channel="5503" start="20260828073000 +0000" stop="20260828083500 +0000">
 		<title>绝命法官 / Justice Is Mine Episode 7</title>
 		<desc>在二十世纪九十年代初的濠港，法官秦誉与高级督察唐萱二人曾联手将社团头目韩奎龙成功定罪。然而秦誉之子意外撞伤韩家长子后，他陷入法理与亲情的两难抉择，最终竟选择伪造证据，为掩盖真相不惜伪造证据嫁祸他人，从法律的守护者坠落为规则的挑战者，将罪责嫁祸给一名偷车少年。随着唐萱深入追查这起案件，官商勾结的暗流、警界内部的腐败，以及多桩陈年旧案的隐秘关联也逐渐浮出水面，勾勒出一幅复杂的年代罪案图景。Qin Yu, who used to be an upright judge, covered up the truth that his son caused an accident and injured the son of a gang leader in a traffic collision. To avenge his son, the gang leader stirred up a storm of bloodshed.</desc>
 	</programme>
-	<programme channel="5503" start="20260828084500 +0000" stop="20260828093000 +0000">
+	<programme channel="5503" start="20260828083500 +0000" stop="20260828093000 +0000">
 		<title>绝命法官 / Justice Is Mine Episode 8</title>
 		<desc>在二十世纪九十年代初的濠港，法官秦誉与高级督察唐萱二人曾联手将社团头目韩奎龙成功定罪。然而秦誉之子意外撞伤韩家长子后，他陷入法理与亲情的两难抉择，最终竟选择伪造证据，为掩盖真相不惜伪造证据嫁祸他人，从法律的守护者坠落为规则的挑战者，将罪责嫁祸给一名偷车少年。随着唐萱深入追查这起案件，官商勾结的暗流、警界内部的腐败，以及多桩陈年旧案的隐秘关联也逐渐浮出水面，勾勒出一幅复杂的年代罪案图景。Qin Yu, who used to be an upright judge, covered up the truth that his son caused an accident and injured the son of a gang leader in a traffic collision. To avenge his son, the gang leader stirred up a storm of bloodshed.</desc>
 	</programme>
@@ -66705,19 +66717,15 @@ Memorable Classic Songs is a new music programs hosted by Chen Guo</desc>
 		<title>玉茗茶骨 / Glory Episode 14</title>
 		<desc>年轻状元郎陆江来上任淳安县令后屡破奇案，却因卷入一桩杀妻旧案，从官场新星沦落至绝境。濒死之际，幸得茶王之女荣善宝搭救。两人联手整顿家族、开拓茶道，在茶园里缔结了一段爱情佳话的故事‌。After rising star magistrate Lu Jiang Lai is brought down by a past wife-murder case, he’s left injured and on the run, only to be rescued by Rong Shan Bao, the Tea King's daughter. Once rivals, she hides his identity and demotes him to a stable boy to exact revenge. As Lu Jiang Lai plays along to survive, he becomes entangled in the Rong family’s high-stakes search for a son-in-law. Amid power plays an...</desc>
 	</programme>
-	<programme channel="5503" start="20260828123000 +0000" stop="20260828131500 +0000">
+	<programme channel="5503" start="20260828123000 +0000" stop="20260828133000 +0000">
 		<title>白色橄榄树 / The White Olive Tree Episode 5</title>
 		<desc>梁城卫视女记者宋冉在动荡的东国执行采访任务时突遇危险，所幸被在东国做志愿者的华裔爆破工程师李瓒相救，李瓒的温柔和心怀大爱的赤子之心深深吸引了宋冉。李瓒在与宋冉的多次相处中，也发现这个女孩外表看似柔弱，其实勇敢坚强，内心充满了正义与善良。相同的理想和契合的灵魂，让两人擦出了爱的火花。然而，一场突发的爆炸袭击将这份刚刚萌生的感情画上了休止符。回国后的两人都陷入了人生的低谷，甚至彼此失去了联系。李瓒因为好友在爆炸袭击中为救自己而牺牲感到内疚自责，宋冉则由于在爆炸袭击中拍摄的一张照片而备受争议，两人都承受着身心的双重伤痛。机缘巧合下他们重逢，渐渐各自的生活走回了正轨，他们一起种下了白色橄榄树种子。</desc>
 	</programme>
-	<programme channel="5503" start="20260828131500 +0000" stop="20260828140000 +0000">
-		<title>白色橄榄树 / The White Olive Tree Episode 6</title>
-		<desc>梁城卫视女记者宋冉在动荡的东国执行采访任务时突遇危险，所幸被在东国做志愿者的华裔爆破工程师李瓒相救，李瓒的温柔和心怀大爱的赤子之心深深吸引了宋冉。李瓒在与宋冉的多次相处中，也发现这个女孩外表看似柔弱，其实勇敢坚强，内心充满了正义与善良。相同的理想和契合的灵魂，让两人擦出了爱的火花。然而，一场突发的爆炸袭击将这份刚刚萌生的感情画上了休止符。回国后的两人都陷入了人生的低谷，甚至彼此失去了联系。李瓒因为好友在爆炸袭击中为救自己而牺牲感到内疚自责，宋冉则由于在爆炸袭击中拍摄的一张照片而备受争议，两人都承受着身心的双重伤痛。机缘巧合下他们重逢，渐渐各自的生活走回了正轨，他们一起种下了白色橄榄树种子。</desc>
-	</programme>
-	<programme channel="5503" start="20260828140000 +0000" stop="20260828144500 +0000">
+	<programme channel="5503" start="20260828133000 +0000" stop="20260828143000 +0000">
 		<title>绝命法官 / Justice Is Mine Episode 7</title>
 		<desc>在二十世纪九十年代初的濠港，法官秦誉与高级督察唐萱二人曾联手将社团头目韩奎龙成功定罪。然而秦誉之子意外撞伤韩家长子后，他陷入法理与亲情的两难抉择，最终竟选择伪造证据，为掩盖真相不惜伪造证据嫁祸他人，从法律的守护者坠落为规则的挑战者，将罪责嫁祸给一名偷车少年。随着唐萱深入追查这起案件，官商勾结的暗流、警界内部的腐败，以及多桩陈年旧案的隐秘关联也逐渐浮出水面，勾勒出一幅复杂的年代罪案图景。Qin Yu, who used to be an upright judge, covered up the truth that his son caused an accident and injured the son of a gang leader in a traffic collision. To avenge his son, the gang leader stirred up a storm of bloodshed.</desc>
 	</programme>
-	<programme channel="5503" start="20260828144500 +0000" stop="20260828153000 +0000">
+	<programme channel="5503" start="20260828143000 +0000" stop="20260828153000 +0000">
 		<title>绝命法官 / Justice Is Mine Episode 8</title>
 		<desc>在二十世纪九十年代初的濠港，法官秦誉与高级督察唐萱二人曾联手将社团头目韩奎龙成功定罪。然而秦誉之子意外撞伤韩家长子后，他陷入法理与亲情的两难抉择，最终竟选择伪造证据，为掩盖真相不惜伪造证据嫁祸他人，从法律的守护者坠落为规则的挑战者，将罪责嫁祸给一名偷车少年。随着唐萱深入追查这起案件，官商勾结的暗流、警界内部的腐败，以及多桩陈年旧案的隐秘关联也逐渐浮出水面，勾勒出一幅复杂的年代罪案图景。Qin Yu, who used to be an upright judge, covered up the truth that his son caused an accident and injured the son of a gang leader in a traffic collision. To avenge his son, the gang leader stirred up a storm of bloodshed.</desc>
 	</programme>
@@ -67816,11 +67824,13 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 	</programme>
 	<programme channel="5511" start="20260824173000 +0000" stop="20260824183000 +0000">
 		<title>夫妻的博弈 &amp; 今日知多D / Mrs. RevengeWhat's On Today Episode 16</title>
-		<desc>善良的幸如(高海宁饰)，活于丈夫施继威(张颕康饰)的压榨下，罹患绝症。她撞破丈夫与唯一闺蜜潘雪文(郭柏妍饰)的奸情，争执间被推出马路惨遭车撞。然而，幸如突然醒来，发现一切似乎只是场梦。但当梦中场景接连应验，她意识到这或是预知梦。为改写命运，幸如决心扭转梦中的悲剧。幸如不仅要摆脱渣男与假闺蜜，更设法撮合二人，让雪文「接手」其原本的不幸。她又善用梦境记忆、换上亮丽外型，在职场力争上游，还和并肩作战的上司叶家谦(马国明饰)渐生情愫，最终开拓幸福人生！</desc>
+		<desc>第16集
+幸如、家谦连手，向继威施加压力，逼使继威向雪文求婚。雪文被继威的甜言蜜语打动，答应求婚。为令幸如难看，雪文更故意在公司当众邀请幸如出席婚礼，没料到幸如竟大方答应。幸如目睹晓彤与哲朗的矛盾，并意外撞见晓彤偷哭的脆弱一幕。幸如聆听并开解晓彤，二人渐成朋友。幸如凭着晓彤的协助，成功争取向床品公司汇报的机会。雪文找来演员假扮其母亲出席婚礼。幸如等人埋首床品公司的广告，准备出发汇报之时，却遭人暗地妨碍。</desc>
 	</programme>
 	<programme channel="5511" start="20260824183000 +0000" stop="20260824190000 +0000">
 		<title>爱．回家之三代同糖 / Like Mother, Like Daughter Episode 11</title>
-		<desc>公关女皇唐万里(吴若希饰)独力照顾Gen Z女儿唐芯(李茵彤饰)，控制欲极强。万里的母亲唐曹嘉冰(车婉婉饰)半生相夫教子，忽然「觉醒」，由加拿大返港，决心寻回失落时光，更搬入万里家中。当年嘉冰曾因万里坚持未婚生下女儿，母女彻底闹僵，如今嘉冰却突然无预警杀入及扰乱万里的生活。万里力图维持秩序，唐芯则周旋两人之间，三代同堂火花四溅，矛盾不断。职场上，富二代老板空降「营销大神」杨帆(赵浚承饰)，与万里平起平坐正面交锋，万里事业与家庭同时迎来危机……</desc>
+		<desc>第11集 寻猫三十六时辰
+唐芯入股嘉骢的「开心小栈」，与好友卢汉纳、铁金刚合力将之改造成青年旅舍兼共享空间。附近杂货店的猫遭人抱走监控录像拍下偷猫贼的大概容貌。唐芯等人决心寻回失猫，追查下发现近日还有多宗失猫个案，疑为同一人所为。凭嘉骢提供的线索，众人终于找到偷猫贼，并暗中跟踪搜证，却遇上阻滞。偷猫贼后来竟现身小栈，似有目的而来……其后，偷猫贼有所行动，疑欲加害流浪猫，众人遂出手阻止，并当面质问其偷猫一事，讵料……</desc>
 	</programme>
 	<programme channel="5511" start="20260824190000 +0000" stop="20260824193000 +0000">
 		<title>东张西望 / Scoop 2026 Episode 235</title>
@@ -67832,8 +67842,8 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 	</programme>
 	<programme channel="5511" start="20260824200000 +0000" stop="20260824210000 +0000">
 		<title>命转皇后 / Story of Kunning Palace Episode 6</title>
-		<desc>第15集
-雪宁凭观察推断出谢危乃假身分，谢危不置可否。薛定非奉平南王之命携燕牧的下半封信入京，岂料信被公仪丞部下偷走。雪宁故意把燕临送的琴变卖以便筹钱让周寅之跟逆党换信，以此引起谢危注意，并借谢危之手杜绝后患。</desc>
+		<desc>第6集
+有人送玉如意进宫，太后收到后勃然大怒；姑娘们提起三百忠魂之事，心有余悸。谢危要雪宁留下来练琴，藉此试探她救郑保一事。姚惜得知父亲主动向张家提亲，向雪宁道谢。雪宁偶然听到谢危谈论玉如意的事，却被他发现。</desc>
 	</programme>
 	<programme channel="5511" start="20260824210000 +0000" stop="20260824214500 +0000">
 		<title>流行都市 / Big City Shop 2026 Episode 169</title>
@@ -67852,7 +67862,7 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 		<desc>《东张西望》星期一至日，紧贴追踪社会大事、趣闻逸事，并报导娱乐圈最新动态、艺人消息，以及剧集宣传和花絮。「今日突发」环节为大家追踪即日热门新闻；专题环节，深入探讨大众关心的时事、社会及民生问题，并访问相关的专家。</desc>
 	</programme>
 	<programme channel="5511" start="20260824230000 +0000" stop="20260825000000 +0000">
-		<title>香港早晨 及 世界观 / Good Morning Hong Kong and Global View Episode 530</title>
+		<title>香港早晨 及 世界观 / Good Morning Hong Kong and Global View Episode 531</title>
 		<desc>报导香港、两岸及国际重要新闻。</desc>
 	</programme>
 	<programme channel="5511" start="20260825000000 +0000" stop="20260825010000 +0000">
@@ -67862,7 +67872,8 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 	</programme>
 	<programme channel="5511" start="20260825010000 +0000" stop="20260825013000 +0000">
 		<title>爱．回家之三代同糖 / Like Mother, Like Daughter Episode 11</title>
-		<desc>公关女皇唐万里(吴若希饰)独力照顾Gen Z女儿唐芯(李茵彤饰)，控制欲极强。万里的母亲唐曹嘉冰(车婉婉饰)半生相夫教子，忽然「觉醒」，由加拿大返港，决心寻回失落时光，更搬入万里家中。当年嘉冰曾因万里坚持未婚生下女儿，母女彻底闹僵，如今嘉冰却突然无预警杀入及扰乱万里的生活。万里力图维持秩序，唐芯则周旋两人之间，三代同堂火花四溅，矛盾不断。职场上，富二代老板空降「营销大神」杨帆(赵浚承饰)，与万里平起平坐正面交锋，万里事业与家庭同时迎来危机……</desc>
+		<desc>第11集 寻猫三十六时辰
+唐芯入股嘉骢的「开心小栈」，与好友卢汉纳、铁金刚合力将之改造成青年旅舍兼共享空间。附近杂货店的猫遭人抱走监控录像拍下偷猫贼的大概容貌。唐芯等人决心寻回失猫，追查下发现近日还有多宗失猫个案，疑为同一人所为。凭嘉骢提供的线索，众人终于找到偷猫贼，并暗中跟踪搜证，却遇上阻滞。偷猫贼后来竟现身小栈，似有目的而来……其后，偷猫贼有所行动，疑欲加害流浪猫，众人遂出手阻止，并当面质问其偷猫一事，讵料……</desc>
 	</programme>
 	<programme channel="5511" start="20260825013000 +0000" stop="20260825020000 +0000">
 		<title>Hands Up / Hands Up 2026 Episode 224</title>
@@ -67880,17 +67891,18 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 	</programme>
 	<programme channel="5511" start="20260825023000 +0000" stop="20260825030000 +0000">
 		<title>仨心友行 / Walking With You Episode 11</title>
-		<desc>第12集
-海边Hea吓倾吓偈
-沙巴有一集住宅、购物中心、酒店等建设的大型项目，众人参观示范单位，巧遇在当地发展饮食生意的香港人，顺道向她了解投资商机。
+		<desc>第11集
+在昆达山越野飞驰
+昆达山景色怡人，马贯东随三位美女激玩越野四驱车，但嘉欣出发不久即向教练呼救？写意环境下畅快飞驰，敏之解开人母束缚，展现贪玩一面。
 
-品尝地道炒粉面美食期间，马贯东提到退休后希望移居海边，享受宁静生活。三位美女闻言即租下一辆特色露营车，带他到沙滩「Hea吓倾吓偈」。海风轻轻吹起，贯东打开心扉，还对着镜头向家人吐心声。美女们又重提为贯东炮制的惊喜生日会，贯东如何被整？
+四人及后深入茶园采茶，再登上树屋叹一杯，享受慢活节奏。说到儿时志愿，高Ling、嘉欣喜欢小朋友，均曾希望成为幼儿园老师。除了演艺工作，各人现时又有甚么计划？
 
-行程尾声，三位闺密乘船出海，互诉旅途深刻点滴。</desc>
+夕阳美景映衬下，一行人到可可山打卡，还即席演绎经典影视场面，贯东变身少女大撒娇！玩得兴起，四人更High爆热舞！</desc>
 	</programme>
 	<programme channel="5511" start="20260825030000 +0000" stop="20260825040000 +0000">
 		<title>夫妻的博弈 / Mrs. Revenge Episode 16</title>
-		<desc>善良的幸如(高海宁饰)，活于丈夫施继威(张颕康饰)的压榨下，罹患绝症。她撞破丈夫与唯一闺蜜潘雪文(郭柏妍饰)的奸情，争执间被推出马路惨遭车撞。然而，幸如突然醒来，发现一切似乎只是场梦。但当梦中场景接连应验，她意识到这或是预知梦。为改写命运，幸如决心扭转梦中的悲剧。幸如不仅要摆脱渣男与假闺蜜，更设法撮合二人，让雪文「接手」其原本的不幸。她又善用梦境记忆、换上亮丽外型，在职场力争上游，还和并肩作战的上司叶家谦(马国明饰)渐生情愫，最终开拓幸福人生！</desc>
+		<desc>第16集
+幸如、家谦连手，向继威施加压力，逼使继威向雪文求婚。雪文被继威的甜言蜜语打动，答应求婚。为令幸如难看，雪文更故意在公司当众邀请幸如出席婚礼，没料到幸如竟大方答应。幸如目睹晓彤与哲朗的矛盾，并意外撞见晓彤偷哭的脆弱一幕。幸如聆听并开解晓彤，二人渐成朋友。幸如凭着晓彤的协助，成功争取向床品公司汇报的机会。雪文找来演员假扮其母亲出席婚礼。幸如等人埋首床品公司的广告，准备出发汇报之时，却遭人暗地妨碍。</desc>
 	</programme>
 	<programme channel="5511" start="20260825040000 +0000" stop="20260825043000 +0000">
 		<title>东张西望 / Scoop 2026 Episode 235</title>
@@ -67916,7 +67928,8 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 	</programme>
 	<programme channel="5511" start="20260825060500 +0000" stop="20260825063000 +0000">
 		<title>爱．回家之三代同糖 / Like Mother, Like Daughter Episode 11</title>
-		<desc>公关女皇唐万里(吴若希饰)独力照顾Gen Z女儿唐芯(李茵彤饰)，控制欲极强。万里的母亲唐曹嘉冰(车婉婉饰)半生相夫教子，忽然「觉醒」，由加拿大返港，决心寻回失落时光，更搬入万里家中。当年嘉冰曾因万里坚持未婚生下女儿，母女彻底闹僵，如今嘉冰却突然无预警杀入及扰乱万里的生活。万里力图维持秩序，唐芯则周旋两人之间，三代同堂火花四溅，矛盾不断。职场上，富二代老板空降「营销大神」杨帆(赵浚承饰)，与万里平起平坐正面交锋，万里事业与家庭同时迎来危机……</desc>
+		<desc>第11集 寻猫三十六时辰
+唐芯入股嘉骢的「开心小栈」，与好友卢汉纳、铁金刚合力将之改造成青年旅舍兼共享空间。附近杂货店的猫遭人抱走监控录像拍下偷猫贼的大概容貌。唐芯等人决心寻回失猫，追查下发现近日还有多宗失猫个案，疑为同一人所为。凭嘉骢提供的线索，众人终于找到偷猫贼，并暗中跟踪搜证，却遇上阻滞。偷猫贼后来竟现身小栈，似有目的而来……其后，偷猫贼有所行动，疑欲加害流浪猫，众人遂出手阻止，并当面质问其偷猫一事，讵料……</desc>
 	</programme>
 	<programme channel="5511" start="20260825063000 +0000" stop="20260825073000 +0000">
 		<title>大唐迷雾 &amp; 今日知多D / The Tang Mist &amp; What's On Today Episode 3</title>
@@ -67940,8 +67953,8 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 	</programme>
 	<programme channel="5511" start="20260825093000 +0000" stop="20260825103000 +0000">
 		<title>命转皇后 / Story of Kunning Palace Episode 7</title>
-		<desc>第15集
-雪宁凭观察推断出谢危乃假身分，谢危不置可否。薛定非奉平南王之命携燕牧的下半封信入京，岂料信被公仪丞部下偷走。雪宁故意把燕临送的琴变卖以便筹钱让周寅之跟逆党换信，以此引起谢危注意，并借谢危之手杜绝后患。</desc>
+		<desc>第7集
+燕临发现薛国公私囤储备，燕牧决定调查清楚。谢危吐露对雪宁的想法，让雪宁释怀。圣上听谢危的建议让伯游接任尚书，雪宁大感错愕。燕牧回京途中遇刺杀，燕临及时赶到帮助。公公在雪宁房中搜到一封信，指她勾结逆党…</desc>
 	</programme>
 	<programme channel="5511" start="20260825103000 +0000" stop="20260825113500 +0000">
 		<title>六点半新闻报导&amp; 世界观 &amp; 今日知多D / News At 18:30 &amp; Global View &amp; What's On Today</title>
@@ -67953,11 +67966,13 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 	</programme>
 	<programme channel="5511" start="20260825120000 +0000" stop="20260825123000 +0000">
 		<title>爱．回家之三代同糖 / Like Mother, Like Daughter Episode 12</title>
-		<desc>公关女皇唐万里(吴若希饰)独力照顾Gen Z女儿唐芯(李茵彤饰)，控制欲极强。万里的母亲唐曹嘉冰(车婉婉饰)半生相夫教子，忽然「觉醒」，由加拿大返港，决心寻回失落时光，更搬入万里家中。当年嘉冰曾因万里坚持未婚生下女儿，母女彻底闹僵，如今嘉冰却突然无预警杀入及扰乱万里的生活。万里力图维持秩序，唐芯则周旋两人之间，三代同堂火花四溅，矛盾不断。职场上，富二代老板空降「营销大神」杨帆(赵浚承饰)，与万里平起平坐正面交锋，万里事业与家庭同时迎来危机……</desc>
+		<desc>第12集 忧心骢骢
+嘉骢迟迟未成家立室，嘉冰不禁忧心，更梦见先父责成她催促嘉骢早日成婚、继后香灯。为此，嘉冰加紧为嘉骢物色对象，更设下连串考验，终于找到理想人选Becca。Becca不但不抗拒嘉骢，更对他表现进取。嘉骢因情路屡受挫折而犹疑不决，听从「开心小栈」住客杨光的建议后，遂与Becca尝试约会，岂料对方竟有意想不到的「安排」……其后，Becca到访万里家中，亲自为众人下厨，俨然以家人自居，却逐渐露出真本性……</desc>
 	</programme>
 	<programme channel="5511" start="20260825123000 +0000" stop="20260825133000 +0000">
 		<title>夫妻的博弈 / Mrs. Revenge Episode 17</title>
-		<desc>善良的幸如(高海宁饰)，活于丈夫施继威(张颕康饰)的压榨下，罹患绝症。她撞破丈夫与唯一闺蜜潘雪文(郭柏妍饰)的奸情，争执间被推出马路惨遭车撞。然而，幸如突然醒来，发现一切似乎只是场梦。但当梦中场景接连应验，她意识到这或是预知梦。为改写命运，幸如决心扭转梦中的悲剧。幸如不仅要摆脱渣男与假闺蜜，更设法撮合二人，让雪文「接手」其原本的不幸。她又善用梦境记忆、换上亮丽外型，在职场力争上游，还和并肩作战的上司叶家谦(马国明饰)渐生情愫，最终开拓幸福人生！</desc>
+		<desc>第17集
+幸如等人因遇上突发状况，失去向床品公司汇报的机会。众人转而利用网络力量，终成功得到床品公司这个广告客户。家谦超额完成业绩，不料启荣交出更亮眼成绩，兄弟竞争愈发激烈。守业为保工作，再次情绪勒索美淇，美淇在问责大会上助他逃过一劫。及后，其昌信心十足地汇报贤淑荟萃活动的宣传意念……终于来到继威、雪文婚礼当天。幸如盛装出席，要见证雪文与继威踏入不幸婚姻生活的起点。</desc>
 	</programme>
 	<programme channel="5511" start="20260825133000 +0000" stop="20260825143000 +0000">
 		<title>大唐迷雾 / The Tang Mist Episode 4</title>
@@ -68330,11 +68345,13 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 	</programme>
 	<programme channel="5511" start="20260827173000 +0000" stop="20260827183000 +0000">
 		<title>夫妻的博弈 &amp; 今日知多D / Mrs. RevengeWhat's On Today Episode 19</title>
-		<desc>善良的幸如(高海宁饰)，活于丈夫施继威(张颕康饰)的压榨下，罹患绝症。她撞破丈夫与唯一闺蜜潘雪文(郭柏妍饰)的奸情，争执间被推出马路惨遭车撞。然而，幸如突然醒来，发现一切似乎只是场梦。但当梦中场景接连应验，她意识到这或是预知梦。为改写命运，幸如决心扭转梦中的悲剧。幸如不仅要摆脱渣男与假闺蜜，更设法撮合二人，让雪文「接手」其原本的不幸。她又善用梦境记忆、换上亮丽外型，在职场力争上游，还和并肩作战的上司叶家谦(马国明饰)渐生情愫，最终开拓幸福人生！</desc>
+		<desc>第19集
+晓彤成功使启荣批准家谦加入渡假村小组。幸如等人与浩恩拍摄家电广告，熙妍看着浩恩、幸如互动感不是味儿。熙妍得知幸如、浩恩被恶霸掳走，焦急带人营救……启荣、哲朗忌惮晓彤、家谦联盟，哲朗吩咐助手Edmond找出晓彤的黑材料。继威等人筹备新广告，继威被青春模特儿Emma吸引，雪文妒忌。雪文与佩贞的婆媳纠纷愈演愈烈，继威烦恼不已。这时继威与Emma不期而遇，似乎对上了眼……</desc>
 	</programme>
 	<programme channel="5511" start="20260827183000 +0000" stop="20260827190000 +0000">
 		<title>爱．回家之三代同糖 / Like Mother, Like Daughter Episode 14</title>
-		<desc>公关女皇唐万里(吴若希饰)独力照顾Gen Z女儿唐芯(李茵彤饰)，控制欲极强。万里的母亲唐曹嘉冰(车婉婉饰)半生相夫教子，忽然「觉醒」，由加拿大返港，决心寻回失落时光，更搬入万里家中。当年嘉冰曾因万里坚持未婚生下女儿，母女彻底闹僵，如今嘉冰却突然无预警杀入及扰乱万里的生活。万里力图维持秩序，唐芯则周旋两人之间，三代同堂火花四溅，矛盾不断。职场上，富二代老板空降「营销大神」杨帆(赵浚承饰)，与万里平起平坐正面交锋，万里事业与家庭同时迎来危机……</desc>
+		<desc>第14集  会过去的（上）
+嘉冰认出电视台歌唱比赛「当年好声音」上届冠军原是其手下败将，她当年曾胜出业余歌唱比赛，因父亲反对未能投身歌坛。另一方面，万里不满嘉冰蚕食其生活，再度设法逼她离开。万里的旧客戴志昌转投杨帆旗下，赞助新一届「当年好声音」，打算安排冠军唱出其广告歌，却不满杨帆提交的歌曲。万里获安排协助宣传，伺机夺回志昌这位大客……万里设法诱嘉冰返回加拿大，却触及其伤心事，令她负气离去。最终，嘉冰回来宣布一个惊人决定……</desc>
 	</programme>
 	<programme channel="5511" start="20260827190000 +0000" stop="20260827193000 +0000">
 		<title>东张西望 / Scoop 2026 Episode 238</title>
@@ -68346,8 +68363,8 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 	</programme>
 	<programme channel="5511" start="20260827200000 +0000" stop="20260827210000 +0000">
 		<title>命转皇后 / Story of Kunning Palace Episode 9</title>
-		<desc>第15集
-雪宁凭观察推断出谢危乃假身分，谢危不置可否。薛定非奉平南王之命携燕牧的下半封信入京，岂料信被公仪丞部下偷走。雪宁故意把燕临送的琴变卖以便筹钱让周寅之跟逆党换信，以此引起谢危注意，并借谢危之手杜绝后患。</desc>
+		<desc>第9集
+薛远察觉几件事皆有谢危踪影，想创造时机拉拢他；雪宁与父分析形势，表明与燕临无男女之情，求父让她帮扶燕家；薛远得到燕牧与平南王的半封信，圣上下旨要燕家圈禁在府；芳吟出府帮雪宁出面投资卓筒井，被尤月逮到…</desc>
 	</programme>
 	<programme channel="5511" start="20260827210000 +0000" stop="20260827214500 +0000">
 		<title>流行都市 / Big City Shop 2026 Episode 172</title>
@@ -68377,7 +68394,8 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 	</programme>
 	<programme channel="5511" start="20260828010000 +0000" stop="20260828013000 +0000">
 		<title>爱．回家之三代同糖 / Like Mother, Like Daughter Episode 14</title>
-		<desc>公关女皇唐万里(吴若希饰)独力照顾Gen Z女儿唐芯(李茵彤饰)，控制欲极强。万里的母亲唐曹嘉冰(车婉婉饰)半生相夫教子，忽然「觉醒」，由加拿大返港，决心寻回失落时光，更搬入万里家中。当年嘉冰曾因万里坚持未婚生下女儿，母女彻底闹僵，如今嘉冰却突然无预警杀入及扰乱万里的生活。万里力图维持秩序，唐芯则周旋两人之间，三代同堂火花四溅，矛盾不断。职场上，富二代老板空降「营销大神」杨帆(赵浚承饰)，与万里平起平坐正面交锋，万里事业与家庭同时迎来危机……</desc>
+		<desc>第14集  会过去的（上）
+嘉冰认出电视台歌唱比赛「当年好声音」上届冠军原是其手下败将，她当年曾胜出业余歌唱比赛，因父亲反对未能投身歌坛。另一方面，万里不满嘉冰蚕食其生活，再度设法逼她离开。万里的旧客戴志昌转投杨帆旗下，赞助新一届「当年好声音」，打算安排冠军唱出其广告歌，却不满杨帆提交的歌曲。万里获安排协助宣传，伺机夺回志昌这位大客……万里设法诱嘉冰返回加拿大，却触及其伤心事，令她负气离去。最终，嘉冰回来宣布一个惊人决定……</desc>
 	</programme>
 	<programme channel="5511" start="20260828013000 +0000" stop="20260828020000 +0000">
 		<title>Hands Up / Hands Up 2026 Episode 227</title>
@@ -68399,7 +68417,8 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 	</programme>
 	<programme channel="5511" start="20260828030000 +0000" stop="20260828040000 +0000">
 		<title>夫妻的博弈 / Mrs. Revenge Episode 19</title>
-		<desc>善良的幸如(高海宁饰)，活于丈夫施继威(张颕康饰)的压榨下，罹患绝症。她撞破丈夫与唯一闺蜜潘雪文(郭柏妍饰)的奸情，争执间被推出马路惨遭车撞。然而，幸如突然醒来，发现一切似乎只是场梦。但当梦中场景接连应验，她意识到这或是预知梦。为改写命运，幸如决心扭转梦中的悲剧。幸如不仅要摆脱渣男与假闺蜜，更设法撮合二人，让雪文「接手」其原本的不幸。她又善用梦境记忆、换上亮丽外型，在职场力争上游，还和并肩作战的上司叶家谦(马国明饰)渐生情愫，最终开拓幸福人生！</desc>
+		<desc>第19集
+晓彤成功使启荣批准家谦加入渡假村小组。幸如等人与浩恩拍摄家电广告，熙妍看着浩恩、幸如互动感不是味儿。熙妍得知幸如、浩恩被恶霸掳走，焦急带人营救……启荣、哲朗忌惮晓彤、家谦联盟，哲朗吩咐助手Edmond找出晓彤的黑材料。继威等人筹备新广告，继威被青春模特儿Emma吸引，雪文妒忌。雪文与佩贞的婆媳纠纷愈演愈烈，继威烦恼不已。这时继威与Emma不期而遇，似乎对上了眼……</desc>
 	</programme>
 	<programme channel="5511" start="20260828040000 +0000" stop="20260828043000 +0000">
 		<title>东张西望 / Scoop 2026 Episode 238</title>
@@ -68425,7 +68444,8 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 	</programme>
 	<programme channel="5511" start="20260828060500 +0000" stop="20260828063000 +0000">
 		<title>爱．回家之三代同糖 / Like Mother, Like Daughter Episode 14</title>
-		<desc>公关女皇唐万里(吴若希饰)独力照顾Gen Z女儿唐芯(李茵彤饰)，控制欲极强。万里的母亲唐曹嘉冰(车婉婉饰)半生相夫教子，忽然「觉醒」，由加拿大返港，决心寻回失落时光，更搬入万里家中。当年嘉冰曾因万里坚持未婚生下女儿，母女彻底闹僵，如今嘉冰却突然无预警杀入及扰乱万里的生活。万里力图维持秩序，唐芯则周旋两人之间，三代同堂火花四溅，矛盾不断。职场上，富二代老板空降「营销大神」杨帆(赵浚承饰)，与万里平起平坐正面交锋，万里事业与家庭同时迎来危机……</desc>
+		<desc>第14集  会过去的（上）
+嘉冰认出电视台歌唱比赛「当年好声音」上届冠军原是其手下败将，她当年曾胜出业余歌唱比赛，因父亲反对未能投身歌坛。另一方面，万里不满嘉冰蚕食其生活，再度设法逼她离开。万里的旧客戴志昌转投杨帆旗下，赞助新一届「当年好声音」，打算安排冠军唱出其广告歌，却不满杨帆提交的歌曲。万里获安排协助宣传，伺机夺回志昌这位大客……万里设法诱嘉冰返回加拿大，却触及其伤心事，令她负气离去。最终，嘉冰回来宣布一个惊人决定……</desc>
 	</programme>
 	<programme channel="5511" start="20260828063000 +0000" stop="20260828073000 +0000">
 		<title>大唐迷雾 &amp; 今日知多D / The Tang Mist &amp; What's On Today Episode 6</title>
@@ -68449,8 +68469,8 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 	</programme>
 	<programme channel="5511" start="20260828093000 +0000" stop="20260828103000 +0000">
 		<title>命转皇后 / Story of Kunning Palace Episode 10</title>
-		<desc>第15集
-雪宁凭观察推断出谢危乃假身分，谢危不置可否。薛定非奉平南王之命携燕牧的下半封信入京，岂料信被公仪丞部下偷走。雪宁故意把燕临送的琴变卖以便筹钱让周寅之跟逆党换信，以此引起谢危注意，并借谢危之手杜绝后患。</desc>
+		<desc>第10集
+为救芳吟，雪宁使计令芳吟与尤月被关入大牢。雪蕙终与沈玠见面，二人明确心意。雪宁偶遇张遮，并辅助他修复古玩，时姚惜携薛姝闯入，当面质问二人关系。雪宁让雪蕙成为公主伴读，薛姝意识到雪蕙才是沈玠心仪之人。</desc>
 	</programme>
 	<programme channel="5511" start="20260828103000 +0000" stop="20260828113500 +0000">
 		<title>六点半新闻报导&amp; 世界观 &amp; 今日知多D / News At 18:30 &amp; Global View &amp; What's On Today</title>
@@ -68462,11 +68482,13 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 	</programme>
 	<programme channel="5511" start="20260828120000 +0000" stop="20260828123000 +0000">
 		<title>爱．回家之三代同糖 / Like Mother, Like Daughter Episode 15</title>
-		<desc>公关女皇唐万里(吴若希饰)独力照顾Gen Z女儿唐芯(李茵彤饰)，控制欲极强。万里的母亲唐曹嘉冰(车婉婉饰)半生相夫教子，忽然「觉醒」，由加拿大返港，决心寻回失落时光，更搬入万里家中。当年嘉冰曾因万里坚持未婚生下女儿，母女彻底闹僵，如今嘉冰却突然无预警杀入及扰乱万里的生活。万里力图维持秩序，唐芯则周旋两人之间，三代同堂火花四溅，矛盾不断。职场上，富二代老板空降「营销大神」杨帆(赵浚承饰)，与万里平起平坐正面交锋，万里事业与家庭同时迎来危机……</desc>
+		<desc>第15集 会过去的（下）
+嘉冰决定参加「当年好声音」，并与万里打赌，若成功通过海选，万里便不可再逼她离开。因戴志昌赞助节目，万里等人参与筹办海选工作；杨帆则忙于筹备广告歌，分身乏术。万里特意安排三名友人与嘉冰同组参赛，希望阻止她入选。另一边厢，嘉冰为争一口气而积极备战，吃尽苦头……海选当天，担任评判的杨帆得知万里有亲人参赛，扬言决不放水。万里察觉嘉冰似有不妥，更无意中得知她回港的真正原因。临出场前，嘉冰竟萌生退意……</desc>
 	</programme>
 	<programme channel="5511" start="20260828123000 +0000" stop="20260828133000 +0000">
 		<title>夫妻的博弈 / Mrs. Revenge Episode 20</title>
-		<desc>善良的幸如(高海宁饰)，活于丈夫施继威(张颕康饰)的压榨下，罹患绝症。她撞破丈夫与唯一闺蜜潘雪文(郭柏妍饰)的奸情，争执间被推出马路惨遭车撞。然而，幸如突然醒来，发现一切似乎只是场梦。但当梦中场景接连应验，她意识到这或是预知梦。为改写命运，幸如决心扭转梦中的悲剧。幸如不仅要摆脱渣男与假闺蜜，更设法撮合二人，让雪文「接手」其原本的不幸。她又善用梦境记忆、换上亮丽外型，在职场力争上游，还和并肩作战的上司叶家谦(马国明饰)渐生情愫，最终开拓幸福人生！</desc>
+		<desc>第20集
+幸如等人劝婉兰与丈夫分开，但婉兰继续自欺欺人。幸如、熙妍发现幸如梦中经历的不幸似乎出现在婉兰等人身上……启荣的太太林舒雅娘家雅尔顿集团财困，启荣表面顺从苓君的注资决定，却密谋于雅尔顿取得权力。雪文发现继威与Emma密会，报复女方导致其受伤；东窗事发，雪文面临被解雇危机……家谦、幸如向启荣汇报，启荣异常浮躁地批评汇报内容。佩贞与雪文的生母沈淑冰争吵，混乱间雪文误伤佩贞，终引致雪文与继威、佩贞闹僵。</desc>
 	</programme>
 	<programme channel="5511" start="20260828133000 +0000" stop="20260828143000 +0000">
 		<title>大唐迷雾 / The Tang Mist Episode 7</title>
@@ -91436,17 +91458,9 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 		<title>Chinna Marumagal Panirendaam Vaguppu Episode 685</title>
 		<desc>Teen girls' medical dreams are dashed by forced marriage to a patriarchal family. She struggles to adapt while clinging to her aspirations.</desc>
 	</programme>
-	<programme channel="5634" start="20260824180000 +0000" stop="20260824183000 +0000">
-		<title>Kadhal Kadhal Kadhal Episode 36</title>
-		<desc>A romantic drama that explores love, relationships and emotional challenges as the lives of its characters are shaped by romance, misunderstandings and heartfelt moments.</desc>
-	</programme>
-	<programme channel="5634" start="20260824183000 +0000" stop="20260824190000 +0000">
-		<title>Sindhu Bairavi Kacheri Arambam Episode 416</title>
-		<desc>For her father's word, Bairavi ties the knot with Arumugam, while Siva rejects Sindhu's proposal yet ends up marrying her. How will these couples find solace?</desc>
-	</programme>
-	<programme channel="5634" start="20260824190000 +0000" stop="20260824193000 +0000">
-		<title>Azhagae Azhagu Episode 153</title>
-		<desc>Shanmugam reunites with his childhood sweetheart, hires her as a housemaid because she needs work. His wife protests when she learns of the arrangement tonight.</desc>
+	<programme channel="5634" start="20260824180000 +0000" stop="20260824193000 +0000">
+		<title>Biggboss The Common Man Episode 9</title>
+		<desc>The pre-show selects non-celebrity contestants who will enter main show. It introduces their backgrounds, personalities and dreams while revealing the challengers ready to compete.</desc>
 	</programme>
 	<programme channel="5634" start="20260824193000 +0000" stop="20260824200000 +0000">
 		<title>Kanmani Anbudan Episode 590</title>
@@ -91460,17 +91474,13 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 		<title>Suttum Vizhi Sudare - Oru Chinanjiru Kuyilin Kadhai Episode 195</title>
 		<desc>A poetic drama about love, memory, and childhood emotions as characters grow. Simple moments reveal how love shapes memory, guiding growth through tender, evolving feelings.</desc>
 	</programme>
-	<programme channel="5634" start="20260824210000 +0000" stop="20260824213000 +0000">
-		<title>Kadhal Kadhal Kadhal Episode 36</title>
-		<desc>A romantic drama that explores love, relationships and emotional challenges as the lives of its characters are shaped by romance, misunderstandings and heartfelt moments.</desc>
-	</programme>
-	<programme channel="5634" start="20260824213000 +0000" stop="20260824220000 +0000">
-		<title>Ayyanar Thunai Episode 491</title>
-		<desc>In a bid to escape her ill-fate, Nila becomes the daughter-in-law of a family with a tainted past. Can she restore their lost hope, or will it shatter hers?</desc>
+	<programme channel="5634" start="20260824210000 +0000" stop="20260824220000 +0000">
+		<title>Biggboss The Common Man Episode 9</title>
+		<desc>The pre-show selects non-celebrity contestants who will enter main show. It introduces their backgrounds, personalities and dreams while revealing the challengers ready to compete.</desc>
 	</programme>
 	<programme channel="5634" start="20260824220000 +0000" stop="20260824223000 +0000">
-		<title>Sindhu Bairavi Kacheri Arambam Episode 416</title>
-		<desc>For her father's word, Bairavi ties the knot with Arumugam, while Siva rejects Sindhu's proposal yet ends up marrying her. How will these couples find solace?</desc>
+		<title>Kadhal Kadhal Kadhal Episode 36</title>
+		<desc>A romantic drama that explores love, relationships and emotional challenges as the lives of its characters are shaped by romance, misunderstandings and heartfelt moments.</desc>
 	</programme>
 	<programme channel="5634" start="20260824223000 +0000" stop="20260824230000 +0000">
 		<title>Onna Irukka Kaththukkanum Episode 41</title>
@@ -91500,13 +91510,9 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 		<title>Chinna Marumagal Panirendaam Vaguppu Episode 685</title>
 		<desc>Teen girls' medical dreams are dashed by forced marriage to a patriarchal family. She struggles to adapt while clinging to her aspirations.</desc>
 	</programme>
-	<programme channel="5634" start="20260825020000 +0000" stop="20260825023000 +0000">
-		<title>Kadhal Kadhal Kadhal Episode 36</title>
-		<desc>A romantic drama that explores love, relationships and emotional challenges as the lives of its characters are shaped by romance, misunderstandings and heartfelt moments.</desc>
-	</programme>
-	<programme channel="5634" start="20260825023000 +0000" stop="20260825033000 +0000">
-		<title>Neeya Naana Episode 2</title>
-		<desc>A talk show with a difference - every week a topic is chosen and two groups of people representing extreme ends talk about their views.</desc>
+	<programme channel="5634" start="20260825020000 +0000" stop="20260825033000 +0000">
+		<title>Biggboss The Common Man Episode 9</title>
+		<desc>The pre-show selects non-celebrity contestants who will enter main show. It introduces their backgrounds, personalities and dreams while revealing the challengers ready to compete.</desc>
 	</programme>
 	<programme channel="5634" start="20260825033000 +0000" stop="20260825050000 +0000">
 		<title>Neeya Naana Episode 1010</title>
@@ -91544,17 +91550,13 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 		<title>Suttum Vizhi Sudare - Oru Chinanjiru Kuyilin Kadhai Episode 196</title>
 		<desc>A poetic drama about love, memory, and childhood emotions as characters grow. Simple moments reveal how love shapes memory, guiding growth through tender, evolving feelings.</desc>
 	</programme>
-	<programme channel="5634" start="20260825090000 +0000" stop="20260825093000 +0000">
-		<title>Kadhal Kadhal Kadhal Episode 36</title>
-		<desc>A romantic drama that explores love, relationships and emotional challenges as the lives of its characters are shaped by romance, misunderstandings and heartfelt moments.</desc>
-	</programme>
-	<programme channel="5634" start="20260825093000 +0000" stop="20260825100000 +0000">
-		<title>Ayyanar Thunai Episode 491</title>
-		<desc>In a bid to escape her ill-fate, Nila becomes the daughter-in-law of a family with a tainted past. Can she restore their lost hope, or will it shatter hers?</desc>
+	<programme channel="5634" start="20260825090000 +0000" stop="20260825100000 +0000">
+		<title>Biggboss The Common Man Episode 9</title>
+		<desc>The pre-show selects non-celebrity contestants who will enter main show. It introduces their backgrounds, personalities and dreams while revealing the challengers ready to compete.</desc>
 	</programme>
 	<programme channel="5634" start="20260825100000 +0000" stop="20260825103000 +0000">
-		<title>Sindhu Bairavi Kacheri Arambam Episode 417</title>
-		<desc>For her father's word, Bairavi ties the knot with Arumugam, while Siva rejects Sindhu's proposal yet ends up marrying her. How will these couples find solace?</desc>
+		<title>Kadhal Kadhal Kadhal Episode 37</title>
+		<desc>A romantic drama that explores love, relationships and emotional challenges as the lives of its characters are shaped by romance, misunderstandings and heartfelt moments.</desc>
 	</programme>
 	<programme channel="5634" start="20260825103000 +0000" stop="20260825110000 +0000">
 		<title>Onna Irukka Kaththukkanum Episode 42</title>
@@ -91584,17 +91586,13 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 		<title>Chinna Marumagal Panirendaam Vaguppu Episode 686</title>
 		<desc>Teen girls' medical dreams are dashed by forced marriage to a patriarchal family. She struggles to adapt while clinging to her aspirations.</desc>
 	</programme>
-	<programme channel="5634" start="20260825140000 +0000" stop="20260825143000 +0000">
-		<title>Kadhal Kadhal Kadhal Episode 37</title>
-		<desc>A romantic drama that explores love, relationships and emotional challenges as the lives of its characters are shaped by romance, misunderstandings and heartfelt moments.</desc>
+	<programme channel="5634" start="20260825140000 +0000" stop="20260825153000 +0000">
+		<title>Biggboss The Common Man Episode 10</title>
+		<desc>The pre-show selects non-celebrity contestants who will enter main show. It introduces their backgrounds, personalities and dreams while revealing the challengers ready to compete.</desc>
 	</programme>
-	<programme channel="5634" start="20260825143000 +0000" stop="20260825150000 +0000">
-		<title>Onna Irukka Kaththukkanum Episode 42</title>
-		<desc>The Kandhasamy family runs a modest vegetarian mess rooted in tradition. When progressive Indira enters their lives, their beliefs are challenged, forcing them to choose between change and division.</desc>
-	</programme>
-	<programme channel="5634" start="20260825150000 +0000" stop="20260825160000 +0000">
-		<title>Neeya Naana Episode 2</title>
-		<desc>A talk show with a difference - every week a topic is chosen and two groups of people representing extreme ends talk about their views.</desc>
+	<programme channel="5634" start="20260825153000 +0000" stop="20260825160000 +0000">
+		<title>Azhagae Azhagu Episode 154</title>
+		<desc>Shanmugam reunites with his childhood sweetheart, hires her as a housemaid because she needs work. His wife protests when she learns of the arrangement tonight.</desc>
 	</programme>
 	<programme channel="5634" start="20260825160000 +0000" stop="20260825163000 +0000">
 		<title>Pandian Stores Thanthai Sol Mikka Mandhi Episode 870</title>
@@ -91964,17 +91962,9 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 		<title>Chinna Marumagal Panirendaam Vaguppu Episode 688</title>
 		<desc>Teen girls' medical dreams are dashed by forced marriage to a patriarchal family. She struggles to adapt while clinging to her aspirations.</desc>
 	</programme>
-	<programme channel="5634" start="20260827180000 +0000" stop="20260827183000 +0000">
-		<title>Kadhal Kadhal Kadhal Episode 39</title>
-		<desc>A romantic drama that explores love, relationships and emotional challenges as the lives of its characters are shaped by romance, misunderstandings and heartfelt moments.</desc>
-	</programme>
-	<programme channel="5634" start="20260827183000 +0000" stop="20260827190000 +0000">
-		<title>Sindhu Bairavi Kacheri Arambam Episode 419</title>
-		<desc>For her father's word, Bairavi ties the knot with Arumugam, while Siva rejects Sindhu's proposal yet ends up marrying her. How will these couples find solace?</desc>
-	</programme>
-	<programme channel="5634" start="20260827190000 +0000" stop="20260827193000 +0000">
-		<title>Azhagae Azhagu Episode 156</title>
-		<desc>Shanmugam reunites with his childhood sweetheart, hires her as a housemaid because she needs work. His wife protests when she learns of the arrangement tonight.</desc>
+	<programme channel="5634" start="20260827180000 +0000" stop="20260827193000 +0000">
+		<title>Biggboss The Common Man Episode 12</title>
+		<desc>The pre-show selects non-celebrity contestants who will enter main show. It introduces their backgrounds, personalities and dreams while revealing the challengers ready to compete.</desc>
 	</programme>
 	<programme channel="5634" start="20260827193000 +0000" stop="20260827200000 +0000">
 		<title>Kanmani Anbudan Episode 593</title>
@@ -91988,17 +91978,13 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 		<title>Suttum Vizhi Sudare - Oru Chinanjiru Kuyilin Kadhai Episode 198</title>
 		<desc>A poetic drama about love, memory, and childhood emotions as characters grow. Simple moments reveal how love shapes memory, guiding growth through tender, evolving feelings.</desc>
 	</programme>
-	<programme channel="5634" start="20260827210000 +0000" stop="20260827213000 +0000">
-		<title>Kadhal Kadhal Kadhal Episode 39</title>
-		<desc>A romantic drama that explores love, relationships and emotional challenges as the lives of its characters are shaped by romance, misunderstandings and heartfelt moments.</desc>
-	</programme>
-	<programme channel="5634" start="20260827213000 +0000" stop="20260827220000 +0000">
-		<title>Ayyanar Thunai Episode 494</title>
-		<desc>In a bid to escape her ill-fate, Nila becomes the daughter-in-law of a family with a tainted past. Can she restore their lost hope, or will it shatter hers?</desc>
+	<programme channel="5634" start="20260827210000 +0000" stop="20260827220000 +0000">
+		<title>Biggboss The Common Man Episode 12</title>
+		<desc>The pre-show selects non-celebrity contestants who will enter main show. It introduces their backgrounds, personalities and dreams while revealing the challengers ready to compete.</desc>
 	</programme>
 	<programme channel="5634" start="20260827220000 +0000" stop="20260827223000 +0000">
-		<title>Sindhu Bairavi Kacheri Arambam Episode 419</title>
-		<desc>For her father's word, Bairavi ties the knot with Arumugam, while Siva rejects Sindhu's proposal yet ends up marrying her. How will these couples find solace?</desc>
+		<title>Kadhal Kadhal Kadhal Episode 39</title>
+		<desc>A romantic drama that explores love, relationships and emotional challenges as the lives of its characters are shaped by romance, misunderstandings and heartfelt moments.</desc>
 	</programme>
 	<programme channel="5634" start="20260827223000 +0000" stop="20260827230000 +0000">
 		<title>Onna Irukka Kaththukkanum Episode 44</title>
@@ -92028,13 +92014,9 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 		<title>Chinna Marumagal Panirendaam Vaguppu Episode 688</title>
 		<desc>Teen girls' medical dreams are dashed by forced marriage to a patriarchal family. She struggles to adapt while clinging to her aspirations.</desc>
 	</programme>
-	<programme channel="5634" start="20260828020000 +0000" stop="20260828023000 +0000">
-		<title>Kadhal Kadhal Kadhal Episode 39</title>
-		<desc>A romantic drama that explores love, relationships and emotional challenges as the lives of its characters are shaped by romance, misunderstandings and heartfelt moments.</desc>
-	</programme>
-	<programme channel="5634" start="20260828023000 +0000" stop="20260828033000 +0000">
-		<title>Neeya Naana Episode 2</title>
-		<desc>A talk show with a difference - every week a topic is chosen and two groups of people representing extreme ends talk about their views.</desc>
+	<programme channel="5634" start="20260828020000 +0000" stop="20260828033000 +0000">
+		<title>Biggboss The Common Man Episode 12</title>
+		<desc>The pre-show selects non-celebrity contestants who will enter main show. It introduces their backgrounds, personalities and dreams while revealing the challengers ready to compete.</desc>
 	</programme>
 	<programme channel="5634" start="20260828033000 +0000" stop="20260828050000 +0000">
 		<title>Cooku With Comali S07 - Double Trouble Episode 42</title>
@@ -92072,17 +92054,13 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 		<title>Suttum Vizhi Sudare - Oru Chinanjiru Kuyilin Kadhai Episode 199</title>
 		<desc>A poetic drama about love, memory, and childhood emotions as characters grow. Simple moments reveal how love shapes memory, guiding growth through tender, evolving feelings.</desc>
 	</programme>
-	<programme channel="5634" start="20260828090000 +0000" stop="20260828093000 +0000">
-		<title>Kadhal Kadhal Kadhal Episode 39</title>
-		<desc>A romantic drama that explores love, relationships and emotional challenges as the lives of its characters are shaped by romance, misunderstandings and heartfelt moments.</desc>
-	</programme>
-	<programme channel="5634" start="20260828093000 +0000" stop="20260828100000 +0000">
-		<title>Ayyanar Thunai Episode 494</title>
-		<desc>In a bid to escape her ill-fate, Nila becomes the daughter-in-law of a family with a tainted past. Can she restore their lost hope, or will it shatter hers?</desc>
+	<programme channel="5634" start="20260828090000 +0000" stop="20260828100000 +0000">
+		<title>Biggboss The Common Man Episode 12</title>
+		<desc>The pre-show selects non-celebrity contestants who will enter main show. It introduces their backgrounds, personalities and dreams while revealing the challengers ready to compete.</desc>
 	</programme>
 	<programme channel="5634" start="20260828100000 +0000" stop="20260828103000 +0000">
-		<title>Sindhu Bairavi Kacheri Arambam Episode 420</title>
-		<desc>For her father's word, Bairavi ties the knot with Arumugam, while Siva rejects Sindhu's proposal yet ends up marrying her. How will these couples find solace?</desc>
+		<title>Kadhal Kadhal Kadhal Episode 40</title>
+		<desc>A romantic drama that explores love, relationships and emotional challenges as the lives of its characters are shaped by romance, misunderstandings and heartfelt moments.</desc>
 	</programme>
 	<programme channel="5634" start="20260828103000 +0000" stop="20260828110000 +0000">
 		<title>Onna Irukka Kaththukkanum Episode 45</title>
@@ -92112,17 +92090,13 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 		<title>Chinna Marumagal Panirendaam Vaguppu Episode 689</title>
 		<desc>Teen girls' medical dreams are dashed by forced marriage to a patriarchal family. She struggles to adapt while clinging to her aspirations.</desc>
 	</programme>
-	<programme channel="5634" start="20260828140000 +0000" stop="20260828143000 +0000">
-		<title>Kadhal Kadhal Kadhal Episode 40</title>
-		<desc>A romantic drama that explores love, relationships and emotional challenges as the lives of its characters are shaped by romance, misunderstandings and heartfelt moments.</desc>
+	<programme channel="5634" start="20260828140000 +0000" stop="20260828153000 +0000">
+		<title>Biggboss The Common Man Episode 13</title>
+		<desc>The pre-show selects non-celebrity contestants who will enter main show. It introduces their backgrounds, personalities and dreams while revealing the challengers ready to compete.</desc>
 	</programme>
-	<programme channel="5634" start="20260828143000 +0000" stop="20260828150000 +0000">
-		<title>Onna Irukka Kaththukkanum Episode 45</title>
-		<desc>The Kandhasamy family runs a modest vegetarian mess rooted in tradition. When progressive Indira enters their lives, their beliefs are challenged, forcing them to choose between change and division.</desc>
-	</programme>
-	<programme channel="5634" start="20260828150000 +0000" stop="20260828160000 +0000">
-		<title>Neeya Naana Episode 2</title>
-		<desc>A talk show with a difference - every week a topic is chosen and two groups of people representing extreme ends talk about their views.</desc>
+	<programme channel="5634" start="20260828153000 +0000" stop="20260828160000 +0000">
+		<title>Azhagae Azhagu Episode 157</title>
+		<desc>Shanmugam reunites with his childhood sweetheart, hires her as a housemaid because she needs work. His wife protests when she learns of the arrangement tonight.</desc>
 	</programme>
 	<programme channel="5634" start="20260828160000 +0000" stop="20260828163000 +0000">
 		<title>Pandian Stores Thanthai Sol Mikka Mandhi Episode 873</title>
@@ -98530,7 +98504,7 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 	</programme>
 	<programme channel="5656" start="20260824160000 +0000" stop="20260824163000 +0000">
 		<title>Yeh Rishta Kya Kehlata Hai Episode 5264</title>
-		<desc>Dr. Abhimanyu, a misogynist, falls for Akshara, their daughter. Complications arise when Akshara's half-sister, Arohi, also falls for him.</desc>
+		<desc>Separated by destiny, Abhira and Armaan now live in different worlds. But as their past lingers and new lives unfold, could Maira be the spark that reunites them?</desc>
 	</programme>
 	<programme channel="5656" start="20260824163000 +0000" stop="20260824170000 +0000">
 		<title>Anupamaa Episode 2120</title>
@@ -98550,11 +98524,11 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 	</programme>
 	<programme channel="5656" start="20260824183000 +0000" stop="20260824190000 +0000">
 		<title>Yeh Rishta Kya Kehlata Hai Episode 5264</title>
-		<desc>Dr. Abhimanyu, a misogynist, falls for Akshara, their daughter. Complications arise when Akshara's half-sister, Arohi, also falls for him.</desc>
+		<desc>Separated by destiny, Abhira and Armaan now live in different worlds. But as their past lingers and new lives unfold, could Maira be the spark that reunites them?</desc>
 	</programme>
 	<programme channel="5656" start="20260824190000 +0000" stop="20260824193000 +0000">
-		<title>Mr. &amp; Mrs. Parshuram Episode 201</title>
-		<desc>Shivprasad and Shalini, an ordinary married couple, embrace love, laughter, and everyday joys, weaving a simple yet fulfilling life that celebrates togetherness and quiet contentment.</desc>
+		<title>Yeh Fitoor Tera Episode 20</title>
+		<desc>Reclusive Saumya finds the courage to rebuild her life after meeting Jeet, a free-spirited rebel. Their passionate love story blossoms in the heart of Prayagraj, changing them forever.</desc>
 	</programme>
 	<programme channel="5656" start="20260824193000 +0000" stop="20260824200000 +0000">
 		<title>Oh Humnava Tum Dena Saath Mera Episode 126</title>
@@ -98578,7 +98552,7 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 	</programme>
 	<programme channel="5656" start="20260824220000 +0000" stop="20260824223000 +0000">
 		<title>Yeh Rishta Kya Kehlata Hai Episode 5264</title>
-		<desc>Dr. Abhimanyu, a misogynist, falls for Akshara, their daughter. Complications arise when Akshara's half-sister, Arohi, also falls for him.</desc>
+		<desc>Separated by destiny, Abhira and Armaan now live in different worlds. But as their past lingers and new lives unfold, could Maira be the spark that reunites them?</desc>
 	</programme>
 	<programme channel="5656" start="20260824223000 +0000" stop="20260824230000 +0000">
 		<title>Kyunki Saas Bhi Kabhi Bahu Thi - 2 Episode 392</title>
@@ -98597,12 +98571,12 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 		<desc>Aparajita, a talented artist haunted by her past, crosses paths with Rakshit, a reserved businessman. Though he avoids romance, their unexpected connection might just lead to true love.</desc>
 	</programme>
 	<programme channel="5656" start="20260825003000 +0000" stop="20260825010000 +0000">
-		<title>Mr. &amp; Mrs. Parshuram Episode 201</title>
-		<desc>Shivprasad and Shalini, an ordinary married couple, embrace love, laughter, and everyday joys, weaving a simple yet fulfilling life that celebrates togetherness and quiet contentment.</desc>
+		<title>Kyunki Saas Bhi Kabhi Bahu Thi - 2 Episode 392</title>
+		<desc>Time flew by, yet Tulsi Virani stood strong as the Sarvagunn matriarch! Can she navigate the challenges of modern-day parenting and relationships?</desc>
 	</programme>
 	<programme channel="5656" start="20260825010000 +0000" stop="20260825013000 +0000">
 		<title>Yeh Rishta Kya Kehlata Hai Episode 5264</title>
-		<desc>Dr. Abhimanyu, a misogynist, falls for Akshara, their daughter. Complications arise when Akshara's half-sister, Arohi, also falls for him.</desc>
+		<desc>Separated by destiny, Abhira and Armaan now live in different worlds. But as their past lingers and new lives unfold, could Maira be the spark that reunites them?</desc>
 	</programme>
 	<programme channel="5656" start="20260825013000 +0000" stop="20260825020000 +0000">
 		<title>Anupamaa Episode 2120</title>
@@ -98633,12 +98607,12 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 		<desc>Aparajita, a talented artist haunted by her past, crosses paths with Rakshit, a reserved businessman. Though he avoids romance, their unexpected connection might just lead to true love.</desc>
 	</programme>
 	<programme channel="5656" start="20260825050000 +0000" stop="20260825053000 +0000">
-		<title>Mr. &amp; Mrs. Parshuram Episode 201</title>
-		<desc>Shivprasad and Shalini, an ordinary married couple, embrace love, laughter, and everyday joys, weaving a simple yet fulfilling life that celebrates togetherness and quiet contentment.</desc>
+		<title>Kyunki Saas Bhi Kabhi Bahu Thi - 2 Episode 392</title>
+		<desc>Time flew by, yet Tulsi Virani stood strong as the Sarvagunn matriarch! Can she navigate the challenges of modern-day parenting and relationships?</desc>
 	</programme>
 	<programme channel="5656" start="20260825053000 +0000" stop="20260825060000 +0000">
 		<title>Yeh Rishta Kya Kehlata Hai Episode 5264</title>
-		<desc>Dr. Abhimanyu, a misogynist, falls for Akshara, their daughter. Complications arise when Akshara's half-sister, Arohi, also falls for him.</desc>
+		<desc>Separated by destiny, Abhira and Armaan now live in different worlds. But as their past lingers and new lives unfold, could Maira be the spark that reunites them?</desc>
 	</programme>
 	<programme channel="5656" start="20260825060000 +0000" stop="20260825063000 +0000">
 		<title>Anupamaa Episode 2120</title>
@@ -98662,11 +98636,11 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 	</programme>
 	<programme channel="5656" start="20260825083000 +0000" stop="20260825090000 +0000">
 		<title>Yeh Rishta Kya Kehlata Hai Episode 5264</title>
-		<desc>Dr. Abhimanyu, a misogynist, falls for Akshara, their daughter. Complications arise when Akshara's half-sister, Arohi, also falls for him.</desc>
+		<desc>Separated by destiny, Abhira and Armaan now live in different worlds. But as their past lingers and new lives unfold, could Maira be the spark that reunites them?</desc>
 	</programme>
 	<programme channel="5656" start="20260825090000 +0000" stop="20260825093000 +0000">
-		<title>Mr. &amp; Mrs. Parshuram Episode 201</title>
-		<desc>Shivprasad and Shalini, an ordinary married couple, embrace love, laughter, and everyday joys, weaving a simple yet fulfilling life that celebrates togetherness and quiet contentment.</desc>
+		<title>Anupamaa Episode 2120</title>
+		<desc>Anupamaa sacrifices her ambitions for family, feeling uncredited. She finds empowerment by living on her terms after trials, showcasing a dramatic journey of resilience and independence.</desc>
 	</programme>
 	<programme channel="5656" start="20260825093000 +0000" stop="20260825100000 +0000">
 		<title>Sairaab Episode 84</title>
@@ -98698,11 +98672,11 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 	</programme>
 	<programme channel="5656" start="20260825130000 +0000" stop="20260825133000 +0000">
 		<title>Yeh Rishta Kya Kehlata Hai Episode 5264</title>
-		<desc>Dr. Abhimanyu, a misogynist, falls for Akshara, their daughter. Complications arise when Akshara's half-sister, Arohi, also falls for him.</desc>
+		<desc>Separated by destiny, Abhira and Armaan now live in different worlds. But as their past lingers and new lives unfold, could Maira be the spark that reunites them?</desc>
 	</programme>
 	<programme channel="5656" start="20260825133000 +0000" stop="20260825140000 +0000">
-		<title>Mr. &amp; Mrs. Parshuram Episode 202</title>
-		<desc>Shivprasad and Shalini, an ordinary married couple, embrace love, laughter, and everyday joys, weaving a simple yet fulfilling life that celebrates togetherness and quiet contentment.</desc>
+		<title>Udne Ki Aasha Episode 894</title>
+		<desc>Sayali desires a fairytale romance, but fate intertwines her with Sachin, a complex figure. Will her dreams of a perfect life survive this unexpected connection?</desc>
 	</programme>
 	<programme channel="5656" start="20260825140000 +0000" stop="20260825143000 +0000">
 		<title>Sairaab Episode 85</title>
@@ -99129,8 +99103,8 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 		<desc>Dr. Abhimanyu, a misogynist, falls for Akshara, their daughter. Complications arise when Akshara's half-sister, Arohi, also falls for him.</desc>
 	</programme>
 	<programme channel="5656" start="20260827190000 +0000" stop="20260827193000 +0000">
-		<title>Mr. &amp; Mrs. Parshuram Episode 204</title>
-		<desc>Shivprasad and Shalini, an ordinary married couple, embrace love, laughter, and everyday joys, weaving a simple yet fulfilling life that celebrates togetherness and quiet contentment.</desc>
+		<title>Yeh Fitoor Tera Episode 23</title>
+		<desc>Reclusive Saumya finds the courage to rebuild her life after meeting Jeet, a free-spirited rebel. Their passionate love story blossoms in the heart of Prayagraj, changing them forever.</desc>
 	</programme>
 	<programme channel="5656" start="20260827193000 +0000" stop="20260827200000 +0000">
 		<title>Oh Humnava Tum Dena Saath Mera Episode 129</title>
@@ -99173,8 +99147,8 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 		<desc>Aparajita, a talented artist haunted by her past, crosses paths with Rakshit, a reserved businessman. Though he avoids romance, their unexpected connection might just lead to true love.</desc>
 	</programme>
 	<programme channel="5656" start="20260828003000 +0000" stop="20260828010000 +0000">
-		<title>Mr. &amp; Mrs. Parshuram Episode 204</title>
-		<desc>Shivprasad and Shalini, an ordinary married couple, embrace love, laughter, and everyday joys, weaving a simple yet fulfilling life that celebrates togetherness and quiet contentment.</desc>
+		<title>Kyunki Saas Bhi Kabhi Bahu Thi - 2 Episode 395</title>
+		<desc>Time flew by, yet Tulsi Virani stood strong as the Sarvagunn matriarch! Can she navigate the challenges of modern-day parenting and relationships?</desc>
 	</programme>
 	<programme channel="5656" start="20260828010000 +0000" stop="20260828013000 +0000">
 		<title>Yeh Rishta Kya Kehlata Hai Episode 5267</title>
@@ -99209,8 +99183,8 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 		<desc>Aparajita, a talented artist haunted by her past, crosses paths with Rakshit, a reserved businessman. Though he avoids romance, their unexpected connection might just lead to true love.</desc>
 	</programme>
 	<programme channel="5656" start="20260828050000 +0000" stop="20260828053000 +0000">
-		<title>Mr. &amp; Mrs. Parshuram Episode 204</title>
-		<desc>Shivprasad and Shalini, an ordinary married couple, embrace love, laughter, and everyday joys, weaving a simple yet fulfilling life that celebrates togetherness and quiet contentment.</desc>
+		<title>Kyunki Saas Bhi Kabhi Bahu Thi - 2 Episode 395</title>
+		<desc>Time flew by, yet Tulsi Virani stood strong as the Sarvagunn matriarch! Can she navigate the challenges of modern-day parenting and relationships?</desc>
 	</programme>
 	<programme channel="5656" start="20260828053000 +0000" stop="20260828060000 +0000">
 		<title>Yeh Rishta Kya Kehlata Hai Episode 5267</title>
@@ -99241,8 +99215,8 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 		<desc>Dr. Abhimanyu, a misogynist, falls for Akshara, their daughter. Complications arise when Akshara's half-sister, Arohi, also falls for him.</desc>
 	</programme>
 	<programme channel="5656" start="20260828090000 +0000" stop="20260828093000 +0000">
-		<title>Mr. &amp; Mrs. Parshuram Episode 204</title>
-		<desc>Shivprasad and Shalini, an ordinary married couple, embrace love, laughter, and everyday joys, weaving a simple yet fulfilling life that celebrates togetherness and quiet contentment.</desc>
+		<title>Anupamaa Episode 2123</title>
+		<desc>Anupamaa sacrifices her ambitions for family, feeling uncredited. She finds empowerment by living on her terms after trials, showcasing a dramatic journey of resilience and independence.</desc>
 	</programme>
 	<programme channel="5656" start="20260828093000 +0000" stop="20260828100000 +0000">
 		<title>Sairaab Episode 87</title>
@@ -99277,8 +99251,8 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 		<desc>Dr. Abhimanyu, a misogynist, falls for Akshara, their daughter. Complications arise when Akshara's half-sister, Arohi, also falls for him.</desc>
 	</programme>
 	<programme channel="5656" start="20260828133000 +0000" stop="20260828140000 +0000">
-		<title>Mr. &amp; Mrs. Parshuram Episode 205</title>
-		<desc>Shivprasad and Shalini, an ordinary married couple, embrace love, laughter, and everyday joys, weaving a simple yet fulfilling life that celebrates togetherness and quiet contentment.</desc>
+		<title>Udne Ki Aasha Episode 897</title>
+		<desc>Sayali desires a fairytale romance, but fate intertwines her with Sachin, a complex figure. Will her dreams of a perfect life survive this unexpected connection?</desc>
 	</programme>
 	<programme channel="5656" start="20260828140000 +0000" stop="20260828143000 +0000">
 		<title>Sairaab Episode 88</title>
@@ -104481,8 +104455,8 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 		<desc>Explore the unknown charms of the Tohoku region of northern Japan.</desc>
 	</programme>
 	<programme channel="5682" start="20260824183000 +0000" stop="20260824184500 +0000">
-		<title>Drama Serial "The Scent of the Wind" (R)</title>
-		<desc>Drama Serial "The Scent of the Wind" (R)</desc>
+		<title>Drama Serial "The Scent of the Wind" Ep. 106 (R)</title>
+		<desc>The 114th drama serial follows two women, Rin (Mikami Ai) and Naomi (Kosaka Juri), who paved the way for nursing in the Meiji era. Each carries her own struggles, yet together they support one another as they race to protect the wounded and vulnerable, often standing up against powerful forces. Through conflicts and hardships, the two gradually grow. No matter which way the wind blows, this unconventional duo continues their journey in search of happiness.</desc>
 	</programme>
 	<programme channel="5682" start="20260824184500 +0000" stop="20260824191200 +0000">
 		<title>Today's Close-up (R)</title>
@@ -104493,7 +104467,7 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 		<desc>Weather information of the different areas around the world.</desc>
 	</programme>
 	<programme channel="5682" start="20260824191500 +0000" stop="20260824200000 +0000">
-		<title>Tsurube's Salute to Families "Nao in Seoul, Korea" (R)</title>
+		<title>Tsurube's Salute to Families "Nao in Seoul, Korea" Part 1 (R)</title>
 		<desc>Veteran rakugo storyteller Shofukutei Tsurube travels across Japan with a personality, introducing families they meet along the way.</desc>
 	</programme>
 	<programme channel="5682" start="20260824200000 +0000" stop="20260824201000 +0000">
@@ -104525,8 +104499,8 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 		<desc>Fresh news and information to start off the morning. Specialized reporters and anchors will wake up the viewers with this live news program.</desc>
 	</programme>
 	<programme channel="5682" start="20260824230000 +0000" stop="20260824231500 +0000">
-		<title>Drama Serial "The Scent of the Wind"</title>
-		<desc>Drama Serial "The Scent of the Wind"</desc>
+		<title>Drama Serial "The Scent of the Wind" Ep. 107</title>
+		<desc>The 114th drama serial follows two women, Rin (Mikami Ai) and Naomi (Kosaka Juri), who paved the way for nursing in the Meiji era. Each carries her own struggles, yet together they support one another as they race to protect the wounded and vulnerable, often standing up against powerful forces. Through conflicts and hardships, the two gradually grow. No matter which way the wind blows, this unconventional duo continues their journey in search of happiness.</desc>
 	</programme>
 	<programme channel="5682" start="20260824231500 +0000" stop="20260825005400 +0000">
 		<title>asaichi</title>
@@ -104545,7 +104519,7 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 		<desc>The latest up-to-date news and nationwide weather information.</desc>
 	</programme>
 	<programme channel="5682" start="20260825010500 +0000" stop="20260825015000 +0000">
-		<title>Tsurube's Salute to Families "Nao in Seoul, Korea" (R)</title>
+		<title>Tsurube's Salute to Families "Nao in Seoul, Korea" Part 1 (R)</title>
 		<desc>Veteran rakugo storyteller Shofukutei Tsurube travels across Japan with a personality, introducing families they meet along the way.</desc>
 	</programme>
 	<programme channel="5682" start="20260825015000 +0000" stop="20260825021700 +0000">
@@ -104589,8 +104563,8 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 		<desc>The 96th Drama Serial is about Mineko, a girl born in Ibaraki Prefecture, who comes up to Tokyo for the mass employment during the high economic growth period. The story begins in 1964, the year of the Tokyo Olympics, and portrays her eventful life and growth as a person.</desc>
 	</programme>
 	<programme channel="5682" start="20260825034500 +0000" stop="20260825040000 +0000">
-		<title>Drama Serial "The Scent of the Wind" (R)</title>
-		<desc>Drama Serial "The Scent of the Wind" (R)</desc>
+		<title>Drama Serial "The Scent of the Wind" Ep. 107 (R)</title>
+		<desc>The 114th drama serial follows two women, Rin (Mikami Ai) and Naomi (Kosaka Juri), who paved the way for nursing in the Meiji era. Each carries her own struggles, yet together they support one another as they race to protect the wounded and vulnerable, often standing up against powerful forces. Through conflicts and hardships, the two gradually grow. No matter which way the wind blows, this unconventional duo continues their journey in search of happiness.</desc>
 	</programme>
 	<programme channel="5682" start="20260825040000 +0000" stop="20260825040500 +0000">
 		<title>News</title>
@@ -104704,13 +104678,13 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 		<title>Night Drama Serial "Books Bought with Tax Money" Ep. 2</title>
 		<desc>A heartwarming comedy about the people who work in a library. Delinquent high school student Ishidaira Kiichi (Okudaira Daiken) finds himself visiting a library for the first time in 10 years. There, he encounters a group of distinctive staff members who work tirelessly to help their patrons. After taking a part-time job at the library, Kiichi discovers the many rules and responsibilities that help people discover books and the joy of learning. Through the people he meets there, the restless ...</desc>
 	</programme>
-	<programme channel="5682" start="20260825140000 +0000" stop="20260825142700 +0000">
-		<title>Across the Sea: The Miraculous Reunion of the Fusuma Paintings (R)</title>
-		<desc>Across the Sea: The Miraculous Reunion of the Fusuma Paintings (R)</desc>
+	<programme channel="5682" start="20260825140000 +0000" stop="20260825142500 +0000">
+		<title>Go! Go! Cook R'n</title>
+		<desc>A dietary education program introducing tips for cooking and knowledge of ingredients while enjoying singing and dancing with humorous animation.</desc>
 	</programme>
-	<programme channel="5682" start="20260825142700 +0000" stop="20260825143000 +0000">
-		<title>Mini Program</title>
-		<desc>Mini Program</desc>
+	<programme channel="5682" start="20260825142500 +0000" stop="20260825143000 +0000">
+		<title>RAMEN JAPAN 5min.</title>
+		<desc>RAMEN JAPAN 5min.</desc>
 	</programme>
 	<programme channel="5682" start="20260825143000 +0000" stop="20260825144000 +0000">
 		<title>News Commentary</title>
@@ -104729,8 +104703,8 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 		<desc>Weather information of the different areas around the world.</desc>
 	</programme>
 	<programme channel="5682" start="20260825153000 +0000" stop="20260825161500 +0000">
-		<title>TBA</title>
-		<desc>TBA</desc>
+		<title>Nyan-chu! Space! Broadcasting! (R)</title>
+		<desc>Nyan-chu, a cat from the earth, introduces human lives and cultures to the aliens in outer space.</desc>
 	</programme>
 	<programme channel="5682" start="20260825161500 +0000" stop="20260825164000 +0000">
 		<title>Today's Cooking</title>
@@ -105309,8 +105283,8 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 		<desc>Showcasing various programs and activities of NHK WORLD-JAPAN which provides the latest information on Japan and Asia to the global audience.</desc>
 	</programme>
 	<programme channel="5682" start="20260827183000 +0000" stop="20260827184500 +0000">
-		<title>Drama Serial "The Scent of the Wind" (R)</title>
-		<desc>Drama Serial "The Scent of the Wind" (R)</desc>
+		<title>Drama Serial "The Scent of the Wind" Ep. 109 (R)</title>
+		<desc>The 114th drama serial follows two women, Rin (Mikami Ai) and Naomi (Kosaka Juri), who paved the way for nursing in the Meiji era. Each carries her own struggles, yet together they support one another as they race to protect the wounded and vulnerable, often standing up against powerful forces. Through conflicts and hardships, the two gradually grow. No matter which way the wind blows, this unconventional duo continues their journey in search of happiness.</desc>
 	</programme>
 	<programme channel="5682" start="20260827184500 +0000" stop="20260827195700 +0000">
 		<title>Eat Up! The Ultimate Homemade Cooking Battle Special Edition "Korean Food" (R)</title>
@@ -105345,8 +105319,8 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 		<desc>Fresh news and information to start off the morning. Specialized reporters and anchors will wake up the viewers with this live news program.</desc>
 	</programme>
 	<programme channel="5682" start="20260827230000 +0000" stop="20260827231500 +0000">
-		<title>Drama Serial "The Scent of the Wind"</title>
-		<desc>Drama Serial "The Scent of the Wind"</desc>
+		<title>Drama Serial "The Scent of the Wind" Ep. 110</title>
+		<desc>The 114th drama serial follows two women, Rin (Mikami Ai) and Naomi (Kosaka Juri), who paved the way for nursing in the Meiji era. Each carries her own struggles, yet together they support one another as they race to protect the wounded and vulnerable, often standing up against powerful forces. Through conflicts and hardships, the two gradually grow. No matter which way the wind blows, this unconventional duo continues their journey in search of happiness.</desc>
 	</programme>
 	<programme channel="5682" start="20260827231500 +0000" stop="20260828005400 +0000">
 		<title>asaichi</title>
@@ -105397,8 +105371,8 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 		<desc>The 96th Drama Serial is about Mineko, a girl born in Ibaraki Prefecture, who comes up to Tokyo for the mass employment during the high economic growth period. The story begins in 1964, the year of the Tokyo Olympics, and portrays her eventful life and growth as a person.</desc>
 	</programme>
 	<programme channel="5682" start="20260828034500 +0000" stop="20260828040000 +0000">
-		<title>Drama Serial "The Scent of the Wind" (R)</title>
-		<desc>Drama Serial "The Scent of the Wind" (R)</desc>
+		<title>Drama Serial "The Scent of the Wind" Ep. 110 (R)</title>
+		<desc>The 114th drama serial follows two women, Rin (Mikami Ai) and Naomi (Kosaka Juri), who paved the way for nursing in the Meiji era. Each carries her own struggles, yet together they support one another as they race to protect the wounded and vulnerable, often standing up against powerful forces. Through conflicts and hardships, the two gradually grow. No matter which way the wind blows, this unconventional duo continues their journey in search of happiness.</desc>
 	</programme>
 	<programme channel="5682" start="20260828040000 +0000" stop="20260828040500 +0000">
 		<title>News</title>
@@ -105502,7 +105476,7 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 	</programme>
 	<programme channel="5682" start="20260828130000 +0000" stop="20260828133000 +0000">
 		<title>Document 72 Hours</title>
-		<desc>Document 72 Hours</desc>
+		<desc>This is an unusual program series that explores human dramas through chance encounters with ordinary people at selected locations.</desc>
 	</programme>
 	<programme channel="5682" start="20260828133000 +0000" stop="20260828143000 +0000">
 		<title>Somewhere Street "Bologna, Italy"</title>
