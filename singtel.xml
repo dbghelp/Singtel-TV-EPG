@@ -1402,7 +1402,7 @@
 	</programme>
 	<programme channel="5002" start="20260917133000 +0000" stop="20260917140000 +0000">
 		<title>Talking Point Episode 18</title>
-		<desc>With a fresh approach to tackling the issues of the day, Talking Point investigates a current issue or event, offering different perspectives to local stories and reveals how it all affects you.</desc>
+		<desc>Singapore's blood supply is under growing pressure. Talking Point investigates the reasons behind this pressure and what it will take to sustain the blood supply.</desc>
 	</programme>
 	<programme channel="5002" start="20260917140000 +0000" stop="20260917150000 +0000">
 		<title>FBI: Most Wanted S6 Episode 17</title>
@@ -1622,7 +1622,7 @@
 	</programme>
 	<programme channel="5002" start="20260918173000 +0000" stop="20260918180000 +0000">
 		<title>Talking Point Episode 18</title>
-		<desc>With a fresh approach to tackling the issues of the day, Talking Point investigates a current issue or event, offering different perspectives to local stories and reveals how it all affects you.</desc>
+		<desc>Singapore's blood supply is under growing pressure. Talking Point investigates the reasons behind this pressure and what it will take to sustain the blood supply.</desc>
 	</programme>
 	<programme channel="5002" start="20260918180000 +0000" stop="20260918183000 +0000">
 		<title>On The Red Dot Episode 15</title>
@@ -3178,7 +3178,7 @@
 	</programme>
 	<programme channel="5004" start="20260916123000 +0000" stop="20260916130000 +0000">
 		<title>Detik Semasa Episode 19</title>
-		<desc>The program analyses and dissect issues of concern to the Malay/Muslim Singaporeans - be it at the community level, national, regional or global. Apart from raising awareness, each DETIK episode hopes to set viewers thinking and make informed decisions on matters that can impact their lives.</desc>
+		<desc>Due to the recent haze, elderly care centres and humanitarian organisations have been providing care and support to those at high health risk. Detik KitorangSG: Osman Ariffin is a veteran of the music industry who has personally witnessed the evolution of the Malay recording scene. He shares stories from behind the scenes, his relationships with artists, and how the music landscape has changed over the decades.</desc>
 	</programme>
 	<programme channel="5004" start="20260916130000 +0000" stop="20260916133000 +0000">
 		<title>One On One Episode 17</title>
@@ -3230,7 +3230,7 @@
 	</programme>
 	<programme channel="5004" start="20260917070000 +0000" stop="20260917073000 +0000">
 		<title>Detik Semasa Episode 19</title>
-		<desc>The program analyses and dissect issues of concern to the Malay/Muslim Singaporeans - be it at the community level, national, regional or global. Apart from raising awareness, each DETIK episode hopes to set viewers thinking and make informed decisions on matters that can impact their lives.</desc>
+		<desc>Due to the recent haze, elderly care centres and humanitarian organisations have been providing care and support to those at high health risk. Detik KitorangSG: Osman Ariffin is a veteran of the music industry who has personally witnessed the evolution of the Malay recording scene. He shares stories from behind the scenes, his relationships with artists, and how the music landscape has changed over the decades.</desc>
 	</programme>
 	<programme channel="5004" start="20260917073000 +0000" stop="20260917080000 +0000">
 		<title>One On One Episode 17</title>
@@ -4890,7 +4890,7 @@
 	</programme>
 	<programme channel="5006" start="20260920143000 +0000" stop="20260920150000 +0000">
 		<title>Talking Point Episode 18</title>
-		<desc>With a fresh approach to tackling the issues of the day, Talking Point investigates a current issue or event, offering different perspectives to local stories and reveals how it all affects you.</desc>
+		<desc>Singapore's blood supply is under growing pressure. Talking Point investigates the reasons behind this pressure and what it will take to sustain the blood supply.</desc>
 	</programme>
 	<programme channel="5006" start="20260920150000 +0000" stop="20260920150300 +0000">
 		<title>Headline News Episode 595</title>
@@ -18633,8 +18633,8 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
 	</programme>
 	<programme channel="5157" start="20260919011000 +0000" stop="20260919020000 +0000">
-		<title>Meet the Giants: Japan's Sacred Trees</title>
-		<desc>A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+		<title>Meet the Giants</title>
+		<desc>Journey across Japan to discover its many giant trees. Some of these majestic arboreal colossi areover 1,000 years old and have been revered as sacred protectors of local communities and cultures.</desc>
 	</programme>
 	<programme channel="5157" start="20260919020000 +0000" stop="20260919021000 +0000">
 		<title>NHK NEWSLINE</title>
@@ -18713,8 +18713,8 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
 	</programme>
 	<programme channel="5157" start="20260919071000 +0000" stop="20260919080000 +0000">
-		<title>Meet the Giants: Japan's Sacred Trees</title>
-		<desc>A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+		<title>Meet the Giants</title>
+		<desc>Journey across Japan to discover its many giant trees. Some of these majestic arboreal colossi areover 1,000 years old and have been revered as sacred protectors of local communities and cultures.</desc>
 	</programme>
 	<programme channel="5157" start="20260919080000 +0000" stop="20260919081000 +0000">
 		<title>NHK NEWSLINE</title>
@@ -18793,8 +18793,8 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
 	</programme>
 	<programme channel="5157" start="20260919131000 +0000" stop="20260919141000 +0000">
-		<title>Meet the Giants: Japan's Sacred Trees</title>
-		<desc>A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+		<title>Meet the Giants</title>
+		<desc>Journey across Japan to discover its many giant trees. Some of these majestic arboreal colossi areover 1,000 years old and have been revered as sacred protectors of local communities and cultures.</desc>
 	</programme>
 	<programme channel="5157" start="20260919141000 +0000" stop="20260919144000 +0000">
 		<title>BIZ STREAM</title>
@@ -18865,8 +18865,8 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
 	</programme>
 	<programme channel="5157" start="20260919191000 +0000" stop="20260919200000 +0000">
-		<title>Meet the Giants: Japan's Sacred Trees</title>
-		<desc>A selection of acclaimed programs from NHK's domestic channels dubbed into English.</desc>
+		<title>Meet the Giants</title>
+		<desc>Journey across Japan to discover its many giant trees. Some of these majestic arboreal colossi areover 1,000 years old and have been revered as sacred protectors of local communities and cultures.</desc>
 	</programme>
 	<programme channel="5157" start="20260919200000 +0000" stop="20260919201000 +0000">
 		<title>NHK NEWSLINE</title>
@@ -18916,13 +18916,9 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<title>GRAND SUMO Highlights</title>
 		<desc>NHK WORLD-JAPAN presents a sumo highlights program for fans around the globe. Today the show features all top-division bouts from September 19, Day 7 of the Grand Sumo Tournament in Tokyo.</desc>
 	</programme>
-	<programme channel="5157" start="20260919235700 +0000" stop="20260920000000 +0000">
+	<programme channel="5157" start="20260919235700 +0000" stop="20260920005000 +0000">
 		<title>Sumopedia #7</title>
 		<desc>Sumopedia enriches your sumo experience with information on the techniques, traditions and famous wrestlers of the past. The rules may be simple but there is a lot more to sumo than meets the eye.</desc>
-	</programme>
-	<programme channel="5157" start="20260920000000 +0000" stop="20260920005000 +0000">
-		<title>An Icy Journey from Tibet's Sky Village</title>
-		<desc>The herders of Thoe Village uphold a long tradition of grazing their sheep at the distant Island of God, but the trek there requires them to guide 2,000 of the animals across a vast frozen lake.</desc>
 	</programme>
 	<programme channel="5157" start="20260920005000 +0000" stop="20260920010000 +0000">
 		<title>Century Signboards</title>
@@ -19012,13 +19008,9 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<title>Zero Waste Life</title>
 		<desc>Bonsai artist Suzuki Yoshio revives withered bonsai, Japan's living art form, into something that can be admired forever, true to his motto: the love for each tree must never wither.</desc>
 	</programme>
-	<programme channel="5157" start="20260920060000 +0000" stop="20260920061000 +0000">
+	<programme channel="5157" start="20260920060000 +0000" stop="20260920070000 +0000">
 		<title>NHK NEWSLINE</title>
 		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
-	</programme>
-	<programme channel="5157" start="20260920061000 +0000" stop="20260920070000 +0000">
-		<title>An Icy Journey from Tibet's Sky Village</title>
-		<desc>The herders of Thoe Village uphold a long tradition of grazing their sheep at the distant Island of God, but the trek there requires them to guide 2,000 of the animals across a vast frozen lake.</desc>
 	</programme>
 	<programme channel="5157" start="20260920070000 +0000" stop="20260920071000 +0000">
 		<title>NHK NEWSLINE</title>
@@ -19092,13 +19084,9 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<title>Zero Waste Life</title>
 		<desc>Bonsai artist Suzuki Yoshio revives withered bonsai, Japan's living art form, into something that can be admired forever, true to his motto: the love for each tree must never wither.</desc>
 	</programme>
-	<programme channel="5157" start="20260920120000 +0000" stop="20260920121000 +0000">
+	<programme channel="5157" start="20260920120000 +0000" stop="20260920130000 +0000">
 		<title>NHK NEWSLINE</title>
 		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
-	</programme>
-	<programme channel="5157" start="20260920121000 +0000" stop="20260920130000 +0000">
-		<title>An Icy Journey from Tibet's Sky Village</title>
-		<desc>The herders of Thoe Village uphold a long tradition of grazing their sheep at the distant Island of God, but the trek there requires them to guide 2,000 of the animals across a vast frozen lake.</desc>
 	</programme>
 	<programme channel="5157" start="20260920130000 +0000" stop="20260920131000 +0000">
 		<title>NHK NEWSLINE</title>
@@ -29429,28 +29417,28 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<desc>Our lifespans are increasing at an unprecedented pace. It's no longer enough to ask if we're going to live to 150 but whether or not we're prepared to. CNN's Hanako Montgomery explores the question of longevity.</desc>
 	</programme>
 	<programme channel="5167" start="20260919170000 +0000" stop="20260919180000 +0000">
-		<title>CNN Newsroom Saturday Episode 298</title>
-		<desc>Updates of the latest news from around the world.</desc>
+		<title>Smerconish Episode 38</title>
+		<desc>Michael Smerconish tackles the American political and news stories of the week, offering only one kind of talking point: his own.</desc>
 	</programme>
 	<programme channel="5167" start="20260919180000 +0000" stop="20260919190000 +0000">
 		<title>CNN Newsroom Saturday Episode 299</title>
 		<desc>Updates of the latest news from around the world.</desc>
 	</programme>
-	<programme channel="5167" start="20260919190000 +0000" stop="20260919191500 +0000">
+	<programme channel="5167" start="20260919190000 +0000" stop="20260919200000 +0000">
+		<title>CNN Newsroom Saturday Episode 300</title>
+		<desc>Updates of the latest news from around the world.</desc>
+	</programme>
+	<programme channel="5167" start="20260919200000 +0000" stop="20260919201500 +0000">
 		<title>Marketplace Europe Episode 61</title>
 		<desc>Every month, we delve into how innovation and technology are driving Europe's great recovery, speaking to top CEOs and exploring new trends.</desc>
 	</programme>
-	<programme channel="5167" start="20260919191500 +0000" stop="20260919193000 +0000">
+	<programme channel="5167" start="20260919201500 +0000" stop="20260919203000 +0000">
 		<title>Marketplace Asia Episode 59</title>
 		<desc>This month on Marketplace Asia, we explore how Kyrgyzstan is building on its strategic location and natural resources to grow its economy.</desc>
 	</programme>
-	<programme channel="5167" start="20260919193000 +0000" stop="20260919200000 +0000">
+	<programme channel="5167" start="20260919203000 +0000" stop="20260919210000 +0000">
 		<title>Quest's World of Wonder Episode 9</title>
 		<desc>Richard Quest dives headfirst into Porto, a city where centuries of tradition collide with a booming new popularity. Richard discovers why Portugal's second city is having its moment.</desc>
-	</programme>
-	<programme channel="5167" start="20260919200000 +0000" stop="20260919210000 +0000">
-		<title>CNN Newsroom Saturday Episode 301</title>
-		<desc>Updates of the latest news from around the world.</desc>
 	</programme>
 	<programme channel="5167" start="20260919210000 +0000" stop="20260919213000 +0000">
 		<title>World Sport Episode 701</title>
@@ -37477,8 +37465,8 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<desc>Promos</desc>
 	</programme>
 	<programme channel="5211" start="20260917200000 +0000" stop="20260917205600 +0000">
-		<title>The Yangtze River: The Civilization 4</title>
-		<desc>The Yangtze River: The Civilization 4</desc>
+		<title>Five</title>
+		<desc>Five</desc>
 	</programme>
 	<programme channel="5211" start="20260917205600 +0000" stop="20260917210000 +0000">
 		<title>Promos</title>
@@ -37549,8 +37537,8 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<desc>Promos</desc>
 	</programme>
 	<programme channel="5211" start="20260918020000 +0000" stop="20260918025600 +0000">
-		<title>The Yangtze River: The Civilization 4</title>
-		<desc>The Yangtze River: The Civilization 4</desc>
+		<title>Five</title>
+		<desc>Five</desc>
 	</programme>
 	<programme channel="5211" start="20260918025600 +0000" stop="20260918030000 +0000">
 		<title>Promos</title>
@@ -37621,8 +37609,8 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<desc>Promos</desc>
 	</programme>
 	<programme channel="5211" start="20260918080000 +0000" stop="20260918085600 +0000">
-		<title>The Yangtze River: The Civilization 4</title>
-		<desc>The Yangtze River: The Civilization 4</desc>
+		<title>Five</title>
+		<desc>Five</desc>
 	</programme>
 	<programme channel="5211" start="20260918085600 +0000" stop="20260918090000 +0000">
 		<title>Promos</title>
@@ -37693,8 +37681,8 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<desc>Promos</desc>
 	</programme>
 	<programme channel="5211" start="20260918140000 +0000" stop="20260918145600 +0000">
-		<title>The Yangtze River: The Civilization 4</title>
-		<desc>The Yangtze River: The Civilization 4</desc>
+		<title>Five</title>
+		<desc>Five</desc>
 	</programme>
 	<programme channel="5211" start="20260918145600 +0000" stop="20260918150000 +0000">
 		<title>Promos</title>
@@ -37789,8 +37777,8 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<desc>Promos</desc>
 	</programme>
 	<programme channel="5211" start="20260918220000 +0000" stop="20260918225600 +0000">
-		<title>In the Footsteps of Marco Polo 1</title>
-		<desc>In the Footsteps of Marco Polo 1</desc>
+		<title>The Ethnic Minorities Unique to Yunnan 1</title>
+		<desc>The Ethnic Minorities Unique to Yunnan 1</desc>
 	</programme>
 	<programme channel="5211" start="20260918225600 +0000" stop="20260918230000 +0000">
 		<title>Promos</title>
@@ -37861,8 +37849,8 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<desc>Promos</desc>
 	</programme>
 	<programme channel="5211" start="20260919040000 +0000" stop="20260919045600 +0000">
-		<title>In the Footsteps of Marco Polo 1</title>
-		<desc>In the Footsteps of Marco Polo 1</desc>
+		<title>The Ethnic Minorities Unique to Yunnan 1</title>
+		<desc>The Ethnic Minorities Unique to Yunnan 1</desc>
 	</programme>
 	<programme channel="5211" start="20260919045600 +0000" stop="20260919050000 +0000">
 		<title>Promos</title>
@@ -37933,8 +37921,8 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<desc>Promos</desc>
 	</programme>
 	<programme channel="5211" start="20260919100000 +0000" stop="20260919105600 +0000">
-		<title>In the Footsteps of Marco Polo 1</title>
-		<desc>In the Footsteps of Marco Polo 1</desc>
+		<title>The Ethnic Minorities Unique to Yunnan 1</title>
+		<desc>The Ethnic Minorities Unique to Yunnan 1</desc>
 	</programme>
 	<programme channel="5211" start="20260919105600 +0000" stop="20260919110000 +0000">
 		<title>Promos</title>
@@ -38005,8 +37993,8 @@ A mortal man accidentally time-travels to the past and becomes the Monkey King. 
 		<desc>Promos</desc>
 	</programme>
 	<programme channel="5211" start="20260919160000 +0000" stop="20260919165600 +0000">
-		<title>In the Footsteps of Marco Polo 1</title>
-		<desc>In the Footsteps of Marco Polo 1</desc>
+		<title>The Ethnic Minorities Unique to Yunnan 1</title>
+		<desc>The Ethnic Minorities Unique to Yunnan 1</desc>
 	</programme>
 	<programme channel="5211" start="20260919165600 +0000" stop="20260919170000 +0000">
 		<title>Promos</title>
@@ -68300,104 +68288,100 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 		<title>凡人修仙传 / The Immortal Ascension</title>
 		<desc>该剧改编自忘语的同名小说，讲述了一个普通的山村穷小子，偶然之下跨入一个江湖小门派，虽然资质平庸，但依靠自身努力和合理算计最后修炼成仙的故事。Han Li, a poor boy from an ordinary mountain village, stumbles into the pugilistic world by chance. Through his own hard work and perseverance, he overcomes strong and intense competition between immortal practitioners and finally attains immortal cultivation, becoming the proud conqueror of the three worlds!</desc>
 	</programme>
-	<programme channel="5503" start="20260917041500 +0000" stop="20260917050000 +0000">
+	<programme channel="5503" start="20260917041500 +0000" stop="20260917051500 +0000">
 		<title>凡人修仙传 / The Immortal Ascension Episode 2</title>
 		<desc>该剧改编自忘语的同名小说，讲述了一个普通的山村穷小子，偶然之下跨入一个江湖小门派，虽然资质平庸，但依靠自身努力和合理算计最后修炼成仙的故事。Han Li, a poor boy from an ordinary mountain village, stumbles into the pugilistic world by chance. Through his own hard work and perseverance, he overcomes strong and intense competition between immortal practitioners and finally attains immortal cultivation, becoming the proud conqueror of the three worlds!</desc>
 	</programme>
-	<programme channel="5503" start="20260917050000 +0000" stop="20260917054500 +0000">
+	<programme channel="5503" start="20260917051500 +0000" stop="20260917060000 +0000">
 		<title>凤凰台上 / Love and Crown Episode 5</title>
 		<desc>女侠凌苍苍凭借着侠肝义胆和出奇制胜的武功，在江湖中创立了匡扶正义的门派凤来阁。南祁王朝年轻的皇帝萧焕一心为民，然而首辅大臣联合江湖势力把持朝政，祸乱百姓。萧焕为拯救苍生于苦难，化名“白迟帆”微服私访行走江湖，并认识了行侠仗义的凤来阁阁主凌苍苍。二人一起仗剑天涯，除暴安良，惺惺相惜，却不料凌苍苍就是首辅的女儿，并即将成为他的皇后。面对江湖动乱、百姓受难，心怀大义的萧焕和凌苍苍携手平乱赈灾、惩处贪墨。他们在为百姓谋福祉的过程中，也寻获自身的价值。Ling Cang Cang, the founder of Fenglai Pavilion, fights for justice in a world troubled by corrupted officials. Xiao Huan, the young emperor of the Nanqi Dynasty, secretly adopts the name "Bai Chi Fan" to help commoners. He joins forces with Ling Cang Cang to confront the c...</desc>
 	</programme>
-	<programme channel="5503" start="20260917054500 +0000" stop="20260917063000 +0000">
+	<programme channel="5503" start="20260917060000 +0000" stop="20260917064500 +0000">
 		<title>凤凰台上 / Love and Crown Episode 6</title>
 		<desc>女侠凌苍苍凭借着侠肝义胆和出奇制胜的武功，在江湖中创立了匡扶正义的门派凤来阁。南祁王朝年轻的皇帝萧焕一心为民，然而首辅大臣联合江湖势力把持朝政，祸乱百姓。萧焕为拯救苍生于苦难，化名“白迟帆”微服私访行走江湖，并认识了行侠仗义的凤来阁阁主凌苍苍。二人一起仗剑天涯，除暴安良，惺惺相惜，却不料凌苍苍就是首辅的女儿，并即将成为他的皇后。面对江湖动乱、百姓受难，心怀大义的萧焕和凌苍苍携手平乱赈灾、惩处贪墨。他们在为百姓谋福祉的过程中，也寻获自身的价值。Ling Cang Cang, the founder of Fenglai Pavilion, fights for justice in a world troubled by corrupted officials. Xiao Huan, the young emperor of the Nanqi Dynasty, secretly adopts the name "Bai Chi Fan" to help commoners. He joins forces with Ling Cang Cang to confront the c...</desc>
 	</programme>
-	<programme channel="5503" start="20260917063000 +0000" stop="20260917071500 +0000">
+	<programme channel="5503" start="20260917064500 +0000" stop="20260917073000 +0000">
 		<title>亦舞之城 / Second Chance Romance Episode 3</title>
 		<desc>著名芭蕾舞艺术家谭思婷盛名之下退役归国，与曾经的恋人冯睿意外重逢，经历重重波折后最终破镜重圆的故事。多年前两人因误会遗憾分手，简单真挚的校园恋爱无疾而终。久别重逢后两颗平静的心再次泛起涟漪，压抑不住对彼此的思念。而冯睿被谭思婷对芭蕾梦想的执着追求与热爱，以及对自己始终如一的情感所打动，最终冯睿放下心结勇敢追爱，有情人终成眷属，谭思婷的芭蕾事业也得以薪火相传。Ballet dancer Tan Siting retired and returned to China to teach, dedicating herself to nurturing new talent. She met a young dancer, Zheng Yufan, who was struggling, and devoted all her knowledge to help her win gold at an international competition. Tan Siting’s spirit of pursuing her dreams earned widespread acclai...</desc>
 	</programme>
-	<programme channel="5503" start="20260917071500 +0000" stop="20260917080000 +0000">
+	<programme channel="5503" start="20260917073000 +0000" stop="20260917081500 +0000">
 		<title>亦舞之城 / Second Chance Romance Episode 4</title>
 		<desc>著名芭蕾舞艺术家谭思婷盛名之下退役归国，与曾经的恋人冯睿意外重逢，经历重重波折后最终破镜重圆的故事。多年前两人因误会遗憾分手，简单真挚的校园恋爱无疾而终。久别重逢后两颗平静的心再次泛起涟漪，压抑不住对彼此的思念。而冯睿被谭思婷对芭蕾梦想的执着追求与热爱，以及对自己始终如一的情感所打动，最终冯睿放下心结勇敢追爱，有情人终成眷属，谭思婷的芭蕾事业也得以薪火相传。Ballet dancer Tan Siting retired and returned to China to teach, dedicating herself to nurturing new talent. She met a young dancer, Zheng Yufan, who was struggling, and devoted all her knowledge to help her win gold at an international competition. Tan Siting’s spirit of pursuing her dreams earned widespread acclai...</desc>
 	</programme>
-	<programme channel="5503" start="20260917080000 +0000" stop="20260917084500 +0000">
+	<programme channel="5503" start="20260917081500 +0000" stop="20260917090000 +0000">
 		<title>骄阳似我 / Shine On Me Episode 15</title>
 		<desc>《骄阳似我》改编自顾漫同名小说，讲述了一个关于爱与成长的浪漫故事。外科医生林屿森因为一场意外无法继续自己曾经热爱的事业，转而从商后，在与性格开朗的聂曦光的相处过程中，解开了对彼此的误会并逐渐两情相悦，林屿森毫无保留的爱与支持让聂曦光最终释怀了对庄序那段无疾而终的校园“单恋”，最终与林屿森携手共同面对各种阻碍，收获成长。The story follows the lively and energetic university student Nie Xi Guang as she steps out of campus and navigates the challenges of the professional world. During university, she experiences a bittersweet secret crush on the aloof yet brilliant top student, Zhuang Xu. However, upon entering the workforce, she crosses paths with Lin Y...</desc>
 	</programme>
-	<programme channel="5503" start="20260917084500 +0000" stop="20260917093000 +0000">
+	<programme channel="5503" start="20260917090000 +0000" stop="20260917094000 +0000">
 		<title>骄阳似我 / Shine On Me Episode 16</title>
 		<desc>《骄阳似我》改编自顾漫同名小说，讲述了一个关于爱与成长的浪漫故事。外科医生林屿森因为一场意外无法继续自己曾经热爱的事业，转而从商后，在与性格开朗的聂曦光的相处过程中，解开了对彼此的误会并逐渐两情相悦，林屿森毫无保留的爱与支持让聂曦光最终释怀了对庄序那段无疾而终的校园“单恋”，最终与林屿森携手共同面对各种阻碍，收获成长。The story follows the lively and energetic university student Nie Xi Guang as she steps out of campus and navigates the challenges of the professional world. During university, she experiences a bittersweet secret crush on the aloof yet brilliant top student, Zhuang Xu. However, upon entering the workforce, she crosses paths with Lin Y...</desc>
 	</programme>
-	<programme channel="5503" start="20260917093000 +0000" stop="20260917101500 +0000">
+	<programme channel="5503" start="20260917094000 +0000" stop="20260917102500 +0000">
 		<title>凡人修仙传 / The Immortal Ascension</title>
 		<desc>该剧改编自忘语的同名小说，讲述了一个普通的山村穷小子，偶然之下跨入一个江湖小门派，虽然资质平庸，但依靠自身努力和合理算计最后修炼成仙的故事。Han Li, a poor boy from an ordinary mountain village, stumbles into the pugilistic world by chance. Through his own hard work and perseverance, he overcomes strong and intense competition between immortal practitioners and finally attains immortal cultivation, becoming the proud conqueror of the three worlds!</desc>
 	</programme>
-	<programme channel="5503" start="20260917101500 +0000" stop="20260917110000 +0000">
+	<programme channel="5503" start="20260917102500 +0000" stop="20260917113000 +0000">
 		<title>凡人修仙传 / The Immortal Ascension Episode 2</title>
 		<desc>该剧改编自忘语的同名小说，讲述了一个普通的山村穷小子，偶然之下跨入一个江湖小门派，虽然资质平庸，但依靠自身努力和合理算计最后修炼成仙的故事。Han Li, a poor boy from an ordinary mountain village, stumbles into the pugilistic world by chance. Through his own hard work and perseverance, he overcomes strong and intense competition between immortal practitioners and finally attains immortal cultivation, becoming the proud conqueror of the three worlds!</desc>
 	</programme>
-	<programme channel="5503" start="20260917110000 +0000" stop="20260917114500 +0000">
+	<programme channel="5503" start="20260917113000 +0000" stop="20260917121500 +0000">
 		<title>凤凰台上 / Love and Crown Episode 5</title>
 		<desc>女侠凌苍苍凭借着侠肝义胆和出奇制胜的武功，在江湖中创立了匡扶正义的门派凤来阁。南祁王朝年轻的皇帝萧焕一心为民，然而首辅大臣联合江湖势力把持朝政，祸乱百姓。萧焕为拯救苍生于苦难，化名“白迟帆”微服私访行走江湖，并认识了行侠仗义的凤来阁阁主凌苍苍。二人一起仗剑天涯，除暴安良，惺惺相惜，却不料凌苍苍就是首辅的女儿，并即将成为他的皇后。面对江湖动乱、百姓受难，心怀大义的萧焕和凌苍苍携手平乱赈灾、惩处贪墨。他们在为百姓谋福祉的过程中，也寻获自身的价值。Ling Cang Cang, the founder of Fenglai Pavilion, fights for justice in a world troubled by corrupted officials. Xiao Huan, the young emperor of the Nanqi Dynasty, secretly adopts the name "Bai Chi Fan" to help commoners. He joins forces with Ling Cang Cang to confront the c...</desc>
 	</programme>
-	<programme channel="5503" start="20260917114500 +0000" stop="20260917123000 +0000">
+	<programme channel="5503" start="20260917121500 +0000" stop="20260917130000 +0000">
 		<title>凤凰台上 / Love and Crown Episode 6</title>
 		<desc>女侠凌苍苍凭借着侠肝义胆和出奇制胜的武功，在江湖中创立了匡扶正义的门派凤来阁。南祁王朝年轻的皇帝萧焕一心为民，然而首辅大臣联合江湖势力把持朝政，祸乱百姓。萧焕为拯救苍生于苦难，化名“白迟帆”微服私访行走江湖，并认识了行侠仗义的凤来阁阁主凌苍苍。二人一起仗剑天涯，除暴安良，惺惺相惜，却不料凌苍苍就是首辅的女儿，并即将成为他的皇后。面对江湖动乱、百姓受难，心怀大义的萧焕和凌苍苍携手平乱赈灾、惩处贪墨。他们在为百姓谋福祉的过程中，也寻获自身的价值。Ling Cang Cang, the founder of Fenglai Pavilion, fights for justice in a world troubled by corrupted officials. Xiao Huan, the young emperor of the Nanqi Dynasty, secretly adopts the name "Bai Chi Fan" to help commoners. He joins forces with Ling Cang Cang to confront the c...</desc>
 	</programme>
-	<programme channel="5503" start="20260917123000 +0000" stop="20260917131500 +0000">
+	<programme channel="5503" start="20260917130000 +0000" stop="20260917134500 +0000">
 		<title>亦舞之城 / Second Chance Romance Episode 3</title>
 		<desc>著名芭蕾舞艺术家谭思婷盛名之下退役归国，与曾经的恋人冯睿意外重逢，经历重重波折后最终破镜重圆的故事。多年前两人因误会遗憾分手，简单真挚的校园恋爱无疾而终。久别重逢后两颗平静的心再次泛起涟漪，压抑不住对彼此的思念。而冯睿被谭思婷对芭蕾梦想的执着追求与热爱，以及对自己始终如一的情感所打动，最终冯睿放下心结勇敢追爱，有情人终成眷属，谭思婷的芭蕾事业也得以薪火相传。Ballet dancer Tan Siting retired and returned to China to teach, dedicating herself to nurturing new talent. She met a young dancer, Zheng Yufan, who was struggling, and devoted all her knowledge to help her win gold at an international competition. Tan Siting’s spirit of pursuing her dreams earned widespread acclai...</desc>
 	</programme>
-	<programme channel="5503" start="20260917131500 +0000" stop="20260917140000 +0000">
+	<programme channel="5503" start="20260917134500 +0000" stop="20260917143000 +0000">
 		<title>亦舞之城 / Second Chance Romance Episode 4</title>
 		<desc>著名芭蕾舞艺术家谭思婷盛名之下退役归国，与曾经的恋人冯睿意外重逢，经历重重波折后最终破镜重圆的故事。多年前两人因误会遗憾分手，简单真挚的校园恋爱无疾而终。久别重逢后两颗平静的心再次泛起涟漪，压抑不住对彼此的思念。而冯睿被谭思婷对芭蕾梦想的执着追求与热爱，以及对自己始终如一的情感所打动，最终冯睿放下心结勇敢追爱，有情人终成眷属，谭思婷的芭蕾事业也得以薪火相传。Ballet dancer Tan Siting retired and returned to China to teach, dedicating herself to nurturing new talent. She met a young dancer, Zheng Yufan, who was struggling, and devoted all her knowledge to help her win gold at an international competition. Tan Siting’s spirit of pursuing her dreams earned widespread acclai...</desc>
 	</programme>
-	<programme channel="5503" start="20260917140000 +0000" stop="20260917144500 +0000">
+	<programme channel="5503" start="20260917143000 +0000" stop="20260917151500 +0000">
 		<title>骄阳似我 / Shine On Me Episode 15</title>
 		<desc>《骄阳似我》改编自顾漫同名小说，讲述了一个关于爱与成长的浪漫故事。外科医生林屿森因为一场意外无法继续自己曾经热爱的事业，转而从商后，在与性格开朗的聂曦光的相处过程中，解开了对彼此的误会并逐渐两情相悦，林屿森毫无保留的爱与支持让聂曦光最终释怀了对庄序那段无疾而终的校园“单恋”，最终与林屿森携手共同面对各种阻碍，收获成长。The story follows the lively and energetic university student Nie Xi Guang as she steps out of campus and navigates the challenges of the professional world. During university, she experiences a bittersweet secret crush on the aloof yet brilliant top student, Zhuang Xu. However, upon entering the workforce, she crosses paths with Lin Y...</desc>
 	</programme>
-	<programme channel="5503" start="20260917144500 +0000" stop="20260917153000 +0000">
+	<programme channel="5503" start="20260917151500 +0000" stop="20260917155000 +0000">
 		<title>骄阳似我 / Shine On Me Episode 16</title>
 		<desc>《骄阳似我》改编自顾漫同名小说，讲述了一个关于爱与成长的浪漫故事。外科医生林屿森因为一场意外无法继续自己曾经热爱的事业，转而从商后，在与性格开朗的聂曦光的相处过程中，解开了对彼此的误会并逐渐两情相悦，林屿森毫无保留的爱与支持让聂曦光最终释怀了对庄序那段无疾而终的校园“单恋”，最终与林屿森携手共同面对各种阻碍，收获成长。The story follows the lively and energetic university student Nie Xi Guang as she steps out of campus and navigates the challenges of the professional world. During university, she experiences a bittersweet secret crush on the aloof yet brilliant top student, Zhuang Xu. However, upon entering the workforce, she crosses paths with Lin Y...</desc>
 	</programme>
-	<programme channel="5503" start="20260917153000 +0000" stop="20260917161500 +0000">
+	<programme channel="5503" start="20260917155000 +0000" stop="20260917164500 +0000">
 		<title>凡人修仙传 / The Immortal Ascension</title>
 		<desc>该剧改编自忘语的同名小说，讲述了一个普通的山村穷小子，偶然之下跨入一个江湖小门派，虽然资质平庸，但依靠自身努力和合理算计最后修炼成仙的故事。Han Li, a poor boy from an ordinary mountain village, stumbles into the pugilistic world by chance. Through his own hard work and perseverance, he overcomes strong and intense competition between immortal practitioners and finally attains immortal cultivation, becoming the proud conqueror of the three worlds!</desc>
 	</programme>
-	<programme channel="5503" start="20260917161500 +0000" stop="20260917170000 +0000">
+	<programme channel="5503" start="20260917164500 +0000" stop="20260917174000 +0000">
 		<title>凡人修仙传 / The Immortal Ascension Episode 2</title>
 		<desc>该剧改编自忘语的同名小说，讲述了一个普通的山村穷小子，偶然之下跨入一个江湖小门派，虽然资质平庸，但依靠自身努力和合理算计最后修炼成仙的故事。Han Li, a poor boy from an ordinary mountain village, stumbles into the pugilistic world by chance. Through his own hard work and perseverance, he overcomes strong and intense competition between immortal practitioners and finally attains immortal cultivation, becoming the proud conqueror of the three worlds!</desc>
 	</programme>
-	<programme channel="5503" start="20260917170000 +0000" stop="20260917174500 +0000">
+	<programme channel="5503" start="20260917174000 +0000" stop="20260917182500 +0000">
 		<title>凤凰台上 / Love and Crown Episode 5</title>
 		<desc>女侠凌苍苍凭借着侠肝义胆和出奇制胜的武功，在江湖中创立了匡扶正义的门派凤来阁。南祁王朝年轻的皇帝萧焕一心为民，然而首辅大臣联合江湖势力把持朝政，祸乱百姓。萧焕为拯救苍生于苦难，化名“白迟帆”微服私访行走江湖，并认识了行侠仗义的凤来阁阁主凌苍苍。二人一起仗剑天涯，除暴安良，惺惺相惜，却不料凌苍苍就是首辅的女儿，并即将成为他的皇后。面对江湖动乱、百姓受难，心怀大义的萧焕和凌苍苍携手平乱赈灾、惩处贪墨。他们在为百姓谋福祉的过程中，也寻获自身的价值。Ling Cang Cang, the founder of Fenglai Pavilion, fights for justice in a world troubled by corrupted officials. Xiao Huan, the young emperor of the Nanqi Dynasty, secretly adopts the name "Bai Chi Fan" to help commoners. He joins forces with Ling Cang Cang to confront the c...</desc>
 	</programme>
-	<programme channel="5503" start="20260917174500 +0000" stop="20260917183000 +0000">
+	<programme channel="5503" start="20260917182500 +0000" stop="20260917191000 +0000">
 		<title>凤凰台上 / Love and Crown Episode 6</title>
 		<desc>女侠凌苍苍凭借着侠肝义胆和出奇制胜的武功，在江湖中创立了匡扶正义的门派凤来阁。南祁王朝年轻的皇帝萧焕一心为民，然而首辅大臣联合江湖势力把持朝政，祸乱百姓。萧焕为拯救苍生于苦难，化名“白迟帆”微服私访行走江湖，并认识了行侠仗义的凤来阁阁主凌苍苍。二人一起仗剑天涯，除暴安良，惺惺相惜，却不料凌苍苍就是首辅的女儿，并即将成为他的皇后。面对江湖动乱、百姓受难，心怀大义的萧焕和凌苍苍携手平乱赈灾、惩处贪墨。他们在为百姓谋福祉的过程中，也寻获自身的价值。Ling Cang Cang, the founder of Fenglai Pavilion, fights for justice in a world troubled by corrupted officials. Xiao Huan, the young emperor of the Nanqi Dynasty, secretly adopts the name "Bai Chi Fan" to help commoners. He joins forces with Ling Cang Cang to confront the c...</desc>
 	</programme>
-	<programme channel="5503" start="20260917183000 +0000" stop="20260917191500 +0000">
+	<programme channel="5503" start="20260917191000 +0000" stop="20260917195500 +0000">
 		<title>亦舞之城 / Second Chance Romance Episode 3</title>
 		<desc>著名芭蕾舞艺术家谭思婷盛名之下退役归国，与曾经的恋人冯睿意外重逢，经历重重波折后最终破镜重圆的故事。多年前两人因误会遗憾分手，简单真挚的校园恋爱无疾而终。久别重逢后两颗平静的心再次泛起涟漪，压抑不住对彼此的思念。而冯睿被谭思婷对芭蕾梦想的执着追求与热爱，以及对自己始终如一的情感所打动，最终冯睿放下心结勇敢追爱，有情人终成眷属，谭思婷的芭蕾事业也得以薪火相传。Ballet dancer Tan Siting retired and returned to China to teach, dedicating herself to nurturing new talent. She met a young dancer, Zheng Yufan, who was struggling, and devoted all her knowledge to help her win gold at an international competition. Tan Siting’s spirit of pursuing her dreams earned widespread acclai...</desc>
 	</programme>
-	<programme channel="5503" start="20260917191500 +0000" stop="20260917200000 +0000">
+	<programme channel="5503" start="20260917195500 +0000" stop="20260917204000 +0000">
 		<title>亦舞之城 / Second Chance Romance Episode 4</title>
 		<desc>著名芭蕾舞艺术家谭思婷盛名之下退役归国，与曾经的恋人冯睿意外重逢，经历重重波折后最终破镜重圆的故事。多年前两人因误会遗憾分手，简单真挚的校园恋爱无疾而终。久别重逢后两颗平静的心再次泛起涟漪，压抑不住对彼此的思念。而冯睿被谭思婷对芭蕾梦想的执着追求与热爱，以及对自己始终如一的情感所打动，最终冯睿放下心结勇敢追爱，有情人终成眷属，谭思婷的芭蕾事业也得以薪火相传。Ballet dancer Tan Siting retired and returned to China to teach, dedicating herself to nurturing new talent. She met a young dancer, Zheng Yufan, who was struggling, and devoted all her knowledge to help her win gold at an international competition. Tan Siting’s spirit of pursuing her dreams earned widespread acclai...</desc>
 	</programme>
-	<programme channel="5503" start="20260917200000 +0000" stop="20260917204500 +0000">
+	<programme channel="5503" start="20260917204000 +0000" stop="20260917212500 +0000">
 		<title>骄阳似我 / Shine On Me Episode 15</title>
 		<desc>《骄阳似我》改编自顾漫同名小说，讲述了一个关于爱与成长的浪漫故事。外科医生林屿森因为一场意外无法继续自己曾经热爱的事业，转而从商后，在与性格开朗的聂曦光的相处过程中，解开了对彼此的误会并逐渐两情相悦，林屿森毫无保留的爱与支持让聂曦光最终释怀了对庄序那段无疾而终的校园“单恋”，最终与林屿森携手共同面对各种阻碍，收获成长。The story follows the lively and energetic university student Nie Xi Guang as she steps out of campus and navigates the challenges of the professional world. During university, she experiences a bittersweet secret crush on the aloof yet brilliant top student, Zhuang Xu. However, upon entering the workforce, she crosses paths with Lin Y...</desc>
 	</programme>
-	<programme channel="5503" start="20260917204500 +0000" stop="20260917213000 +0000">
+	<programme channel="5503" start="20260917212500 +0000" stop="20260917220500 +0000">
 		<title>骄阳似我 / Shine On Me Episode 16</title>
 		<desc>《骄阳似我》改编自顾漫同名小说，讲述了一个关于爱与成长的浪漫故事。外科医生林屿森因为一场意外无法继续自己曾经热爱的事业，转而从商后，在与性格开朗的聂曦光的相处过程中，解开了对彼此的误会并逐渐两情相悦，林屿森毫无保留的爱与支持让聂曦光最终释怀了对庄序那段无疾而终的校园“单恋”，最终与林屿森携手共同面对各种阻碍，收获成长。The story follows the lively and energetic university student Nie Xi Guang as she steps out of campus and navigates the challenges of the professional world. During university, she experiences a bittersweet secret crush on the aloof yet brilliant top student, Zhuang Xu. However, upon entering the workforce, she crosses paths with Lin Y...</desc>
 	</programme>
-	<programme channel="5503" start="20260917213000 +0000" stop="20260917221500 +0000">
+	<programme channel="5503" start="20260917220500 +0000" stop="20260917230000 +0000">
 		<title>凡人修仙传 / The Immortal Ascension</title>
-		<desc>该剧改编自忘语的同名小说，讲述了一个普通的山村穷小子，偶然之下跨入一个江湖小门派，虽然资质平庸，但依靠自身努力和合理算计最后修炼成仙的故事。Han Li, a poor boy from an ordinary mountain village, stumbles into the pugilistic world by chance. Through his own hard work and perseverance, he overcomes strong and intense competition between immortal practitioners and finally attains immortal cultivation, becoming the proud conqueror of the three worlds!</desc>
-	</programme>
-	<programme channel="5503" start="20260917221500 +0000" stop="20260917230000 +0000">
-		<title>凡人修仙传 / The Immortal Ascension Episode 2</title>
 		<desc>该剧改编自忘语的同名小说，讲述了一个普通的山村穷小子，偶然之下跨入一个江湖小门派，虽然资质平庸，但依靠自身努力和合理算计最后修炼成仙的故事。Han Li, a poor boy from an ordinary mountain village, stumbles into the pugilistic world by chance. Through his own hard work and perseverance, he overcomes strong and intense competition between immortal practitioners and finally attains immortal cultivation, becoming the proud conqueror of the three worlds!</desc>
 	</programme>
 	<programme channel="5503" start="20260917230000 +0000" stop="20260917234500 +0000">
@@ -95020,11 +95004,11 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 		<title>Njangal Santhushtaranu</title>
 		<desc>A brother and 2 sisters find their bond tested by the arrival of the haughty SIL. Release Year: 1999 Director: Rajasenan</desc>
 	</programme>
-	<programme channel="5639" start="20260915043000 +0000" stop="20260915073000 +0000">
+	<programme channel="5639" start="20260915043000 +0000" stop="20260915072000 +0000">
 		<title>Kanekkane</title>
 		<desc>A compilation of some of the best comedy scenes from Malayalam movies. Release Year: 2021 Director: Manu Ashokan</desc>
 	</programme>
-	<programme channel="5639" start="20260915073000 +0000" stop="20260915103000 +0000">
+	<programme channel="5639" start="20260915072000 +0000" stop="20260915103000 +0000">
 		<title>Kalippattam</title>
 		<desc>Venu agrees to marry his employer's daughter Sarojam who has a chronic illness. Later Venu begins to really love Sarojam. But she passes away. Release Year: 1993 Director: Venu Nagavalli</desc>
 	</programme>
@@ -95032,19 +95016,19 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 		<title>Nazrani</title>
 		<desc>David and Sara's marriage fails to take place due to an unexpected turn of events. Years later, they continue to love one another and also strive to prove Sara's sister's innocence in a murder case. Release Year: 2007 Director: Joshiy</desc>
 	</programme>
-	<programme channel="5639" start="20260915133000 +0000" stop="20260915163000 +0000">
+	<programme channel="5639" start="20260915133000 +0000" stop="20260915165500 +0000">
 		<title>Neymar</title>
 		<desc>Kunjava and Sinto get Neymar, a dog, to impress a girl in their class. However, trouble ensues when Neymar is kidnapped one night and the boys must risk their lives to rescue their pet. Release Year: 2023 Director: Sudhi Maddison</desc>
 	</programme>
-	<programme channel="5639" start="20260915163000 +0000" stop="20260915193000 +0000">
+	<programme channel="5639" start="20260915165500 +0000" stop="20260915202000 +0000">
 		<title>Mersal</title>
 		<desc>Maaran, a doctor, is invited to Paris for a seminar to honour him for his contribution in the field of medicine. He is arrested by the police when his lookalike murders Dr Zachariah.</desc>
 	</programme>
-	<programme channel="5639" start="20260915193000 +0000" stop="20260915223000 +0000">
+	<programme channel="5639" start="20260915202000 +0000" stop="20260915230000 +0000">
 		<title>Happy Husbands</title>
 		<desc>Mukundan, Rahul and John find their marital bliss shattered due to their lies. Release Year: 2010 Director: Saji Surendran</desc>
 	</programme>
-	<programme channel="5639" start="20260915223000 +0000" stop="20260916013000 +0000">
+	<programme channel="5639" start="20260915230000 +0000" stop="20260916013000 +0000">
 		<title>Nadiya Kollappetta Rathri</title>
 		<desc>A police officer investigates three deaths that occurred in the first class compartment of a train. Release Year: 2007 Director: K. Madhu</desc>
 	</programme>
@@ -106468,7 +106452,15 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 		<title>News</title>
 		<desc>The latest up-to-date news from Tokyo.</desc>
 	</programme>
-	<programme channel="5682" start="20260914040500 +0000" stop="20260914055000 +0000">
+	<programme channel="5682" start="20260914040500 +0000" stop="20260914050000 +0000">
+		<title>News Around Japan</title>
+		<desc>Program introduces the latest news from all over Japan.</desc>
+	</programme>
+	<programme channel="5682" start="20260914050000 +0000" stop="20260914051500 +0000">
+		<title>News &amp; Weather</title>
+		<desc>The latest up-to-date news and nationwide weather information.</desc>
+	</programme>
+	<programme channel="5682" start="20260914051500 +0000" stop="20260914055000 +0000">
 		<title>News Around Japan</title>
 		<desc>Program introduces the latest news from all over Japan.</desc>
 	</programme>
@@ -106633,8 +106625,8 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 		<desc>Every breathtaking landscape has a story beyond imagination. This program takes viewers to remote destinations around the world that are difficult to access. Exploring spectacular scenery, natural wonders, and mysterious phenomena shaped by the Earth, it unravels mysteries surrounding the planet's history, geology, human civilization, and diverse cultures.</desc>
 	</programme>
 	<programme channel="5682" start="20260914194500 +0000" stop="20260914200000 +0000">
-		<title>Fishing Crazy</title>
-		<desc>Fishing Crazy</desc>
+		<title>100 Beautiful Mountains of Japan Mini</title>
+		<desc>100 Beautiful Mountains of Japan Mini</desc>
 	</programme>
 	<programme channel="5682" start="20260914200000 +0000" stop="20260914202500 +0000">
 		<title>Grand Sumo 2026 September Tournament Highlights</title>
@@ -107597,8 +107589,8 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 		<desc>Weather information of the different areas around the world.</desc>
 	</programme>
 	<programme channel="5682" start="20260918153000 +0000" stop="20260918161300 +0000">
-		<title>Samurai Drama "Ooka Echizen 8" Ep. 7 (R)</title>
-		<desc>Samurai Drama "Ooka Echizen 8" Ep. 7 (R)</desc>
+		<title>Samurai Drama "Ooka Echizen 8" Ep. 6 (R)</title>
+		<desc>The long-awaited eighth series of the Samurai Drama "Ooka Echizen," a story about Ooka Tadasuke, a famous town magistrate in the Edo Period, otherwise known as Ooka Echizen, who supported Tokugawa Yoshimune, the 8th shogun of the Tokugawa shogunate.</desc>
 	</programme>
 	<programme channel="5682" start="20260918161300 +0000" stop="20260918161500 +0000">
 		<title>Mini Program</title>
@@ -107633,20 +107625,20 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 		<desc>This children's program includes a puppet show, cartoon, music, and gymnastics in which children can participate.</desc>
 	</programme>
 	<programme channel="5682" start="20260918182500 +0000" stop="20260918183000 +0000">
-		<title>Mini Program</title>
-		<desc>Mini Program</desc>
+		<title>ANIPARA-- Animation and Para-Sports</title>
+		<desc>ANIPARA-- Animation and Para-Sports</desc>
 	</programme>
 	<programme channel="5682" start="20260918183000 +0000" stop="20260918184500 +0000">
-		<title>Drama Serial "The Scent of the Wind" (R)</title>
-		<desc>Drama Serial "The Scent of the Wind" (R)</desc>
+		<title>Drama Serial "The Scent of the Wind" Ep. 125 (R)</title>
+		<desc>The 114th drama serial follows two women, Rin (Mikami Ai) and Naomi (Kosaka Juri), who paved the way for nursing in the Meiji era. Each carries her own struggles, yet together they support one another as they race to protect the wounded and vulnerable, often standing up against powerful forces. Through conflicts and hardships, the two gradually grow. No matter which way the wind blows, this unconventional duo continues their journey in search of happiness.</desc>
 	</programme>
 	<programme channel="5682" start="20260918184500 +0000" stop="20260918193000 +0000">
 		<title>Saturday Drama "In Lilac Bloom, The Path to a Veterinarian 2" Ep. 4 (R)</title>
-		<desc>Saturday Drama, a time slot that continues to present dramas which reflect contemporary society while offering strong entertainment value, returns as part of the new season lineup.</desc>
+		<desc>After passing the national exam, Kishimoto Satori (Yamada Anna), Kajita Ayaka (Toma Ami), and Kubo Zansetsu (Hagiwara Riku) begin careers caring for animals. When foot-and-mouth disease breaks out at a ranch, Satori works with Inukai Kentaro (Kamikawa Takaya) to contain the infection and faces the harsh realities of protecting animal lives.</desc>
 	</programme>
 	<programme channel="5682" start="20260918193000 +0000" stop="20260918193500 +0000">
-		<title>Mini Program</title>
-		<desc>Mini Program</desc>
+		<title>Giant Trees in Japan Mini</title>
+		<desc>Giant Trees in Japan Mini</desc>
 	</programme>
 	<programme channel="5682" start="20260918193500 +0000" stop="20260918195800 +0000">
 		<title>Delicious Japan! (R)</title>
@@ -107660,9 +107652,13 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 		<title>Grand Sumo 2026 September Tournament Highlights</title>
 		<desc>Grand Sumo 2026 September Tournament Highlights</desc>
 	</programme>
-	<programme channel="5682" start="20260918202500 +0000" stop="20260918205500 +0000">
-		<title>NHK Regional Showcases</title>
-		<desc>NHK Regional Showcases</desc>
+	<programme channel="5682" start="20260918202500 +0000" stop="20260918205200 +0000">
+		<title>NHK Regional Showcases: Tohoku Local Information</title>
+		<desc>NHK Regional Showcases: Tohoku Local Information</desc>
+	</programme>
+	<programme channel="5682" start="20260918205200 +0000" stop="20260918205500 +0000">
+		<title>Mini Program</title>
+		<desc>Mini Program</desc>
 	</programme>
 	<programme channel="5682" start="20260918205500 +0000" stop="20260918210000 +0000">
 		<title>World Weather</title>
@@ -107700,15 +107696,19 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 		<title>Document 72 Hours (R)</title>
 		<desc>This is an unusual program series that explores human dramas through chance encounters with ordinary people at selected locations.</desc>
 	</programme>
-	<programme channel="5682" start="20260919010000 +0000" stop="20260919013300 +0000">
+	<programme channel="5682" start="20260919010000 +0000" stop="20260919010500 +0000">
 		<title>News &amp; Weather</title>
 		<desc>The latest up-to-date news and nationwide weather information.</desc>
 	</programme>
-	<programme channel="5682" start="20260919013300 +0000" stop="20260919020600 +0000">
+	<programme channel="5682" start="20260919010500 +0000" stop="20260919013400 +0000">
+		<title>Solo Trip to Hot Springs "Kusatsu, Gunma" (R)</title>
+		<desc>Featuring distinguished programs ranging from entertainment shows to documentaries.</desc>
+	</programme>
+	<programme channel="5682" start="20260919013400 +0000" stop="20260919020700 +0000">
 		<title>The Visualization Entertainment: Go! Kaneo-kun (R)</title>
 		<desc>The show is MC-ed by comedian Ariyoshi Hiroiki, who hosts an NHK program on a regular basis for the first time. The mascot character "Kaneo-kun" (voice of Nobu, of comedy duo Chidori), who loves money, visits various places, including popular visiting locations, and looks into different phenomena to learn how money plays a role. The undertaking help unravel unexpected trends in society. The program, which can be enjoyed by every member of the family, offers much food for thought.</desc>
 	</programme>
-	<programme channel="5682" start="20260919020600 +0000" stop="20260919023000 +0000">
+	<programme channel="5682" start="20260919020700 +0000" stop="20260919023000 +0000">
 		<title>Delicious Japan!</title>
 		<desc>Japan boasts a wide variety of fresh produce and quality food. Find out how and where it's all made. Plus: master chefs reveal their special recipes!</desc>
 	</programme>
@@ -107728,13 +107728,9 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 		<title>News</title>
 		<desc>The latest up-to-date news from Tokyo.</desc>
 	</programme>
-	<programme channel="5682" start="20260919031500 +0000" stop="20260919034000 +0000">
-		<title>Exploring Factories</title>
-		<desc>An entertainment program visiting small and large factories to discover the latest science, hidden artisanship, and enthusiastic people that support traditions of Japanese manufacture.</desc>
-	</programme>
-	<programme channel="5682" start="20260919034000 +0000" stop="20260919034500 +0000">
-		<title>Mini Program</title>
-		<desc>Mini Program</desc>
+	<programme channel="5682" start="20260919031500 +0000" stop="20260919034500 +0000">
+		<title>Alps Steam Locomotive Journey "Austria" (R)</title>
+		<desc>Featuring distinguished programs ranging from entertainment shows to documentaries.</desc>
 	</programme>
 	<programme channel="5682" start="20260919034500 +0000" stop="20260919040000 +0000">
 		<title>Drama Serial "The Scent of the Wind" (R)</title>
@@ -107745,12 +107741,20 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 		<desc>The latest up-to-date news and nationwide weather information.</desc>
 	</programme>
 	<programme channel="5682" start="20260919040500 +0000" stop="20260919045000 +0000">
-		<title>Historical Drama "BROTHERS IN ARMS" (R)</title>
-		<desc>Historical Drama "BROTHERS IN ARMS" (R)</desc>
+		<title>Historical Drama "BROTHERS IN ARMS" Ep. 35 (R)</title>
+		<desc>Backed by Ieyasu, Nobukatsu raises an army against Hideyoshi. Tsuneoki (Horii Arata) proposes attacking Okazaki to lure the Tokugawa forces out of Komakiyama Castle, but the operation ends in a crushing defeat for the Hashiba army. As the conflict spreads and reaches a stalemate, Koichiro searches for a way forward. A remark by Niwa Nagahide (Ikeda Tetsuhiro) gives him a clue to breaking the deadlock.</desc>
 	</programme>
-	<programme channel="5682" start="20260919045000 +0000" stop="20260919070000 +0000">
-		<title>PREMIUM SELECTIONS</title>
-		<desc>Special programs ranging from entertainment shows to documentaries will be shown.</desc>
+	<programme channel="5682" start="20260919045000 +0000" stop="20260919062000 +0000">
+		<title>Amazing Disassembly Works "The Giant Sky-High Factory That Builds Highway Bridges"</title>
+		<desc>What is being done behind white sheets surrounding the sites of disassembly works of buildings? This show introduces the powerful and delicate techniques of disassembly works in Japan!</desc>
+	</programme>
+	<programme channel="5682" start="20260919062000 +0000" stop="20260919064500 +0000">
+		<title>Gretel's Magical Oven (R)</title>
+		<desc>Each week, a particular sweet and its recipe will be introduced along with various topics about the sweet.</desc>
+	</programme>
+	<programme channel="5682" start="20260919064500 +0000" stop="20260919070000 +0000">
+		<title>RAMEN JAPAN 15min.</title>
+		<desc>RAMEN JAPAN 15min.</desc>
 	</programme>
 	<programme channel="5682" start="20260919070000 +0000" stop="20260919090000 +0000">
 		<title>Grand Sumo 2026 September Tournament at Ryogoku (B)</title>
@@ -107772,9 +107776,17 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 		<title>World Weather</title>
 		<desc>Weather information of the different areas around the world.</desc>
 	</programme>
-	<programme channel="5682" start="20260919100000 +0000" stop="20260919115300 +0000">
+	<programme channel="5682" start="20260919100000 +0000" stop="20260919103000 +0000">
 		<title>NHK News 7 (B)</title>
 		<desc>NHK's core news program wrapping up the day's events in an easy to understand way.</desc>
+	</programme>
+	<programme channel="5682" start="20260919103000 +0000" stop="20260919114800 +0000">
+		<title>Strolling with Tamori Special Edition "Todaiji Temple"</title>
+		<desc>Comedian Tamori takes you on a tour across the country to offer a glimpse of history hidden in modern scenes.</desc>
+	</programme>
+	<programme channel="5682" start="20260919114800 +0000" stop="20260919115300 +0000">
+		<title>Mini Program</title>
+		<desc>Mini Program</desc>
 	</programme>
 	<programme channel="5682" start="20260919115300 +0000" stop="20260919115500 +0000">
 		<title>World Weather</title>
@@ -107790,23 +107802,27 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 	</programme>
 	<programme channel="5682" start="20260919130000 +0000" stop="20260919134500 +0000">
 		<title>Saturday Drama "In Lilac Bloom, The Path to a Veterinarian 2" Ep. 5（Final）</title>
-		<desc>Saturday Drama, a time slot that continues to present dramas which reflect contemporary society while offering strong entertainment value, returns as part of the new season lineup.</desc>
+		<desc>After passing the national exam, Kishimoto Satori (Yamada Anna), Kajita Ayaka (Toma Ami), and Kubo Zansetsu (Hagiwara Riku) begin careers caring for animals. When foot-and-mouth disease breaks out at a ranch, Satori works with Inukai Kentaro (Kamikawa Takaya) to contain the infection and faces the harsh realities of protecting animal lives.</desc>
 	</programme>
 	<programme channel="5682" start="20260919134500 +0000" stop="20260919134900 +0000">
 		<title>Mini Program</title>
 		<desc>Mini Program</desc>
 	</programme>
 	<programme channel="5682" start="20260919134900 +0000" stop="20260919135500 +0000">
-		<title>Mini Program</title>
-		<desc>Mini Program</desc>
+		<title>100 Beautiful Mountains of Japan Mini</title>
+		<desc>100 Beautiful Mountains of Japan Mini</desc>
 	</programme>
-	<programme channel="5682" start="20260919135500 +0000" stop="20260919143000 +0000">
+	<programme channel="5682" start="20260919135500 +0000" stop="20260919140000 +0000">
 		<title>News &amp; Weather</title>
 		<desc>The latest up-to-date news and nationwide weather information.</desc>
 	</programme>
-	<programme channel="5682" start="20260919143000 +0000" stop="20260919163000 +0000">
-		<title>PREMIUM SELECTIONS</title>
-		<desc>Special programs ranging from entertainment shows to documentaries will be shown.</desc>
+	<programme channel="5682" start="20260919140000 +0000" stop="20260919153000 +0000">
+		<title>Amazing Disassembly Works "The Giant Sky-High Factory That Builds Highway Bridges" (R)</title>
+		<desc>What is being done behind white sheets surrounding the sites of disassembly works of buildings? This show introduces the powerful and delicate techniques of disassembly works in Japan!</desc>
+	</programme>
+	<programme channel="5682" start="20260919153000 +0000" stop="20260919163000 +0000">
+		<title>Yamatabi!: 100 Beautiful Mountains of Japan "Mount Tate"</title>
+		<desc>Varied mountain trails, rich natural beauty, and breathtaking views like no other—along with outdoor lunches and time spent in mountain huts. Discover a new kind of mountain journey, featuring five must-visit spots on each mountain, selected by expert guides.</desc>
 	</programme>
 	<programme channel="5682" start="20260919163000 +0000" stop="20260919170000 +0000">
 		<title>Japanese Entertainment Encyclopedia</title>
@@ -107837,16 +107853,20 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 		<desc>Drama Serial "The Scent of the Wind" (R)</desc>
 	</programme>
 	<programme channel="5682" start="20260919184500 +0000" stop="20260919193500 +0000">
-		<title>NHK Special (R)</title>
+		<title>NHK Special "The Overlooked Threats of Torrential Rain Disasters" (R)</title>
 		<desc>A documentary based on timely subjects famous for its dignity and in-depth reporting.</desc>
 	</programme>
 	<programme channel="5682" start="20260919193500 +0000" stop="20260919200000 +0000">
 		<title>Grand Sumo 2026 September Tournament Highlights</title>
 		<desc>Grand Sumo 2026 September Tournament Highlights</desc>
 	</programme>
-	<programme channel="5682" start="20260919200000 +0000" stop="20260919205600 +0000">
+	<programme channel="5682" start="20260919200000 +0000" stop="20260919201000 +0000">
 		<title>Blue &amp; Yellow 10min (R)</title>
 		<desc>As different colors, blue and yellow can make green by getting together, similarly different lives can coexist by helping each other. This is a program to develop the mind of living together.</desc>
+	</programme>
+	<programme channel="5682" start="20260919201000 +0000" stop="20260919205600 +0000">
+		<title>Great Tracking of Global History "The Japanese Man Behind Argentina's Railways" (R)</title>
+		<desc>A comedian Ueda Shinya hosts an NHK program for the first time as MC. This show approaches historical mysteries from a global-scale aspect linking Japanese and world history.</desc>
 	</programme>
 	<programme channel="5682" start="20260919205600 +0000" stop="20260919210000 +0000">
 		<title>World Weather</title>
@@ -107857,8 +107877,8 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 		<desc>The latest up-to-date news from Tokyo.</desc>
 	</programme>
 	<programme channel="5682" start="20260919211000 +0000" stop="20260919215300 +0000">
-		<title>Samurai Drama "Ooka Echizen 8"</title>
-		<desc>Samurai Drama "Ooka Echizen 8"</desc>
+		<title>Samurai Drama "Ooka Echizen 8" Ep. 7</title>
+		<desc>Samurai Drama "Ooka Echizen 8" Ep. 7</desc>
 	</programme>
 	<programme channel="5682" start="20260919215300 +0000" stop="20260919215500 +0000">
 		<title>Weather</title>
@@ -107874,7 +107894,7 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 	</programme>
 	<programme channel="5682" start="20260919224500 +0000" stop="20260919225900 +0000">
 		<title>Natural Grandeur of the East</title>
-		<desc>Enjoy the Japanese natural beauties and the many creatures which habitat there and discover the irreplaceable importance of nature.</desc>
+		<desc>Natural Grandeur of the East</desc>
 	</programme>
 	<programme channel="5682" start="20260919225900 +0000" stop="20260919230000 +0000">
 		<title>World Weather</title>
@@ -107886,7 +107906,7 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 	</programme>
 	<programme channel="5682" start="20260919232500 +0000" stop="20260919235000 +0000">
 		<title>Dear Japan</title>
-		<desc>Amid the issues that regional communities face, local people are rethinking about traditional values and exploring new ways to live together beyond generations. This is a travel documentary visiting affectionate lives of this country.</desc>
+		<desc>Dear Japan</desc>
 	</programme>
 	<programme channel="5682" start="20260919235000 +0000" stop="20260920000000 +0000">
 		<title>Design Ah! neo</title>
@@ -107908,9 +107928,17 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 		<title>Mini Program</title>
 		<desc>Mini Program</desc>
 	</programme>
-	<programme channel="5682" start="20260920013000 +0000" stop="20260920025000 +0000">
+	<programme channel="5682" start="20260920013000 +0000" stop="20260920020000 +0000">
 		<title>SCIENCE ZERO (R)</title>
 		<desc>A scientific information program which explains the latest research, disasters and accidents from scientific aspects with a virtual set in the studio.</desc>
+	</programme>
+	<programme channel="5682" start="20260920020000 +0000" stop="20260920024500 +0000">
+		<title>Rokkaku Seiji's Nomitetsu Railroad Trip: Dosan Line Encore (R)</title>
+		<desc>Actor Rokkaku Seiji, a lover of both trains and good drinks, sets out on a rail journey around the world. At each stop, he wanders through the towns and explores whatever catches his eye. Sit back and enjoy this fun-filled railroad trip, accompanied by the music he personally selects!</desc>
+	</programme>
+	<programme channel="5682" start="20260920024500 +0000" stop="20260920025000 +0000">
+		<title>Mini Program</title>
+		<desc>Mini Program</desc>
 	</programme>
 	<programme channel="5682" start="20260920025000 +0000" stop="20260920025600 +0000">
 		<title>Ukiyoe EDO-LIFE</title>
@@ -107926,19 +107954,15 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 	</programme>
 	<programme channel="5682" start="20260920031500 +0000" stop="20260920040000 +0000">
 		<title>NHK Amateur Singing Contest</title>
-		<desc>A very popular live program on a Sunday afternoon held at different towns and cities around Japan. Guest singers will also join in for support.</desc>
+		<desc>NHK Amateur Singing Contest</desc>
 	</programme>
-	<programme channel="5682" start="20260920040000 +0000" stop="20260920053500 +0000">
+	<programme channel="5682" start="20260920040000 +0000" stop="20260920040500 +0000">
 		<title>News &amp; Weather</title>
 		<desc>The latest up-to-date news and nationwide weather information.</desc>
 	</programme>
-	<programme channel="5682" start="20260920053500 +0000" stop="20260920060000 +0000">
-		<title>Gretel's Magical Oven (R)</title>
-		<desc>Each week, a particular sweet and its recipe will be introduced along with various topics about the sweet.</desc>
-	</programme>
-	<programme channel="5682" start="20260920060000 +0000" stop="20260920070000 +0000">
-		<title>PREMIUM SELECTIONS</title>
-		<desc>Special programs ranging from entertainment shows to documentaries will be shown.</desc>
+	<programme channel="5682" start="20260920040500 +0000" stop="20260920070000 +0000">
+		<title>Japan Senior Open Golf Championship 2026: Final Day</title>
+		<desc>Live from GENKAI Golf Club.</desc>
 	</programme>
 	<programme channel="5682" start="20260920070000 +0000" stop="20260920090000 +0000">
 		<title>Grand Sumo 2026 September Tournament at Ryogoku (B)</title>
@@ -107965,7 +107989,7 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 		<desc>NHK's core news program wrapping up the day's events in an easy to understand way.</desc>
 	</programme>
 	<programme channel="5682" start="20260920103000 +0000" stop="20260920105800 +0000">
-		<title>Darwin's Amazing Animals</title>
+		<title>Darwin's Amazing Animals "Biwa Trout"</title>
 		<desc>Rarely seen. Up-close with some of the planet's most amazing animals. Enter a world of unique creatures from Asia, Africa and the Americas.</desc>
 	</programme>
 	<programme channel="5682" start="20260920105800 +0000" stop="20260920110000 +0000">
@@ -107973,8 +107997,8 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 		<desc>Mini Program</desc>
 	</programme>
 	<programme channel="5682" start="20260920110000 +0000" stop="20260920114500 +0000">
-		<title>Historical Drama "BROTHERS IN ARMS"</title>
-		<desc>Historical Drama "BROTHERS IN ARMS"</desc>
+		<title>Historical Drama "BROTHERS IN ARMS" Ep. 36</title>
+		<desc>The 65th historical drama unfolds in the heart of the Sengoku era, portraying the miraculous story of the Toyotomi brothers, whose unbreakable bond lifted them from obscurity to achieve the extraordinary feat of unifying a nation. Toyotomi Hidenaga (Nakano Taiga), the younger brother of Japan's great unifier Hideyoshi (Ikematsu Sosuke), was regarded as the greatest aide of the Sengoku era—many believed that the Toyotomi reign might have endured had he lived longer. Through his eyes, this dyna...</desc>
 	</programme>
 	<programme channel="5682" start="20260920114500 +0000" stop="20260920120000 +0000">
 		<title>News &amp; Weather</title>
@@ -107982,15 +108006,31 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 	</programme>
 	<programme channel="5682" start="20260920120000 +0000" stop="20260920124900 +0000">
 		<title>NHK Special</title>
-		<desc>A documentary based on timely subjects famous for its dignity and in-depth reporting.</desc>
+		<desc>NHK Special</desc>
 	</programme>
-	<programme channel="5682" start="20260920124900 +0000" stop="20260920134000 +0000">
+	<programme channel="5682" start="20260920124900 +0000" stop="20260920125000 +0000">
 		<title>World Weather</title>
 		<desc>Weather information of the different areas around the world.</desc>
 	</programme>
-	<programme channel="5682" start="20260920134000 +0000" stop="20260920144300 +0000">
+	<programme channel="5682" start="20260920125000 +0000" stop="20260920132000 +0000">
+		<title>Solo Trip to Hot Springs "Kusatsu, Gunma" (R)</title>
+		<desc>Featuring distinguished programs ranging from entertainment shows to documentaries.</desc>
+	</programme>
+	<programme channel="5682" start="20260920132000 +0000" stop="20260920134000 +0000">
+		<title>TBA</title>
+		<desc>TBA</desc>
+	</programme>
+	<programme channel="5682" start="20260920134000 +0000" stop="20260920134500 +0000">
 		<title>News &amp; Weather</title>
 		<desc>The latest up-to-date news and nationwide weather information.</desc>
+	</programme>
+	<programme channel="5682" start="20260920134500 +0000" stop="20260920143500 +0000">
+		<title>The Last Lecture "Amano Atsushi"</title>
+		<desc>Notable people give a special lecture on the assumption if it was their last day.</desc>
+	</programme>
+	<programme channel="5682" start="20260920143500 +0000" stop="20260920144300 +0000">
+		<title>Mini Program</title>
+		<desc>Mini Program</desc>
 	</programme>
 	<programme channel="5682" start="20260920144300 +0000" stop="20260920144500 +0000">
 		<title>World Weather</title>
@@ -111692,9 +111732,13 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 		<title>Mommy Dearest</title>
 		<desc>Two mothers, Emma and Olive, share love for sickly child Mookie. Birth mother Olive cares for her health, while maid Emma becomes her close friend - until Olive intervenes in their growing bond.</desc>
 	</programme>
-	<programme channel="5689" start="20260914104500 +0000" stop="20260914121500 +0000">
-		<title>Chika Cart</title>
-		<desc>Three vibrant personalities collaborate in one-stop tambayan for your daily celebrity chika, energetic banter, and checkout-worthy finds.</desc>
+	<programme channel="5689" start="20260914104500 +0000" stop="20260914113000 +0000">
+		<title>Lutong Bahay</title>
+		<desc>A magazine show that features a delightful mix of heartfelt stories and mouthwatering dishes, where every recipe has a tale to tell -- heartwarming tales of triumph, challenges, and cherished memories.</desc>
+	</programme>
+	<programme channel="5689" start="20260914113000 +0000" stop="20260914121500 +0000">
+		<title>Day Off</title>
+		<desc>A program that gives recognition to the most deserving and most hardworking Filipinos who toil through each day in order to earn a decent living for their families. The hosts take turns substituting for the Day Off winner at work, while he or she enjoys a luxurious day of fun and relaxation with his or her family.</desc>
 	</programme>
 	<programme channel="5689" start="20260914121500 +0000" stop="20260914131500 +0000">
 		<title>Bubble Gang Fun Size</title>
@@ -111712,17 +111756,21 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 		<title>Born To Be Wild</title>
 		<desc>A travel and wildlife documentary series that brings viewers up close with nature, wildlife, and environmental conservation issues across the Philippines and beyond.</desc>
 	</programme>
-	<programme channel="5689" start="20260914153000 +0000" stop="20260914170000 +0000">
-		<title>Chika Cart</title>
-		<desc>Three vibrant personalities collaborate in one-stop tambayan for your daily celebrity chika, energetic banter, and checkout-worthy finds.</desc>
+	<programme channel="5689" start="20260914153000 +0000" stop="20260914163000 +0000">
+		<title>Lutong Bahay</title>
+		<desc>A magazine show that features a delightful mix of heartfelt stories and mouthwatering dishes, where every recipe has a tale to tell -- heartwarming tales of triumph, challenges, and cherished memories.</desc>
 	</programme>
-	<programme channel="5689" start="20260914170000 +0000" stop="20260914180000 +0000">
+	<programme channel="5689" start="20260914163000 +0000" stop="20260914173000 +0000">
 		<title>Bubble Gang Fun Size</title>
 		<desc>Features a collection of classic comedy sketches, parodies, and unforgettable moments from the iconic Filipino gag show.</desc>
 	</programme>
-	<programme channel="5689" start="20260914180000 +0000" stop="20260914184500 +0000">
+	<programme channel="5689" start="20260914173000 +0000" stop="20260914180000 +0000">
 		<title>Idol sa Kusina</title>
 		<desc>An entertaining and informative cooking program that showcases scrumptious cuisines. Together with the celebrities, the show unfolds topnotch kitchen skills and culinary secrets that will make cooking dishes effortless.</desc>
+	</programme>
+	<programme channel="5689" start="20260914180000 +0000" stop="20260914184500 +0000">
+		<title>Day Off</title>
+		<desc>A program that gives recognition to the most deserving and most hardworking Filipinos who toil through each day in order to earn a decent living for their families. The hosts take turns substituting for the Day Off winner at work, while he or she enjoys a luxurious day of fun and relaxation with his or her family.</desc>
 	</programme>
 	<programme channel="5689" start="20260914184500 +0000" stop="20260914204500 +0000">
 		<title>REEL LIFE</title>
@@ -111736,17 +111784,21 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 		<title>Balitanghali</title>
 		<desc>The noontime daily newscast that delivers the hottest news and happenings in the country.</desc>
 	</programme>
-	<programme channel="5689" start="20260914223000 +0000" stop="20260915000000 +0000">
-		<title>Chika Cart</title>
-		<desc>Three vibrant personalities collaborate in one-stop tambayan for your daily celebrity chika, energetic banter, and checkout-worthy finds.</desc>
+	<programme channel="5689" start="20260914223000 +0000" stop="20260914231500 +0000">
+		<title>Lutong Bahay</title>
+		<desc>A magazine show that features a delightful mix of heartfelt stories and mouthwatering dishes, where every recipe has a tale to tell -- heartwarming tales of triumph, challenges, and cherished memories.</desc>
 	</programme>
-	<programme channel="5689" start="20260915000000 +0000" stop="20260915010000 +0000">
+	<programme channel="5689" start="20260914231500 +0000" stop="20260915001500 +0000">
 		<title>Bubble Gang Fun Size</title>
 		<desc>Features a collection of classic comedy sketches, parodies, and unforgettable moments from the iconic Filipino gag show.</desc>
 	</programme>
-	<programme channel="5689" start="20260915010000 +0000" stop="20260915013000 +0000">
+	<programme channel="5689" start="20260915001500 +0000" stop="20260915004500 +0000">
 		<title>Idol sa Kusina</title>
 		<desc>An entertaining and informative cooking program that showcases scrumptious cuisines. Together with the celebrities, the show unfolds topnotch kitchen skills and culinary secrets that will make cooking dishes effortless.</desc>
+	</programme>
+	<programme channel="5689" start="20260915004500 +0000" stop="20260915013000 +0000">
+		<title>Day Off</title>
+		<desc>A program that gives recognition to the most deserving and most hardworking Filipinos who toil through each day in order to earn a decent living for their families. The hosts take turns substituting for the Day Off winner at work, while he or she enjoys a luxurious day of fun and relaxation with his or her family.</desc>
 	</programme>
 	<programme channel="5689" start="20260915013000 +0000" stop="20260915021500 +0000">
 		<title>I Juander</title>
@@ -111765,12 +111817,12 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 		<desc>Features a collection of classic comedy sketches, parodies, and unforgettable moments from the iconic Filipino gag show.</desc>
 	</programme>
 	<programme channel="5689" start="20260915044500 +0000" stop="20260915053000 +0000">
-		<title>Mommy Dearest</title>
-		<desc>Two mothers, Emma and Olive, share love for sickly child Mookie. Birth mother Olive cares for her health, while maid Emma becomes her close friend - until Olive intervenes in their growing bond.</desc>
+		<title>Day Off</title>
+		<desc>A program that gives recognition to the most deserving and most hardworking Filipinos who toil through each day in order to earn a decent living for their families. The hosts take turns substituting for the Day Off winner at work, while he or she enjoys a luxurious day of fun and relaxation with his or her family.</desc>
 	</programme>
 	<programme channel="5689" start="20260915053000 +0000" stop="20260915061500 +0000">
-		<title>Pop Talk</title>
-		<desc>Delivers unbiased, honest reviews on everything from movies to gadgets; food to events; and destinations to happening places.</desc>
+		<title>Mommy Dearest</title>
+		<desc>Two mothers, Emma and Olive, share love for sickly child Mookie. Birth mother Olive cares for her health, while maid Emma becomes her close friend - until Olive intervenes in their growing bond.</desc>
 	</programme>
 	<programme channel="5689" start="20260915061500 +0000" stop="20260915071500 +0000">
 		<title>Balitanghali</title>
@@ -111788,9 +111840,13 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 		<title>Mommy Dearest</title>
 		<desc>Two mothers, Emma and Olive, share love for sickly child Mookie. Birth mother Olive cares for her health, while maid Emma becomes her close friend - until Olive intervenes in their growing bond.</desc>
 	</programme>
-	<programme channel="5689" start="20260915104500 +0000" stop="20260915121500 +0000">
-		<title>Chika Cart</title>
-		<desc>Three vibrant personalities collaborate in one-stop tambayan for your daily celebrity chika, energetic banter, and checkout-worthy finds.</desc>
+	<programme channel="5689" start="20260915104500 +0000" stop="20260915113000 +0000">
+		<title>Lutong Bahay</title>
+		<desc>A magazine show that features a delightful mix of heartfelt stories and mouthwatering dishes, where every recipe has a tale to tell -- heartwarming tales of triumph, challenges, and cherished memories.</desc>
+	</programme>
+	<programme channel="5689" start="20260915113000 +0000" stop="20260915121500 +0000">
+		<title>Day Off</title>
+		<desc>A program that gives recognition to the most deserving and most hardworking Filipinos who toil through each day in order to earn a decent living for their families. The hosts take turns substituting for the Day Off winner at work, while he or she enjoys a luxurious day of fun and relaxation with his or her family.</desc>
 	</programme>
 	<programme channel="5689" start="20260915121500 +0000" stop="20260915131500 +0000">
 		<title>Bubble Gang Fun Size</title>
@@ -111808,17 +111864,21 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 		<title>The Final Pitch Dubai</title>
 		<desc>Sixteen ambitious startup founders compete head-to-head in Dubai to secure multi-million dollar investments, mentorship, and strategic partnerships from the Middle East's top venture capitalists and business tycoons.</desc>
 	</programme>
-	<programme channel="5689" start="20260915153000 +0000" stop="20260915170000 +0000">
-		<title>Chika Cart</title>
-		<desc>Three vibrant personalities collaborate in one-stop tambayan for your daily celebrity chika, energetic banter, and checkout-worthy finds.</desc>
+	<programme channel="5689" start="20260915153000 +0000" stop="20260915163000 +0000">
+		<title>Lutong Bahay</title>
+		<desc>A magazine show that features a delightful mix of heartfelt stories and mouthwatering dishes, where every recipe has a tale to tell -- heartwarming tales of triumph, challenges, and cherished memories.</desc>
 	</programme>
-	<programme channel="5689" start="20260915170000 +0000" stop="20260915180000 +0000">
+	<programme channel="5689" start="20260915163000 +0000" stop="20260915173000 +0000">
 		<title>Bubble Gang Fun Size</title>
 		<desc>Features a collection of classic comedy sketches, parodies, and unforgettable moments from the iconic Filipino gag show.</desc>
 	</programme>
-	<programme channel="5689" start="20260915180000 +0000" stop="20260915184500 +0000">
+	<programme channel="5689" start="20260915173000 +0000" stop="20260915180000 +0000">
 		<title>Idol sa Kusina</title>
 		<desc>An entertaining and informative cooking program that showcases scrumptious cuisines. Together with the celebrities, the show unfolds topnotch kitchen skills and culinary secrets that will make cooking dishes effortless.</desc>
+	</programme>
+	<programme channel="5689" start="20260915180000 +0000" stop="20260915184500 +0000">
+		<title>Day Off</title>
+		<desc>A program that gives recognition to the most deserving and most hardworking Filipinos who toil through each day in order to earn a decent living for their families. The hosts take turns substituting for the Day Off winner at work, while he or she enjoys a luxurious day of fun and relaxation with his or her family.</desc>
 	</programme>
 	<programme channel="5689" start="20260915184500 +0000" stop="20260915204500 +0000">
 		<title>REEL LIFE</title>
@@ -111832,17 +111892,21 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 		<title>Balitanghali</title>
 		<desc>The noontime daily newscast that delivers the hottest news and happenings in the country.</desc>
 	</programme>
-	<programme channel="5689" start="20260915223000 +0000" stop="20260916000000 +0000">
-		<title>Chika Cart</title>
-		<desc>Three vibrant personalities collaborate in one-stop tambayan for your daily celebrity chika, energetic banter, and checkout-worthy finds.</desc>
+	<programme channel="5689" start="20260915223000 +0000" stop="20260915231500 +0000">
+		<title>Lutong Bahay</title>
+		<desc>A magazine show that features a delightful mix of heartfelt stories and mouthwatering dishes, where every recipe has a tale to tell -- heartwarming tales of triumph, challenges, and cherished memories.</desc>
 	</programme>
-	<programme channel="5689" start="20260916000000 +0000" stop="20260916010000 +0000">
+	<programme channel="5689" start="20260915231500 +0000" stop="20260916001500 +0000">
 		<title>Bubble Gang Fun Size</title>
 		<desc>Features a collection of classic comedy sketches, parodies, and unforgettable moments from the iconic Filipino gag show.</desc>
 	</programme>
-	<programme channel="5689" start="20260916010000 +0000" stop="20260916013000 +0000">
+	<programme channel="5689" start="20260916001500 +0000" stop="20260916004500 +0000">
 		<title>Idol sa Kusina</title>
 		<desc>An entertaining and informative cooking program that showcases scrumptious cuisines. Together with the celebrities, the show unfolds topnotch kitchen skills and culinary secrets that will make cooking dishes effortless.</desc>
+	</programme>
+	<programme channel="5689" start="20260916004500 +0000" stop="20260916013000 +0000">
+		<title>Day Off</title>
+		<desc>A program that gives recognition to the most deserving and most hardworking Filipinos who toil through each day in order to earn a decent living for their families. The hosts take turns substituting for the Day Off winner at work, while he or she enjoys a luxurious day of fun and relaxation with his or her family.</desc>
 	</programme>
 	<programme channel="5689" start="20260916013000 +0000" stop="20260916021500 +0000">
 		<title>Pinas Sarap</title>
@@ -111861,12 +111925,12 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 		<desc>Features a collection of classic comedy sketches, parodies, and unforgettable moments from the iconic Filipino gag show.</desc>
 	</programme>
 	<programme channel="5689" start="20260916044500 +0000" stop="20260916053000 +0000">
-		<title>Mommy Dearest</title>
-		<desc>Two mothers, Emma and Olive, share love for sickly child Mookie. Birth mother Olive cares for her health, while maid Emma becomes her close friend - until Olive intervenes in their growing bond.</desc>
+		<title>Day Off</title>
+		<desc>A program that gives recognition to the most deserving and most hardworking Filipinos who toil through each day in order to earn a decent living for their families. The hosts take turns substituting for the Day Off winner at work, while he or she enjoys a luxurious day of fun and relaxation with his or her family.</desc>
 	</programme>
 	<programme channel="5689" start="20260916053000 +0000" stop="20260916061500 +0000">
-		<title>Pinoy M.D.</title>
-		<desc>A health and beauty show that aims to help viewers understand various factors concerning  overall wellness.</desc>
+		<title>Mommy Dearest</title>
+		<desc>Two mothers, Emma and Olive, share love for sickly child Mookie. Birth mother Olive cares for her health, while maid Emma becomes her close friend - until Olive intervenes in their growing bond.</desc>
 	</programme>
 	<programme channel="5689" start="20260916061500 +0000" stop="20260916071500 +0000">
 		<title>Balitanghali</title>
@@ -111884,9 +111948,13 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 		<title>Mommy Dearest</title>
 		<desc>Two mothers, Emma and Olive, share love for sickly child Mookie. Birth mother Olive cares for her health, while maid Emma becomes her close friend - until Olive intervenes in their growing bond.</desc>
 	</programme>
-	<programme channel="5689" start="20260916104500 +0000" stop="20260916121500 +0000">
-		<title>Chika Cart</title>
-		<desc>Three vibrant personalities collaborate in one-stop tambayan for your daily celebrity chika, energetic banter, and checkout-worthy finds.</desc>
+	<programme channel="5689" start="20260916104500 +0000" stop="20260916113000 +0000">
+		<title>Lutong Bahay</title>
+		<desc>A magazine show that features a delightful mix of heartfelt stories and mouthwatering dishes, where every recipe has a tale to tell -- heartwarming tales of triumph, challenges, and cherished memories.</desc>
+	</programme>
+	<programme channel="5689" start="20260916113000 +0000" stop="20260916121500 +0000">
+		<title>Day Off</title>
+		<desc>A program that gives recognition to the most deserving and most hardworking Filipinos who toil through each day in order to earn a decent living for their families. The hosts take turns substituting for the Day Off winner at work, while he or she enjoys a luxurious day of fun and relaxation with his or her family.</desc>
 	</programme>
 	<programme channel="5689" start="20260916121500 +0000" stop="20260916131500 +0000">
 		<title>Bubble Gang Fun Size</title>
@@ -111904,17 +111972,21 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 		<title>Dami Mong Alam, Kuya Kim!</title>
 		<desc>A family-friendly magazine show that showcases viral videos from social media, offering deeper insights and added value by exploring the stories behind the videos and providing a fresh perspective on the lessons viewers can learn from them.</desc>
 	</programme>
-	<programme channel="5689" start="20260916153000 +0000" stop="20260916170000 +0000">
-		<title>Chika Cart</title>
-		<desc>Three vibrant personalities collaborate in one-stop tambayan for your daily celebrity chika, energetic banter, and checkout-worthy finds.</desc>
+	<programme channel="5689" start="20260916153000 +0000" stop="20260916163000 +0000">
+		<title>Lutong Bahay</title>
+		<desc>A magazine show that features a delightful mix of heartfelt stories and mouthwatering dishes, where every recipe has a tale to tell -- heartwarming tales of triumph, challenges, and cherished memories.</desc>
 	</programme>
-	<programme channel="5689" start="20260916170000 +0000" stop="20260916180000 +0000">
+	<programme channel="5689" start="20260916163000 +0000" stop="20260916173000 +0000">
 		<title>Bubble Gang Fun Size</title>
 		<desc>Features a collection of classic comedy sketches, parodies, and unforgettable moments from the iconic Filipino gag show.</desc>
 	</programme>
-	<programme channel="5689" start="20260916180000 +0000" stop="20260916184500 +0000">
+	<programme channel="5689" start="20260916173000 +0000" stop="20260916180000 +0000">
 		<title>Idol sa Kusina</title>
 		<desc>An entertaining and informative cooking program that showcases scrumptious cuisines. Together with the celebrities, the show unfolds topnotch kitchen skills and culinary secrets that will make cooking dishes effortless.</desc>
+	</programme>
+	<programme channel="5689" start="20260916180000 +0000" stop="20260916184500 +0000">
+		<title>Day Off</title>
+		<desc>A program that gives recognition to the most deserving and most hardworking Filipinos who toil through each day in order to earn a decent living for their families. The hosts take turns substituting for the Day Off winner at work, while he or she enjoys a luxurious day of fun and relaxation with his or her family.</desc>
 	</programme>
 	<programme channel="5689" start="20260916184500 +0000" stop="20260916204500 +0000">
 		<title>REEL LIFE</title>
@@ -111928,17 +112000,21 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 		<title>Balitanghali</title>
 		<desc>The noontime daily newscast that delivers the hottest news and happenings in the country.</desc>
 	</programme>
-	<programme channel="5689" start="20260916223000 +0000" stop="20260917000000 +0000">
-		<title>Chika Cart</title>
-		<desc>Three vibrant personalities collaborate in one-stop tambayan for your daily celebrity chika, energetic banter, and checkout-worthy finds.</desc>
+	<programme channel="5689" start="20260916223000 +0000" stop="20260916231500 +0000">
+		<title>Lutong Bahay</title>
+		<desc>A magazine show that features a delightful mix of heartfelt stories and mouthwatering dishes, where every recipe has a tale to tell -- heartwarming tales of triumph, challenges, and cherished memories.</desc>
 	</programme>
-	<programme channel="5689" start="20260917000000 +0000" stop="20260917010000 +0000">
+	<programme channel="5689" start="20260916231500 +0000" stop="20260917001500 +0000">
 		<title>Bubble Gang Fun Size</title>
 		<desc>Features a collection of classic comedy sketches, parodies, and unforgettable moments from the iconic Filipino gag show.</desc>
 	</programme>
-	<programme channel="5689" start="20260917010000 +0000" stop="20260917013000 +0000">
+	<programme channel="5689" start="20260917001500 +0000" stop="20260917004500 +0000">
 		<title>Idol sa Kusina</title>
 		<desc>An entertaining and informative cooking program that showcases scrumptious cuisines. Together with the celebrities, the show unfolds topnotch kitchen skills and culinary secrets that will make cooking dishes effortless.</desc>
+	</programme>
+	<programme channel="5689" start="20260917004500 +0000" stop="20260917013000 +0000">
+		<title>Day Off</title>
+		<desc>A program that gives recognition to the most deserving and most hardworking Filipinos who toil through each day in order to earn a decent living for their families. The hosts take turns substituting for the Day Off winner at work, while he or she enjoys a luxurious day of fun and relaxation with his or her family.</desc>
 	</programme>
 	<programme channel="5689" start="20260917013000 +0000" stop="20260917021500 +0000">
 		<title>Turbo Zone</title>
@@ -111957,12 +112033,12 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 		<desc>Features a collection of classic comedy sketches, parodies, and unforgettable moments from the iconic Filipino gag show.</desc>
 	</programme>
 	<programme channel="5689" start="20260917044500 +0000" stop="20260917053000 +0000">
-		<title>Mommy Dearest</title>
-		<desc>Two mothers, Emma and Olive, share love for sickly child Mookie. Birth mother Olive cares for her health, while maid Emma becomes her close friend - until Olive intervenes in their growing bond.</desc>
+		<title>Day Off</title>
+		<desc>A program that gives recognition to the most deserving and most hardworking Filipinos who toil through each day in order to earn a decent living for their families. The hosts take turns substituting for the Day Off winner at work, while he or she enjoys a luxurious day of fun and relaxation with his or her family.</desc>
 	</programme>
 	<programme channel="5689" start="20260917053000 +0000" stop="20260917061500 +0000">
-		<title>Taste Buddies</title>
-		<desc>Solenn and Gil serve up new experiences through mouth-watering food features, trips to the most happening places and explorations on the different facets of Filipino modern living.</desc>
+		<title>Mommy Dearest</title>
+		<desc>Two mothers, Emma and Olive, share love for sickly child Mookie. Birth mother Olive cares for her health, while maid Emma becomes her close friend - until Olive intervenes in their growing bond.</desc>
 	</programme>
 	<programme channel="5689" start="20260917061500 +0000" stop="20260917071500 +0000">
 		<title>Balitanghali</title>
@@ -111980,9 +112056,13 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 		<title>Mommy Dearest</title>
 		<desc>Two mothers, Emma and Olive, share love for sickly child Mookie. Birth mother Olive cares for her health, while maid Emma becomes her close friend - until Olive intervenes in their growing bond.</desc>
 	</programme>
-	<programme channel="5689" start="20260917104500 +0000" stop="20260917121500 +0000">
-		<title>Chika Cart</title>
-		<desc>Three vibrant personalities collaborate in one-stop tambayan for your daily celebrity chika, energetic banter, and checkout-worthy finds.</desc>
+	<programme channel="5689" start="20260917104500 +0000" stop="20260917113000 +0000">
+		<title>Lutong Bahay</title>
+		<desc>A magazine show that features a delightful mix of heartfelt stories and mouthwatering dishes, where every recipe has a tale to tell -- heartwarming tales of triumph, challenges, and cherished memories.</desc>
+	</programme>
+	<programme channel="5689" start="20260917113000 +0000" stop="20260917121500 +0000">
+		<title>Day Off</title>
+		<desc>A program that gives recognition to the most deserving and most hardworking Filipinos who toil through each day in order to earn a decent living for their families. The hosts take turns substituting for the Day Off winner at work, while he or she enjoys a luxurious day of fun and relaxation with his or her family.</desc>
 	</programme>
 	<programme channel="5689" start="20260917121500 +0000" stop="20260917131500 +0000">
 		<title>Bubble Gang Fun Size</title>
@@ -112000,17 +112080,21 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 		<title>Tunay na Buhay</title>
 		<desc>Pia Arcanghel takes you on a journey of hope, courage, and determination; real people, real stories providing you with real inspiration.</desc>
 	</programme>
-	<programme channel="5689" start="20260917153000 +0000" stop="20260917170000 +0000">
-		<title>Chika Cart</title>
-		<desc>Three vibrant personalities collaborate in one-stop tambayan for your daily celebrity chika, energetic banter, and checkout-worthy finds.</desc>
+	<programme channel="5689" start="20260917153000 +0000" stop="20260917163000 +0000">
+		<title>Lutong Bahay</title>
+		<desc>A magazine show that features a delightful mix of heartfelt stories and mouthwatering dishes, where every recipe has a tale to tell -- heartwarming tales of triumph, challenges, and cherished memories.</desc>
 	</programme>
-	<programme channel="5689" start="20260917170000 +0000" stop="20260917180000 +0000">
+	<programme channel="5689" start="20260917163000 +0000" stop="20260917173000 +0000">
 		<title>Bubble Gang Fun Size</title>
 		<desc>Features a collection of classic comedy sketches, parodies, and unforgettable moments from the iconic Filipino gag show.</desc>
 	</programme>
-	<programme channel="5689" start="20260917180000 +0000" stop="20260917184500 +0000">
+	<programme channel="5689" start="20260917173000 +0000" stop="20260917180000 +0000">
 		<title>Idol sa Kusina</title>
 		<desc>An entertaining and informative cooking program that showcases scrumptious cuisines. Together with the celebrities, the show unfolds topnotch kitchen skills and culinary secrets that will make cooking dishes effortless.</desc>
+	</programme>
+	<programme channel="5689" start="20260917180000 +0000" stop="20260917184500 +0000">
+		<title>Day Off</title>
+		<desc>A program that gives recognition to the most deserving and most hardworking Filipinos who toil through each day in order to earn a decent living for their families. The hosts take turns substituting for the Day Off winner at work, while he or she enjoys a luxurious day of fun and relaxation with his or her family.</desc>
 	</programme>
 	<programme channel="5689" start="20260917184500 +0000" stop="20260917204500 +0000">
 		<title>REEL LIFE</title>
@@ -112024,17 +112108,21 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 		<title>Balitanghali</title>
 		<desc>The noontime daily newscast that delivers the hottest news and happenings in the country.</desc>
 	</programme>
-	<programme channel="5689" start="20260917223000 +0000" stop="20260918000000 +0000">
-		<title>Chika Cart</title>
-		<desc>Three vibrant personalities collaborate in one-stop tambayan for your daily celebrity chika, energetic banter, and checkout-worthy finds.</desc>
+	<programme channel="5689" start="20260917223000 +0000" stop="20260917231500 +0000">
+		<title>Lutong Bahay</title>
+		<desc>A magazine show that features a delightful mix of heartfelt stories and mouthwatering dishes, where every recipe has a tale to tell -- heartwarming tales of triumph, challenges, and cherished memories.</desc>
 	</programme>
-	<programme channel="5689" start="20260918000000 +0000" stop="20260918010000 +0000">
+	<programme channel="5689" start="20260917231500 +0000" stop="20260918001500 +0000">
 		<title>Bubble Gang Fun Size</title>
 		<desc>Features a collection of classic comedy sketches, parodies, and unforgettable moments from the iconic Filipino gag show.</desc>
 	</programme>
-	<programme channel="5689" start="20260918010000 +0000" stop="20260918013000 +0000">
+	<programme channel="5689" start="20260918001500 +0000" stop="20260918004500 +0000">
 		<title>Idol sa Kusina</title>
 		<desc>An entertaining and informative cooking program that showcases scrumptious cuisines. Together with the celebrities, the show unfolds topnotch kitchen skills and culinary secrets that will make cooking dishes effortless.</desc>
+	</programme>
+	<programme channel="5689" start="20260918004500 +0000" stop="20260918013000 +0000">
+		<title>Day Off</title>
+		<desc>A program that gives recognition to the most deserving and most hardworking Filipinos who toil through each day in order to earn a decent living for their families. The hosts take turns substituting for the Day Off winner at work, while he or she enjoys a luxurious day of fun and relaxation with his or her family.</desc>
 	</programme>
 	<programme channel="5689" start="20260918013000 +0000" stop="20260918021500 +0000">
 		<title>Farm To Table</title>
@@ -112053,12 +112141,12 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 		<desc>Features a collection of classic comedy sketches, parodies, and unforgettable moments from the iconic Filipino gag show.</desc>
 	</programme>
 	<programme channel="5689" start="20260918044500 +0000" stop="20260918053000 +0000">
-		<title>Mommy Dearest</title>
-		<desc>Two mothers, Emma and Olive, share love for sickly child Mookie. Birth mother Olive cares for her health, while maid Emma becomes her close friend - until Olive intervenes in their growing bond.</desc>
+		<title>Day Off</title>
+		<desc>A program that gives recognition to the most deserving and most hardworking Filipinos who toil through each day in order to earn a decent living for their families. The hosts take turns substituting for the Day Off winner at work, while he or she enjoys a luxurious day of fun and relaxation with his or her family.</desc>
 	</programme>
 	<programme channel="5689" start="20260918053000 +0000" stop="20260918061500 +0000">
-		<title>Turbo Zone</title>
-		<desc>A young, dynamic, fresh take motoring show in the Philippines that allows us to satiate our appetite for cars, motoring gadgets and automotive market trends.</desc>
+		<title>Mommy Dearest</title>
+		<desc>Two mothers, Emma and Olive, share love for sickly child Mookie. Birth mother Olive cares for her health, while maid Emma becomes her close friend - until Olive intervenes in their growing bond.</desc>
 	</programme>
 	<programme channel="5689" start="20260918061500 +0000" stop="20260918071500 +0000">
 		<title>Balitanghali</title>
@@ -112076,9 +112164,13 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 		<title>Mommy Dearest</title>
 		<desc>Two mothers, Emma and Olive, share love for sickly child Mookie. Birth mother Olive cares for her health, while maid Emma becomes her close friend - until Olive intervenes in their growing bond.</desc>
 	</programme>
-	<programme channel="5689" start="20260918104500 +0000" stop="20260918121500 +0000">
-		<title>Chika Cart</title>
-		<desc>Three vibrant personalities collaborate in one-stop tambayan for your daily celebrity chika, energetic banter, and checkout-worthy finds.</desc>
+	<programme channel="5689" start="20260918104500 +0000" stop="20260918113000 +0000">
+		<title>Lutong Bahay</title>
+		<desc>A magazine show that features a delightful mix of heartfelt stories and mouthwatering dishes, where every recipe has a tale to tell -- heartwarming tales of triumph, challenges, and cherished memories.</desc>
+	</programme>
+	<programme channel="5689" start="20260918113000 +0000" stop="20260918121500 +0000">
+		<title>Day Off</title>
+		<desc>A program that gives recognition to the most deserving and most hardworking Filipinos who toil through each day in order to earn a decent living for their families. The hosts take turns substituting for the Day Off winner at work, while he or she enjoys a luxurious day of fun and relaxation with his or her family.</desc>
 	</programme>
 	<programme channel="5689" start="20260918121500 +0000" stop="20260918131500 +0000">
 		<title>Bubble Gang Fun Size</title>
@@ -112096,17 +112188,21 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 		<title>Weekend Getaway</title>
 		<desc>Drew Arellano treats two adventure-seekers to a weekend trip and shows them that traveling can be fun on a budget! Weekend Getaway will showcase affordable, off-the-beaten-track weekend getaway options in the Philippines and around Asia.</desc>
 	</programme>
-	<programme channel="5689" start="20260918153000 +0000" stop="20260918170000 +0000">
-		<title>Chika Cart</title>
-		<desc>Three vibrant personalities collaborate in one-stop tambayan for your daily celebrity chika, energetic banter, and checkout-worthy finds.</desc>
+	<programme channel="5689" start="20260918153000 +0000" stop="20260918163000 +0000">
+		<title>Lutong Bahay</title>
+		<desc>A magazine show that features a delightful mix of heartfelt stories and mouthwatering dishes, where every recipe has a tale to tell -- heartwarming tales of triumph, challenges, and cherished memories.</desc>
 	</programme>
-	<programme channel="5689" start="20260918170000 +0000" stop="20260918180000 +0000">
+	<programme channel="5689" start="20260918163000 +0000" stop="20260918173000 +0000">
 		<title>Bubble Gang Fun Size</title>
 		<desc>Features a collection of classic comedy sketches, parodies, and unforgettable moments from the iconic Filipino gag show.</desc>
 	</programme>
-	<programme channel="5689" start="20260918180000 +0000" stop="20260918184500 +0000">
+	<programme channel="5689" start="20260918173000 +0000" stop="20260918180000 +0000">
 		<title>Idol sa Kusina</title>
 		<desc>An entertaining and informative cooking program that showcases scrumptious cuisines. Together with the celebrities, the show unfolds topnotch kitchen skills and culinary secrets that will make cooking dishes effortless.</desc>
+	</programme>
+	<programme channel="5689" start="20260918180000 +0000" stop="20260918184500 +0000">
+		<title>Day Off</title>
+		<desc>A program that gives recognition to the most deserving and most hardworking Filipinos who toil through each day in order to earn a decent living for their families. The hosts take turns substituting for the Day Off winner at work, while he or she enjoys a luxurious day of fun and relaxation with his or her family.</desc>
 	</programme>
 	<programme channel="5689" start="20260918184500 +0000" stop="20260918204500 +0000">
 		<title>REEL LIFE</title>
@@ -112120,17 +112216,21 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 		<title>Balitanghali</title>
 		<desc>The noontime daily newscast that delivers the hottest news and happenings in the country.</desc>
 	</programme>
-	<programme channel="5689" start="20260918223000 +0000" stop="20260919000000 +0000">
-		<title>Chika Cart</title>
-		<desc>Three vibrant personalities collaborate in one-stop tambayan for your daily celebrity chika, energetic banter, and checkout-worthy finds.</desc>
+	<programme channel="5689" start="20260918223000 +0000" stop="20260918231500 +0000">
+		<title>Lutong Bahay</title>
+		<desc>A magazine show that features a delightful mix of heartfelt stories and mouthwatering dishes, where every recipe has a tale to tell -- heartwarming tales of triumph, challenges, and cherished memories.</desc>
 	</programme>
-	<programme channel="5689" start="20260919000000 +0000" stop="20260919010000 +0000">
+	<programme channel="5689" start="20260918231500 +0000" stop="20260919001500 +0000">
 		<title>Bubble Gang Fun Size</title>
 		<desc>Features a collection of classic comedy sketches, parodies, and unforgettable moments from the iconic Filipino gag show.</desc>
 	</programme>
-	<programme channel="5689" start="20260919010000 +0000" stop="20260919013000 +0000">
+	<programme channel="5689" start="20260919001500 +0000" stop="20260919004500 +0000">
 		<title>Idol sa Kusina</title>
 		<desc>An entertaining and informative cooking program that showcases scrumptious cuisines. Together with the celebrities, the show unfolds topnotch kitchen skills and culinary secrets that will make cooking dishes effortless.</desc>
+	</programme>
+	<programme channel="5689" start="20260919004500 +0000" stop="20260919013000 +0000">
+		<title>Day Off</title>
+		<desc>A program that gives recognition to the most deserving and most hardworking Filipinos who toil through each day in order to earn a decent living for their families. The hosts take turns substituting for the Day Off winner at work, while he or she enjoys a luxurious day of fun and relaxation with his or her family.</desc>
 	</programme>
 	<programme channel="5689" start="20260919013000 +0000" stop="20260919021500 +0000">
 		<title>i-Listen</title>
@@ -112149,12 +112249,12 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 		<desc>Features a collection of classic comedy sketches, parodies, and unforgettable moments from the iconic Filipino gag show.</desc>
 	</programme>
 	<programme channel="5689" start="20260919044500 +0000" stop="20260919053000 +0000">
-		<title>Mommy Dearest</title>
-		<desc>Two mothers, Emma and Olive, share love for sickly child Mookie. Birth mother Olive cares for her health, while maid Emma becomes her close friend - until Olive intervenes in their growing bond.</desc>
+		<title>Day Off</title>
+		<desc>A program that gives recognition to the most deserving and most hardworking Filipinos who toil through each day in order to earn a decent living for their families. The hosts take turns substituting for the Day Off winner at work, while he or she enjoys a luxurious day of fun and relaxation with his or her family.</desc>
 	</programme>
 	<programme channel="5689" start="20260919053000 +0000" stop="20260919061500 +0000">
-		<title>i-Listen</title>
-		<desc>Features raw, heartfelt, and intimate conversations highlighting extraordinary Filipino stories.</desc>
+		<title>Mommy Dearest</title>
+		<desc>Two mothers, Emma and Olive, share love for sickly child Mookie. Birth mother Olive cares for her health, while maid Emma becomes her close friend - until Olive intervenes in their growing bond.</desc>
 	</programme>
 	<programme channel="5689" start="20260919061500 +0000" stop="20260919071500 +0000">
 		<title>Weekend Getaway</title>
@@ -114041,44 +114141,44 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 		<desc>IT'S SHOWTIME</desc>
 	</programme>
 	<programme channel="5693" start="20260918161500 +0000" stop="20260918165500 +0000">
-		<title>Sigabo</title>
-		<desc>Sigabo</desc>
+		<title>Sigabo®</title>
+		<desc>Sigabo®</desc>
 	</programme>
 	<programme channel="5693" start="20260918165500 +0000" stop="20260918173500 +0000">
-		<title>Someone, Someday</title>
-		<desc>Someone, Someday</desc>
+		<title>Someone, Someday®</title>
+		<desc>Someone, Someday®</desc>
 	</programme>
 	<programme channel="5693" start="20260918173500 +0000" stop="20260918181500 +0000">
-		<title>INCOGNITO</title>
-		<desc>INCOGNITO</desc>
+		<title>Incognito®</title>
+		<desc>Incognito®</desc>
 	</programme>
 	<programme channel="5693" start="20260918181500 +0000" stop="20260918185000 +0000">
-		<title>The Iron Heart</title>
-		<desc>The Iron Heart</desc>
+		<title>Iron Heart ®</title>
+		<desc>Iron Heart ®</desc>
 	</programme>
 	<programme channel="5693" start="20260918185000 +0000" stop="20260918193000 +0000">
-		<title>LA VIDA LENA</title>
-		<desc>LA VIDA LENA</desc>
+		<title>La Vida Lena®</title>
+		<desc>La Vida Lena®</desc>
 	</programme>
 	<programme channel="5693" start="20260918193000 +0000" stop="20260918200000 +0000">
-		<title>Are You G? With MJ Felipe</title>
-		<desc>Are You G? With MJ Felipe</desc>
+		<title>Are You G? With MJ Felipe S2®</title>
+		<desc>Are You G? With MJ Felipe S2®</desc>
 	</programme>
 	<programme channel="5693" start="20260918200000 +0000" stop="20260918213000 +0000">
-		<title>TV PATROL GLOBAL EDITION</title>
-		<desc>TV PATROL GLOBAL EDITION</desc>
+		<title>TV Patrol Weekday Global Edition</title>
+		<desc>TV Patrol Weekday Global Edition</desc>
 	</programme>
 	<programme channel="5693" start="20260918213000 +0000" stop="20260918223000 +0000">
 		<title>TABING ILOG</title>
 		<desc>TABING ILOG</desc>
 	</programme>
 	<programme channel="5693" start="20260918223000 +0000" stop="20260918233000 +0000">
-		<title>MAALAALA MO KAYA</title>
-		<desc>MAALAALA MO KAYA</desc>
+		<title>Maalaala Mo Kaya ®</title>
+		<desc>Maalaala Mo Kaya ®</desc>
 	</programme>
 	<programme channel="5693" start="20260918233000 +0000" stop="20260919000000 +0000">
-		<title>MY PUHUNAN: KAYA MO!</title>
-		<desc>MY PUHUNAN: KAYA MO!</desc>
+		<title>My Puhunan: Kaya Mo! ®</title>
+		<desc>My Puhunan: Kaya Mo! ®</desc>
 	</programme>
 	<programme channel="5693" start="20260919000000 +0000" stop="20260919003000 +0000">
 		<title>WOW</title>
@@ -114093,28 +114193,28 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 		<desc>TULONG KO, PASA MO</desc>
 	</programme>
 	<programme channel="5693" start="20260919020000 +0000" stop="20260919023000 +0000">
-		<title>ANO NA, BEV S6</title>
-		<desc>ANO NA, BEV S6</desc>
+		<title>Ano Na Bev S6</title>
+		<desc>Ano Na Bev S6</desc>
 	</programme>
 	<programme channel="5693" start="20260919023000 +0000" stop="20260919030000 +0000">
 		<title>KAPAMILYA DAILY MASS</title>
 		<desc>KAPAMILYA DAILY MASS</desc>
 	</programme>
 	<programme channel="5693" start="20260919030000 +0000" stop="20260919040000 +0000">
-		<title>THE B SIDE</title>
-		<desc>THE B SIDE</desc>
+		<title>The B Side ®</title>
+		<desc>The B Side ®</desc>
 	</programme>
 	<programme channel="5693" start="20260919040000 +0000" stop="20260919063000 +0000">
-		<title>IT'S SHOWTIME SATURDAY</title>
-		<desc>IT'S SHOWTIME SATURDAY</desc>
+		<title>IT'S SHOWTIME</title>
+		<desc>IT'S SHOWTIME</desc>
 	</programme>
 	<programme channel="5693" start="20260919063000 +0000" stop="20260919080000 +0000">
 		<title>Miss Behave</title>
 		<desc>Miss Behave</desc>
 	</programme>
 	<programme channel="5693" start="20260919080000 +0000" stop="20260919083500 +0000">
-		<title>Pamilya Talk with Tita Jing S8</title>
-		<desc>Pamilya Talk with Tita Jing S8</desc>
+		<title>Pamilya Talk With Tita Jing S7</title>
+		<desc>Pamilya Talk With Tita Jing S7</desc>
 	</programme>
 	<programme channel="5693" start="20260919083500 +0000" stop="20260919091000 +0000">
 		<title>Home Away From Home S6</title>
@@ -114125,8 +114225,8 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 		<desc>Juan Conversations with Rose Eclarinal S4</desc>
 	</programme>
 	<programme channel="5693" start="20260919094500 +0000" stop="20260919104500 +0000">
-		<title>TV PATROL SABADO</title>
-		<desc>TV PATROL SABADO</desc>
+		<title>TV Patrol Sabado Live</title>
+		<desc>TV Patrol Sabado Live</desc>
 	</programme>
 	<programme channel="5693" start="20260919104500 +0000" stop="20260919113000 +0000">
 		<title>Ibang Level 'To</title>
@@ -114137,8 +114237,8 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 		<desc>KAPAMILYA DEAL OR NO DEAL</desc>
 	</programme>
 	<programme channel="5693" start="20260919123000 +0000" stop="20260919134500 +0000">
-		<title>EVERYBODY SING!</title>
-		<desc>EVERYBODY SING!</desc>
+		<title>Everybody Sing</title>
+		<desc>Everybody Sing</desc>
 	</programme>
 	<programme channel="5693" start="20260919134500 +0000" stop="20260919145500 +0000">
 		<title>The Crossings: Finding Our Way Home Through Stories</title>
@@ -114149,40 +114249,40 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 		<desc>The B Side S2</desc>
 	</programme>
 	<programme channel="5693" start="20260919154500 +0000" stop="20260919173000 +0000">
-		<title>IT'S SHOWTIME SATURDAY</title>
-		<desc>IT'S SHOWTIME SATURDAY</desc>
+		<title>It's Showtime ®</title>
+		<desc>It's Showtime ®</desc>
 	</programme>
 	<programme channel="5693" start="20260919173000 +0000" stop="20260919181500 +0000">
 		<title>SOCO</title>
 		<desc>SOCO</desc>
 	</programme>
 	<programme channel="5693" start="20260919181500 +0000" stop="20260919190000 +0000">
-		<title>TV PATROL SABADO</title>
-		<desc>TV PATROL SABADO</desc>
+		<title>TV Patrol Sabado ®</title>
+		<desc>TV Patrol Sabado ®</desc>
 	</programme>
 	<programme channel="5693" start="20260919190000 +0000" stop="20260919200000 +0000">
-		<title>KAPAMILYA DEAL OR NO DEAL</title>
-		<desc>KAPAMILYA DEAL OR NO DEAL</desc>
+		<title>Kapamilya Deal Or No Deal®</title>
+		<desc>Kapamilya Deal Or No Deal®</desc>
 	</programme>
 	<programme channel="5693" start="20260919200000 +0000" stop="20260919210000 +0000">
-		<title>EVERYBODY SING!</title>
-		<desc>EVERYBODY SING!</desc>
+		<title>Everybody Sing</title>
+		<desc>Everybody Sing</desc>
 	</programme>
 	<programme channel="5693" start="20260919210000 +0000" stop="20260919230000 +0000">
-		<title>NIGHT FLICKS</title>
-		<desc>NIGHT FLICKS</desc>
+		<title>Type Kita..Walang Kokontra!</title>
+		<desc>Type Kita..Walang Kokontra!</desc>
 	</programme>
-	<programme channel="5693" start="20260919230000 +0000" stop="20260920000000 +0000">
-		<title>Miss Behave</title>
-		<desc>Miss Behave</desc>
+	<programme channel="5693" start="20260919230000 +0000" stop="20260919233000 +0000">
+		<title>Miss Behave ®</title>
+		<desc>Miss Behave ®</desc>
 	</programme>
-	<programme channel="5693" start="20260920000000 +0000" stop="20260920003000 +0000">
+	<programme channel="5693" start="20260919233000 +0000" stop="20260920003000 +0000">
 		<title>CITIZEN PINOY</title>
 		<desc>CITIZEN PINOY</desc>
 	</programme>
 	<programme channel="5693" start="20260920003000 +0000" stop="20260920010000 +0000">
-		<title>Home Away From Home S6</title>
-		<desc>Home Away From Home S6</desc>
+		<title>Home Away From Home S6 ®</title>
+		<desc>Home Away From Home S6 ®</desc>
 	</programme>
 	<programme channel="5693" start="20260920010000 +0000" stop="20260920013000 +0000">
 		<title>MY PUHUNAN: KAYA MO!</title>
@@ -114193,8 +114293,8 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 		<desc>BRO. EDDIE CLASSICS</desc>
 	</programme>
 	<programme channel="5693" start="20260920023000 +0000" stop="20260920030000 +0000">
-		<title>KAPAMILYA JOURNEYS OF HOPE</title>
-		<desc>KAPAMILYA JOURNEYS OF HOPE</desc>
+		<title>Kapamilya Journeys of Hope With Fr. Tito Caluag</title>
+		<desc>Kapamilya Journeys of Hope With Fr. Tito Caluag</desc>
 	</programme>
 	<programme channel="5693" start="20260920030000 +0000" stop="20260920040000 +0000">
 		<title>THE HEALING EUCHARIST</title>
@@ -114205,8 +114305,8 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 		<desc>Y Speak 2.0</desc>
 	</programme>
 	<programme channel="5693" start="20260920050000 +0000" stop="20260920060000 +0000">
-		<title>TULONG KO, PASA MO</title>
-		<desc>TULONG KO, PASA MO</desc>
+		<title>Tulong Ko, Pasa Mo®</title>
+		<desc>Tulong Ko, Pasa Mo®</desc>
 	</programme>
 	<programme channel="5693" start="20260920060000 +0000" stop="20260920061500 +0000">
 		<title>Philippines' Oddest Jobs</title>
@@ -114233,8 +114333,8 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 		<desc>Philippines' Most Shocking Stories</desc>
 	</programme>
 	<programme channel="5693" start="20260920090000 +0000" stop="20260920100000 +0000">
-		<title>TV PATROL LINGGO</title>
-		<desc>TV PATROL LINGGO</desc>
+		<title>TV Patrol Linggo Live</title>
+		<desc>TV Patrol Linggo Live</desc>
 	</programme>
 	<programme channel="5693" start="20260920100000 +0000" stop="20260920113000 +0000">
 		<title>ASAP XP</title>
@@ -114245,8 +114345,8 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 		<desc>KAPAMILYA DEAL OR NO DEAL</desc>
 	</programme>
 	<programme channel="5693" start="20260920123000 +0000" stop="20260920134500 +0000">
-		<title>EVERYBODY SING!</title>
-		<desc>EVERYBODY SING!</desc>
+		<title>Everybody Sing</title>
+		<desc>Everybody Sing</desc>
 	</programme>
 	<programme channel="5693" start="20260920134500 +0000" stop="20260920141500 +0000">
 		<title>Wrizzards: Underground Uprising</title>
@@ -114255,6 +114355,10 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 	<programme channel="5693" start="20260920141500 +0000" stop="20260920151500 +0000">
 		<title>RATED KORINA</title>
 		<desc>RATED KORINA</desc>
+	</programme>
+	<programme channel="5693" start="20260920151500 +0000" stop="20260920154500 +0000">
+		<title>Hindi Suntok Sa Buwan Ang Kapayapaan</title>
+		<desc>Hindi Suntok Sa Buwan Ang Kapayapaan</desc>
 	</programme>
 	<programme channel="6694" start="20260913160000 +0000" stop="20260913163000 +0000">
 		<title>LOCAL LEGENDS</title>
