@@ -992,9 +992,13 @@
 		<title>Alvinnn!!! &amp; The Chipmunks S2 Episode 16</title>
 		<desc>A single dad has his hands full raising six rambunctious chipmunks in this animated comedy!</desc>
 	</programme>
-	<programme channel="5002" start="20260924053000 +0000" stop="20260924054500 +0000">
+	<programme channel="5002" start="20260924053000 +0000" stop="20260924053500 +0000">
 		<title>Minibods</title>
 		<desc>Newt rides her bike to find a Flutterbug with Pogo and Bubbles but her stabilisers fall off!</desc>
+	</programme>
+	<programme channel="5002" start="20260924053500 +0000" stop="20260924054500 +0000">
+		<title>Minibods Episode 2</title>
+		<desc>Pogo wants to eat a Mang-Mang fruit but it isn't ripe! With Newt's help, Pogo must learn to wait.</desc>
 	</programme>
 	<programme channel="5002" start="20260924054500 +0000" stop="20260924055500 +0000">
 		<title>Minibods Episode 3</title>
@@ -1029,8 +1033,8 @@
 		<desc>The Fugitive Task Force is thrown into the world of the wealthy and twisted after a Rhode Island socialite is murdered in her own mansion. Meanwhile, Barnes contemplates big changes.</desc>
 	</programme>
 	<programme channel="5002" start="20260924153000 +0000" stop="20260924160000 +0000">
-		<title>In Search of Heat</title>
-		<desc>Private chef and avid photographer Kevin Lee finds out how many different cultures embrace their passionate love affair with chilli and heat.</desc>
+		<title>In Search of Heat Episode 2</title>
+		<desc>We go off the beaten path and explore the adventurous and tongue-numbing ways to use our beloved chillies.</desc>
 	</programme>
 	<programme channel="5002" start="20260924160000 +0000" stop="20260924163000 +0000">
 		<title>Yes Captain! Episode 28</title>
@@ -2066,7 +2070,7 @@
 	</programme>
 	<programme channel="5003" start="20260924143000 +0000" stop="20260924150000 +0000">
 		<title>焦点 Episode 26</title>
-		<desc>焦点追踪国际时事实地报道区域课题以新加坡的视角分析时局发展的前因后果和潜在影响</desc>
+		<desc>厄尔尼诺造成干旱印尼稻农借钱钻井灌溉收成却依然歉收等不到雨债却先来看气候变化如何挤压农民生计济州岛失踪死亡案件频传警方办案能力备受质疑韩国削弱检察官侦查权扩大警察权之际却接连爆出警方疑似失职案件检警权力此消彼长韩国司法制度走向制衡还是暴露新的漏洞</desc>
 	</programme>
 	<programme channel="5003" start="20260924150000 +0000" stop="20260924160000 +0000">
 		<title>长安的荔枝 Episode 23</title>
@@ -2294,7 +2298,7 @@
 	</programme>
 	<programme channel="5003" start="20260926033000 +0000" stop="20260926040000 +0000">
 		<title>焦点 Episode 26</title>
-		<desc>焦点追踪国际时事实地报道区域课题以新加坡的视角分析时局发展的前因后果和潜在影响</desc>
+		<desc>厄尔尼诺造成干旱印尼稻农借钱钻井灌溉收成却依然歉收等不到雨债却先来看气候变化如何挤压农民生计济州岛失踪死亡案件频传警方办案能力备受质疑韩国削弱检察官侦查权扩大警察权之际却接连爆出警方疑似失职案件检警权力此消彼长韩国司法制度走向制衡还是暴露新的漏洞</desc>
 	</programme>
 	<programme channel="5003" start="20260926040000 +0000" stop="20260926050000 +0000">
 		<title>三把刀: 再战擂台 Episode 6</title>
@@ -2570,15 +2574,27 @@
 	</programme>
 	<programme channel="5003" start="20260928020000 +0000" stop="20260928023000 +0000">
 		<title>焦点 Episode 26</title>
-		<desc>焦点追踪国际时事实地报道区域课题以新加坡的视角分析时局发展的前因后果和潜在影响</desc>
+		<desc>厄尔尼诺造成干旱印尼稻农借钱钻井灌溉收成却依然歉收等不到雨债却先来看气候变化如何挤压农民生计济州岛失踪死亡案件频传警方办案能力备受质疑韩国削弱检察官侦查权扩大警察权之际却接连爆出警方疑似失职案件检警权力此消彼长韩国司法制度走向制衡还是暴露新的漏洞</desc>
 	</programme>
 	<programme channel="5003" start="20260928023000 +0000" stop="20260928033000 +0000">
 		<title>金家好媳婦 Episode 150</title>
 		<desc>冠达被有德拉来崖边逼供要出芷琳的下落婉妃知道彦钧在偷听将芷琳的死全推给冠达</desc>
 	</programme>
-	<programme channel="5003" start="20260928033000 +0000" stop="20260928050000 +0000">
+	<programme channel="5003" start="20260928033000 +0000" stop="20260928043000 +0000">
 		<title>金家好媳婦 Episode 151</title>
 		<desc>婉妃任命彦钧为盛唐总经理彦钧为找芷琳 答应婉妃为彦钧举办酒会芷琳突然出现</desc>
+	</programme>
+	<programme channel="5003" start="20260928043000 +0000" stop="20260928044400 +0000">
+		<title>The Wonder Shop Episode 329</title>
+		<desc>这款双件套是在韩国的研发小组专为白发设计的头皮优先护理方案它能逐步恢复头发的自然色泽同时清洁滋养和呵护老化的头皮产品温和纯素配方并通过临床测试有助于改善头皮状况并随着长期使用减缓新白发的生长</desc>
+	</programme>
+	<programme channel="5003" start="20260928044400 +0000" stop="20260928044600 +0000">
+		<title>The Wonder Shop Episode 222</title>
+		<desc>厨房刀片如同专业大厨一般娴熟</desc>
+	</programme>
+	<programme channel="5003" start="20260928044600 +0000" stop="20260928050000 +0000">
+		<title>The Wonder Shop Episode 253</title>
+		<desc>ASD爱仕达316不锈钢不粘炒锅采用三层钢结构与耐高温不粘涂层结合了不锈钢的耐用与不粘锅的便捷蜂窝纹理设计省油防粘食材加热均匀不怕铁铲和钢丝球刮擦适合烹饪各种坚硬食材</desc>
 	</programme>
 	<programme channel="5003" start="20260928050000 +0000" stop="20260928053000 +0000">
 		<title>一点新闻 Episode 129</title>
@@ -2592,9 +2608,21 @@
 		<title>愛回家之开心速递 (Ep1,868 - 2,242) Episode 2233</title>
 		<desc>故事围绕着洪氏和龙氏家族他们的工作生活和朋友展开在之前的剧集中龙景峰的幽灵与洪氏家族成员结下了深厚的友谊</desc>
 	</programme>
-	<programme channel="5003" start="20260928063000 +0000" stop="20260928073000 +0000">
+	<programme channel="5003" start="20260928063000 +0000" stop="20260928070000 +0000">
 		<title>愛回家之开心速递 (Ep1,868 - 2,242) Episode 2234</title>
 		<desc>故事围绕着洪氏和龙氏家族他们的工作生活和朋友展开在之前的剧集中龙景峰的幽灵与洪氏家族成员结下了深厚的友谊</desc>
+	</programme>
+	<programme channel="5003" start="20260928070000 +0000" stop="20260928071400 +0000">
+		<title>The Wonder Shop Episode 328</title>
+		<desc>采用韩国先进美肤理念打造的半永久粉底水光焕颜疗程以温和微针导入技术将养肤型 BB 水光精华层层注入肌肤缔造宛如天生般均匀透亮水润的韩式水光肌持续护理有助于改善暗沉泛红雀斑及肤色不均令肌肤愈发细致柔嫩光泽盈润无需厚重底妆也能轻松展现自然透亮的韩式水光肌</desc>
+	</programme>
+	<programme channel="5003" start="20260928071400 +0000" stop="20260928071600 +0000">
+		<title>The Wonder Shop Episode 309</title>
+		<desc>Tupperware 冷冻保鲜 5 件套让备餐和长期储存变得便捷有效锁住食物的新鲜度作为 Tupperware 畅销第一的冷冻容器它采用快速冷冻设计与柔韧材质冷冻后轻松脱模多种尺寸组合能轻松满足各种冷冻储存的需求</desc>
+	</programme>
+	<programme channel="5003" start="20260928071600 +0000" stop="20260928073000 +0000">
+		<title>The Wonder Shop Episode 324</title>
+		<desc>拥有30,000Pa强吸力能吸走尘发碎屑搭载智能感应调速防缠绕与多种吸头让打扫更轻松省时不脏手洗烘消存一体采用75C高温UV与热风强效去油杀菌餐具更干净干爽机身小巧免安装每天洗碗更轻松省事</desc>
 	</programme>
 	<programme channel="5003" start="20260928073000 +0000" stop="20260928080000 +0000">
 		<title>但愿人长久 Episode 85</title>
@@ -2778,7 +2806,7 @@
 	</programme>
 	<programme channel="5004" start="20260923123000 +0000" stop="20260923130000 +0000">
 		<title>Detik Semasa Episode 20</title>
-		<desc>The program analyses and dissect issues of concern to the Malay/Muslim Singaporeans - be it at the community level, national, regional or global. Apart from raising awareness, each DETIK episode hopes to set viewers thinking and make informed decisions on matters that can impact their lives.</desc>
+		<desc>Electric vehicles are becoming more common in Singapore. What does this mean for traditional car workshops that have been around for decades, and can they adapt to these changes? Detik KitorangSG: In this episode, Tun Seri Lanang Award recipient Jamal Ismail opens up about his journey through the worlds of broadcasting and writing, his quest for self-discovery, and the life experiences that made his path anything but ordinary.</desc>
 	</programme>
 	<programme channel="5004" start="20260923130000 +0000" stop="20260923133000 +0000">
 		<title>One On One Episode 18</title>
@@ -2830,7 +2858,7 @@
 	</programme>
 	<programme channel="5004" start="20260924070000 +0000" stop="20260924073000 +0000">
 		<title>Detik Semasa Episode 20</title>
-		<desc>The program analyses and dissect issues of concern to the Malay/Muslim Singaporeans - be it at the community level, national, regional or global. Apart from raising awareness, each DETIK episode hopes to set viewers thinking and make informed decisions on matters that can impact their lives.</desc>
+		<desc>Electric vehicles are becoming more common in Singapore. What does this mean for traditional car workshops that have been around for decades, and can they adapt to these changes? Detik KitorangSG: In this episode, Tun Seri Lanang Award recipient Jamal Ismail opens up about his journey through the worlds of broadcasting and writing, his quest for self-discovery, and the life experiences that made his path anything but ordinary.</desc>
 	</programme>
 	<programme channel="5004" start="20260924073000 +0000" stop="20260924080000 +0000">
 		<title>One On One Episode 18</title>
@@ -4537,8 +4565,8 @@
 		<desc>(Live) News and views from around the region, delivered with uniquely Asian perspectives.</desc>
 	</programme>
 	<programme channel="5006" start="20260928130000 +0000" stop="20260928140000 +0000">
-		<title>The Love Auditors</title>
-		<desc>As traditional family safety nets vanish, a new breed of private investigators has emerged to verify trust. The Love Auditors navigate the messy realities of the heart, tackling everything from high-stakes pre-marital checks to heartbreaking post-marital betrayals and sextortion.</desc>
+		<title>When Titans Clash S13 - Moonshot: Inside China's Future Industries</title>
+		<desc>When Titans Clash enters China's labs to explore its push to dominate six frontier technologies, asking whether breakthroughs from AI and quantum computing to 6G could redefine global technological leadership.</desc>
 	</programme>
 	<programme channel="5006" start="20260928140000 +0000" stop="20260928150000 +0000">
 		<title>Singapore Tonight Episode 181</title>
@@ -5392,9 +5420,105 @@
 		<title>收场</title>
 		<desc>收场</desc>
 	</programme>
-	<programme channel="5007" start="20260927220000 +0000" stop="20260928070000 +0000">
+	<programme channel="5007" start="20260927220000 +0000" stop="20260928025700 +0000">
 		<title>收场</title>
 		<desc>收场</desc>
+	</programme>
+	<programme channel="5007" start="20260928025700 +0000" stop="20260928031400 +0000">
+		<title>The Wonder Shop Episode 248</title>
+		<desc>羽衣甘蓝是一种富含23种必需营养素的超级食物可满足日常膳食需求我们的有机纯羽衣甘蓝粉无添加剂防腐剂抗氧化剂和色素适合所有年龄段人群有助于保持健康</desc>
+	</programme>
+	<programme channel="5007" start="20260928031400 +0000" stop="20260928031600 +0000">
+		<title>The Wonder Shop Episode 222</title>
+		<desc>厨房刀片如同专业大厨一般娴熟</desc>
+	</programme>
+	<programme channel="5007" start="20260928031600 +0000" stop="20260928033000 +0000">
+		<title>The Wonder Shop Episode 274</title>
+		<desc>日本制造融合传统汉方智慧与现代科技严选中药及草本植物精华配方温和纯净天然无添加有助于调节血压血糖和胆固醇水平有助于促进血管通畅柔韧有弹性 日本制造有助于清除体内湿气平衡内气促进健康帮助消除水肿减少水肿</desc>
+	</programme>
+	<programme channel="5007" start="20260928033000 +0000" stop="20260928034400 +0000">
+		<title>The Wonder Shop Episode 280</title>
+		<desc>Ellixi发量黑洗发水采用颠覆性的4合1配方洗头同时染发护发增发量并强韧发丝仅需5天即可改善头皮与发质采用韩国专利多酚技术无需染发剂或化学添加温和自然遮盖白发结合多酚氧化着色原理与草本养护成分让秀发一洗更黑更丰盈更健康</desc>
+	</programme>
+	<programme channel="5007" start="20260928034400 +0000" stop="20260928034600 +0000">
+		<title>The Wonder Shop Episode 303</title>
+		<desc>OMRON BP Monitor Atrial Fibrillation可同时测量血压并筛查心房攒动帮助提早测试到中风的迹象它方便家人或情侣共用能记录两个用户经过临床验证它能确保测量准确度让用户安心使用</desc>
+	</programme>
+	<programme channel="5007" start="20260928034600 +0000" stop="20260928040000 +0000">
+		<title>The Wonder Shop Episode 299</title>
+		<desc>护膝提供膝盖周围稳固支撑与轻柔加压分担关节压力减少磨损结合日本生化能技术与托玛琳微热作用促进血气循环舒缓僵硬, 让膝盖在日常走动运动中都保持稳定与健康 降低磨损和退化风险 透气材质天天戴都舒适</desc>
+	</programme>
+	<programme channel="5007" start="20260928040000 +0000" stop="20260928041400 +0000">
+		<title>The Wonder Shop Episode 319</title>
+		<desc>AvoMilk 是一款植物营养饮品含牛油果植物蛋白和膳食纤维帮助补充营养并增加饱足感采用冻干牛油果技术约等于一颗牛油果的营养再加红枣非转基因黄豆藜麦小麦草和虎乳芝无添加糖无奶无麸质一冲即饮顺滑方便还有可可口味加入可可粉虾青素和奇亚籽像健康巧克力饮品</desc>
+	</programme>
+	<programme channel="5007" start="20260928041400 +0000" stop="20260928041600 +0000">
+		<title>The Wonder Shop Episode 304</title>
+		<desc>一款无线高扭矩清洁器为轻松深层清洁而设计它可伸缩手柄与6种可替换刷头轻松清洁地板瓷砖浴缸及狭小角落简约奢华设计适合每个人使用</desc>
+	</programme>
+	<programme channel="5007" start="20260928041600 +0000" stop="20260928043000 +0000">
+		<title>The Wonder Shop Episode 327</title>
+		<desc>特别添加 HMB帮助维持肌肉健康结合优质羊奶优质蛋白益生元膳食纤维及35种以上关键营养素全方位支持肌肉肠道骨骼健康及每日活力天然含A2 β-酪蛋白及较低αs1-酪蛋白对肠胃较温和较易消化专为成年人及银发族配制帮助维持健康活力的生活方式</desc>
+	</programme>
+	<programme channel="5007" start="20260928043000 +0000" stop="20260928044400 +0000">
+		<title>The Wonder Shop Episode 323</title>
+		<desc>这款浓浓芝麻香营养丰富的饮品让你轻松获取7色的植物营养素主要成分黑芝麻和何首乌有助乌发护发它有助大脑骨骼肌肉和肠道健康低糖不含乳糖适合所有年龄段人群饮用天天饮用轻松摄取七色营养素每份热量仅 88 大卡融合牛油果螺旋藻和 MCT 油有助控制体重营养丰富有助维持肌肉量与力量低糖无乳糖是代餐最佳选择理想的能量补给</desc>
+	</programme>
+	<programme channel="5007" start="20260928044400 +0000" stop="20260928044600 +0000">
+		<title>The Wonder Shop Episode 260</title>
+		<desc>韩国电视购物频台爆款这万能布能有效地清理顽固的污渍 油脂和气味</desc>
+	</programme>
+	<programme channel="5007" start="20260928044600 +0000" stop="20260928050000 +0000">
+		<title>The Wonder Shop Episode 320</title>
+		<desc>AIBI V Sofa 可将时尚沙发轻松转换为全身垂直震动平台让日常坐着也能进行低冲击微运动有助于激活肌肉促进血液循环提升身体平衡感并温和支持热量消耗 AIBI Vibro Zen 是一款小巧的冥想震动器通过规律震动帮助舒缓身心紧绷放松思绪并恢复内在平衡与状态</desc>
+	</programme>
+	<programme channel="5007" start="20260928050000 +0000" stop="20260928051400 +0000">
+		<title>The Wonder Shop Episode 317</title>
+		<desc>一款优质的关节养护配方每份含有 4克高剂量胶原蛋白肽并融合了玻尿酸与软骨素旨在为关节提供润滑与缓冲保护含更先进的 N-乙酰葡萄糖胺NAGNAG 能帮助软骨锁住水分并具有缓解关节炎症的作用 同时服用 Q'SAI 这组护膝黄金搭档能够产生强效的协同作用全方位加速关节的修复与保养</desc>
+	</programme>
+	<programme channel="5007" start="20260928051400 +0000" stop="20260928051600 +0000">
+		<title>The Wonder Shop Episode 238</title>
+		<desc>全套组合菜刀剪刀砧板让你下厨更轻松菜刀和剪刀附专业磨刀套</desc>
+	</programme>
+	<programme channel="5007" start="20260928051600 +0000" stop="20260928053000 +0000">
+		<title>The Wonder Shop Episode 252</title>
+		<desc>Nature's Farm来自南极的磷虾油富含优质Omega-3脂肪酸和虾红素, 有助于维持胆固醇水平维护心 脏大脑和关节健康 人体对磷虾油的吸收率更高没有难闻的鱼腥味软胶囊更容易吞服一天2颗有助于维护整体健康</desc>
+	</programme>
+	<programme channel="5007" start="20260928053000 +0000" stop="20260928054400 +0000">
+		<title>The Wonder Shop Episode 230</title>
+		<desc>微电流电疗结合热敷功能帮助舒缓疼痛的好帮手哪里痛就贴哪里</desc>
+	</programme>
+	<programme channel="5007" start="20260928054400 +0000" stop="20260928054600 +0000">
+		<title>The Wonder Shop Episode 261</title>
+		<desc>这款La Gourmet 火焰电饭锅将火锅和烧烤炉结合一体为您提供两全其美的享受无论您是煮汤还是烧烤肉类和蔬菜都能享受多功能的膳食准备</desc>
+	</programme>
+	<programme channel="5007" start="20260928054600 +0000" stop="20260928060000 +0000">
+		<title>The Wonder Shop Episode 179</title>
+		<desc>全新4合1遮白洗发水含天然成分白发5天内变黑发</desc>
+	</programme>
+	<programme channel="5007" start="20260928060000 +0000" stop="20260928061400 +0000">
+		<title>The Wonder Shop Episode 321</title>
+		<desc>来自德国的Vileda让地板清洁变得轻松无比脚踏式挤水器用最少力气实现最大清洁力超细纤维提高20%灰尘抓取力人性化的设计更确保了更快捷更清洁更符合人体工学的居家清洁体验这套系统确保清水与废水分离每次拖地都是清水让您始终获得100%纯净的清洁效果</desc>
+	</programme>
+	<programme channel="5007" start="20260928061400 +0000" stop="20260928061600 +0000">
+		<title>The Wonder Shop Episode 308</title>
+		<desc>Naturalle 糖适宁茶采用 100% 天然叶材精制而成包括匙羹藤桑叶与绿茶口感清淡低热量糖适宁茶是适合餐后饮用有助于抑制对甜食的渴望和维持血糖健康水平非常适合经常摄取高碳水或含糖食物的人士饮用</desc>
+	</programme>
+	<programme channel="5007" start="20260928061600 +0000" stop="20260928063000 +0000">
+		<title>The Wonder Shop Episode 275</title>
+		<desc>已有 50 多年的历史,在日本备受信赖和喜爱运用磁力物理原理不含药物成分无需使用热敷冷敷或药物即可帮助缓解肌肉疼痛磁力有助于促进健康的血液循环进而有助于缓解肌肉僵硬提供精准持久的缓解疼痛效果每贴可使用长达 5 天</desc>
+	</programme>
+	<programme channel="5007" start="20260928063000 +0000" stop="20260928064400 +0000">
+		<title>The Wonder Shop Episode 326</title>
+		<desc>O'CERA 滋润套组采用皮肤医学级的配方使用柚子神经酰胺Aquaxyl 复合物和保湿因子有助于修复滋养并补充干燥敏感肌肤所需的水分这款可持续24 小时肌肤保湿方案有助于修复并维护肌肤保护层减少水分流失有效缓解皮肤干燥肌肤紧绷刺激和脱皮等问题</desc>
+	</programme>
+	<programme channel="5007" start="20260928064400 +0000" stop="20260928064600 +0000">
+		<title>The Wonder Shop Episode 306</title>
+		<desc>Morries鸳鸯锅让你实现火锅自由创新G型双环加热管设计让热能分布均匀鸳鸯锅设计可同时享用两种不同汤底也可以一边烤肉一边煮汤2200W高功率确保快速沸腾左右独立温控系统让您精准调节加热温度套组附带可调节的无线桌面风扇</desc>
+	</programme>
+	<programme channel="5007" start="20260928064600 +0000" stop="20260928070000 +0000">
+		<title>The Wonder Shop Episode 325</title>
+		<desc>6合1可堆叠式锅具系统可同时蒸煮炖及料理多道菜色采用不含PFAS及PTFE的陶瓷不沾涂层搭配SUS304不锈钢配件让烹饪更健康清洗更轻松同时节省厨房收纳空间集烧烤蒸煮及火锅功能于一体的多功能料理锅配备4L大容量不沾烤盘及不锈钢蒸煮配件适合日常用餐家庭聚会及共享美食时使用让下厨更轻松方便</desc>
 	</programme>
 	<programme channel="5007" start="20260928070000 +0000" stop="20260928080000 +0000">
 		<title>智富食代 Episode 13</title>
@@ -10008,9 +10132,13 @@
 		<title>Walker Cup 2026</title>
 		<desc>The Walker Cup brings together the top amateur golfers from the United States and Great Britain &amp; Ireland in the prestigious biennial team match.</desc>
 	</programme>
-	<programme channel="6114" start="20260925044500 +0000" stop="20260925074500 +0000">
+	<programme channel="6114" start="20260925044500 +0000" stop="20260925065500 +0000">
 		<title>2026 LET: La Sella Open</title>
 		<desc>La Sella Open features top female golfers battling for the title in one of Spain's premier women's golf tournaments.</desc>
+	</programme>
+	<programme channel="6114" start="20260925065500 +0000" stop="20260925074500 +0000">
+		<title>Formula E S12 Season Review</title>
+		<desc>The electric racing revolution continues in Formula E Season 12, as top drivers battle across iconic cities for the world championship crown.</desc>
 	</programme>
 	<programme channel="6114" start="20260925074500 +0000" stop="20260925081500 +0000">
 		<title>2026 US Open Tennis Highlights</title>
@@ -10037,7 +10165,7 @@
 		<desc>The stars of the Ladies European Tour gather in Ireland to compete for the KPMG Women's Irish Open title, delivering elite golf and championship drama.</desc>
 	</programme>
 	<programme channel="6114" start="20260925180000 +0000" stop="20260925190000 +0000">
-		<title>Formula E S12 Season Review</title>
+		<title>Formula E S12 Season Review Episode 2</title>
 		<desc>The electric racing revolution continues in Formula E Season 12, as top drivers battle across iconic cities for the world championship crown.</desc>
 	</programme>
 	<programme channel="6114" start="20260925190000 +0000" stop="20260925210000 +0000">
@@ -10144,9 +10272,45 @@
 		<title>2026 LET: The Solheim Cup</title>
 		<desc>The Solheim Cup sees Team Europe and Team USA battle in the prestigious biennial match play event, showcasing the finest women's golf talent in a thrilling team contest.</desc>
 	</programme>
-	<programme channel="6114" start="20260927154500 +0000" stop="20260927160000 +0000">
+	<programme channel="6114" start="20260927154500 +0000" stop="20260927185500 +0000">
 		<title>2026 WTCS Series, Pontevedra (Live)</title>
 		<desc>Elite triathletes push the limits of endurance across swim, bike, and run, battling for supremacy in a demanding global championship series.</desc>
+	</programme>
+	<programme channel="6114" start="20260927185500 +0000" stop="20260927200000 +0000">
+		<title>2026 WSL Inside Pro Surfing Episode 2</title>
+		<desc>Be sure to catch the inspirational power of surfing through the 2026 WSL Championship Tour &amp; Challenger Series.</desc>
+	</programme>
+	<programme channel="6114" start="20260927200000 +0000" stop="20260927220000 +0000">
+		<title>CEV Enel EuroVolley 2026 (Men)</title>
+		<desc>Europe's top men's national volleyball teams battle for continental glory, showcasing world-class skill, power, and intense competition at EuroVolley 2026.</desc>
+	</programme>
+	<programme channel="6114" start="20260927220000 +0000" stop="20260928023000 +0000">
+		<title>Walker Cup 2026</title>
+		<desc>The Walker Cup brings together the top amateur golfers from the United States and Great Britain &amp; Ireland in the prestigious biennial team match.</desc>
+	</programme>
+	<programme channel="6114" start="20260928023000 +0000" stop="20260928033000 +0000">
+		<title>2026 WorldSBK: Rd 10 Italian Round Episode 2</title>
+		<desc>The FIM Superbike World Championship is the leading production motorcycle racing series in the world with over 100 riders from more than 20 countries competing in various classes over 12 rounds.</desc>
+	</programme>
+	<programme channel="6114" start="20260928033000 +0000" stop="20260928060000 +0000">
+		<title>2026 WorldSBK: Rd 10 Italian Round Episode 2</title>
+		<desc>The FIM Superbike World Championship is the leading production motorcycle racing series in the world with over 100 riders from more than 20 countries competing in various classes over 12 rounds.</desc>
+	</programme>
+	<programme channel="6114" start="20260928060000 +0000" stop="20260928070000 +0000">
+		<title>2026 WorldSBK: Rd 10 Italian Round</title>
+		<desc>The FIM Superbike World Championship is the leading production motorcycle racing series in the world with over 100 riders from more than 20 countries competing in various classes over 12 rounds.</desc>
+	</programme>
+	<programme channel="6114" start="20260928070000 +0000" stop="20260928080000 +0000">
+		<title>2026 WorldSBK: Rd 10 Italian Round</title>
+		<desc>The FIM Superbike World Championship is the leading production motorcycle racing series in the world with over 100 riders from more than 20 countries competing in various classes over 12 rounds.</desc>
+	</programme>
+	<programme channel="6114" start="20260928080000 +0000" stop="20260928113000 +0000">
+		<title>2026 WorldSBK: Rd 10 Italian Round Episode 2</title>
+		<desc>The FIM Superbike World Championship is the leading production motorcycle racing series in the world with over 100 riders from more than 20 countries competing in various classes over 12 rounds.</desc>
+	</programme>
+	<programme channel="6114" start="20260928113000 +0000" stop="20260928123000 +0000">
+		<title>2026 WorldSBK: Rd 10 Italian Round</title>
+		<desc>The FIM Superbike World Championship is the leading production motorcycle racing series in the world with over 100 riders from more than 20 countries competing in various classes over 12 rounds.</desc>
 	</programme>
 	<programme channel="6115" start="20260921160000 +0000" stop="20260921180000 +0000">
 		<title>SRO Japan Cup 2026, Suzuka Rd 7 &amp; 8 Episode 2</title>
@@ -10296,19 +10460,15 @@
 		<title>25/9 2026 MLB Regular Season (Live)</title>
 		<desc>Major League Baseball is the most historic professional sports league consists of 30 member clubs in the U.S. and Canada, representing the highest level of professional baseball.</desc>
 	</programme>
-	<programme channel="6115" start="20260925050000 +0000" stop="20260925053000 +0000">
-		<title>52 SUPER SERIES GP Sailing show Episode 2</title>
-		<desc>The 2026 52 SUPER SERIES delivers elite grand prix sailing. 14 international teams battle on identical, high-speed TP52 yachts across 5 European venues, where world-class victories are decided by inches</desc>
-	</programme>
-	<programme channel="6115" start="20260925053000 +0000" stop="20260925093000 +0000">
+	<programme channel="6115" start="20260925050000 +0000" stop="20260925071500 +0000">
 		<title>WTT Star Contender Astana 2026</title>
 		<desc>Emerging top table tennis players compete for vital ranking points and the opportunity to take the next step toward the WTT Champions Series.</desc>
 	</programme>
-	<programme channel="6115" start="20260925093000 +0000" stop="20260925140000 +0000">
+	<programme channel="6115" start="20260925071500 +0000" stop="20260925141000 +0000">
 		<title>WTT Star Contender Astana 2026</title>
 		<desc>Emerging top table tennis players compete for vital ranking points and the opportunity to take the next step toward the WTT Champions Series.</desc>
 	</programme>
-	<programme channel="6115" start="20260925140000 +0000" stop="20260925150500 +0000">
+	<programme channel="6115" start="20260925141000 +0000" stop="20260925150500 +0000">
 		<title>SailGP S6: Rolex Switzerland Grand Prix</title>
 		<desc>Adrenaline-fueled races, legendary global locations, rival national teams and record-breaking speeds. SailGP is the most exciting racing on water - Powered By Nature.</desc>
 	</programme>
@@ -10328,23 +10488,23 @@
 		<title>WPBL S2, Mumbai Highlights</title>
 		<desc>World Pickleball League Season 2 heads to Mumbai, as top international players compete in fast-paced team action, showcasing skill, intensity, and excitement in one of the sport's fast-growing leagues</desc>
 	</programme>
-	<programme channel="6115" start="20260925201500 +0000" stop="20260925210000 +0000">
+	<programme channel="6115" start="20260925201500 +0000" stop="20260925205500 +0000">
 		<title>2026 Moto4 British Cup Rd 6 Thruxton Episode 2</title>
 		<desc>Young riders compete in this exciting Moto4 series, showcasing emerging talent, close racing, and the next generation of motorcycle racing stars.</desc>
 	</programme>
-	<programme channel="6115" start="20260925210000 +0000" stop="20260925220000 +0000">
+	<programme channel="6115" start="20260925205500 +0000" stop="20260925214300 +0000">
 		<title>2026 Harley-Davidson Bagger World Cup Rd 6 Red Bull Ring</title>
 		<desc>The 2026 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
 	</programme>
-	<programme channel="6115" start="20260925220000 +0000" stop="20260925230000 +0000">
+	<programme channel="6115" start="20260925214300 +0000" stop="20260925223500 +0000">
 		<title>2026 Harley-Davidson Bagger World Cup Rd 6 Red Bull Ring</title>
 		<desc>The 2026 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
 	</programme>
-	<programme channel="6115" start="20260925230000 +0000" stop="20260926003000 +0000">
+	<programme channel="6115" start="20260925223500 +0000" stop="20260926001000 +0000">
 		<title>SailGP S6: Rolex Switzerland Grand Prix Episode 2</title>
 		<desc>Adrenaline-fueled races, legendary global locations, rival national teams and record-breaking speeds. SailGP is the most exciting racing on water - Powered By Nature.</desc>
 	</programme>
-	<programme channel="6115" start="20260926003000 +0000" stop="20260926021500 +0000">
+	<programme channel="6115" start="20260926001000 +0000" stop="20260926021500 +0000">
 		<title>SailGP S6: Rolex Switzerland Grand Prix Episode 2</title>
 		<desc>Adrenaline-fueled races, legendary global locations, rival national teams and record-breaking speeds. SailGP is the most exciting racing on water - Powered By Nature.</desc>
 	</programme>
@@ -10364,11 +10524,11 @@
 		<title>2026 Longines Global Champions Tour, Valkenswaard</title>
 		<desc>The world's top show jumping riders compete across prestigious international venues, showcasing elite skill, speed, and championship drama throughout the season.</desc>
 	</programme>
-	<programme channel="6115" start="20260926073000 +0000" stop="20260926110000 +0000">
+	<programme channel="6115" start="20260926073000 +0000" stop="20260926111500 +0000">
 		<title>WTT Star Contender Astana 2026</title>
 		<desc>Emerging top table tennis players compete for vital ranking points and the opportunity to take the next step toward the WTT Champions Series.</desc>
 	</programme>
-	<programme channel="6115" start="20260926110000 +0000" stop="20260926133000 +0000">
+	<programme channel="6115" start="20260926111500 +0000" stop="20260926133000 +0000">
 		<title>WTT Star Contender Astana 2026</title>
 		<desc>Emerging top table tennis players compete for vital ranking points and the opportunity to take the next step toward the WTT Champions Series.</desc>
 	</programme>
@@ -10424,9 +10584,41 @@
 		<title>2026 FIM Endurance World Championship</title>
 		<desc>Top riders and teams take on the ultimate test of speed and endurance, battling through demanding long-distance races in world-class motorcycle competition.</desc>
 	</programme>
-	<programme channel="6115" start="20260927150000 +0000" stop="20260927163000 +0000">
-		<title>SailGP S6: Rolex Switzerland Grand Prix Episode 3</title>
+	<programme channel="6115" start="20260927150000 +0000" stop="20260927170500 +0000">
+		<title>SailGP S6: Rolex Switzerland Grand Prix Episode 2</title>
 		<desc>Adrenaline-fueled races, legendary global locations, rival national teams and record-breaking speeds. SailGP is the most exciting racing on water - Powered By Nature.</desc>
+	</programme>
+	<programme channel="6115" start="20260927170500 +0000" stop="20260927180500 +0000">
+		<title>2026 MotoGP Rd 15 Qatar Airways Grand Prix of Austria Episode 2</title>
+		<desc>The 2026 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
+	</programme>
+	<programme channel="6115" start="20260927180500 +0000" stop="20260927204500 +0000">
+		<title>2026 Longines Global Champions Tour, Vienna (Live)</title>
+		<desc>The world's top show jumping riders compete across prestigious international venues, showcasing elite skill, speed, and championship drama throughout the season.</desc>
+	</programme>
+	<programme channel="6115" start="20260927204500 +0000" stop="20260928014500 +0000">
+		<title>2026 US Open Tennis Championships Day 1</title>
+		<desc>The finest tennis players on the planet lock horns on the hard-courts of Flushing Meadows in pursuit of the sport's toughest title at the fourth and final Grand Slam of the year.</desc>
+	</programme>
+	<programme channel="6115" start="20260928014500 +0000" stop="20260928080000 +0000">
+		<title>2026 MotoJunior FIM World C'ship, MotorLand Aragon</title>
+		<desc>Rising young riders compete in this exciting junior championship, showcasing raw talent, close racing, and the future stars of motorcycle racing.</desc>
+	</programme>
+	<programme channel="6115" start="20260928080000 +0000" stop="20260928090000 +0000">
+		<title>SailGP S6: Rolex Switzerland Grand Prix Episode 2</title>
+		<desc>Adrenaline-fueled races, legendary global locations, rival national teams and record-breaking speeds. SailGP is the most exciting racing on water - Powered By Nature.</desc>
+	</programme>
+	<programme channel="6115" start="20260928090000 +0000" stop="20260928093000 +0000">
+		<title>2026 MotoGP After the flag</title>
+		<desc>Recap the action, behind-the-scenes and rider interviews at the MotoGP 2026.</desc>
+	</programme>
+	<programme channel="6115" start="20260928093000 +0000" stop="20260928123000 +0000">
+		<title>2026 Longines Global Champions Tour, Vienna</title>
+		<desc>The world's top show jumping riders compete across prestigious international venues, showcasing elite skill, speed, and championship drama throughout the season.</desc>
+	</programme>
+	<programme channel="6115" start="20260928123000 +0000" stop="20260928133000 +0000">
+		<title>2026 MotoGP Factory Floor: the Red Bull KTM vlog</title>
+		<desc>Follow Red Bull KTM Factory Racing and riders Pedro Acosta and Brad Binder through the 2026 MotoGP season, with a unique perspective and exclusive behind-the-scenes access from each race weekend.</desc>
 	</programme>
 	<programme channel="5118" start="20260921151000 +0000" stop="20260921170000 +0000">
 		<title>Top 14 La Rochelle v Racing</title>
@@ -17056,17 +17248,13 @@
 		<title>Science View</title>
 		<desc>Toji is a traditional Japanese practice of an extended stay at a hot spring to restore body and mind. Find out how hot springs may benefit our health.</desc>
 	</programme>
-	<programme channel="5157" start="20260923040000 +0000" stop="20260923041000 +0000">
+	<programme channel="5157" start="20260923040000 +0000" stop="20260923042700 +0000">
 		<title>NHK NEWSLINE</title>
 		<desc>NHK NEWSLINE brings you up to date with the latest from Japan, Asia and around the world. Our team covers breaking news and major developments, with trusted anchors to tie it all together.</desc>
 	</programme>
-	<programme channel="5157" start="20260923041000 +0000" stop="20260923042500 +0000">
-		<title>The World Heritage Sites in Japan</title>
-		<desc>The miners of Iwami Ginzan worked in darkness, risking their lives for fortune and glory. The area once produced quantities of silver yet had little impact on the beauty of the surrounding mountains.</desc>
-	</programme>
-	<programme channel="5157" start="20260923042500 +0000" stop="20260923043000 +0000">
-		<title>Nun's Cookbook</title>
-		<desc>The nuns of Otowasan Kannonji Temple show us how to make vinegared oyster mushrooms. Add celery and sweet persimmons to fresh oyster mushrooms. Add homemade iri-zake and squeezed kabosu.</desc>
+	<programme channel="5157" start="20260923042700 +0000" stop="20260923043000 +0000">
+		<title>The Masterpieces of Ukiyo-e producer Tsutaju</title>
+		<desc>This miniseries presents the masterpieces of Tsutaju, a brilliant ukiyo-e producer of the Edo period. This episode features ukiyo-e artist Sharaku's "The Actor Ichikawa Ebizo as Takemura Sadanoshin."</desc>
 	</programme>
 	<programme channel="5157" start="20260923043000 +0000" stop="20260923045700 +0000">
 		<title>GRAND SUMO Highlights</title>
@@ -17562,7 +17750,7 @@
 	</programme>
 	<programme channel="5157" start="20260924143000 +0000" stop="20260924150000 +0000">
 		<title>Japan Railway Journal</title>
-		<desc>Go behind the scenes of Japan's amazing railways! Interesting facts, new technologies, expert tips plus where to go, how to get there and more!</desc>
+		<desc>Toyohashi Railroad's City Line in Aichi Prefecture has been running for over 100 years. See how urban development and local support has kept the streetcar on track.</desc>
 	</programme>
 	<programme channel="5157" start="20260924150000 +0000" stop="20260924153000 +0000">
 		<title>NHK NEWSLINE</title>
@@ -17630,7 +17818,7 @@
 	</programme>
 	<programme channel="5157" start="20260924203000 +0000" stop="20260924210000 +0000">
 		<title>Japan Railway Journal</title>
-		<desc>Go behind the scenes of Japan's amazing railways! Interesting facts, new technologies, expert tips plus where to go, how to get there and more!</desc>
+		<desc>Toyohashi Railroad's City Line in Aichi Prefecture has been running for over 100 years. See how urban development and local support has kept the streetcar on track.</desc>
 	</programme>
 	<programme channel="5157" start="20260924210000 +0000" stop="20260924213000 +0000">
 		<title>NHK NEWSLINE</title>
@@ -17698,7 +17886,7 @@
 	</programme>
 	<programme channel="5157" start="20260925033000 +0000" stop="20260925040000 +0000">
 		<title>Japan Railway Journal</title>
-		<desc>Go behind the scenes of Japan's amazing railways! Interesting facts, new technologies, expert tips plus where to go, how to get there and more!</desc>
+		<desc>Toyohashi Railroad's City Line in Aichi Prefecture has been running for over 100 years. See how urban development and local support has kept the streetcar on track.</desc>
 	</programme>
 	<programme channel="5157" start="20260925040000 +0000" stop="20260925043000 +0000">
 		<title>NHK NEWSLINE</title>
@@ -17758,7 +17946,7 @@
 	</programme>
 	<programme channel="5157" start="20260925093000 +0000" stop="20260925100000 +0000">
 		<title>Japan Railway Journal</title>
-		<desc>Go behind the scenes of Japan's amazing railways! Interesting facts, new technologies, expert tips plus where to go, how to get there and more!</desc>
+		<desc>Toyohashi Railroad's City Line in Aichi Prefecture has been running for over 100 years. See how urban development and local support has kept the streetcar on track.</desc>
 	</programme>
 	<programme channel="5157" start="20260925100000 +0000" stop="20260925103000 +0000">
 		<title>NHK NEWS 7</title>
@@ -17810,7 +17998,7 @@
 	</programme>
 	<programme channel="5157" start="20260925143000 +0000" stop="20260925150000 +0000">
 		<title>Design X Stories</title>
-		<desc>Design X Stories</desc>
+		<desc>Today's theme: Design Hunting in Aichi. Lying at the heart of Japan's main island, this storied prefecture has many local industries that are entwined with its history. Join us on a design hunt!</desc>
 	</programme>
 	<programme channel="5157" start="20260925150000 +0000" stop="20260925153000 +0000">
 		<title>NHK NEWSLINE</title>
@@ -17874,7 +18062,7 @@
 	</programme>
 	<programme channel="5157" start="20260925203000 +0000" stop="20260925210000 +0000">
 		<title>Design X Stories</title>
-		<desc>Design X Stories</desc>
+		<desc>Today's theme: Design Hunting in Aichi. Lying at the heart of Japan's main island, this storied prefecture has many local industries that are entwined with its history. Join us on a design hunt!</desc>
 	</programme>
 	<programme channel="5157" start="20260925210000 +0000" stop="20260925213000 +0000">
 		<title>NHK NEWSLINE</title>
@@ -17918,7 +18106,7 @@
 	</programme>
 	<programme channel="5157" start="20260926001000 +0000" stop="20260926010000 +0000">
 		<title>Documentary 360</title>
-		<desc>Documentary 360</desc>
+		<desc>An exclusive look inside Toyota, the world's top automaker. How will Chairman Toyoda Akio and engineers determine the future of this Japanese manufacturing giant?</desc>
 	</programme>
 	<programme channel="5157" start="20260926010000 +0000" stop="20260926011000 +0000">
 		<title>NHK NEWSLINE</title>
@@ -17946,7 +18134,7 @@
 	</programme>
 	<programme channel="5157" start="20260926031000 +0000" stop="20260926034000 +0000">
 		<title>Design X Stories</title>
-		<desc>Design X Stories</desc>
+		<desc>Today's theme: Design Hunting in Aichi. Lying at the heart of Japan's main island, this storied prefecture has many local industries that are entwined with its history. Join us on a design hunt!</desc>
 	</programme>
 	<programme channel="5157" start="20260926034000 +0000" stop="20260926035000 +0000">
 		<title>Story Land</title>
@@ -18002,7 +18190,7 @@
 	</programme>
 	<programme channel="5157" start="20260926061000 +0000" stop="20260926070000 +0000">
 		<title>Documentary 360</title>
-		<desc>Documentary 360</desc>
+		<desc>An exclusive look inside Toyota, the world's top automaker. How will Chairman Toyoda Akio and engineers determine the future of this Japanese manufacturing giant?</desc>
 	</programme>
 	<programme channel="5157" start="20260926070000 +0000" stop="20260926080000 +0000">
 		<title>NHK NEWSLINE</title>
@@ -18022,7 +18210,7 @@
 	</programme>
 	<programme channel="5157" start="20260926091000 +0000" stop="20260926094000 +0000">
 		<title>Design X Stories</title>
-		<desc>Design X Stories</desc>
+		<desc>Today's theme: Design Hunting in Aichi. Lying at the heart of Japan's main island, this storied prefecture has many local industries that are entwined with its history. Join us on a design hunt!</desc>
 	</programme>
 	<programme channel="5157" start="20260926094000 +0000" stop="20260926095000 +0000">
 		<title>Story Land</title>
@@ -18066,7 +18254,7 @@
 	</programme>
 	<programme channel="5157" start="20260926121000 +0000" stop="20260926130000 +0000">
 		<title>Documentary 360</title>
-		<desc>Documentary 360</desc>
+		<desc>An exclusive look inside Toyota, the world's top automaker. How will Chairman Toyoda Akio and engineers determine the future of this Japanese manufacturing giant?</desc>
 	</programme>
 	<programme channel="5157" start="20260926130000 +0000" stop="20260926131000 +0000">
 		<title>NHK NEWSLINE</title>
@@ -18150,7 +18338,7 @@
 	</programme>
 	<programme channel="5157" start="20260926181000 +0000" stop="20260926190000 +0000">
 		<title>Documentary 360</title>
-		<desc>Documentary 360</desc>
+		<desc>An exclusive look inside Toyota, the world's top automaker. How will Chairman Toyoda Akio and engineers determine the future of this Japanese manufacturing giant?</desc>
 	</programme>
 	<programme channel="5157" start="20260926190000 +0000" stop="20260926191000 +0000">
 		<title>NHK NEWSLINE</title>
@@ -18222,7 +18410,7 @@
 	</programme>
 	<programme channel="5157" start="20260927000000 +0000" stop="20260927010000 +0000">
 		<title>Documentary 360</title>
-		<desc>NHK WORLD-JAPAN's flagship documentary series offers must-see episodes on politics, the economy, social trends, science and the environment in Japan and beyond.</desc>
+		<desc>Fu Yi-yao, world-renowned Chinese ink painter and Japan resident, is commissioned by Taiwan to create a work imbued with the power of art as tensions with China rise. What message does it convey?</desc>
 	</programme>
 	<programme channel="5157" start="20260927010000 +0000" stop="20260927011000 +0000">
 		<title>NHK NEWSLINE</title>
@@ -18466,7 +18654,7 @@
 	</programme>
 	<programme channel="5157" start="20260927180000 +0000" stop="20260927190000 +0000">
 		<title>Documentary 360</title>
-		<desc>NHK WORLD-JAPAN's flagship documentary series offers must-see episodes on politics, the economy, social trends, science and the environment in Japan and beyond.</desc>
+		<desc>Fu Yi-yao, world-renowned Chinese ink painter and Japan resident, is commissioned by Taiwan to create a work imbued with the power of art as tensions with China rise. What message does it convey?</desc>
 	</programme>
 	<programme channel="5157" start="20260927190000 +0000" stop="20260927191000 +0000">
 		<title>NHK NEWSLINE</title>
@@ -23868,29 +24056,21 @@
 		<title>HERITAGE JOURNEY</title>
 		<desc>Whispers from an ancient kingdom</desc>
 	</programme>
-	<programme channel="5161" start="20260921160000 +0000" stop="20260921163000 +0000">
-		<title>DW News</title>
-		<desc>DW News</desc>
+	<programme channel="5161" start="20260921153000 +0000" stop="20260921163000 +0000">
+		<title>Global Us</title>
+		<desc>Could sound bring dead coral reefs back to life? South Africa is fighting water shortages with nature. And China is turning to robots to help care for its aging population.</desc>
 	</programme>
-	<programme channel="5161" start="20260921163000 +0000" stop="20260921170000 +0000">
+	<programme channel="5161" start="20260921163000 +0000" stop="20260921171500 +0000">
 		<title>DocFilm</title>
 		<desc>Marine pilots must make crucial decisions under extreme conditions. Transferring from a cargo ship to a small pilot boat in hurricane-force gusts can be fatal.</desc>
-	</programme>
-	<programme channel="5161" start="20260921170000 +0000" stop="20260921171500 +0000">
-		<title>DW News</title>
-		<desc>DW News</desc>
 	</programme>
 	<programme channel="5161" start="20260921171500 +0000" stop="20260921173000 +0000">
 		<title>Planet A</title>
 		<desc>In a futuristic Dutch greenhouse, plants ride conveyor belts instead of growing in fields — constantly scanned and turned into data. By exposing them to heat, drought, soil salinity and more, researchers track how they respond in real time. The goal: fast‑forward evolution and select crops fit for a warming planet, determining the food that ends up on our plates.</desc>
 	</programme>
-	<programme channel="5161" start="20260921173000 +0000" stop="20260921180000 +0000">
+	<programme channel="5161" start="20260921173000 +0000" stop="20260921183000 +0000">
 		<title>The Dip</title>
 		<desc>As an oil shock drives inflation and borrowing costs higher, the investors financing governments are gaining greater power over public spending, economic policy and political promises. Guests Kathleen Brooks, Research Director at XTB, and Carsten Brzeski, Global Head of Macro at ING, explain the consequences.</desc>
-	</programme>
-	<programme channel="5161" start="20260921180000 +0000" stop="20260921183000 +0000">
-		<title>DW News</title>
-		<desc>DW News</desc>
 	</programme>
 	<programme channel="5161" start="20260921183000 +0000" stop="20260921190000 +0000">
 		<title>Close up</title>
@@ -23908,13 +24088,9 @@
 		<title>Planet A</title>
 		<desc>In a futuristic Dutch greenhouse, plants ride conveyor belts instead of growing in fields — constantly scanned and turned into data. By exposing them to heat, drought, soil salinity and more, researchers track how they respond in real time. The goal: fast‑forward evolution and select crops fit for a warming planet, determining the food that ends up on our plates.</desc>
 	</programme>
-	<programme channel="5161" start="20260921193000 +0000" stop="20260921200000 +0000">
+	<programme channel="5161" start="20260921193000 +0000" stop="20260921203000 +0000">
 		<title>Under the Baobab</title>
 		<desc>For nearly ten years, Cameroon's Anglophone conflict has survived military operations, national dialogue, international mediation attempts and repeated calls for peace. Now Archbishop Andrew Nkea says separatists at home and abroad are open to dialogue.</desc>
-	</programme>
-	<programme channel="5161" start="20260921200000 +0000" stop="20260921203000 +0000">
-		<title>DW News</title>
-		<desc>DW News</desc>
 	</programme>
 	<programme channel="5161" start="20260921203000 +0000" stop="20260921210000 +0000">
 		<title>The Day</title>
@@ -24104,29 +24280,21 @@
 		<title>In Good Shape</title>
 		<desc>A remarkable survival story opens this episode, followed by a look at how our lungs affect more than we think. Plus: Sleep apnea, cancer prevention, and the amazing benefits of exercise.</desc>
 	</programme>
-	<programme channel="5161" start="20260922120000 +0000" stop="20260922120200 +0000">
+	<programme channel="5161" start="20260922120000 +0000" stop="20260922120300 +0000">
 		<title>DW News</title>
 		<desc>DW News</desc>
 	</programme>
-	<programme channel="5161" start="20260922120200 +0000" stop="20260922121500 +0000">
+	<programme channel="5161" start="20260922120300 +0000" stop="20260922123000 +0000">
 		<title>DW News Focus</title>
 		<desc>DW News Focus</desc>
 	</programme>
-	<programme channel="5161" start="20260922121500 +0000" stop="20260922124500 +0000">
+	<programme channel="5161" start="20260922123000 +0000" stop="20260922130000 +0000">
 		<title>Close up</title>
 		<desc>Hotter temperatures, falling groundwater levels, and dry soil are putting pressure on Germany's water resources. Can plans to improve water retention and restore river landscapes solve the problem?</desc>
 	</programme>
-	<programme channel="5161" start="20260922124500 +0000" stop="20260922130000 +0000">
-		<title>Shift</title>
-		<desc>Humanoid robots that cook, cleanand help around the house? Tech companies are racing to bring humanoid robot assistants into our daily lives. But how close are we really to that future?</desc>
-	</programme>
-	<programme channel="5161" start="20260922130000 +0000" stop="20260922130200 +0000">
+	<programme channel="5161" start="20260922130000 +0000" stop="20260922131500 +0000">
 		<title>DW News</title>
 		<desc>DW News</desc>
-	</programme>
-	<programme channel="5161" start="20260922130200 +0000" stop="20260922131500 +0000">
-		<title>DW News Focus</title>
-		<desc>DW News Focus</desc>
 	</programme>
 	<programme channel="5161" start="20260922131500 +0000" stop="20260922133000 +0000">
 		<title>Business Beyond</title>
@@ -24136,17 +24304,13 @@
 		<title>Eco India</title>
 		<desc>In Mumbai urban foraging is helping residents get in touch with nature, and a community kitchen in a Gujarati village has unexpected environmental benefits.</desc>
 	</programme>
-	<programme channel="5161" start="20260922140000 +0000" stop="20260922140200 +0000">
+	<programme channel="5161" start="20260922140000 +0000" stop="20260922143000 +0000">
 		<title>DW News</title>
 		<desc>DW News</desc>
 	</programme>
-	<programme channel="5161" start="20260922140200 +0000" stop="20260922141500 +0000">
+	<programme channel="5161" start="20260922143000 +0000" stop="20260922144500 +0000">
 		<title>DW News Focus</title>
 		<desc>DW News Focus</desc>
-	</programme>
-	<programme channel="5161" start="20260922141500 +0000" stop="20260922144500 +0000">
-		<title>Close up</title>
-		<desc>Hotter temperatures, falling groundwater levels, and dry soil are putting pressure on Germany's water resources. Can plans to improve water retention and restore river landscapes solve the problem?</desc>
 	</programme>
 	<programme channel="5161" start="20260922144500 +0000" stop="20260922150000 +0000">
 		<title>Reporter</title>
@@ -24188,17 +24352,13 @@
 		<title>Eco Africa</title>
 		<desc>Conservationists hope to save the guitarfish in Ghana - with snails. Plus: An underwater kelp farm in Namibia.</desc>
 	</programme>
-	<programme channel="5161" start="20260922190000 +0000" stop="20260922190200 +0000">
+	<programme channel="5161" start="20260922190000 +0000" stop="20260922190300 +0000">
 		<title>DW News</title>
 		<desc>DW News</desc>
 	</programme>
-	<programme channel="5161" start="20260922190200 +0000" stop="20260922191500 +0000">
+	<programme channel="5161" start="20260922190300 +0000" stop="20260922193000 +0000">
 		<title>DW News Focus</title>
 		<desc>DW News Focus</desc>
-	</programme>
-	<programme channel="5161" start="20260922191500 +0000" stop="20260922193000 +0000">
-		<title>Business Beyond</title>
-		<desc>Europe is falling behind. Its share of the global economy has been shrinking for decades, and it's projected to grow more slowly than rivals like the US and China.But one of Europe's biggest economic problems may be of its own making. The EU was built to function as one huge economy — where people, money, goods and businesses can move freely across borders.</desc>
 	</programme>
 	<programme channel="5161" start="20260922193000 +0000" stop="20260922200000 +0000">
 		<title>Tomorrow Today</title>
@@ -24212,11 +24372,11 @@
 		<title>The Day</title>
 		<desc>The Day</desc>
 	</programme>
-	<programme channel="5161" start="20260922210000 +0000" stop="20260922210200 +0000">
+	<programme channel="5161" start="20260922210000 +0000" stop="20260922210300 +0000">
 		<title>DW News</title>
 		<desc>DW News</desc>
 	</programme>
-	<programme channel="5161" start="20260922210200 +0000" stop="20260922211500 +0000">
+	<programme channel="5161" start="20260922210300 +0000" stop="20260922211500 +0000">
 		<title>DW News Focus</title>
 		<desc>DW News Focus</desc>
 	</programme>
@@ -24240,13 +24400,9 @@
 		<title>The 77 Percent</title>
 		<desc>In this 77 Street Debate, young South Africans in Newclare challenge old labels, push back against stereotypes and redefine identity.</desc>
 	</programme>
-	<programme channel="5161" start="20260922230000 +0000" stop="20260922230200 +0000">
+	<programme channel="5161" start="20260922230000 +0000" stop="20260922231500 +0000">
 		<title>DW News</title>
 		<desc>DW News</desc>
-	</programme>
-	<programme channel="5161" start="20260922230200 +0000" stop="20260922231500 +0000">
-		<title>DW News Focus</title>
-		<desc>DW News Focus</desc>
 	</programme>
 	<programme channel="5161" start="20260922231500 +0000" stop="20260922233000 +0000">
 		<title>Business Beyond</title>
@@ -25633,8 +25789,8 @@
 		<desc>Shift</desc>
 	</programme>
 	<programme channel="5161" start="20260927143000 +0000" stop="20260927150000 +0000">
-		<title>Best of DW Podcasts</title>
-		<desc>Best of DW Podcasts</desc>
+		<title>Don't hold back</title>
+		<desc>From loss to twin motherhood. From rural roots to boardrooms. In this inspiring episode, powerhouse speaker and mother of twins Sibulele Sibaca-Nomnganga joins Nozibele to unpack what it truly means to overcome the odds. She opens up about navigating miscarriage, fertility treatment, societal pressure, and the choice to tell her Story.</desc>
 	</programme>
 	<programme channel="5161" start="20260927150000 +0000" stop="20260927151500 +0000">
 		<title>DW News</title>
@@ -25729,8 +25885,8 @@
 		<desc>At "Travel Through Africa” in Lilongwe, Malawi, we explore how creativity can open doors. From film and sport to art and food, Africans are making culture, opportunity and experiences more accessible to all.</desc>
 	</programme>
 	<programme channel="5161" start="20260927223000 +0000" stop="20260927230000 +0000">
-		<title>Best of DW Podcasts</title>
-		<desc>Best of DW Podcasts</desc>
+		<title>Don't hold back</title>
+		<desc>From loss to twin motherhood. From rural roots to boardrooms. In this inspiring episode, powerhouse speaker and mother of twins Sibulele Sibaca-Nomnganga joins Nozibele to unpack what it truly means to overcome the odds. She opens up about navigating miscarriage, fertility treatment, societal pressure, and the choice to tell her Story.</desc>
 	</programme>
 	<programme channel="5161" start="20260927230000 +0000" stop="20260927230200 +0000">
 		<title>DW News</title>
@@ -25785,8 +25941,8 @@
 		<desc>Eco India</desc>
 	</programme>
 	<programme channel="5161" start="20260928023000 +0000" stop="20260928030000 +0000">
-		<title>Best of DW Podcasts</title>
-		<desc>Best of DW Podcasts</desc>
+		<title>Don't hold back</title>
+		<desc>From loss to twin motherhood. From rural roots to boardrooms. In this inspiring episode, powerhouse speaker and mother of twins Sibulele Sibaca-Nomnganga joins Nozibele to unpack what it truly means to overcome the odds. She opens up about navigating miscarriage, fertility treatment, societal pressure, and the choice to tell her Story.</desc>
 	</programme>
 	<programme channel="5161" start="20260928030000 +0000" stop="20260928030200 +0000">
 		<title>DW News</title>
@@ -25865,8 +26021,8 @@
 		<desc>2024 was a record year for Norwegian tourism, with almost 38.6 million overnight stays. The country's cuisine, culture, and unique destinations entice visitors. But tourism brings its own problems.</desc>
 	</programme>
 	<programme channel="5161" start="20260928083000 +0000" stop="20260928090000 +0000">
-		<title>Best of DW Podcasts</title>
-		<desc>Best of DW Podcasts</desc>
+		<title>Don't hold back</title>
+		<desc>From loss to twin motherhood. From rural roots to boardrooms. In this inspiring episode, powerhouse speaker and mother of twins Sibulele Sibaca-Nomnganga joins Nozibele to unpack what it truly means to overcome the odds. She opens up about navigating miscarriage, fertility treatment, societal pressure, and the choice to tell her Story.</desc>
 	</programme>
 	<programme channel="5161" start="20260928090000 +0000" stop="20260928090200 +0000">
 		<title>DW News</title>
@@ -28612,17 +28768,17 @@
 		<title>CNN Newsroom Episode 181</title>
 		<desc>Live context and clarity to the day's top stories from around the world.</desc>
 	</programme>
-	<programme channel="5167" start="20260926100000 +0000" stop="20260926103000 +0000">
+	<programme channel="5167" start="20260926100000 +0000" stop="20260926110000 +0000">
+		<title>CNN This Morning Weekend Episode 153</title>
+		<desc>Start your day with Victor Blackwell bringing you the latest headlines and analysis.</desc>
+	</programme>
+	<programme channel="5167" start="20260926110000 +0000" stop="20260926113000 +0000">
 		<title>African Voices Episode 234</title>
 		<desc>Nigerian chef and restaurateur Hilda Baci sits down with Larry Madowo to talk about her record-breaking rise, the global appeal of Nigerian cuisine.</desc>
 	</programme>
-	<programme channel="5167" start="20260926103000 +0000" stop="20260926110000 +0000">
+	<programme channel="5167" start="20260926113000 +0000" stop="20260926120000 +0000">
 		<title>Connecting Africa Episode 9</title>
 		<desc>From futuristic transport systems in North Africa to the rise of AI-powered data infrastructure, we explore how major projects are economic growth.</desc>
-	</programme>
-	<programme channel="5167" start="20260926110000 +0000" stop="20260926120000 +0000">
-		<title>CNN This Morning Weekend Episode 154</title>
-		<desc>Start your day with Victor Blackwell bringing you the latest headlines and analysis.</desc>
 	</programme>
 	<programme channel="5167" start="20260926120000 +0000" stop="20260926130000 +0000">
 		<title>First of All With Victor Blackwell Episode 39</title>
@@ -28664,9 +28820,13 @@
 		<title>CNN Newsroom Saturday Episode 308</title>
 		<desc>Updates of the latest news from around the world.</desc>
 	</programme>
-	<programme channel="5167" start="20260926200000 +0000" stop="20260926210000 +0000">
-		<title>The Arena: Saturday Episode 40</title>
-		<desc>Kasie Hunt brings key players into the arena for sharp analysis and panel discussion on the week's news in politics and culture.</desc>
+	<programme channel="5167" start="20260926200000 +0000" stop="20260926203000 +0000">
+		<title>Answering Tomorrow Episode 101</title>
+		<desc>Our lifespans are increasing at an new pace. It's no longer enough to ask if we're going to live to 150 but whether or not we're prepared to.</desc>
+	</programme>
+	<programme channel="5167" start="20260926203000 +0000" stop="20260926210000 +0000">
+		<title>Quest's World of Wonder Episode 9</title>
+		<desc>Richard Quest dives headfirst into Porto, a city where centuries of tradition collide with a booming new popularity.</desc>
 	</programme>
 	<programme channel="5167" start="20260926210000 +0000" stop="20260926213000 +0000">
 		<title>World Sport Episode 703</title>
@@ -28676,13 +28836,21 @@
 		<title>CNN Creators Episode 38</title>
 		<desc>Live from Doha, Qatar, CNN Creators follows a team of digital-native storytellers as they navigate the stories that matter most, with a focus on tech, art, culture, sport, and social trends.</desc>
 	</programme>
-	<programme channel="5167" start="20260926220000 +0000" stop="20260926230000 +0000">
+	<programme channel="5167" start="20260926220000 +0000" stop="20260926224500 +0000">
 		<title>CNN Newsroom Saturday Episode 311</title>
-		<desc>Updates of the latest news from around the world.</desc>
+		<desc>CNN Newsroom Saturday</desc>
 	</programme>
-	<programme channel="5167" start="20260926230000 +0000" stop="20260927000000 +0000">
-		<title>CNN Newsroom Saturday Episode 312</title>
-		<desc>Updates of the latest news from around the world.</desc>
+	<programme channel="5167" start="20260926224500 +0000" stop="20260926230000 +0000">
+		<title>Marketplace Africa Episode 603</title>
+		<desc>Marketplace Africa offers unique access to the latest African market information, with a look at events and developments that impact the business world.</desc>
+	</programme>
+	<programme channel="5167" start="20260926230000 +0000" stop="20260926233000 +0000">
+		<title>Answering Tomorrow Episode 101</title>
+		<desc>Our lifespans are increasing at an new pace. It's no longer enough to ask if we're going to live to 150 but whether or not we're prepared to.</desc>
+	</programme>
+	<programme channel="5167" start="20260926233000 +0000" stop="20260927000000 +0000">
+		<title>Quest's World of Wonder Episode 9</title>
+		<desc>Richard Quest dives headfirst into Porto, a city where centuries of tradition collide with a booming new popularity.</desc>
 	</programme>
 	<programme channel="5167" start="20260927000000 +0000" stop="20260927010000 +0000">
 		<title>Smerconish Episode 39</title>
@@ -28704,25 +28872,17 @@
 		<title>African Voices Episode 234</title>
 		<desc>Nigerian chef and restaurateur Hilda Baci sits down with Larry Madowo to talk about her record-breaking rise, the global appeal of Nigerian cuisine.</desc>
 	</programme>
-	<programme channel="5167" start="20260927030000 +0000" stop="20260927033000 +0000">
-		<title>Quest's World of Wonder Episode 9</title>
-		<desc>Richard Quest dives headfirst into Porto, a city where centuries of tradition collide with a booming new popularity.</desc>
-	</programme>
-	<programme channel="5167" start="20260927033000 +0000" stop="20260927034500 +0000">
-		<title>Marketplace Africa Episode 603</title>
-		<desc>Marketplace Africa offers unique access to the latest African market information, with a look at events and developments that impact the business world.</desc>
-	</programme>
-	<programme channel="5167" start="20260927034500 +0000" stop="20260927040000 +0000">
-		<title>Marketplace Europe Episode 61</title>
-		<desc>Marketplace Europe returns to Lake Como for the annual Cernobbio Forum, where political and economic leaders discuss the state of Europe's economy.</desc>
+	<programme channel="5167" start="20260927030000 +0000" stop="20260927040000 +0000">
+		<title>CNN Newsroom Episode 396</title>
+		<desc>CNN Newsroom</desc>
 	</programme>
 	<programme channel="5167" start="20260927040000 +0000" stop="20260927043000 +0000">
 		<title>CNN Newsroom Episode 78</title>
 		<desc>Live context and clarity to the day's top stories from around the world.</desc>
 	</programme>
 	<programme channel="5167" start="20260927043000 +0000" stop="20260927050000 +0000">
-		<title>World Sport Episode 703</title>
-		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
+		<title>Quest's World of Wonder Episode 9</title>
+		<desc>Richard Quest dives headfirst into Porto, a city where centuries of tradition collide with a booming new popularity.</desc>
 	</programme>
 	<programme channel="5167" start="20260927050000 +0000" stop="20260927053000 +0000">
 		<title>CNN Newsroom Episode 182</title>
@@ -28744,9 +28904,13 @@
 		<title>Marketplace Europe Episode 61</title>
 		<desc>Marketplace Europe returns to Lake Como for the annual Cernobbio Forum, where political and economic leaders discuss the state of Europe's economy.</desc>
 	</programme>
-	<programme channel="5167" start="20260927070000 +0000" stop="20260927080000 +0000">
-		<title>CNN Newsroom Episode 841</title>
+	<programme channel="5167" start="20260927070000 +0000" stop="20260927073000 +0000">
+		<title>CNN Newsroom Episode 390</title>
 		<desc>Live context and clarity to the day's top stories from around the world.</desc>
+	</programme>
+	<programme channel="5167" start="20260927073000 +0000" stop="20260927080000 +0000">
+		<title>Connecting Africa Episode 9</title>
+		<desc>From futuristic transport systems in North Africa to the rise of AI-powered data infrastructure, we explore how major projects are economic growth.</desc>
 	</programme>
 	<programme channel="5167" start="20260927080000 +0000" stop="20260927090000 +0000">
 		<title>CNN Newsroom Episode 78</title>
@@ -28828,9 +28992,13 @@
 		<title>CNN Newsroom Sunday Episode 271</title>
 		<desc>Updates of the latest news from around the world.</desc>
 	</programme>
-	<programme channel="5167" start="20260927230000 +0000" stop="20260928010000 +0000">
+	<programme channel="5167" start="20260927230000 +0000" stop="20260928000000 +0000">
 		<title>CNN Newsroom Sunday Episode 272</title>
 		<desc>Updates of the latest news from around the world.</desc>
+	</programme>
+	<programme channel="5167" start="20260928000000 +0000" stop="20260928010000 +0000">
+		<title>The Whole Story With Anderson Cooper Episode 14</title>
+		<desc>Anderson Cooper hosts a deeply reported series that goes behind the headlines and into the heart of the most important stories of our time.</desc>
 	</programme>
 	<programme channel="5167" start="20260928010000 +0000" stop="20260928020000 +0000">
 		<title>Fareed Zakaria GPS Episode 39</title>
@@ -31541,8 +31709,8 @@
 		<desc>Hosted by Arjun Kharpal, CNBC's “Tech Download” podcast cuts through the noise to unpack the technology stories that matter most.</desc>
 	</programme>
 	<programme channel="5173" start="20260927223000 +0000" stop="20260927230000 +0000">
-		<title>CNBC Originals</title>
-		<desc>CNBC Originals</desc>
+		<title>CNBC Meets</title>
+		<desc>Hosted by Tania Bryer, “CNBC Meets” is an intimate interview series that takes viewers inside the lives and legacies of trailblazers across business, entertainment, sport and politics. Each episode offers rare access to their homes, offices and empires - uncovering the ambitions, challenges and entrepreneurial mindsets that shaped their success and continue to drive them forward.</desc>
 	</programme>
 	<programme channel="5173" start="20260927230000 +0000" stop="20260927233000 +0000">
 		<title>Squawk Box Asia</title>
@@ -31569,20 +31737,20 @@
 		<desc>Squawk Box Asia is CNBC's flagship show that sets the news agenda and takes viewers through the pre-game and the opening of Asia's business trading day, covering the top market moving stories and views from the top CEOs, asset managers and newsmakers</desc>
 	</programme>
 	<programme channel="5173" start="20260928020000 +0000" stop="20260928023000 +0000">
-		<title>The China Connection</title>
-		<desc>The China Connection delivers in-depth analysis of China's economy, markets and its relationship with the global landscape. Emily Chan brings you expert insights, exclusive interviews, covering key sectors, trade developments and policy shifts.</desc>
+		<title>Managing Asia</title>
+		<desc>CNBC's longest running feature show. For over 20 years Christine Tan has been talking to people who are shaping, governing and leading the Asia-Pacific region in this multi-award award winning show.</desc>
 	</programme>
 	<programme channel="5173" start="20260928023000 +0000" stop="20260928030000 +0000">
-		<title>The China Connection</title>
-		<desc>The China Connection delivers in-depth analysis of China's economy, markets and its relationship with the global landscape. Emily Chan brings you expert insights, exclusive interviews, covering key sectors, trade developments and policy shifts.</desc>
+		<title>The Score</title>
+		<desc>Hosted by Tom Chitty, “The Score” is CNBC's smart, fast-moving guide to the forces transforming global sport. Going beyond the drama of the game, the series unpacks the money, power and strategy driving decisions behind the scenes - from boardrooms to locker rooms.</desc>
 	</programme>
 	<programme channel="5173" start="20260928030000 +0000" stop="20260928033000 +0000">
-		<title>Inside India</title>
-		<desc>CNBC's Inside India gives you news and market commentary on the emerging powerhouse, businesses and people behind its rise. Inside India goes beyond the headlines to give you the edge and insights - this is your gateway to the India story.</desc>
+		<title>The Tech Download</title>
+		<desc>Hosted by Arjun Kharpal, CNBC's “Tech Download” podcast cuts through the noise to unpack the technology stories that matter most.</desc>
 	</programme>
 	<programme channel="5173" start="20260928033000 +0000" stop="20260928040000 +0000">
-		<title>Inside India</title>
-		<desc>CNBC's Inside India gives you news and market commentary on the emerging powerhouse, businesses and people behind its rise. Inside India goes beyond the headlines to give you the edge and insights - this is your gateway to the India story.</desc>
+		<title>CNBC Meets</title>
+		<desc>Hosted by Tania Bryer, “CNBC Meets” is an intimate interview series that takes viewers inside the lives and legacies of trailblazers across business, entertainment, sport and politics. Each episode offers rare access to their homes, offices and empires - uncovering the ambitions, challenges and entrepreneurial mindsets that shaped their success and continue to drive them forward.</desc>
 	</programme>
 	<programme channel="5173" start="20260928040000 +0000" stop="20260928043000 +0000">
 		<title>Access Middle East</title>
@@ -31592,13 +31760,9 @@
 		<title>Access Middle East</title>
 		<desc>Access Middle East is your window into Middle East power, money, and influence. With exclusive interviews and high-level analysis, the program brings viewers closer to the decision-makers deploying capital and driving innovation in one of the world's most dynamic regions.</desc>
 	</programme>
-	<programme channel="5173" start="20260928050000 +0000" stop="20260928053000 +0000">
-		<title>Europe Early Edition</title>
-		<desc>Start your trading day with Europe Early Edition as European financial centres take the reins of global markets. With breaking news, key earnings and data, as well as interviews with market makers and C-Suite executives from across the globe, Europe Early Edition is essential viewing to be prepared for the day's session.</desc>
-	</programme>
-	<programme channel="5173" start="20260928053000 +0000" stop="20260928060000 +0000">
-		<title>Europe Early Edition</title>
-		<desc>Start your trading day with Europe Early Edition as European financial centres take the reins of global markets. With breaking news, key earnings and data, as well as interviews with market makers and C-Suite executives from across the globe, Europe Early Edition is essential viewing to be prepared for the day's session.</desc>
+	<programme channel="5173" start="20260928050000 +0000" stop="20260928060000 +0000">
+		<title>Millennial Money</title>
+		<desc>Get an inside look at the lives and finances of millennials. See exactly how much they earn, what they spend it on and how they invest. From starting a business to changing careers, getting in and out of debt, creating an unusual income stream, or casting it all aside to start over again...young people reveal the steps they took to make it happen.</desc>
 	</programme>
 	<programme channel="5173" start="20260928060000 +0000" stop="20260928063000 +0000">
 		<title>Squawk Box Europe</title>
@@ -68516,7 +68680,7 @@ Su Beilu unexpectedly crosses paths with Bi Zhi, a time traveller from the futur
 		<desc>《东张西望》星期一至日，紧贴追踪社会大事、趣闻逸事，并报导娱乐圈最新动态、艺人消息，以及剧集宣传和花絮。「今日突发」环节为大家追踪即日热门新闻；专题环节，深入探讨大众关心的时事、社会及民生问题，并访问相关的专家。</desc>
 	</programme>
 	<programme channel="5511" start="20260921230000 +0000" stop="20260922000000 +0000">
-		<title>香港早晨 及 世界观 / Good Morning Hong Kong and Global View Episode 542</title>
+		<title>香港早晨 及 世界观 / Good Morning Hong Kong and Global View Episode 543</title>
 		<desc>报导香港、两岸及国际重要新闻。</desc>
 	</programme>
 	<programme channel="5511" start="20260922000000 +0000" stop="20260922010000 +0000">
@@ -72770,39 +72934,47 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 		<desc>The program condenses 72 hours of observation into 50 minutes.It captures the passage of time in a single place, revealing the “real” stories within.It is about the places we pass by, the people we overlook, and the things we forget in everyday life.</desc>
 	</programme>
 	<programme channel="5038" start="20260927210000 +0000" stop="20260927221500 +0000">
-		<title>Love on the Menu</title>
+		<title>Love on the Menu Episode 16</title>
 		<desc>A heartwarming family drama about a man and a woman who rebuild their broken families and discover the recipe for love, healing, and togetherness.</desc>
 	</programme>
 	<programme channel="5038" start="20260927221500 +0000" stop="20260927233000 +0000">
-		<title>Welcome to Sugeun School</title>
+		<title>Welcome to Sugeun School Episode 2</title>
 		<desc>They may be masters of variety shows, but as teachers, it's only day one!A hilariously chaotic survival adventure unfolds as three rookie teachers run a one-of-a-kind school.</desc>
 	</programme>
 	<programme channel="5038" start="20260927233000 +0000" stop="20260927234500 +0000">
 		<title>The Seasons W</title>
 		<desc>A talk show brings you music and stories that will "get rid of all your worries and all your concerns."</desc>
 	</programme>
-	<programme channel="5038" start="20260927234500 +0000" stop="20260928010000 +0000">
-		<title>Once Again</title>
+	<programme channel="5038" start="20260927234500 +0000" stop="20260928002500 +0000">
+		<title>Once Again Episode 17</title>
 		<desc>Turbulent divorces of Mr. and Mrs. Song's children unravel into heartwarming stories of familial love and affection.</desc>
 	</programme>
-	<programme channel="5038" start="20260928010000 +0000" stop="20260928021500 +0000">
-		<title>Once Again</title>
+	<programme channel="5038" start="20260928002500 +0000" stop="20260928010000 +0000">
+		<title>Once Again Episode 18</title>
+		<desc>Turbulent divorces of Mr. and Mrs. Song's children unravel into heartwarming stories of familial love and affection.</desc>
+	</programme>
+	<programme channel="5038" start="20260928010000 +0000" stop="20260928014000 +0000">
+		<title>Once Again Episode 19</title>
+		<desc>Turbulent divorces of Mr. and Mrs. Song's children unravel into heartwarming stories of familial love and affection.</desc>
+	</programme>
+	<programme channel="5038" start="20260928014000 +0000" stop="20260928021500 +0000">
+		<title>Once Again Episode 20</title>
 		<desc>Turbulent divorces of Mr. and Mrs. Song's children unravel into heartwarming stories of familial love and affection.</desc>
 	</programme>
 	<programme channel="5038" start="20260928021500 +0000" stop="20260928035500 +0000">
-		<title>Two Days and One Night 4</title>
+		<title>Two Days and One Night 4 Episode 343</title>
 		<desc>Two-day road trip to the beautiful spots in all the corners of Korea! Instead of fancy studio, this on-the-road reality show takes place in the rural sides. While over 10 million Koreans travel abroad each year, the "2 Days and 1 Night" casts travel around Korea - to the mountains, farms, fishing villages, islands - where you can meet the welcoming smiles of our neighbors and the beautiful nature that cleanse our eyes.</desc>
 	</programme>
 	<programme channel="5038" start="20260928035500 +0000" stop="20260928051000 +0000">
-		<title>The Return of Superman</title>
-		<desc>Parenting challenges of "Superman" , the first hero that children encounter when they are born.</desc>
+		<title>Problem Child in House Episode 67</title>
+		<desc>A collection of outrageous problems that you have never heard of!A great 'knowledge talk show' where problematic children who are struggling and fighting in the emotional rooftop room gain true wisdom about life and the world.</desc>
 	</programme>
 	<programme channel="5038" start="20260928051000 +0000" stop="20260928062500 +0000">
-		<title>Love on the Menu</title>
+		<title>Love on the Menu Episode 15</title>
 		<desc>A heartwarming family drama about a man and a woman who rebuild their broken families and discover the recipe for love, healing, and togetherness.</desc>
 	</programme>
 	<programme channel="5038" start="20260928062500 +0000" stop="20260928074000 +0000">
-		<title>Love on the Menu</title>
+		<title>Love on the Menu Episode 16</title>
 		<desc>A heartwarming family drama about a man and a woman who rebuild their broken families and discover the recipe for love, healing, and togetherness.</desc>
 	</programme>
 	<programme channel="5038" start="20260928074000 +0000" stop="20260928080000 +0000">
@@ -72810,31 +72982,27 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 		<desc>KBS World Daily English News Anchor : Choi Kyu-yeon</desc>
 	</programme>
 	<programme channel="5038" start="20260928080000 +0000" stop="20260928085500 +0000">
-		<title>Documentary 3 Days</title>
+		<title>Documentary 3 Days Episode 720</title>
 		<desc>The program condenses 72 hours of observation into 50 minutes.It captures the passage of time in a single place, revealing the “real” stories within.It is about the places we pass by, the people we overlook, and the things we forget in everyday life.</desc>
 	</programme>
 	<programme channel="5038" start="20260928085500 +0000" stop="20260928102000 +0000">
-		<title>Music Bank</title>
-		<desc>The best tunes in Korea! the most sensational music show on TV satisfies all your senses! Fantastic performances and Awe-inspiring harmony by the nation's top musicians! Follow the latest trend in the Korean music scene through the K-chart, a summary of the week's hottest songs.</desc>
+		<title>2026 Boryeong Mud Festival - K-POP SUPER LIVE</title>
+		<desc>2026 Boryeong Mud Festival - K-POP SUPER LIVE</desc>
 	</programme>
 	<programme channel="5038" start="20260928102000 +0000" stop="20260928113500 +0000">
-		<title>Mad Dog</title>
+		<title>Mad Dog Episode 15</title>
 		<desc>The drama portrays the reality of Korea through diverse insurance crimes that are prevalent in the country. There are the 'copy cats' that imitate and improve the existing crimes, and the 'mad dogs' who catch these bad cats.</desc>
 	</programme>
-	<programme channel="5038" start="20260928113500 +0000" stop="20260928121000 +0000">
-		<title>Our Happy Days</title>
-		<desc>A chaotic, high-stakes family saga where a seemingly perfect man and an endearingly flawed woman collide while every generation fights to become the main character of their own life.</desc>
-	</programme>
-	<programme channel="5038" start="20260928121000 +0000" stop="20260928125000 +0000">
-		<title>A Trap Called Desire</title>
-		<desc>A woman whose life was stolen by a false murder accusation fights to reclaim her destiny in a gripping revenge drama against insatiable greed.</desc>
+	<programme channel="5038" start="20260928113500 +0000" stop="20260928125000 +0000">
+		<title>Love Track</title>
+		<desc>Ten Different Shapes of Love Stories</desc>
 	</programme>
 	<programme channel="5038" start="20260928125000 +0000" stop="20260928140500 +0000">
-		<title>Pump Up the Healthy Love</title>
+		<title>Pump Up the Healthy Love Episode 9</title>
 		<desc>A thrilling and humorous "muscle-growth" drama where Do Hyeonjung , the hardcore gym rat and passionate trainer, shakes up the lives of anxious beginners with his bold and unorthodox coaching.</desc>
 	</programme>
 	<programme channel="5038" start="20260928140500 +0000" stop="20260928153500 +0000">
-		<title>Stars' Top Recipe at Fun-Staurant</title>
+		<title>Stars' Top Recipe at Fun-Staurant Episode 337</title>
 		<desc>Celebrities known for their cooking skills become “chef-entertainers,” revealing signature recipes and creativemenu ideas to share with viewers.</desc>
 	</programme>
 	<programme channel="5534" start="20260921151800 +0000" stop="20260921160400 +0000">
@@ -82166,8 +82334,8 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 		<desc>Alif Satar meneroka hobi ekstrem baharu sambil mempelajari dan menguasai kemahiran berbeza daripada penggemar hobi berpengalaman di seluruh Malaysia.</desc>
 	</programme>
 	<programme channel="5602" start="20260923150000 +0000" stop="20260923170000 +0000">
-		<title>Range Runners</title>
-		<desc>Seorang wanita mendaki di laluan terpencil menghadapi masalah apabila beg sandangnya dirampas oleh dua lelaki yang bersembunyi di dalam hutan, terdesak dan dalam pelarian.</desc>
+		<title>Adulthood</title>
+		<desc>Di majlis pengebumian arwah ayah, kemunculan seorang bapa saudara yang tidak dikenali mengakibatkan hidup seorang gadis menjadi huru hara. Mereka berdua terpaksa berkerjasama untuk mencari nafkah.</desc>
 	</programme>
 	<programme channel="5602" start="20260923170000 +0000" stop="20260923171000 +0000">
 		<title>Diari Kilauan Emas Selebriti Episode 28</title>
@@ -101157,23 +101325,31 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 		<title>Afwaah</title>
 		<desc>A woman seeks to escape her engagement to a violent politician, but when a stranger comes to her aid, the two face an onslaught of bigotry and hate.</desc>
 	</programme>
-	<programme channel="5668" start="20260928000000 +0000" stop="20260928030000 +0000">
-		<title>Raaz</title>
-		<desc>Sanjana and Aditya go to Ooty for a holiday to save their unsteady marriage. However, Sanjana is haunted by a spirit who reveals some dark secrets about Aditya and his past.</desc>
+	<programme channel="5668" start="20260928000000 +0000" stop="20260928013900 +0000">
+		<title>Ab Tak Chhappan 2</title>
+		<desc>Sadhu Agashe, a retired encounter specialist, faces a series of challenges after he returns to Mumbai to solve various criminal cases growing in the city.</desc>
 	</programme>
-	<programme channel="5668" start="20260928030000 +0000" stop="20260928070000 +0000">
-		<title>It's My Life</title>
-		<desc>Abhishek is a young man from a wealthy family whose life has always been controlled by his overbearing father. However, he soon decides to stand up to him after falling in love with a woman.</desc>
+	<programme channel="5668" start="20260928013900 +0000" stop="20260928015100 +0000">
+		<title>Comedy Station - Bittu Bak Bak</title>
+		<desc>Series of short, comedic vignettes where an unlucky Bhojpuri producer Champaklal and his secretary Suzie hilariously navigate chaotic, low-budget filmmaking, trying to outsmart each other.</desc>
 	</programme>
-	<programme channel="5668" start="20260928070000 +0000" stop="20260928091500 +0000">
+	<programme channel="5668" start="20260928015100 +0000" stop="20260928043500 +0000">
 		<title>Firangi</title>
 		<desc>In 1920 during India's freedom movement, one man firmly believes the British are not as bad as everyone believes.</desc>
 	</programme>
-	<programme channel="5668" start="20260928091500 +0000" stop="20260928121500 +0000">
+	<programme channel="5668" start="20260928043500 +0000" stop="20260928070000 +0000">
+		<title>It's My Life</title>
+		<desc>Abhishek is a young man from a wealthy family whose life has always been controlled by his overbearing father. However, he soon decides to stand up to him after falling in love with a woman.</desc>
+	</programme>
+	<programme channel="5668" start="20260928070000 +0000" stop="20260928094200 +0000">
+		<title>GEETANJALI</title>
+		<desc>A man learns that he is terminally ill and decides to live alone on a hill station. He meets a bubbly girl who teaches him how to live life to the fullest. Then, he makes another shocking discovery.</desc>
+	</programme>
+	<programme channel="5668" start="20260928094200 +0000" stop="20260928115900 +0000">
 		<title>Ek Villain Returns</title>
 		<desc>When a singer disappears during a serial killer spree, a taxidriver and a businessman's son cross paths in a disturbing tale where the lines between good and evil are blurred.</desc>
 	</programme>
-	<programme channel="5668" start="20260928121500 +0000" stop="20260928153000 +0000">
+	<programme channel="5668" start="20260928115900 +0000" stop="20260928140600 +0000">
 		<title>Tara Vs Bilal</title>
 		<desc>Bilal, a carefree man, lives an easy-going life in London and falls in love with Tara, a sensitive woman, but is unable to express his feelings to her.</desc>
 	</programme>
@@ -112354,44 +112530,44 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 		<desc>IT'S SHOWTIME</desc>
 	</programme>
 	<programme channel="5693" start="20260925161500 +0000" stop="20260925165500 +0000">
-		<title>Sigabo</title>
-		<desc>Sigabo</desc>
+		<title>Sigabo®</title>
+		<desc>Sigabo®</desc>
 	</programme>
 	<programme channel="5693" start="20260925165500 +0000" stop="20260925173500 +0000">
-		<title>Someone, Someday</title>
-		<desc>Someone, Someday</desc>
+		<title>Someone, Someday®</title>
+		<desc>Someone, Someday®</desc>
 	</programme>
 	<programme channel="5693" start="20260925173500 +0000" stop="20260925181500 +0000">
-		<title>INCOGNITO</title>
-		<desc>INCOGNITO</desc>
+		<title>Incognito®</title>
+		<desc>Incognito®</desc>
 	</programme>
 	<programme channel="5693" start="20260925181500 +0000" stop="20260925185000 +0000">
-		<title>The Iron Heart</title>
-		<desc>The Iron Heart</desc>
+		<title>Iron Heart ®</title>
+		<desc>Iron Heart ®</desc>
 	</programme>
 	<programme channel="5693" start="20260925185000 +0000" stop="20260925193000 +0000">
-		<title>LA VIDA LENA</title>
-		<desc>LA VIDA LENA</desc>
+		<title>La Vida Lena®</title>
+		<desc>La Vida Lena®</desc>
 	</programme>
 	<programme channel="5693" start="20260925193000 +0000" stop="20260925200000 +0000">
-		<title>Are You G? With MJ Felipe</title>
-		<desc>Are You G? With MJ Felipe</desc>
+		<title>Are You G? With MJ Felipe S2®</title>
+		<desc>Are You G? With MJ Felipe S2®</desc>
 	</programme>
 	<programme channel="5693" start="20260925200000 +0000" stop="20260925213000 +0000">
-		<title>TV PATROL GLOBAL EDITION</title>
-		<desc>TV PATROL GLOBAL EDITION</desc>
+		<title>TV Patrol Weekday Global Edition</title>
+		<desc>TV Patrol Weekday Global Edition</desc>
 	</programme>
 	<programme channel="5693" start="20260925213000 +0000" stop="20260925223000 +0000">
 		<title>TABING ILOG</title>
 		<desc>TABING ILOG</desc>
 	</programme>
 	<programme channel="5693" start="20260925223000 +0000" stop="20260925233000 +0000">
-		<title>MAALAALA MO KAYA</title>
-		<desc>MAALAALA MO KAYA</desc>
+		<title>Maalaala Mo Kaya ®</title>
+		<desc>Maalaala Mo Kaya ®</desc>
 	</programme>
 	<programme channel="5693" start="20260925233000 +0000" stop="20260926000000 +0000">
-		<title>MY PUHUNAN: KAYA MO!</title>
-		<desc>MY PUHUNAN: KAYA MO!</desc>
+		<title>My Puhunan: Kaya Mo! ®</title>
+		<desc>My Puhunan: Kaya Mo! ®</desc>
 	</programme>
 	<programme channel="5693" start="20260926000000 +0000" stop="20260926003000 +0000">
 		<title>WOW</title>
@@ -112406,28 +112582,28 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 		<desc>TULONG KO, PASA MO</desc>
 	</programme>
 	<programme channel="5693" start="20260926020000 +0000" stop="20260926023000 +0000">
-		<title>ANO NA, BEV S6</title>
-		<desc>ANO NA, BEV S6</desc>
+		<title>Ano Na Bev S6</title>
+		<desc>Ano Na Bev S6</desc>
 	</programme>
 	<programme channel="5693" start="20260926023000 +0000" stop="20260926030000 +0000">
 		<title>KAPAMILYA DAILY MASS</title>
 		<desc>KAPAMILYA DAILY MASS</desc>
 	</programme>
 	<programme channel="5693" start="20260926030000 +0000" stop="20260926040000 +0000">
-		<title>THE B SIDE</title>
-		<desc>THE B SIDE</desc>
+		<title>The B Side ®</title>
+		<desc>The B Side ®</desc>
 	</programme>
 	<programme channel="5693" start="20260926040000 +0000" stop="20260926063000 +0000">
-		<title>IT'S SHOWTIME SATURDAY</title>
-		<desc>IT'S SHOWTIME SATURDAY</desc>
+		<title>IT'S SHOWTIME</title>
+		<desc>IT'S SHOWTIME</desc>
 	</programme>
 	<programme channel="5693" start="20260926063000 +0000" stop="20260926080000 +0000">
 		<title>Miss Behave</title>
 		<desc>Miss Behave</desc>
 	</programme>
 	<programme channel="5693" start="20260926080000 +0000" stop="20260926083500 +0000">
-		<title>Pamilya Talk With Tita Jing S7</title>
-		<desc>Pamilya Talk With Tita Jing S7</desc>
+		<title>Pamilya Talk with Tita Jing S8</title>
+		<desc>Pamilya Talk with Tita Jing S8</desc>
 	</programme>
 	<programme channel="5693" start="20260926083500 +0000" stop="20260926091000 +0000">
 		<title>Home Away From Home S6</title>
@@ -112438,8 +112614,8 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 		<desc>Juan Conversations with Rose Eclarinal S4</desc>
 	</programme>
 	<programme channel="5693" start="20260926094500 +0000" stop="20260926104500 +0000">
-		<title>TV PATROL SABADO</title>
-		<desc>TV PATROL SABADO</desc>
+		<title>TV Patrol Sabado Live</title>
+		<desc>TV Patrol Sabado Live</desc>
 	</programme>
 	<programme channel="5693" start="20260926104500 +0000" stop="20260926113000 +0000">
 		<title>Ibang Level 'To</title>
@@ -112450,8 +112626,8 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 		<desc>KAPAMILYA DEAL OR NO DEAL</desc>
 	</programme>
 	<programme channel="5693" start="20260926123000 +0000" stop="20260926134500 +0000">
-		<title>EVERYBODY SING!</title>
-		<desc>EVERYBODY SING!</desc>
+		<title>Everybody Sing</title>
+		<desc>Everybody Sing</desc>
 	</programme>
 	<programme channel="5693" start="20260926134500 +0000" stop="20260926145500 +0000">
 		<title>The Crossings: Finding Our Way Home Through Stories</title>
@@ -112462,40 +112638,40 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 		<desc>The B Side S2</desc>
 	</programme>
 	<programme channel="5693" start="20260926154500 +0000" stop="20260926173000 +0000">
-		<title>IT'S SHOWTIME SATURDAY</title>
-		<desc>IT'S SHOWTIME SATURDAY</desc>
+		<title>It's Showtime ®</title>
+		<desc>It's Showtime ®</desc>
 	</programme>
 	<programme channel="5693" start="20260926173000 +0000" stop="20260926181500 +0000">
 		<title>SOCO</title>
 		<desc>SOCO</desc>
 	</programme>
 	<programme channel="5693" start="20260926181500 +0000" stop="20260926190000 +0000">
-		<title>TV PATROL SABADO</title>
-		<desc>TV PATROL SABADO</desc>
+		<title>TV Patrol Sabado ®</title>
+		<desc>TV Patrol Sabado ®</desc>
 	</programme>
 	<programme channel="5693" start="20260926190000 +0000" stop="20260926200000 +0000">
-		<title>KAPAMILYA DEAL OR NO DEAL</title>
-		<desc>KAPAMILYA DEAL OR NO DEAL</desc>
+		<title>Kapamilya Deal Or No Deal®</title>
+		<desc>Kapamilya Deal Or No Deal®</desc>
 	</programme>
 	<programme channel="5693" start="20260926200000 +0000" stop="20260926210000 +0000">
-		<title>EVERYBODY SING!</title>
-		<desc>EVERYBODY SING!</desc>
+		<title>Everybody Sing</title>
+		<desc>Everybody Sing</desc>
 	</programme>
 	<programme channel="5693" start="20260926210000 +0000" stop="20260926230000 +0000">
-		<title>NIGHT FLICKS</title>
-		<desc>NIGHT FLICKS</desc>
+		<title>ANG BABAE SA SEPTIC TANK</title>
+		<desc>ANG BABAE SA SEPTIC TANK</desc>
 	</programme>
-	<programme channel="5693" start="20260926230000 +0000" stop="20260927000000 +0000">
-		<title>Miss Behave</title>
-		<desc>Miss Behave</desc>
+	<programme channel="5693" start="20260926230000 +0000" stop="20260926233000 +0000">
+		<title>Miss Behave ®</title>
+		<desc>Miss Behave ®</desc>
 	</programme>
-	<programme channel="5693" start="20260927000000 +0000" stop="20260927003000 +0000">
+	<programme channel="5693" start="20260926233000 +0000" stop="20260927003000 +0000">
 		<title>CITIZEN PINOY</title>
 		<desc>CITIZEN PINOY</desc>
 	</programme>
 	<programme channel="5693" start="20260927003000 +0000" stop="20260927010000 +0000">
-		<title>Home Away From Home S6</title>
-		<desc>Home Away From Home S6</desc>
+		<title>Home Away From Home S6 ®</title>
+		<desc>Home Away From Home S6 ®</desc>
 	</programme>
 	<programme channel="5693" start="20260927010000 +0000" stop="20260927013000 +0000">
 		<title>MY PUHUNAN: KAYA MO!</title>
@@ -112506,8 +112682,8 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 		<desc>BRO. EDDIE CLASSICS</desc>
 	</programme>
 	<programme channel="5693" start="20260927023000 +0000" stop="20260927030000 +0000">
-		<title>KAPAMILYA JOURNEYS OF HOPE</title>
-		<desc>KAPAMILYA JOURNEYS OF HOPE</desc>
+		<title>Kapamilya Journeys of Hope With Fr. Tito Caluag</title>
+		<desc>Kapamilya Journeys of Hope With Fr. Tito Caluag</desc>
 	</programme>
 	<programme channel="5693" start="20260927030000 +0000" stop="20260927040000 +0000">
 		<title>THE HEALING EUCHARIST</title>
@@ -112518,8 +112694,8 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 		<desc>Y Speak 2.0</desc>
 	</programme>
 	<programme channel="5693" start="20260927050000 +0000" stop="20260927060000 +0000">
-		<title>TULONG KO, PASA MO</title>
-		<desc>TULONG KO, PASA MO</desc>
+		<title>Tulong Ko, Pasa Mo®</title>
+		<desc>Tulong Ko, Pasa Mo®</desc>
 	</programme>
 	<programme channel="5693" start="20260927060000 +0000" stop="20260927061500 +0000">
 		<title>Philippines' Oddest Jobs</title>
@@ -112534,8 +112710,8 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 		<desc>Loida Lewis Podcast</desc>
 	</programme>
 	<programme channel="5693" start="20260927073000 +0000" stop="20260927080000 +0000">
-		<title>Chef RV's Kitchen S21</title>
-		<desc>Chef RV's Kitchen S21</desc>
+		<title>Chef RV's Kitchen S22</title>
+		<desc>Chef RV's Kitchen S22</desc>
 	</programme>
 	<programme channel="5693" start="20260927080000 +0000" stop="20260927083000 +0000">
 		<title>Are You G? With MJ Felipe S2</title>
@@ -112546,8 +112722,8 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 		<desc>Philippines' Most Shocking Stories</desc>
 	</programme>
 	<programme channel="5693" start="20260927090000 +0000" stop="20260927100000 +0000">
-		<title>TV PATROL LINGGO</title>
-		<desc>TV PATROL LINGGO</desc>
+		<title>TV Patrol Linggo Live</title>
+		<desc>TV Patrol Linggo Live</desc>
 	</programme>
 	<programme channel="5693" start="20260927100000 +0000" stop="20260927113000 +0000">
 		<title>ASAP XP</title>
@@ -112558,52 +112734,60 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 		<desc>KAPAMILYA DEAL OR NO DEAL</desc>
 	</programme>
 	<programme channel="5693" start="20260927123000 +0000" stop="20260927134500 +0000">
-		<title>EVERYBODY SING!</title>
-		<desc>EVERYBODY SING!</desc>
+		<title>Everybody Sing</title>
+		<desc>Everybody Sing</desc>
 	</programme>
 	<programme channel="5693" start="20260927134500 +0000" stop="20260927141500 +0000">
 		<title>Wrizzards: Underground Uprising</title>
 		<desc>Wrizzards: Underground Uprising</desc>
 	</programme>
-	<programme channel="5693" start="20260927141500 +0000" stop="20260927154500 +0000">
-		<title>Y Speak 2.0</title>
-		<desc>Y Speak 2.0</desc>
+	<programme channel="5693" start="20260927141500 +0000" stop="20260927151500 +0000">
+		<title>Y Speak 2.0 ®</title>
+		<desc>Y Speak 2.0 ®</desc>
 	</programme>
-	<programme channel="5693" start="20260927154500 +0000" stop="20260927164500 +0000">
-		<title>Ibang Level 'To</title>
-		<desc>Ibang Level 'To</desc>
+	<programme channel="5693" start="20260927151500 +0000" stop="20260927160000 +0000">
+		<title>Ibang Level 'To®</title>
+		<desc>Ibang Level 'To®</desc>
+	</programme>
+	<programme channel="5693" start="20260927160000 +0000" stop="20260927161500 +0000">
+		<title>Philippines' Oddest Jobs ®</title>
+		<desc>Philippines' Oddest Jobs ®</desc>
+	</programme>
+	<programme channel="5693" start="20260927161500 +0000" stop="20260927164500 +0000">
+		<title>Philippines' Most Shocking Stories®</title>
+		<desc>Philippines' Most Shocking Stories®</desc>
 	</programme>
 	<programme channel="5693" start="20260927164500 +0000" stop="20260927173000 +0000">
-		<title>TV PATROL LINGGO</title>
-		<desc>TV PATROL LINGGO</desc>
+		<title>TV Patrol Linggo ®</title>
+		<desc>TV Patrol Linggo ®</desc>
 	</programme>
 	<programme channel="5693" start="20260927173000 +0000" stop="20260927183000 +0000">
-		<title>KAPAMILYA DEAL OR NO DEAL</title>
-		<desc>KAPAMILYA DEAL OR NO DEAL</desc>
+		<title>Kapamilya Deal Or No Deal®</title>
+		<desc>Kapamilya Deal Or No Deal®</desc>
 	</programme>
 	<programme channel="5693" start="20260927183000 +0000" stop="20260927193000 +0000">
-		<title>EVERYBODY SING!</title>
-		<desc>EVERYBODY SING!</desc>
+		<title>Everybody Sing®</title>
+		<desc>Everybody Sing®</desc>
 	</programme>
 	<programme channel="5693" start="20260927193000 +0000" stop="20260927210000 +0000">
-		<title>ASAP XP</title>
-		<desc>ASAP XP</desc>
+		<title>ASAP XP ®</title>
+		<desc>ASAP XP ®</desc>
 	</programme>
 	<programme channel="5693" start="20260927210000 +0000" stop="20260927220000 +0000">
 		<title>MAALAALA MO KAYA</title>
 		<desc>MAALAALA MO KAYA</desc>
 	</programme>
 	<programme channel="5693" start="20260927220000 +0000" stop="20260927223000 +0000">
-		<title>Philippines' Most Shocking Stories</title>
-		<desc>Philippines' Most Shocking Stories</desc>
+		<title>SOCO ®</title>
+		<desc>SOCO ®</desc>
 	</programme>
 	<programme channel="5693" start="20260927223000 +0000" stop="20260927230000 +0000">
-		<title>Kuan On One</title>
-		<desc>Kuan On One</desc>
+		<title>Kuan On One®</title>
+		<desc>Kuan On One®</desc>
 	</programme>
 	<programme channel="5693" start="20260927230000 +0000" stop="20260927233000 +0000">
-		<title>Chef RV's Kitchen S21</title>
-		<desc>Chef RV's Kitchen S21</desc>
+		<title>Chef RV's Kitchen S22®</title>
+		<desc>Chef RV's Kitchen S22®</desc>
 	</programme>
 	<programme channel="5693" start="20260927233000 +0000" stop="20260928000000 +0000">
 		<title>INCOGNITO</title>
@@ -112622,12 +112806,12 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 		<desc>2 GOOD 2 BE TRUE</desc>
 	</programme>
 	<programme channel="5693" start="20260928013000 +0000" stop="20260928020000 +0000">
-		<title>GOIN' BULILIT</title>
-		<desc>GOIN' BULILIT</desc>
+		<title>GOIN' BULILIT S15</title>
+		<desc>GOIN' BULILIT S15</desc>
 	</programme>
 	<programme channel="5693" start="20260928020000 +0000" stop="20260928023000 +0000">
-		<title>TFC KIDS' ZONE</title>
-		<desc>TFC KIDS' ZONE</desc>
+		<title>TFC Kids Zone</title>
+		<desc>TFC Kids Zone</desc>
 	</programme>
 	<programme channel="5693" start="20260928023000 +0000" stop="20260928030000 +0000">
 		<title>KAPAMILYA DAILY MASS</title>
@@ -112638,8 +112822,8 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 		<desc>GISING PILIPINAS</desc>
 	</programme>
 	<programme channel="5693" start="20260928040000 +0000" stop="20260928064000 +0000">
-		<title>IT'S SHOWTIME</title>
-		<desc>IT'S SHOWTIME</desc>
+		<title>It's Showtime LIVE</title>
+		<desc>It's Showtime LIVE</desc>
 	</programme>
 	<programme channel="5693" start="20260928064000 +0000" stop="20260928071500 +0000">
 		<title>Radyo Patrol Balita</title>
@@ -112654,20 +112838,20 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 		<desc>Oh My Gan!</desc>
 	</programme>
 	<programme channel="5693" start="20260928085500 +0000" stop="20260928093000 +0000">
-		<title>GOIN' BULILIT</title>
-		<desc>GOIN' BULILIT</desc>
+		<title>Goin' Bulilit S15®</title>
+		<desc>Goin' Bulilit S15®</desc>
 	</programme>
 	<programme channel="5693" start="20260928093000 +0000" stop="20260928094500 +0000">
-		<title>TV PATROL EXPRESS</title>
-		<desc>TV PATROL EXPRESS</desc>
+		<title>TV Patrol Express Live</title>
+		<desc>TV Patrol Express Live</desc>
 	</programme>
 	<programme channel="5693" start="20260928094500 +0000" stop="20260928103000 +0000">
-		<title>2 GOOD 2 BE TRUE</title>
-		<desc>2 GOOD 2 BE TRUE</desc>
+		<title>2 Good 2 Be True®</title>
+		<desc>2 Good 2 Be True®</desc>
 	</programme>
 	<programme channel="5693" start="20260928103000 +0000" stop="20260928120000 +0000">
-		<title>TV PATROL</title>
-		<desc>TV PATROL</desc>
+		<title>TV Patrol Live</title>
+		<desc>TV Patrol Live</desc>
 	</programme>
 	<programme channel="5693" start="20260928120000 +0000" stop="20260928124500 +0000">
 		<title>Sigabo</title>
@@ -112678,8 +112862,8 @@ Honey与Amber来到九龙最高的山峰飞鹅山，学习山艺摄影！在7度
 		<desc>Someone, Someday</desc>
 	</programme>
 	<programme channel="5693" start="20260928133000 +0000" stop="20260928140000 +0000">
-		<title>Oh My Gan!</title>
-		<desc>Oh My Gan!</desc>
+		<title>Oh My Gan! ®</title>
+		<desc>Oh My Gan! ®</desc>
 	</programme>
 	<programme channel="6694" start="20260921160000 +0000" stop="20260921163000 +0000">
 		<title>THE WORLD TONIGHT</title>
