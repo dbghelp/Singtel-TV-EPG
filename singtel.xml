@@ -2182,7 +2182,7 @@
 	</programme>
 	<programme channel="5003" start="20261023123000 +0000" stop="20261023130000 +0000">
 		<title>前线追踪 Episode 30</title>
-		<desc>民情民生民意前线追踪紧跟社会民生步伐追踪调查时事动态探讨新加坡人关心的课题针对问题的核心追根究底</desc>
+		<desc>近年来本地囤积个案有所增加摄制队走访囤积者住家了解实际情况囤积问题也可能影响左邻右舍当局该如何介入改善他们的生活另外从肉干鱼丸面到五香忠邦有不少经营数十年的家族生意在街坊和熟客的支持下扎根社区并陆续由下一代接棒新一代如何守住传统同时走出自己的路</desc>
 	</programme>
 	<programme channel="5003" start="20261023130000 +0000" stop="20261023140000 +0000">
 		<title>难言之瘾 Episode 5</title>
@@ -11173,7 +11173,7 @@
 		<desc>Young riders compete in this exciting Moto4 series, showcasing emerging talent, close racing, and the next generation of motorcycle racing stars.</desc>
 	</programme>
 	<programme channel="6115" start="20261022215500 +0000" stop="20261023004500 +0000">
-		<title>2026 MotoGP Rd 18 Grand Prix of Australia (Live)</title>
+		<title>2026 MotoGP Rd 18 Red Bull Grand Prix of Australia (Live)</title>
 		<desc>The 2026 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
 	</programme>
 	<programme channel="6115" start="20261023004500 +0000" stop="20261023011500 +0000">
@@ -11185,7 +11185,7 @@
 		<desc>Top riders and teams take on the ultimate test of speed and endurance, battling through demanding long-distance races in world-class motorcycle competition.</desc>
 	</programme>
 	<programme channel="6115" start="20261023021000 +0000" stop="20261023051500 +0000">
-		<title>2026 MotoGP Rd 18 Grand Prix of Australia (Live)</title>
+		<title>2026 MotoGP Rd 18 Red Bull Grand Prix of Australia (Live)</title>
 		<desc>The 2026 MotoGP sees 22 of the world's best riders battle on 1000cc prototype machines, delivering over 250hp and reaching speeds of 360kph across 22 thrilling Grands Prix in 18 countries.</desc>
 	</programme>
 	<programme channel="6115" start="20261023051500 +0000" stop="20261023060000 +0000">
@@ -27494,7 +27494,7 @@
 	</programme>
 	<programme channel="6166" start="20261022160000 +0000" stop="20261022163000 +0000">
 		<title>Verified Live</title>
-		<desc>Matthew Amroliwala presents all the latest global and UK news</desc>
+		<desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
 	</programme>
 	<programme channel="6166" start="20261022163000 +0000" stop="20261022170000 +0000">
 		<title>Focus on Africa</title>
@@ -27518,11 +27518,11 @@
 	</programme>
 	<programme channel="6166" start="20261022190000 +0000" stop="20261022193000 +0000">
 		<title>The Context USA</title>
-		<desc>Special coverage from Washington DC and London</desc>
+		<desc>Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
 	</programme>
 	<programme channel="6166" start="20261022193000 +0000" stop="20261022200000 +0000">
 		<title>The Context USA</title>
-		<desc>Special coverage from Washington DC and London</desc>
+		<desc>Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
 	</programme>
 	<programme channel="6166" start="20261022200000 +0000" stop="20261022203000 +0000">
 		<title>The Context</title>
@@ -27557,12 +27557,12 @@
 		<desc>The latest news from the BBC.</desc>
 	</programme>
 	<programme channel="6166" start="20261023003000 +0000" stop="20261023010000 +0000">
-		<title>Tech Now (r)</title>
-		<desc>Andrew Rogers has the highlights from IFA Berlin</desc>
+		<title>America's War on Drugs: The Synthetic Wave (r)</title>
+		<desc>Extraordinary access shows how strong synthetic drugs are changing America's drug crisis. From a jail in Chicago to the streets of Columbus, a new generation of home-made drugs are deadlier than ever.</desc>
 	</programme>
 	<programme channel="6166" start="20261023010000 +0000" stop="20261023013000 +0000">
 		<title>Newsday</title>
-		<desc>Live from Singapore</desc>
+		<desc>Live from Singapore, the latest international news from the BBC.</desc>
 	</programme>
 	<programme channel="6166" start="20261023013000 +0000" stop="20261023014500 +0000">
 		<title>Business Today</title>
@@ -27570,11 +27570,11 @@
 	</programme>
 	<programme channel="6166" start="20261023014500 +0000" stop="20261023020000 +0000">
 		<title>BBC Sport</title>
-		<desc>A round-up of the day's sporting action</desc>
+		<desc>A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
 	</programme>
 	<programme channel="6166" start="20261023020000 +0000" stop="20261023023000 +0000">
 		<title>Newsday</title>
-		<desc>Live from Singapore</desc>
+		<desc>Live from Singapore, the latest international news from the BBC.</desc>
 	</programme>
 	<programme channel="6166" start="20261023023000 +0000" stop="20261023024500 +0000">
 		<title>Business Today</title>
@@ -27582,11 +27582,11 @@
 	</programme>
 	<programme channel="6166" start="20261023024500 +0000" stop="20261023030000 +0000">
 		<title>BBC Sport (r)</title>
-		<desc>A round-up of the day's sporting action</desc>
+		<desc>A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
 	</programme>
 	<programme channel="6166" start="20261023030000 +0000" stop="20261023033000 +0000">
 		<title>Newsday</title>
-		<desc>Live from Singapore</desc>
+		<desc>Live from Singapore, the latest international news from the BBC.</desc>
 	</programme>
 	<programme channel="6166" start="20261023033000 +0000" stop="20261023034500 +0000">
 		<title>Business Today</title>
@@ -27594,7 +27594,7 @@
 	</programme>
 	<programme channel="6166" start="20261023034500 +0000" stop="20261023040000 +0000">
 		<title>BBC Sport (r)</title>
-		<desc>A round-up of the day's sporting action</desc>
+		<desc>A round-up of the day's sporting action, plus talking points, analysis and original journalism.</desc>
 	</programme>
 	<programme channel="6166" start="20261023040000 +0000" stop="20261023043000 +0000">
 		<title>BBC News</title>
@@ -27658,23 +27658,23 @@
 	</programme>
 	<programme channel="6166" start="20261023110000 +0000" stop="20261023113000 +0000">
 		<title>BBC News Now</title>
-		<desc>All the big stories</desc>
+		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
 	</programme>
 	<programme channel="6166" start="20261023113000 +0000" stop="20261023120000 +0000">
 		<title>BBC News Now</title>
-		<desc>All the big stories</desc>
+		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
 	</programme>
 	<programme channel="6166" start="20261023120000 +0000" stop="20261023123000 +0000">
 		<title>BBC News Now</title>
-		<desc>All the big stories</desc>
+		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
 	</programme>
 	<programme channel="6166" start="20261023123000 +0000" stop="20261023130000 +0000">
 		<title>BBC News Now</title>
-		<desc>All the big stories</desc>
+		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
 	</programme>
 	<programme channel="6166" start="20261023130000 +0000" stop="20261023133000 +0000">
 		<title>BBC News Now</title>
-		<desc>All the big stories</desc>
+		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
 	</programme>
 	<programme channel="6166" start="20261023133000 +0000" stop="20261023134500 +0000">
 		<title>Business Today - NYSE Opening Bell</title>
@@ -27682,23 +27682,23 @@
 	</programme>
 	<programme channel="6166" start="20261023134500 +0000" stop="20261023140000 +0000">
 		<title>BBC News Now</title>
-		<desc>All the big stories</desc>
+		<desc>All the big stories, live as they happen, presented by Lucy Hockings.</desc>
 	</programme>
 	<programme channel="6166" start="20261023140000 +0000" stop="20261023143000 +0000">
 		<title>Verified Live</title>
-		<desc>Matthew Amroliwala presents all the latest global and UK news</desc>
+		<desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
 	</programme>
 	<programme channel="6166" start="20261023143000 +0000" stop="20261023150000 +0000">
 		<title>Verified Live</title>
-		<desc>Matthew Amroliwala presents all the latest global and UK news</desc>
+		<desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
 	</programme>
 	<programme channel="6166" start="20261023150000 +0000" stop="20261023153000 +0000">
 		<title>Verified Live</title>
-		<desc>Matthew Amroliwala presents all the latest global and UK news</desc>
+		<desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
 	</programme>
 	<programme channel="6166" start="20261023153000 +0000" stop="20261023160000 +0000">
 		<title>Verified Live</title>
-		<desc>Matthew Amroliwala presents all the latest global and UK news</desc>
+		<desc>Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
 	</programme>
 	<programme channel="6166" start="20261023160000 +0000" stop="20261023163000 +0000">
 		<title>Verified Live</title>
@@ -29672,9 +29672,13 @@
 		<title>Bloomberg: Balance of Power</title>
 		<desc>Bloomberg Balance of Power focuses on politics and policies on Capitol Hill, in President Trump's administration, the federal agencies and the courts.</desc>
 	</programme>
-	<programme channel="5171" start="20261022220000 +0000" stop="20261022230000 +0000">
+	<programme channel="5171" start="20261022220000 +0000" stop="20261022223000 +0000">
 		<title>Businessweek Convenes: A Frank Conversation on AI &amp; Hollywood</title>
 		<desc>From Bloomberg Screentime, Hollywood leaders examine how AI is reshaping the business of entertainment, from creative work and jobs to economics and ownership.</desc>
+	</programme>
+	<programme channel="5171" start="20261022223000 +0000" stop="20261022230000 +0000">
+		<title>Bloomberg Primer</title>
+		<desc>Chinese companies dominate the EV battery supply chain and are expanding rapidly outside their home market. Meanwhile, competitors are looking to new chemistries to leapfrog the leading tech.</desc>
 	</programme>
 	<programme channel="5171" start="20261022230000 +0000" stop="20261023003000 +0000">
 		<title>Bloomberg The Asia Trade</title>
@@ -54521,196 +54525,196 @@
 		<desc>Ferrari and Formula 1 are indissociable. Find out how this legendary team has fashioned sport and vice-versa.</desc>
 	</programme>
 	<programme channel="5257" start="20261022160000 +0000" stop="20261022163000 +0000">
-		<title>The Front Row Episode 4</title>
-		<desc>We explore the process of F1 design: from respecting the rule to the exploitation of flaws, via all the intermediary stages.</desc>
-	</programme>
-	<programme channel="5257" start="20261022163000 +0000" stop="20261022170000 +0000">
-		<title>Chill Episode 4</title>
-		<desc>Freddy the Nightmare Krueger is the uncontested legend of ski flying. Chill meets him to find out about his motivation and passion which impel him to seek perfection.</desc>
-	</programme>
-	<programme channel="5257" start="20261022170000 +0000" stop="20261022173000 +0000">
-		<title>Sports Woman Episode 12</title>
-		<desc>In this edition of Sportswoman, it's about the athletes who have gone from the status of challengers to that of champions.</desc>
-	</programme>
-	<programme channel="5257" start="20261022173000 +0000" stop="20261022180000 +0000">
-		<title>Foul Play Episode 6</title>
-		<desc>David Beckham's red card at the 1998 World Cup, Sepp Blatter and FIFA corruption, and the Argentine football club Boca Juniors which crossed an enemy territory by bus.</desc>
-	</programme>
-	<programme channel="5257" start="20261022180000 +0000" stop="20261022183000 +0000">
-		<title>Sports Woman Episode 9</title>
-		<desc>This edition of Sportswoman is devoted to the athletes who have dominated their sport.</desc>
-	</programme>
-	<programme channel="5257" start="20261022183000 +0000" stop="20261022190000 +0000">
-		<title>Heroines Episode 7</title>
-		<desc>What does it mean to "play like a girl"?</desc>
-	</programme>
-	<programme channel="5257" start="20261022190000 +0000" stop="20261022193000 +0000">
-		<title>The Iconic Episode 5</title>
-		<desc>Ferrari is the best known F1 brand in the world, Lewis Hamilton is an icon of F1, just like the Monaco circuit, while Seb Vettel's year 2013 was a super season for F1.</desc>
-	</programme>
-	<programme channel="5257" start="20261022193000 +0000" stop="20261022200000 +0000">
-		<title>Foul Play Episode 5</title>
-		<desc>The decision which robbed Lewis Hamilton of the F1 2021 world championship.</desc>
-	</programme>
-	<programme channel="5257" start="20261022200000 +0000" stop="20261022203000 +0000">
-		<title>The Front Row Episode 13</title>
-		<desc>Ferrari and Formula 1 are indissociable. Find out how this legendary team has fashioned sport and vice-versa.</desc>
-	</programme>
-	<programme channel="5257" start="20261022203000 +0000" stop="20261022210000 +0000">
 		<title>Foul Play Episode 8</title>
 		<desc>The impact of partiality and aggression of crowds on tennis matches.</desc>
 	</programme>
-	<programme channel="5257" start="20261022210000 +0000" stop="20261022213000 +0000">
+	<programme channel="5257" start="20261022163000 +0000" stop="20261022170000 +0000">
 		<title>Football Nation Episode 10</title>
 		<desc>Qatar has, overnight, become a significant footballing nation.</desc>
 	</programme>
-	<programme channel="5257" start="20261022213000 +0000" stop="20261022220000 +0000">
+	<programme channel="5257" start="20261022170000 +0000" stop="20261022173000 +0000">
 		<title>The Front Row Episode 5</title>
 		<desc>We explore the qualities which make a great Formula 1 driver. From karting to physical training, via selection for a team and obtaining a place to drive at the biggest meetings.</desc>
 	</programme>
-	<programme channel="5257" start="20261022220000 +0000" stop="20261022223000 +0000">
+	<programme channel="5257" start="20261022173000 +0000" stop="20261022180000 +0000">
 		<title>Chill Episode 5</title>
 		<desc>Tomorrow's kitesurfing champions head to Spain for the PKRA Juniors and we hang out with female longboarder Darcy Liu who is promoting the sport in her native China.</desc>
 	</programme>
-	<programme channel="5257" start="20261022223000 +0000" stop="20261022230000 +0000">
+	<programme channel="5257" start="20261022180000 +0000" stop="20261022183000 +0000">
 		<title>Sports Woman Episode 13</title>
 		<desc>Sally Fitzgibbons takes us surfing in California. The South African Tatjana Schoenmaker makes waves at the Commonwealth Games.</desc>
 	</programme>
-	<programme channel="5257" start="20261022230000 +0000" stop="20261022233000 +0000">
+	<programme channel="5257" start="20261022183000 +0000" stop="20261022190000 +0000">
 		<title>Foul Play Episode 6</title>
 		<desc>David Beckham's red card at the 1998 World Cup, Sepp Blatter and FIFA corruption, and the Argentine football club Boca Juniors which crossed an enemy territory by bus.</desc>
 	</programme>
-	<programme channel="5257" start="20261022233000 +0000" stop="20261023000000 +0000">
+	<programme channel="5257" start="20261022190000 +0000" stop="20261022193000 +0000">
 		<title>Sports Woman Episode 9</title>
 		<desc>This edition of Sportswoman is devoted to the athletes who have dominated their sport.</desc>
 	</programme>
-	<programme channel="5257" start="20261023000000 +0000" stop="20261023003000 +0000">
+	<programme channel="5257" start="20261022193000 +0000" stop="20261022200000 +0000">
 		<title>Heroines Episode 7</title>
 		<desc>What does it mean to "play like a girl"?</desc>
 	</programme>
-	<programme channel="5257" start="20261023003000 +0000" stop="20261023010000 +0000">
+	<programme channel="5257" start="20261022200000 +0000" stop="20261022203000 +0000">
 		<title>The Iconic Episode 5</title>
 		<desc>Ferrari is the best known F1 brand in the world, Lewis Hamilton is an icon of F1, just like the Monaco circuit, while Seb Vettel's year 2013 was a super season for F1.</desc>
 	</programme>
-	<programme channel="5257" start="20261023010000 +0000" stop="20261023013000 +0000">
+	<programme channel="5257" start="20261022203000 +0000" stop="20261022210000 +0000">
 		<title>Foul Play Episode 5</title>
 		<desc>The decision which robbed Lewis Hamilton of the F1 2021 world championship.</desc>
 	</programme>
-	<programme channel="5257" start="20261023013000 +0000" stop="20261023020000 +0000">
+	<programme channel="5257" start="20261022210000 +0000" stop="20261022213000 +0000">
 		<title>The Front Row Episode 13</title>
 		<desc>Ferrari and Formula 1 are indissociable. Find out how this legendary team has fashioned sport and vice-versa.</desc>
 	</programme>
-	<programme channel="5257" start="20261023020000 +0000" stop="20261023023000 +0000">
+	<programme channel="5257" start="20261022213000 +0000" stop="20261022220000 +0000">
 		<title>Foul Play Episode 9</title>
 		<desc>How Hammerin' Hank Aaron hit racism from a home run.</desc>
 	</programme>
-	<programme channel="5257" start="20261023023000 +0000" stop="20261023030000 +0000">
+	<programme channel="5257" start="20261022220000 +0000" stop="20261022223000 +0000">
 		<title>Football Nation</title>
 		<desc>Germany is the footballing nation which most regularly excels.</desc>
 	</programme>
-	<programme channel="5257" start="20261023030000 +0000" stop="20261023033000 +0000">
+	<programme channel="5257" start="20261022223000 +0000" stop="20261022230000 +0000">
 		<title>The Front Row Episode 6</title>
 		<desc>We explore the development of security in F1, from the application of technology to the materials borne in the car to the specifically designed security arrangements and their impact on the drivers.</desc>
 	</programme>
-	<programme channel="5257" start="20261023033000 +0000" stop="20261023040000 +0000">
+	<programme channel="5257" start="20261022230000 +0000" stop="20261022233000 +0000">
 		<title>Chill Episode 6</title>
 		<desc>Jarrad Howse takes Chill to the hidden surf destination of Tofino in Canada. Cold, humid and windy, but better still, a sublime surf! We meet the Pro's of the Cold Water Classic.</desc>
 	</programme>
-	<programme channel="5257" start="20261023040000 +0000" stop="20261023043000 +0000">
+	<programme channel="5257" start="20261022233000 +0000" stop="20261023000000 +0000">
 		<title>Sports Woman Episode 14</title>
 		<desc>Since Marta erupted on the football field, she has proved that she can do what the men do, and the Laureus World Sports Awards present some of the most inspiring athletes in the world….</desc>
 	</programme>
-	<programme channel="5257" start="20261023043000 +0000" stop="20261023050000 +0000">
+	<programme channel="5257" start="20261023000000 +0000" stop="20261023003000 +0000">
 		<title>Football Nation Episode 2</title>
 		<desc>Argentina: cradle of Maradona, Messi and an uncompromising footballing culture.</desc>
 	</programme>
-	<programme channel="5257" start="20261023050000 +0000" stop="20261023053000 +0000">
+	<programme channel="5257" start="20261023003000 +0000" stop="20261023010000 +0000">
 		<title>The Front Row Episode 7</title>
 		<desc>For some decades, F1 has been an elite competition where technology and performance are pushed to the limits of the possible. But the biggest challenge faced by F1 today is to become sustainable.</desc>
 	</programme>
-	<programme channel="5257" start="20261023053000 +0000" stop="20261023060000 +0000">
+	<programme channel="5257" start="20261023010000 +0000" stop="20261023013000 +0000">
 		<title>Chill Episode 7</title>
 		<desc>Chill heads to the antipodes to do some water skiing with the men's Action Tricks Comp and the women's Ski Jump. We examine in detail the women's longboard championships in the South China sea.</desc>
 	</programme>
-	<programme channel="5257" start="20261023060000 +0000" stop="20261023063000 +0000">
+	<programme channel="5257" start="20261023013000 +0000" stop="20261023020000 +0000">
 		<title>Sports Woman Episode 15</title>
 		<desc>Molly Meech and Alex Maloney, the two New Zealand sailors, set course for the Tokyo Olympic Games. Russian high jumper Mariya Lasitskene has some arguments to put forward.</desc>
 	</programme>
-	<programme channel="5257" start="20261023063000 +0000" stop="20261023070000 +0000">
+	<programme channel="5257" start="20261023020000 +0000" stop="20261023023000 +0000">
 		<title>Foul Play Episode 6</title>
 		<desc>David Beckham's red card at the 1998 World Cup, Sepp Blatter and FIFA corruption, and the Argentine football club Boca Juniors which crossed an enemy territory by bus.</desc>
 	</programme>
-	<programme channel="5257" start="20261023070000 +0000" stop="20261023073000 +0000">
+	<programme channel="5257" start="20261023023000 +0000" stop="20261023030000 +0000">
 		<title>Sports Woman Episode 9</title>
 		<desc>This edition of Sportswoman is devoted to the athletes who have dominated their sport.</desc>
 	</programme>
-	<programme channel="5257" start="20261023073000 +0000" stop="20261023080000 +0000">
+	<programme channel="5257" start="20261023030000 +0000" stop="20261023033000 +0000">
 		<title>Heroines Episode 7</title>
 		<desc>What does it mean to "play like a girl"?</desc>
 	</programme>
-	<programme channel="5257" start="20261023080000 +0000" stop="20261023083000 +0000">
+	<programme channel="5257" start="20261023033000 +0000" stop="20261023040000 +0000">
 		<title>The Iconic Episode 5</title>
 		<desc>Ferrari is the best known F1 brand in the world, Lewis Hamilton is an icon of F1, just like the Monaco circuit, while Seb Vettel's year 2013 was a super season for F1.</desc>
 	</programme>
-	<programme channel="5257" start="20261023083000 +0000" stop="20261023090000 +0000">
+	<programme channel="5257" start="20261023040000 +0000" stop="20261023043000 +0000">
 		<title>Foul Play Episode 5</title>
 		<desc>The decision which robbed Lewis Hamilton of the F1 2021 world championship.</desc>
 	</programme>
-	<programme channel="5257" start="20261023090000 +0000" stop="20261023093000 +0000">
+	<programme channel="5257" start="20261023043000 +0000" stop="20261023050000 +0000">
 		<title>The Front Row Episode 13</title>
 		<desc>Ferrari and Formula 1 are indissociable. Find out how this legendary team has fashioned sport and vice-versa.</desc>
 	</programme>
-	<programme channel="5257" start="20261023093000 +0000" stop="20261023100000 +0000">
+	<programme channel="5257" start="20261023050000 +0000" stop="20261023053000 +0000">
 		<title>Foul Play Episode 10</title>
 		<desc>The greatest Olympic cheating and the biggest injustice of Olympic boxing.</desc>
 	</programme>
-	<programme channel="5257" start="20261023100000 +0000" stop="20261023103000 +0000">
+	<programme channel="5257" start="20261023053000 +0000" stop="20261023060000 +0000">
 		<title>Football Nation Episode 5</title>
 		<desc>Saudi Arabia is in the process of becoming a powerful new actor on the global footballing scene.</desc>
 	</programme>
-	<programme channel="5257" start="20261023103000 +0000" stop="20261023110000 +0000">
+	<programme channel="5257" start="20261023060000 +0000" stop="20261023063000 +0000">
 		<title>The Front Row Episode 8</title>
 		<desc>We examine the design of the world's best F1 circuits, from design to realisation. And the numerous factors to be taken into account during the construction of a circuit.</desc>
 	</programme>
-	<programme channel="5257" start="20261023110000 +0000" stop="20261023113000 +0000">
+	<programme channel="5257" start="20261023063000 +0000" stop="20261023070000 +0000">
 		<title>Chill Episode 8</title>
 		<desc>This week on Chill, it's water skiing around the world, we're at the jumping in Australia and the slalom in Palembang. We go to the PKRA Mexico, then we meet surf sensations Courtney Cologue and Sage Erickson.</desc>
 	</programme>
-	<programme channel="5257" start="20261023113000 +0000" stop="20261023120000 +0000">
+	<programme channel="5257" start="20261023070000 +0000" stop="20261023073000 +0000">
 		<title>Sports Woman Episode 16</title>
 		<desc>In this edition of Sportswoman, we deal with athletes who have never given up.</desc>
 	</programme>
-	<programme channel="5257" start="20261023120000 +0000" stop="20261023123000 +0000">
+	<programme channel="5257" start="20261023073000 +0000" stop="20261023080000 +0000">
 		<title>Flashpoint Episode 12</title>
 		<desc>Bjorn Borg and John McEnroe have set new standards in men's tennis, while Mike Tyson and Evander Holyfield have reached new summits in heavyweight boxing. These two rivalries have created historic tensions.</desc>
 	</programme>
-	<programme channel="5257" start="20261023123000 +0000" stop="20261023130000 +0000">
+	<programme channel="5257" start="20261023080000 +0000" stop="20261023083000 +0000">
 		<title>Top 20 Episode 124</title>
 		<desc>The Top 20 is an exclusive ranking of the news or the champions who are causing a buzz on planet sport!</desc>
 	</programme>
-	<programme channel="5257" start="20261023130000 +0000" stop="20261023133000 +0000">
+	<programme channel="5257" start="20261023083000 +0000" stop="20261023090000 +0000">
 		<title>Foul Play Episode 14</title>
 		<desc>Mike Tyson gets ready for a rematch, Marvin Hagler makes a not so "marvellous" trip to Great Britain and the Irish mafia infiltrate the world of boxing.</desc>
 	</programme>
-	<programme channel="5257" start="20261023133000 +0000" stop="20261023140000 +0000">
+	<programme channel="5257" start="20261023090000 +0000" stop="20261023093000 +0000">
 		<title>Sports Woman Episode 25</title>
 		<desc>Laura Trott has won more medals than any British athlete, and she has won the heart of her Olympic champion colleague Jason Kenny.</desc>
 	</programme>
-	<programme channel="5257" start="20261023140000 +0000" stop="20261023143000 +0000">
+	<programme channel="5257" start="20261023093000 +0000" stop="20261023100000 +0000">
 		<title>The Iconic Episode 4</title>
 		<desc>The Wimbledon 2008 men's final is considered as the greatest of all time… Roland Garros is an emblematic place…. Naomi Osaka is a citizen of world tennis while Novak Djokovic has made history in Australia.</desc>
 	</programme>
-	<programme channel="5257" start="20261023143000 +0000" stop="20261023150000 +0000">
+	<programme channel="5257" start="20261023100000 +0000" stop="20261023103000 +0000">
 		<title>Heroines Episode 2</title>
 		<desc>One of the most difficult questions athletes face is "When to have a baby"? It isn't always easy, but progress has been made to help female athletes.</desc>
 	</programme>
-	<programme channel="5257" start="20261023150000 +0000" stop="20261023153000 +0000">
+	<programme channel="5257" start="20261023103000 +0000" stop="20261023110000 +0000">
 		<title>Foul Play Episode 11</title>
 		<desc>Lance Armstrong was a hero to millions of people, overcoming adversity to dominate cycling, but his success was built on doping and a culture of fear.</desc>
 	</programme>
-	<programme channel="5257" start="20261023153000 +0000" stop="20261023160000 +0000">
+	<programme channel="5257" start="20261023110000 +0000" stop="20261023113000 +0000">
 		<title>Football Nation Episode 6</title>
 		<desc>The Western region is the motor force of African football.</desc>
+	</programme>
+	<programme channel="5257" start="20261023113000 +0000" stop="20261023120000 +0000">
+		<title>The Front Row Episode 9</title>
+		<desc>We explore what is necessary to succeed as a woman in the world of Formula 1. And what challenges women face on the road to becoming world champions.</desc>
+	</programme>
+	<programme channel="5257" start="20261023120000 +0000" stop="20261023123000 +0000">
+		<title>Chill Episode 9</title>
+		<desc>We look at the skills required and the chills provided by the wave queen of all waves, the powerful Barrel. The Longboard Pro Circuit in China is our next destination, where we meet Kassia Meador and Darcy Liu.</desc>
+	</programme>
+	<programme channel="5257" start="20261023123000 +0000" stop="20261023130000 +0000">
+		<title>Sports Woman Episode 17</title>
+		<desc>Simone Biles is the most decorated American gymnast and, despite the scandal surrounding the doctor Larry Nasser and US team, she is determined to contest the Tokyo Olympic Games.</desc>
+	</programme>
+	<programme channel="5257" start="20261023130000 +0000" stop="20261023133000 +0000">
+		<title>50+ Years of Sport</title>
+		<desc>We take you back to 1970, the year when Pelé carried off a new World Cup and Arthur Ashe won Wimbledon.</desc>
+	</programme>
+	<programme channel="5257" start="20261023133000 +0000" stop="20261023140000 +0000">
+		<title>50+ Years of Sport Episode 2</title>
+		<desc>We take you back to 1971, for the fight of the century between Muhammad Ali and Joe Frazier and the Grand Slam debuts of Chris Evert.</desc>
+	</programme>
+	<programme channel="5257" start="20261023140000 +0000" stop="20261023143000 +0000">
+		<title>50+ Years of Sport Episode 3</title>
+		<desc>We go back to 1972… when terrorism shook the Munich Olympic Games and Billie Jean King dominated women's tennis.</desc>
+	</programme>
+	<programme channel="5257" start="20261023143000 +0000" stop="20261023150000 +0000">
+		<title>50+ Years of Sport Episode 4</title>
+		<desc>In 1973, the "Battle of the Sexes" tennis match took place, Secretariat won the Triple Crown and Willie Mays retired.</desc>
+	</programme>
+	<programme channel="5257" start="20261023150000 +0000" stop="20261023153000 +0000">
+		<title>50+ Years of Sport Episode 5</title>
+		<desc>The sporting year of 1974 gave us the "Rumble in the Jungle", a FIFA World Cup and a historic baseball record.</desc>
+	</programme>
+	<programme channel="5257" start="20261023153000 +0000" stop="20261023160000 +0000">
+		<title>50+ Years of Sport</title>
+		<desc>We take you back to 1970, the year when Pelé carried off a new World Cup and Arthur Ashe won Wimbledon.</desc>
 	</programme>
 	<programme channel="5257" start="20261023160000 +0000" stop="20261023163000 +0000">
 		<title>Foul Play Episode 12</title>
@@ -93702,37 +93706,37 @@ Nicole換上短髮新形象，與Amber體驗越野冒險。二人來到越野場
 		<title>Ronth</title>
 		<desc>Two patrol officers clash quietly on a tense night shift, handling dangerous calls while confronting a strained partnership and their own personal demons. Release Year: 2025 Director: Shahi Kabir</desc>
 	</programme>
-	<programme channel="5639" start="20261022160000 +0000" stop="20261022190000 +0000">
-		<title>Movies</title>
-		<desc>Movies</desc>
+	<programme channel="5639" start="20261022160000 +0000" stop="20261022183500 +0000">
+		<title>Kho Kho</title>
+		<desc>Maria Francis sets out on a mission to form a Kho-Kho team. She has to fight the primordial mind-set of the villagers and her own demons from the past. Release Year: 2021 Director: Rahul Riji Nair</desc>
 	</programme>
-	<programme channel="5639" start="20261022190000 +0000" stop="20261022220000 +0000">
-		<title>Movies</title>
-		<desc>Movies</desc>
+	<programme channel="5639" start="20261022183500 +0000" stop="20261022210500 +0000">
+		<title>Ben Johnson</title>
+		<desc>Johnson's father is feared by the villagers. Johnson, however, tries his best to help others and aspires to be a cop. Release Year: 2005 Director: Anil C. Menon</desc>
 	</programme>
-	<programme channel="5639" start="20261022220000 +0000" stop="20261023010000 +0000">
-		<title>Movies</title>
-		<desc>Movies</desc>
+	<programme channel="5639" start="20261022210500 +0000" stop="20261022231500 +0000">
+		<title>Minnaminnikkoottam</title>
+		<desc>Seven friends work for an IT company and lead a seemingly fun-filled life. Each one of them is dealing with personal issues related to love and family. Release Year: 2008 Awards: Samvrutha Sunil won the Best Supporting ActreSS at Asianet Film Awards for this film in 2008.</desc>
 	</programme>
-	<programme channel="5639" start="20261023010000 +0000" stop="20261023040000 +0000">
-		<title>Movies</title>
-		<desc>Movies</desc>
+	<programme channel="5639" start="20261022231500 +0000" stop="20261023013000 +0000">
+		<title>Chakram</title>
+		<desc>Chakram and Lakshmi are in love with each other. When Chakram is diagnosed with cancer before their wedding, he leaves her and moves to another city. Release Year: 2003 Director: A. K. Lohithadas</desc>
 	</programme>
-	<programme channel="5639" start="20261023040000 +0000" stop="20261023070000 +0000">
-		<title>Movies</title>
-		<desc>Movies</desc>
+	<programme channel="5639" start="20261023013000 +0000" stop="20261023043000 +0000">
+		<title>Honey Bee</title>
+		<desc>Sebastian falls in love with Angel and, tries to elope with her. Release Year: 2013 Director: Lal Jr.</desc>
 	</programme>
-	<programme channel="5639" start="20261023070000 +0000" stop="20261023100000 +0000">
-		<title>Movies</title>
-		<desc>Movies</desc>
+	<programme channel="5639" start="20261023043000 +0000" stop="20261023073000 +0000">
+		<title>Sound Thoma</title>
+		<desc>Thomas is unable to speak normally and he suffers much from his villagers. Release Year: 2013 Director: Vysakh</desc>
 	</programme>
-	<programme channel="5639" start="20261023100000 +0000" stop="20261023130000 +0000">
-		<title>Movies</title>
-		<desc>Movies</desc>
+	<programme channel="5639" start="20261023073000 +0000" stop="20261023103000 +0000">
+		<title>Baba Kalyani</title>
+		<desc>Baba Kalyani, an IPS officer in charge of the Anti terrorist cell, comes across a terrorist group planning to bomb the city of Kochi. Release Year: 2006 Director: Shaji Kailas Awards: Asianet Film Award for Best Male Playback Singer</desc>
 	</programme>
-	<programme channel="5639" start="20261023130000 +0000" stop="20261023133000 +0000">
-		<title>Movies</title>
-		<desc>Movies</desc>
+	<programme channel="5639" start="20261023103000 +0000" stop="20261023133000 +0000">
+		<title>Amaran</title>
+		<desc>In a tense Kashmir, a steadfast army officer leads his unit against Pakistani aggressors. He discovers inner strength, inspiring his team amidst the deadly conflict.</desc>
 	</programme>
 	<programme channel="5639" start="20261023133000 +0000" stop="20261023163000 +0000">
 		<title>Anand Sreebala</title>
