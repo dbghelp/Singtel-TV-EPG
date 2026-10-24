@@ -9206,7 +9206,7 @@
 	</programme>
 	<programme channel="4102" start="20261024162000 +0000" stop="20261024183000 +0000">
 		<title>Chelsea v Tottenham Hotspur (MW08) (Live)</title>
-		<desc>Live match action from the latest match round of the Premier League, with insight, analysis, and reaction from our expert panel of studio guests.</desc>
+		<desc>Chelsea have won each of their last six Premier League matches against Tottenham Hotspur, their joint-longest ever winning league run against their London rivals (also 6 between January 2000 and March 2002).</desc>
 	</programme>
 	<programme channel="4102" start="20261024183000 +0000" stop="20261024190000 +0000">
 		<title>PREMIER LEAGUE LIVE (Live)</title>
@@ -9238,7 +9238,7 @@
 	</programme>
 	<programme channel="4102" start="20261024230000 +0000" stop="20261024233000 +0000">
 		<title>THE BIG INTERVIEW Episode 10</title>
-		<desc>Extended sit-downs and more informal 'out and about' interview with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
+		<desc>Romeo Lavia's performances at the heart of Chelsea's midfield this season suggest he is on the way to fulfilling the immense promise that persuaded Pep Guardiola to sign him for Manchester City, having spotted him at an under-15 youth tournament in Belgium. Lavia then impressed at Southampton but injuries and the burden of expectation have stalled his progress at Chelsea. The Belgian opens up on the challenges he has overcome so far and his hunger to make up for lost time under Xabi Alonso.</desc>
 	</programme>
 	<programme channel="4102" start="20261024233000 +0000" stop="20261025000000 +0000">
 		<title>MATCH HIGHLIGHTS 26/27 MW08 Aston Villa v Manchester City</title>
@@ -9306,7 +9306,7 @@
 	</programme>
 	<programme channel="4102" start="20261025090000 +0000" stop="20261025093000 +0000">
 		<title>THE BIG INTERVIEW Episode 10</title>
-		<desc>Extended sit-downs and more informal 'out and about' interview with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
+		<desc>Romeo Lavia's performances at the heart of Chelsea's midfield this season suggest he is on the way to fulfilling the immense promise that persuaded Pep Guardiola to sign him for Manchester City, having spotted him at an under-15 youth tournament in Belgium. Lavia then impressed at Southampton but injuries and the burden of expectation have stalled his progress at Chelsea. The Belgian opens up on the challenges he has overcome so far and his hunger to make up for lost time under Xabi Alonso.</desc>
 	</programme>
 	<programme channel="4102" start="20261025093000 +0000" stop="20261025100000 +0000">
 		<title>MATCH HIGHLIGHTS 26/27 MW08 Aston Villa v Manchester City</title>
@@ -9334,11 +9334,11 @@
 	</programme>
 	<programme channel="4102" start="20261025130000 +0000" stop="20261025135000 +0000">
 		<title>PREMIER LEAGUE LIVE (Live)</title>
-		<desc>Premier League Live is our flagship programme, providing a fully wrapped studio show with debate, analysis and reaction from every Premier League matchday.</desc>
+		<desc>A bumper Premier League Sunday includes Manchester United versus Bournemouth followed by Sunderland taking on Leeds United at the Stadium of Light.</desc>
 	</programme>
 	<programme channel="4102" start="20261025135000 +0000" stop="20261025162000 +0000">
-		<title>Liverpool v Brighton &amp; Hove Albion (MW08) (Goal Rush) (Live)</title>
-		<desc>Live match action from the latest match round of the Premier League, with insight, analysis, and reaction from our expert panel of studio guests.</desc>
+		<title>Manchester United v Bournemouth (MW08) (Goal Rush) (Live)</title>
+		<desc>Manchester United won nine of their first 12 Premier League matches against Bournemouth (D1 L2), but they are winless in six against the Cherries since then (D4 L2).</desc>
 	</programme>
 	<programme channel="4102" start="20261025162000 +0000" stop="20261025183000 +0000">
 		<title>Sunderland v Leeds United (MW08) (Live)</title>
@@ -9365,11 +9365,11 @@
 		<desc>An extensive recap of Matchweek 8, showcasing the thrills, spills and major talking points from each Premier League fixture.</desc>
 	</programme>
 	<programme channel="4102" start="20261025230000 +0000" stop="20261025233000 +0000">
-		<title>MATCH HIGHLIGHTS 26/27 MW08 Liverpool v Brighton and Hove Albion</title>
+		<title>MATCH HIGHLIGHTS 26/27 MW08 Manchester United v Bournemouth</title>
 		<desc>Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
 	</programme>
 	<programme channel="4102" start="20261025233000 +0000" stop="20261026000000 +0000">
-		<title>MATCH HIGHLIGHTS 26/27 MW08 Manchester United v Bournemouth</title>
+		<title>MATCH HIGHLIGHTS 26/27 MW08 Liverpool v Brighton and Hove Albion</title>
 		<desc>Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
 	</programme>
 	<programme channel="4102" start="20261026000000 +0000" stop="20261026003000 +0000">
@@ -9393,11 +9393,11 @@
 		<desc>Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
 	</programme>
 	<programme channel="4102" start="20261026030000 +0000" stop="20261026033000 +0000">
-		<title>MATCH HIGHLIGHTS 26/27 MW08 Liverpool v Brighton and Hove Albion</title>
+		<title>MATCH HIGHLIGHTS 26/27 MW08 Manchester United v Bournemouth</title>
 		<desc>Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
 	</programme>
 	<programme channel="4102" start="20261026033000 +0000" stop="20261026040000 +0000">
-		<title>MATCH HIGHLIGHTS 26/27 MW08 Manchester United v Bournemouth</title>
+		<title>MATCH HIGHLIGHTS 26/27 MW08 Liverpool v Brighton and Hove Albion</title>
 		<desc>Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
 	</programme>
 	<programme channel="4102" start="20261026040000 +0000" stop="20261026043000 +0000">
@@ -9421,11 +9421,11 @@
 		<desc>Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
 	</programme>
 	<programme channel="4102" start="20261026070000 +0000" stop="20261026073000 +0000">
-		<title>MATCH HIGHLIGHTS 26/27 MW08 Liverpool v Brighton and Hove Albion</title>
+		<title>MATCH HIGHLIGHTS 26/27 MW08 Manchester United v Bournemouth</title>
 		<desc>Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
 	</programme>
 	<programme channel="4102" start="20261026073000 +0000" stop="20261026080000 +0000">
-		<title>MATCH HIGHLIGHTS 26/27 MW08 Manchester United v Bournemouth</title>
+		<title>MATCH HIGHLIGHTS 26/27 MW08 Liverpool v Brighton and Hove Albion</title>
 		<desc>Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
 	</programme>
 	<programme channel="4102" start="20261026080000 +0000" stop="20261026083000 +0000">
@@ -9449,11 +9449,11 @@
 		<desc>Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
 	</programme>
 	<programme channel="4102" start="20261026110000 +0000" stop="20261026113000 +0000">
-		<title>MATCH HIGHLIGHTS 26/27 MW08 Liverpool v Brighton and Hove Albion</title>
+		<title>MATCH HIGHLIGHTS 26/27 MW08 Manchester United v Bournemouth</title>
 		<desc>Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
 	</programme>
 	<programme channel="4102" start="20261026113000 +0000" stop="20261026120000 +0000">
-		<title>MATCH HIGHLIGHTS 26/27 MW08 Manchester United v Bournemouth</title>
+		<title>MATCH HIGHLIGHTS 26/27 MW08 Liverpool v Brighton and Hove Albion</title>
 		<desc>Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
 	</programme>
 	<programme channel="4102" start="20261026120000 +0000" stop="20261026123000 +0000">
@@ -9477,7 +9477,7 @@
 		<desc>This is the show that puts international fans at the heart of the Premier League conversation. We connect with fans from around the world as they share their views on their teams and favourite players.</desc>
 	</programme>
 	<programme channel="4102" start="20261026153000 +0000" stop="20261026160000 +0000">
-		<title>MATCH HIGHLIGHTS 26/27 MW08 Liverpool v Brighton and Hove Albion</title>
+		<title>MATCH HIGHLIGHTS 26/27 MW08 Manchester United v Bournemouth</title>
 		<desc>Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
 	</programme>
 	<programme channel="4102" start="20261026160000 +0000" stop="20261026170000 +0000">
@@ -9489,7 +9489,7 @@
 		<desc>A deep dive into the tactical trends and statistical insights of modern football, with input from players, managers and data experts.</desc>
 	</programme>
 	<programme channel="4102" start="20261026180000 +0000" stop="20261026183000 +0000">
-		<title>MATCH HIGHLIGHTS 26/27 MW08 Manchester United v Bournemouth</title>
+		<title>MATCH HIGHLIGHTS 26/27 MW08 Liverpool v Brighton and Hove Albion</title>
 		<desc>Each Premier League game from the 2026/27 season condensed into an individual 26-minute highlights show.</desc>
 	</programme>
 	<programme channel="4102" start="20261026183000 +0000" stop="20261026190000 +0000">
@@ -9918,7 +9918,7 @@
 	</programme>
 	<programme channel="4103" start="20261024160000 +0000" stop="20261024180000 +0000">
 		<title>Ipswich Town vs Nottingham Forest (MW08) Episode 71</title>
-		<desc>The 35th season of the Premier League sees Arsenal defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Ipswich have scored five 90th-minute goals (including stoppage time) in the Premier League this season, more than any other side. All three of their wins this term have come courtesy of 90th-minute strikes.</desc>
 	</programme>
 	<programme channel="4103" start="20261024180000 +0000" stop="20261024190000 +0000">
 		<title>PL Stories 2026/27 Episode 21</title>
@@ -9926,19 +9926,19 @@
 	</programme>
 	<programme channel="4103" start="20261024190000 +0000" stop="20261024193000 +0000">
 		<title>The Big Interview 2026/27 Episode 10</title>
-		<desc>Extended sit-downs and more informal ‘out and about' interviews with the Premier League's biggest stars, providing players with a platform to tell their story in their own words.</desc>
+		<desc>Romeo Lavia's performances at the heart of Chelsea's midfield this season suggest he is on the way to fulfilling the immense promise that persuaded Pep Guardiola to sign him for Manchester City, having spotted him at an under-15 youth tournament in Belgium. Lavia then impressed at Southampton but injuries and the burden of expectation have stalled his progress at Chelsea. The Belgian opens up on the challenges he has overcome so far and his hunger to make up for lost time under Xabi Alonso.</desc>
 	</programme>
 	<programme channel="4103" start="20261024193000 +0000" stop="20261024200000 +0000">
 		<title>PL Rewind 2026/27 Episode 5</title>
-		<desc>An evergreen strand that relives classic matches, seasons and moments in the company of those who starred in them. PL Rewind delves back into the Premier League archive in 'watch along' style.</desc>
+		<desc>At just 16 years old, Theo Walcott attracted the attention of Arsene Wenger, who brought the electric youngster to Arsenal. The Englishman bagged over 100 goals for the Gunners, becoming one of their most prolific Premier League stars. He recalls the key moments and matches from 12 years in north London.</desc>
 	</programme>
 	<programme channel="4103" start="20261024200000 +0000" stop="20261024220000 +0000">
 		<title>Coventry City vs Fulham (MW08) Episode 74</title>
-		<desc>The 35th season of the Premier League sees Arsenal defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Fulham picked up their first Premier League win of the season against Hull last time out. However, the Cottagers are winless in their last eight away league games, alternating between a draw (4) and defeat (4) each time.</desc>
 	</programme>
 	<programme channel="4103" start="20261024220000 +0000" stop="20261025000000 +0000">
 		<title>Aston Villa vs Manchester City (MW08) Episode 72</title>
-		<desc>The 35th season of the Premier League sees Arsenal defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Man City have lost their last two league games against Aston Villa, last losing three in a row between August 1962 and September 1966.</desc>
 	</programme>
 	<programme channel="4103" start="20261025000000 +0000" stop="20261025010000 +0000">
 		<title>The Saturday Wrap 2026/27 Episode 8</title>
@@ -9946,15 +9946,15 @@
 	</programme>
 	<programme channel="4103" start="20261025010000 +0000" stop="20261025030000 +0000">
 		<title>Chelsea vs Tottenham Hotspur (MW08) Episode 75</title>
-		<desc>The 35th season of the Premier League sees Arsenal defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Chelsea have won each of their last six Premier League matches against Tottenham Hotspur, their joint-longest ever winning league run against their London rivals (also 6 between January 2000 and March 2002).</desc>
 	</programme>
 	<programme channel="4103" start="20261025030000 +0000" stop="20261025050000 +0000">
 		<title>Arsenal vs Everton (MW08) Episode 73</title>
-		<desc>The 35th season of the Premier League sees Arsenal defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Arsenal are unbeaten in their last seven Premier League matches against Everton (W5 D2), their best run against the Toffees since going 13 without defeat between December 2007 and December 2013.</desc>
 	</programme>
 	<programme channel="4103" start="20261025050000 +0000" stop="20261025070000 +0000">
 		<title>Coventry City vs Fulham (MW08) Episode 74</title>
-		<desc>The 35th season of the Premier League sees Arsenal defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Fulham picked up their first Premier League win of the season against Hull last time out. However, the Cottagers are winless in their last eight away league games, alternating between a draw (4) and defeat (4) each time.</desc>
 	</programme>
 	<programme channel="4103" start="20261025070000 +0000" stop="20261025080000 +0000">
 		<title>The Saturday Wrap 2026/27 Episode 8</title>
@@ -9962,19 +9962,19 @@
 	</programme>
 	<programme channel="4103" start="20261025080000 +0000" stop="20261025100000 +0000">
 		<title>Aston Villa vs Manchester City (MW08) Episode 72</title>
-		<desc>The 35th season of the Premier League sees Arsenal defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Man City have lost their last two league games against Aston Villa, last losing three in a row between August 1962 and September 1966.</desc>
 	</programme>
 	<programme channel="4103" start="20261025100000 +0000" stop="20261025115500 +0000">
 		<title>Arsenal vs Everton (MW08) Episode 73</title>
-		<desc>The 35th season of the Premier League sees Arsenal defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Arsenal are unbeaten in their last seven Premier League matches against Everton (W5 D2), their best run against the Toffees since going 13 without defeat between December 2007 and December 2013.</desc>
 	</programme>
 	<programme channel="4103" start="20261025115500 +0000" stop="20261025135000 +0000">
 		<title>Chelsea vs Tottenham Hotspur (MW08) Episode 75</title>
-		<desc>The 35th season of the Premier League sees Arsenal defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<desc>Chelsea have won each of their last six Premier League matches against Tottenham Hotspur, their joint-longest ever winning league run against their London rivals (also 6 between January 2000 and March 2002).</desc>
 	</programme>
 	<programme channel="4103" start="20261025135000 +0000" stop="20261025160000 +0000">
-		<title>Manchester United vs Bournemouth (MW08) (Live)</title>
-		<desc>The 35th season of the Premier League sees Arsenal defend its title against a host of teams keen for glory themselves. 20 teams are in the mix but only 1 champion will emerge ultimately.</desc>
+		<title>Liverpool vs Brighton and Hove Albion (MW08) (Live)</title>
+		<desc>Brighton have won each of their last four Premier League games by an aggregate score of 15-0. The last side to win five successive matches in the competition without conceding were Liverpool in April 2022.</desc>
 	</programme>
 	<programme channel="4103" start="20261025160000 +0000" stop="20261025180000 +0000">
 		<title>Aston Villa vs Manchester City (MW08) Episode 72</title>
@@ -29437,7 +29437,7 @@
 		<desc>Jake Tapper covers all the day's top stories around the country and the globe, from politics to money, and sports to popular culture.</desc>
 	</programme>
 	<programme channel="5167" start="20261027213000 +0000" stop="20261027220000 +0000">
-		<title>World Sport Episode 475</title>
+		<title>World Sport Episode 214</title>
 		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
 	</programme>
 	<programme channel="5167" start="20261027220000 +0000" stop="20261027230000 +0000">
@@ -29473,7 +29473,7 @@
 		<desc>Elex Michaelson tackles the breaking stories making headlines with sharp analysis, fresh perspective, and a dose of humor.</desc>
 	</programme>
 	<programme channel="5167" start="20261028054500 +0000" stop="20261028060000 +0000">
-		<title>World Sport Episode 474</title>
+		<title>World Sport Episode 214</title>
 		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
 	</programme>
 	<programme channel="5167" start="20261028060000 +0000" stop="20261028070000 +0000">
@@ -29485,7 +29485,7 @@
 		<desc>Live context and clarity to the day's top stories from around the world.</desc>
 	</programme>
 	<programme channel="5167" start="20261028074500 +0000" stop="20261028080000 +0000">
-		<title>World Sport Episode 474</title>
+		<title>World Sport Episode 214</title>
 		<desc>Daily sports show features major stories and issues making news in the world of sports.</desc>
 	</programme>
 	<programme channel="5167" start="20261028080000 +0000" stop="20261028090000 +0000">
@@ -88907,8 +88907,8 @@ Nicole換上短髮新形象，與Amber體驗越野冒險。二人來到越野場
 		<desc>Soup Songs</desc>
 	</programme>
 	<programme channel="5627" start="20261024160000 +0000" stop="20261024163000 +0000">
-		<title>Hits Of Bharathwaj</title>
-		<desc>Hits Of Bharathwaj</desc>
+		<title>Hits Of Rajinikanth</title>
+		<desc>Hits Of Rajinikanth</desc>
 	</programme>
 	<programme channel="5627" start="20261024163000 +0000" stop="20261024173000 +0000">
 		<title>Marana Kuthu</title>
@@ -88995,8 +88995,8 @@ Nicole換上短髮新形象，與Amber體驗越野冒險。二人來到越野場
 		<desc>Soup Songs</desc>
 	</programme>
 	<programme channel="5627" start="20261025160000 +0000" stop="20261025163000 +0000">
-		<title>Hits Of Deva</title>
-		<desc>Hits Of Deva</desc>
+		<title>Hits Of Kamalhassan</title>
+		<desc>Hits Of Kamalhassan</desc>
 	</programme>
 	<programme channel="5627" start="20261025163000 +0000" stop="20261025173000 +0000">
 		<title>Marana Kuthu</title>
@@ -94842,19 +94842,19 @@ Nicole換上短髮新形象，與Amber體驗越野冒險。二人來到越野場
 		<title>Amaran</title>
 		<desc>In a tense Kashmir, a steadfast army officer leads his unit against Pakistani aggressors. He discovers inner strength, inspiring his team amidst the deadly conflict.</desc>
 	</programme>
-	<programme channel="5639" start="20261023133000 +0000" stop="20261023163000 +0000">
+	<programme channel="5639" start="20261023133000 +0000" stop="20261023162500 +0000">
 		<title>Anand Sreebala</title>
 		<desc>Anand, a part-time investigator, sets out to solve the mysterious death of a law student. As he digs deeper, he is forced to confront his own inner demons, uncovering dark truths along the way. Release Year: 2024 Director: Vishnu Vinay</desc>
 	</programme>
-	<programme channel="5639" start="20261023163000 +0000" stop="20261023193000 +0000">
+	<programme channel="5639" start="20261023162500 +0000" stop="20261023192000 +0000">
 		<title>Vietnam Colony</title>
 		<desc>Krishnamurthy is tasked with clearing out a colony seen as illegal and antisocial, facing resistance, tough choices, and moral questions about law, safety, and community rights today. Release Year: 1992 Director: Siddique, Lal Awards: Kerala State Film Award for Best Art director</desc>
 	</programme>
-	<programme channel="5639" start="20261023193000 +0000" stop="20261023213000 +0000">
+	<programme channel="5639" start="20261023192000 +0000" stop="20261023211500 +0000">
 		<title>Maniyarakallan</title>
 		<desc>Movie starring Harishree Ashokan, Jagadeesh and is directed by Rajan P Dev. Release Year: 2005 Director: Rajan P. Dev.</desc>
 	</programme>
-	<programme channel="5639" start="20261023213000 +0000" stop="20261023233000 +0000">
+	<programme channel="5639" start="20261023211500 +0000" stop="20261023233000 +0000">
 		<title>Sarkar Colony</title>
 		<desc>Govt. servants who struggle to make ends meet, try their hand at other business. Release Year: 2011 Director: V.S Jayakrishna</desc>
 	</programme>
@@ -102699,192 +102699,240 @@ Nicole換上短髮新形象，與Amber體驗越野冒險。二人來到越野場
 		<desc>Mirchi</desc>
 	</programme>
 	<programme channel="5670" start="20261023183000 +0000" stop="20261023213000 +0000">
-		<title>Movie</title>
-		<desc>Movie name is yet to be announced by this channel.</desc>
+		<title>ABCD: Any Body Can Dance</title>
+		<desc>Vishnu, a brilliant dancer, is hurt when he's alienated from the dance school he set up himself. Just as he's about to give up, he finds inspiration and also decides to teach his old partner a lesson.</desc>
 	</programme>
 	<programme channel="5670" start="20261023213000 +0000" stop="20261024003000 +0000">
-		<title>Movie</title>
-		<desc>Movie name is yet to be announced by this channel.</desc>
+		<title>Super</title>
+		<desc>Sonu adopts Siri after her father dies. Upon learning that she loves Akhil, his arch-rival, he urges her to put an end to their relationship as he feels Akhil is responsible for his sister's death. Release Year: 2005 Director: Puri Jagannadh</desc>
 	</programme>
-	<programme channel="5670" start="20261024003000 +0000" stop="20261024033000 +0000">
-		<title>Movie</title>
-		<desc>Movie name is yet to be announced by this channel.</desc>
+	<programme channel="5670" start="20261024003000 +0000" stop="20261024010000 +0000">
+		<title>Fun Time Episode 3</title>
+		<desc>Brittany and Michael, a struggling brother-sister duo, lure young adults into deadly games for money. As the stakes rise, their twisted plans lead to shocking consequences.</desc>
+	</programme>
+	<programme channel="5670" start="20261024010000 +0000" stop="20261024013000 +0000">
+		<title>Fun Time Episode 4</title>
+		<desc>Brittany and Michael, a struggling brother-sister duo, lure young adults into deadly games for money. As the stakes rise, their twisted plans lead to shocking consequences.</desc>
+	</programme>
+	<programme channel="5670" start="20261024013000 +0000" stop="20261024033000 +0000">
+		<title>Kathi</title>
+		<desc>Rama Krishna dreams of becoming a national level football player. He sacrifices his dream when he realises that his sister faces troubles in her marital life.</desc>
 	</programme>
 	<programme channel="5670" start="20261024033000 +0000" stop="20261024063000 +0000">
-		<title>Movie</title>
-		<desc>Movie name is yet to be announced by this channel.</desc>
+		<title>Policeodu</title>
+		<desc>DCP Vijaya Kumar goes into hiding to bring up his daughter in a safe environment. However, after her life is threatened by deadly gangsters, he must face his past to protect his daughter.</desc>
 	</programme>
-	<programme channel="5670" start="20261024063000 +0000" stop="20261024093000 +0000">
-		<title>Movie</title>
-		<desc>Movie name is yet to be announced by this channel.</desc>
+	<programme channel="5670" start="20261024063000 +0000" stop="20261024100000 +0000">
+		<title>Intlo Illalu Vantintlo Priyuralu</title>
+		<desc>When Sita is unable to bear a child, her husband, gets married to Manisha. They have a son and Sita, after much reluctance, accepts Manisha as his wife.</desc>
 	</programme>
-	<programme channel="5670" start="20261024093000 +0000" stop="20261024123000 +0000">
-		<title>Movie</title>
-		<desc>Movie name is yet to be announced by this channel.</desc>
+	<programme channel="5670" start="20261024100000 +0000" stop="20261024123000 +0000">
+		<title>Shubham</title>
+		<desc>A newly married groom tries to appear tough on his wedding night, but his bride reveals a shocking and possibly supernatural side, turning the night into a strange adventure. Release Year: 2025 Director: Praveen Kandregula</desc>
 	</programme>
-	<programme channel="5670" start="20261024123000 +0000" stop="20261024153000 +0000">
-		<title>Movie</title>
-		<desc>Movie name is yet to be announced by this channel.</desc>
+	<programme channel="5670" start="20261024123000 +0000" stop="20261024163000 +0000">
+		<title>Pushpa 2: The Rule</title>
+		<desc>Pushpa 2: The Rule</desc>
 	</programme>
-	<programme channel="5670" start="20261024153000 +0000" stop="20261024183000 +0000">
-		<title>Movie</title>
-		<desc>Movie name is yet to be announced by this channel.</desc>
+	<programme channel="5670" start="20261024163000 +0000" stop="20261024183000 +0000">
+		<title>Prema Katha Chitram</title>
+		<desc>Four friends who decide to commit suicide together in a farmhouse because of their failures. Release Year: 2013 Director: J. Prabhakara Reddy Awards: 2014 Nominee SIIMA - Telugu - Best Film</desc>
 	</programme>
 	<programme channel="5670" start="20261024183000 +0000" stop="20261024213000 +0000">
-		<title>Movie</title>
-		<desc>Movie name is yet to be announced by this channel.</desc>
+		<title>Vikramarkudu</title>
+		<desc>Unaware that he is a look-alike of her fearless cop father, a thief is stuck when a little girl refuses to leave him. Release Year: 2006 Director: S. S. Rajamouli</desc>
 	</programme>
 	<programme channel="5670" start="20261024213000 +0000" stop="20261025003000 +0000">
-		<title>Movie</title>
-		<desc>Movie name is yet to be announced by this channel.</desc>
+		<title>Psycho</title>
+		<desc>When Dahini, a radio jockey, is kidnapped by a psychopath, her lover, Gautham, fails to save her due to his blindness. Later, he sets out to rescue her in time with a former police officer's help.</desc>
 	</programme>
-	<programme channel="5670" start="20261025003000 +0000" stop="20261025033000 +0000">
-		<title>Movie</title>
-		<desc>Movie name is yet to be announced by this channel.</desc>
+	<programme channel="5670" start="20261025003000 +0000" stop="20261025010000 +0000">
+		<title>Fun Time Episode 4</title>
+		<desc>Brittany and Michael, a struggling brother-sister duo, lure young adults into deadly games for money. As the stakes rise, their twisted plans lead to shocking consequences.</desc>
+	</programme>
+	<programme channel="5670" start="20261025010000 +0000" stop="20261025013000 +0000">
+		<title>Fun Time Episode 5</title>
+		<desc>Brittany and Michael, a struggling brother-sister duo, lure young adults into deadly games for money. As the stakes rise, their twisted plans lead to shocking consequences.</desc>
+	</programme>
+	<programme channel="5670" start="20261025013000 +0000" stop="20261025033000 +0000">
+		<title>Mathu Vadalara 2 Episode 3</title>
+		<desc>Babu and Yesu, once delivery guys, now special agents! Their mission is full of humor and surprises. They will face challenges together with excitement.</desc>
 	</programme>
 	<programme channel="5670" start="20261025033000 +0000" stop="20261025063000 +0000">
-		<title>Movie</title>
-		<desc>Movie name is yet to be announced by this channel.</desc>
+		<title>Maari-2</title>
+		<desc>Maari, a gangster with a heart of gold, tangles with a new nemesis who is determined to bring about his downfall.</desc>
 	</programme>
 	<programme channel="5670" start="20261025063000 +0000" stop="20261025093000 +0000">
-		<title>Movie</title>
-		<desc>Movie name is yet to be announced by this channel.</desc>
+		<title>Premante</title>
+		<desc>A couple's perfect marriage following their cute first meeting is tested when the wife grows suspicious of her husband's odd conduct, leading to a revelation that transforms their view of love. Release Year: 2025 Director: Navaneeth Sriram</desc>
 	</programme>
 	<programme channel="5670" start="20261025093000 +0000" stop="20261025123000 +0000">
-		<title>Movie</title>
-		<desc>Movie name is yet to be announced by this channel.</desc>
+		<title>Extra Ordinary Man</title>
+		<desc>A former movie extra tells the story of how he became a smuggler and vigilante hero. Release Year: 2023 Director: Vakkantham Vamsi</desc>
 	</programme>
 	<programme channel="5670" start="20261025123000 +0000" stop="20261025153000 +0000">
-		<title>Movie</title>
-		<desc>Movie name is yet to be announced by this channel.</desc>
+		<title>The Family Star</title>
+		<desc>Govardhan, a devoted architect balancing family duties, faces Aadhya when her thesis exposes his household. Their clash sparks unexpected twists, testing love, duty, and resilience. Release Year: 2024 Director: Sandeep Reddy Vanga,Parasuram</desc>
 	</programme>
 	<programme channel="5670" start="20261025153000 +0000" stop="20261025183000 +0000">
-		<title>Movie</title>
-		<desc>Movie name is yet to be announced by this channel.</desc>
+		<title>Sardar Gabbar Singh</title>
+		<desc>The residents of Rathanpur are forced to face the wrath of Bhairav Singh who unceremoniously usurps their land. They find respite when Gabbar Singh, a brave policeman, takes on their oppressor. Release Year: 2016 Director: K. S. Ravindra</desc>
 	</programme>
 	<programme channel="5670" start="20261025183000 +0000" stop="20261025213000 +0000">
-		<title>Movie</title>
-		<desc>Movie name is yet to be announced by this channel.</desc>
+		<title>24</title>
+		<desc>A scientist invents a time machine, which leads to a bitter battle between his evil twin brother and his son.</desc>
 	</programme>
 	<programme channel="5670" start="20261025213000 +0000" stop="20261026003000 +0000">
-		<title>Movie</title>
-		<desc>Movie name is yet to be announced by this channel.</desc>
+		<title>Modati Cinema</title>
+		<desc>Sreeram, who comes from an affluent family, falls in love with the middle-class Sindhu and helps her resolve her family problems. However, she misunderstands his intentions.</desc>
 	</programme>
-	<programme channel="5670" start="20261026003000 +0000" stop="20261026033000 +0000">
-		<title>Movie</title>
-		<desc>Movie name is yet to be announced by this channel.</desc>
+	<programme channel="5670" start="20261026003000 +0000" stop="20261026010000 +0000">
+		<title>Fun Time Episode 5</title>
+		<desc>Brittany and Michael, a struggling brother-sister duo, lure young adults into deadly games for money. As the stakes rise, their twisted plans lead to shocking consequences.</desc>
+	</programme>
+	<programme channel="5670" start="20261026010000 +0000" stop="20261026013000 +0000">
+		<title>Fun Time Episode 6</title>
+		<desc>Brittany and Michael, a struggling brother-sister duo, lure young adults into deadly games for money. As the stakes rise, their twisted plans lead to shocking consequences.</desc>
+	</programme>
+	<programme channel="5670" start="20261026013000 +0000" stop="20261026033000 +0000">
+		<title>Roja</title>
+		<desc>Roja, a simple girl from a village in Tamil Nadu, makes desperate efforts to find her husband, Rishi, after he is kidnapped by militants during a secret undercover mission in Jammu and Kashmir.</desc>
 	</programme>
 	<programme channel="5670" start="20261026033000 +0000" stop="20261026063000 +0000">
-		<title>Movie</title>
-		<desc>Movie name is yet to be announced by this channel.</desc>
+		<title>Nirmala Convent</title>
+		<desc>Samuel, a poor farmer's son, loves Shanti from an elite class. To marry her, he accepts her father's challenge to gain popularity. Release Year: 2016 Director: G. Naga Koteswara Rao</desc>
 	</programme>
 	<programme channel="5670" start="20261026063000 +0000" stop="20261026093000 +0000">
-		<title>Movie</title>
-		<desc>Movie name is yet to be announced by this channel.</desc>
+		<title>Chandra Mukhi</title>
+		<desc>An NRI and his wife decide to stay in his ancestral home, paying no heed to the warnings about ghosts. Soon inexplicable occurrences cause him to call a psychiatrist to help solve the mystery.</desc>
 	</programme>
 	<programme channel="5670" start="20261026093000 +0000" stop="20261026123000 +0000">
-		<title>Movie</title>
-		<desc>Movie name is yet to be announced by this channel.</desc>
+		<title>Chandrakala</title>
+		<desc>When the members of a family are killed, Ravi, a lawyer, probes into their deaths and finds out that Chandrakala, a ghost, is involved in their killings</desc>
 	</programme>
-	<programme channel="5670" start="20261026123000 +0000" stop="20261026153000 +0000">
-		<title>Movie</title>
-		<desc>Movie name is yet to be announced by this channel.</desc>
+	<programme channel="5670" start="20261026123000 +0000" stop="20261026150000 +0000">
+		<title>Tillu Square</title>
+		<desc>Tillu escapes with drug lord money, starts a business, and meets Lilly, who claims to be pregnant. She later reveals herself as an agent targeting a crime boss. Tillu uncovers her criminals. Release Year: 2024 Director: Malik Ram</desc>
 	</programme>
-	<programme channel="5670" start="20261026153000 +0000" stop="20261026183000 +0000">
-		<title>Movie</title>
-		<desc>Movie name is yet to be announced by this channel.</desc>
+	<programme channel="5670" start="20261026150000 +0000" stop="20261026183000 +0000">
+		<title>I</title>
+		<desc>Lingesan is a handsome and successful model. But his life changes forever when he develops a hunchback due to an injection and decides to avenge his situation.</desc>
 	</programme>
 	<programme channel="5670" start="20261026183000 +0000" stop="20261026213000 +0000">
-		<title>Movie</title>
-		<desc>Movie name is yet to be announced by this channel.</desc>
+		<title>12Th Fail</title>
+		<desc>IPS officer Manoj Kumar Sharma fearlessly restarts his academic journey, overcoming setbacks and hardships as he pursues his dream of clearing the UPSC exam and transforming his destiny.</desc>
 	</programme>
 	<programme channel="5670" start="20261026213000 +0000" stop="20261027003000 +0000">
-		<title>Movie</title>
-		<desc>Movie name is yet to be announced by this channel.</desc>
+		<title>Current</title>
+		<desc>Sushanth, a college student, believes in living in the present while Sneha, his girlfriend, believes in planning for the future. Due to their contrasting personalities, they part ways with each other. Release Year: 2009 Director: Palnati Surya Pratap</desc>
 	</programme>
-	<programme channel="5670" start="20261027003000 +0000" stop="20261027033000 +0000">
-		<title>Movie</title>
-		<desc>Movie name is yet to be announced by this channel.</desc>
+	<programme channel="5670" start="20261027003000 +0000" stop="20261027010000 +0000">
+		<title>Fun Time Episode 6</title>
+		<desc>Brittany and Michael, a struggling brother-sister duo, lure young adults into deadly games for money. As the stakes rise, their twisted plans lead to shocking consequences.</desc>
+	</programme>
+	<programme channel="5670" start="20261027010000 +0000" stop="20261027013000 +0000">
+		<title>Fun Time</title>
+		<desc>Brittany and Michael, a struggling brother-sister duo, lure young adults into deadly games for money. As the stakes rise, their twisted plans lead to shocking consequences.</desc>
+	</programme>
+	<programme channel="5670" start="20261027013000 +0000" stop="20261027033000 +0000">
+		<title>Oohalu Gusagusalade Episode 11</title>
+		<desc>Venky, who aspires to become a newsreader, must face the challenges posed by his boss, Uday. Things get worse when Uday seeks Venky's help to woo a girl in return for his desired post.</desc>
 	</programme>
 	<programme channel="5670" start="20261027033000 +0000" stop="20261027063000 +0000">
-		<title>Movie</title>
-		<desc>Movie name is yet to be announced by this channel.</desc>
+		<title>Maestro</title>
+		<desc>A pianist pretends to be blind to enhance his musical skills but later gets a stable job at a restaurant. However, when he continues his ruse, he witnesses a murder, falling into his own trap. Release Year: 2021 Director: Merlapaka Gandhi</desc>
 	</programme>
 	<programme channel="5670" start="20261027063000 +0000" stop="20261027093000 +0000">
-		<title>Movie</title>
-		<desc>Movie name is yet to be announced by this channel.</desc>
+		<title>Baahubali: The Beginning</title>
+		<desc>Baahubali: The Beginning</desc>
 	</programme>
 	<programme channel="5670" start="20261027093000 +0000" stop="20261027123000 +0000">
-		<title>Movie</title>
-		<desc>Movie name is yet to be announced by this channel.</desc>
+		<title>Manmadhudu Episode 50</title>
+		<desc>The plot revolves around Abhiram and Harika who work in the same ad agency. It shows how Abhiram's hatred towards Harika changes into love. Release Year: 2002 Director: K. Vijaya Bhaskar,Vijaya Bhaskar</desc>
 	</programme>
 	<programme channel="5670" start="20261027123000 +0000" stop="20261027153000 +0000">
-		<title>Movie</title>
-		<desc>Movie name is yet to be announced by this channel.</desc>
+		<title>Dhamaka</title>
+		<desc>Chaos unfolds when two lookalikes from different backgrounds fall for the same girl. But an unexpected link between them only deepens the complications of their love triangle. Release Year: 2022 Director: Trinadha Rao Nakka</desc>
 	</programme>
 	<programme channel="5670" start="20261027153000 +0000" stop="20261027183000 +0000">
-		<title>Movie</title>
-		<desc>Movie name is yet to be announced by this channel.</desc>
+		<title>Mr. Bachchan</title>
+		<desc>Suspended for his honesty, an income tax officer returns to his hometown, but he is soon reinstated and tasked with raiding the house of a corrupt politician. Release Year: 2024 Director: Harish Shankar</desc>
 	</programme>
 	<programme channel="5670" start="20261027183000 +0000" stop="20261027213000 +0000">
-		<title>Movie</title>
-		<desc>Movie name is yet to be announced by this channel.</desc>
+		<title>Hello Brother</title>
+		<desc>Two twins, separated at birth. Though they look alike, they are opposite in nature. A series of hilarious events take place when they cross paths. Release Year: 1994 Director: E. V. V. Satyanarayana</desc>
 	</programme>
 	<programme channel="5670" start="20261027213000 +0000" stop="20261028003000 +0000">
-		<title>Movie</title>
-		<desc>Movie name is yet to be announced by this channel.</desc>
+		<title>Prema Khaidi</title>
+		<desc>Suruli and Myna are happy until Myna's mother arranges her marriage. Release Year: 1990 Director: E. V. V. Satyanarayana Awards: Malashri won Nandi Award for Best Supporting ActreSS 1990</desc>
 	</programme>
-	<programme channel="5670" start="20261028003000 +0000" stop="20261028033000 +0000">
-		<title>Movie</title>
-		<desc>Movie name is yet to be announced by this channel.</desc>
+	<programme channel="5670" start="20261028003000 +0000" stop="20261028010000 +0000">
+		<title>Fun Time</title>
+		<desc>Brittany and Michael, a struggling brother-sister duo, lure young adults into deadly games for money. As the stakes rise, their twisted plans lead to shocking consequences.</desc>
+	</programme>
+	<programme channel="5670" start="20261028010000 +0000" stop="20261028013000 +0000">
+		<title>Fun Time Episode 2</title>
+		<desc>Brittany and Michael, a struggling brother-sister duo, lure young adults into deadly games for money. As the stakes rise, their twisted plans lead to shocking consequences.</desc>
+	</programme>
+	<programme channel="5670" start="20261028013000 +0000" stop="20261028033000 +0000">
+		<title>Psycho</title>
+		<desc>When Dahini, a radio jockey, is kidnapped by a psychopath, her lover, Gautham, fails to save her due to his blindness. Later, he sets out to rescue her in time with a former police officer's help.</desc>
 	</programme>
 	<programme channel="5670" start="20261028033000 +0000" stop="20261028063000 +0000">
-		<title>Movie</title>
-		<desc>Movie name is yet to be announced by this channel.</desc>
+		<title>Gurudev Hoysala</title>
+		<desc>An action-packed historical drama about Hoysala, a legendary warrior fighting for his kingdom. The film highlights his leadership, valor, and sacrifices, exploring themes of loyalty, justice, and heroism.</desc>
 	</programme>
-	<programme channel="5670" start="20261028063000 +0000" stop="20261028093000 +0000">
-		<title>Movie</title>
-		<desc>Movie name is yet to be announced by this channel.</desc>
+	<programme channel="5670" start="20261028063000 +0000" stop="20261028100000 +0000">
+		<title>Sarkaru Vaari Paata</title>
+		<desc>After being conned by the woman he loves, a finance agent arrives in India from USA to retrieve his money from the woman's father who is a powerful MP and industrialist. Release Year: 2022 Director: Parasuram</desc>
 	</programme>
-	<programme channel="5670" start="20261028093000 +0000" stop="20261028123000 +0000">
-		<title>Movie</title>
-		<desc>Movie name is yet to be announced by this channel.</desc>
+	<programme channel="5670" start="20261028100000 +0000" stop="20261028123000 +0000">
+		<title>Kathi</title>
+		<desc>Rama Krishna dreams of becoming a national level football player. He sacrifices his dream when he realises that his sister faces troubles in her marital life.</desc>
 	</programme>
 	<programme channel="5670" start="20261028123000 +0000" stop="20261028153000 +0000">
-		<title>Movie</title>
-		<desc>Movie name is yet to be announced by this channel.</desc>
+		<title>Baahubali 2: The Conclusion</title>
+		<desc>Baahubali 2: The Conclusion</desc>
 	</programme>
 	<programme channel="5670" start="20261028153000 +0000" stop="20261028183000 +0000">
-		<title>Movie</title>
-		<desc>Movie name is yet to be announced by this channel.</desc>
+		<title>Janatha Garrage</title>
+		<desc>Anand, an environmental activist, comes to Hyderabad to attend a seminar. An unexpected encounter with Sathyam, who runs an organization for the oppressed, changes his purpose in life. Release Year: 2016 Director: Koratala Siva</desc>
 	</programme>
 	<programme channel="5670" start="20261028183000 +0000" stop="20261028213000 +0000">
-		<title>Movie</title>
-		<desc>Movie name is yet to be announced by this channel.</desc>
+		<title>Pandavulu Pandavulu Tummeda</title>
+		<desc>A young girl, Honey, reunites two ex-lovers. However, when everything is sorted and the adopted children of the lovers agree to their union, Honey, unfortunately, gets kidnapped. Release Year: 2014 Director: SriwaSS</desc>
 	</programme>
 	<programme channel="5670" start="20261028213000 +0000" stop="20261029003000 +0000">
-		<title>Movie</title>
-		<desc>Movie name is yet to be announced by this channel.</desc>
+		<title>Dhada</title>
+		<desc>Vishwas' life takes a turn when he chances upon Priya. Meanwhile, he also crosses paths with two underworld men who sell girls internationally. Release Year: 2011 Director: Ajay Bhuyan</desc>
 	</programme>
-	<programme channel="5670" start="20261029003000 +0000" stop="20261029033000 +0000">
-		<title>Movie</title>
-		<desc>Movie name is yet to be announced by this channel.</desc>
+	<programme channel="5670" start="20261029003000 +0000" stop="20261029010000 +0000">
+		<title>Fun Time Episode 2</title>
+		<desc>Brittany and Michael, a struggling brother-sister duo, lure young adults into deadly games for money. As the stakes rise, their twisted plans lead to shocking consequences.</desc>
+	</programme>
+	<programme channel="5670" start="20261029010000 +0000" stop="20261029013000 +0000">
+		<title>Fun Time Episode 3</title>
+		<desc>Brittany and Michael, a struggling brother-sister duo, lure young adults into deadly games for money. As the stakes rise, their twisted plans lead to shocking consequences.</desc>
+	</programme>
+	<programme channel="5670" start="20261029013000 +0000" stop="20261029033000 +0000">
+		<title>Mathu Vadalara 2 Episode 4</title>
+		<desc>Babu and Yesu, once delivery guys, now special agents! Their mission is full of humor and surprises. They will face challenges together with excitement.</desc>
 	</programme>
 	<programme channel="5670" start="20261029033000 +0000" stop="20261029063000 +0000">
-		<title>Movie</title>
-		<desc>Movie name is yet to be announced by this channel.</desc>
+		<title>Bichagadu 2</title>
+		<desc>Sathya searches for his kidnapped sister but ends up in a billionaire's body after an illegal brain transplant.</desc>
 	</programme>
-	<programme channel="5670" start="20261029063000 +0000" stop="20261029093000 +0000">
-		<title>Movie</title>
-		<desc>Movie name is yet to be announced by this channel.</desc>
+	<programme channel="5670" start="20261029063000 +0000" stop="20261029100000 +0000">
+		<title>Magadheera</title>
+		<desc>Magadheera</desc>
 	</programme>
-	<programme channel="5670" start="20261029093000 +0000" stop="20261029123000 +0000">
-		<title>Movie</title>
-		<desc>Movie name is yet to be announced by this channel.</desc>
+	<programme channel="5670" start="20261029100000 +0000" stop="20261029123000 +0000">
+		<title>Baapu</title>
+		<desc>Debt-ridden farmer Mallanna faces a heartbreaking moral dilemma when his wife suggests a shocking way out of their financial troubles, forcing him to make an impossible choice. Release Year: 2025</desc>
 	</programme>
 	<programme channel="5670" start="20261029123000 +0000" stop="20261029153000 +0000">
-		<title>Movie</title>
-		<desc>Movie name is yet to be announced by this channel.</desc>
+		<title>Krack</title>
+		<desc>When 3 notorious criminals lock horns with a hot-tempered police officer, Potharaju Shankar, little do they know that they will end up behind bars. Release Year: 2021 Director: Gopichand Malineni Awards: 2022 Winner SIIMA - Telugu, 2022 Nominee SIIMA - Telugu</desc>
 	</programme>
 	<programme channel="5671" start="20261022160000 +0000" stop="20261022170000 +0000">
 		<title>Bigg Boss S10 Episode 47</title>
@@ -102998,701 +103046,621 @@ Nicole換上短髮新形象，與Amber體驗越野冒險。二人來到越野場
 		<title>Ye Devi Varamo Neevu Episode 98</title>
 		<desc>Abandoned as a child, Anjali grows up longing for love, hoping life will eventually lead her back to her lost parents and the happiness she dreamed of.</desc>
 	</programme>
-	<programme channel="5671" start="20261023153000 +0000" stop="20261023180000 +0000">
+	<programme channel="5671" start="20261023153000 +0000" stop="20261023160000 +0000">
 		<title>Gunde Ninda Gudigantalu Episode 806</title>
 		<desc>Swetha, a temple flower seller, and Raghu, a cab driver, fall in love. Despite life's challenges and their different backgrounds, they fight to keep their relationship strong.</desc>
 	</programme>
-	<programme channel="5671" start="20261023180000 +0000" stop="20261023183000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="5671" start="20261023160000 +0000" stop="20261023170000 +0000">
+		<title>Bigg Boss S10 Episode 48</title>
+		<desc>Bigg Boss Season 10 opens its doors to ordinary citizens alongside famous celebrities, creating intense friction, unpredictable alliances, and raw dynamic drama inside the house.</desc>
 	</programme>
-	<programme channel="5671" start="20261023183000 +0000" stop="20261023203000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="5671" start="20261023170000 +0000" stop="20261023173000 +0000">
+		<title>Bigg Boss S10 - Unseen Extra Cuts Episode 35</title>
+		<desc>Uncut moments, candid housemate banter, and raw behind-the-scenes drama reveal all the hidden conflicts missed during the main daily telecasts.</desc>
 	</programme>
-	<programme channel="5671" start="20261023203000 +0000" stop="20261023223000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="5671" start="20261023173000 +0000" stop="20261023200000 +0000">
+		<title>Swag</title>
+		<desc>Swag</desc>
+	</programme>
+	<programme channel="5671" start="20261023200000 +0000" stop="20261023223000 +0000">
+		<title>Boss I Love You</title>
+		<desc>Anuradha works as a secretary for GK and falls in love with him but he humiliates her and she resigns. She later finds out that GK is a widower and is unable to forget his first wife, Sanjana.</desc>
 	</programme>
 	<programme channel="5671" start="20261023223000 +0000" stop="20261024003000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Arjun</title>
+		<desc>A young man must save his twin sister from her greedy in-laws who are bent on ending her life. Arjun's Mahesh Babu twin sister Meenakshi Keerthi Reddy falls in love with her classmate Uday Raja Abel. Uday's parents Prakash Raj and Saritha plot to kill Meenakshi as they're eager to get their son married to a millionaire's daughter. On his quest to save his sister, Arjun also meets a girl of his dreams Shriya Saran. Release Year: 2004 Director: Gunasekhar</desc>
 	</programme>
 	<programme channel="5671" start="20261024003000 +0000" stop="20261024010000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Fun Time Episode 3</title>
+		<desc>Tune into a compilation of comedy clips from the recently released Tollywood movies.</desc>
 	</programme>
 	<programme channel="5671" start="20261024010000 +0000" stop="20261024013000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Fun Time Episode 4</title>
+		<desc>Tune into a compilation of comedy clips from the recently released Tollywood movies.</desc>
 	</programme>
-	<programme channel="5671" start="20261024013000 +0000" stop="20261024020000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
-	</programme>
-	<programme channel="5671" start="20261024020000 +0000" stop="20261024023000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
-	</programme>
-	<programme channel="5671" start="20261024023000 +0000" stop="20261024030000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
-	</programme>
-	<programme channel="5671" start="20261024030000 +0000" stop="20261024033000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="5671" start="20261024013000 +0000" stop="20261024033000 +0000">
+		<title>Aadi Keshava</title>
+		<desc>A turn of events takes an urban-bred guy into the heart of Rayalaseema, where there are scores to settle.</desc>
 	</programme>
 	<programme channel="5671" start="20261024033000 +0000" stop="20261024063000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Pokiri</title>
+		<desc>A police officer masquerades as a thug and joins the mafia so that he can avenge his fathers death and penetrate the underworld to wipe it out. Release Year: 2006 Director: Puri Jagannadh Awards: 2007 Nominee Filmfare Award - Telugu Film Industry - Best Film Puri Jagannadh, 2007 Winner Nandi Award - Best Popular Film Puri Jagannadh</desc>
 	</programme>
-	<programme channel="5671" start="20261024063000 +0000" stop="20261024070000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="5671" start="20261024063000 +0000" stop="20261024071500 +0000">
+		<title>Paape Maa Jeevanajyothi Episode 1705</title>
+		<desc>Struggling to be accepted by her husband's family, Jyothi finds peace with her daughter Jeevana's birth. But soon that peace is threatened thanks to a kidnap.</desc>
 	</programme>
-	<programme channel="5671" start="20261024070000 +0000" stop="20261024073000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
-	</programme>
-	<programme channel="5671" start="20261024073000 +0000" stop="20261024080000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="5671" start="20261024071500 +0000" stop="20261024080000 +0000">
+		<title>Brahma Mudi Episode 1171</title>
+		<desc>When a mother plans to marry off her three talented daughters into a wealthy family, unexpected twists and surprising events turn their lives upside down, testing love, relationships and destiny.</desc>
 	</programme>
 	<programme channel="5671" start="20261024080000 +0000" stop="20261024083000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Intinti Ramayanam Episode 745</title>
+		<desc>Members of a close-knit family begin to doubt one another when they suddenly face a problem.</desc>
 	</programme>
 	<programme channel="5671" start="20261024083000 +0000" stop="20261024090000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Vaarasuralu Episode 239</title>
+		<desc>Once united, a family is torn apart by ambition, misunderstandings and blame. Years later, a daughter's promise becomes their last hope for healing old wounds and reuniting the family.</desc>
 	</programme>
 	<programme channel="5671" start="20261024090000 +0000" stop="20261024093000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Nindu Manasulu Episode 407</title>
+		<desc>Prerana and Siddharth, both scarred by their pasts, are drawn together by fate. Can their love help them reclaim who they truly are?</desc>
 	</programme>
-	<programme channel="5671" start="20261024093000 +0000" stop="20261024101500 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="5671" start="20261024093000 +0000" stop="20261024100000 +0000">
+		<title>Podarillu Episode 243</title>
+		<desc>Maha, hoping to escape her ill fate, becomes the daughter-in-law of a family haunted by a troubled past. As she struggles to restore their hope, her own dreams are put to the ultimate test.</desc>
 	</programme>
-	<programme channel="5671" start="20261024101500 +0000" stop="20261024110000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="5671" start="20261024100000 +0000" stop="20261024103000 +0000">
+		<title>Gunde Ninda Gudigantalu Episode 806</title>
+		<desc>Swetha, a temple flower seller, and Raghu, a cab driver, fall in love. Despite life's challenges and their different backgrounds, they fight to keep their relationship strong.</desc>
 	</programme>
-	<programme channel="5671" start="20261024110000 +0000" stop="20261024113000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="5671" start="20261024103000 +0000" stop="20261024110000 +0000">
+		<title>Ye Devi Varamo Neevu Episode 76</title>
+		<desc>Abandoned as a child, Anjali grows up longing for love, hoping life will eventually lead her back to her lost parents and the happiness she dreamed of.</desc>
 	</programme>
-	<programme channel="5671" start="20261024113000 +0000" stop="20261024120000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="5671" start="20261024110000 +0000" stop="20261024120000 +0000">
+		<title>Bigg Boss S10 Episode 48</title>
+		<desc>Bigg Boss Season 10 opens its doors to ordinary citizens alongside famous celebrities, creating intense friction, unpredictable alliances, and raw dynamic drama inside the house.</desc>
 	</programme>
 	<programme channel="5671" start="20261024120000 +0000" stop="20261024123000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Bigg Boss S10 - Unseen Extra Cuts Episode 35</title>
+		<desc>Uncut moments, candid housemate banter, and raw behind-the-scenes drama reveal all the hidden conflicts missed during the main daily telecasts.</desc>
 	</programme>
 	<programme channel="5671" start="20261024123000 +0000" stop="20261024130000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Godavari Episode 147</title>
+		<desc>Sreeram, an idealist heartbroken after losing his love, embarks on a Godavari cruise to move on. There, he meets Seetha, and an unexpected journey changes his life forever.</desc>
 	</programme>
 	<programme channel="5671" start="20261024130000 +0000" stop="20261024133000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Nuvvu Leka Nenu Lenu Episode 259</title>
+		<desc>Radha Krishna and Krishna Veni argue a lot. Their fathers are friends and business partners who would like the couple to marry each other.</desc>
 	</programme>
 	<programme channel="5671" start="20261024133000 +0000" stop="20261024140000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Illu Illalu Pillalu Episode 614</title>
+		<desc>Subbayya, a middle-class man, works hard to give his children a better life. But when he dreams of owning a house, he discovers the true nature of his family and relationships.</desc>
 	</programme>
 	<programme channel="5671" start="20261024140000 +0000" stop="20261024143000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Podarillu Episode 244</title>
+		<desc>Maha, hoping to escape her ill fate, becomes the daughter-in-law of a family haunted by a troubled past. As she struggles to restore their hope, her own dreams are put to the ultimate test.</desc>
 	</programme>
 	<programme channel="5671" start="20261024143000 +0000" stop="20261024150000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Karthika Deepam-Nava Vasantham Episode 813</title>
+		<desc>Deepa, a dark-skinned woman, faces discrimination from her fair-skinned sister. After marrying Dr. Karthik, she battles societal prejudice and family pressures to build a happy life.</desc>
 	</programme>
 	<programme channel="5671" start="20261024150000 +0000" stop="20261024153000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Ye Devi Varamo Neevu Episode 99</title>
+		<desc>Abandoned as a child, Anjali grows up longing for love, hoping life will eventually lead her back to her lost parents and the happiness she dreamed of.</desc>
 	</programme>
-	<programme channel="5671" start="20261024153000 +0000" stop="20261024180000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="5671" start="20261024153000 +0000" stop="20261024170000 +0000">
+		<title>Bigg Boss S10 Episode 49</title>
+		<desc>Bigg Boss Season 10 opens its doors to ordinary citizens alongside famous celebrities, creating intense friction, unpredictable alliances, and raw dynamic drama inside the house.</desc>
 	</programme>
-	<programme channel="5671" start="20261024180000 +0000" stop="20261024183000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="5671" start="20261024170000 +0000" stop="20261024190000 +0000">
+		<title>Aadivaram Star Maa Parivaram - Star Wars 11 Episode 3</title>
+		<desc>Famous television actors from popular daily soaps come together on one stage to compete in various fun games, creative tasks, and entertaining team challenges.</desc>
 	</programme>
-	<programme channel="5671" start="20261024183000 +0000" stop="20261024203000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="5671" start="20261024190000 +0000" stop="20261024193000 +0000">
+		<title>Fun Time Episode 5</title>
+		<desc>Tune into a compilation of comedy clips from the recently released Tollywood movies.</desc>
 	</programme>
-	<programme channel="5671" start="20261024203000 +0000" stop="20261024223000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="5671" start="20261024193000 +0000" stop="20261024200000 +0000">
+		<title>Fun Time Episode 6</title>
+		<desc>Tune into a compilation of comedy clips from the recently released Tollywood movies.</desc>
+	</programme>
+	<programme channel="5671" start="20261024200000 +0000" stop="20261024223000 +0000">
+		<title>Dhairyam</title>
+		<desc>Ajay is a bright student from a lower-middle-class family. He falls in love with Parimala but her family's expectations from him push him into a financial crisis. Release Year: 2005</desc>
 	</programme>
 	<programme channel="5671" start="20261024223000 +0000" stop="20261025003000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Lovely</title>
+		<desc>A charming story about a Facebook romance that leads to an inadvertent blind date. Kittu Vennela Kishore and Lalli Chinmayee get friendly on Facebook and decide to meet. However, both get nervous and send someone else instead: Kittu sends Akash Aadi, and Lalli sends Lovely Shanvi. Akash and Lovely fall in love but can he persuade her father to approve of him? Release Year: 2012 Director: B. Jaya</desc>
 	</programme>
 	<programme channel="5671" start="20261025003000 +0000" stop="20261025010000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Fun Time Episode 4</title>
+		<desc>Tune into a compilation of comedy clips from the recently released Tollywood movies.</desc>
 	</programme>
 	<programme channel="5671" start="20261025010000 +0000" stop="20261025013000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Fun Time Episode 5</title>
+		<desc>Tune into a compilation of comedy clips from the recently released Tollywood movies.</desc>
 	</programme>
 	<programme channel="5671" start="20261025013000 +0000" stop="20261025020000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Radha Krishna Episode 169</title>
+		<desc>Radha and Krishna's love transcends eras, emotions, epitomizing eternal love.</desc>
 	</programme>
 	<programme channel="5671" start="20261025020000 +0000" stop="20261025023000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Radha Krishna Episode 170</title>
+		<desc>Radha and Krishna's love transcends eras, emotions, epitomizing eternal love.</desc>
 	</programme>
-	<programme channel="5671" start="20261025023000 +0000" stop="20261025030000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="5671" start="20261025023000 +0000" stop="20261025053000 +0000">
+		<title>Amaran</title>
+		<desc>An upright army officer leads his soldiers against Pakistan in Kashmir, discovering his true self while inspiring and empowering his team amidst the deadly conflict.</desc>
 	</programme>
-	<programme channel="5671" start="20261025030000 +0000" stop="20261025033000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="5671" start="20261025053000 +0000" stop="20261025073000 +0000">
+		<title>Aadivaram Star Maa Parivaram - Star Wars 11 Episode 5</title>
+		<desc>Famous television actors from popular daily soaps come together on one stage to compete in various fun games, creative tasks, and entertaining team challenges.</desc>
 	</programme>
-	<programme channel="5671" start="20261025033000 +0000" stop="20261025063000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="5671" start="20261025073000 +0000" stop="20261025103000 +0000">
+		<title>Kubera</title>
+		<desc>Nagarjuna, Dhanush, Rashmika Mandanna Release Year: 2025 Director: Sekhar Kammula</desc>
 	</programme>
-	<programme channel="5671" start="20261025063000 +0000" stop="20261025070000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="5671" start="20261025103000 +0000" stop="20261025133000 +0000">
+		<title>Baahubali 2: The Conclusion</title>
+		<desc>Baahubali 2: The Conclusion</desc>
 	</programme>
-	<programme channel="5671" start="20261025070000 +0000" stop="20261025073000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="5671" start="20261025133000 +0000" stop="20261025153000 +0000">
+		<title>Aadivaram Star Maa Parivaram - Star Wars 11 Episode 4</title>
+		<desc>Famous television actors from popular daily soaps come together on one stage to compete in various fun games, creative tasks, and entertaining team challenges.</desc>
 	</programme>
-	<programme channel="5671" start="20261025073000 +0000" stop="20261025080000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="5671" start="20261025153000 +0000" stop="20261025170000 +0000">
+		<title>Bigg Boss S10 Episode 50</title>
+		<desc>Bigg Boss Season 10 opens its doors to ordinary citizens alongside famous celebrities, creating intense friction, unpredictable alliances, and raw dynamic drama inside the house.</desc>
 	</programme>
-	<programme channel="5671" start="20261025080000 +0000" stop="20261025083000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="5671" start="20261025170000 +0000" stop="20261025173000 +0000">
+		<title>Bigg Boss Buzz Episode 50</title>
+		<desc>Join engaging discussions, exclusive interviews, unseen footage and contestant reactions as the latest drama, strategies and memorable moments are explored.</desc>
 	</programme>
-	<programme channel="5671" start="20261025083000 +0000" stop="20261025090000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="5671" start="20261025173000 +0000" stop="20261025200000 +0000">
+		<title>Pokiri</title>
+		<desc>A police officer masquerades as a thug and joins the mafia so that he can avenge his fathers death and penetrate the underworld to wipe it out. Release Year: 2006 Director: Puri Jagannadh Awards: 2007 Nominee Filmfare Award - Telugu Film Industry - Best Film Puri Jagannadh, 2007 Winner Nandi Award - Best Popular Film Puri Jagannadh</desc>
 	</programme>
-	<programme channel="5671" start="20261025090000 +0000" stop="20261025093000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
-	</programme>
-	<programme channel="5671" start="20261025093000 +0000" stop="20261025101500 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
-	</programme>
-	<programme channel="5671" start="20261025101500 +0000" stop="20261025110000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
-	</programme>
-	<programme channel="5671" start="20261025110000 +0000" stop="20261025113000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
-	</programme>
-	<programme channel="5671" start="20261025113000 +0000" stop="20261025120000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
-	</programme>
-	<programme channel="5671" start="20261025120000 +0000" stop="20261025123000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
-	</programme>
-	<programme channel="5671" start="20261025123000 +0000" stop="20261025130000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
-	</programme>
-	<programme channel="5671" start="20261025130000 +0000" stop="20261025133000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
-	</programme>
-	<programme channel="5671" start="20261025133000 +0000" stop="20261025140000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
-	</programme>
-	<programme channel="5671" start="20261025140000 +0000" stop="20261025143000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
-	</programme>
-	<programme channel="5671" start="20261025143000 +0000" stop="20261025150000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
-	</programme>
-	<programme channel="5671" start="20261025150000 +0000" stop="20261025153000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
-	</programme>
-	<programme channel="5671" start="20261025153000 +0000" stop="20261025180000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
-	</programme>
-	<programme channel="5671" start="20261025180000 +0000" stop="20261025183000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
-	</programme>
-	<programme channel="5671" start="20261025183000 +0000" stop="20261025203000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
-	</programme>
-	<programme channel="5671" start="20261025203000 +0000" stop="20261025223000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="5671" start="20261025200000 +0000" stop="20261025223000 +0000">
+		<title>143 - I Miss You</title>
+		<desc>Siddu, a carefree man, elopes with Sanjana, a doting sister of four brothers. However, they get separated when Sanjana is caught by Naxalites and Siddu presumes she is dead. Release Year: 2004 Director: Puri Jagannadh</desc>
 	</programme>
 	<programme channel="5671" start="20261025223000 +0000" stop="20261026003000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Bujjigadu Made In Chennai</title>
+		<desc>Kumaran, a Rajinikanth fan, leaves his house after a fight with his childhood friend Chitti. Twelve years later, he awaits Chitti's arrival to unite with her after years of separation. Release Year: 2008 Director: Puri Jagannadh</desc>
 	</programme>
 	<programme channel="5671" start="20261026003000 +0000" stop="20261026010000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Fun Time Episode 5</title>
+		<desc>Tune into a compilation of comedy clips from the recently released Tollywood movies.</desc>
 	</programme>
 	<programme channel="5671" start="20261026010000 +0000" stop="20261026013000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Fun Time Episode 6</title>
+		<desc>Tune into a compilation of comedy clips from the recently released Tollywood movies.</desc>
 	</programme>
 	<programme channel="5671" start="20261026013000 +0000" stop="20261026020000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Radha Krishna Episode 171</title>
+		<desc>Radha and Krishna's love transcends eras, emotions, epitomizing eternal love.</desc>
 	</programme>
 	<programme channel="5671" start="20261026020000 +0000" stop="20261026023000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Radha Krishna Episode 172</title>
+		<desc>Radha and Krishna's love transcends eras, emotions, epitomizing eternal love.</desc>
 	</programme>
 	<programme channel="5671" start="20261026023000 +0000" stop="20261026030000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Illu Illalu Pillalu Episode 588</title>
+		<desc>Subbayya, a middle-class man, works hard to give his children a better life. But when he dreams of owning a house, he discovers the true nature of his family and relationships.</desc>
 	</programme>
 	<programme channel="5671" start="20261026030000 +0000" stop="20261026033000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Karthika Deepam-Nava Vasantham Episode 787</title>
+		<desc>Deepa, a dark-skinned woman, faces discrimination from her fair-skinned sister. After marrying Dr. Karthik, she battles societal prejudice and family pressures to build a happy life.</desc>
 	</programme>
-	<programme channel="5671" start="20261026033000 +0000" stop="20261026063000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="5671" start="20261026033000 +0000" stop="20261026050000 +0000">
+		<title>Bigg Boss S10 Episode 49</title>
+		<desc>Bigg Boss Season 10 opens its doors to ordinary citizens alongside famous celebrities, creating intense friction, unpredictable alliances, and raw dynamic drama inside the house.</desc>
 	</programme>
-	<programme channel="5671" start="20261026063000 +0000" stop="20261026070000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="5671" start="20261026050000 +0000" stop="20261026063000 +0000">
+		<title>Bigg Boss S10 Episode 50</title>
+		<desc>Bigg Boss Season 10 opens its doors to ordinary citizens alongside famous celebrities, creating intense friction, unpredictable alliances, and raw dynamic drama inside the house.</desc>
 	</programme>
-	<programme channel="5671" start="20261026070000 +0000" stop="20261026073000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="5671" start="20261026063000 +0000" stop="20261026071500 +0000">
+		<title>Paape Maa Jeevanajyothi Episode 1706</title>
+		<desc>Struggling to be accepted by her husband's family, Jyothi finds peace with her daughter Jeevana's birth. But soon that peace is threatened thanks to a kidnap.</desc>
 	</programme>
-	<programme channel="5671" start="20261026073000 +0000" stop="20261026080000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="5671" start="20261026071500 +0000" stop="20261026080000 +0000">
+		<title>Brahma Mudi Episode 1172</title>
+		<desc>When a mother plans to marry off her three talented daughters into a wealthy family, unexpected twists and surprising events turn their lives upside down, testing love, relationships and destiny.</desc>
 	</programme>
 	<programme channel="5671" start="20261026080000 +0000" stop="20261026083000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Intinti Ramayanam Episode 746</title>
+		<desc>Members of a close-knit family begin to doubt one another when they suddenly face a problem.</desc>
 	</programme>
 	<programme channel="5671" start="20261026083000 +0000" stop="20261026090000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Vaarasuralu Episode 240</title>
+		<desc>Once united, a family is torn apart by ambition, misunderstandings and blame. Years later, a daughter's promise becomes their last hope for healing old wounds and reuniting the family.</desc>
 	</programme>
 	<programme channel="5671" start="20261026090000 +0000" stop="20261026093000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Nindu Manasulu Episode 408</title>
+		<desc>Prerana and Siddharth, both scarred by their pasts, are drawn together by fate. Can their love help them reclaim who they truly are?</desc>
 	</programme>
-	<programme channel="5671" start="20261026093000 +0000" stop="20261026101500 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="5671" start="20261026093000 +0000" stop="20261026100000 +0000">
+		<title>Podarillu Episode 244</title>
+		<desc>Maha, hoping to escape her ill fate, becomes the daughter-in-law of a family haunted by a troubled past. As she struggles to restore their hope, her own dreams are put to the ultimate test.</desc>
 	</programme>
-	<programme channel="5671" start="20261026101500 +0000" stop="20261026110000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
-	</programme>
-	<programme channel="5671" start="20261026110000 +0000" stop="20261026113000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
-	</programme>
-	<programme channel="5671" start="20261026113000 +0000" stop="20261026120000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
-	</programme>
-	<programme channel="5671" start="20261026120000 +0000" stop="20261026123000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="5671" start="20261026100000 +0000" stop="20261026123000 +0000">
+		<title>Ghost</title>
+		<desc>Ghost</desc>
 	</programme>
 	<programme channel="5671" start="20261026123000 +0000" stop="20261026130000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Godavari Episode 148</title>
+		<desc>Sreeram, an idealist heartbroken after losing his love, embarks on a Godavari cruise to move on. There, he meets Seetha, and an unexpected journey changes his life forever.</desc>
 	</programme>
 	<programme channel="5671" start="20261026130000 +0000" stop="20261026133000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Nuvvu Leka Nenu Lenu Episode 260</title>
+		<desc>Radha Krishna and Krishna Veni argue a lot. Their fathers are friends and business partners who would like the couple to marry each other.</desc>
 	</programme>
 	<programme channel="5671" start="20261026133000 +0000" stop="20261026140000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Illu Illalu Pillalu Episode 615</title>
+		<desc>Subbayya, a middle-class man, works hard to give his children a better life. But when he dreams of owning a house, he discovers the true nature of his family and relationships.</desc>
 	</programme>
 	<programme channel="5671" start="20261026140000 +0000" stop="20261026143000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Podarillu Episode 245</title>
+		<desc>Maha, hoping to escape her ill fate, becomes the daughter-in-law of a family haunted by a troubled past. As she struggles to restore their hope, her own dreams are put to the ultimate test.</desc>
 	</programme>
 	<programme channel="5671" start="20261026143000 +0000" stop="20261026150000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Karthika Deepam-Nava Vasantham Episode 814</title>
+		<desc>Deepa, a dark-skinned woman, faces discrimination from her fair-skinned sister. After marrying Dr. Karthik, she battles societal prejudice and family pressures to build a happy life.</desc>
 	</programme>
 	<programme channel="5671" start="20261026150000 +0000" stop="20261026153000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Ye Devi Varamo Neevu Episode 100</title>
+		<desc>Abandoned as a child, Anjali grows up longing for love, hoping life will eventually lead her back to her lost parents and the happiness she dreamed of.</desc>
 	</programme>
-	<programme channel="5671" start="20261026153000 +0000" stop="20261026180000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="5671" start="20261026153000 +0000" stop="20261026160000 +0000">
+		<title>Gunde Ninda Gudigantalu Episode 807</title>
+		<desc>Swetha, a temple flower seller, and Raghu, a cab driver, fall in love. Despite life's challenges and their different backgrounds, they fight to keep their relationship strong.</desc>
 	</programme>
-	<programme channel="5671" start="20261026180000 +0000" stop="20261026183000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="5671" start="20261026160000 +0000" stop="20261026170000 +0000">
+		<title>Bigg Boss S10 Episode 44</title>
+		<desc>Bigg Boss Season 10 opens its doors to ordinary citizens alongside famous celebrities, creating intense friction, unpredictable alliances, and raw dynamic drama inside the house.</desc>
 	</programme>
-	<programme channel="5671" start="20261026183000 +0000" stop="20261026203000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="5671" start="20261026170000 +0000" stop="20261026173000 +0000">
+		<title>Bigg Boss S10 - Unseen Extra Cuts Episode 36</title>
+		<desc>Uncut moments, candid housemate banter, and raw behind-the-scenes drama reveal all the hidden conflicts missed during the main daily telecasts.</desc>
 	</programme>
-	<programme channel="5671" start="20261026203000 +0000" stop="20261026223000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="5671" start="20261026173000 +0000" stop="20261026200000 +0000">
+		<title>Amaran</title>
+		<desc>An upright army officer leads his soldiers against Pakistan in Kashmir, discovering his true self while inspiring and empowering his team amidst the deadly conflict.</desc>
+	</programme>
+	<programme channel="5671" start="20261026200000 +0000" stop="20261026223000 +0000">
+		<title>Kalpana</title>
+		<desc>Mangalmukhi, a transgender, often feels like an outsider and is murdered. Raghava retells her story, becoming the vessel for Kalpana's unrealized dreams. Release Year: 1977 Director: K. Raghavendra Rao</desc>
 	</programme>
 	<programme channel="5671" start="20261026223000 +0000" stop="20261027003000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Nippu</title>
+		<desc>Surya decides to help his friend, Sriram, who is accused of murdering his girlfriend, Vaishnavi. In order to do so, however, he must deal with Vaishnavi's father and his nemesis, Raja Goud. Release Year: 2012 Director: Gunasekhar</desc>
 	</programme>
 	<programme channel="5671" start="20261027003000 +0000" stop="20261027010000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Fun Time Episode 6</title>
+		<desc>Tune into a compilation of comedy clips from the recently released Tollywood movies.</desc>
 	</programme>
 	<programme channel="5671" start="20261027010000 +0000" stop="20261027013000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Fun Time</title>
+		<desc>Tune into a compilation of comedy clips from the recently released Tollywood movies.</desc>
 	</programme>
 	<programme channel="5671" start="20261027013000 +0000" stop="20261027020000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Radha Krishna Episode 173</title>
+		<desc>Radha and Krishna's love transcends eras, emotions, epitomizing eternal love.</desc>
 	</programme>
 	<programme channel="5671" start="20261027020000 +0000" stop="20261027023000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Radha Krishna Episode 174</title>
+		<desc>Radha and Krishna's love transcends eras, emotions, epitomizing eternal love.</desc>
 	</programme>
 	<programme channel="5671" start="20261027023000 +0000" stop="20261027030000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Illu Illalu Pillalu Episode 589</title>
+		<desc>Subbayya, a middle-class man, works hard to give his children a better life. But when he dreams of owning a house, he discovers the true nature of his family and relationships.</desc>
 	</programme>
 	<programme channel="5671" start="20261027030000 +0000" stop="20261027033000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Karthika Deepam-Nava Vasantham Episode 788</title>
+		<desc>Deepa, a dark-skinned woman, faces discrimination from her fair-skinned sister. After marrying Dr. Karthik, she battles societal prejudice and family pressures to build a happy life.</desc>
 	</programme>
 	<programme channel="5671" start="20261027033000 +0000" stop="20261027063000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>The Family Star</title>
+		<desc>The highs and lows of family relationships in a Indian middle-class family. The life of Govardhan, who wants to achieve greatness in life but has to navigate through a myriad of relationship/trust/ego issues.</desc>
 	</programme>
-	<programme channel="5671" start="20261027063000 +0000" stop="20261027070000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="5671" start="20261027063000 +0000" stop="20261027071500 +0000">
+		<title>Paape Maa Jeevanajyothi Episode 1707</title>
+		<desc>Struggling to be accepted by her husband's family, Jyothi finds peace with her daughter Jeevana's birth. But soon that peace is threatened thanks to a kidnap.</desc>
 	</programme>
-	<programme channel="5671" start="20261027070000 +0000" stop="20261027073000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
-	</programme>
-	<programme channel="5671" start="20261027073000 +0000" stop="20261027080000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="5671" start="20261027071500 +0000" stop="20261027080000 +0000">
+		<title>Brahma Mudi Episode 1173</title>
+		<desc>When a mother plans to marry off her three talented daughters into a wealthy family, unexpected twists and surprising events turn their lives upside down, testing love, relationships and destiny.</desc>
 	</programme>
 	<programme channel="5671" start="20261027080000 +0000" stop="20261027083000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Intinti Ramayanam Episode 747</title>
+		<desc>Members of a close-knit family begin to doubt one another when they suddenly face a problem.</desc>
 	</programme>
 	<programme channel="5671" start="20261027083000 +0000" stop="20261027090000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Vaarasuralu Episode 241</title>
+		<desc>Once united, a family is torn apart by ambition, misunderstandings and blame. Years later, a daughter's promise becomes their last hope for healing old wounds and reuniting the family.</desc>
 	</programme>
 	<programme channel="5671" start="20261027090000 +0000" stop="20261027093000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Nindu Manasulu Episode 409</title>
+		<desc>Prerana and Siddharth, both scarred by their pasts, are drawn together by fate. Can their love help them reclaim who they truly are?</desc>
 	</programme>
-	<programme channel="5671" start="20261027093000 +0000" stop="20261027101500 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="5671" start="20261027093000 +0000" stop="20261027100000 +0000">
+		<title>Podarillu Episode 245</title>
+		<desc>Maha, hoping to escape her ill fate, becomes the daughter-in-law of a family haunted by a troubled past. As she struggles to restore their hope, her own dreams are put to the ultimate test.</desc>
 	</programme>
-	<programme channel="5671" start="20261027101500 +0000" stop="20261027110000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="5671" start="20261027100000 +0000" stop="20261027103000 +0000">
+		<title>Gunde Ninda Gudigantalu Episode 807</title>
+		<desc>Swetha, a temple flower seller, and Raghu, a cab driver, fall in love. Despite life's challenges and their different backgrounds, they fight to keep their relationship strong.</desc>
 	</programme>
-	<programme channel="5671" start="20261027110000 +0000" stop="20261027113000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="5671" start="20261027103000 +0000" stop="20261027110000 +0000">
+		<title>Ye Devi Varamo Neevu Episode 77</title>
+		<desc>Abandoned as a child, Anjali grows up longing for love, hoping life will eventually lead her back to her lost parents and the happiness she dreamed of.</desc>
 	</programme>
-	<programme channel="5671" start="20261027113000 +0000" stop="20261027120000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="5671" start="20261027110000 +0000" stop="20261027120000 +0000">
+		<title>Bigg Boss S10 Episode 51</title>
+		<desc>Bigg Boss Season 10 opens its doors to ordinary citizens alongside famous celebrities, creating intense friction, unpredictable alliances, and raw dynamic drama inside the house.</desc>
 	</programme>
 	<programme channel="5671" start="20261027120000 +0000" stop="20261027123000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Bigg Boss S10 - Unseen Extra Cuts Episode 36</title>
+		<desc>Uncut moments, candid housemate banter, and raw behind-the-scenes drama reveal all the hidden conflicts missed during the main daily telecasts.</desc>
 	</programme>
 	<programme channel="5671" start="20261027123000 +0000" stop="20261027130000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Godavari Episode 149</title>
+		<desc>Sreeram, an idealist heartbroken after losing his love, embarks on a Godavari cruise to move on. There, he meets Seetha, and an unexpected journey changes his life forever.</desc>
 	</programme>
 	<programme channel="5671" start="20261027130000 +0000" stop="20261027133000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Nuvvu Leka Nenu Lenu Episode 261</title>
+		<desc>Radha Krishna and Krishna Veni argue a lot. Their fathers are friends and business partners who would like the couple to marry each other.</desc>
 	</programme>
 	<programme channel="5671" start="20261027133000 +0000" stop="20261027140000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Illu Illalu Pillalu Episode 616</title>
+		<desc>Subbayya, a middle-class man, works hard to give his children a better life. But when he dreams of owning a house, he discovers the true nature of his family and relationships.</desc>
 	</programme>
 	<programme channel="5671" start="20261027140000 +0000" stop="20261027143000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Podarillu Episode 246</title>
+		<desc>Maha, hoping to escape her ill fate, becomes the daughter-in-law of a family haunted by a troubled past. As she struggles to restore their hope, her own dreams are put to the ultimate test.</desc>
 	</programme>
 	<programme channel="5671" start="20261027143000 +0000" stop="20261027150000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Karthika Deepam-Nava Vasantham Episode 815</title>
+		<desc>Deepa, a dark-skinned woman, faces discrimination from her fair-skinned sister. After marrying Dr. Karthik, she battles societal prejudice and family pressures to build a happy life.</desc>
 	</programme>
 	<programme channel="5671" start="20261027150000 +0000" stop="20261027153000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Ye Devi Varamo Neevu Episode 101</title>
+		<desc>Abandoned as a child, Anjali grows up longing for love, hoping life will eventually lead her back to her lost parents and the happiness she dreamed of.</desc>
 	</programme>
-	<programme channel="5671" start="20261027153000 +0000" stop="20261027180000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="5671" start="20261027153000 +0000" stop="20261027160000 +0000">
+		<title>Gunde Ninda Gudigantalu Episode 808</title>
+		<desc>Swetha, a temple flower seller, and Raghu, a cab driver, fall in love. Despite life's challenges and their different backgrounds, they fight to keep their relationship strong.</desc>
 	</programme>
-	<programme channel="5671" start="20261027180000 +0000" stop="20261027183000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="5671" start="20261027160000 +0000" stop="20261027170000 +0000">
+		<title>Bigg Boss S10 Episode 45</title>
+		<desc>Bigg Boss Season 10 opens its doors to ordinary citizens alongside famous celebrities, creating intense friction, unpredictable alliances, and raw dynamic drama inside the house.</desc>
 	</programme>
-	<programme channel="5671" start="20261027183000 +0000" stop="20261027203000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="5671" start="20261027170000 +0000" stop="20261027173000 +0000">
+		<title>Bigg Boss S10 - Unseen Extra Cuts Episode 37</title>
+		<desc>Uncut moments, candid housemate banter, and raw behind-the-scenes drama reveal all the hidden conflicts missed during the main daily telecasts.</desc>
 	</programme>
-	<programme channel="5671" start="20261027203000 +0000" stop="20261027223000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="5671" start="20261027173000 +0000" stop="20261027200000 +0000">
+		<title>The Family Star</title>
+		<desc>The highs and lows of family relationships in a Indian middle-class family. The life of Govardhan, who wants to achieve greatness in life but has to navigate through a myriad of relationship/trust/ego issues.</desc>
+	</programme>
+	<programme channel="5671" start="20261027200000 +0000" stop="20261027223000 +0000">
+		<title>Malli Malli Idi Raani Roju</title>
+		<desc>An unfortunate incident separates a state-level athlete from his lover, who then moves to Malaysia. Years later, she returns to India but certain misunderstandings threaten to keep them apart. Release Year: 2015 Director: Kranthi Madhav Awards: filmfare Awards - Critics Best ActreSS - Telugu - Nitya Menon</desc>
 	</programme>
 	<programme channel="5671" start="20261027223000 +0000" stop="20261028003000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Simha</title>
+		<desc>Srimannarayana, a college professor who cannot tolerate injustice, meets Janaki when he saves her from goons. Soon his grandmother makes some revelations that take him back to his village. Release Year: 2010 Director: Boyapati Srinu Awards: Best Actor: Balakrishna, Best Comedian Female: Jhansi, Best Music Director: Chakri Nandi Awards; Best Actor: Balakrishna CineMAA Awards; Best Actor: Balakrishna, Best Singer Female, Best Director Santosham Film Awards</desc>
 	</programme>
 	<programme channel="5671" start="20261028003000 +0000" stop="20261028010000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Fun Time</title>
+		<desc>Tune into a compilation of comedy clips from the recently released Tollywood movies.</desc>
 	</programme>
 	<programme channel="5671" start="20261028010000 +0000" stop="20261028013000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Fun Time Episode 2</title>
+		<desc>Tune into a compilation of comedy clips from the recently released Tollywood movies.</desc>
 	</programme>
 	<programme channel="5671" start="20261028013000 +0000" stop="20261028020000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Radha Krishna Episode 175</title>
+		<desc>Radha and Krishna's love transcends eras, emotions, epitomizing eternal love.</desc>
 	</programme>
 	<programme channel="5671" start="20261028020000 +0000" stop="20261028023000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Radha Krishna Episode 176</title>
+		<desc>Radha and Krishna's love transcends eras, emotions, epitomizing eternal love.</desc>
 	</programme>
 	<programme channel="5671" start="20261028023000 +0000" stop="20261028030000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Illu Illalu Pillalu Episode 590</title>
+		<desc>Subbayya, a middle-class man, works hard to give his children a better life. But when he dreams of owning a house, he discovers the true nature of his family and relationships.</desc>
 	</programme>
 	<programme channel="5671" start="20261028030000 +0000" stop="20261028033000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Karthika Deepam-Nava Vasantham Episode 789</title>
+		<desc>Deepa, a dark-skinned woman, faces discrimination from her fair-skinned sister. After marrying Dr. Karthik, she battles societal prejudice and family pressures to build a happy life.</desc>
 	</programme>
 	<programme channel="5671" start="20261028033000 +0000" stop="20261028063000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Lucky Bhaskar</title>
+		<desc>A struggling bank teller takes a chance on a shady investment scheme, but as his fortunes rise, his growing ego drives him toward increasingly reckless risks.</desc>
 	</programme>
-	<programme channel="5671" start="20261028063000 +0000" stop="20261028070000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="5671" start="20261028063000 +0000" stop="20261028071500 +0000">
+		<title>Paape Maa Jeevanajyothi Episode 1708</title>
+		<desc>Struggling to be accepted by her husband's family, Jyothi finds peace with her daughter Jeevana's birth. But soon that peace is threatened thanks to a kidnap.</desc>
 	</programme>
-	<programme channel="5671" start="20261028070000 +0000" stop="20261028073000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
-	</programme>
-	<programme channel="5671" start="20261028073000 +0000" stop="20261028080000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="5671" start="20261028071500 +0000" stop="20261028080000 +0000">
+		<title>Brahma Mudi Episode 1174</title>
+		<desc>When a mother plans to marry off her three talented daughters into a wealthy family, unexpected twists and surprising events turn their lives upside down, testing love, relationships and destiny.</desc>
 	</programme>
 	<programme channel="5671" start="20261028080000 +0000" stop="20261028083000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Intinti Ramayanam Episode 748</title>
+		<desc>Members of a close-knit family begin to doubt one another when they suddenly face a problem.</desc>
 	</programme>
 	<programme channel="5671" start="20261028083000 +0000" stop="20261028090000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Vaarasuralu Episode 242</title>
+		<desc>Once united, a family is torn apart by ambition, misunderstandings and blame. Years later, a daughter's promise becomes their last hope for healing old wounds and reuniting the family.</desc>
 	</programme>
 	<programme channel="5671" start="20261028090000 +0000" stop="20261028093000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Nindu Manasulu Episode 410</title>
+		<desc>Prerana and Siddharth, both scarred by their pasts, are drawn together by fate. Can their love help them reclaim who they truly are?</desc>
 	</programme>
-	<programme channel="5671" start="20261028093000 +0000" stop="20261028101500 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="5671" start="20261028093000 +0000" stop="20261028100000 +0000">
+		<title>Podarillu Episode 246</title>
+		<desc>Maha, hoping to escape her ill fate, becomes the daughter-in-law of a family haunted by a troubled past. As she struggles to restore their hope, her own dreams are put to the ultimate test.</desc>
 	</programme>
-	<programme channel="5671" start="20261028101500 +0000" stop="20261028110000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="5671" start="20261028100000 +0000" stop="20261028103000 +0000">
+		<title>Gunde Ninda Gudigantalu Episode 808</title>
+		<desc>Swetha, a temple flower seller, and Raghu, a cab driver, fall in love. Despite life's challenges and their different backgrounds, they fight to keep their relationship strong.</desc>
 	</programme>
-	<programme channel="5671" start="20261028110000 +0000" stop="20261028113000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="5671" start="20261028103000 +0000" stop="20261028110000 +0000">
+		<title>Ye Devi Varamo Neevu Episode 78</title>
+		<desc>Abandoned as a child, Anjali grows up longing for love, hoping life will eventually lead her back to her lost parents and the happiness she dreamed of.</desc>
 	</programme>
-	<programme channel="5671" start="20261028113000 +0000" stop="20261028120000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="5671" start="20261028110000 +0000" stop="20261028120000 +0000">
+		<title>Bigg Boss S10 Episode 52</title>
+		<desc>Bigg Boss Season 10 opens its doors to ordinary citizens alongside famous celebrities, creating intense friction, unpredictable alliances, and raw dynamic drama inside the house.</desc>
 	</programme>
 	<programme channel="5671" start="20261028120000 +0000" stop="20261028123000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Bigg Boss S10 - Unseen Extra Cuts Episode 37</title>
+		<desc>Uncut moments, candid housemate banter, and raw behind-the-scenes drama reveal all the hidden conflicts missed during the main daily telecasts.</desc>
 	</programme>
 	<programme channel="5671" start="20261028123000 +0000" stop="20261028130000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Godavari Episode 150</title>
+		<desc>Sreeram, an idealist heartbroken after losing his love, embarks on a Godavari cruise to move on. There, he meets Seetha, and an unexpected journey changes his life forever.</desc>
 	</programme>
 	<programme channel="5671" start="20261028130000 +0000" stop="20261028133000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Nuvvu Leka Nenu Lenu Episode 262</title>
+		<desc>Radha Krishna and Krishna Veni argue a lot. Their fathers are friends and business partners who would like the couple to marry each other.</desc>
 	</programme>
 	<programme channel="5671" start="20261028133000 +0000" stop="20261028140000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Illu Illalu Pillalu Episode 617</title>
+		<desc>Subbayya, a middle-class man, works hard to give his children a better life. But when he dreams of owning a house, he discovers the true nature of his family and relationships.</desc>
 	</programme>
 	<programme channel="5671" start="20261028140000 +0000" stop="20261028143000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Podarillu Episode 247</title>
+		<desc>Maha, hoping to escape her ill fate, becomes the daughter-in-law of a family haunted by a troubled past. As she struggles to restore their hope, her own dreams are put to the ultimate test.</desc>
 	</programme>
 	<programme channel="5671" start="20261028143000 +0000" stop="20261028150000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Karthika Deepam-Nava Vasantham Episode 816</title>
+		<desc>Deepa, a dark-skinned woman, faces discrimination from her fair-skinned sister. After marrying Dr. Karthik, she battles societal prejudice and family pressures to build a happy life.</desc>
 	</programme>
 	<programme channel="5671" start="20261028150000 +0000" stop="20261028153000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Ye Devi Varamo Neevu Episode 102</title>
+		<desc>Abandoned as a child, Anjali grows up longing for love, hoping life will eventually lead her back to her lost parents and the happiness she dreamed of.</desc>
 	</programme>
-	<programme channel="5671" start="20261028153000 +0000" stop="20261028180000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="5671" start="20261028153000 +0000" stop="20261028160000 +0000">
+		<title>Gunde Ninda Gudigantalu Episode 809</title>
+		<desc>Swetha, a temple flower seller, and Raghu, a cab driver, fall in love. Despite life's challenges and their different backgrounds, they fight to keep their relationship strong.</desc>
 	</programme>
-	<programme channel="5671" start="20261028180000 +0000" stop="20261028183000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="5671" start="20261028160000 +0000" stop="20261028170000 +0000">
+		<title>Bigg Boss S10 Episode 46</title>
+		<desc>Bigg Boss Season 10 opens its doors to ordinary citizens alongside famous celebrities, creating intense friction, unpredictable alliances, and raw dynamic drama inside the house.</desc>
 	</programme>
-	<programme channel="5671" start="20261028183000 +0000" stop="20261028203000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="5671" start="20261028170000 +0000" stop="20261028173000 +0000">
+		<title>Bigg Boss S10 - Unseen Extra Cuts Episode 38</title>
+		<desc>Uncut moments, candid housemate banter, and raw behind-the-scenes drama reveal all the hidden conflicts missed during the main daily telecasts.</desc>
 	</programme>
-	<programme channel="5671" start="20261028203000 +0000" stop="20261028223000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="5671" start="20261028173000 +0000" stop="20261028200000 +0000">
+		<title>Lucky Bhaskar</title>
+		<desc>A struggling bank teller takes a chance on a shady investment scheme, but as his fortunes rise, his growing ego drives him toward increasingly reckless risks.</desc>
+	</programme>
+	<programme channel="5671" start="20261028200000 +0000" stop="20261028223000 +0000">
+		<title>Saahasam</title>
+		<desc>To earn some quick money through betting, Ravi, a jobless youngster, crosses path with Bittu, a criminal, by foiling his bank heist. Since then, Ravi has to use his wits to escape the wrath of Bittu. Release Year: 2013 Director: Chandra Sekhar Yeleti</desc>
 	</programme>
 	<programme channel="5671" start="20261028223000 +0000" stop="20261029003000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Kalpana</title>
+		<desc>Mangalmukhi, a transgender, often feels like an outsider and is murdered. Raghava retells her story, becoming the vessel for Kalpana's unrealized dreams. Release Year: 1977 Director: K. Raghavendra Rao</desc>
 	</programme>
 	<programme channel="5671" start="20261029003000 +0000" stop="20261029010000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Fun Time Episode 2</title>
+		<desc>Tune into a compilation of comedy clips from the recently released Tollywood movies.</desc>
 	</programme>
 	<programme channel="5671" start="20261029010000 +0000" stop="20261029013000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Fun Time Episode 3</title>
+		<desc>Tune into a compilation of comedy clips from the recently released Tollywood movies.</desc>
 	</programme>
 	<programme channel="5671" start="20261029013000 +0000" stop="20261029020000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Radha Krishna Episode 177</title>
+		<desc>Radha and Krishna's love transcends eras, emotions, epitomizing eternal love.</desc>
 	</programme>
 	<programme channel="5671" start="20261029020000 +0000" stop="20261029023000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Radha Krishna Episode 178</title>
+		<desc>Radha and Krishna's love transcends eras, emotions, epitomizing eternal love.</desc>
 	</programme>
 	<programme channel="5671" start="20261029023000 +0000" stop="20261029030000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Illu Illalu Pillalu Episode 591</title>
+		<desc>Subbayya, a middle-class man, works hard to give his children a better life. But when he dreams of owning a house, he discovers the true nature of his family and relationships.</desc>
 	</programme>
 	<programme channel="5671" start="20261029030000 +0000" stop="20261029033000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Karthika Deepam-Nava Vasantham Episode 790</title>
+		<desc>Deepa, a dark-skinned woman, faces discrimination from her fair-skinned sister. After marrying Dr. Karthik, she battles societal prejudice and family pressures to build a happy life.</desc>
 	</programme>
 	<programme channel="5671" start="20261029033000 +0000" stop="20261029063000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Love Today Episode 8</title>
+		<desc>A couple deeply in love faces an unusual test when the girl's father asks them to exchange phones. As hidden secrets come to light, their relationship is put through unexpected challenges.</desc>
 	</programme>
-	<programme channel="5671" start="20261029063000 +0000" stop="20261029070000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="5671" start="20261029063000 +0000" stop="20261029071500 +0000">
+		<title>Paape Maa Jeevanajyothi Episode 1709</title>
+		<desc>Struggling to be accepted by her husband's family, Jyothi finds peace with her daughter Jeevana's birth. But soon that peace is threatened thanks to a kidnap.</desc>
 	</programme>
-	<programme channel="5671" start="20261029070000 +0000" stop="20261029073000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
-	</programme>
-	<programme channel="5671" start="20261029073000 +0000" stop="20261029080000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="5671" start="20261029071500 +0000" stop="20261029080000 +0000">
+		<title>Brahma Mudi Episode 1175</title>
+		<desc>When a mother plans to marry off her three talented daughters into a wealthy family, unexpected twists and surprising events turn their lives upside down, testing love, relationships and destiny.</desc>
 	</programme>
 	<programme channel="5671" start="20261029080000 +0000" stop="20261029083000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Intinti Ramayanam Episode 749</title>
+		<desc>Members of a close-knit family begin to doubt one another when they suddenly face a problem.</desc>
 	</programme>
 	<programme channel="5671" start="20261029083000 +0000" stop="20261029090000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Vaarasuralu Episode 243</title>
+		<desc>Once united, a family is torn apart by ambition, misunderstandings and blame. Years later, a daughter's promise becomes their last hope for healing old wounds and reuniting the family.</desc>
 	</programme>
 	<programme channel="5671" start="20261029090000 +0000" stop="20261029093000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Nindu Manasulu Episode 411</title>
+		<desc>Prerana and Siddharth, both scarred by their pasts, are drawn together by fate. Can their love help them reclaim who they truly are?</desc>
 	</programme>
-	<programme channel="5671" start="20261029093000 +0000" stop="20261029101500 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="5671" start="20261029093000 +0000" stop="20261029100000 +0000">
+		<title>Podarillu Episode 247</title>
+		<desc>Maha, hoping to escape her ill fate, becomes the daughter-in-law of a family haunted by a troubled past. As she struggles to restore their hope, her own dreams are put to the ultimate test.</desc>
 	</programme>
-	<programme channel="5671" start="20261029101500 +0000" stop="20261029110000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="5671" start="20261029100000 +0000" stop="20261029103000 +0000">
+		<title>Gunde Ninda Gudigantalu Episode 809</title>
+		<desc>Swetha, a temple flower seller, and Raghu, a cab driver, fall in love. Despite life's challenges and their different backgrounds, they fight to keep their relationship strong.</desc>
 	</programme>
-	<programme channel="5671" start="20261029110000 +0000" stop="20261029113000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="5671" start="20261029103000 +0000" stop="20261029110000 +0000">
+		<title>Ye Devi Varamo Neevu Episode 79</title>
+		<desc>Abandoned as a child, Anjali grows up longing for love, hoping life will eventually lead her back to her lost parents and the happiness she dreamed of.</desc>
 	</programme>
-	<programme channel="5671" start="20261029113000 +0000" stop="20261029120000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+	<programme channel="5671" start="20261029110000 +0000" stop="20261029120000 +0000">
+		<title>Bigg Boss S10 Episode 53</title>
+		<desc>Bigg Boss Season 10 opens its doors to ordinary citizens alongside famous celebrities, creating intense friction, unpredictable alliances, and raw dynamic drama inside the house.</desc>
 	</programme>
 	<programme channel="5671" start="20261029120000 +0000" stop="20261029123000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Bigg Boss S10 - Unseen Extra Cuts Episode 38</title>
+		<desc>Uncut moments, candid housemate banter, and raw behind-the-scenes drama reveal all the hidden conflicts missed during the main daily telecasts.</desc>
 	</programme>
 	<programme channel="5671" start="20261029123000 +0000" stop="20261029130000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Godavari Episode 151</title>
+		<desc>Sreeram, an idealist heartbroken after losing his love, embarks on a Godavari cruise to move on. There, he meets Seetha, and an unexpected journey changes his life forever.</desc>
 	</programme>
 	<programme channel="5671" start="20261029130000 +0000" stop="20261029133000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Nuvvu Leka Nenu Lenu Episode 263</title>
+		<desc>Radha Krishna and Krishna Veni argue a lot. Their fathers are friends and business partners who would like the couple to marry each other.</desc>
 	</programme>
 	<programme channel="5671" start="20261029133000 +0000" stop="20261029140000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Illu Illalu Pillalu Episode 618</title>
+		<desc>Subbayya, a middle-class man, works hard to give his children a better life. But when he dreams of owning a house, he discovers the true nature of his family and relationships.</desc>
 	</programme>
 	<programme channel="5671" start="20261029140000 +0000" stop="20261029143000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Podarillu Episode 248</title>
+		<desc>Maha, hoping to escape her ill fate, becomes the daughter-in-law of a family haunted by a troubled past. As she struggles to restore their hope, her own dreams are put to the ultimate test.</desc>
 	</programme>
 	<programme channel="5671" start="20261029143000 +0000" stop="20261029150000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Karthika Deepam-Nava Vasantham Episode 817</title>
+		<desc>Deepa, a dark-skinned woman, faces discrimination from her fair-skinned sister. After marrying Dr. Karthik, she battles societal prejudice and family pressures to build a happy life.</desc>
 	</programme>
 	<programme channel="5671" start="20261029150000 +0000" stop="20261029153000 +0000">
-		<title>Movie</title>
-		<desc>Movie</desc>
+		<title>Ye Devi Varamo Neevu Episode 103</title>
+		<desc>Abandoned as a child, Anjali grows up longing for love, hoping life will eventually lead her back to her lost parents and the happiness she dreamed of.</desc>
 	</programme>
 	<programme channel="5676" start="20261022160000 +0000" stop="20261022170000 +0000">
 		<title>INDIA UPFRONT</title>
@@ -106888,7 +106856,7 @@ Nicole換上短髮新形象，與Amber體驗越野冒險。二人來到越野場
 	</programme>
 	<programme channel="5682" start="20261024140000 +0000" stop="20261024143000 +0000">
 		<title>Venue101</title>
-		<desc>Venue101</desc>
+		<desc>This live entertainment show delivers the latest music performances and information, and also connects with the audience making full use of social media.</desc>
 	</programme>
 	<programme channel="5682" start="20261024143000 +0000" stop="20261024160000 +0000">
 		<title>Relaxing Life on Remote Islands "Teuri Island, Hokkaido; Okishima, Shiga; Inujima, Okayama" (R)</title>
@@ -107038,9 +107006,13 @@ Nicole換上短髮新形象，與Amber體驗越野冒險。二人來到越野場
 		<title>News &amp; Weather</title>
 		<desc>The latest up-to-date news and nationwide weather information.</desc>
 	</programme>
-	<programme channel="5682" start="20261025040500 +0000" stop="20261025053500 +0000">
+	<programme channel="5682" start="20261025040500 +0000" stop="20261025053000 +0000">
 		<title>Songs of Japanese Spirit</title>
 		<desc>This music program features beloved Japanese songs — timeless classics that have captured the nation's hearts and continue to be cherished across generations.</desc>
+	</programme>
+	<programme channel="5682" start="20261025053000 +0000" stop="20261025053500 +0000">
+		<title>This World is Filled with Wants 5min.</title>
+		<desc>This World is Filled with Wants 5min.</desc>
 	</programme>
 	<programme channel="5682" start="20261025053500 +0000" stop="20261025060000 +0000">
 		<title>Gretel's Magical Oven (R)</title>
